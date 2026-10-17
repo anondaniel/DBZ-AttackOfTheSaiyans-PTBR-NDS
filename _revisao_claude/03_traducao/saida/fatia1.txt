@@ -1,0 +1,2268 @@
+### 0 [cf/las05_battle_event.sb:9] (x141)
+EN: Krillin
+PT: Kuririn
+### 1 [cf/las05_battle_event.sb:10] (x2)
+EN: <p>Arrgh!<k><p>I can't even hit him, he moves around so much!<k>
+PT: <p>Argh!<k><p>Não consigo nem acertar, ele se mexe demais!<k>
+### 2 [cf/las05_battle_event.sb:12] (x2)
+EN: <p>Do not aim the Spirit Bomb with your eyes. Feel his evil energy with your mind!<k>
+PT: <p>Não mire a Genki Dama com os olhos. Sinta a energia maligna dele com a mente!<k>
+### 3 [cf/las05_battle_event.sb:13] (x2)
+EN: <p>W-who's that?!<k>
+PT: <p>Q-quem é?!<k>
+### 4 [cf/las05_battle_event.sb:15] (x19)
+EN: King Kai
+PT: Senhor Kaioh
+### 5 [cf/las05_battle_event.sb:16] (x2)
+EN: <p>I am King Kai, the one who taught Goku the ways of the Spirit Bomb.<k><p>Your next move will finish this entire fight.<k><p>The Spirit Bomb you wield contains the hopes of every living thing on this planet!<k>
+PT: <p>Sou o Senhor Kaioh, quem ensinou a Genki Dama ao Goku.<k><p>O seu próximo movimento vai decidir esta luta inteira.<k><p>A Genki Dama que você empunha carrega a esperança de todos os seres vivos deste planeta!<k>
+### 6 [cf/las05_battle_event.sb:17] (x2)
+EN: <p>King Kai...?!<k>
+PT: <p>Senhor Kaioh...?!<k>
+### 7 [cf/las05_battle_event.sb:18] (x2)
+EN: <p>*gulp*<k>
+PT: <p>*glup*<k>
+### 8 [cf/las05_battle_event.sb:19] (x2)
+EN: <p>F-feel the evil energy with my mind...<k>
+PT: <p>S-sentir a energia maligna com a mente...<k>
+### 9 [cf/las05_battle_event.sb:20] (x2)
+EN: <p>A-all right...<k>
+PT: <p>C-certo...<k>
+### 10 [cf/las05_battle_event.sb:22] (x2)
+EN: <p>(Come on! Feel it! Feel his evil aura!)<k>
+PT: <p>(Vamos! Sinta! Sinta a aura maligna dele!)<k>
+### 11 [cf/las05_battle_event.sb:25] (x2)
+EN: <p>Haaahh hah hah hah! You watching this, Kakarot?!<k><p>Your pathetic son's life ends here!<k>
+PT: <p>Haaahh rá rá rá! Está vendo isto, Kakarotto?!<k><p>A vida do seu filho patético acaba aqui!<k>
+### 12 [cf/las05_battle_event.sb:26] (x2)
+EN: <p>!!<k><p>I GOT HIM!!!<k>
+PT: <p>!!<k><p>PEGUEI ELE!!!<k>
+### 13 [cf/las05_battle_event.sb:27] (x2)
+EN: <p>TAKE THIS!!!!<k>
+PT: <p>TOMA ISSO!!!!<k>
+### 14 [cf/las05_battle_event.sb:31] (x2)
+EN: <p>Deflect it, Gohan! It's on our side!<k><p>You've got a pure heart, Gohan! You can bounce it off your body!<k>
+PT: <p>Rebata, Gohan! Ela está do nosso lado!<k><p>Você tem um coração puro, Gohan! Dá pra fazer ela ricochetear no seu corpo!<k>
+### 15 [cf/world_01.sb:7] (x2)
+EN: King Yemma's Mansion
+PT: Palácio do Senhor Enma
+### 16 [cf/world_01.sb:9] (x1)
+EN: Snake Way
+PT: Estrada da Serpente
+### 17 [cf/world_01.sb:13] (x1)
+EN: Princess' Mansion
+PT: Mansão da Princesa
+### 18 [cf/world_01.sb:15] (x2)
+EN: King Kai's Planet
+PT: Planeta do Senhor Kaioh
+### 19 [cf/worldmap.sb:8] (x2)
+EN: Kame House
+PT: Casa do Kame
+### 20 [cf/worldmap.sb:11] (x2)
+EN: Training Island
+PT: Ilha de Treinamento
+### 21 [cf/worldmap.sb:14] (x2)
+EN: Baba's Palace
+PT: Palácio da Vovó Uranai
+### 22 [cf/worldmap.sb:17] (x2)
+EN: East City
+PT: Cidade do Leste
+### 23 [cf/worldmap.sb:21] (x1)
+EN: Bump Forest
+PT: Floresta de Bambu
+### 24 [cf/worldmap.sb:23] (x2)
+EN: West City
+PT: Cidade do Oeste
+### 25 [cf/worldmap.sb:25] (x2)
+EN: Martial Arts Temple
+PT: Templo das Artes Marciais
+### 26 [cf/worldmap.sb:28] (x2)
+EN: Spinach Wastes
+PT: Ermo do Espinafre
+### 27 [cf/worldmap.sb:31] (x2)
+EN: Break Wasteland
+PT: Deserto Break
+### 28 [cf/worldmap.sb:33] (x1)
+EN: East Mt. Paozu
+PT: Leste da Montanha Paozu
+### 29 [cf/worldmap.sb:36] (x2)
+EN: Sacred Land of Korin
+PT: Terra Sagrada de Karin
+### 30 [cf/worldmap.sb:39] (x2)
+EN: Divine Crossing
+PT: Travessia Divina
+### 31 [cf/worldmap.sb:41] (x2)
+EN: Mt. Paozu
+PT: Montanha Paozu
+### 32 [cf/worldmap.sb:43] (x1)
+EN: Mt. Frappe
+PT: Monte Frappe
+### 33 [cf/worldmap.sb:46] (x2)
+EN: Desert
+PT: Deserto
+### 34 [cf/worldmap.sb:49] (x1)
+EN: Devil's Toilet
+PT: Vaso do Diabo
+### 35 [cf/worldmap.sb:52] (x1)
+EN: Yunzabit Heights
+PT: Planalto Yunzabit
+### 36 [cf/worldmap.sb:54] (x2)
+EN: Muscle Tower
+PT: Torre Muscle
+### 37 [cf/worldmap.sb:59] (x2)
+EN: Pirate Cave
+PT: Caverna dos Piratas
+### 38 [cf/worldmap.sb:60] (x2)
+EN: Jingle Village
+PT: Vila Jingle
+### 39 [cf/worldmap.sb:63] (x2)
+EN: Mutaito's Grounds
+PT: Campo do Mutaito
+### 40 [cf/worldmap.sb:65] (x2)
+EN: Holly Plain
+PT: Planície Holly
+### 41 [cf/worldmap.sb:67] (x2)
+EN: Hermit Spring
+PT: Fonte do Eremita
+### 42 [cf/worldmap.sb:69] (x1)
+EN: Ox-King's Castle
+PT: Castelo do Cutelo
+### 43 [cf/worldmap.sb:72] (x1)
+EN: Mount Five Element
+PT: Montanha dos Cinco Elementos
+### 44 [cf/worldmap.sb:75] (x2)
+EN: Kiwi Volcano
+PT: Vulcão Kiwi
+### 45 [cf/worldmap.sb:77] (x2)
+EN: Paprika Wasteland
+PT: Ermo Páprica
+### 46 [cf/worldmap.sb:79] (x1)
+EN: Gizard Wasteland
+PT: Ermo Gizard
+### 47 [cf/worldmap.sb:81] (x1)
+EN: Pilaf's Castle
+PT: Castelo do Pilaf
+### 48 [cf0/bam/bam01_00.sb:13] (x1)
+EN: <p>I can't let anyone past this point. It's too dangerous.<k>
+PT: <p>Não posso deixar ninguém passar daqui. É perigoso demais.<k>
+### 49 [cf0/bam/bam01_00.sb:14] (x1)
+EN: <p>Dangerrrrr<n>You can't go throoough<k>
+PT: <p>Perigooooso<n>Não pode passaaar<k>
+### 50 [cf0/bam/bam02_00.sb:9] (x8)
+EN: Master
+PT: Mestre
+### 51 [cf0/bam/bam02_00.sb:10] (x5)
+EN: <p>The attacker went into the bamboo forest... Please don't get hurt in there...<k>
+PT: <p>O agressor entrou no bambuzal... Por favor, não se machuquem lá dentro...<k>
+### 52 [cf0/bam/bam02_00.sb:11] (x84)
+EN: Master Roshi
+PT: Mestre Kame
+### 53 [cf0/bam/bam02_00.sb:14] (x5)
+EN: <p>Thanks a bunch!<k>
+PT: <p>Muito obrigado!<k>
+### 54 [cf0/bam/bam02_00.sb:15] (x5)
+EN: <p>Whoa... that hurt...<k>
+PT: <p>Ai... isso doeu...<k>
+### 55 [cf0/bam/bam02_00.sb:16] (x5)
+EN: <p>Great work, Krillin!<k>
+PT: <p>Mandou bem, Kuririn!<k>
+### 56 [cf0/bam/bam02_00.sb:17] (x5)
+EN: <p>The look is deceiving... it got me good...<k>
+PT: <p>As aparências enganam... ele me pegou de jeito...<k>
+### 57 [cf0/bam/bam02_00.sb:18] (x5)
+EN: <p>Man, you sure have gotten stronger.<k>
+PT: <p>Nossa, você ficou mesmo mais forte.<k>
+### 58 [cf0/bam/bam02_00.sb:19] (x5)
+EN: <p>Ugh... what's going on here...?<k>
+PT: <p>Argh... o que está acontecendo...?<k>
+### 59 [cf0/bam/bam02_00.sb:20] (x5)
+EN: <p>She was so beautiful! It's not fair!<k>
+PT: <p>Ela era tão linda! Não é justo!<k>
+### 60 [cf0/bam/bam02_00.sb:21] (x5)
+EN: <p>I didn't have a chance...<k>
+PT: <p>Eu não tive chance...<k>
+### 61 [cf0/bam/bam02_00.sb:22] (x5)
+EN: <p>The Orin Temple was under attack... but I heard the attacker got defeated.<k>
+PT: <p>O Templo Orin foi atacado... mas ouvi dizer que o agressor foi derrotado.<k>
+### 62 [cf0/bam/bam02_00.sb:23] (x5)
+EN: <p>I saw someone go to Orin Temple. Someone with hair. Maybe something's happening there.<k>
+PT: <p>Vi alguém indo para o Templo Orin. Alguém com cabelo. Talvez esteja acontecendo alguma coisa lá.<k>
+### 63 [cf0/bam/bam02_00.sb:24] (x5)
+EN: <p>Hey, you don't have any hair? Poor guy...<k>
+PT: <p>Ei, você não tem cabelo? Coitado...<k>
+### 64 [cf0/bam/bam02_00.sb:25] (x5)
+EN: <p>Wow, look at all that hair you got! There's no way you'll ever get strong with that!<k>
+PT: <p>Nossa, quanto cabelo! Assim você nunca vai ficar forte!<k>
+### 65 [cf0/bam/bam02_00.sb:26] (x5)
+EN: <p>Hey, why don't you have any hair? You from the temple or something?<k>
+PT: <p>Ei, por que você não tem cabelo? É do templo, por acaso?<k>
+### 66 [cf0/bam/bam02_00.sb:27] (x5)
+EN: <p>I'm glad to hear Orin Temple is safe and sound.<k>
+PT: <p>Que bom saber que o Templo Orin está são e salvo.<k>
+### 67 [cf0/bam/bam02_00.sb:28] (x5)
+EN: <p>I wonder what happened at Orin Temple. There's been a tremendous commotion from there all day.<k>
+PT: <p>O que será que aconteceu no Templo Orin? Teve uma confusão enorme lá o dia todo.<k>
+### 68 [cf0/bam/bam02_00.sb:29] (x5)
+EN: <p>It sounds like the temple was under attack!<k>
+PT: <p>Parece que o templo foi atacado!<k>
+### 69 [cf0/bam/bam02_00.sb:30] (x5)
+EN: <p>I heard shouting over toward the temple. What happened over there?<k>
+PT: <p>Ouvi gritos lá pros lados do templo. O que aconteceu lá?<k>
+### 70 [cf0/ben/ben02_00.sb:20] (x1)
+EN: <p>Blue designs are drawn on the ground. There is no response.<k>
+PT: <p>Há desenhos azuis no chão. Nada acontece.<k>
+### 71 [cf0/ben/ben02_00.sb:21] (x1)
+EN: <p>Red designs are drawn on the ground at your feet. There is no response.<k>
+PT: <p>Há desenhos vermelhos no chão, aos seus pés. Nada acontece.<k>
+### 72 [cf0/ben/ben07_00.sb:24] (x26)
+EN: <p>Hey, it's me! How're you guys doing? Hope you're hanging in there!<k><p>Listen, I think Mr. Popo wants to have a word with all of you.<k><p>Go pay him a visit when you can, okay? See you later!<k>
+PT: <p>Oi, sou eu! Como vocês estão? Espero que estejam aguentando firme!<k><p>Escutem, acho que o Sr. Popo quer dar uma palavrinha com vocês.<k><p>Façam uma visita a ele quando puderem, tá? Até mais!<k>
+### 73 [cf0/ben/ben07_00.sb:27] (x26)
+EN: <p>Mr. Popo? Now what could he want?<k><p>Ah, well, guess I'll go drop in on him.<k>
+PT: <p>O Sr. Popo? O que será que ele quer?<k><p>Ah, bom, acho que vou dar uma passada lá.<k>
+### 74 [cf0/ben/ben07_00.sb:29] (x26)
+EN: All Dragon Balls collected!
+PT: Todas as Esferas do Dragão reunidas!
+### 75 [cf0/bud/bud01_00.sb:7] (x4)
+EN: <p>Attention, all participants in the World Tournament.<k><p>The preliminary matches will begin in a moment. Please report to the fighting arena.<k>
+PT: <p>Atenção, todos os participantes do Torneio de Artes Marciais.<k><p>As eliminatórias vão começar em instantes. Por favor, dirijam-se à arena.<k>
+### 76 [cf0/bud/bud01_00.sb:10] (x4)
+EN: <p>Well, guess we're starting.<k>
+PT: <p>Bom, parece que vai começar.<k>
+### 77 [cf0/bud/bud01_00.sb:11] (x4)
+EN: <p>I'll see you later, okay?<k>
+PT: <p>A gente se vê depois, tá?<k>
+### 78 [cf0/bud/bud01_00.sb:14] (x4)
+EN: <p>Certainly. Make me proud!<k>
+PT: <p>Claro. Deixem-me orgulhoso!<k>
+### 79 [cf0/bud/bud01_00.sb:15] (x4)
+EN: <p>Did you bring my usual uniform?<k>
+PT: <p>O senhor trouxe o meu uniforme de sempre?<k>
+### 80 [cf0/bud/bud01_00.sb:16] (x4)
+EN: <p>Oh, don't be silly.<k><p>You've all proceeded far along your own paths by now.<k><p>There's no need for you to keep wearing the Turtle School uniform for the rest of your lives.<k>
+PT: <p>Ora, não seja bobo.<k><p>Cada um de vocês já avançou muito no próprio caminho.<k><p>Não precisam usar o uniforme da Escola Tartaruga pelo resto da vida.<k>
+### 81 [cf0/bud/bud01_00.sb:18] (x24)
+EN: Launch
+PT: Lunch
+### 82 [cf0/bud/bud01_00.sb:19] (x4)
+EN: <p>Good luck, everybody!<k>
+PT: <p>Boa sorte, pessoal!<k>
+### 83 [cf0/bud/bud01_00.sb:22] (x4)
+EN: <p>I can't believe it! I guess Goku's more popular with the ladies than I thought.<k>
+PT: <p>Não acredito! Acho que o Goku faz mais sucesso com as mulheres do que eu pensava.<k>
+### 84 [cf0/bud/bud01_00.sb:25] (x4)
+EN: <p>Man, that lady's a total flirt!<k>
+PT: <p>Nossa, que moça mais atirada!<k>
+### 85 [cf0/bud/bud01_00.sb:28] (x4)
+EN: <p>Give it all you got, Yamcha!<k>
+PT: <p>Dê tudo de si, Yamcha!<k>
+### 86 [cf0/bud/bud01_00.sb:30] (x24)
+EN: Chiaotzu
+PT: Chaos
+### 87 [cf0/bud/bud01_00.sb:31] (x4)
+EN: <p>I can't wait to get fighting, Tien!<k>
+PT: <p>Mal posso esperar pra lutar, Tenshinhan!<k>
+### 88 [cf0/bud/bud01_00.sb:32] (x6)
+EN: Announcer
+PT: Locutor
+### 89 [cf0/bud/bud01_00.sb:33] (x4)
+EN: <p>All right, is everyone ready to kick off the preliminaries?<k>
+PT: <p>Muito bem, todos prontos para começar as eliminatórias?<k>
+### 90 [cf0/bud/bud01_00.sb:34] (x4)
+EN: <p>All participants, thank you for your patience.<k><p>We are ready to begin the preliminary matches for the 23rd World Tournament.<k>
+PT: <p>Participantes, obrigado pela paciência.<k><p>Estamos prontos para começar as eliminatórias do 23° Torneio de Artes Marciais.<k>
+### 91 [cf0/bud/bud01_00.sb:36] (x4)
+EN: <p>Past here is the main arena.<k>
+PT: <p>Daqui em diante fica a arena principal.<k>
+### 92 [cf0/bud/bud01_00.sb:37] (x4)
+EN: <p>This battle's all mine!<k><p>Ha! Yah! Hai! Yahhh!<k>
+PT: <p>Esta luta é minha!<k><p>Rá! Iá! Hai! Iaaah!<k>
+### 93 [cf0/bud/bud01_00.sb:38] (x4)
+EN: <p>My spirit is willing... There is nothing that can scare me...<k>
+PT: <p>O meu espírito está firme... Não há nada que me assuste...<k>
+### 94 [cf0/bud/bud01_00.sb:39] (x4)
+EN: <p>I'll teach you a thing or two, you snot-nosed kid!<k>
+PT: <p>Vou te dar uma lição, seu moleque ranhento!<k>
+### 95 [cf0/bud/bud01_00.sb:42] (x4)
+EN: <p>Looks like I'm not the only lady in the tournament. Ooh, I can't wait!<k>
+PT: <p>Parece que não sou a única mulher no torneio. Ai, mal posso esperar!<k>
+### 96 [cf0/bud/bud01_00.sb:43] (x4)
+EN: <p>Oh man, oh man, oh man! I'm so nervous!<k>
+PT: <p>Ai, ai, ai! Estou tão nervoso!<k>
+### 97 [cf0/bud/bud01_00.sb:44] (x4)
+EN: <p>This is really exciting. I hope we get some more high-level competition this year.<k>
+PT: <p>Que emocionante. Tomara que este ano tenha mais competidores de alto nível.<k>
+### 98 [cf0/bud/bud01_00.sb:45] (x4)
+EN: <p>We're just about ready to start. Don't forget to warm up. Otherwise you'll get cramps!<k>
+PT: <p>Estamos quase começando. Não se esqueçam de aquecer. Senão dá cãibra!<k>
+### 99 [cf0/bud/bud01_00.sb:46] (x4)
+EN: <p>I heard the story from Tien. I'll be rooting for you here, so good luck, okay?<k>
+PT: <p>O Tenshinhan me contou a história. Vou torcer por você daqui, então boa sorte, tá?<k>
+### 100 [cf0/bud/bud01_00.sb:47] (x4)
+EN: <p>Don't think you've got enough power? Why doncha fight me, then? C'mon, you wanna go?<k>
+PT: <p>Acha que não tem força suficiente? Então por que não luta comigo? Vamos, quer brigar?<k>
+### 101 [cf0/bud/bud01_00.sb:48] (x4)
+EN: <p>Hmm... Piccolo and Kami used to be the same person.<k><p>And so Kami borrowed a human body in order to clean up the mess he's made.<k><p>But now that he's lost, you're the only hope we have. Sorry I can't be more help...<k>
+PT: <p>Hmm... O Piccolo e o Kami-Sama já foram a mesma pessoa.<k><p>Por isso o Kami-Sama pegou emprestado um corpo humano para limpar a bagunça que fez.<k><p>Mas agora que ele perdeu, você é a nossa única esperança. Desculpe não poder ajudar mais...<k>
+### 102 [cf0/bud/bud01_00.sb:51] (x4)
+EN: <p>T-that guy's strength is incredible. Try not to get killed, Goku.<k>
+PT: <p>A-a força daquele cara é incrível. Tente não morrer, Goku.<k>
+### 103 [cf0/bud/bud01_00.sb:53] (x76)
+EN: Tien
+PT: Tenshinhan
+### 104 [cf0/bud/bud01_00.sb:54] (x4)
+EN: <p>We couldn't beat him even if we ganged up on him all at once.<k><p>I guess it's all up to you again, Goku.<k>
+PT: <p>Não conseguiríamos vencê-lo nem se atacássemos todos juntos.<k><p>Acho que está tudo nas suas mãos de novo, Goku.<k>
+### 105 [cf0/bud/bud01_00.sb:57] (x4)
+EN: <p>I never even dreamed that Piccolo would come back to life...<k>
+PT: <p>Nunca nem sonhei que o Piccolo voltaria à vida...<k>
+### 106 [cf0/bud/bud01_00.sb:59] (x45)
+EN: Chi-Chi
+PT: Chichi
+### 107 [cf0/bud/bud01_00.sb:60] (x4)
+EN: <p>G-Goku... Are you going to be all right?<k>
+PT: <p>G-Goku... Você vai ficar bem?<k>
+### 108 [cf0/bud/bud01_00.sb:63] (x4)
+EN: <p>Heh heh heh... Once you're out of the way, I'll take over the world in the blink of an eye.<k><p>Better enjoy life while you've still got it!<k><p>Ha ha ha ha!<k>
+PT: <p>Heh heh heh... Com você fora do caminho, dominarei o mundo num piscar de olhos.<k><p>É melhor aproveitar a vida enquanto ainda a tem!<k><p>Rá rá rá rá!<k>
+### 109 [cf0/bud/bud01_00.sb:64] (x4)
+EN: <p>Are you ready for the final battle?<k>
+PT: <p>Está pronto para a batalha final?<k>
+### 110 [cf0/bud/bud01_00.sb:66] (x4)
+EN: <p>What's your problem? Get started.<k>
+PT: <p>Qual é o seu problema? Comece logo.<k>
+### 111 [cf0/bud/bud01_00.sb:67] (x4)
+EN: <p>Is something wrong? Master Roshi looked pretty concerned...<k>
+PT: <p>Aconteceu alguma coisa? O Mestre Kame parecia bem preocupado...<k>
+### 112 [cf0/bud/bud01_00.sb:68] (x4)
+EN: <p>Was it my imagination, or did some guy just come right out of that fighter?<k>
+PT: <p>Foi impressão minha ou saiu um cara de dentro daquele lutador?<k>
+### 113 [cf0/bud/bud01_00.sb:69] (x4)
+EN: <p>Huh? A guy?<k><p>I don't know... I didn't see anything.<k>
+PT: <p>Hã? Um cara?<k><p>Sei lá... Não vi nada.<k>
+### 114 [cf0/bud/bud01_00.sb:70] (x4)
+EN: <p>Krillin... Maybe he lost, but I'm still his hugest fan!<k>
+PT: <p>Kuririn... Ele pode ter perdido, mas continuo sendo a maior fã dele!<k>
+### 115 [cf0/bud/bud01_00.sb:71] (x4)
+EN: <p>Wow! The circus is a lot of fun!<k>
+PT: <p>Uau! O circo é muito divertido!<k>
+### 116 [cf0/bud/bud01_00.sb:72] (x4)
+EN: <p>Hey! I think I've seen you before! Where, though?<k>
+PT: <p>Ei! Acho que já te vi antes! Mas onde?<k>
+### 117 [cf0/bud/bud01_00.sb:73] (x4)
+EN: <p>Ha hahh! The final battle is here!<k>
+PT: <p>Rá ráh! Chegou a batalha final!<k>
+### 118 [cf0/bud/bud01_00.sb:74] (x4)
+EN: <p>This is great, Dad!<k><p>(What was I doing there...?)<k>
+PT: <p>Que demais, papai!<k><p>(O que eu estava fazendo lá...?)<k>
+### 119 [cf0/bud/bud01_00.sb:75] (x4)
+EN: <p>Wow, what a match! Man, am I excited! You wanna try fighting me?<k>
+PT: <p>Nossa, que luta! Estou empolgadíssimo! Quer tentar lutar comigo?<k>
+### 120 [cf0/bud/bud01_00.sb:76] (x4)
+EN: <p>The World Tournament is so awesome! I'm so glad I came to see it!<k>
+PT: <p>O Torneio de Artes Marciais é demais! Que bom que eu vim ver!<k>
+### 121 [cf0/bud/bud01_00.sb:77] (x4)
+EN: <p>So when're the pretty ladies gonna come out, huh?<k>
+PT: <p>E quando é que as moças bonitas vão aparecer, hein?<k>
+### 122 [cf0/bud/bud01_00.sb:78] (x4)
+EN: <p>Oh, you... Just be patient, okay? They'll be here soon enough.<k>
+PT: <p>Ai, você... Tenha paciência, tá? Elas já vão chegar.<k>
+### 123 [cf0/bud/bud01_00.sb:79] (x4)
+EN: <p>If you haven't had enough fighting yet, I'd be happy to take you on.<k>
+PT: <p>Se ainda não lutou o bastante, terei prazer em te enfrentar.<k>
+### 124 [cf0/bud/bud01_00.sb:80] (x4)
+EN: <p>What? You lookin' for a fight?<k>
+PT: <p>O quê? Tá procurando briga?<k>
+### 125 [cf0/bud/bud01_00.sb:97] (x1)
+EN: <p>The world's sure been awfully strange lately... What on earth's going on?<k>
+PT: <p>O mundo anda muito estranho ultimamente... O que será que está acontecendo?<k>
+### 126 [cf0/bud/bud01_00.sb:98] (x1)
+EN: <p>The next tournament isn't for a while yet. Why are there all these people around?<k>
+PT: <p>O próximo torneio ainda vai demorar. Por que tem tanta gente por aqui?<k>
+### 127 [cf0/bud/bud01_00.sb:99] (x1)
+EN: <p>So many suspicious people around these days... I try to stay alert, but I'm so worried.<k>
+PT: <p>Tanta gente suspeita por aí hoje em dia... Tento ficar atenta, mas estou tão preocupada.<k>
+### 128 [cf0/bud/bud01_00.sb:100] (x1)
+EN: <p>I saw the news on East City. Sure ain't no time to be wrapped up in the tournament, huh?<k>
+PT: <p>Vi a notícia da Cidade do Leste. Não é hora de ficar pensando em torneio, né?<k>
+### 129 [cf0/bud/bud01_00.sb:101] (x1)
+EN: <p>This place is starting to become a popular tourist spot, a mecca for any would-be fighter.<k>
+PT: <p>Este lugar está virando ponto turístico, a meca de todo aspirante a lutador.<k>
+### 130 [cf0/bud/bud01_00.sb:102] (x1)
+EN: <p>What kind of fighters are we gonna see this year? It's so exciting!<k>
+PT: <p>Que tipo de lutadores vamos ver este ano? Que emoção!<k>
+### 131 [cf0/bud/bud01_00.sb:103] (x1)
+EN: <p>The sky's bright red over to the east. What's that for?<k>
+PT: <p>O céu está vermelho-vivo lá pro leste. O que será aquilo?<k>
+### 132 [cf0/bud/bud01_00.sb:104] (x1)
+EN: <p>Boy, it sure is hot here. I can hardly stand it.<k>
+PT: <p>Nossa, como faz calor aqui. Mal consigo aguentar.<k>
+### 133 [cf0/bud/bud01_00.sb:105] (x1)
+EN: <p>I wish this could get started already. It's so hot! I hate waiting around!<k>
+PT: <p>Queria que começasse logo. Que calor! Odeio ficar esperando!<k>
+### 134 [cf0/bud/bud01_00.sb:106] (x1)
+EN: <p>The world needs excitement! It needs sexiness! Come on, lay it all out!<k><p>All right, all right! If that's what you want, here you go! You happy now?!<k>
+PT: <p>O mundo precisa de emoção! Precisa de sensualidade! Vamos, mostra tudo!<k><p>Tá bom, tá bom! Se é isso que você quer, toma! Satisfeito agora?!<k>
+### 135 [cf0/bud/bud01_00.sb:107] (x1)
+EN: <p>Hey! Where's Ranfan?! I hope they've got someone sexy for me next match!<k><p>Ugh! You're horrible! I've just about had enough of you!<k>
+PT: <p>Ei! Cadê a Ranfan?! Tomara que tenha alguém sensual na próxima luta!<k><p>Argh! Você é horrível! Já estou farta de você!<k>
+### 136 [cf0/bud/bud01_00.sb:108] (x1)
+EN: <p>Ranfan's my girl! Her sexy attacks are the best! I wish she'd hit me with one!<k><p>You are such an idiot! She beat you in a flash in the last tournament! You make me sick!<k>
+PT: <p>A Ranfan é a minha musa! Os ataques sensuais dela são os melhores! Queria levar um!<k><p>Você é um idiota! Ela te venceu num instante no último torneio! Você me dá nojo!<k>
+### 137 [cf0/bud/bud01_00.sb:109] (x1)
+EN: <p>The world's in trouble, but don't worry, I'll protect you! ...How did that sound? Good?<k>
+PT: <p>O mundo está em perigo, mas não se preocupe, eu te protejo! ...Que tal? Ficou bom?<k>
+### 138 [cf0/bud/bud01_00.sb:110] (x1)
+EN: <p>Hey, that girl standing over there's pretty cute... Maybe I should try talking to her.<k>
+PT: <p>Ei, aquela garota ali é bem bonitinha... Talvez eu devesse puxar papo com ela.<k>
+### 139 [cf0/bud/bud01_00.sb:111] (x1)
+EN: <p>I'm so bored... guess my dad's still flirting with the girls.<k>
+PT: <p>Que tédio... o meu pai ainda deve estar paquerando as moças.<k>
+### 140 [cf0/bud/bud01_00.sb:112] (x1)
+EN: <p>Go watch the TV news to find out about East City! Quit asking me about it, people!<k>
+PT: <p>Vejam o noticiário na TV pra saber da Cidade do Leste! Parem de me perguntar isso, gente!<k>
+### 141 [cf0/bud/bud01_00.sb:113] (x1)
+EN: <p>The next World Martial Arts Tournament is so far away! There's no point waiting here!<k>
+PT: <p>O próximo Torneio de Artes Marciais ainda está tão longe! Não adianta esperar aqui!<k>
+### 142 [cf0/bud/bud01_00.sb:114] (x1)
+EN: <p>All tournament participants, please proceed to the fighting arena!<k>
+PT: <p>Todos os participantes do torneio, dirijam-se à arena!<k>
+### 143 [cf0/bud/bud01_00.sb:115] (x1)
+EN: <p>I better start training, too!<k>
+PT: <p>É melhor eu começar a treinar também!<k>
+### 144 [cf0/bud/bud01_00.sb:116] (x1)
+EN: <p>I'm gonna get stronger, too!<k>
+PT: <p>Eu também vou ficar mais forte!<k>
+### 145 [cf0/bud/bud01_00.sb:117] (x1)
+EN: <p>When are the matches gonna get started?<k>
+PT: <p>Quando é que as lutas vão começar?<k>
+### 146 [cf0/bud/bud01_00.sb:118] (x1)
+EN: <p>There's no point accumulating AP. You gotta use it, you know?<k>
+PT: <p>Não adianta ficar juntando AP. Tem que usar, sabia?<k>
+### 147 [cf0/bud/bud01_00.sb:119] (x1)
+EN: <p>Use the Sewer Key?<k>
+PT: <p>Usar a Chave do Esgoto?<k>
+### 148 [cf0/bud/bud01_00.sb:120] (x1)
+EN: <p>The manhole is open!<k>
+PT: <p>O bueiro está aberto!<k>
+### 149 [cf0/bud/bud01_00.sb:121] (x5)
+EN: <p>It's locked tight.<k>
+PT: <p>Está bem trancado.<k>
+### 150 [cf0/bud/bud01_00.sb:122] (x1)
+EN: <p>The tournament fighter list has been carelessly left out on the front desk.<k>
+PT: <p>A lista de lutadores do torneio foi largada de qualquer jeito na recepção.<k>
+### 151 [cf0/bud/bud02_00.sb:101] (x1)
+EN: <p>I can't sleep at night! I'm always thinking about Krillin. Is this love...?<k>
+PT: <p>Não consigo dormir à noite! Só penso no Kuririn. Será que isso é amor...?<k>
+### 152 [cf0/bud/bud02_00.sb:102] (x1)
+EN: <p>Ugh, isn't that Krillin guy here yet?! You know, the shiny-headed dude!<k>
+PT: <p>Argh, aquele tal de Kuririn ainda não chegou?! Sabe, o carinha da cabeça brilhante!<k>
+### 153 [cf0/bud/bud02_00.sb:103] (x1)
+EN: <p>I'm a huge fan of that Krillin guy! That shiny head of his is outta sight!<k>
+PT: <p>Sou superfã daquele Kuririn! Aquela cabeça brilhante dele é demais!<k>
+### 154 [cf0/bud/bud02_00.sb:104] (x1)
+EN: <p>Wait...this isn't a circus at all, is it? Am I being tricked here?<k>
+PT: <p>Espera... isto não é circo coisa nenhuma, é? Estão me enganando?<k>
+### 155 [cf0/bud/bud02_00.sb:105] (x1)
+EN: <p>Wow, the circus is awesome! They got people shooting beams and everything!<k>
+PT: <p>Uau, o circo é incrível! Tem gente soltando raios e tudo!<k>
+### 156 [cf0/bud/bud02_00.sb:106] (x1)
+EN: <p>I wish the circus would start already!<k>
+PT: <p>Queria que o circo começasse logo!<k>
+### 157 [cf0/bud/bud02_00.sb:107] (x1)
+EN: <p>Man, how many years have I been here by now...?<k>
+PT: <p>Nossa, há quantos anos eu estou aqui...?<k>
+### 158 [cf0/bud/bud02_00.sb:108] (x1)
+EN: <p>Mmm, this ice cream is so good! I like this more than the tournament!<k>
+PT: <p>Hum, este sorvete é muito bom! Gosto mais dele que do torneio!<k>
+### 159 [cf0/bud/bud02_00.sb:109] (x1)
+EN: <p>I'm sick of waiting! I wanna eat some ice cream!<k>
+PT: <p>Cansei de esperar! Quero tomar sorvete!<k>
+### 160 [cf0/bud/bud02_00.sb:110] (x1)
+EN: <p>Woo-hoo! There was an incredible fireworks display over in East City!<k>
+PT: <p>Uhuu! Teve uma queima de fogos incrível lá na Cidade do Leste!<k>
+### 161 [cf0/bud/bud02_00.sb:111] (x1)
+EN: <p>Woo-hoo! I think I'm just gonna live here from now on!<k>
+PT: <p>Uhuu! Acho que vou morar aqui de agora em diante!<k>
+### 162 [cf0/bud/bud02_00.sb:112] (x1)
+EN: <p>Woo-hoo! This must be the arena!<k>
+PT: <p>Uhuu! Esta deve ser a arena!<k>
+### 163 [cf0/bud/bud02_00.sb:113] (x1)
+EN: <p>I've never been flirted with so much before. Is this what love is about?<k>
+PT: <p>Nunca me paqueraram tanto. É assim que é o amor?<k>
+### 164 [cf0/bud/bud02_00.sb:114] (x1)
+EN: <p>Well... I guess I wouldn't mind having a drink, anyway.<k>
+PT: <p>Bom... acho que um drinque eu até aceitaria.<k>
+### 165 [cf0/bud/bud02_00.sb:115] (x1)
+EN: <p>Being beautiful is tough. I'm never allowed a moment to myself!<k>
+PT: <p>Ser bonita é difícil. Nunca tenho um momento só pra mim!<k>
+### 166 [cf0/bud/bud02_00.sb:116] (x1)
+EN: <p>Wow, you sure are pretty. Would you like to be my lover?<k>
+PT: <p>Nossa, como você é bonita. Quer ser minha namorada?<k>
+### 167 [cf0/bud/bud02_00.sb:117] (x1)
+EN: <p>Wow, you sure are pretty. Would you like to be my daughter?<k>
+PT: <p>Nossa, como você é bonita. Quer ser minha filha?<k>
+### 168 [cf0/bud/bud02_00.sb:118] (x1)
+EN: <p>Wow, you sure are pretty. Would you like to be my wife?<k>
+PT: <p>Nossa, como você é bonita. Quer ser minha esposa?<k>
+### 169 [cf0/bud/bud02_00.sb:119] (x1)
+EN: <p>Did you hear?! East City is just crazy right now! Boy, I wish I could go there!<k>
+PT: <p>Ficou sabendo?! A Cidade do Leste está uma loucura agora! Queria poder ir lá!<k>
+### 170 [cf0/bud/bud02_00.sb:120] (x1)
+EN: <p>Ugh... so bored. I just feel so run down unless I'm watching martial arts.<k>
+PT: <p>Argh... que tédio. Fico desanimado se não estiver vendo artes marciais.<k>
+### 171 [cf0/bud/bud02_00.sb:121] (x1)
+EN: <p>Man, my blood is boiling! You wanna try taking a punch from me?<k>
+PT: <p>Nossa, o meu sangue está fervendo! Quer tentar aguentar um soco meu?<k>
+### 172 [cf0/bud/bud02_00.sb:122] (x1)
+EN: <p>When's the next match gonna start, huh? I'm starting to get bored...<k>
+PT: <p>Quando começa a próxima luta, hein? Estou começando a ficar entediado...<k>
+### 173 [cf0/bud/bud02_00.sb:123] (x1)
+EN: <p>This tournament is so awesome! There's no way I'd survive in it, but!<k>
+PT: <p>Este torneio é demais! Eu não sobreviveria nele, mas mesmo assim!<k>
+### 174 [cf0/bud/bud02_00.sb:124] (x1)
+EN: <p>Just imagine, all the great matches that must've been fought here...<k>
+PT: <p>Imagine só quantas grandes lutas já aconteceram aqui...<k>
+### 175 [cf0/bud/bud02_00.sb:125] (x1)
+EN: <p>No response. He may or may not be dead by this point.<k>
+PT: <p>Nenhuma resposta. Pode ser que ele já esteja morto, pode ser que não.<k>
+### 176 [cf0/bud/bud02_00.sb:126] (x1)
+EN: <p>Zzz... zzz... Huh?!<k>
+PT: <p>Zzz... zzz... Hã?!<k>
+### 177 [cf0/bud/bud02_00.sb:127] (x1)
+EN: <p>I'm just hiding for a little bit. Don't tell my wife, okay?<k>
+PT: <p>Só estou me escondendo um pouquinho. Não conte pra minha esposa, tá?<k>
+### 178 [cf0/bud/bud02_00.sb:128] (x1)
+EN: <p>It's been years since I've last seen my husband. Maybe it's time I went to the police...<k>
+PT: <p>Faz anos que não vejo o meu marido. Talvez seja hora de ir à polícia...<k>
+### 179 [cf0/bud/bud02_00.sb:129] (x1)
+EN: <p>I can't find my husband... and now I'm starting to get sleepy.<k>
+PT: <p>Não acho o meu marido... e agora estou ficando com sono.<k>
+### 180 [cf0/bud/bud02_00.sb:130] (x1)
+EN: <p>Now where did that husband of mine go...?<k>
+PT: <p>Onde foi que aquele meu marido se meteu...?<k>
+### 181 [cf0/bud/bud02_00.sb:131] (x1)
+EN: <p>Exit ahead.<k>
+PT: <p>Saída logo adiante.<k>
+### 182 [cf0/bud/bud02_00.sb:132] (x1)
+EN: <p>You can go outside from here.<k><p>Huh? You knew that? Well, I didn't ask you!<k>
+PT: <p>Por aqui dá pra sair.<k><p>Hã? Você já sabia? Bom, eu não perguntei!<k>
+### 183 [cf0/bud/bud02_00.sb:133] (x1)
+EN: <p>This is the exit. If you want inside, go back and take the entrance to the right.<k>
+PT: <p>Esta é a saída. Se quiser entrar, volte e use a entrada da direita.<k>
+### 184 [cf0/bud/bud02_00.sb:134] (x1)
+EN: <p>Barkity barkity bark!<k>
+PT: <p>Au au au au!<k>
+### 185 [cf0/bud/bud02_00.sb:135] (x1)
+EN: <p>Woof! Woofity woof!<k>
+PT: <p>Au! Auau au!<k>
+### 186 [cf0/bud/bud02_00.sb:137] (x1)
+EN: <p>Look, whadaya want from me?! I don't have anything interesting to say, okay?!<k><p>......<k><p>Arf! Arf arf! Arf arf barf barf... ahh, I messed up!<k>
+PT: <p>Olha, o que você quer de mim?! Não tenho nada interessante pra dizer, tá?!<k><p>......<k><p>Arf! Arf arf! Arf arf barf barf... ai, errei!<k>
+### 187 [cf0/bud/bud02_00.sb:138] (x1)
+EN: <p>It's a dead end, you know.<k>
+PT: <p>É um beco sem saída, sabia?<k>
+### 188 [cf0/bud/bud02_00.sb:139] (x1)
+EN: <p>This is a dead end, okay?!<k>
+PT: <p>Aqui é um beco sem saída, tá?!<k>
+### 189 [cf0/bud/bud02_00.sb:140] (x1)
+EN: <p>Arena ahead<n>Authorized personnel only<k>
+PT: <p>Arena à frente<n>Somente pessoal autorizado<k>
+### 190 [cf0/bud/bud03_00.sb:9] (x1)
+EN: <p>The crate has <d>Those who strive for nothing but strength shall pay for it later<d> written on it.<k>
+PT: <p>Na caixa está escrito: <d>Quem busca apenas a força há de pagar por isso mais tarde<d>.<k>
+### 191 [cf0/bud/bud03_01.sb:9] (x1)
+EN: <p>I'm going to sleep! I'm sick of all this!<k>
+PT: <p>Vou dormir! Cansei de tudo isso!<k>
+### 192 [cf0/bud/bud03_01.sb:10] (x1)
+EN: <p>Gahh, I'm hungry!<k>
+PT: <p>Argh, que fome!<k>
+### 193 [cf0/bud/bud03_01.sb:11] (x1)
+EN: <p>Times sure are tough around here. They could at least leave some food for me.<k>
+PT: <p>Os tempos andam difíceis por aqui. Podiam pelo menos deixar um pouco de comida pra mim.<k>
+### 194 [cf0/bud/bud03_01.sb:12] (x1)
+EN: <p>...Meow!<k>
+PT: <p>...Miau!<k>
+### 195 [cf0/bud/bud03_01.sb:13] (x1)
+EN: <p>Meow meow.<k>
+PT: <p>Miau miau.<k>
+### 196 [cf0/bud/bud03_01.sb:14] (x1)
+EN: <p>Something's written on the corner of the box: <d>Do not feed the cat.<d><k>
+PT: <p>Há algo escrito no canto da caixa: <d>Não alimente o gato.<d><k>
+### 197 [cf0/bud/bud04_00.sb:84] (x1)
+EN: <p>I heard that bad things are going down in East City. Sounds like they need medical help.<k>
+PT: <p>Ouvi dizer que as coisas estão feias na Cidade do Leste. Parece que precisam de ajuda médica.<k>
+### 198 [cf0/bud/bud04_00.sb:85] (x1)
+EN: <p>We're off-season right now. There's no work, and I'm bored. You hurt or anything, perhaps?<k>
+PT: <p>Estamos fora de temporada. Não tem trabalho, e estou entediado. Você está ferido, por acaso?<k>
+### 199 [cf0/bud/bud04_00.sb:86] (x1)
+EN: <p>This is the medical office. Don't do anything dumb and make me work overtime, okay?<k>
+PT: <p>Esta é a enfermaria. Não faça nenhuma besteira que me obrigue a fazer hora extra, tá?<k>
+### 200 [cf0/bud/bud04_00.sb:87] (x1)
+EN: <p>Complicated medical documents are laid out on the desk...<k><p>Oh, wait. On second glance, it's just a bunch of half-read manga.<k>
+PT: <p>Há documentos médicos complicados espalhados na mesa...<k><p>Ah, não. Olhando melhor, é só uma pilha de mangás lidos pela metade.<k>
+### 201 [cf0/bud/bud04_00.sb:88] (x1)
+EN: <p>There's a memo on the shelf...<k><p><d>Raise Recovery, and you'll earn more HP at every turn, letting you use fewer recovery items.<d><k>
+PT: <p>Há um bilhete na prateleira...<k><p><d>Aumente a Cura e você ganhará mais HP a cada turno, gastando menos itens de cura.<d><k>
+### 202 [cf0/bud/bud05_00.sb:97] (x1)
+EN: <p>What sort of fighters can I hope to expect at the next tournament?<k>
+PT: <p>Que tipo de lutadores posso esperar no próximo torneio?<k>
+### 203 [cf0/bud/bud05_00.sb:98] (x1)
+EN: <p>Oh, crud, I drew King Chapa in the prelims... I should just give up now.<k>
+PT: <p>Droga, caí contra o Rei Chapa nas eliminatórias... Melhor desistir logo.<k>
+### 204 [cf0/bud/bud05_00.sb:99] (x1)
+EN: <p>What point is there to being strong if the entire city's gone?<k>
+PT: <p>De que adianta ser forte se a cidade inteira sumiu?<k>
+### 205 [cf0/bud/bud05_00.sb:100] (x1)
+EN: <p>I, I can't believe what happened to East City...<k>
+PT: <p>N-não acredito no que aconteceu com a Cidade do Leste...<k>
+### 206 [cf0/bud/bud05_00.sb:101] (x1)
+EN: <p>Krillin! You're incredible! Your name's up on this thing!<k>
+PT: <p>Kuririn! Você é incrível! O seu nome está aqui!<k>
+### 207 [cf0/bud/bud05_00.sb:102] (x1)
+EN: <p>Wow! These are the brackets for the World Tournament, huh?<k>
+PT: <p>Uau! Então esta é a tabela de chaves do Torneio de Artes Marciais, é?<k>
+### 208 [cf0/bud/bud05_00.sb:103] (x1)
+EN: <p>Orin Temple, the place we all trained, just gone... I still can't believe it.<k>
+PT: <p>O Templo Orin, onde todos nós treinamos, sumiu... Ainda não acredito.<k>
+### 209 [cf0/bud/bud05_00.sb:104] (x1)
+EN: <p>What a shock... our temple, and our homeland, gone.<k>
+PT: <p>Que choque... o nosso templo e a nossa terra natal, destruídos.<k>
+### 210 [cf0/bud/bud05_00.sb:105] (x1)
+EN: <p>You've really gone far... We gotta step up our own game, too.<k>
+PT: <p>Você foi longe mesmo... Nós também temos que melhorar.<k>
+### 211 [cf0/bud/bud05_00.sb:106] (x1)
+EN: <p>Whoa! Krillin's name is up there! Man, he's sure gotten strong...<k>
+PT: <p>Uau! O nome do Kuririn está ali! Nossa, como ele ficou forte...<k>
+### 212 [cf0/bud/bud05_00.sb:107] (x1)
+EN: <p>Krillin! I beg you to train me! I want to be stronger!<k>
+PT: <p>Kuririn! Eu imploro, me treine! Quero ficar mais forte!<k>
+### 213 [cf0/bud/bud05_00.sb:108] (x1)
+EN: <p>Dang! I gotta get stronger! And we gotta rebuild our temple!<k>
+PT: <p>Droga! Tenho que ficar mais forte! E temos que reconstruir o nosso templo!<k>
+### 214 [cf0/bud/bud05_00.sb:109] (x1)
+EN: <p>How did you get so strong, anyway? That turtle hermit must be something else.<k>
+PT: <p>Como você ficou tão forte, afinal? Aquele eremita tartaruga deve ser demais.<k>
+### 215 [cf0/bud/bud05_00.sb:110] (x1)
+EN: <p>I need to keep training! I'll show all of 'em!<k>
+PT: <p>Preciso continuar treinando! Vou mostrar pra todos eles!<k>
+### 216 [cf0/bud/bud05_00.sb:111] (x1)
+EN: <p>We happened to be here at the time, so we're safe... but I fear for those who weren't.<k>
+PT: <p>Por acaso estávamos aqui na hora, então estamos a salvo... mas temo pelos que não estavam.<k>
+### 217 [cf0/bud/bud05_00.sb:112] (x1)
+EN: <p>East City, home to our Orin Temple, is apparently gone... I have no words for it.<k>
+PT: <p>A Cidade do Leste, onde fica o nosso Templo Orin, parece que foi destruída... Não tenho palavras.<k>
+### 218 [cf0/bud/bud05_00.sb:113] (x1)
+EN: <p>Krillin! Hey, it's been a while! You doing well?<k><p>We all came here to train at the center of the martial-arts world.<k>
+PT: <p>Kuririn! Ei, quanto tempo! Está tudo bem?<k><p>Viemos todos treinar aqui, no centro do mundo das artes marciais.<k>
+### 219 [cf0/bud/bud05_00.sb:114] (x1)
+EN: <p>We all came here from Orin Temple. This is practically the home of martial arts, after all.<k>
+PT: <p>Viemos todos do Templo Orin. Afinal, este lugar é praticamente o lar das artes marciais.<k>
+### 220 [cf0/bud/bud05_00.sb:115] (x1)
+EN: <p>Krillin! Where are we supposed to go? We have no home to return to!<k>
+PT: <p>Kuririn! Pra onde a gente vai? Não temos mais casa pra voltar!<k>
+### 221 [cf0/bud/bud05_00.sb:116] (x1)
+EN: <p>*snif* Our temple!<k>
+PT: <p>*snif* O nosso templo!<k>
+### 222 [cf0/bud/bud05_00.sb:117] (x1)
+EN: <p>Wow, that sure is bright... Bald folks shouldn't stand near people trying to sleep, y'know.<k>
+PT: <p>Nossa, que claridade... Carecas não deviam ficar perto de quem está tentando dormir, sabia?<k>
+### 223 [cf0/bud/bud05_00.sb:118] (x1)
+EN: <p>Sure is peaceful and quiet... I feel like I could almost fall asleep right here.<k>
+PT: <p>Que paz e sossego... Sinto que quase poderia dormir aqui mesmo.<k>
+### 224 [cf0/bud/bud05_00.sb:119] (x1)
+EN: <p>This is the match schedule for the tournament, packed with the names of the powerful and wise.<k>
+PT: <p>Esta é a tabela de lutas do torneio, cheia de nomes de gente poderosa e sábia.<k>
+### 225 [cf0/enm/enm01_00.sb:13] (x1)
+EN: <p>Do you want... to return to Earth?<k>
+PT: <p>Você quer... voltar para a Terra?<k>
+### 226 [cf0/enm/enm02_00.sb:7] (x9)
+EN: King Yemma
+PT: Senhor Enma
+### 227 [cf0/enm/enm02_00.sb:8] (x6)
+EN: <p>I've called someone to guide you to Snake Way. The exit is right behind me.<k>
+PT: <p>Chamei alguém para guiá-lo até a Estrada da Serpente. A saída fica logo atrás de mim.<k>
+### 228 [cf0/enm/enm02_00.sb:9] (x6)
+EN: <p>Just don't fall off Snake Way, all right? I can't help you if you do.<k>
+PT: <p>Só não caia da Estrada da Serpente, entendeu? Se cair, não posso ajudar.<k>
+### 229 [cf0/enm/enm02_00.sb:10] (x6)
+EN: <p>W-where did you come from?<k>
+PT: <p>D-de onde você saiu?<k>
+### 230 [cf0/enm/enm02_00.sb:11] (x6)
+EN: <p>Mmm? You're still here?<k><p>King Kai's on the other end of Snake Way.<k>
+PT: <p>Hum? Você ainda está aqui?<k><p>O Senhor Kaioh fica do outro lado da Estrada da Serpente.<k>
+### 231 [cf0/enm/enm02_00.sb:15] (x6)
+EN: <p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>
+PT: <p>A floresta está sendo devastada!<k><p>Você tem que salvar a floresta do mal! Não vá se perder na floresta das dúvidas, hein? Rá<k>
+### 232 [cf0/enm/enm02_00.sb:16] (x6)
+EN: <p>Bubbles can run so fast, you couldn't even hope to catch him!<k><p>It's enough to make you go ape, huh? Hah!<k>
+PT: <p>O Bubbles corre tão rápido que você nem sonha em pegá-lo!<k><p>É de deixar qualquer um com cara de macaco, né? Rá!<k>
+### 233 [cf0/enm/enm02_00.sb:19] (x6)
+EN: <p>You idiot!<k>
+PT: <p>Seu idiota!<k>
+### 234 [cf0/enm/enm02_00.sb:21] (x6)
+EN: <p>Ready for a sumo match?<k>
+PT: <p>Pronto para uma luta de sumô?<k>
+### 235 [cf0/enm/enm02_00.sb:23] (x6)
+EN: <p>Mez is really fast! He's the best runner in hell!<k>
+PT: <p>O Mez é muito rápido! Ele é o melhor corredor do Inferno!<k>
+### 236 [cf0/enm/enm02_00.sb:26] (x6)
+EN: <p>Don't come back here again!<k>
+PT: <p>Não volte mais aqui!<k>
+### 237 [cf0/enm/enm02_00.sb:27] (x7)
+EN: <p>You ready?<k>
+PT: <p>Está pronto?<k>
+### 238 [cf0/enm/enm02_00.sb:29] (x6)
+EN: <p>Goz is the top sumo wrestler in Hell!<n>There's no way you could beat him!<k>
+PT: <p>O Goz é o maior lutador de sumô do Inferno!<n>Não tem como você ganhar dele!<k>
+### 239 [cf0/enm/enm02_00.sb:39] (x1)
+EN: <p>You must be something special if you withstood King Kai's training...<k>
+PT: <p>Você deve ser especial para ter aguentado o treino do Senhor Kaioh...<k>
+### 240 [cf0/enm/enm02_00.sb:40] (x1)
+EN: <p>You're here from Earth, too? Try not to cause too much trouble, you hear?<k>
+PT: <p>Você também veio da Terra? Tente não causar muitos problemas, ouviu?<k>
+### 241 [cf0/enm/enm02_00.sb:41] (x1)
+EN: <p>Saiyans, eh...? Yet more trouble aimed squarely at us, it would appear...<k>
+PT: <p>Saiyajins, é...? Pelo visto, mais problemas mirando direto em nós...<k>
+### 242 [cf0/enm/enm02_00.sb:42] (x1)
+EN: <p>A giant door looms ahead. It is far too heavy to budge.<k>
+PT: <p>Uma porta gigante se ergue adiante. É pesada demais para mover.<k>
+### 243 [cf0/enm/enm02_00.sb:43] (x2)
+EN: <p>The door is shut tightly.<k>
+PT: <p>A porta está bem fechada.<k>
+### 244 [cf0/est/est01_00.sb:35] (x1)
+EN: <p>What should we have for dinner tonight...? I know! Let's go chop-socky Chinese!<k><p>Let's do... what? I'm just gonna pretend I didn't hear that...<k>
+PT: <p>O que vamos jantar hoje...? Já sei! Vamos no chinês do kung fu!<k><p>Vamos... o quê? Vou fingir que não ouvi isso...<k>
+### 245 [cf0/est/est01_00.sb:36] (x1)
+EN: <p>Ohhh, there's just so much to choose from! I don't know what to do!<k>
+PT: <p>Ai, tem tanta coisa pra escolher! Não sei o que fazer!<k>
+### 246 [cf0/est/est01_00.sb:37] (x1)
+EN: <p>You can see a temple over there, right?<k><p>Well, guess what...?<w=30> That's a temple.<k>
+PT: <p>Dá pra ver um templo ali, né?<k><p>Pois adivinha...?<w=30> Aquilo é um templo.<k>
+### 247 [cf0/est/est01_00.sb:38] (x1)
+EN: <p>Great store! Pretty girls! You come and see, you!<k>
+PT: <p>Loja boa! Moça bonita! Vem ver, vem!<k>
+### 248 [cf0/est/est01_00.sb:39] (x1)
+EN: <p>The shop is filled with busy people going about their work.<k>
+PT: <p>A loja está cheia de gente ocupada trabalhando.<k>
+### 249 [cf0/est/est01_00.sb:40] (x1)
+EN: <p>Huge, steaming meat buns are lined up in front of the shop.<k>
+PT: <p>Pãezinhos de carne enormes e fumegantes estão enfileirados na frente da loja.<k>
+### 250 [cf0/est/est02_00.sb:39] (x1)
+EN: <p>What? You wanna play with me?<k>
+PT: <p>O quê? Quer brincar comigo?<k>
+### 251 [cf0/est/est02_00.sb:40] (x1)
+EN: <p>Hmm... what's up with that shop? It's huge... what could they be selling?<k>
+PT: <p>Hmm... o que é aquela loja? É enorme... o que será que vendem?<k>
+### 252 [cf0/est/est02_00.sb:41] (x1)
+EN: <p>There is a construction zone beyond here. Really. That's it. Not hiding anything.<k>
+PT: <p>Mais adiante há uma área em obras. Sério. É só isso. Não estamos escondendo nada.<k>
+### 253 [cf0/est/est02_00.sb:42] (x1)
+EN: <p>Go up that stairway to reach Orin Temple.<k><p>If you like the skinhead look, then welcome to paradise!<k>
+PT: <p>Suba aquela escadaria para chegar ao Templo Orin.<k><p>Se você curte cabeça raspada, bem-vindo ao paraíso!<k>
+### 254 [cf0/est/est02_00.sb:43] (x1)
+EN: <p>I'm telling the truth! I saw a ghost in the bamboo thicket beyond Orin Temple!<k><p>Oh, quit lying to me! You're just trying to scare me again!<k>
+PT: <p>É verdade! Eu vi um fantasma no bambuzal depois do Templo Orin!<k><p>Ah, para de mentir! Você só quer me assustar de novo!<k>
+### 255 [cf0/est/est02_00.sb:44] (x1)
+EN: <p>Hmm... radishes are cheap today. Guess I could make a pot roast tonight.<k>
+PT: <p>Hmm... o rabanete está barato hoje. Acho que dá pra fazer um cozido hoje à noite.<k>
+### 256 [cf0/est/est02_00.sb:45] (x1)
+EN: <p>Hey, d'you know what <d>skills<d> are? It really helps if you know them, apparently!<k><p>They raise your HP, speed you up, unlock new moves, and maybe make you smarter, too!<k>
+PT: <p>Ei, sabe o que são <d>técnicas<d>? Dizem que ajuda muito conhecer!<k><p>Elas aumentam o HP, deixam você mais rápido, liberam golpes novos e talvez até te deixem mais esperto!<k>
+### 257 [cf0/est/est02_00.sb:46] (x1)
+EN: <p>Bark! Bark! Trees have bark!<k>
+PT: <p>Au! Au! Aumenta o som!<k>
+### 258 [cf0/est/est02_00.sb:47] (x1)
+EN: <p><d>Orin Temple Ahead<d><k>
+PT: <p><d>Templo Orin à frente<d><k>
+### 259 [cf0/est/est02_00.sb:50] (x1)
+EN: <p>Ooh, a shop! I think I'll take a quick look inside.<k>
+PT: <p>Opa, uma loja! Acho que vou dar uma olhadinha lá dentro.<k>
+### 260 [cf0/est/est02_00.sb:51] (x1)
+EN: <p>Hang on a sec! I wanna stop by the shop real quick.<k>
+PT: <p>Espera um pouco! Quero dar uma passada rápida na loja.<k>
+### 261 [cf0/est/est03_00.sb:36] (x1)
+EN: <p>Your leg muscles are the key to your training! Work them, and work 'em hard!<k>
+PT: <p>Os músculos das pernas são a chave do treino! Trabalhe eles, e trabalhe pesado!<k>
+### 262 [cf0/est/est03_00.sb:37] (x1)
+EN: <p>What a bright young boy. He says he wants to join Orin Temple when he's old enough.<k>
+PT: <p>Que menino esperto. Ele diz que quer entrar no Templo Orin quando tiver idade.<k>
+### 263 [cf0/est/est03_00.sb:38] (x1)
+EN: <p>What a stupid weirdo, running around all day like that. This is why I hate boys!<k>
+PT: <p>Que esquisito mais bobo, correndo o dia todo desse jeito. É por isso que eu odeio meninos!<k>
+### 264 [cf0/est/est03_00.sb:39] (x1)
+EN: <p>Training! Training! Gaahhh!<k>
+PT: <p>Treinar! Treinar! Aaaah!<k>
+### 265 [cf0/est/est03_00.sb:40] (x1)
+EN: <p>You know what? Apparently there are these tandem moves called Sparking Combos!<k><p>Combine the right moves together, and you'll spark one of them! Cool, huh?<k>
+PT: <p>Sabia? Parece que existem uns golpes em dupla chamados Sparking Combos!<k><p>Combine os golpes certos e você dispara um deles! Legal, né?<k>
+### 266 [cf0/est/est03_00.sb:41] (x1)
+EN: <p>Speed boost, on!!<k><p>Meow meow meow meow meow!!<k>
+PT: <p>Turbo de velocidade, ligado!!<k><p>Miau miau miau miau miau!!<k>
+### 267 [cf0/est/est03_00.sb:42] (x1)
+EN: <p>Judging by the smell, there is a bathroom inside.<k>
+PT: <p>Pelo cheiro, tem um banheiro aí dentro.<k>
+### 268 [cf0/est/est03_00.sb:43] (x1)
+EN: <p>The door is closed. No one seems to be around.<k>
+PT: <p>A porta está fechada. Não parece haver ninguém.<k>
+### 269 [cf0/est/est04_00.sb:32] (x1)
+EN: <p>Hey! Prillin! Wow, Prillin, it's you!<k><p>Huh...? You're not? Well, you sure look like him...<k>
+PT: <p>Ei! Pririn! Uau, Pririn, é você!<k><p>Hã...? Não é? Bom, você é a cara dele...<k>
+### 270 [cf0/est/est04_00.sb:33] (x1)
+EN: <p>This is the famous Orin Temple. No one with hair is allowed to join us!<k>
+PT: <p>Este é o famoso Templo Orin. Ninguém com cabelo pode entrar!<k>
+### 271 [cf0/est/est04_00.sb:34] (x1)
+EN: <p>Krillin! Hey, have you gotten a girlfriend yet? Got anyone you could introduce me to?<k>
+PT: <p>Kuririn! Ei, já arrumou namorada? Tem alguém pra me apresentar?<k>
+### 272 [cf0/est/est04_00.sb:35] (x1)
+EN: <p>All we do is train every day. I wanna go hang out with the girls in town sometime!<k>
+PT: <p>A gente só treina todo dia. Um dia quero sair com as garotas da cidade!<k>
+### 273 [cf0/est/est04_00.sb:36] (x1)
+EN: <p>Great to see you here! Everyone's training hard to keep from falling behind you.<k>
+PT: <p>Que bom te ver aqui! Todo mundo está treinando pesado pra não ficar atrás de você.<k>
+### 274 [cf0/est/est04_00.sb:37] (x1)
+EN: <p>That's a sturdy body you have there, son. Why don't you try pushing it to the limit?<k>
+PT: <p>Que corpo resistente você tem, filho. Por que não tenta levá-lo ao limite?<k>
+### 275 [cf0/est/est05_00.sb:12] (x1)
+EN: <p>It's not exactly a Chinese delight, the way the city is right now...<k><p>...I apologize! On behalf of both of us, I apologize!<k>
+PT: <p>Do jeito que a cidade está agora, não dá pra dizer que é uma maravilha chinesa...<k><p>...Peço desculpas! Em nome de nós dois, peço desculpas!<k>
+### 276 [cf0/est/est05_00.sb:13] (x1)
+EN: <p>The temple's gone... Everybody's gone...<k>
+PT: <p>O templo sumiu... Todo mundo sumiu...<k>
+### 277 [cf0/est/est05_00.sb:14] (x1)
+EN: <p>What a disaster... Our city's been razed.<k>
+PT: <p>Que desastre... A nossa cidade foi arrasada.<k>
+### 278 [cf0/est/est06_00.sb:10] (x1)
+EN: <p>Terrible, isn't it? Try not to get too close. It's dangerous.<k>
+PT: <p>Terrível, não é? Tente não chegar muito perto. É perigoso.<k>
+### 279 [cf0/est/est06_00.sb:11] (x1)
+EN: <p>The aliens on that ship are the ones behind this carnage... or so they say.<k>
+PT: <p>Os alienígenas daquela nave são os responsáveis por esta carnificina... ou é o que dizem.<k>
+### 280 [cf0/est/est06_00.sb:12] (x1)
+EN: <p>That round thing is apparently an alien spaceship.<k>
+PT: <p>Aquela coisa redonda parece que é uma nave alienígena.<k>
+### 281 [cf0/est/est06_00.sb:13] (x1)
+EN: <p>Our city is gone... It's so sad.<k>
+PT: <p>A nossa cidade sumiu... Que tristeza.<k>
+### 282 [cf0/est/est06_00.sb:14] (x1)
+EN: <p>I don't know what's inside here. Be careful.<k>
+PT: <p>Não sei o que tem aqui dentro. Tome cuidado.<k>
+### 283 [cf0/est/est06_00.sb:15] (x1)
+EN: <p>Oh. You got permission, huh? Well, whatever you do, please be careful.<k>
+PT: <p>Ah. Você tem autorização, é? Bom, faça o que fizer, tome cuidado.<k>
+### 284 [cf0/est/est06_00.sb:16] (x1)
+EN: <p>I can't allow anyone inside without written permission.<k>
+PT: <p>Não posso deixar ninguém entrar sem autorização por escrito.<k>
+### 285 [cf0/est/est06_00.sb:17] (x1)
+EN: <p>Whine...<k>
+PT: <p>Cainnn...<k>
+### 286 [cf0/est/est07_00.sb:13] (x18)
+EN: <p>Yo! Hey, it's me! Long time no see!<k><p>I kinda forgot to tell you about Ki-Blasts, so let me give you the whole story on them.<k><p>If something breakable is flashing orange, you can break it right away...<k><p>But if it's flashing white, your Ki-Blast needs to be level 2. If black, then you'll need level 3!<k>
+PT: <p>E aí! Oi, sou eu! Quanto tempo!<k><p>Acabei esquecendo de explicar as Rajadas de Ki, então deixa eu contar tudo.<k><p>Se algo quebrável piscar em laranja, dá para quebrar na hora...<k><p>Mas se piscar em branco, a sua Rajada de Ki precisa estar no nível 2. Se piscar em preto, no nível 3!<k>
+### 287 [cf0/est/est07_00.sb:14] (x18)
+EN: <p>Your Ki-Blast level goes up as you keep training, after certain events occur.<k><p>Best of luck out there!<k>
+PT: <p>O nível da sua Rajada de Ki sobe conforme você treina, depois de certos acontecimentos.<k><p>Boa sorte aí!<k>
+### 288 [cf0/est/est07_00.sb:15] (x18)
+EN: <p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>
+PT: <p>Sua Rajada de Ki agora está no nível <c=#FF3C3C>2<c>! <n>Agora você destrói objetos que piscam em branco!<k>
+### 289 [cf0/est/est07_00.sb:16] (x18)
+EN: <p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>
+PT: <p>Sua Rajada de Ki agora está no nível <c=#FF3C3C>3<c>! <n>Agora você destrói todos os objetos quebráveis!<k>
+### 290 [cf0/est/est10_00.sb:9] (x1)
+EN: <p>My brother's a top fighter in Orin Temple! Pretty cool, eh?<k>
+PT: <p>O meu irmão é um dos melhores lutadores do Templo Orin! Legal, né?<k>
+### 291 [cf0/est/est10_00.sb:10] (x2)
+EN: <p>The drawer is filled to the brim with bowls.<k>
+PT: <p>A gaveta está lotada de tigelas.<k>
+### 292 [cf0/est/est10_01.sb:9] (x1)
+EN: <p>The path to Orin Temple's collapsed. I hope my brother's okay...<k>
+PT: <p>O caminho para o Templo Orin desabou. Tomara que o meu irmão esteja bem...<k>
+### 293 [cf0/for/for01_00.sb:14] (x5)
+EN: <p>Light streams out of the stump.<k>
+PT: <p>Sai luz do toco.<k>
+### 294 [cf0/for/for01_00.sb:15] (x5)
+EN: <p>The Yemma tree grows and sprouts leaves.<k>
+PT: <p>A Árvore do Enma cresce e brota folhas.<k>
+### 295 [cf0/for/for01_00.sb:16] (x5)
+EN: <p>Use <c=#8BEFD4>Bubbles' thing<c>?<k>
+PT: <p>Usar <c=#8BEFD4>Coisa do Bubbles<c>?<k>
+### 296 [cf0/fur/fur01_00.sb:12] (x18)
+EN: Fortuneteller Baba
+PT: Vovó Uranai
+### 297 [cf0/fur/fur01_00.sb:13] (x8)
+EN: <p>Try going to Mt. Five Element. It's behind Fire Mountain.<k>
+PT: <p>Tentem ir à Montanha dos Cinco Elementos. Fica atrás da Montanha de Fogo.<k>
+### 298 [cf0/fur/fur01_00.sb:17] (x8)
+EN: <p>The furnace is in tip-top shape. How wonderful to see that!<k>
+PT: <p>A fornalha está em perfeito estado. Que maravilha ver isso!<k>
+### 299 [cf0/fur/fur01_00.sb:18] (x8)
+EN: <p>You need the Bansho Fan, some honey, and the shell of a fire-eater bird's egg to fix the furnace.<k>
+PT: <p>Para consertar a fornalha, vocês precisam do Leque Bashô, de um pouco de mel e da casca do ovo de um pássaro-come-fogo.<k>
+### 300 [cf0/fur/fur01_00.sb:21] (x8)
+EN: <p>Gah! It's too hot to get any closer! We gotta put out the flames first!<k>
+PT: <p>Ai! Está quente demais para chegar mais perto! A gente tem que apagar o fogo primeiro!<k>
+### 301 [cf0/fur/fur01_00.sb:24] (x8)
+EN: <p>Huh? You've got the honey and the eggshell? Well, off to Mt. Five Element with you, then.<k>
+PT: <p>Hã? Vocês já têm o mel e a casca do ovo? Então vão para a Montanha dos Cinco Elementos.<k>
+### 302 [cf0/fur/fur01_00.sb:25] (x8)
+EN: <p>Hakkake's got the honey. She's on Mt. Frappe, in the mountains to the north.<k><p>Kiwi Volcano is on an island to the south, though. That's where the fire-eater birds live.<k>
+PT: <p>A Hakkake está com o mel. Ela fica no Monte Frappe, nas montanhas ao norte.<k><p>Já o Vulcão Kiwi fica numa ilha ao sul. É lá que vivem os pássaros-come-fogo.<k>
+### 303 [cf0/fur/fur01_00.sb:26] (x8)
+EN: <p>Hmm? The Bansho Fan? I told you, it's not here. I told you.<k><p>By the way, I can't believe you're a husband, though... It's certainly a strange world we live in.<k>
+PT: <p>Hmm? O Leque Bashô? Já disse, não está aqui. Já disse.<k><p>Aliás, nem acredito que você virou marido... Que mundo estranho, esse.<k>
+### 304 [cf0/fur/fur01_00.sb:28] (x18)
+EN: Turtle
+PT: Tartaruga
+### 305 [cf0/fur/fur01_00.sb:29] (x8)
+EN: <p>Goku! Congratulations on getting married!<k>
+PT: <p>Goku! Parabéns pelo casamento!<k>
+### 306 [cf0/fur/fur01_00.sb:30] (x8)
+EN: <p>I still find it hard to believe that you actually got married, Goku.<k>
+PT: <p>Ainda é difícil acreditar que você se casou mesmo, Goku.<k>
+### 307 [cf0/fur/fur01_00.sb:33] (x8)
+EN: <p>I heard you got married, Goku! Congratulations!<k>
+PT: <p>Fiquei sabendo que você se casou, Goku! Parabéns!<k>
+### 308 [cf0/fur/fur01_00.sb:34] (x8)
+EN: <p>Chi-Chi is certainly pretty, isn't she? I better start working on my looks, too!<k>
+PT: <p>A Chichi é bonita mesmo, né? Acho que eu também tenho que começar a me cuidar!<k>
+### 309 [cf0/fur/fur01_00.sb:35] (x8)
+EN: <p>Dang, you actually married that girl? What are you, nuts?<k>
+PT: <p>Caramba, você casou mesmo com aquela garota? Tá maluco?<k>
+### 310 [cf0/fur/fur01_00.sb:36] (x8)
+EN: <p>One of these days, me and Tien are gonna...<k><p>Huh? Oh, no, I didn't say anything!<k>
+PT: <p>Um dia desses, eu e o Tenshinhan vamos...<k><p>Hã? Ah, não, eu não disse nada!<k>
+### 311 [cf0/fur/fur01_00.sb:39] (x8)
+EN: <p>That group of three went up the mountain.<k><p>You gotta go get my honey back!<k>
+PT: <p>Aquele trio subiu a montanha.<k><p>Vocês têm que recuperar o meu mel!<k>
+### 312 [cf0/fur/fur01_00.sb:40] (x8)
+EN: <p>We've got the honey and the fire-eater bird's eggshell now.<k><p>We better hurry back to Annin with this stuff!<k>
+PT: <p>Agora a gente tem o mel e a casca do ovo do pássaro-come-fogo.<k><p>É melhor voltar correndo para a Annin com isso!<k>
+### 313 [cf0/fur/fur01_00.sb:43] (x8)
+EN: <p>If you've got the honey and the eggshell, then go see Annin next! Hurry!<k>
+PT: <p>Se vocês já têm o mel e a casca do ovo, agora falem com a Annin! Rápido!<k>
+### 314 [cf0/fur/fur01_00.sb:44] (x8)
+EN: <p>Be careful, Goku! Don't do anything dangerous!<k>
+PT: <p>Cuidado, Goku! Não vá fazer nada perigoso!<k>
+### 315 [cf0/fur/fur01_00.sb:45] (x8)
+EN: <p>Goku always gets himself into these dangerous situations.<k><p>Try to keep him from getting in too much trouble, okay?<k>
+PT: <p>O Goku sempre se mete nessas situações perigosas.<k><p>Tente não deixar ele se meter em muita encrenca, tá?<k>
+### 316 [cf0/god/god01_00.sb:8] (x16)
+EN: Mr. Popo
+PT: Sr. Popo
+### 317 [cf0/god/god01_00.sb:9] (x4)
+EN: <p>Where did Chiaotzu run off to by himself? Maybe Fortuneteller Baba would know.<k>
+PT: <p>Para onde o Chaos foi sozinho? Talvez a Vovó Uranai saiba.<k>
+### 318 [cf0/god/god01_00.sb:12] (x4)
+EN: <p>Hello! Great to see you again!<k><p>I know Kami must be working you hard, but you gotta keep trying!<k>
+PT: <p>Olá! Que bom ver vocês de novo!<k><p>Sei que o Kami-Sama deve estar pegando pesado, mas continuem firmes!<k>
+### 319 [cf0/god/god01_00.sb:15] (x4)
+EN: <p>Yamcha! Wow! You still keeping up with Kami's training?<k><p>You've got, like, zero backbone, so I was kinda worried!<k>
+PT: <p>Yamcha! Nossa! Ainda aguentando o treinamento do Kami-Sama?<k><p>Você não tem força de vontade nenhuma, então eu estava meio preocupada!<k>
+### 320 [cf0/god/god01_00.sb:16] (x4)
+EN: <p>Whoa! Haven't seen you in a while! Aren't you supposed to be with Kami, though?<k>
+PT: <p>Uau! Faz tempo que não te vejo! Mas você não devia estar com o Kami-Sama?<k>
+### 321 [cf0/god/god01_00.sb:19] (x4)
+EN: <p>Chiaotzu appears to be in Master Mutaito's training grounds. That's northeast of West City.<k>
+PT: <p>Parece que o Chaos está no campo de treinamento do Mestre Mutaito. Fica a nordeste da Cidade do Oeste.<k>
+### 322 [cf0/god/god01_00.sb:22] (x4)
+EN: <p>That bum Chiaotzu ran off without me. How ungrateful of him!<k>
+PT: <p>Aquele vagabundo do Chaos fugiu sem mim. Que ingrato!<k>
+### 323 [cf0/god/god01_00.sb:23] (x6)
+EN: <p>Those guys escaped to Pilaf's Castle.<n>After them! Hurry!<k>
+PT: <p>Aqueles caras fugiram para o Castelo do Pilaf.<n>Atrás deles! Rápido!<k>
+### 324 [cf0/god/god01_00.sb:24] (x6)
+EN: <p>So the <d>strong helper<d> was Goku all along! Boy, what a shot of confidence!<k>
+PT: <p>Então o <d>ajudante forte<d> era o Goku! Nossa, que injeção de ânimo!<k>
+### 325 [cf0/god/god01_00.sb:25] (x6)
+EN: <p>The first thing is to go visit my sister, Fortuneteller Baba.<k><p>I hear she's brought along a rather strong helper for us.<k>
+PT: <p>A primeira coisa é visitar a minha irmã, a Vovó Uranai.<k><p>Ouvi dizer que ela arrumou um ajudante bem forte para nós.<k>
+### 326 [cf0/god/god01_00.sb:26] (x6)
+EN: <p>A strong helper? Who could that be? I hope you don't mean Yajirobe.<k>
+PT: <p>Um ajudante forte? Quem será? Espero que não seja o Yajirobe.<k>
+### 327 [cf0/god/god01_00.sb:27] (x6)
+EN: <p>Press the Y Button to use the Dragon Radar once you've equipped it.<k><p>The world map will automatically display the position by default.<k>
+PT: <p>Aperte o Botão Y para usar o Radar do Dragão depois de equipá-lo.<k><p>O mapa-múndi vai mostrar a posição automaticamente.<k>
+### 328 [cf0/god/god01_00.sb:30] (x6)
+EN: <p>Fortuneteller Baba's waiting!<k>
+PT: <p>A Vovó Uranai está esperando!<k>
+### 329 [cf0/god/god01_00.sb:31] (x6)
+EN: <p>Good luck finding the Dragon Balls, guys!<k>
+PT: <p>Boa sorte na busca pelas Esferas do Dragão, pessoal!<k>
+### 330 [cf0/god/god01_00.sb:33] (x6)
+EN: <p>The dead can't just come back to this world anytime they like.<k><p>Hurry, you need to hunt down those Dragon Balls!<k>
+PT: <p>Os mortos não podem voltar a este mundo quando bem entendem.<k><p>Rápido, vocês precisam caçar essas Esferas do Dragão!<k>
+### 331 [cf0/god/god01_00.sb:34] (x6)
+EN: <p>Mm? Oh, it's you. You find the Dragon Balls yet?<k>
+PT: <p>Hm? Ah, são vocês. Já acharam as Esferas do Dragão?<k>
+### 332 [cf0/god/god01_00.sb:38] (x6)
+EN: <p>Oh? A guest.<n>Can I help you with something?<k>
+PT: <p>Oh? Visitas.<n>Posso ajudar em alguma coisa?<k>
+### 333 [cf0/god/god01_00.sb:39] (x6)
+EN: <p>My, it's been a while. Did you need something?<k>
+PT: <p>Nossa, quanto tempo. Precisam de alguma coisa?<k>
+### 334 [cf0/god/god01_00.sb:40] (x6)
+EN: <p>You sure about this? This thing's pretty dangerous, so be careful handling it.<k>
+PT: <p>Tem certeza? Isto aqui é bem perigoso, então tome cuidado ao mexer.<k>
+### 335 [cf0/god/god01_00.sb:42] (x6)
+EN: <p>The Dragon Balls are scattered all over the world.<k><p>You'll need to look hard if you want a chance at finding them.<k>
+PT: <p>As Esferas do Dragão estão espalhadas pelo mundo inteiro.<k><p>Vocês vão ter que procurar muito para ter chance de encontrá-las.<k>
+### 336 [cf0/god/god01_00.sb:43] (x6)
+EN: <p>Dragon Balls are very delicate things. Try not to break them, okay?<k>
+PT: <p>As Esferas do Dragão são muito delicadas. Tentem não quebrá-las, tá?<k>
+### 337 [cf0/god/god01_00.sb:45] (x6)
+EN: <p>Hah! This submarine is my greatest invention yet! It can dive to the deepest depths!<k>
+PT: <p>Rá! Este submarino é a minha maior invenção! Ele mergulha até as maiores profundezas!<k>
+### 338 [cf0/god/god01_00.sb:47] (x6)
+EN: <p>Mmm? Wonder if they needed something?<k>
+PT: <p>Hmm? Será que eles precisavam de alguma coisa?<k>
+### 339 [cf0/god/god01_00.sb:51] (x6)
+EN: <p>There's no getting through the water without a submarine. Bulma's house is in West City, right?<k>
+PT: <p>Sem um submarino não dá para atravessar a água. A casa da Bulma fica na Cidade do Oeste, né?<k>
+### 340 [cf0/god/god01_00.sb:56] (x1)
+EN: <p>The Earth's in big trouble. I'm counting on you guys.<k>
+PT: <p>A Terra está em apuros. Conto com vocês.<k>
+### 341 [cf0/god/god01_00.sb:57] (x1)
+EN: <p>Yo! Krillin! If you're ever in trouble, just call for me. I'll come right over!<k>
+PT: <p>E aí, Kuririn! Se estiver em apuros, é só me chamar. Chego rapidinho!<k>
+### 342 [cf0/god/god01_00.sb:58] (x1)
+EN: <p>Learned <c=8BEFD4>Y-Yajirobe?!<c><k>
+PT: <p>Aprendeu <c=8BEFD4>Y-Yajirobe?!<c><k>
+### 343 [cf0/god/god01_00.sb:59] (x1)
+EN: <p>Why do I have to go through all this intense training?<k>
+PT: <p>Por que eu tenho que passar por todo esse treino pesado?<k>
+### 344 [cf0/god/god03_00.sb:13] (x1)
+EN: <p>You have already caught every monster.<k><p>Great work! I am very surprised.<k>
+PT: <p>Você já capturou todos os monstros.<k><p>Excelente trabalho! Estou muito surpreso.<k>
+### 345 [cf0/god/god03_00.sb:15] (x19)
+EN: Kami
+PT: Kami-Sama
+### 346 [cf0/god/god03_00.sb:16] (x1)
+EN: <p>You've already caught every kind of monster there is.<k><p>You made me proud! The teacher has truly become the student!<k>
+PT: <p>Você já capturou todo tipo de monstro que existe.<k><p>Estou orgulhoso! O mestre virou mesmo o aluno!<k>
+### 347 [cf0/god/god03_00.sb:17] (x1)
+EN: <p>Only you can fight off the Saiyans. I am counting on you.<k><p>Here is a little assignment for you:<k><p>Use Tien's Evil Containment Wave to catch the monsters you find all over the world.<k><p>Bring them back, and I'll give you something good for them.<k>
+PT: <p>Só vocês podem enfrentar os Saiyajins. Conto com vocês.<k><p>Tenho uma pequena tarefa para vocês:<k><p>Usem o Mafuba do Tenshinhan para capturar os monstros que encontrarem pelo mundo.<k><p>Tragam-nos para mim, e eu darei algo bom em troca.<k>
+### 348 [cf0/god/god03_00.sb:18] (x1)
+EN: <p>I'm counting on you. You're the only ones who can actually fight off the Saiyans.<k><p>Here's a little assignment for you:<k><p>Use Tien's Evil Containment Wave to catch the monsters you find all over the world.<k><p>Hmm... just catching them isn't very fun, though.<k><p>Let's make it more interesting. The more you catch, the better a reward I'll give you. Okay?<k>
+PT: <p>Conto com vocês. Vocês são os únicos que podem mesmo enfrentar os Saiyajins.<k><p>Tenho uma pequena tarefa pra vocês:<k><p>Usem o Mafuba do Tenshinhan para capturar os monstros que encontrarem pelo mundo.<k><p>Hmm... mas só capturar não tem muita graça.<k><p>Vamos deixar mais interessante. Quanto mais capturarem, melhor a recompensa. Combinado?<k>
+### 349 [cf0/god/god03_00.sb:19] (x1)
+EN: <p>Kami is gone, so I will take the monsters you catch from now on.<k>
+PT: <p>O Kami-Sama se foi, então de agora em diante eu fico com os monstros que vocês capturarem.<k>
+### 350 [cf0/god/god03_00.sb:20] (x1)
+EN: <p>Ah. You have monsters.<k><p>Let me see...<k>
+PT: <p>Ah. Vocês têm monstros.<k><p>Deixem-me ver...<k>
+### 351 [cf0/god/god03_00.sb:21] (x1)
+EN: <p>Ah, looks like you've got some monsters here.<k><p>Let's see...<k>
+PT: <p>Ah, parece que vocês têm uns monstros aí.<k><p>Vejamos...<k>
+### 352 [cf0/god/god03_00.sb:22] (x1)
+EN: <p>You've caught %d monsters in total.<k>
+PT: <p>Vocês capturaram %d monstros no total.<k>
+### 353 [cf0/god/god03_00.sb:23] (x1)
+EN: <p>You've caught a total of %d monster(s) so far.<k>
+PT: <p>Até agora vocês capturaram %d monstro(s) no total.<k>
+### 354 [cf0/god/god03_00.sb:24] (x1)
+EN: <p>Hoh! You have caught over 30 monsters.<k><p>I have something good for you.<k>
+PT: <p>Oh! Vocês capturaram mais de 30 monstros.<k><p>Tenho algo bom para vocês.<k>
+### 355 [cf0/god/god03_00.sb:25] (x1)
+EN: <p>My! You've caught over 30 monsters!<k><p>Here. As promised, I've got a reward for you.<k>
+PT: <p>Nossa! Vocês capturaram mais de 30 monstros!<k><p>Tomem. Como prometido, aqui está a recompensa.<k>
+### 356 [cf0/god/god03_00.sb:26] (x1)
+EN: <p>Ohhh! You have caught over 60 monsters.<k><p>I have something even better for you, as promised.<k>
+PT: <p>Ohhh! Vocês capturaram mais de 60 monstros.<k><p>Como prometido, tenho algo ainda melhor para vocês.<k>
+### 357 [cf0/god/god03_00.sb:27] (x1)
+EN: <p>Ooh, heavens! You've caught over 60 monsters!<k><p>Here. As promised, I've got a reward for you.<k>
+PT: <p>Minha nossa! Vocês capturaram mais de 60 monstros!<k><p>Tomem. Como prometido, aqui está a recompensa.<k>
+### 358 [cf0/god/god03_00.sb:28] (x1)
+EN: <p>Hohohh! You have caught over 120 monsters.<k><p>I have something better still for you.<k>
+PT: <p>Oh oh oh! Vocês capturaram mais de 120 monstros.<k><p>Tenho algo melhor ainda para vocês.<k>
+### 359 [cf0/god/god03_00.sb:29] (x1)
+EN: <p>Nice work! You've caught over 120 monsters!<k><p>Here. As promised, I've got a reward for you.<k>
+PT: <p>Muito bem! Vocês capturaram mais de 120 monstros!<k><p>Tomem. Como prometido, aqui está a recompensa.<k>
+### 360 [cf0/god/god03_00.sb:30] (x1)
+EN: <p>Ohhhhh! You have caught all the monsters.<k><p>I have something great for you. Be careful with it.<k>
+PT: <p>Ohhhhh! Vocês capturaram todos os monstros.<k><p>Tenho algo ótimo para vocês. Usem com cuidado.<k>
+### 361 [cf0/god/god03_00.sb:31] (x1)
+EN: <p>Amazing! You've caught every monster there is!<k><p>Here. As promised, I've got a reward for you.<k>
+PT: <p>Incrível! Vocês capturaram todos os monstros que existem!<k><p>Tomem. Como prometido, aqui está a recompensa.<k>
+### 362 [cf0/god/god03_00.sb:32] (x1)
+EN: <p>Come back when you have more monsters. I will give you something good.<k>
+PT: <p>Voltem quando tiverem mais monstros. Darei algo bom a vocês.<k>
+### 363 [cf0/god/god03_00.sb:33] (x1)
+EN: <p>Come back when you get more monsters. I've got a reward waiting for you.<k>
+PT: <p>Voltem quando pegarem mais monstros. Tenho uma recompensa esperando por vocês.<k>
+### 364 [cf0/god/god03_00.sb:34] (x1)
+EN: <p>Hmm. You have no new monsters this time.<k>
+PT: <p>Hmm. Desta vez vocês não têm monstros novos.<k>
+### 365 [cf0/god/god03_00.sb:35] (x1)
+EN: <p>Hmm. Looks like you haven't caught any new monsters this time.<k>
+PT: <p>Hmm. Parece que desta vez vocês não capturaram nenhum monstro novo.<k>
+### 366 [cf0/god/god03_00.sb:36] (x1)
+EN: <p>A bed with a canopy. Kami and Mr. Popo must sleep here together.<k>
+PT: <p>Uma cama com dossel. O Kami-Sama e o Sr. Popo devem dormir juntos aqui.<k>
+### 367 [cf0/gog/gog05_00.sb:92] (x1)
+EN: <p>Steam pours out of the giant pot.<k><p>You can occasionally make out human faces in the swirling mist.<k>
+PT: <p>Sai vapor do caldeirão gigante.<k><p>De vez em quando dá pra ver rostos humanos na névoa rodopiante.<k>
+### 368 [cf0/gog/gog08_00.sb:9] (x1)
+EN: <p>Who're you? An outsider?<k><p>I'm a strong guy, you know! Wanna go? Huh?<k>
+PT: <p>Quem é você? Um forasteiro?<k><p>Eu sou forte, sabia? Quer brigar? Hein?<k>
+### 369 [cf0/gog/gog08_00.sb:10] (x1)
+EN: <p>Man... you're killer strong...<k>
+PT: <p>Nossa... você é forte demais...<k>
+### 370 [cf0/gog/gog08_00.sb:11] (x1)
+EN: <p>What, running away? You are so lame!<k>
+PT: <p>O quê, fugindo? Que fraco!<k>
+### 371 [cf0/gog/gog08_00.sb:12] (x1)
+EN: <p>No, no, no! I can't let you go any further! Guess we'll have to fight this out!<k>
+PT: <p>Não, não, não! Não posso deixar você passar! Acho que vamos ter que resolver isso na luta!<k>
+### 372 [cf0/gog/gog08_00.sb:13] (x1)
+EN: <p>D-dang... Who the heck are you?!<k>
+PT: <p>D-droga... Quem é você, afinal?!<k>
+### 373 [cf0/gok/gok01_00.sb:10] (x1)
+EN: <p>I saw two shooting stars across from that mountain.<k><p>The explosion happened right after that. It's gotta be related somehow.<k>
+PT: <p>Vi duas estrelas cadentes do outro lado daquela montanha.<k><p>A explosão aconteceu logo depois. Só pode ter alguma relação.<k>
+### 374 [cf0/gok/gok01_00.sb:11] (x1)
+EN: <p>You must have a lot of time on your hands if you're talking to the likes of me.<k>
+PT: <p>Você deve ter muito tempo livre, pra ficar conversando com alguém como eu.<k>
+### 375 [cf0/gok/gok01_00.sb:12] (x1)
+EN: <p>Awooooooo!!<k><p>......<k><p>Heh. Nothing like exploring my roots now and then.<k>
+PT: <p>Auuuuuuuu!!<k><p>......<k><p>Heh. Nada como voltar às raízes de vez em quando.<k>
+### 376 [cf0/gok/gok01_00.sb:13] (x1)
+EN: <p>Fog rises from upstream all the way to the top of Mt. Paozu. It's a mystical sight to see.<k>
+PT: <p>A neblina sobe do rio até o topo da Montanha Paozu. É uma vista mística.<k>
+### 377 [cf0/gok/gok02_00.sb:11] (x1)
+EN: <p>G-Gohan! You all right?! You still eating okay?!<k><p>I know! Here, take this! I made it just for you!<k>
+PT: <p>G-Gohan! Você está bem?! Está se alimentando direito?!<k><p>Já sei! Tome, pegue isto! Fiz especialmente pra você!<k>
+### 378 [cf0/gok/gok02_00.sb:12] (x1)
+EN: <p>Don't do anything too rough, okay? You're gonna be a great scholar someday, Gohan!<k>
+PT: <p>Não faça nada muito perigoso, tá? Você vai ser um grande estudioso um dia, Gohan!<k>
+### 379 [cf0/gok/gok02_00.sb:13] (x1)
+EN: <p>Gohan! Don't do anything too rough! If the going gets tough, run away!<k>
+PT: <p>Gohan! Não faça nada muito perigoso! Se a coisa ficar feia, fuja!<k>
+### 380 [cf0/gok/gok02_00.sb:14] (x1)
+EN: <p>G-Goku! What were you doing?! You have any idea how lonely I was? Waaahhh!!<k>
+PT: <p>G-Goku! Onde você estava?! Sabe o quanto eu fiquei sozinha? Buááá!!<k>
+### 381 [cf0/gok/gok02_00.sb:15] (x1)
+EN: <p>Ugh! I'm so worried! Is Gohan still doing okay?!<k>
+PT: <p>Ai! Estou tão preocupada! Será que o Gohan está bem?!<k>
+### 382 [cf0/gok/gok02_00.sb:16] (x1)
+EN: <p><d>Early to rise<d><n><d>Say 'Good Morning'<d><n><d>Clean your plate<d><k><p><d>Do all of your homework<d><n><d>Wash your hands at home<d><n><d>Bedtime at 7 p.m.<d><k><p><d>No bullying the ghosts<d><n><d>No balancing on balls<d><n><d>No playing with trouble<d><k><p>...It goes on and on. Apparently these are Mom's rules.<k>
+PT: <p><d>Acordar cedo<d><n><d>Dizer bom-dia<d><n><d>Comer tudo<d><k><p><d>Fazer toda a lição<d><n><d>Lavar as mãos em casa<d><n><d>Dormir às 19h<d><k><p><d>Não judiar dos fantasmas<d><n><d>Não se equilibrar em bolas<d><n><d>Não brincar com o perigo<d><k><p>...E a lista continua. São as regras da mamãe.<k>
+### 383 [cf0/gok/gok02_00.sb:17] (x1)
+EN: <p>You could make a killer spread of Chinese food with all the stuff in the fridge.<k>
+PT: <p>Dá pra fazer um banquete chinês com tudo o que tem na geladeira.<k>
+### 384 [cf0/gok/gok02_00.sb:18] (x1)
+EN: <p>The jar smells like sugar. There's probably candy inside.<k>
+PT: <p>O pote tem cheiro de açúcar. Deve ter doces dentro.<k>
+### 385 [cf0/gok/gok02_00.sb:19] (x1)
+EN: <p>The basket contains a set of fresh vegetables.<k>
+PT: <p>A cesta tem uma porção de verduras frescas.<k>
+### 386 [cf0/gok/gok02_00.sb:20] (x1)
+EN: <p>A retro-design TV. Capsule Corp's logo is embossed on the edge.<k>
+PT: <p>Uma TV de visual retrô. O logo da Corporação Cápsula está em relevo na borda.<k>
+### 387 [cf0/gok/gok03_00.sb:10] (x17)
+EN: Ox-King
+PT: Cutelo
+### 388 [cf0/gok/gok03_00.sb:11] (x1)
+EN: <p>You're fighting a guy who blew up an entire city, Gohan... Just get back in one piece, okay?<k>
+PT: <p>Você vai enfrentar um cara que explodiu uma cidade inteira, Gohan... Só volte inteiro, tá?<k>
+### 389 [cf0/gok/gok03_00.sb:12] (x1)
+EN: <p>You're fighting against guys whose strength I couldn't even imagine, Goku...<k><p>Just try not to get in over your head, all right?<k>
+PT: <p>Você vai enfrentar caras com uma força que eu nem consigo imaginar, Goku...<k><p>Só tente não se meter em algo grande demais, tá bom?<k>
+### 390 [cf0/gok/gok03_00.sb:13] (x1)
+EN: <p>Man, that must be one killer alien... blowing up an entire city like that.<k>
+PT: <p>Nossa, deve ser um alienígena e tanto... explodindo uma cidade inteira desse jeito.<k>
+### 391 [cf0/gok/gok03_00.sb:14] (x1)
+EN: <p>I heard you've been training, Gohan! That's my boy! Men need to be strong, you know?<k>
+PT: <p>Soube que você está treinando, Gohan! Esse é o meu neto! Homem tem que ser forte, sabia?<k>
+### 392 [cf0/gok/gok03_00.sb:15] (x1)
+EN: <p>G-G-Goku! Weren't you dead?!<k>
+PT: <p>G-G-Goku! Você não tinha morrido?!<k>
+### 393 [cf0/gok/gok03_00.sb:16] (x1)
+EN: <p>I know Earth is in danger in all, but I'm afraid Chi-Chi's gonna kill me first...<k>
+PT: <p>Sei que a Terra está em perigo e tudo, mas tenho medo de a Chichi me matar primeiro...<k>
+### 394 [cf0/gok/gok03_00.sb:17] (x1)
+EN: <p>Oh! Hey, Gohan! How you doing?<k>
+PT: <p>Oh! Ei, Gohan! Como vai?<k>
+### 395 [cf0/gok/gok03_00.sb:18] (x1)
+EN: <p>Boy, Chi-Chi is not in a good mood at all. I can't even stand being near her right now.<k>
+PT: <p>Nossa, a Chichi está de péssimo humor. Nem consigo ficar perto dela agora.<k>
+### 396 [cf0/gok/gok03_00.sb:19] (x1)
+EN: <p>A book on robotics engineering is laid out on the desk.<k>
+PT: <p>Há um livro de engenharia robótica aberto na mesa.<k>
+### 397 [cf0/gok/gok03_00.sb:20] (x1)
+EN: <p>Reference books are strewn around the bed. They all look like they've seen heavy use.<k>
+PT: <p>Há livros de consulta espalhados pela cama. Todos parecem muito usados.<k>
+### 398 [cf0/gok/gok03_00.sb:21] (x1)
+EN: <p>My skin is pretty dry... I think I'll just use a bit of this.<k>
+PT: <p>A minha pele está bem seca... Acho que vou passar um pouco disto.<k>
+### 399 [cf0/gok/gok03_00.sb:22] (x1)
+EN: <p>The bed is made up neatly.<k>
+PT: <p>A cama está arrumadinha.<k>
+### 400 [cf0/hel/hel01_00.sb:36] (x1)
+EN: <p>Hours: 8:00 a.m. -- 8:05 a.m.<n>Customers, please use the right-hand window.<k>
+PT: <p>Horário: 8h00 -- 8h05<n>Clientes, usem o guichê da direita.<k>
+### 401 [cf0/hel/hel01_00.sb:37] (x1)
+EN: <p>This is a Yemma tree. It bears peach-like fruit that looks delicious.<k>
+PT: <p>É uma Árvore do Enma. Dá frutas parecidas com pêssegos que parecem deliciosas.<k>
+### 402 [cf0/hel/hel02_00.sb:12] (x1)
+EN: <p>T-T-Tamako! I, I need to tell you...!<k><p>Oh, no, Tamao! Not here, of all places!<k><p>...Ahhhhhh!!<k><p>W-what? What is it? What're you looking at? You perv!<k><p>Look, you can have this, okay? Just leave us alone! Sheesh!<k>
+PT: <p>T-T-Tamako! E-eu preciso te dizer...!<k><p>Ah, não, Tamao! Justo aqui!<k><p>...Aaaaaah!!<k><p>O-o quê? O que foi? Tá olhando o quê? Tarado!<k><p>Olha, pode ficar com isto, tá? Só deixa a gente em paz! Francamente!<k>
+### 403 [cf0/hel/hel02_00.sb:13] (x1)
+EN: <p>Aahhh, Tamako!<k><p>Ohhhh, Tamao!<k><p>...Ahhhhhh!! You huge pervo!!<k>
+PT: <p>Aahhh, Tamako!<k><p>Ohhhh, Tamao!<k><p>...Aaaaaah!! Seu tarado!!<k>
+### 404 [cf0/hel/hel03_00.sb:9] (x1)
+EN: <p>A sign from what appears to be some kind of tourist spot.<k>
+PT: <p>Uma placa do que parece ser algum ponto turístico.<k>
+### 405 [cf0/hii/hii03_00.sb:12] (x4)
+EN: <p>Huh? You want to find the Holly Plains?<k><p>It's at the base of the tallest mountain you can see from here. Travel due south to get there.<k>
+PT: <p>Hã? Quer achar a Planície Holly?<k><p>Fica no pé da montanha mais alta que dá pra ver daqui. Siga direto pro sul.<k>
+### 406 [cf0/hii/hii03_00.sb:13] (x4)
+EN: <p>I'm still sleepy! Lemme sleep a little longer!<k>
+PT: <p>Ainda estou com sono! Me deixa dormir mais um pouquinho!<k>
+### 407 [cf0/hii/hii03_00.sb:14] (x4)
+EN: <p>Nnngh... I'm so hot. It's making my head pound...<k>
+PT: <p>Nnngh... Que calor. A minha cabeça está latejando...<k>
+### 408 [cf0/hii/hii03_00.sb:15] (x4)
+EN: <p>His fever is gone, but he won't get out of bed. What a strange kid.<k>
+PT: <p>A febre passou, mas ele não quer sair da cama. Que criança estranha.<k>
+### 409 [cf0/hii/hii03_00.sb:16] (x4)
+EN: <p>My child's fever just won't go down. Not even the doctors know what's wrong.<k><p>We could make a medicine from the Frozen Hyacinth that grows on the Holly Plains...<k>
+PT: <p>A febre do meu filho não baixa de jeito nenhum. Nem os médicos sabem o que ele tem.<k><p>Daria pra fazer um remédio com o Jacinto Congelado que cresce na Planície Holly...<k>
+### 410 [cf0/hii/hii03_00.sb:17] (x4)
+EN: <p>Are you in training as well? Aren't you cold dressed like that?<k>
+PT: <p>Você também está treinando? Não sente frio vestido assim?<k>
+### 411 [cf0/hii/hii03_00.sb:18] (x4)
+EN: <p>We're always happy to have more able hands to help us. We're a very small village, after all.<k>
+PT: <p>Sempre ficamos felizes com mais gente disposta a ajudar. Afinal, somos uma vila bem pequena.<k>
+### 412 [cf0/hii/hii03_00.sb:19] (x4)
+EN: <p>When Launch's hair is blue, she's really nice, but when it's blond, she's totally funny!<k>
+PT: <p>Quando o cabelo da Lunch está azul, ela é um amor, mas quando está loiro, ela é muito engraçada!<k>
+### 413 [cf0/hii/hii03_00.sb:20] (x4)
+EN: <p>Launch is head over heels in love with Tien!<k><p>I don't know what <d>head over heels<d> means, but...<k>
+PT: <p>A Lunch está perdidamente apaixonada pelo Tenshinhan!<k><p>Não sei o que quer dizer <d>perdidamente<d>, mas...<k>
+### 414 [cf0/hii/hii03_00.sb:24] (x4)
+EN: <p>I'd better look for Launch first. Where could she be?<k>
+PT: <p>É melhor eu procurar a Lunch primeiro. Onde será que ela está?<k>
+### 415 [cf0/hii/hii03_00.sb:25] (x4)
+EN: <p>Used Snowfield Key!<k>
+PT: <p>Usou a Chave da Neve!<k>
+### 416 [cf0/hii/hii03_00.sb:29] (x4)
+EN: <p>It certainly is chilly, huh? What on earth could I be doing here?<k>
+PT: <p>Que friozinho, hein? O que será que eu estou fazendo aqui?<k>
+### 417 [cf0/hii/hii04_00.sb:35] (x9)
+EN: <p>This cannot be destroyed from this side. The other side seems looser.<k>
+PT: <p>Não dá para destruir isto deste lado. O outro lado parece mais frouxo.<k>
+### 418 [cf0/jin/jin01_00.sb:38] (x1)
+EN: <p>Whooosh! I'm a shooting star!<k>
+PT: <p>Vuuush! Sou uma estrela cadente!<k>
+### 419 [cf0/jin/jin01_00.sb:39] (x1)
+EN: <p>Hey! You wanna play?<k>
+PT: <p>Ei! Quer brincar?<k>
+### 420 [cf0/jin/jin01_00.sb:40] (x1)
+EN: <p>Hey! It's Suno!<k>
+PT: <p>Ei! É a Suno!<k>
+### 421 [cf0/jin/jin01_00.sb:41] (x1)
+EN: <p>Boooom! I'm gonna burn everything up!<k>
+PT: <p>Buuum! Vou queimar tudo!<k>
+### 422 [cf0/jin/jin01_00.sb:42] (x1)
+EN: <p>No! Strangers are dangerous!<k>
+PT: <p>Não! Estranhos são perigosos!<k>
+### 423 [cf0/jin/jin01_00.sb:43] (x1)
+EN: <p>No! Suno, dangerous!<k>
+PT: <p>Não! Suno, perigoso!<k>
+### 424 [cf0/jin/jin01_00.sb:44] (x1)
+EN: <p>I was looking up at the sky, and I saw two shooting stars crash right on East City!<k>
+PT: <p>Eu estava olhando o céu e vi duas estrelas cadentes caírem bem em cima da Cidade do Leste!<k>
+### 425 [cf0/jin/jin01_00.sb:45] (x1)
+EN: <p>My lover awaits me at the foot of the tallest mountain over there...<k><p>Or, at least, I wish she was.<k>
+PT: <p>A minha amada me espera no pé daquela montanha mais alta...<k><p>Ou, pelo menos, eu queria que esperasse.<k>
+### 426 [cf0/jin/jin01_00.sb:46] (x1)
+EN: <p>If you build your Luck, all sorts of good things may happen. It's a great boon, believe me!<k>
+PT: <p>Se você aumentar a Sorte, todo tipo de coisa boa pode acontecer. Faz uma diferença enorme, acredite!<k>
+### 427 [cf0/jin/jin01_00.sb:47] (x1)
+EN: <p>What do you think? My mom's pretty good at making snowmen, huh?<k>
+PT: <p>Que tal? A minha mãe é boa em fazer bonecos de neve, né?<k>
+### 428 [cf0/jin/jin01_00.sb:48] (x1)
+EN: <p>Suno's are way cooler looking, though.<k><p>She has them smoking pipes and everything.<k>
+PT: <p>Mas os da Suno são bem mais legais.<k><p>Ela bota até cachimbo neles.<k>
+### 429 [cf0/jin/jin01_00.sb:49] (x1)
+EN: <p>Ooooh, you're good, Suno!<k><p>But we're not giving up yet! Nnnngh!<k>
+PT: <p>Uuuuh, você é boa, Suno!<k><p>Mas ainda não desistimos! Nnnngh!<k>
+### 430 [cf0/jin/jin01_00.sb:50] (x1)
+EN: <p>We can't lose out to you yet! Nnnngh!<k>
+PT: <p>Ainda não podemos perder pra você! Nnnngh!<k>
+### 431 [cf0/jin/jin01_00.sb:51] (x1)
+EN: <p>C'mon, Mom! Hang in there!<k>
+PT: <p>Vamos, mãe! Aguenta firme!<k>
+### 432 [cf0/jin/jin01_00.sb:52] (x1)
+EN: <p>Wurf wurf!<k>
+PT: <p>Au au!<k>
+### 433 [cf0/jin/jin01_00.sb:53] (x1)
+EN: <p>Wuff wuff!<k>
+PT: <p>Uf uf!<k>
+### 434 [cf0/jin/jin01_00.sb:55] (x1)
+EN: <p>Hey, did you see it? The East City!<k><p>Isn't that the craziest thing you've ever heard? I'm just so shocked!<k>
+PT: <p>Ei, você viu? A Cidade do Leste!<k><p>Não é a coisa mais maluca que você já ouviu? Estou chocada!<k>
+### 435 [cf0/jin/jin01_00.sb:56] (x1)
+EN: <p>Oh! It's you! Hey, thanks again for everything!<k><p>Eighter's doing pretty good. Why don't you say hello?<k>
+PT: <p>Oh! É você! Ei, obrigada de novo por tudo!<k><p>O Número 8 está muito bem. Por que não vai dar um oi?<k>
+### 436 [cf0/jin/jin01_00.sb:57] (x1)
+EN: <p><d>Jingle Village<d><k>
+PT: <p><d>Vila Jingle<d><k>
+### 437 [cf0/jin/jin01_00.sb:58] (x1)
+EN: <p>A well-made snowman. It's smoking an expensive-looking pipe.<k>
+PT: <p>Um boneco de neve bem-feito. Ele fuma um cachimbo que parece caro.<k>
+### 438 [cf0/jin/jin02_00.sb:13] (x1)
+EN: <p>You might have a shooting star land on you if you're outside! It's much safer indoors!<k>
+PT: <p>Se ficar lá fora, uma estrela cadente pode cair em você! Aqui dentro é bem mais seguro!<k>
+### 439 [cf0/jin/jin02_00.sb:14] (x1)
+EN: <p>Sure is cold outside. It's a lot more fun in my room.<k>
+PT: <p>Que frio lá fora. É muito mais divertido no meu quarto.<k>
+### 440 [cf0/jin/jin02_00.sb:15] (x1)
+EN: <p>Everyone is going on about the explosion in East City. What a fright it is to me...<k>
+PT: <p>Todo mundo só fala da explosão na Cidade do Leste. Que medo que me dá...<k>
+### 441 [cf0/jin/jin02_00.sb:16] (x1)
+EN: <p>My granddaughter's such a tomboy... let her go outside, and she never comes back.<k><p>I don't know what to do with her.<k>
+PT: <p>A minha neta é tão moleca... deixo ela sair e ela nunca mais volta.<k><p>Não sei o que fazer com ela.<k>
+### 442 [cf0/jin/jin02_00.sb:17] (x1)
+EN: <p>Eighter and Suno are back! Boy, am I glad for that!<k>
+PT: <p>O Número 8 e a Suno voltaram! Nossa, que alívio!<k>
+### 443 [cf0/jin/jin02_00.sb:18] (x1)
+EN: <p>Hey! Did you hear the news about East City?! What is going on over there?!<k><p>We're so close by... I'm really scared!<k>
+PT: <p>Ei! Ficou sabendo da Cidade do Leste?! O que está acontecendo lá?!<k><p>Estamos tão perto... Estou com muito medo!<k>
+### 444 [cf0/jin/jin02_00.sb:19] (x1)
+EN: <p>Oh, I'm so busy! There're more kids than ever!<k><p>I asked my oldest daughter to help me, but I have no idea where she is now!<k>
+PT: <p>Ai, estou tão ocupada! Tem mais criança do que nunca!<k><p>Pedi pra minha filha mais velha me ajudar, mas não faço ideia de onde ela está agora!<k>
+### 445 [cf0/jin/jin02_00.sb:20] (x1)
+EN: <p>Hey, guys! Thanks for everything!<k><p>That pair's more energetic than they've ever been before!<k>
+PT: <p>Ei, pessoal! Obrigado por tudo!<k><p>Aqueles dois estão mais animados do que nunca!<k>
+### 446 [cf0/jin/jin02_00.sb:21] (x1)
+EN: <p>There's a memo on the refrigerator door...<k><p>Apparently there's a rare piece of capsule equipment that boosts your movement speed.<k>
+PT: <p>Há um bilhete na porta da geladeira...<k><p>Parece que existe um equipamento-cápsula raro que aumenta a velocidade de movimento.<k>
+### 447 [cf0/jin/jin03_00.sb:32] (x1)
+EN: <p>T-this is no time for pipes! The world's in danger! I need a smoke to calm down...!<k><p>Ahhhhh, where's my pipe?! Oh, no no no no...<k>
+PT: <p>N-não é hora de cachimbo! O mundo está em perigo! Preciso fumar pra me acalmar...!<k><p>Aaaaah, cadê o meu cachimbo?! Ai, não, não, não...<k>
+### 448 [cf0/jin/jin03_00.sb:33] (x1)
+EN: <p>Huh...? Now where did my favorite pipe go?<k>
+PT: <p>Hã...? Onde foi parar o meu cachimbo favorito?<k>
+### 449 [cf0/jin/jin03_00.sb:34] (x1)
+EN: <p>Mewww...<k>
+PT: <p>Miauuu...<k>
+### 450 [cf0/jin/jin03_00.sb:35] (x1)
+EN: <p>Meeowww...<k>
+PT: <p>Miaaauuu...<k>
+### 451 [cf0/jin/jin03_00.sb:36] (x1)
+EN: <p>A warm-looking bed. It must be hard to pull yourself out of this on cold mornings.<k>
+PT: <p>Uma cama que parece quentinha. Deve ser difícil sair dela nas manhãs frias.<k>
+### 452 [cf0/jin/jin03_00.sb:37] (x1)
+EN: <p>A collection of adventure novels lines the desk. Someone here must like them.<k>
+PT: <p>Uma coleção de romances de aventura enfeita a mesa. Alguém aqui deve gostar deles.<k>
+### 453 [cf0/jin/jin04_00.sb:32] (x1)
+EN: <p>Why do you look so scary? Are you angry or something?<k>
+PT: <p>Por que você está com essa cara assustadora? Está bravo?<k>
+### 454 [cf0/jin/jin04_00.sb:33] (x1)
+EN: <p>My brother's gone missing. Where could he be?<k>
+PT: <p>O meu irmão sumiu. Onde será que ele está?<k>
+### 455 [cf0/jin/jin04_00.sb:34] (x1)
+EN: <p>Hey! C'mon, let's play!<k>
+PT: <p>Ei! Vamos, vamos brincar!<k>
+### 456 [cf0/jin/jin04_00.sb:35] (x1)
+EN: <p>We've received no contact from East City. That, plus the falling stars, worries me greatly.<k>
+PT: <p>Não recebemos notícias da Cidade do Leste. Isso, mais as estrelas cadentes, me preocupa muito.<k>
+### 457 [cf0/jin/jin04_00.sb:36] (x1)
+EN: <p>Eighter's an important part of our family. He really is a blessing to me.<k>
+PT: <p>O Número 8 é parte importante da nossa família. Ele é mesmo uma bênção pra mim.<k>
+### 458 [cf0/jin/jin04_00.sb:37] (x1)
+EN: <p>We've had nothing but disaster  lately. What on earth is going on here...?<k>
+PT: <p>Só temos tido desastres ultimamente. O que será que está acontecendo...?<k>
+### 459 [cf0/jin/jin04_00.sb:38] (x1)
+EN: <p>Oh, my! Thank you very much for all your help.<k><p>Eighter is doing just fine with us, too.<k>
+PT: <p>Oh, céus! Muito obrigada por toda a ajuda.<k><p>O Número 8 também está muito bem conosco.<k>
+### 460 [cf0/jin/jin04_00.sb:39] (x1)
+EN: <p>Oh, my! Visitors! It must be cold outside, no? Please, come inside and get warmed up.<k>
+PT: <p>Oh, céus! Visitas! Deve estar frio lá fora, não? Por favor, entrem e se aqueçam.<k>
+### 461 [cf0/jin/jin04_00.sb:40] (x4)
+EN: Eighter
+PT: Número 8
+### 462 [cf0/jin/jin04_00.sb:41] (x1)
+EN: <p>I heard East City blew up. I bet some villain is behind it. It makes me so angry!<k>
+PT: <p>Ouvi dizer que a Cidade do Leste explodiu. Aposto que tem algum vilão por trás disso. Me dá tanta raiva!<k>
+### 463 [cf0/jin/jin04_00.sb:42] (x1)
+EN: <p>I was saved. It is thanks to you.<k><p>Thank you very, very much.<k>
+PT: <p>Fui salvo. Graças a vocês.<k><p>Muito, muito obrigado.<k>
+### 464 [cf0/jin/jin04_00.sb:43] (x1)
+EN: <p>A bed that's large enough for a bear.<k>
+PT: <p>Uma cama grande o bastante para um urso.<k>
+### 465 [cf0/jin/jin04_00.sb:44] (x1)
+EN: <p>Two beds are neatly lined up together.<k>
+PT: <p>Duas camas arrumadas lado a lado.<k>
+### 466 [cf0/jin/jin04_00.sb:45] (x1)
+EN: <p>The space behind the curtain is being used for storage.<k>
+PT: <p>O espaço atrás da cortina é usado como depósito.<k>
+### 467 [cf0/jin/jin04_00.sb:46] (x1)
+EN: <p>A news program plays on the large TV.<k>
+PT: <p>Um telejornal passa na TV grande.<k>
+### 468 [cf0/jya/jya05_00.sb:11] (x1)
+EN: <p>Sorry, Princess Snake, but I need to keep moving.<k>
+PT: <p>Desculpe, Princesa Serpente, mas preciso seguir em frente.<k>
+### 469 [cf0/kai/kai01_00.sb:52] (x2)
+EN: <p>A short circuit prevents the hatch from opening.<k>
+PT: <p>Um curto-circuito impede a escotilha de abrir.<k>
+### 470 [cf0/kai/kai01_00.sb:53] (x2)
+EN: <p>The hatch is open.<k>
+PT: <p>A escotilha está aberta.<k>
+### 471 [cf0/kai/kai01_00.sb:54] (x2)
+EN: <p>A short circuit prevents it from opening.<k>
+PT: <p>Um curto-circuito impede que abra.<k>
+### 472 [cf0/kai/kai01_00.sb:55] (x2)
+EN: <p>The door is open.<k>
+PT: <p>A porta está aberta.<k>
+### 473 [cf0/kai/kai01_00.sb:56] (x1)
+EN: <p>Crackle... creak...!<k>
+PT: <p>Crec... nhéc...!<k>
+### 474 [cf0/kai/kai01_00.sb:57] (x2)
+EN: <p>The short circuit appears to be fixed.<k>
+PT: <p>O curto-circuito parece ter sido consertado.<k>
+### 475 [cf0/kai/kai04_00.sb:15] (x1)
+EN: <p>Creak... crack...!<k>
+PT: <p>Nhéc... crec...!<k>
+### 476 [cf0/kam/kam01_00.sb:10] (x4)
+EN: <p>Come on, now. You need to get moving before nightfall. It's the island just south of here.<k>
+PT: <p>Vamos, andem logo. Vocês precisam ir antes do anoitecer. É a ilha logo ao sul daqui.<k>
+### 477 [cf0/kam/kam01_00.sb:11] (x4)
+EN: <p>You can use that crystal ball to find people around the world who need your help.<k>
+PT: <p>Com aquela bola de cristal, vocês podem achar gente pelo mundo que precisa de ajuda.<k>
+### 478 [cf0/kam/kam01_00.sb:12] (x4)
+EN: <p>Do what you can to help solve their problems!<k>
+PT: <p>Façam o que puderem para resolver os problemas delas!<k>
+### 479 [cf0/kam/kam01_00.sb:13] (x4)
+EN: <p>That's the final training mission I have for you.<k>
+PT: <p>Essa é a última missão de treinamento que tenho para vocês.<k>
+### 480 [cf0/kam/kam01_00.sb:16] (x4)
+EN: <p>Are you going to the southern island?<k>
+PT: <p>Vocês vão para a ilha do sul?<k>
+### 481 [cf0/kam/kam01_00.sb:17] (x4)
+EN: <p>I seem to remember Master Roshi visiting that island once, long ago...<k>
+PT: <p>Eu me lembro do Mestre Kame visitando aquela ilha uma vez, muito tempo atrás...<k>
+### 482 [cf0/kam/kam01_00.sb:18] (x4)
+EN: <p>He said something about not wanting to leave it here, or he'd lose it like the Bansho Fan...<k>
+PT: <p>Ele disse algo sobre não querer deixar aquilo aqui, senão ia perder como perdeu o Leque Bashô...<k>
+### 483 [cf0/kam/kam01_00.sb:19] (x4)
+EN: <p>I suppose the crystal ball must have been something very important to him.<k>
+PT: <p>Acho que aquela bola de cristal era algo muito importante para ele.<k>
+### 484 [cf0/kam/kam01_00.sb:20] (x4)
+EN: <p>Certainly is lovely outside, isn't it?<k>
+PT: <p>Está um dia lindo lá fora, não está?<k>
+### 485 [cf0/kam/kam01_00.sb:23] (x4)
+EN: <p>Move it, you bum! Master Roshi wants to see you, now!<k>
+PT: <p>Anda logo, seu vagabundo! O Mestre Kame quer te ver, agora!<k>
+### 486 [cf0/kam/kam01_00.sb:27] (x3)
+EN: <p>I'm being called... I need to get going.<k>
+PT: <p>Estão me chamando... Preciso ir.<k>
+### 487 [cf0/kam/kam01_00.sb:58] (x6)
+EN: <p>So we need to tell Chi-Chi that Goku is dead...? That makes my heart feel heavy indeed...<k>
+PT: <p>Então precisamos contar à Chichi que o Goku morreu...? Isso me deixa com o coração pesado...<k>
+### 488 [cf0/kam/kam01_00.sb:61] (x6)
+EN: <p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>
+PT: <p>É o Circuito de Precisão, tá? Está lá em casa, na Cidade do Oeste.<k><p>Não esquece!<k>
+### 489 [cf0/kam/kam01_00.sb:62] (x6)
+EN: <p>P-please... no matter what you do, please be careful.<k>
+PT: <p>P-por favor... não importa o que aconteça, tomem cuidado.<k>
+### 490 [cf0/kam/kam01_00.sb:64] (x6)
+EN: <p>Hmm? Bulma asked you to fetch something for her? Try searching that workstation over there.<k>
+PT: <p>Hmm? A Bulma pediu para vocês buscarem alguma coisa? Procurem naquela bancada ali.<k>
+### 491 [cf0/kam/kam01_00.sb:67] (x6)
+EN: <p>This must be the Precision Circuit<n>Bulma was talking about.<k>
+PT: <p>Este deve ser o Circuito de Precisão<n>de que a Bulma falou.<k>
+### 492 [cf0/kam/kam01_00.sb:68] (x6)
+EN: <p>Well, I got what Bulma asked for...<k><p>Next up is Goku's house, I guess.<k><p>It's gonna be tough, but I need to break the news to Chi-Chi and the Ox-King.<k>
+PT: <p>Bom, já peguei o que a Bulma pediu...<k><p>Agora é a casa do Goku, acho.<k><p>Vai ser difícil, mas eu preciso dar a notícia para a Chichi e o Cutelo.<k>
+### 493 [cf0/kam/kam01_00.sb:69] (x6)
+EN: <p>Right! Back to Kame House, then.<k>
+PT: <p>Certo! De volta para a Casa do Kame, então.<k>
+### 494 [cf0/kam/kam01_00.sb:70] (x6)
+EN: <p>Nah... I've got nothing left to do there.<k>
+PT: <p>Não... Não tenho mais nada para fazer lá.<k>
+### 495 [cf0/kam/kam01_00.sb:71] (x6)
+EN: <p>Oooh! Looks like you've tracked down Tien!<k>
+PT: <p>Oooh! Parece que vocês acharam o Tenshinhan!<k>
+### 496 [cf0/kam/kam01_00.sb:72] (x6)
+EN: <p>Tien should be over in Jingle Village.<k><p>He sure picked a frigid spot for his training.<k>
+PT: <p>O Tenshinhan deve estar na Vila Jingle.<k><p>Ele escolheu um lugar bem gelado para treinar.<k>
+### 497 [cf0/kam/kam01_00.sb:73] (x6)
+EN: <p>Yamcha's back in his hideout near Mt. Paozu.<k><p>Probably just goofing off over there, too. Goku's gonna leave him in the dust!<k>
+PT: <p>O Yamcha voltou para o esconderijo dele, perto da Montanha Paozu.<k><p>Deve estar só vagabundeando por lá. O Goku vai deixar ele comendo poeira!<k>
+### 498 [cf0/kam/kam01_00.sb:76] (x6)
+EN: <p>We'd better get everyone together first. Krillin, I'm counting on you!<k>
+PT: <p>É melhor juntar todo mundo primeiro. Kuririn, conto com você!<k>
+### 499 [cf0/kam/kam01_00.sb:77] (x6)
+EN: <p>Hurry! You need to get Gohan back from Piccolo!<k>
+PT: <p>Rápido! Vocês precisam resgatar o Gohan das mãos do Piccolo!<k>
+### 500 [cf0/kam/kam01_00.sb:78] (x6)
+EN: <p>Once we have everyone back together, I'm sure we'll find the Dragon Balls in no time!<k>
+PT: <p>Com todo mundo reunido de novo, tenho certeza de que vamos achar as Esferas do Dragão rapidinho!<k>
+### 501 [cf0/kam/kam01_00.sb:79] (x2)
+EN: <p>Say, Gohan, how old are you?<k>
+PT: <p>Diga, Gohan, quantos anos você tem?<k>
+### 502 [cf0/kam/kam01_00.sb:82] (x2)
+EN: <p>Four years old, ma'am.<k>
+PT: <p>Quatro anos, senhora.<k>
+### 503 [cf0/kam/kam01_00.sb:83] (x2)
+EN: <p>Wow! You're pretty polite for being Goku's kid.<k>
+PT: <p>Nossa! Você é bem educado para um filho do Goku.<k>
+### 504 [cf0/kam/kam01_00.sb:84] (x2)
+EN: <p>I wish Chi-Chi would get off his back about it.<k>
+PT: <p>Queria que a Chichi parasse de pegar no pé dele por causa disso.<k>
+### 505 [cf0/kam/kam01_00.sb:85] (x2)
+EN: <p>Hey... the kid's got a tail.<k>
+PT: <p>Ei... o garoto tem rabo.<k>
+### 506 [cf0/kam/kam01_00.sb:86] (x2)
+EN: <p>Yep! Just like I used to have, huh?<k>
+PT: <p>Tem! Igualzinho ao que eu tinha, né?<k>
+### 507 [cf0/kam/kam01_00.sb:87] (x2)
+EN: <p>Is he as strong as you are, Goku?<k>
+PT: <p>Ele é tão forte quanto você, Goku?<k>
+### 508 [cf0/kam/kam01_00.sb:88] (x2)
+EN: <p>Well, I think he's got the same kinda brute strength...<k><p>But whenever I try to train him, Chi-Chi gets all hot under the collar.<k>
+PT: <p>Bom, acho que ele tem o mesmo tipo de força bruta...<k><p>Mas toda vez que eu tento treinar ele, a Chichi fica uma fera.<k>
+### 509 [cf0/kam/kam01_00.sb:89] (x2)
+EN: <p>Why is that? It'd be a waste if you didn't.<k>
+PT: <p>Por quê? Seria um desperdício não treinar.<k>
+### 510 [cf0/kam/kam01_00.sb:90] (x2)
+EN: <p>Yeah, I know!<k><p>She thinks we don't need martial arts anymore now that the world's all peaceful!<k><p>She keeps going on about how we all need to study from now on...<k>
+PT: <p>Pois é, né!<k><p>Ela acha que a gente não precisa mais de artes marciais, agora que o mundo está em paz!<k><p>Vive dizendo que daqui para frente todo mundo tem que estudar...<k>
+### 511 [cf0/kam/kam01_00.sb:91] (x2)
+EN: <p>Mmm? Is that a Dragon Ball the kid has on his hat?<k>
+PT: <p>Hmm? Aquilo no chapéu do garoto é uma Esfera do Dragão?<k>
+### 512 [cf0/kam/kam01_00.sb:92] (x2)
+EN: <p>Yep. The four-star Dragon Ball. My grandpa's heirloom! I tracked it down and put it on myself.<k>
+PT: <p>É sim. A Esfera de 4 Estrelas. A herança do meu avô! Eu achei ela e coloquei aí eu mesmo.<k>
+### 513 [cf0/kam/kam01_00.sb:93] (x2)
+EN: <p>All right. Let's hit him with a sneak attack!<k><p>I doubt he's expecting us to find him. He probably left himself wide open!<k>
+PT: <p>Muito bem. Vamos atacar ele de surpresa!<k><p>Duvido que ele espere que a gente o encontre. Deve ter baixado a guarda!<k>
+### 514 [cf0/kam/kam01_00.sb:94] (x2)
+EN: <p>Huh? But you don't know where he is... Do you?<k>
+PT: <p>Hã? Mas vocês não sabem onde ele está... Sabem?<k>
+### 515 [cf0/kam/kam01_00.sb:95] (x2)
+EN: <p>Bulma! You got your Dragon Radar on you?<k>
+PT: <p>Bulma! Você está com o Radar do Dragão aí?<k>
+### 516 [cf0/kam/kam01_00.sb:96] (x2)
+EN: <p>Oh! That's right! The Dragon Ball Gohan has on his hat!<k>
+PT: <p>Ah! É verdade! A Esfera do Dragão no chapéu do Gohan!<k>
+### 517 [cf0/kam/kam01_00.sb:98] (x2)
+EN: <p>What a shock... Finding your only blood relative, and discovering it's that guy.<k>
+PT: <p>Que choque... Descobrir seu único parente de sangue, e ser logo aquele sujeito.<k>
+### 518 [cf0/kam/kam01_00.sb:99] (x2)
+EN: <p>It doesn't matter. Either way, I'm gonna make him pay.<k>
+PT: <p>Não importa. De qualquer jeito, eu vou fazer ele pagar.<k>
+### 519 [cf0/kam/kam01_00.sb:100] (x2)
+EN: <p>W-what're we gonna do, though? Your brother's a total monster.<k><p>If you can't beat him, then I don't know if anybody can.<k>
+PT: <p>M-mas o que a gente vai fazer? Seu irmão é um monstro.<k><p>Se nem você consegue vencer ele, não sei se alguém consegue.<k>
+### 520 [cf0/kam/kam01_00.sb:101] (x2)
+EN: <p>He's got that tail. That's his weak point.<k><p>If I grab him by the tail, he'll lose all his power. That's how it worked with me.<k>
+PT: <p>Ele tem aquele rabo. É o ponto fraco dele.<k><p>Se eu agarrar o rabo dele, ele perde toda a força. Comigo era assim.<k>
+### 521 [cf0/kam/kam01_00.sb:102] (x2)
+EN: <p>We'll try our best to help you. You'll need it, now that Yamcha and Tien are gone.<k>
+PT: <p>Vamos fazer o possível para te ajudar. Você vai precisar, agora que o Yamcha e o Tenshinhan se foram.<k>
+### 522 [cf0/kam/kam01_00.sb:103] (x2)
+EN: <p>This certainly is a disaster, isn't it? Are you all right?<k>
+PT: <p>Isso é mesmo um desastre, não é? Vocês estão bem?<k>
+### 523 [cf0/kam/kam01_00.sb:104] (x2)
+EN: <p>I'm glad to see you again, Goku.<k>
+PT: <p>Que bom ver você de novo, Goku.<k>
+### 524 [cf0/kam/kam01_00.sb:105] (x2)
+EN: <p>I hope Gohan is okay...<k>
+PT: <p>Espero que o Gohan esteja bem...<k>
+### 525 [cf0/kam/kam01_00.sb:106] (x2)
+EN: <p>It looks like that bastard flew off to the Spinach Wastes.<k>
+PT: <p>Parece que aquele desgraçado voou para o Ermo do Espinafre.<k>
+### 526 [cf0/kam/kam01_00.sb:107] (x2)
+EN: <p>I never imagined you'd join forces with Piccolo.<k><p>This is one fight I definitely don't want to miss!<k>
+PT: <p>Nunca imaginei que você fosse se aliar ao Piccolo.<k><p>Essa é uma luta que eu não quero perder de jeito nenhum!<k>
+### 527 [cf0/kam/kam01_00.sb:110] (x7)
+EN: <p>You folks are amazing... Climbing up Korin Tower so many times like that.<k>
+PT: <p>Vocês são incríveis... Subir a Torre Karin tantas vezes assim.<k>
+### 528 [cf0/kam/kam01_00.sb:113] (x7)
+EN: <p>Korin Tower is up ahead.<k>
+PT: <p>A Torre Karin fica logo ali na frente.<k>
+### 529 [cf0/kam/kam01_00.sb:115] (x14)
+EN: Korin
+PT: Mestre Karin
+### 530 [cf0/kam/kam01_00.sb:116] (x7)
+EN: <p>I need the Hermit Water that flows in the cave inside my realm. Got it?<k>
+PT: <p>Preciso da Água do Eremita que corre na caverna dentro dos meus domínios. Entendido?<k>
+### 531 [cf0/kam/kam01_00.sb:119] (x7)
+EN: <p>Huh? Oh, I'm not going. You're the ones who took the job.<k>
+PT: <p>Hã? Ah, eu não vou. Foram vocês que aceitaram o serviço.<k>
+### 532 [cf0/kam/kam01_00.sb:121] (x7)
+EN: <p>Great... We're stuck.<k><p>I think there's another path from Goku's house, though.<k><p>Let's try going around to the east.<k>
+PT: <p>Ótimo... Estamos presos.<k><p>Mas acho que tem outro caminho saindo da casa do Goku.<k><p>Vamos tentar dar a volta pelo leste.<k>
+### 533 [cf0/kam/kam01_00.sb:122] (x7)
+EN: <p>The bridge is broken.<k>
+PT: <p>A ponte está quebrada.<k>
+### 534 [cf0/kam/kam01_00.sb:123] (x7)
+EN: <p>Kami's training, huh? I bet it must be pretty tough.<k><p>You think Yamcha would stand a chance?<k>
+PT: <p>O treinamento do Kami-Sama, é? Aposto que deve ser bem puxado.<k><p>Você acha que o Yamcha teria alguma chance?<k>
+### 535 [cf0/kam/kam01_00.sb:124] (x7)
+EN: <p>You can get to Kami's place via the Sacred Land of Korin. Keep on doing your best!<k>
+PT: <p>Dá para chegar ao Kami-Sama pela Terra Sagrada de Karin. Continuem se esforçando!<k>
+### 536 [cf0/kam/kam01_00.sb:125] (x7)
+EN: <p>Wow! You're going to visit Kami?! Amazing!<k>
+PT: <p>Nossa! Vocês vão visitar o Kami-Sama?! Incrível!<k>
+### 537 [cf0/kam/kam01_00.sb:126] (x7)
+EN: <p>You are entering holy land. I cannot let you pass without good reason.<k>
+PT: <p>Vocês estão entrando em terra sagrada. Não posso deixá-los passar sem um bom motivo.<k>
+### 538 [cf0/kam/kam01_00.sb:133] (x1)
+EN: <p>Are you headed for the southern island? Well, before you leave...<k>
+PT: <p>Vocês vão para a ilha do sul? Bom, antes de irem...<k>
+### 539 [cf0/kam/kam01_00.sb:134] (x1)
+EN: <p>Let me explain to you what this mark here means.<k>
+PT: <p>Deixem-me explicar o que significa esta marca aqui.<k>
+### 540 [cf0/kam/kam01_00.sb:135] (x1)
+EN: <p>This is what's known as a <d>CC Point<d>.<k>
+PT: <p>Isto é o que chamamos de <d>Ponto CC<d>.<k>
+### 541 [cf0/kam/kam01_00.sb:136] (x1)
+EN: <p>It's a facility put up by the Capsule Corporation.<k>
+PT: <p>É uma instalação montada pela Corporação Cápsula.<k>
+### 542 [cf0/kam/kam01_00.sb:137] (x1)
+EN: <p>Try taking a look at it, okay?<k>
+PT: <p>Deem uma olhada nela, está bem?<k>
+### 543 [cf0/kam/kam01_00.sb:139] (x1)
+EN: <p>As you can see, you can put up a capsule house to rest, as well as save your progress.<k>
+PT: <p>Como podem ver, dá para montar uma casa-cápsula para descansar e também salvar o progresso.<k>
+### 544 [cf0/kam/kam01_00.sb:140] (x1)
+EN: <p>You'll also find them inside cities and dungeons, so check them out when you see them.<k>
+PT: <p>Vocês também vão encontrá-los dentro de cidades e masmorras, então confiram quando virem um.<k>
+### 545 [cf0/kam/kam01_00.sb:148] (x1)
+EN: <p>Please, you have to save our planet! I'm counting on you, okay?<k>
+PT: <p>Por favor, vocês têm que salvar o nosso planeta! Conto com vocês, tá?<k>
+### 546 [cf0/kam/kam02_00.sb:166] (x1)
+EN: <p>The fate of Earth rests on your shoulders! Make us proud!<k>
+PT: <p>O destino da Terra está nas mãos de vocês! Deixem a gente orgulhoso!<k>
+### 547 [cf0/kam/kam02_00.sb:167] (x1)
+EN: <p>A toilet sits here. You're good for now, thankfully.<k>
+PT: <p>Um vaso sanitário. Por enquanto você está bem, felizmente.<k>
+### 548 [cf0/kam/kam02_00.sb:168] (x1)
+EN: <p>A large refrigerator filled with a variety of food.<k>
+PT: <p>Uma geladeira grande, cheia de comida variada.<k>
+### 549 [cf0/kam/kam02_00.sb:169] (x1)
+EN: <p>There's a note on the corner:<n><d>Keep the kitchen clean --Turtle<d><k>
+PT: <p>Tem um bilhete no canto:<n><d>Mantenha a cozinha limpa --Tartaruga<d><k>
+### 550 [cf0/kam/kam03_00.sb:59] (x1)
+EN: <p>Oh, are you going somewhere?<k>
+PT: <p>Oh, vocês vão sair?<k>
+### 551 [cf0/kam/kam03_00.sb:60] (x1)
+EN: <p>What?! What the heck you lookin' at me for, huh?!<k>
+PT: <p>Quê?! Tá olhando o quê pra mim, hein?!<k>
+### 552 [cf0/kam/kam03_00.sb:61] (x1)
+EN: <p>Sleeping on this bed might be a tad dangerous...<k>
+PT: <p>Dormir nesta cama pode ser um tantinho perigoso...<k>
+### 553 [cf0/kam/kam03_00.sb:62] (x1)
+EN: <p>Serious-looking books serve to hide the more prurient ones lurking in the shadows.<k>
+PT: <p>Livros sérios servem para esconder os mais picantes, escondidos nas sombras.<k>
+### 554 [cf0/kam/kam03_00.sb:63] (x1)
+EN: <p>Just as you suspected, there's a stack of rather scandalous books under the desk.<k>
+PT: <p>Como você suspeitava, há uma pilha de livros bem escandalosos debaixo da escrivaninha.<k>
+### 555 [cf0/kar/kar01_00.sb:9] (x1)
+EN: <p>The pot is filled with some kind of seeds.<k>
+PT: <p>O vaso está cheio de algum tipo de semente.<k>
+### 556 [cf0/kar/kar01_00.sb:10] (x1)
+EN: <p>Seedlings are sprouting up from the soil. This must be where Senzu beans come from.<k>
+PT: <p>Há mudas brotando da terra. Deve ser daqui que vêm as Sementes dos Deuses.<k>
+### 557 [cf0/kar/kar01_00.sb:11] (x1)
+EN: <p>The bureau is bursting at the seams with Senzu beans!<k><p>...Just kidding, of course.<k>
+PT: <p>A cômoda está abarrotada de Sementes dos Deuses!<k><p>...Brincadeira, é claro.<k>
+### 558 [cf0/kar/kar01_00.sb:12] (x1)
+EN: <p>The bathtub is dry as a bone. It doesn't seem to get much use around here.<k>
+PT: <p>A banheira está seca como um osso. Parece que ninguém a usa por aqui.<k>
+### 559 [cf0/kar/kar01_00.sb:13] (x1)
+EN: <p>Assorted types of fertilizer are stored in the pots.<k><p>...It doesn't smell particularly good.<k>
+PT: <p>Vários tipos de adubo estão guardados nos vasos.<k><p>...O cheiro não é dos melhores.<k>
+### 560 [cf0/kar/kar01_00.sb:14] (x1)
+EN: <p>The scroll is written in a language you can't read.<k>
+PT: <p>O pergaminho está escrito numa língua que você não consegue ler.<k>
+### 561 [cf0/kar/kar01_00.sb:15] (x1)
+EN: <p>A firm mat is laid out on the floor. The fuzz on it suggests that it's Korin's.<k>
+PT: <p>Há um tapete firme estendido no chão. Pelos pelos, deve ser do Mestre Karin.<k>
+### 562 [cf0/kar/kar03_00.sb:40] (x1)
+EN: <p>Our era is over... it is time for you younger people to step up and protect the Earth.<k><p>Let me give you a little something to help.<k>
+PT: <p>A nossa era acabou... está na hora de vocês, os mais jovens, se levantarem para proteger a Terra.<k><p>Deixem-me dar uma coisinha para ajudar.<k>
+### 563 [cf0/kar/kar03_00.sb:41] (x1)
+EN: <p>Hopefully it'll help you out during battle.<k><p>Best of luck! The Earth is in your hands!<k>
+PT: <p>Espero que ajude vocês nas batalhas.<k><p>Boa sorte! A Terra está nas suas mãos!<k>
+### 564 [cf0/kar/kar03_00.sb:42] (x1)
+EN: <p>They're finally here... Very fearsome opponents indeed. I'm hardly worthy of them.<k>
+PT: <p>Finalmente chegaram... São adversários temíveis mesmo. Eu não estaria à altura deles.<k>
+### 565 [cf0/kar/kar03_00.sb:43] (x1)
+EN: <p>Even as we speak, the Saiyans are hurtling towards us!<k><p>You can't beat them unless you get a great deal stronger, you know.<k>
+PT: <p>Neste exato momento, os Saiyajins estão vindo a toda velocidade!<k><p>Vocês não vão vencê-los se não ficarem muito mais fortes, sabiam?<k>
+### 566 [cf0/kar/kar03_00.sb:44] (x1)
+EN: <p>Hey! I'll help you if you get in trouble, so if you need me, just say so!<k>
+PT: <p>Ei! Eu ajudo vocês se estiverem em apuros, então, se precisarem, é só falar!<k>
+### 567 [cf0/kar/kar03_00.sb:45] (x1)
+EN: <p>Learned <c=#8BEFD4>Y-Yajirobe?!<c><k>
+PT: <p>Aprendeu <c=#8BEFD4>Y-Yajirobe?!<c><k>
+### 568 [cf0/kar/kar03_00.sb:46] (x1)
+EN: <p>I couldn't do much against those guys if I tried. You people better work hard, okay?<k>
+PT: <p>Eu não faria muita coisa contra aqueles caras nem se tentasse. É bom vocês se esforçarem, tá?<k>
+### 569 [cf0/kar/kar03_00.sb:47] (x1)
+EN: <p>A small urn sits on the altar. The divine water must be inside of it.<k>
+PT: <p>Há uma pequena urna no altar. A água sagrada deve estar dentro dela.<k>
+### 570 [cf0/kiu/kiu04_00.sb:37] (x1)
+EN: <p>A giant eggshell. Who can guess how large the fully-grown bird might be?<k>
+PT: <p>Uma casca de ovo gigante. Quem sabe o tamanho que o pássaro adulto teria?<k>
+### 571 [cf0/kos/kos01_00.sb:34] (x1)
+EN: <p>A guy named Montgomery has the Spirit Crystal. He's in the forest.<k><p>First, you must revive five Yemma trees. Then the path to the sprite's tree will open!<k><p>Get a move on, or else the fairies will be <d>fairy<d> annoyed! Hah!<k>
+PT: <p>Um cara chamado Montgomery está com o Cristal Espiritual. Ele está na floresta.<k><p>Primeiro você tem que reviver cinco Árvores do Enma. Aí o caminho para a árvore dos espíritos se abre!<k><p>Ande logo, ou as fadas vão ficar <d>enfadadas<d>! Rá!<k>
+### 572 [cf0/kos/kos01_00.sb:41] (x1)
+EN: <p>So, you wanna go back to the Other World map?<k>
+PT: <p>Então quer voltar para o mapa do Outro Mundo?<k>
+### 573 [cf0/kos/kos01_00.sb:42] (x1)
+EN: Go
+PT: Ir
+### 574 [cf0/kos/kos01_00.sb:43] (x1)
+EN: Cancel
+PT: Cancelar
+### 575 [cf0/kos/kos01_00.sb:44] (x1)
+EN: <p>You're going back to Snake Way? How sssssneaky of you! Hah!<k>
+PT: <p>Vai voltar para a Estrada da Serpente? Que ssssorrateiro! Rá!<k>
+### 576 [cf0/kos/kos01_00.sb:45] (x2)
+EN: Return
+PT: Voltar
+### 577 [cf0/kos/kos01_00.sb:47] (x1)
+EN: <p>A small garage. Does it ever even rain in this world?<k>
+PT: <p>Uma pequena garagem. Será que chove neste mundo?<k>
+### 578 [cf0/kos/kos01_00.sb:48] (x1)
+EN: <p>A stylish sedan. King Kai uses this to tool around the road, apparently.<k>
+PT: <p>Um sedã elegante. Parece que o Senhor Kaioh usa pra passear pela estrada.<k>
+### 579 [cf0/kos/kos01_00.sb:49] (x1)
+EN: <p>An old-fashioned well. Apparently there's ground water to be had in this world.<k>
+PT: <p>Um poço à moda antiga. Pelo jeito, dá pra achar água subterrânea neste mundo.<k>
+### 580 [cf0/kos/kos02_00.sb:40] (x1)
+EN: <p>Ook ook! Oooook!<k>
+PT: <p>Uh uh! Uuuuuh!<k>
+### 581 [cf0/kos/kos02_00.sb:41] (x1)
+EN: <p>Ook ook! Ook ook ook!<k>
+PT: <p>Uh uh! Uh uh uh!<k>
+### 582 [cf0/kos/kos02_00.sb:42] (x1)
+EN: <p>Ook ook! Oooook ook ook!<k>
+PT: <p>Uh uh! Uuuuuh uh uh!<k>
+### 583 [cf0/kos/kos02_00.sb:43] (x1)
+EN: <p>Ook ook! Ook ook ook ook ook!<k>
+PT: <p>Uh uh! Uh uh uh uh uh!<k>
+### 584 [cf0/kos/kos02_00.sb:44] (x1)
+EN: <p>Ook ook! Ook!<k>
+PT: <p>Uh uh! Uh!<k>
+### 585 [cf0/kos/kos02_00.sb:45] (x1)
+EN: <p>Ooooook...<k>
+PT: <p>Uuuuuuh...<k>
+### 586 [cf0/kos/kos02_00.sb:46] (x1)
+EN: <p>Oook ook ook!<k>
+PT: <p>Uuuh uh uh!<k>
+### 587 [cf0/kos/kos04_00.sb:15] (x1)
+EN: <p>That planet Earth seems to have nothing but terrible things happen to it.<k><p>For better or for worse, you certainly wouldn't be bored living there.<k>
+PT: <p>Esse planeta Terra parece que só passa por coisas terríveis.<k><p>Pra bem ou pra mal, ninguém fica entediado morando lá.<k>
+### 588 [cf0/kos/kos04_00.sb:16] (x1)
+EN: <p>I've had enough of King Kai's stupid puns.<k><p>Put up with that for a few centuries, and you'd be pretty drained, too...<k>
+PT: <p>Cansei dos trocadilhos bobos do Senhor Kaioh.<k><p>Aguente isso por uns séculos e você também vai ficar esgotado...<k>
+### 589 [cf0/kos/kos04_00.sb:17] (x1)
+EN: <p>This table has a smaller table placed on top of it.<k>
+PT: <p>Esta mesa tem uma mesa menor em cima dela.<k>
+### 590 [cf0/kos/kos04_00.sb:18] (x1)
+EN: <p><d>The Path of a Punmaster,<d> <d>Enrich Your Life with Puns,<d> <d>Love and Punnery<d>...<k><p>The shelf's book selection is, to say the least, a bit skewed.<k>
+PT: <p><d>O Caminho do Mestre do Trocadilho,<d> <d>Enriqueça a Vida com Trocadilhos,<d> <d>Amor e Trocadilharia<d>...<k><p>A seleção de livros da estante é, no mínimo, meio tendenciosa.<k>
+### 591 [cf0/kou/kou01_00.sb:26] (x1)
+EN: <p>You oughta be strong enough by now... I'll give you permission to venture outside.<k><p>But you're your own man now. No visiting anyplace that'll spoil you like before. Got it?<k>
+PT: <p>A essa altura você já deve estar forte o bastante... Vou te deixar sair por aí.<k><p>Mas agora você anda com as próprias pernas. Nada de ir a lugares que te mimem como antes. Entendeu?<k>
+### 592 [cf0/kou/kou04_00.sb:17] (x1)
+EN: <p>Huh...?<k>
+PT: <p>Hã...?<k>
+### 593 [cf0/kou/kou05_00.sb:16] (x1)
+EN: <p>It's a gigantic flower. The scent is just as overpowering...<k>
+PT: <p>É uma flor gigantesca. O perfume é igualmente avassalador...<k>
+### 594 [cf0/krd/krd03_00.sb:32] (x1)
+EN: <p>A statue of Mutaito, teacher of Master Roshi and Master Shen, sits here.<k>
+PT: <p>Aqui fica uma estátua de Mutaito, mestre do Mestre Kame e do Mestre Shen.<k>
+### 595 [cf0/las/las01_00.sb:12] (x2)
+EN: <p>If we go any further, there won't be any turning back. You ready?<k>
+PT: <p>Se formos mais adiante, não tem mais volta. Está pronto?<k>
+### 596 [cf0/las/las01_00.sb:14] (x2)
+EN: <p>There's no turning back now. Let's keep going.<k>
+PT: <p>Agora não tem mais volta. Vamos seguir em frente.<k>
+### 597 [cf0/mas/mas01_00.sb:15] (x8)
+EN: <p>Let's hurry and go find Eighter!<k>
+PT: <p>Vamos logo achar o Número 8!<k>
+### 598 [cf0/mas/mas01_00.sb:16] (x8)
+EN: <p>You people sure are strong... I don't know what I'd do without you.<k>
+PT: <p>Vocês são fortes mesmo... Não sei o que eu faria sem vocês.<k>
+### 599 [cf0/mas/mas01_00.sb:17] (x8)
+EN: <p>We're almost at the top... Be careful.<k>
+PT: <p>Estamos quase no topo... Tomem cuidado.<k>
+### 600 [cf0/mas/mas09_00.sb:36] (x1)
+EN: <p>The giant machine keep on whirring, even after its owner has disappeared.<k>
+PT: <p>A máquina gigante continua zumbindo, mesmo depois de o dono ter sumido.<k>
+### 601 [cf0/mas/mas09_00.sb:37] (x1)
+EN: <p>Tea bottles and snack food are strewn across the table.<k>
+PT: <p>Garrafas de chá e salgadinhos estão espalhados pela mesa.<k>
+### 602 [cf0/mut/mut03_00.sb:17] (x1)
+EN: <p>The bridge has collapsed. You can see a river flowing far down below.<k>
+PT: <p>A ponte desabou. Dá pra ver um rio correndo lá embaixo.<k>
+### 603 [cf0/nap/nap02_00.sb:11] (x3)
+EN: <p>There's no turning back beyond this point. You sure about this?<k>
+PT: <p>Daqui em diante não tem mais volta. Tem certeza?<k>
+### 604 [cf0/nap/nap02_00.sb:15] (x3)
+EN: <p>I'm sorry, Goku... You're the only guy we can rely on. Are you leaving?<k>
+PT: <p>Desculpa, Goku... Você é o único com quem podemos contar. Vai partir?<k>
+### 605 [cf0/nap/nap02_00.sb:17] (x3)
+EN: <p>Yamcha doesn't respond...<k>
+PT: <p>O Yamcha não responde...<k>
+### 606 [cf0/nap/nap02_00.sb:20] (x3)
+EN: <p>D-Daddy!<k>
+PT: <p>P-papai!<k>
+### 607 [cf0/nap/nap02_00.sb:21] (x3)
+EN: <p>It's up to you, Goku. Try not to get yourself killed.<k>
+PT: <p>Depende de você, Goku. Tente não morrer.<k>
+### 608 [cf0/nap/nap02_00.sb:24] (x3)
+EN: <p>I think I've got a chance to win this time.<k>
+PT: <p>Acho que desta vez eu tenho chance de vencer.<k>
+### 609 [cf0/nap/nap02_00.sb:28] (x3)
+EN: <p>I hope I've got enough strength.<k>
+PT: <p>Tomara que eu tenha força suficiente.<k>
+### 610 [cf0/nap/nap02_00.sb:32] (x3)
+EN: <p>Piccolo... I guess you saved Gohan's life. I swear I'll get revenge for you!<k>
+PT: <p>Piccolo... Você salvou a vida do Gohan. Juro que vou te vingar!<k>
+### 611 [cf0/nem/nem03_00.sb:20] (x1)
+EN: <p>Huh...looks like this robot man's battery ran out.<k><p>Wonder if there's a spare battery somewhere in the ruins?<k>
+PT: <p>Hã... parece que a bateria desse homem-robô acabou.<k><p>Será que tem uma bateria reserva em algum lugar das ruínas?<k>
+### 612 [cf0/nem/nem03_00.sb:22] (x2)
+EN: Robot
+PT: Robô
+### 613 [cf0/nem/nem03_00.sb:23] (x1)
+EN: <p>You have no more reason to be here. Walk onward and search for your future.<k>
+PT: <p>Você não tem mais motivo para estar aqui. Siga em frente e busque o seu futuro.<k>
+### 614 [cf0/nem/nem05_00.sb:18] (x1)
+EN: <p>You're not exactly sure what this device is used for.<k>
+PT: <p>Você não tem certeza de para que serve este aparelho.<k>
+### 615 [cf0/nem/nem05_00.sb:21] (x1)
+EN: <p>I don't even have the energy to destroy this...<k><p>I wish I could see Piccolo...<k>
+PT: <p>Não tenho energia nem pra destruir isto...<k><p>Queria ver o Piccolo...<k>
+### 616 [cf0/pao/pao04_00.sb:22] (x1)
+EN: <p>Yamcha! Is your training going well?<k><p>I forgot to give you this earlier! Go ahead, take it!<k>
+PT: <p>Yamcha! O treino está indo bem?<k><p>Esqueci de te dar isto antes! Vai, pode pegar!<k>
+### 617 [cf0/pao/pao04_00.sb:23] (x1)
+EN: <p>Yamcha! I believe in you, okay? I know you can beat up those Saiyans for us!<k>
+PT: <p>Yamcha! Eu acredito em você, tá? Sei que você consegue dar uma surra naqueles Saiyajins!<k>
+### 618 [cf0/pao/pao04_00.sb:24] (x1)
+EN: <p>*sigh* Yamcha...<k>
+PT: <p>*suspiro* Yamcha...<k>
+### 619 [cf0/pao/pao04_00.sb:25] (x1)
+EN: <p>I promise I'll protect your home, Yamcha! Just focus on your training!<k>
+PT: <p>Prometo que vou proteger a sua casa, Yamcha! Só se concentre no treino!<k>
+### 620 [cf0/pao/pao04_00.sb:26] (x1)
+EN: <p>Whoahh! T-this is Yamcha's place!<k><p>I'm protecting his home from intruders, and I... I'm not gonna let you beat me!<k>
+PT: <p>Uaaah! E-esta é a casa do Yamcha!<k><p>Estou protegendo a casa dele de intrusos, e eu... eu não vou deixar você me vencer!<k>
+### 621 [cf0/pao/pao04_00.sb:27] (x1)
+EN: <p>I'll be cheering you on right here! Hang in there, everybody!<k>
+PT: <p>Vou ficar torcendo aqui mesmo! Aguentem firme, pessoal!<k>
+### 622 [cf0/pao/pao04_00.sb:28] (x1)
+EN: <p>A slender business suit hangs here among the training outfits.<k>
+PT: <p>Um terno elegante está pendurado entre as roupas de treino.<k>
+### 623 [cf0/pao/pao04_00.sb:29] (x1)
+EN: <p>The hanging scroll is written with characters too complex for you to read.<k>
+PT: <p>O pergaminho pendurado tem caracteres complicados demais para você ler.<k>
+### 624 [cf0/pao/pao04_00.sb:32] (x1)
+EN: <p>I think this is about how you have to use heavy weights to refine your body and stuff...<k><p>Y-you know, don't get lazy with your training, that sort of thing!<k>
+PT: <p>Acho que fala sobre usar pesos pesados pra aprimorar o corpo e tal...<k><p>S-sabe, não fazer corpo mole no treino, esse tipo de coisa!<k>
+### 625 [cf0/pao/pao04_00.sb:33] (x1)
+EN: <p>Refreshing cooking smells emanate from the pot.<k>
+PT: <p>Um cheiro agradável de comida sai da panela.<k>
+### 626 [cf0/pao/pao04_00.sb:34] (x1)
+EN: <p>A large sword casually rests here.<k>
+PT: <p>Uma espada grande está largada aqui.<k>
+### 627 [cf0/pao/pao04_00.sb:35] (x1)
+EN: <p>The bed is neatly made.<k>
+PT: <p>A cama está bem arrumada.<k>
+### 628 [cf0/pao/pao06_00.sb:32] (x1)
+EN: <p>Notice: Dragon Rock, home to monsters, due east.<k><p>Trespassing and treasure hunting is highly discouraged.<k>
+PT: <p>Aviso: Rocha do Dragão, lar de monstros, a leste.<k><p>Invasão e caça ao tesouro são totalmente desaconselhadas.<k>
+### 629 [cf0/pao/pao06_00.sb:34] (x1)
+EN: <p>Kakarot...!<k>
+PT: <p>Kakarotto...!<k>
+### 630 [cf0/pao/pao08_00.sb:65] (x1)
+EN: <p>Goku's House Ahead<k>
+PT: <p>Casa do Goku à frente<k>
+### 631 [cf0/pir/pir02_00.sb:15] (x1)
+EN: <p>A portrait of Pilaf... not very flattering.<k>
+PT: <p>Um retrato do Pilaf... nada lisonjeiro.<k>
+### 632 [cf0/pir/pir03_00.sb:18] (x1)
+EN: <p>A TV monitor. Nothing's being displayed right now.<k>
+PT: <p>Um monitor de TV. Não está mostrando nada agora.<k>
+### 633 [cf0/pir/pir07_00.sb:16] (x1)
+EN: <p>A large, ponderous machine. You don't know what it's used for.<k>
+PT: <p>Uma máquina grande e pesada. Você não sabe para que serve.<k>
+### 634 [cf0/pir/pir07_00.sb:17] (x1)
+EN: <p>The monitor displays the scene outside.<k>
+PT: <p>O monitor mostra a cena lá fora.<k>
+### 635 [cf0/pir/pir07_00.sb:18] (x1)
+EN: <p>There's some kind of button here. Push it?<k>
+PT: <p>Tem algum tipo de botão aqui. Apertar?<k>
+### 636 [cf0/pir/pir10_00.sb:31] (x1)
+EN: <p>A ping-pong table is set up here.<k>
+PT: <p>Tem uma mesa de pingue-pongue montada aqui.<k>
+### 637 [cf0/pir/pir10_00.sb:32] (x1)
+EN: <p>Cards and a game board lie here, abandoned in the middle of play.<k>
+PT: <p>Cartas e um tabuleiro estão largados aqui, abandonados no meio da partida.<k>
+### 638 [cf0/pir/pir10_00.sb:33] (x1)
+EN: <p>A large dragon sculpture. The owner of this place must like dragons.<k>
+PT: <p>Uma grande escultura de dragão. O dono deste lugar deve gostar de dragões.<k>
+### 639 [cf0/pir/pir10_00.sb:34] (x1)
+EN: <p>Colorful, expensive-looking vases are lined up here.<k>
+PT: <p>Vasos coloridos que parecem caros estão enfileirados aqui.<k>
+### 640 [cf0/pir/pir10_00.sb:35] (x1)
+EN: <p>A glass piece of some sort. You don't know what it's used for.<k>
+PT: <p>Algum tipo de peça de vidro. Você não sabe para que serve.<k>
+### 641 [cf0/pir/pir10_00.sb:36] (x1)
+EN: <p>A full-sized pinball machine. It appears to have seen heavy use.<k>
+PT: <p>Uma máquina de pinball em tamanho real. Parece muito usada.<k>
+### 642 [cf0/sen/sen04_00.sb:28] (x1)
+EN: <p>A large lotus flower sits in the middle of the pond, emitting a mystical light.<k>
+PT: <p>Uma grande flor de lótus no meio do lago emite uma luz mística.<k>
+### 643 [cf0/skr/skr01_00.sb:15] (x1)
+EN: <p>The two falling stars were omens of disaster. Something else is going to happen soon.<k>
+PT: <p>As duas estrelas cadentes eram presságios de desastre. Algo mais vai acontecer em breve.<k>
+### 644 [cf0/skr/skr01_00.sb:16] (x1)
+EN: <p>Thank you for coming. We are the people that guard the sacred land.<k>
+PT: <p>Obrigado por virem. Somos o povo que guarda a terra sagrada.<k>
+### 645 [cf0/skr/skr01_00.sb:17] (x1)
+EN: <p>I heard something terrible happened to East City! What was it, I wonder?<k>
+PT: <p>Ouvi dizer que aconteceu algo terrível na Cidade do Leste! O que será que foi?<k>
+### 646 [cf0/skr/skr01_00.sb:18] (x1)
+EN: <p>They say there's a really neat cat that lives at the top of Korin Tower!<k><p>I'm gonna climb up there someday and catch it!<k>
+PT: <p>Dizem que um gato muito legal mora no topo da Torre Karin!<k><p>Um dia vou subir lá e pegar ele!<k>
+### 647 [cf0/skr/skr01_00.sb:19] (x1)
+EN: <p>I wonder if the shooting stars surprised the cat in Korin Tower, too.<k>
+PT: <p>Será que as estrelas cadentes também assustaram o gato da Torre Karin?<k>
+### 648 [cf0/skr/skr01_00.sb:20] (x1)
+EN: <p>There's no way a cat could live so high up there! I mean, it'd fall off!<k>
+PT: <p>Não tem como um gato morar tão lá no alto! Ele ia cair!<k>
+### 649 [cf0/skr/skr01_00.sb:21] (x1)
+EN: <p>Rrrrr... *whine*<k>
+PT: <p>Rrrrr... *cainn*<k>
+### 650 [cf0/skr/skr01_00.sb:22] (x1)
+EN: <p>Rrrrr... Ruff! Ruff ruff!<k>
+PT: <p>Rrrrr... Au! Au au!<k>
+### 651 [cf0/skr/skr01_00.sb:24] (x1)
+EN: <p>Hey! You still okay?! East City exploded, so I thought you were dead, too!<k>
+PT: <p>Ei! Você está bem?! A Cidade do Leste explodiu, achei que você também tinha morrido!<k>
+### 652 [cf0/skr/skr01_00.sb:25] (x1)
+EN: <p>I hear East City exploded! Big surprise! Did that temple blow up, too?<k>
+PT: <p>Soube que a Cidade do Leste explodiu! Que surpresa! Aquele templo explodiu também?<k>
+### 653 [cf0/skr/skr01_00.sb:26] (x1)
+EN: <p>Oh! You! I still train to keep you from beating me! Hi-yahh!<k>
+PT: <p>Oh! Você! Continuo treinando pra você não me vencer! Hi-iaah!<k>
+### 654 [cf0/skr/skr01_00.sb:27] (x1)
+EN: <p>People here are very nice! I can train in peace! Hi-yahh!<k>
+PT: <p>O pessoal daqui é muito gentil! Dá pra treinar em paz! Hi-iaah!<k>
+### 655 [cf0/skr/skr02_00.sb:47] (x1)
+EN: <p>The sky was bright red over in the east! What was that...?!<k>
+PT: <p>O céu ficou vermelho-vivo lá pro leste! O que foi aquilo...?!<k>
+### 656 [cf0/skr/skr02_00.sb:48] (x1)
+EN: <p>The whole world is in a panic.<k><p>Times like these are when you have to relax and look at the big picture.<k><p>You must understand what is really happening<k>
+PT: <p>O mundo inteiro está em pânico.<k><p>É em horas assim que se deve relaxar e ver o quadro geral.<k><p>Você precisa entender o que está acontecendo de verdade<k>
+### 657 [cf0/skr/skr02_00.sb:49] (x1)
+EN: <p>We felt the aftershock of the explosion at the East City.<n>Korin Tower was shaking termendously.<k>
+PT: <p>Sentimos o tremor da explosão na Cidade do Leste.<n>A Torre Karin balançou demais.<k>
+### 658 [cf0/skr/skr02_00.sb:50] (x1)
+EN: <p>Inside this village is Korin Tower, a structure so high that they say it reaches the sky.<k>
+PT: <p>Nesta aldeia fica a Torre Karin, uma construção tão alta que dizem que chega ao céu.<k>
+### 659 [cf0/skr/skr02_00.sb:51] (x1)
+EN: <p>Bora told me to calm down, but I can't... I feel like something terrible's going to happen.<k>
+PT: <p>O Bora me disse pra ter calma, mas não consigo... Sinto que algo terrível vai acontecer.<k>
+### 660 [cf0/skr/skr02_00.sb:52] (x1)
+EN: <p>Bora, the sole protector of the village, was killed by the military.<k><p>But this boy came to save his life with his mysterious power.<k>
+PT: <p>O Bora, o único protetor da aldeia, foi morto pelos militares.<k><p>Mas este garoto veio e salvou a vida dele com um poder misterioso.<k>
+### 661 [cf0/skr/skr02_00.sb:53] (x1)
+EN: <p>Two falling stars... I just know something is about to unfold for us all.<k>
+PT: <p>Duas estrelas cadentes... Sei que alguma coisa está pra acontecer com todos nós.<k>
+### 662 [cf0/skr/skr02_00.sb:54] (x1)
+EN: <p>This land once fell under attack by a group calling themselves the Red Ribbon Army.<k>
+PT: <p>Esta terra já foi atacada por um grupo que se chamava Exército Red Ribbon.<k>
+### 663 [cf0/skr/skr02_00.sb:55] (x1)
+EN: <p>You know what? Korin Tower swayed a whole bunch! I was afraid it was gonna fall down!<k>
+PT: <p>Sabia? A Torre Karin balançou um montão! Fiquei com medo de ela cair!<k>
+### 664 [cf0/skr/skr02_00.sb:56] (x1)
+EN: <p>You just got down from that tower, right? What's it like in there?!<k>
+PT: <p>Você acabou de descer daquela torre, né? Como é lá dentro?!<k>
+### 665 [cf0/skr/skr02_00.sb:57] (x1)
+EN: <p>Wow! Korin Tower is so tall!<k>
+PT: <p>Uau! A Torre Karin é tão alta!<k>
+### 666 [cf0/skr/skr02_00.sb:58] (x1)
+EN: <p>Mankind has angered the gods... That was a bolt of lightning from the deities themselves.<k>
+PT: <p>A humanidade enfureceu os deuses... Aquilo foi um raio lançado pelas próprias divindades.<k>
+### 667 [cf0/skr/skr02_00.sb:59] (x1)
+EN: <p>The river source inside the cave is a sacred place. No one is allowed near it.<k>
+PT: <p>A nascente do rio dentro da caverna é um lugar sagrado. Ninguém pode chegar perto.<k>
+### 668 [cf0/skr/skr02_00.sb:60] (x1)
+EN: <p>Hey... is what happened to East City gonna happen to the rest of the world, too?<k>
+PT: <p>Ei... o que aconteceu com a Cidade do Leste vai acontecer com o resto do mundo também?<k>
+### 669 [cf0/skr/skr02_00.sb:61] (x1)
+EN: <p>Upa is so cool! I can't believe how strong he is!<k>
+PT: <p>O Upa é demais! Nem acredito como ele é forte!<k>
+### 670 [cf0/skr/skr02_00.sb:62] (x1)
+EN: <p>There's no point falling into panic at a time like this.<k><p>We just have to accept our fate when it arrives.<k>
+PT: <p>Não adianta entrar em pânico numa hora dessas.<k><p>Só nos resta aceitar o destino quando ele chegar.<k>
+### 671 [cf0/skr/skr02_00.sb:63] (x1)
+EN: <p>This is the Chief's tent. You can go inside, but please don't make a mess.<k>
+PT: <p>Esta é a tenda do Chefe. Pode entrar, mas, por favor, não faça bagunça.<k>
+### 672 [cf0/skr/skr02_00.sb:64] (x1)
+EN: <p>Did you think Speed just determines who attacks first in battle?<k><p>Well, it's more than that! Higher speed lets you evade enemy attacks more often! Cool, huh?<k>
+PT: <p>Achou que a Velocidade só define quem ataca primeiro na batalha?<k><p>Pois é mais que isso! Com mais velocidade, você esquiva dos ataques inimigos com mais frequência! Legal, né?<k>
+### 673 [cf0/skr/skr03_00.sb:38] (x1)
+EN: <p>A statue of Korin, complete with a rather cute tail.<k>
+PT: <p>Uma estátua do Mestre Karin, com um rabinho bem fofo.<k>
+### 674 [cf0/skr/skr03_00.sb:39] (x1)
+EN: <p>A statue of Korin. His smiling face beams across town.<k>
+PT: <p>Uma estátua do Mestre Karin. O rosto sorridente dele ilumina a aldeia.<k>
+### 675 [cf0/skr/skr04_00.sb:11] (x1)
+EN: <p>I can't believe East City exploded... I've never seen such an angry-looking sky.<k>
+PT: <p>Não acredito que a Cidade do Leste explodiu... Nunca vi um céu com cara tão brava.<k>
+### 676 [cf0/skr/skr04_00.sb:12] (x1)
+EN: <p>This is the Sacred Land of Korin.<k><p>A group has gathered here and formed a village, following the beliefs of Bora's tribe.<k>
+PT: <p>Esta é a Terra Sagrada de Karin.<k><p>Um grupo se reuniu aqui e formou uma aldeia, seguindo as crenças da tribo do Bora.<k>
+### 677 [cf0/skr/skr04_00.sb:13] (x1)
+EN: <p>Food gathered from the forest rests on the counter.<k>
+PT: <p>Há comida colhida na floresta sobre o balcão.<k>
+### 678 [cf0/skr/skr05_00.sb:11] (x1)
+EN: <p>It seems people are running from their homes after hearing about East City.<k><p>Where can they run, though? As long as we're on Earth, we all share the same fate.<k>
+PT: <p>Parece que as pessoas estão fugindo de casa depois de saber da Cidade do Leste.<k><p>Mas fugir pra onde? Enquanto estivermos na Terra, todos temos o mesmo destino.<k>
+### 679 [cf0/skr/skr05_00.sb:12] (x1)
+EN: <p>We don't get guests very often. If you think Korin Tower is a tourist spot, you're mistaken.<k>
+PT: <p>Não recebemos visitas com frequência. Se acha que a Torre Karin é ponto turístico, está enganado.<k>
+### 680 [cf0/skr/skr05_00.sb:13] (x1)
+EN: <p>A sharp odor wafts out of the pot. There must be some kind of medicine inside.<k>
+PT: <p>Um cheiro forte sai da panela. Deve ter algum remédio dentro.<k>
+### 681 [cf0/skr/skr06_00.sb:11] (x1)
+EN: <p>You can build up your body all you want, but if your heart is not just as solid...<k><p>Then you'll be unable to act when the time calls for it. It's a difficult sort of balance.<k>
+PT: <p>Você pode fortalecer o corpo o quanto quiser, mas, se o coração não for igualmente firme...<k><p>Não vai conseguir agir quando for preciso. É um equilíbrio difícil.<k>
+### 682 [cf0/skr/skr06_00.sb:12] (x1)
+EN: <p>If you climb the tower, the hermit who lives up top will give you sacred water.<k><p>Drink it, and your power will be multiplied countless times.<k>
+PT: <p>Se subir a torre, o eremita que mora lá em cima vai te dar a água sagrada.<k><p>Beba e o seu poder vai se multiplicar incontáveis vezes.<k>
+### 683 [cf0/skr/skr06_00.sb:13] (x1)
+EN: <p>The altar is draped with an intricately-designed cloth.<k>
+PT: <p>O altar está coberto por um pano de desenhos intrincados.<k>
+### 684 [cf0/sna/sna02_00.sb:16] (x2)
+EN: <p>There is a depression in the ground. Do you want to try stepping on it?<k>
+PT: <p>Há um afundamento no chão. Quer tentar pisar nele?<k>
+### 685 [cf0/sna/sna05_00.sb:17] (x1)
+EN: <p>Princess Snake is waiting for you.<k>
+PT: <p>A Princesa Serpente está à sua espera.<k>
+### 686 [cf0/sna/sna05_00.sb:18] (x1)
+EN: <p>Please enter through the large door.<k>
+PT: <p>Por favor, entre pela porta grande.<k>
+### 687 [cf0/sna/sna05_00.sb:19] (x1)
+EN: <p>Princess Snake's room is on the other side.<k>
+PT: <p>O quarto da Princesa Serpente fica do outro lado.<k>
+### 688 [cf0/sna/sna06_00.sb:13] (x1)
+EN: <p>There is Princess Snake's chair... but no Princess Snake.<k>
+PT: <p>Ali está a cadeira da Princesa Serpente... mas nada da Princesa Serpente.<k>
+### 689 [cf0/spi/spi08_00.sb:12] (x1)
+EN: <p>It sounds like he went off to a power source as strong as my own...<k><p>Did he mean... Goku?!!<k><p>I'd better go to Master Roshi and see what's up...<k><p>But who is this Kakarot?<k>
+PT: <p>Parece que ele foi atrás de uma fonte de poder tão forte quanto a minha...<k><p>Será que ele quis dizer... o Goku?!!<k><p>É melhor eu ir ao Mestre Kame ver o que houve...<k><p>Mas quem é esse tal de Kakarotto?<k>
+### 690 [cf0/tut/tut01_00.sb:14] (x1)
+EN: <p>Mmm? There's something nearby...<k>
+PT: <p>Hmm? Tem alguma coisa aqui perto...<k>
+### 691 [cf0/tut/tut01_00.sb:15] (x1)
+EN: <p>Agh! Whoa whoa whoa!<k>
+PT: <p>Opa! Calma, calma, calma!<k>
+### 692 [cf0/tut/tut01_00.sb:16] (x1)
+EN: <p>Whew! What a surprise. Good thing they weren't too tough.<k><p>Winning battles earns you Zeni (money) and experience.<k><p>You'll also get AP, or Ability Points.<k><p>Our levels go up when we earn enough experience points...<k><p>And we can learn new skills and polish our old ones with the AP we get.<k><p>Select Skills from the menu to use your AP. Give it a shot!<k><p>The more enemies you fight, the stronger you'll get! Keep it up, and we'll be as strong as Goku!<k>
+PT: <p>Ufa! Que susto. Ainda bem que eles não eram muito fortes.<k><p>Vencendo batalhas, você ganha Zeni (dinheiro) e experiência.<k><p>Também ganha AP, os Pontos de Habilidade.<k><p>Nosso nível sobe quando juntamos pontos de experiência suficientes...<k><p>E com os AP dá para aprender técnicas novas e aprimorar as antigas.<k><p>Escolha Técnicas no menu para usar seus AP. Experimente!<k><p>Quanto mais inimigos você enfrentar, mais forte vai ficar! Continue assim e a gente vai ficar tão forte quanto o Goku!<k>
+### 693 [cf0/tut/tut01_00.sb:17] (x1)
+EN: <p>There's something else near...<k>
+PT: <p>Tem mais alguma coisa por perto...<k>
+### 694 [cf0/tut/tut01_00.sb:18] (x1)
+EN: <p>Whoah! A ghost!<k>
+PT: <p>Uau! Um fantasma!<k>
+### 695 [cf0/tut/tut01_00.sb:19] (x1)
+EN: <p>See that flashing rock? Go up to it, and you can use a Ki-Blast to destroy it.<k>
+PT: <p>Está vendo aquela pedra piscando? Chegue perto dela e use uma Rajada de Ki para destruí-la.<k>
+### 696 [cf0/tut/tut01_00.sb:20] (x1)
+EN: <p>Press the B Button when it's flashing to start building up your power.<k>
+PT: <p>Aperte o Botão B quando ela estiver piscando para começar a concentrar o seu poder.<k>
+### 697 [cf0/tut/tut01_00.sb:21] (x1)
+EN: <p>When your power is full, the Ki meter will light up.<k>
+PT: <p>Quando o seu poder estiver no máximo, o medidor de Ki vai acender.<k>
+### 698 [cf0/tut/tut01_00.sb:22] (x1)
+EN: <p>Release the B Button, and you'll launch a Ki blast!<k>
+PT: <p>Solte o Botão B e você vai disparar uma Rajada de Ki!<k>
+### 699 [cf0/tut/tut01_00.sb:23] (x1)
+EN: <p>Go ahead, give it a shot!<k>
+PT: <p>Vamos lá, tente!<k>
+### 700 [cf0/tut/tut01_00.sb:24] (x1)
+EN: <p>That felt good, huh? You can use Ki blasts to break the obstacles in your way.<k>
+PT: <p>Foi bom, né? Você pode usar Rajadas de Ki para quebrar os obstáculos no caminho.<k>
+### 701 [cf0/tut/tut01_00.sb:25] (x1)
+EN: <p>Hold on! I haven't finished talking yet.<k>
+PT: <p>Espera aí! Eu ainda não terminei de falar.<k>
+### 702 [cf0/tut/tut02_00.sb:45] (x1)
+EN: <p>Hey, it's me! I forgot to give you my capsule, so I left it in there for you.<k><p>Use them in cities or dungeons, and you'll find useful items inside.<k>
+PT: <p>Oi, sou eu! Esqueci de dar a minha cápsula, então deixei ela aí para vocês.<k><p>Usem nas cidades ou nas masmorras, e vão encontrar itens úteis lá dentro.<k>
+### 703 [cf0/tut/tut02_00.sb:46] (x1)
+EN: <p>Now you got it! That gas is no problem now, huh?<k><p><d>Standby<d> refers to how effective the item is when not placed in the topmost slot.<k><p>For example, the <c=#8BEFD4>Gas Mask<c> only boosts your Poison resistance half as much when used on standby.<k><p>There are lots of other helpful items, so be sure to try 'em out whenever you find a new one.<k><p>See you later!<k>
+PT: <p>Agora sim! Aquele gás não é mais problema, né?<k><p><d>Reserva<d> é o quanto o item funciona quando não está no espaço de cima.<k><p>Por exemplo, a <c=#8BEFD4>Máscara de Gás<c> só aumenta metade da resistência a Veneno quando está na reserva.<k><p>Há muitos outros itens úteis, então experimentem sempre que acharem um novo.<k><p>Até mais!<k>
+### 704 [cf0/tut/tut02_00.sb:47] (x1)
+EN: <p>Wait, wait! Open up that treasure chest.<k>
+PT: <p>Espera, espera! Abra aquele baú de tesouro.<k>
+### 705 [cf0/tut/tut02_00.sb:48] (x1)
+EN: <p>Hold it! Try equipping the <c=#8BEFD4>Gas Mask<c> and walking through the gas for a bit!<k><p>Select <d>Capsule<d> off the menu to equip your capsules!<k>
+PT: <p>Espera! Tente equipar a <c=#8BEFD4>Máscara de Gás<c> e andar um pouco pelo gás!<k><p>Escolha <d>Cápsulas<d> no menu para equipar suas cápsulas!<k>
+### 706 [cf0/tut/tut02_00.sb:49] (x1)
+EN: <p>See the gas cloud up ahead? Walking through that would normally hurt you...<k><p>But use a capsule on the bottom screen and select <c=#8BEFD4>Gas Mask<c>, and it'll be no problem.<k><p>Try walking in there a little and see for yourself.<k>
+PT: <p>Está vendo a nuvem de gás ali na frente? Andar por ela normalmente te machucaria...<k><p>Mas use uma cápsula na tela de baixo e escolha a <c=#8BEFD4>Máscara de Gás<c>, e não vai ter problema.<k><p>Ande um pouquinho por lá e veja você mesmo.<k>
+### 707 [cf0/tut/tut02_00.sb:50] (x1)
+EN: <p>No, that's not it! Equip the <c=#8BEFD4>Gas Mask<c> up top, in the red slot!<k>
+PT: <p>Não, não é isso! Equipe a <c=#8BEFD4>Máscara de Gás<c> lá em cima, no espaço vermelho!<k>
+### 708 [cf0/tut/tut02_00.sb:51] (x1)
+EN: <p>No, no, no! You gotta equip the <c=#8BEFD4>Gas Mask<c>, or else you'll be killed!<k><p>Select Capsule off the menu to equip items.<k>
+PT: <p>Não, não, não! Você tem que equipar a <c=#8BEFD4>Máscara de Gás<c>, senão vai morrer!<k><p>Escolha Cápsulas no menu para equipar itens.<k>
+### 709 [cf0/ura/ura01_00.sb:10] (x1)
+EN: <p>When you raise your Skill parameter, you can fire off beams and stuff! Cool, huh?<k><p>What kind of waves? Well, I don't know! Microwaves? Cosmic waves?<k><p>...Oh, no, I hope it's not cosmic waves! I'm scared of those! Ahhhhh!!<k>
+PT: <p>Quando você aumenta o atributo Técnica, dá pra soltar raios e tal! Legal, né?<k><p>Que tipo de ondas? Bom, sei lá! Micro-ondas? Ondas cósmicas?<k><p>...Ai, não, tomara que não sejam ondas cósmicas! Tenho medo delas! Aaaaah!!<k>
+### 710 [cf0/ura/ura01_00.sb:12] (x1)
+EN: <p>Not even Fortuneteller Baba can predict the future this time... I hope Earth turns out all right.<k>
+PT: <p>Nem a Vovó Uranai consegue prever o futuro desta vez... Tomara que a Terra fique bem.<k>
+### 711 [cf0/ura/ura01_00.sb:13] (x1)
+EN: <p>Admission is free for all of you. Please, come on in.<k>
+PT: <p>A entrada é grátis pra todos vocês. Por favor, entrem.<k>
+### 712 [cf0/ura/ura01_00.sb:14] (x1)
+EN: <p>Ah, a visitor... heh heh heh. Please, come right in.<k>
+PT: <p>Ah, uma visita... heh heh heh. Por favor, pode entrar.<k>
+### 713 [cf0/ura/ura02_00.sb:13] (x1)
+EN: <p>You hear about East City?! They say space aliens blew it up! How scary!<k>
+PT: <p>Ficou sabendo da Cidade do Leste?! Dizem que alienígenas explodiram a cidade! Que medo!<k>
+### 714 [cf0/ura/ura02_00.sb:14] (x1)
+EN: <p>You're all too strong! Just go visit Baba, okay? You don't have to do any fighting!<k>
+PT: <p>Vocês são fortes demais! Vão logo ver a Vovó Uranai, tá? Não precisam lutar!<k>
+### 715 [cf0/ura/ura02_00.sb:15] (x1)
+EN: <p>Fortuneteller Baba always looks forward to new challengers.<k>
+PT: <p>A Vovó Uranai sempre fica ansiosa por novos desafiantes.<k>
+### 716 [cf0/ura/ura02_00.sb:16] (x1)
+EN: <p>Zzz... zzz...<k><p>Gahh!!<k>
+PT: <p>Zzz... zzz...<k><p>Aaah!!<k>
+### 717 [cf0/ura/ura02_00.sb:17] (x1)
+EN: <p>I've been lying here this whole time, so I'm starting to get a little sleepy...<k>
+PT: <p>Estou deitado aqui esse tempo todo, então estou começando a ficar com sono...<k>
+### 718 [cf0/ura/ura02_00.sb:18] (x1)
+EN: <p>Ow ow ow ow...<k>
+PT: <p>Ai ai ai ai...<k>
+### 719 [cf0/ura/ura02_00.sb:19] (x1)
+EN: <p>Hey, I think this guy's just pretending to be knocked out. Let's try kicking him.<k>
+PT: <p>Ei, acho que esse cara está só fingindo que desmaiou. Vamos tentar chutar ele.<k>
+### 720 [cf0/ura/ura02_00.sb:20] (x1)
+EN: <p>My blood's been sucked... I feel faint. When am I ever gonna win here?<k>
+PT: <p>Chuparam o meu sangue... Estou tonto. Quando é que eu vou ganhar aqui?<k>
+### 721 [cf0/ura/ura02_00.sb:21] (x1)
+EN: <p>That's not fair! You can't fight when you're invisible!<k>
+PT: <p>Não é justo! Não dá pra lutar sendo invisível!<k>
+### 722 [cf0/ura/ura02_00.sb:22] (x1)
+EN: <p>Waaallllk... Verrrry... Sloooowlllyy...<k>
+PT: <p>Aaaandeee... Beeeem... Deeevaaagaaar...<k>
+### 723 [cf0/ura/ura02_00.sb:23] (x1)
+EN: <p>Soooo... slloooowwww... Meeeewwwwww...<k>
+PT: <p>Tããão... leeeentooo... Miaaaauuuu...<k>
+### 724 [cf0/ura/ura02_00.sb:24] (x1)
+EN: <p>So... slow... Me... ow...<k>
+PT: <p>Tão... lento... Mi... au...<k>
+### 725 [cf0/ura/ura03_00.sb:87] (x1)
+EN: <p>Earth is dangerous enough as is... now someone's actively trying to destroy it.<k>
+PT: <p>A Terra já é perigosa o bastante... e agora alguém está tentando destruí-la de propósito.<k>
+### 726 [cf0/ura/ura03_00.sb:88] (x1)
+EN: <p>P-P-Piccolo! What do you want?! You here to beat up a poor old woman?!<k>
+PT: <p>P-P-Piccolo! O que você quer?! Veio bater numa pobre velhinha?!<k>
+### 727 [cf0/ura/ura03_00.sb:89] (x1)
+EN: <p>What do you want? You guys are too strong for me. I'll tell your fortunes without a fight.<k>
+PT: <p>O que vocês querem? Vocês são fortes demais pra mim. Leio a sorte de vocês sem luta.<k>
+### 728 [cf0/ura/ura03_00.sb:91] (x1)
+EN: <p>It's a secret to everybody!<k>
+PT: <p>É segredo pra todo mundo!<k>
+### 729 [cf0/ura/ura03_00.sb:92] (x1)
+EN: <p>Acquired <c=#8BEFD4>5000 Zeni<c>!<k>
+PT: <p>Recebeu <c=#8BEFD4>5000 Zeni<c>!<k>
+### 730 [cf0/ura/ura03_00.sb:93] (x1)
+EN: <p>Sorry! I've got nothing left!<k>
+PT: <p>Desculpe! Não tenho mais nada!<k>
+### 731 [cf0/ura/ura03_00.sb:94] (x1)
+EN: <p>I'd be happy to guide you to the Other World. Would you like to pay it a visit...?<k>
+PT: <p>Terei prazer em guiá-los até o Outro Mundo. Gostariam de fazer uma visita...?<k>
+### 732 [cf0/ura/ura03_00.sb:96] (x1)
+EN: <p>This giant crystal ball emits a mystical light.<k><p>If you look closely, you can see something writhing around inside.<k>
+PT: <p>Esta bola de cristal gigante emite uma luz mística.<k><p>Olhando de perto, dá pra ver algo se contorcendo lá dentro.<k>
+### 733 [cf0/ura/ura03_00.sb:97] (x1)
+EN: <p>An eerie mask has been hung on the wall.<k><p>It's warm to the touch, almost as if it's alive.<k>
+PT: <p>Uma máscara sinistra está pendurada na parede.<k><p>Ela é quente ao toque, quase como se estivesse viva.<k>
+### 734 [cf0/ura/ura03_00.sb:98] (x1)
+EN: <p>A golden coffin shines coldly, covered by a gravestone-like object.<k>
+PT: <p>Um caixão dourado brilha friamente, coberto por algo parecido com uma lápide.<k>
+### 735 [cf0/ura/ura03_00.sb:99] (x1)
+EN: <p>I can bring the dead back from the Other World for a short time. Who would you like to resurrect?<k>
+PT: <p>Posso trazer os mortos do Outro Mundo por pouco tempo. Quem vocês querem reviver?<k>
+### 736 [cf0/ura/ura03_00.sb:103] (x1)
+EN: Quit
+PT: Sair
+### 737 [cf0/ura/ura03_00.sb:104] (x1)
+EN: <p>Ah yes, Piccolo... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+PT: <p>Ah, sim, o Piccolo... Muito bem.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+### 738 [cf0/ura/ura03_00.sb:106] (x1)
+EN: <p>You people are hopeless without me. I suppose I can help you out for a little bit.<k>
+PT: <p>Vocês não têm jeito sem mim. Acho que posso ajudar um pouco.<k>
+### 739 [cf0/ura/ura03_00.sb:107] (x1)
+EN: Piccolo joined your team!
+PT: O Piccolo entrou no grupo!
+### 740 [cf0/ura/ura03_00.sb:108] (x1)
+EN: <p>But Piccolo is right beside you! I don't appreciate being made fun of, you!<k>
+PT: <p>Mas o Piccolo está bem do seu lado! Não gosto que caçoem de mim, viu?<k>
+### 741 [cf0/ura/ura03_00.sb:109] (x1)
+EN: <p>Ah yes, Yamcha... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+PT: <p>Ah, sim, o Yamcha... Muito bem.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+### 742 [cf0/ura/ura03_00.sb:111] (x1)
+EN: <p>Ha hahh! I'm ready and rarin' to go!<k>
+PT: <p>Rá ráh! Estou pronto e louco pra lutar!<k>
+### 743 [cf0/ura/ura03_00.sb:112] (x1)
+EN: Yamcha joined your team!
+PT: O Yamcha entrou no grupo!
+### 744 [cf0/ura/ura03_00.sb:113] (x1)
+EN: <p>But Yamcha is right beside you! Didn't you notice him?<k>
+PT: <p>Mas o Yamcha está bem do seu lado! Não reparou nele?<k>
+### 745 [cf0/ura/ura03_00.sb:114] (x1)
+EN: <p>Ah yes, Tien... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+PT: <p>Ah, sim, o Tenshinhan... Muito bem.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+### 746 [cf0/ura/ura03_00.sb:116] (x1)
+EN: <p>Thanks, man. Time to kick up a little dust!<k>
+PT: <p>Valeu. Hora de levantar um pouco de poeira!<k>
+### 747 [cf0/ura/ura03_00.sb:117] (x1)
+EN: Tien joined your team!
+PT: O Tenshinhan entrou no grupo!
+### 748 [cf0/ura/ura03_00.sb:118] (x1)
+EN: <p>But Tien is right beside you! Quit being silly with me!<k>
+PT: <p>Mas o Tenshinhan está bem do seu lado! Pare de bobagem comigo!<k>
+### 749 [cf0/wst/wst01_00.sb:15] (x1)
+EN: <p>Oh, man... I let myself go wild. I bought a new capsule without my mom's permission...<k>
+PT: <p>Ai, ai... Me empolguei. Comprei uma cápsula nova sem a permissão da minha mãe...<k>
+### 750 [cf0/wst/wst01_00.sb:16] (x1)
+EN: <p>Hey, check this out! A new capsule! This is so cool!<k>
+PT: <p>Ei, olha só! Uma cápsula nova! Que demais!<k>
+### 751 [cf0/wst/wst01_00.sb:17] (x1)
+EN: <p>I wanna buy a new capsule... But my mom will be mad at me if I buy one without her permission.<k>
+PT: <p>Quero comprar uma cápsula nova... Mas a minha mãe vai ficar brava se eu comprar sem a permissão dela.<k>
+### 752 [cf0/wst/wst01_00.sb:18] (x1)
+EN: <p>Are you using the accessories you have? There are some really awesome ones out there!<k><p>One of them makes all your skills cost only one Ki point! You'd be an unstoppable skill machine!<k>
+PT: <p>Você está usando os acessórios que tem? Tem uns muito bons por aí!<k><p>Um deles faz todas as técnicas custarem só um ponto de Ki! Você viraria uma máquina de técnicas!<k>
+### 753 [cf0/wst/wst01_00.sb:19] (x1)
+EN: <p>Wow... before I realized it, I wrote all over this thing. What to do, what to do...?<k>
+PT: <p>Nossa... quando vi, já tinha rabiscado essa coisa toda. E agora, e agora...?<k>
+### 754 [cf0/wst/wst01_00.sb:20] (x1)
+EN: <p><d>No... parking!<d> There! That'll be perfect!<k><p>Oh, wait... I better write <d>You're in the way,<d> too. That'll work.<k>
+PT: <p><d>Proibido... estacionar!<d> Pronto! Ficou perfeito!<k><p>Ah, espera... melhor escrever <d>Você está atrapalhando<d> também. Assim resolve.<k>
+### 755 [cf0/wst/wst01_00.sb:21] (x1)
+EN: <p>I hate it when people park their cars here... think I'll draw some graffiti on it.<k>
+PT: <p>Odeio quando estacionam carro aqui... acho que vou pichar ele.<k>

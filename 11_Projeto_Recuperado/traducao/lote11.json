@@ -1,0 +1,4460 @@
+{
+ "0": {
+  "original": "<p>I can't let anyone past this point. It's too dangerous.<k>",
+  "ids": [
+   "sb:cf0/bam/bam01_00.sb:13"
+  ]
+ },
+ "1": {
+  "original": "<p>Dangerrrrr<n>You can't go throoough<k>",
+  "ids": [
+   "sb:cf0/bam/bam01_00.sb:14"
+  ]
+ },
+ "2": {
+  "original": "<p>The attacker went into the bamboo forest... Please don't get hurt in there...<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:10",
+   "sb:cf0/est/est01_00.sb:8",
+   "sb:cf0/est/est02_00.sb:8",
+   "sb:cf0/est/est03_00.sb:8",
+   "sb:cf0/est/est04_00.sb:8"
+  ]
+ },
+ "3": {
+  "original": "<p>Thanks a bunch!<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:14",
+   "sb:cf0/est/est01_00.sb:12",
+   "sb:cf0/est/est02_00.sb:12",
+   "sb:cf0/est/est03_00.sb:12",
+   "sb:cf0/est/est04_00.sb:12"
+  ]
+ },
+ "4": {
+  "original": "<p>Whoa... that hurt...<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:15",
+   "sb:cf0/est/est01_00.sb:13",
+   "sb:cf0/est/est02_00.sb:13",
+   "sb:cf0/est/est03_00.sb:13",
+   "sb:cf0/est/est04_00.sb:13"
+  ]
+ },
+ "5": {
+  "original": "<p>Great work, Krillin!<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:16",
+   "sb:cf0/est/est01_00.sb:14",
+   "sb:cf0/est/est02_00.sb:14",
+   "sb:cf0/est/est03_00.sb:14",
+   "sb:cf0/est/est04_00.sb:14"
+  ]
+ },
+ "6": {
+  "original": "<p>The look is deceiving... it got me good...<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:17",
+   "sb:cf0/est/est01_00.sb:15",
+   "sb:cf0/est/est02_00.sb:15",
+   "sb:cf0/est/est03_00.sb:15",
+   "sb:cf0/est/est04_00.sb:15"
+  ]
+ },
+ "7": {
+  "original": "<p>Man, you sure have gotten stronger.<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:18",
+   "sb:cf0/est/est01_00.sb:16",
+   "sb:cf0/est/est02_00.sb:16",
+   "sb:cf0/est/est03_00.sb:16",
+   "sb:cf0/est/est04_00.sb:16"
+  ]
+ },
+ "8": {
+  "original": "<p>Ugh... what's going on here...?<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:19",
+   "sb:cf0/est/est01_00.sb:17",
+   "sb:cf0/est/est02_00.sb:17",
+   "sb:cf0/est/est03_00.sb:17",
+   "sb:cf0/est/est04_00.sb:17"
+  ]
+ },
+ "9": {
+  "original": "<p>She was so beautiful! It's not fair!<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:20",
+   "sb:cf0/est/est01_00.sb:18",
+   "sb:cf0/est/est02_00.sb:18",
+   "sb:cf0/est/est03_00.sb:18",
+   "sb:cf0/est/est04_00.sb:18"
+  ]
+ },
+ "10": {
+  "original": "<p>I didn't have a chance...<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:21",
+   "sb:cf0/est/est01_00.sb:19",
+   "sb:cf0/est/est02_00.sb:19",
+   "sb:cf0/est/est03_00.sb:19",
+   "sb:cf0/est/est04_00.sb:19"
+  ]
+ },
+ "11": {
+  "original": "<p>The Orin Temple was under attack... but I heard the attacker got defeated.<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:22",
+   "sb:cf0/est/est01_00.sb:20",
+   "sb:cf0/est/est02_00.sb:20",
+   "sb:cf0/est/est03_00.sb:20",
+   "sb:cf0/est/est04_00.sb:20"
+  ]
+ },
+ "12": {
+  "original": "<p>I saw someone go to Orin Temple. Someone with hair. Maybe something's happening there.<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:23",
+   "sb:cf0/est/est01_00.sb:21",
+   "sb:cf0/est/est02_00.sb:21",
+   "sb:cf0/est/est03_00.sb:21",
+   "sb:cf0/est/est04_00.sb:21"
+  ]
+ },
+ "13": {
+  "original": "<p>Hey, you don't have any hair? Poor guy...<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:24",
+   "sb:cf0/est/est01_00.sb:22",
+   "sb:cf0/est/est02_00.sb:22",
+   "sb:cf0/est/est03_00.sb:22",
+   "sb:cf0/est/est04_00.sb:22"
+  ]
+ },
+ "14": {
+  "original": "<p>Wow, look at all that hair you got! There's no way you'll ever get strong with that!<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:25",
+   "sb:cf0/est/est01_00.sb:23",
+   "sb:cf0/est/est02_00.sb:23",
+   "sb:cf0/est/est03_00.sb:23",
+   "sb:cf0/est/est04_00.sb:23"
+  ]
+ },
+ "15": {
+  "original": "<p>Hey, why don't you have any hair? You from the temple or something?<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:26",
+   "sb:cf0/est/est01_00.sb:24",
+   "sb:cf0/est/est02_00.sb:24",
+   "sb:cf0/est/est03_00.sb:24",
+   "sb:cf0/est/est04_00.sb:24"
+  ]
+ },
+ "16": {
+  "original": "<p>I'm glad to hear Orin Temple is safe and sound.<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:27",
+   "sb:cf0/est/est01_00.sb:25",
+   "sb:cf0/est/est02_00.sb:25",
+   "sb:cf0/est/est03_00.sb:25",
+   "sb:cf0/est/est04_00.sb:25"
+  ]
+ },
+ "17": {
+  "original": "<p>I wonder what happened at Orin Temple. There's been a tremendous commotion from there all day.<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:28",
+   "sb:cf0/est/est01_00.sb:26",
+   "sb:cf0/est/est02_00.sb:26",
+   "sb:cf0/est/est03_00.sb:26",
+   "sb:cf0/est/est04_00.sb:26"
+  ]
+ },
+ "18": {
+  "original": "<p>It sounds like the temple was under attack!<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:29",
+   "sb:cf0/est/est01_00.sb:27",
+   "sb:cf0/est/est02_00.sb:27",
+   "sb:cf0/est/est03_00.sb:27",
+   "sb:cf0/est/est04_00.sb:27"
+  ]
+ },
+ "19": {
+  "original": "<p>I heard shouting over toward the temple. What happened over there?<k>",
+  "ids": [
+   "sb:cf0/bam/bam02_00.sb:30",
+   "sb:cf0/est/est01_00.sb:28",
+   "sb:cf0/est/est02_00.sb:28",
+   "sb:cf0/est/est03_00.sb:28",
+   "sb:cf0/est/est04_00.sb:28"
+  ]
+ },
+ "20": {
+  "original": "<p>Blue designs are drawn on the ground. There is no response.<k>",
+  "ids": [
+   "sb:cf0/ben/ben02_00.sb:20"
+  ]
+ },
+ "21": {
+  "original": "<p>Red designs are drawn on the ground at your feet. There is no response.<k>",
+  "ids": [
+   "sb:cf0/ben/ben02_00.sb:21"
+  ]
+ },
+ "22": {
+  "original": "<p>Attention, all participants in the World Tournament.<k><p>The preliminary matches will begin in a moment. Please report to the fighting arena.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:7",
+   "sb:cf0/bud/bud02_00.sb:7",
+   "sb:cf0/bud/bud04_00.sb:7",
+   "sb:cf0/bud/bud05_00.sb:7"
+  ]
+ },
+ "23": {
+  "original": "<p>Well, guess we're starting.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:10",
+   "sb:cf0/bud/bud02_00.sb:10",
+   "sb:cf0/bud/bud04_00.sb:10",
+   "sb:cf0/bud/bud05_00.sb:10"
+  ]
+ },
+ "24": {
+  "original": "<p>I'll see you later, okay?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:11",
+   "sb:cf0/bud/bud02_00.sb:11",
+   "sb:cf0/bud/bud04_00.sb:11",
+   "sb:cf0/bud/bud05_00.sb:11"
+  ]
+ },
+ "25": {
+  "original": "<p>Certainly. Make me proud!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:14",
+   "sb:cf0/bud/bud02_00.sb:14",
+   "sb:cf0/bud/bud04_00.sb:14",
+   "sb:cf0/bud/bud05_00.sb:14"
+  ]
+ },
+ "26": {
+  "original": "<p>Did you bring my usual uniform?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:15",
+   "sb:cf0/bud/bud02_00.sb:15",
+   "sb:cf0/bud/bud04_00.sb:15",
+   "sb:cf0/bud/bud05_00.sb:15"
+  ]
+ },
+ "27": {
+  "original": "<p>Oh, don't be silly.<k><p>You've all proceeded far along your own paths by now.<k><p>There's no need for you to keep wearing the Turtle School uniform for the rest of your lives.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:16",
+   "sb:cf0/bud/bud02_00.sb:16",
+   "sb:cf0/bud/bud04_00.sb:16",
+   "sb:cf0/bud/bud05_00.sb:16"
+  ]
+ },
+ "28": {
+  "original": "<p>Good luck, everybody!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:19",
+   "sb:cf0/bud/bud02_00.sb:19",
+   "sb:cf0/bud/bud04_00.sb:19",
+   "sb:cf0/bud/bud05_00.sb:19"
+  ]
+ },
+ "29": {
+  "original": "<p>I can't believe it! I guess Goku's more popular with the ladies than I thought.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:22",
+   "sb:cf0/bud/bud02_00.sb:22",
+   "sb:cf0/bud/bud04_00.sb:22",
+   "sb:cf0/bud/bud05_00.sb:22"
+  ]
+ },
+ "30": {
+  "original": "<p>Man, that lady's a total flirt!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:25",
+   "sb:cf0/bud/bud02_00.sb:25",
+   "sb:cf0/bud/bud04_00.sb:25",
+   "sb:cf0/bud/bud05_00.sb:25"
+  ]
+ },
+ "31": {
+  "original": "<p>Give it all you got, Yamcha!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:28",
+   "sb:cf0/bud/bud02_00.sb:28",
+   "sb:cf0/bud/bud04_00.sb:28",
+   "sb:cf0/bud/bud05_00.sb:28"
+  ]
+ },
+ "32": {
+  "original": "<p>I can't wait to get fighting, Tien!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:31",
+   "sb:cf0/bud/bud02_00.sb:31",
+   "sb:cf0/bud/bud04_00.sb:31",
+   "sb:cf0/bud/bud05_00.sb:31"
+  ]
+ },
+ "33": {
+  "original": "<p>All right, is everyone ready to kick off the preliminaries?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:33",
+   "sb:cf0/bud/bud02_00.sb:33",
+   "sb:cf0/bud/bud04_00.sb:33",
+   "sb:cf0/bud/bud05_00.sb:33"
+  ]
+ },
+ "34": {
+  "original": "<p>All participants, thank you for your patience.<k><p>We are ready to begin the preliminary matches for the 23rd World Tournament.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:34",
+   "sb:cf0/bud/bud02_00.sb:34",
+   "sb:cf0/bud/bud04_00.sb:34",
+   "sb:cf0/bud/bud05_00.sb:34"
+  ]
+ },
+ "35": {
+  "original": "<p>Past here is the main arena.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:36",
+   "sb:cf0/bud/bud02_00.sb:36",
+   "sb:cf0/bud/bud04_00.sb:36",
+   "sb:cf0/bud/bud05_00.sb:36"
+  ]
+ },
+ "36": {
+  "original": "<p>This battle's all mine!<k><p>Ha! Yah! Hai! Yahhh!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:37",
+   "sb:cf0/bud/bud02_00.sb:37",
+   "sb:cf0/bud/bud04_00.sb:37",
+   "sb:cf0/bud/bud05_00.sb:37"
+  ]
+ },
+ "37": {
+  "original": "<p>My spirit is willing... There is nothing that can scare me...<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:38",
+   "sb:cf0/bud/bud02_00.sb:38",
+   "sb:cf0/bud/bud04_00.sb:38",
+   "sb:cf0/bud/bud05_00.sb:38"
+  ]
+ },
+ "38": {
+  "original": "<p>I'll teach you a thing or two, you snot-nosed kid!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:39",
+   "sb:cf0/bud/bud02_00.sb:39",
+   "sb:cf0/bud/bud04_00.sb:39",
+   "sb:cf0/bud/bud05_00.sb:39"
+  ]
+ },
+ "39": {
+  "original": "<p>Looks like I'm not the only lady in the tournament. Ooh, I can't wait!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:42",
+   "sb:cf0/bud/bud02_00.sb:42",
+   "sb:cf0/bud/bud04_00.sb:42",
+   "sb:cf0/bud/bud05_00.sb:42"
+  ]
+ },
+ "40": {
+  "original": "<p>Oh man, oh man, oh man! I'm so nervous!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:43",
+   "sb:cf0/bud/bud02_00.sb:43",
+   "sb:cf0/bud/bud04_00.sb:43",
+   "sb:cf0/bud/bud05_00.sb:43"
+  ]
+ },
+ "41": {
+  "original": "<p>This is really exciting. I hope we get some more high-level competition this year.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:44",
+   "sb:cf0/bud/bud02_00.sb:44",
+   "sb:cf0/bud/bud04_00.sb:44",
+   "sb:cf0/bud/bud05_00.sb:44"
+  ]
+ },
+ "42": {
+  "original": "<p>We're just about ready to start. Don't forget to warm up. Otherwise you'll get cramps!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:45",
+   "sb:cf0/bud/bud02_00.sb:45",
+   "sb:cf0/bud/bud04_00.sb:45",
+   "sb:cf0/bud/bud05_00.sb:45"
+  ]
+ },
+ "43": {
+  "original": "<p>I heard the story from Tien. I'll be rooting for you here, so good luck, okay?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:46",
+   "sb:cf0/bud/bud02_00.sb:46",
+   "sb:cf0/bud/bud04_00.sb:46",
+   "sb:cf0/bud/bud05_00.sb:46"
+  ]
+ },
+ "44": {
+  "original": "<p>Don't think you've got enough power? Why doncha fight me, then? C'mon, you wanna go?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:47",
+   "sb:cf0/bud/bud02_00.sb:47",
+   "sb:cf0/bud/bud04_00.sb:47",
+   "sb:cf0/bud/bud05_00.sb:47"
+  ]
+ },
+ "45": {
+  "original": "<p>Hmm... Piccolo and Kami used to be the same person.<k><p>And so Kami borrowed a human body in order to clean up the mess he's made.<k><p>But now that he's lost, you're the only hope we have. Sorry I can't be more help...<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:48",
+   "sb:cf0/bud/bud02_00.sb:48",
+   "sb:cf0/bud/bud04_00.sb:48",
+   "sb:cf0/bud/bud05_00.sb:48"
+  ]
+ },
+ "46": {
+  "original": "<p>T-that guy's strength is incredible. Try not to get killed, Goku.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:51",
+   "sb:cf0/bud/bud02_00.sb:51",
+   "sb:cf0/bud/bud04_00.sb:51",
+   "sb:cf0/bud/bud05_00.sb:51"
+  ]
+ },
+ "47": {
+  "original": "<p>We couldn't beat him even if we ganged up on him all at once.<k><p>I guess it's all up to you again, Goku.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:54",
+   "sb:cf0/bud/bud02_00.sb:54",
+   "sb:cf0/bud/bud04_00.sb:54",
+   "sb:cf0/bud/bud05_00.sb:54"
+  ]
+ },
+ "48": {
+  "original": "<p>I never even dreamed that Piccolo would come back to life...<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:57",
+   "sb:cf0/bud/bud02_00.sb:57",
+   "sb:cf0/bud/bud04_00.sb:57",
+   "sb:cf0/bud/bud05_00.sb:57"
+  ]
+ },
+ "49": {
+  "original": "<p>G-Goku... Are you going to be all right?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:60",
+   "sb:cf0/bud/bud02_00.sb:60",
+   "sb:cf0/bud/bud04_00.sb:60",
+   "sb:cf0/bud/bud05_00.sb:60"
+  ]
+ },
+ "50": {
+  "original": "<p>Heh heh heh... Once you're out of the way, I'll take over the world in the blink of an eye.<k><p>Better enjoy life while you've still got it!<k><p>Ha ha ha ha!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:63",
+   "sb:cf0/bud/bud02_00.sb:63",
+   "sb:cf0/bud/bud04_00.sb:63",
+   "sb:cf0/bud/bud05_00.sb:63"
+  ]
+ },
+ "51": {
+  "original": "<p>Are you ready for the final battle?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:64",
+   "sb:cf0/bud/bud02_00.sb:64",
+   "sb:cf0/bud/bud04_00.sb:64",
+   "sb:cf0/bud/bud05_00.sb:64"
+  ]
+ },
+ "52": {
+  "original": "<p>What's your problem? Get started.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:66",
+   "sb:cf0/bud/bud02_00.sb:66",
+   "sb:cf0/bud/bud04_00.sb:66",
+   "sb:cf0/bud/bud05_00.sb:66"
+  ]
+ },
+ "53": {
+  "original": "<p>Is something wrong? Master Roshi looked pretty concerned...<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:67",
+   "sb:cf0/bud/bud02_00.sb:67",
+   "sb:cf0/bud/bud04_00.sb:67",
+   "sb:cf0/bud/bud05_00.sb:67"
+  ]
+ },
+ "54": {
+  "original": "<p>Was it my imagination, or did some guy just come right out of that fighter?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:68",
+   "sb:cf0/bud/bud02_00.sb:68",
+   "sb:cf0/bud/bud04_00.sb:68",
+   "sb:cf0/bud/bud05_00.sb:68"
+  ]
+ },
+ "55": {
+  "original": "<p>Huh? A guy?<k><p>I don't know... I didn't see anything.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:69",
+   "sb:cf0/bud/bud02_00.sb:69",
+   "sb:cf0/bud/bud04_00.sb:69",
+   "sb:cf0/bud/bud05_00.sb:69"
+  ]
+ },
+ "56": {
+  "original": "<p>Krillin... Maybe he lost, but I'm still his hugest fan!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:70",
+   "sb:cf0/bud/bud02_00.sb:70",
+   "sb:cf0/bud/bud04_00.sb:70",
+   "sb:cf0/bud/bud05_00.sb:70"
+  ]
+ },
+ "57": {
+  "original": "<p>Wow! The circus is a lot of fun!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:71",
+   "sb:cf0/bud/bud02_00.sb:71",
+   "sb:cf0/bud/bud04_00.sb:71",
+   "sb:cf0/bud/bud05_00.sb:71"
+  ]
+ },
+ "58": {
+  "original": "<p>Hey! I think I've seen you before! Where, though?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:72",
+   "sb:cf0/bud/bud02_00.sb:72",
+   "sb:cf0/bud/bud04_00.sb:72",
+   "sb:cf0/bud/bud05_00.sb:72"
+  ]
+ },
+ "59": {
+  "original": "<p>Ha hahh! The final battle is here!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:73",
+   "sb:cf0/bud/bud02_00.sb:73",
+   "sb:cf0/bud/bud04_00.sb:73",
+   "sb:cf0/bud/bud05_00.sb:73"
+  ]
+ },
+ "60": {
+  "original": "<p>This is great, Dad!<k><p>(What was I doing there...?)<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:74",
+   "sb:cf0/bud/bud02_00.sb:74",
+   "sb:cf0/bud/bud04_00.sb:74",
+   "sb:cf0/bud/bud05_00.sb:74"
+  ]
+ },
+ "61": {
+  "original": "<p>Wow, what a match! Man, am I excited! You wanna try fighting me?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:75",
+   "sb:cf0/bud/bud02_00.sb:75",
+   "sb:cf0/bud/bud04_00.sb:75",
+   "sb:cf0/bud/bud05_00.sb:75"
+  ]
+ },
+ "62": {
+  "original": "<p>The World Tournament is so awesome! I'm so glad I came to see it!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:76",
+   "sb:cf0/bud/bud02_00.sb:76",
+   "sb:cf0/bud/bud04_00.sb:76",
+   "sb:cf0/bud/bud05_00.sb:76"
+  ]
+ },
+ "63": {
+  "original": "<p>So when're the pretty ladies gonna come out, huh?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:77",
+   "sb:cf0/bud/bud02_00.sb:77",
+   "sb:cf0/bud/bud04_00.sb:77",
+   "sb:cf0/bud/bud05_00.sb:77"
+  ]
+ },
+ "64": {
+  "original": "<p>Oh, you... Just be patient, okay? They'll be here soon enough.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:78",
+   "sb:cf0/bud/bud02_00.sb:78",
+   "sb:cf0/bud/bud04_00.sb:78",
+   "sb:cf0/bud/bud05_00.sb:78"
+  ]
+ },
+ "65": {
+  "original": "<p>If you haven't had enough fighting yet, I'd be happy to take you on.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:79",
+   "sb:cf0/bud/bud02_00.sb:79",
+   "sb:cf0/bud/bud04_00.sb:79",
+   "sb:cf0/bud/bud05_00.sb:79"
+  ]
+ },
+ "66": {
+  "original": "<p>What? You lookin' for a fight?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:80",
+   "sb:cf0/bud/bud02_00.sb:80",
+   "sb:cf0/bud/bud04_00.sb:80",
+   "sb:cf0/bud/bud05_00.sb:80"
+  ]
+ },
+ "67": {
+  "original": "<p>The world's sure been awfully strange lately... What on earth's going on?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:97"
+  ]
+ },
+ "68": {
+  "original": "<p>The next tournament isn't for a while yet. Why are there all these people around?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:98"
+  ]
+ },
+ "69": {
+  "original": "<p>So many suspicious people around these days... I try to stay alert, but I'm so worried.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:99"
+  ]
+ },
+ "70": {
+  "original": "<p>I saw the news on East City. Sure ain't no time to be wrapped up in the tournament, huh?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:100"
+  ]
+ },
+ "71": {
+  "original": "<p>This place is starting to become a popular tourist spot, a mecca for any would-be fighter.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:101"
+  ]
+ },
+ "72": {
+  "original": "<p>What kind of fighters are we gonna see this year? It's so exciting!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:102"
+  ]
+ },
+ "73": {
+  "original": "<p>The sky's bright red over to the east. What's that for?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:103"
+  ]
+ },
+ "74": {
+  "original": "<p>Boy, it sure is hot here. I can hardly stand it.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:104"
+  ]
+ },
+ "75": {
+  "original": "<p>I wish this could get started already. It's so hot! I hate waiting around!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:105"
+  ]
+ },
+ "76": {
+  "original": "<p>The world needs excitement! It needs sexiness! Come on, lay it all out!<k><p>All right, all right! If that's what you want, here you go! You happy now?!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:106"
+  ]
+ },
+ "77": {
+  "original": "<p>Hey! Where's Ranfan?! I hope they've got someone sexy for me next match!<k><p>Ugh! You're horrible! I've just about had enough of you!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:107"
+  ]
+ },
+ "78": {
+  "original": "<p>Ranfan's my girl! Her sexy attacks are the best! I wish she'd hit me with one!<k><p>You are such an idiot! She beat you in a flash in the last tournament! You make me sick!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:108"
+  ]
+ },
+ "79": {
+  "original": "<p>The world's in trouble, but don't worry, I'll protect you! ...How did that sound? Good?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:109"
+  ]
+ },
+ "80": {
+  "original": "<p>Hey, that girl standing over there's pretty cute... Maybe I should try talking to her.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:110"
+  ]
+ },
+ "81": {
+  "original": "<p>I'm so bored... guess my dad's still flirting with the girls.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:111"
+  ]
+ },
+ "82": {
+  "original": "<p>Go watch the TV news to find out about East City! Quit asking me about it, people!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:112"
+  ]
+ },
+ "83": {
+  "original": "<p>The next World Martial Arts Tournament is so far away! There's no point waiting here!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:113"
+  ]
+ },
+ "84": {
+  "original": "<p>All tournament participants, please proceed to the fighting arena!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:114"
+  ]
+ },
+ "85": {
+  "original": "<p>I better start training, too!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:115"
+  ]
+ },
+ "86": {
+  "original": "<p>I'm gonna get stronger, too!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:116"
+  ]
+ },
+ "87": {
+  "original": "<p>When are the matches gonna get started?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:117"
+  ]
+ },
+ "88": {
+  "original": "<p>There's no point accumulating AP. You gotta use it, you know?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:118"
+  ]
+ },
+ "89": {
+  "original": "<p>Use the Sewer Key?<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:119"
+  ]
+ },
+ "90": {
+  "original": "<p>The manhole is open!<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:120"
+  ]
+ },
+ "91": {
+  "original": "<p>It's locked tight.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:121"
+  ]
+ },
+ "92": {
+  "original": "<p>The tournament fighter list has been carelessly left out on the front desk.<k>",
+  "ids": [
+   "sb:cf0/bud/bud01_00.sb:122"
+  ]
+ },
+ "93": {
+  "original": "<p>I can't sleep at night! I'm always thinking about Krillin. Is this love...?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:101"
+  ]
+ },
+ "94": {
+  "original": "<p>Ugh, isn't that Krillin guy here yet?! You know, the shiny-headed dude!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:102"
+  ]
+ },
+ "95": {
+  "original": "<p>I'm a huge fan of that Krillin guy! That shiny head of his is outta sight!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:103"
+  ]
+ },
+ "96": {
+  "original": "<p>Wait...this isn't a circus at all, is it? Am I being tricked here?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:104"
+  ]
+ },
+ "97": {
+  "original": "<p>Wow, the circus is awesome! They got people shooting beams and everything!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:105"
+  ]
+ },
+ "98": {
+  "original": "<p>I wish the circus would start already!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:106"
+  ]
+ },
+ "99": {
+  "original": "<p>Man, how many years have I been here by now...?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:107"
+  ]
+ },
+ "100": {
+  "original": "<p>Mmm, this ice cream is so good! I like this more than the tournament!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:108"
+  ]
+ },
+ "101": {
+  "original": "<p>I'm sick of waiting! I wanna eat some ice cream!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:109"
+  ]
+ },
+ "102": {
+  "original": "<p>Woo-hoo! There was an incredible fireworks display over in East City!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:110"
+  ]
+ },
+ "103": {
+  "original": "<p>Woo-hoo! I think I'm just gonna live here from now on!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:111"
+  ]
+ },
+ "104": {
+  "original": "<p>Woo-hoo! This must be the arena!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:112"
+  ]
+ },
+ "105": {
+  "original": "<p>I've never been flirted with so much before. Is this what love is about?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:113"
+  ]
+ },
+ "106": {
+  "original": "<p>Well... I guess I wouldn't mind having a drink, anyway.<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:114"
+  ]
+ },
+ "107": {
+  "original": "<p>Being beautiful is tough. I'm never allowed a moment to myself!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:115"
+  ]
+ },
+ "108": {
+  "original": "<p>Wow, you sure are pretty. Would you like to be my lover?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:116"
+  ]
+ },
+ "109": {
+  "original": "<p>Wow, you sure are pretty. Would you like to be my daughter?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:117"
+  ]
+ },
+ "110": {
+  "original": "<p>Wow, you sure are pretty. Would you like to be my wife?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:118"
+  ]
+ },
+ "111": {
+  "original": "<p>Did you hear?! East City is just crazy right now! Boy, I wish I could go there!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:119"
+  ]
+ },
+ "112": {
+  "original": "<p>Ugh... so bored. I just feel so run down unless I'm watching martial arts.<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:120"
+  ]
+ },
+ "113": {
+  "original": "<p>Man, my blood is boiling! You wanna try taking a punch from me?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:121"
+  ]
+ },
+ "114": {
+  "original": "<p>When's the next match gonna start, huh? I'm starting to get bored...<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:122"
+  ]
+ },
+ "115": {
+  "original": "<p>This tournament is so awesome! There's no way I'd survive in it, but!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:123"
+  ]
+ },
+ "116": {
+  "original": "<p>Just imagine, all the great matches that must've been fought here...<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:124"
+  ]
+ },
+ "117": {
+  "original": "<p>No response. He may or may not be dead by this point.<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:125"
+  ]
+ },
+ "118": {
+  "original": "<p>Zzz... zzz... Huh?!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:126"
+  ]
+ },
+ "119": {
+  "original": "<p>I'm just hiding for a little bit. Don't tell my wife, okay?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:127"
+  ]
+ },
+ "120": {
+  "original": "<p>It's been years since I've last seen my husband. Maybe it's time I went to the police...<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:128"
+  ]
+ },
+ "121": {
+  "original": "<p>I can't find my husband... and now I'm starting to get sleepy.<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:129"
+  ]
+ },
+ "122": {
+  "original": "<p>Now where did that husband of mine go...?<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:130"
+  ]
+ },
+ "123": {
+  "original": "<p>Exit ahead.<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:131"
+  ]
+ },
+ "124": {
+  "original": "<p>You can go outside from here.<k><p>Huh? You knew that? Well, I didn't ask you!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:132"
+  ]
+ },
+ "125": {
+  "original": "<p>This is the exit. If you want inside, go back and take the entrance to the right.<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:133"
+  ]
+ },
+ "126": {
+  "original": "<p>Barkity barkity bark!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:134"
+  ]
+ },
+ "127": {
+  "original": "<p>Woof! Woofity woof!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:135"
+  ]
+ },
+ "128": {
+  "original": "<p>Arf! Arf arf!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:136"
+  ]
+ },
+ "129": {
+  "original": "<p>Look, whadaya want from me?! I don't have anything interesting to say, okay?!<k><p>......<k><p>Arf! Arf arf! Arf arf barf barf... ahh, I messed up!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:137"
+  ]
+ },
+ "130": {
+  "original": "<p>It's a dead end, you know.<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:138"
+  ]
+ },
+ "131": {
+  "original": "<p>This is a dead end, okay?!<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:139"
+  ]
+ },
+ "132": {
+  "original": "<p>Arena ahead<n>Authorized personnel only<k>",
+  "ids": [
+   "sb:cf0/bud/bud02_00.sb:140"
+  ]
+ },
+ "133": {
+  "original": "<p>The crate has <d>Those who strive for nothing but strength shall pay for it later<d> written on it.<k>",
+  "ids": [
+   "sb:cf0/bud/bud03_00.sb:9"
+  ]
+ },
+ "134": {
+  "original": "<p>I'm going to sleep! I'm sick of all this!<k>",
+  "ids": [
+   "sb:cf0/bud/bud03_01.sb:9"
+  ]
+ },
+ "135": {
+  "original": "<p>Gahh, I'm hungry!<k>",
+  "ids": [
+   "sb:cf0/bud/bud03_01.sb:10"
+  ]
+ },
+ "136": {
+  "original": "<p>Times sure are tough around here. They could at least leave some food for me.<k>",
+  "ids": [
+   "sb:cf0/bud/bud03_01.sb:11"
+  ]
+ },
+ "137": {
+  "original": "<p>...Meow!<k>",
+  "ids": [
+   "sb:cf0/bud/bud03_01.sb:12"
+  ]
+ },
+ "138": {
+  "original": "<p>Meow meow.<k>",
+  "ids": [
+   "sb:cf0/bud/bud03_01.sb:13"
+  ]
+ },
+ "139": {
+  "original": "<p>Something's written on the corner of the box: <d>Do not feed the cat.<d><k>",
+  "ids": [
+   "sb:cf0/bud/bud03_01.sb:14"
+  ]
+ },
+ "140": {
+  "original": "<p>I heard that bad things are going down in East City. Sounds like they need medical help.<k>",
+  "ids": [
+   "sb:cf0/bud/bud04_00.sb:84"
+  ]
+ },
+ "141": {
+  "original": "<p>We're off-season right now. There's no work, and I'm bored. You hurt or anything, perhaps?<k>",
+  "ids": [
+   "sb:cf0/bud/bud04_00.sb:85"
+  ]
+ },
+ "142": {
+  "original": "<p>This is the medical office. Don't do anything dumb and make me work overtime, okay?<k>",
+  "ids": [
+   "sb:cf0/bud/bud04_00.sb:86"
+  ]
+ },
+ "143": {
+  "original": "<p>Complicated medical documents are laid out on the desk...<k><p>Oh, wait. On second glance, it's just a bunch of half-read manga.<k>",
+  "ids": [
+   "sb:cf0/bud/bud04_00.sb:87"
+  ]
+ },
+ "144": {
+  "original": "<p>There's a memo on the shelf...<k><p><d>Raise Recovery, and you'll earn more HP at every turn, letting you use fewer recovery items.<d><k>",
+  "ids": [
+   "sb:cf0/bud/bud04_00.sb:88"
+  ]
+ },
+ "145": {
+  "original": "<p>What sort of fighters can I hope to expect at the next tournament?<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:97"
+  ]
+ },
+ "146": {
+  "original": "<p>Oh, crud, I drew King Chapa in the prelims... I should just give up now.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:98"
+  ]
+ },
+ "147": {
+  "original": "<p>What point is there to being strong if the entire city's gone?<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:99"
+  ]
+ },
+ "148": {
+  "original": "<p>I, I can't believe what happened to East City...<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:100"
+  ]
+ },
+ "149": {
+  "original": "<p>Krillin! You're incredible! Your name's up on this thing!<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:101"
+  ]
+ },
+ "150": {
+  "original": "<p>Wow! These are the brackets for the World Tournament, huh?<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:102"
+  ]
+ },
+ "151": {
+  "original": "<p>Orin Temple, the place we all trained, just gone... I still can't believe it.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:103"
+  ]
+ },
+ "152": {
+  "original": "<p>What a shock... our temple, and our homeland, gone.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:104"
+  ]
+ },
+ "153": {
+  "original": "<p>You've really gone far... We gotta step up our own game, too.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:105"
+  ]
+ },
+ "154": {
+  "original": "<p>Whoa! Krillin's name is up there! Man, he's sure gotten strong...<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:106"
+  ]
+ },
+ "155": {
+  "original": "<p>Krillin! I beg you to train me! I want to be stronger!<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:107"
+  ]
+ },
+ "156": {
+  "original": "<p>Dang! I gotta get stronger! And we gotta rebuild our temple!<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:108"
+  ]
+ },
+ "157": {
+  "original": "<p>How did you get so strong, anyway? That turtle hermit must be something else.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:109"
+  ]
+ },
+ "158": {
+  "original": "<p>I need to keep training! I'll show all of 'em!<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:110"
+  ]
+ },
+ "159": {
+  "original": "<p>We happened to be here at the time, so we're safe... but I fear for those who weren't.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:111"
+  ]
+ },
+ "160": {
+  "original": "<p>East City, home to our Orin Temple, is apparently gone... I have no words for it.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:112"
+  ]
+ },
+ "161": {
+  "original": "<p>Krillin! Hey, it's been a while! You doing well?<k><p>We all came here to train at the center of the martial-arts world.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:113"
+  ]
+ },
+ "162": {
+  "original": "<p>We all came here from Orin Temple. This is practically the home of martial arts, after all.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:114"
+  ]
+ },
+ "163": {
+  "original": "<p>Krillin! Where are we supposed to go? We have no home to return to!<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:115"
+  ]
+ },
+ "164": {
+  "original": "<p>*snif* Our temple!<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:116"
+  ]
+ },
+ "165": {
+  "original": "<p>Wow, that sure is bright... Bald folks shouldn't stand near people trying to sleep, y'know.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:117"
+  ]
+ },
+ "166": {
+  "original": "<p>Sure is peaceful and quiet... I feel like I could almost fall asleep right here.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:118"
+  ]
+ },
+ "167": {
+  "original": "<p>This is the match schedule for the tournament, packed with the names of the powerful and wise.<k>",
+  "ids": [
+   "sb:cf0/bud/bud05_00.sb:119"
+  ]
+ },
+ "168": {
+  "original": "<p>Do you want... to return to Earth?<k>",
+  "ids": [
+   "sb:cf0/enm/enm01_00.sb:13"
+  ]
+ },
+ "169": {
+  "original": "<p>I've called someone to guide you to Snake Way. The exit is right behind me.<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:8",
+   "sb:cf0/hel/hel01_00.sb:8",
+   "sb:cf0/hel/hel04_00.sb:8",
+   "sb:cf0/kos/kos01_00.sb:12",
+   "sb:cf0/kos/kos02_00.sb:12",
+   "sb:cf0/kos/kos03_00.sb:12"
+  ]
+ },
+ "170": {
+  "original": "<p>Just don't fall off Snake Way, all right? I can't help you if you do.<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:9",
+   "sb:cf0/hel/hel01_00.sb:9",
+   "sb:cf0/hel/hel04_00.sb:9",
+   "sb:cf0/kos/kos01_00.sb:13",
+   "sb:cf0/kos/kos02_00.sb:13",
+   "sb:cf0/kos/kos03_00.sb:13"
+  ]
+ },
+ "171": {
+  "original": "<p>W-where did you come from?<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:10",
+   "sb:cf0/hel/hel01_00.sb:10",
+   "sb:cf0/hel/hel04_00.sb:10",
+   "sb:cf0/kos/kos01_00.sb:14",
+   "sb:cf0/kos/kos02_00.sb:14",
+   "sb:cf0/kos/kos03_00.sb:14"
+  ]
+ },
+ "172": {
+  "original": "<p>Mmm? You're still here?<k><p>King Kai's on the other end of Snake Way.<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:11",
+   "sb:cf0/hel/hel01_00.sb:11",
+   "sb:cf0/hel/hel04_00.sb:11",
+   "sb:cf0/kos/kos01_00.sb:15",
+   "sb:cf0/kos/kos02_00.sb:15",
+   "sb:cf0/kos/kos03_00.sb:15"
+  ]
+ },
+ "173": {
+  "original": "<p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:15",
+   "sb:cf0/hel/hel01_00.sb:15",
+   "sb:cf0/hel/hel04_00.sb:15",
+   "sb:cf0/kos/kos01_00.sb:19",
+   "sb:cf0/kos/kos02_00.sb:19",
+   "sb:cf0/kos/kos03_00.sb:19"
+  ]
+ },
+ "174": {
+  "original": "<p>Bubbles can run so fast, you couldn't even hope to catch him!<k><p>It's enough to make you go ape, huh? Hah!<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:16",
+   "sb:cf0/hel/hel01_00.sb:16",
+   "sb:cf0/hel/hel04_00.sb:16",
+   "sb:cf0/kos/kos01_00.sb:20",
+   "sb:cf0/kos/kos02_00.sb:20",
+   "sb:cf0/kos/kos03_00.sb:20"
+  ]
+ },
+ "175": {
+  "original": "<p>You idiot!<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:19",
+   "sb:cf0/hel/hel01_00.sb:19",
+   "sb:cf0/hel/hel04_00.sb:19",
+   "sb:cf0/kos/kos01_00.sb:23",
+   "sb:cf0/kos/kos02_00.sb:23",
+   "sb:cf0/kos/kos03_00.sb:23"
+  ]
+ },
+ "176": {
+  "original": "<p>Ready for a sumo match?<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:21",
+   "sb:cf0/hel/hel01_00.sb:21",
+   "sb:cf0/hel/hel04_00.sb:21",
+   "sb:cf0/kos/kos01_00.sb:25",
+   "sb:cf0/kos/kos02_00.sb:25",
+   "sb:cf0/kos/kos03_00.sb:25"
+  ]
+ },
+ "177": {
+  "original": "<p>Mez is really fast! He's the best runner in hell!<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:23",
+   "sb:cf0/hel/hel01_00.sb:23",
+   "sb:cf0/hel/hel04_00.sb:23",
+   "sb:cf0/kos/kos01_00.sb:27",
+   "sb:cf0/kos/kos02_00.sb:27",
+   "sb:cf0/kos/kos03_00.sb:27"
+  ]
+ },
+ "178": {
+  "original": "<p>Don't come back here again!<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:26",
+   "sb:cf0/hel/hel01_00.sb:26",
+   "sb:cf0/hel/hel04_00.sb:26",
+   "sb:cf0/kos/kos01_00.sb:30",
+   "sb:cf0/kos/kos02_00.sb:30",
+   "sb:cf0/kos/kos03_00.sb:30"
+  ]
+ },
+ "179": {
+  "original": "<p>Goz is the top sumo wrestler in Hell!<n>There's no way you could beat him!<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:29",
+   "sb:cf0/hel/hel01_00.sb:29",
+   "sb:cf0/hel/hel04_00.sb:29",
+   "sb:cf0/kos/kos01_00.sb:33",
+   "sb:cf0/kos/kos02_00.sb:33",
+   "sb:cf0/kos/kos03_00.sb:33"
+  ]
+ },
+ "180": {
+  "original": "<p>You must be something special if you withstood King Kai's training...<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:39"
+  ]
+ },
+ "181": {
+  "original": "<p>You're here from Earth, too? Try not to cause too much trouble, you hear?<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:40"
+  ]
+ },
+ "182": {
+  "original": "<p>Saiyans, eh...? Yet more trouble aimed squarely at us, it would appear...<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:41"
+  ]
+ },
+ "183": {
+  "original": "<p>A giant door looms ahead. It is far too heavy to budge.<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:42"
+  ]
+ },
+ "184": {
+  "original": "<p>The door is shut tightly.<k>",
+  "ids": [
+   "sb:cf0/enm/enm02_00.sb:43",
+   "sb:cf0/god/god04_00.sb:9"
+  ]
+ },
+ "185": {
+  "original": "<p>What should we have for dinner tonight...? I know! Let's go chop-socky Chinese!<k><p>Let's do... what? I'm just gonna pretend I didn't hear that...<k>",
+  "ids": [
+   "sb:cf0/est/est01_00.sb:35"
+  ]
+ },
+ "186": {
+  "original": "<p>Ohhh, there's just so much to choose from! I don't know what to do!<k>",
+  "ids": [
+   "sb:cf0/est/est01_00.sb:36"
+  ]
+ },
+ "187": {
+  "original": "<p>You can see a temple over there, right?<k><p>Well, guess what...?<w=30> That's a temple.<k>",
+  "ids": [
+   "sb:cf0/est/est01_00.sb:37"
+  ]
+ },
+ "188": {
+  "original": "<p>Great store! Pretty girls! You come and see, you!<k>",
+  "ids": [
+   "sb:cf0/est/est01_00.sb:38"
+  ]
+ },
+ "189": {
+  "original": "<p>The shop is filled with busy people going about their work.<k>",
+  "ids": [
+   "sb:cf0/est/est01_00.sb:39"
+  ]
+ },
+ "190": {
+  "original": "<p>Huge, steaming meat buns are lined up in front of the shop.<k>",
+  "ids": [
+   "sb:cf0/est/est01_00.sb:40"
+  ]
+ },
+ "191": {
+  "original": "<p>What? You wanna play with me?<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:39"
+  ]
+ },
+ "192": {
+  "original": "<p>Hmm... what's up with that shop? It's huge... what could they be selling?<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:40"
+  ]
+ },
+ "193": {
+  "original": "<p>There is a construction zone beyond here. Really. That's it. Not hiding anything.<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:41"
+  ]
+ },
+ "194": {
+  "original": "<p>Go up that stairway to reach Orin Temple.<k><p>If you like the skinhead look, then welcome to paradise!<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:42"
+  ]
+ },
+ "195": {
+  "original": "<p>I'm telling the truth! I saw a ghost in the bamboo thicket beyond Orin Temple!<k><p>Oh, quit lying to me! You're just trying to scare me again!<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:43"
+  ]
+ },
+ "196": {
+  "original": "<p>Hmm... radishes are cheap today. Guess I could make a pot roast tonight.<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:44"
+  ]
+ },
+ "197": {
+  "original": "<p>Hey, d'you know what <d>skills<d> are? It really helps if you know them, apparently!<k><p>They raise your HP, speed you up, unlock new moves, and maybe make you smarter, too!<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:45"
+  ]
+ },
+ "198": {
+  "original": "<p>Bark! Bark! Trees have bark!<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:46"
+  ]
+ },
+ "199": {
+  "original": "<p><d>Orin Temple Ahead<d><k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:47"
+  ]
+ },
+ "200": {
+  "original": "<p>Ooh, a shop! I think I'll take a quick look inside.<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:50"
+  ]
+ },
+ "201": {
+  "original": "<p>Hang on a sec! I wanna stop by the shop real quick.<k>",
+  "ids": [
+   "sb:cf0/est/est02_00.sb:51"
+  ]
+ },
+ "202": {
+  "original": "<p>Your leg muscles are the key to your training! Work them, and work 'em hard!<k>",
+  "ids": [
+   "sb:cf0/est/est03_00.sb:36"
+  ]
+ },
+ "203": {
+  "original": "<p>What a bright young boy. He says he wants to join Orin Temple when he's old enough.<k>",
+  "ids": [
+   "sb:cf0/est/est03_00.sb:37"
+  ]
+ },
+ "204": {
+  "original": "<p>What a stupid weirdo, running around all day like that. This is why I hate boys!<k>",
+  "ids": [
+   "sb:cf0/est/est03_00.sb:38"
+  ]
+ },
+ "205": {
+  "original": "<p>Training! Training! Gaahhh!<k>",
+  "ids": [
+   "sb:cf0/est/est03_00.sb:39"
+  ]
+ },
+ "206": {
+  "original": "<p>You know what? Apparently there are these tandem moves called Sparking Combos!<k><p>Combine the right moves together, and you'll spark one of them! Cool, huh?<k>",
+  "ids": [
+   "sb:cf0/est/est03_00.sb:40"
+  ]
+ },
+ "207": {
+  "original": "<p>Speed boost, on!!<k><p>Meow meow meow meow meow!!<k>",
+  "ids": [
+   "sb:cf0/est/est03_00.sb:41"
+  ]
+ },
+ "208": {
+  "original": "<p>Judging by the smell, there is a bathroom inside.<k>",
+  "ids": [
+   "sb:cf0/est/est03_00.sb:42"
+  ]
+ },
+ "209": {
+  "original": "<p>The door is closed. No one seems to be around.<k>",
+  "ids": [
+   "sb:cf0/est/est03_00.sb:43"
+  ]
+ },
+ "210": {
+  "original": "<p>Hey! Prillin! Wow, Prillin, it's you!<k><p>Huh...? You're not? Well, you sure look like him...<k>",
+  "ids": [
+   "sb:cf0/est/est04_00.sb:32"
+  ]
+ },
+ "211": {
+  "original": "<p>This is the famous Orin Temple. No one with hair is allowed to join us!<k>",
+  "ids": [
+   "sb:cf0/est/est04_00.sb:33"
+  ]
+ },
+ "212": {
+  "original": "<p>Krillin! Hey, have you gotten a girlfriend yet? Got anyone you could introduce me to?<k>",
+  "ids": [
+   "sb:cf0/est/est04_00.sb:34"
+  ]
+ },
+ "213": {
+  "original": "<p>All we do is train every day. I wanna go hang out with the girls in town sometime!<k>",
+  "ids": [
+   "sb:cf0/est/est04_00.sb:35"
+  ]
+ },
+ "214": {
+  "original": "<p>Great to see you here! Everyone's training hard to keep from falling behind you.<k>",
+  "ids": [
+   "sb:cf0/est/est04_00.sb:36"
+  ]
+ },
+ "215": {
+  "original": "<p>That's a sturdy body you have there, son. Why don't you try pushing it to the limit?<k>",
+  "ids": [
+   "sb:cf0/est/est04_00.sb:37"
+  ]
+ },
+ "216": {
+  "original": "<p>It's not exactly a Chinese delight, the way the city is right now...<k><p>...I apologize! On behalf of both of us, I apologize!<k>",
+  "ids": [
+   "sb:cf0/est/est05_00.sb:12"
+  ]
+ },
+ "217": {
+  "original": "<p>The temple's gone... Everybody's gone...<k>",
+  "ids": [
+   "sb:cf0/est/est05_00.sb:13"
+  ]
+ },
+ "218": {
+  "original": "<p>What a disaster... Our city's been razed.<k>",
+  "ids": [
+   "sb:cf0/est/est05_00.sb:14"
+  ]
+ },
+ "219": {
+  "original": "<p>Terrible, isn't it? Try not to get too close. It's dangerous.<k>",
+  "ids": [
+   "sb:cf0/est/est06_00.sb:10"
+  ]
+ },
+ "220": {
+  "original": "<p>The aliens on that ship are the ones behind this carnage... or so they say.<k>",
+  "ids": [
+   "sb:cf0/est/est06_00.sb:11"
+  ]
+ },
+ "221": {
+  "original": "<p>That round thing is apparently an alien spaceship.<k>",
+  "ids": [
+   "sb:cf0/est/est06_00.sb:12"
+  ]
+ },
+ "222": {
+  "original": "<p>Our city is gone... It's so sad.<k>",
+  "ids": [
+   "sb:cf0/est/est06_00.sb:13"
+  ]
+ },
+ "223": {
+  "original": "<p>I don't know what's inside here. Be careful.<k>",
+  "ids": [
+   "sb:cf0/est/est06_00.sb:14"
+  ]
+ },
+ "224": {
+  "original": "<p>Oh. You got permission, huh? Well, whatever you do, please be careful.<k>",
+  "ids": [
+   "sb:cf0/est/est06_00.sb:15"
+  ]
+ },
+ "225": {
+  "original": "<p>I can't allow anyone inside without written permission.<k>",
+  "ids": [
+   "sb:cf0/est/est06_00.sb:16"
+  ]
+ },
+ "226": {
+  "original": "<p>Whine...<k>",
+  "ids": [
+   "sb:cf0/est/est06_00.sb:17"
+  ]
+ },
+ "227": {
+  "original": "<p>My brother's a top fighter in Orin Temple! Pretty cool, eh?<k>",
+  "ids": [
+   "sb:cf0/est/est10_00.sb:9"
+  ]
+ },
+ "228": {
+  "original": "<p>The drawer is filled to the brim with bowls.<k>",
+  "ids": [
+   "sb:cf0/est/est10_00.sb:10",
+   "sb:cf0/est/est10_01.sb:10"
+  ]
+ },
+ "229": {
+  "original": "<p>The path to Orin Temple's collapsed. I hope my brother's okay...<k>",
+  "ids": [
+   "sb:cf0/est/est10_01.sb:9"
+  ]
+ },
+ "230": {
+  "original": "<p>Light streams out of the stump.<k>",
+  "ids": [
+   "sb:cf0/for/for01_00.sb:14",
+   "sb:cf0/for/for02_00.sb:21",
+   "sb:cf0/for/for03_00.sb:13",
+   "sb:cf0/for/for04_00.sb:15",
+   "sb:cf0/for/for05_00.sb:14"
+  ]
+ },
+ "231": {
+  "original": "<p>The Yemma tree grows and sprouts leaves.<k>",
+  "ids": [
+   "sb:cf0/for/for01_00.sb:15",
+   "sb:cf0/for/for02_00.sb:22",
+   "sb:cf0/for/for03_00.sb:14",
+   "sb:cf0/for/for04_00.sb:16",
+   "sb:cf0/for/for05_00.sb:15"
+  ]
+ },
+ "232": {
+  "original": "<p>Use <c=#8BEFD4>Bubbles' thing<c>?<k>",
+  "ids": [
+   "sb:cf0/for/for01_00.sb:16",
+   "sb:cf0/for/for02_00.sb:23",
+   "sb:cf0/for/for03_00.sb:15",
+   "sb:cf0/for/for04_00.sb:17",
+   "sb:cf0/for/for05_00.sb:16"
+  ]
+ },
+ "233": {
+  "original": "<p>The Earth's in big trouble. I'm counting on you guys.<k>",
+  "ids": [
+   "sb:cf0/god/god01_00.sb:56"
+  ]
+ },
+ "234": {
+  "original": "<p>Yo! Krillin! If you're ever in trouble, just call for me. I'll come right over!<k>",
+  "ids": [
+   "sb:cf0/god/god01_00.sb:57"
+  ]
+ },
+ "235": {
+  "original": "<p>Learned <c=8BEFD4>Y-Yajirobe?!<c><k>",
+  "ids": [
+   "sb:cf0/god/god01_00.sb:58"
+  ]
+ },
+ "236": {
+  "original": "<p>Why do I have to go through all this intense training?<k>",
+  "ids": [
+   "sb:cf0/god/god01_00.sb:59"
+  ]
+ },
+ "237": {
+  "original": "<p>You have already caught every monster.<k><p>Great work! I am very surprised.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:13"
+  ]
+ },
+ "238": {
+  "original": "<p>You've already caught every kind of monster there is.<k><p>You made me proud! The teacher has truly become the student!<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:16"
+  ]
+ },
+ "239": {
+  "original": "<p>Only you can fight off the Saiyans. I am counting on you.<k><p>Here is a little assignment for you:<k><p>Use Tien's Evil Containment Wave to catch the monsters you find all over the world.<k><p>Bring them back, and I'll give you something good for them.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:17"
+  ]
+ },
+ "240": {
+  "original": "<p>I'm counting on you. You're the only ones who can actually fight off the Saiyans.<k><p>Here's a little assignment for you:<k><p>Use Tien's Evil Containment Wave to catch the monsters you find all over the world.<k><p>Hmm... just catching them isn't very fun, though.<k><p>Let's make it more interesting. The more you catch, the better a reward I'll give you. Okay?<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:18"
+  ]
+ },
+ "241": {
+  "original": "<p>Kami is gone, so I will take the monsters you catch from now on.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:19"
+  ]
+ },
+ "242": {
+  "original": "<p>Ah. You have monsters.<k><p>Let me see...<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:20"
+  ]
+ },
+ "243": {
+  "original": "<p>Ah, looks like you've got some monsters here.<k><p>Let's see...<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:21"
+  ]
+ },
+ "244": {
+  "original": "<p>You've caught %d monsters in total.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:22"
+  ]
+ },
+ "245": {
+  "original": "<p>You've caught a total of %d monster(s) so far.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:23"
+  ]
+ },
+ "246": {
+  "original": "<p>Hoh! You have caught over 30 monsters.<k><p>I have something good for you.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:24"
+  ]
+ },
+ "247": {
+  "original": "<p>My! You've caught over 30 monsters!<k><p>Here. As promised, I've got a reward for you.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:25"
+  ]
+ },
+ "248": {
+  "original": "<p>Ohhh! You have caught over 60 monsters.<k><p>I have something even better for you, as promised.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:26"
+  ]
+ },
+ "249": {
+  "original": "<p>Ooh, heavens! You've caught over 60 monsters!<k><p>Here. As promised, I've got a reward for you.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:27"
+  ]
+ },
+ "250": {
+  "original": "<p>Hohohh! You have caught over 120 monsters.<k><p>I have something better still for you.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:28"
+  ]
+ },
+ "251": {
+  "original": "<p>Nice work! You've caught over 120 monsters!<k><p>Here. As promised, I've got a reward for you.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:29"
+  ]
+ },
+ "252": {
+  "original": "<p>Ohhhhh! You have caught all the monsters.<k><p>I have something great for you. Be careful with it.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:30"
+  ]
+ },
+ "253": {
+  "original": "<p>Amazing! You've caught every monster there is!<k><p>Here. As promised, I've got a reward for you.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:31"
+  ]
+ },
+ "254": {
+  "original": "<p>Come back when you have more monsters. I will give you something good.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:32"
+  ]
+ },
+ "255": {
+  "original": "<p>Come back when you get more monsters. I've got a reward waiting for you.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:33"
+  ]
+ },
+ "256": {
+  "original": "<p>Hmm. You have no new monsters this time.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:34"
+  ]
+ },
+ "257": {
+  "original": "<p>Hmm. Looks like you haven't caught any new monsters this time.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:35"
+  ]
+ },
+ "258": {
+  "original": "<p>A bed with a canopy. Kami and Mr. Popo must sleep here together.<k>",
+  "ids": [
+   "sb:cf0/god/god03_00.sb:36"
+  ]
+ },
+ "259": {
+  "original": "<p>Steam pours out of the giant pot.<k><p>You can occasionally make out human faces in the swirling mist.<k>",
+  "ids": [
+   "sb:cf0/gog/gog05_00.sb:92"
+  ]
+ },
+ "260": {
+  "original": "<p>Who're you? An outsider?<k><p>I'm a strong guy, you know! Wanna go? Huh?<k>",
+  "ids": [
+   "sb:cf0/gog/gog08_00.sb:9"
+  ]
+ },
+ "261": {
+  "original": "<p>Man... you're killer strong...<k>",
+  "ids": [
+   "sb:cf0/gog/gog08_00.sb:10"
+  ]
+ },
+ "262": {
+  "original": "<p>What, running away? You are so lame!<k>",
+  "ids": [
+   "sb:cf0/gog/gog08_00.sb:11"
+  ]
+ },
+ "263": {
+  "original": "<p>No, no, no! I can't let you go any further! Guess we'll have to fight this out!<k>",
+  "ids": [
+   "sb:cf0/gog/gog08_00.sb:12"
+  ]
+ },
+ "264": {
+  "original": "<p>D-dang... Who the heck are you?!<k>",
+  "ids": [
+   "sb:cf0/gog/gog08_00.sb:13"
+  ]
+ },
+ "265": {
+  "original": "<p>I saw two shooting stars across from that mountain.<k><p>The explosion happened right after that. It's gotta be related somehow.<k>",
+  "ids": [
+   "sb:cf0/gok/gok01_00.sb:10"
+  ]
+ },
+ "266": {
+  "original": "<p>You must have a lot of time on your hands if you're talking to the likes of me.<k>",
+  "ids": [
+   "sb:cf0/gok/gok01_00.sb:11"
+  ]
+ },
+ "267": {
+  "original": "<p>Awooooooo!!<k><p>......<k><p>Heh. Nothing like exploring my roots now and then.<k>",
+  "ids": [
+   "sb:cf0/gok/gok01_00.sb:12"
+  ]
+ },
+ "268": {
+  "original": "<p>Fog rises from upstream all the way to the top of Mt. Paozu. It's a mystical sight to see.<k>",
+  "ids": [
+   "sb:cf0/gok/gok01_00.sb:13"
+  ]
+ },
+ "269": {
+  "original": "<p>G-Gohan! You all right?! You still eating okay?!<k><p>I know! Here, take this! I made it just for you!<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:11"
+  ]
+ },
+ "270": {
+  "original": "<p>Don't do anything too rough, okay? You're gonna be a great scholar someday, Gohan!<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:12"
+  ]
+ },
+ "271": {
+  "original": "<p>Gohan! Don't do anything too rough! If the going gets tough, run away!<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:13"
+  ]
+ },
+ "272": {
+  "original": "<p>G-Goku! What were you doing?! You have any idea how lonely I was? Waaahhh!!<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:14"
+  ]
+ },
+ "273": {
+  "original": "<p>Ugh! I'm so worried! Is Gohan still doing okay?!<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:15"
+  ]
+ },
+ "274": {
+  "original": "<p><d>Early to rise<d><n><d>Say 'Good Morning'<d><n><d>Clean your plate<d><k><p><d>Do all of your homework<d><n><d>Wash your hands at home<d><n><d>Bedtime at 7 p.m.<d><k><p><d>No bullying the ghosts<d><n><d>No balancing on balls<d><n><d>No playing with trouble<d><k><p>...It goes on and on. Apparently these are Mom's rules.<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:16"
+  ]
+ },
+ "275": {
+  "original": "<p>You could make a killer spread of Chinese food with all the stuff in the fridge.<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:17"
+  ]
+ },
+ "276": {
+  "original": "<p>The jar smells like sugar. There's probably candy inside.<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:18"
+  ]
+ },
+ "277": {
+  "original": "<p>The basket contains a set of fresh vegetables.<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:19"
+  ]
+ },
+ "278": {
+  "original": "<p>A retro-design TV. Capsule Corp's logo is embossed on the edge.<k>",
+  "ids": [
+   "sb:cf0/gok/gok02_00.sb:20"
+  ]
+ },
+ "279": {
+  "original": "<p>You're fighting a guy who blew up an entire city, Gohan... Just get back in one piece, okay?<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:11"
+  ]
+ },
+ "280": {
+  "original": "<p>You're fighting against guys whose strength I couldn't even imagine, Goku...<k><p>Just try not to get in over your head, all right?<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:12"
+  ]
+ },
+ "281": {
+  "original": "<p>Man, that must be one killer alien... blowing up an entire city like that.<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:13"
+  ]
+ },
+ "282": {
+  "original": "<p>I heard you've been training, Gohan! That's my boy! Men need to be strong, you know?<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:14"
+  ]
+ },
+ "283": {
+  "original": "<p>G-G-Goku! Weren't you dead?!<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:15"
+  ]
+ },
+ "284": {
+  "original": "<p>I know Earth is in danger in all, but I'm afraid Chi-Chi's gonna kill me first...<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:16"
+  ]
+ },
+ "285": {
+  "original": "<p>Oh! Hey, Gohan! How you doing?<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:17"
+  ]
+ },
+ "286": {
+  "original": "<p>Boy, Chi-Chi is not in a good mood at all. I can't even stand being near her right now.<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:18"
+  ]
+ },
+ "287": {
+  "original": "<p>A book on robotics engineering is laid out on the desk.<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:19"
+  ]
+ },
+ "288": {
+  "original": "<p>Reference books are strewn around the bed. They all look like they've seen heavy use.<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:20"
+  ]
+ },
+ "289": {
+  "original": "<p>My skin is pretty dry... I think I'll just use a bit of this.<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:21"
+  ]
+ },
+ "290": {
+  "original": "<p>The bed is made up neatly.<k>",
+  "ids": [
+   "sb:cf0/gok/gok03_00.sb:22"
+  ]
+ },
+ "291": {
+  "original": "<p>Hours: 8:00 a.m. -- 8:05 a.m.<n>Customers, please use the right-hand window.<k>",
+  "ids": [
+   "sb:cf0/hel/hel01_00.sb:36"
+  ]
+ },
+ "292": {
+  "original": "<p>This is a Yemma tree. It bears peach-like fruit that looks delicious.<k>",
+  "ids": [
+   "sb:cf0/hel/hel01_00.sb:37"
+  ]
+ },
+ "293": {
+  "original": "<p>T-T-Tamako! I, I need to tell you...!<k><p>Oh, no, Tamao! Not here, of all places!<k><p>...Ahhhhhh!!<k><p>W-what? What is it? What're you looking at? You perv!<k><p>Look, you can have this, okay? Just leave us alone! Sheesh!<k>",
+  "ids": [
+   "sb:cf0/hel/hel02_00.sb:12"
+  ]
+ },
+ "294": {
+  "original": "<p>Aahhh, Tamako!<k><p>Ohhhh, Tamao!<k><p>...Ahhhhhh!! You huge pervo!!<k>",
+  "ids": [
+   "sb:cf0/hel/hel02_00.sb:13"
+  ]
+ },
+ "295": {
+  "original": "<p>A sign from what appears to be some kind of tourist spot.<k>",
+  "ids": [
+   "sb:cf0/hel/hel03_00.sb:9"
+  ]
+ },
+ "296": {
+  "original": "<p>Huh? You want to find the Holly Plains?<k><p>It's at the base of the tallest mountain you can see from here. Travel due south to get there.<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:12",
+   "sb:cf0/jin/jin01_00.sb:9",
+   "sb:cf0/jin/jin03_00.sb:9",
+   "sb:cf0/jin/jin04_00.sb:9"
+  ]
+ },
+ "297": {
+  "original": "<p>I'm still sleepy! Lemme sleep a little longer!<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:13",
+   "sb:cf0/jin/jin01_00.sb:10",
+   "sb:cf0/jin/jin03_00.sb:10",
+   "sb:cf0/jin/jin04_00.sb:10"
+  ]
+ },
+ "298": {
+  "original": "<p>Nnngh... I'm so hot. It's making my head pound...<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:14",
+   "sb:cf0/jin/jin01_00.sb:11",
+   "sb:cf0/jin/jin03_00.sb:11",
+   "sb:cf0/jin/jin04_00.sb:11"
+  ]
+ },
+ "299": {
+  "original": "<p>His fever is gone, but he won't get out of bed. What a strange kid.<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:15",
+   "sb:cf0/jin/jin01_00.sb:12",
+   "sb:cf0/jin/jin03_00.sb:12",
+   "sb:cf0/jin/jin04_00.sb:12"
+  ]
+ },
+ "300": {
+  "original": "<p>My child's fever just won't go down. Not even the doctors know what's wrong.<k><p>We could make a medicine from the Frozen Hyacinth that grows on the Holly Plains...<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:16",
+   "sb:cf0/jin/jin01_00.sb:13",
+   "sb:cf0/jin/jin03_00.sb:13",
+   "sb:cf0/jin/jin04_00.sb:13"
+  ]
+ },
+ "301": {
+  "original": "<p>Are you in training as well? Aren't you cold dressed like that?<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:17",
+   "sb:cf0/jin/jin01_00.sb:14",
+   "sb:cf0/jin/jin03_00.sb:14",
+   "sb:cf0/jin/jin04_00.sb:14"
+  ]
+ },
+ "302": {
+  "original": "<p>We're always happy to have more able hands to help us. We're a very small village, after all.<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:18",
+   "sb:cf0/jin/jin01_00.sb:15",
+   "sb:cf0/jin/jin03_00.sb:15",
+   "sb:cf0/jin/jin04_00.sb:15"
+  ]
+ },
+ "303": {
+  "original": "<p>When Launch's hair is blue, she's really nice, but when it's blond, she's totally funny!<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:19",
+   "sb:cf0/jin/jin01_00.sb:16",
+   "sb:cf0/jin/jin03_00.sb:16",
+   "sb:cf0/jin/jin04_00.sb:16"
+  ]
+ },
+ "304": {
+  "original": "<p>Launch is head over heels in love with Tien!<k><p>I don't know what <d>head over heels<d> means, but...<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:20",
+   "sb:cf0/jin/jin01_00.sb:17",
+   "sb:cf0/jin/jin03_00.sb:17",
+   "sb:cf0/jin/jin04_00.sb:17"
+  ]
+ },
+ "305": {
+  "original": "<p>It's locked securely shut.<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:21",
+   "sb:cf0/jin/jin01_00.sb:18",
+   "sb:cf0/jin/jin03_00.sb:18",
+   "sb:cf0/jin/jin04_00.sb:18"
+  ]
+ },
+ "306": {
+  "original": "<p>I'd better look for Launch first. Where could she be?<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:24",
+   "sb:cf0/jin/jin01_00.sb:21",
+   "sb:cf0/jin/jin03_00.sb:21",
+   "sb:cf0/jin/jin04_00.sb:21"
+  ]
+ },
+ "307": {
+  "original": "<p>Used Snowfield Key!<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:25",
+   "sb:cf0/jin/jin01_00.sb:22",
+   "sb:cf0/jin/jin03_00.sb:22",
+   "sb:cf0/jin/jin04_00.sb:22"
+  ]
+ },
+ "308": {
+  "original": "<p>It certainly is chilly, huh? What on earth could I be doing here?<k>",
+  "ids": [
+   "sb:cf0/hii/hii03_00.sb:29",
+   "sb:cf0/jin/jin01_00.sb:26",
+   "sb:cf0/jin/jin03_00.sb:26",
+   "sb:cf0/jin/jin04_00.sb:26"
+  ]
+ },
+ "309": {
+  "original": "<p>Whooosh! I'm a shooting star!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:38"
+  ]
+ },
+ "310": {
+  "original": "<p>Hey! You wanna play?<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:39"
+  ]
+ },
+ "311": {
+  "original": "<p>Hey! It's Suno!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:40"
+  ]
+ },
+ "312": {
+  "original": "<p>Boooom! I'm gonna burn everything up!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:41"
+  ]
+ },
+ "313": {
+  "original": "<p>No! Strangers are dangerous!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:42"
+  ]
+ },
+ "314": {
+  "original": "<p>No! Suno, dangerous!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:43"
+  ]
+ },
+ "315": {
+  "original": "<p>I was looking up at the sky, and I saw two shooting stars crash right on East City!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:44"
+  ]
+ },
+ "316": {
+  "original": "<p>My lover awaits me at the foot of the tallest mountain over there...<k><p>Or, at least, I wish she was.<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:45"
+  ]
+ },
+ "317": {
+  "original": "<p>If you build your Luck, all sorts of good things may happen. It's a great boon, believe me!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:46"
+  ]
+ },
+ "318": {
+  "original": "<p>What do you think? My mom's pretty good at making snowmen, huh?<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:47"
+  ]
+ },
+ "319": {
+  "original": "<p>Suno's are way cooler looking, though.<k><p>She has them smoking pipes and everything.<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:48"
+  ]
+ },
+ "320": {
+  "original": "<p>Ooooh, you're good, Suno!<k><p>But we're not giving up yet! Nnnngh!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:49"
+  ]
+ },
+ "321": {
+  "original": "<p>We can't lose out to you yet! Nnnngh!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:50"
+  ]
+ },
+ "322": {
+  "original": "<p>C'mon, Mom! Hang in there!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:51"
+  ]
+ },
+ "323": {
+  "original": "<p>Wurf wurf!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:52"
+  ]
+ },
+ "324": {
+  "original": "<p>Wuff wuff!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:53"
+  ]
+ },
+ "325": {
+  "original": "<p>Hey, did you see it? The East City!<k><p>Isn't that the craziest thing you've ever heard? I'm just so shocked!<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:55"
+  ]
+ },
+ "326": {
+  "original": "<p>Oh! It's you! Hey, thanks again for everything!<k><p>Eighter's doing pretty good. Why don't you say hello?<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:56"
+  ]
+ },
+ "327": {
+  "original": "<p><d>Jingle Village<d><k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:57"
+  ]
+ },
+ "328": {
+  "original": "<p>A well-made snowman. It's smoking an expensive-looking pipe.<k>",
+  "ids": [
+   "sb:cf0/jin/jin01_00.sb:58"
+  ]
+ },
+ "329": {
+  "original": "<p>You might have a shooting star land on you if you're outside! It's much safer indoors!<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:13"
+  ]
+ },
+ "330": {
+  "original": "<p>Sure is cold outside. It's a lot more fun in my room.<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:14"
+  ]
+ },
+ "331": {
+  "original": "<p>Everyone is going on about the explosion in East City. What a fright it is to me...<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:15"
+  ]
+ },
+ "332": {
+  "original": "<p>My granddaughter's such a tomboy... let her go outside, and she never comes back.<k><p>I don't know what to do with her.<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:16"
+  ]
+ },
+ "333": {
+  "original": "<p>Eighter and Suno are back! Boy, am I glad for that!<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:17"
+  ]
+ },
+ "334": {
+  "original": "<p>Hey! Did you hear the news about East City?! What is going on over there?!<k><p>We're so close by... I'm really scared!<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:18"
+  ]
+ },
+ "335": {
+  "original": "<p>Oh, I'm so busy! There're more kids than ever!<k><p>I asked my oldest daughter to help me, but I have no idea where she is now!<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:19"
+  ]
+ },
+ "336": {
+  "original": "<p>Hey, guys! Thanks for everything!<k><p>That pair's more energetic than they've ever been before!<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:20"
+  ]
+ },
+ "337": {
+  "original": "<p>There's a memo on the refrigerator door...<k><p>Apparently there's a rare piece of capsule equipment that boosts your movement speed.<k>",
+  "ids": [
+   "sb:cf0/jin/jin02_00.sb:21"
+  ]
+ },
+ "338": {
+  "original": "<p>T-this is no time for pipes! The world's in danger! I need a smoke to calm down...!<k><p>Ahhhhh, where's my pipe?! Oh, no no no no...<k>",
+  "ids": [
+   "sb:cf0/jin/jin03_00.sb:32"
+  ]
+ },
+ "339": {
+  "original": "<p>Huh...? Now where did my favorite pipe go?<k>",
+  "ids": [
+   "sb:cf0/jin/jin03_00.sb:33"
+  ]
+ },
+ "340": {
+  "original": "<p>Mewww...<k>",
+  "ids": [
+   "sb:cf0/jin/jin03_00.sb:34"
+  ]
+ },
+ "341": {
+  "original": "<p>Meeowww...<k>",
+  "ids": [
+   "sb:cf0/jin/jin03_00.sb:35"
+  ]
+ },
+ "342": {
+  "original": "<p>A warm-looking bed. It must be hard to pull yourself out of this on cold mornings.<k>",
+  "ids": [
+   "sb:cf0/jin/jin03_00.sb:36"
+  ]
+ },
+ "343": {
+  "original": "<p>A collection of adventure novels lines the desk. Someone here must like them.<k>",
+  "ids": [
+   "sb:cf0/jin/jin03_00.sb:37"
+  ]
+ },
+ "344": {
+  "original": "<p>Why do you look so scary? Are you angry or something?<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:32"
+  ]
+ },
+ "345": {
+  "original": "<p>My brother's gone missing. Where could he be?<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:33"
+  ]
+ },
+ "346": {
+  "original": "<p>Hey! C'mon, let's play!<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:34"
+  ]
+ },
+ "347": {
+  "original": "<p>We've received no contact from East City. That, plus the falling stars, worries me greatly.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:35"
+  ]
+ },
+ "348": {
+  "original": "<p>Eighter's an important part of our family. He really is a blessing to me.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:36"
+  ]
+ },
+ "349": {
+  "original": "<p>We've had nothing but disaster  lately. What on earth is going on here...?<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:37"
+  ]
+ },
+ "350": {
+  "original": "<p>Oh, my! Thank you very much for all your help.<k><p>Eighter is doing just fine with us, too.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:38"
+  ]
+ },
+ "351": {
+  "original": "<p>Oh, my! Visitors! It must be cold outside, no? Please, come inside and get warmed up.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:39"
+  ]
+ },
+ "352": {
+  "original": "<p>I heard East City blew up. I bet some villain is behind it. It makes me so angry!<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:41"
+  ]
+ },
+ "353": {
+  "original": "<p>I was saved. It is thanks to you.<k><p>Thank you very, very much.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:42"
+  ]
+ },
+ "354": {
+  "original": "<p>A bed that's large enough for a bear.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:43"
+  ]
+ },
+ "355": {
+  "original": "<p>Two beds are neatly lined up together.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:44"
+  ]
+ },
+ "356": {
+  "original": "<p>The space behind the curtain is being used for storage.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:45"
+  ]
+ },
+ "357": {
+  "original": "<p>A news program plays on the large TV.<k>",
+  "ids": [
+   "sb:cf0/jin/jin04_00.sb:46"
+  ]
+ },
+ "358": {
+  "original": "<p>Sorry, Princess Snake, but I need to keep moving.<k>",
+  "ids": [
+   "sb:cf0/jya/jya05_00.sb:11"
+  ]
+ },
+ "359": {
+  "original": "<p>A short circuit prevents the hatch from opening.<k>",
+  "ids": [
+   "sb:cf0/kai/kai01_00.sb:52",
+   "sb:cf0/kai/kai02_00.sb:30"
+  ]
+ },
+ "360": {
+  "original": "<p>The hatch is open.<k>",
+  "ids": [
+   "sb:cf0/kai/kai01_00.sb:53",
+   "sb:cf0/kai/kai02_00.sb:31"
+  ]
+ },
+ "361": {
+  "original": "<p>A short circuit prevents it from opening.<k>",
+  "ids": [
+   "sb:cf0/kai/kai01_00.sb:54",
+   "sb:cf0/kai/kai04_00.sb:13"
+  ]
+ },
+ "362": {
+  "original": "<p>The door is open.<k>",
+  "ids": [
+   "sb:cf0/kai/kai01_00.sb:55",
+   "sb:cf0/kai/kai04_00.sb:14"
+  ]
+ },
+ "363": {
+  "original": "<p>Crackle... creak...!<k>",
+  "ids": [
+   "sb:cf0/kai/kai01_00.sb:56"
+  ]
+ },
+ "364": {
+  "original": "<p>The short circuit appears to be fixed.<k>",
+  "ids": [
+   "sb:cf0/kai/kai01_00.sb:57",
+   "sb:cf0/kai/kai04_00.sb:16"
+  ]
+ },
+ "365": {
+  "original": "<p>Creak... crack...!<k>",
+  "ids": [
+   "sb:cf0/kai/kai04_00.sb:15"
+  ]
+ },
+ "366": {
+  "original": "<p>The pot is filled with some kind of seeds.<k>",
+  "ids": [
+   "sb:cf0/kar/kar01_00.sb:9"
+  ]
+ },
+ "367": {
+  "original": "<p>Seedlings are sprouting up from the soil. This must be where Senzu beans come from.<k>",
+  "ids": [
+   "sb:cf0/kar/kar01_00.sb:10"
+  ]
+ },
+ "368": {
+  "original": "<p>The bureau is bursting at the seams with Senzu beans!<k><p>...Just kidding, of course.<k>",
+  "ids": [
+   "sb:cf0/kar/kar01_00.sb:11"
+  ]
+ },
+ "369": {
+  "original": "<p>The bathtub is dry as a bone. It doesn't seem to get much use around here.<k>",
+  "ids": [
+   "sb:cf0/kar/kar01_00.sb:12"
+  ]
+ },
+ "370": {
+  "original": "<p>Assorted types of fertilizer are stored in the pots.<k><p>...It doesn't smell particularly good.<k>",
+  "ids": [
+   "sb:cf0/kar/kar01_00.sb:13"
+  ]
+ },
+ "371": {
+  "original": "<p>The scroll is written in a language you can't read.<k>",
+  "ids": [
+   "sb:cf0/kar/kar01_00.sb:14"
+  ]
+ },
+ "372": {
+  "original": "<p>A firm mat is laid out on the floor. The fuzz on it suggests that it's Korin's.<k>",
+  "ids": [
+   "sb:cf0/kar/kar01_00.sb:15"
+  ]
+ },
+ "373": {
+  "original": "<p>Our era is over... it is time for you younger people to step up and protect the Earth.<k><p>Let me give you a little something to help.<k>",
+  "ids": [
+   "sb:cf0/kar/kar03_00.sb:40"
+  ]
+ },
+ "374": {
+  "original": "<p>Hopefully it'll help you out during battle.<k><p>Best of luck! The Earth is in your hands!<k>",
+  "ids": [
+   "sb:cf0/kar/kar03_00.sb:41"
+  ]
+ },
+ "375": {
+  "original": "<p>They're finally here... Very fearsome opponents indeed. I'm hardly worthy of them.<k>",
+  "ids": [
+   "sb:cf0/kar/kar03_00.sb:42"
+  ]
+ },
+ "376": {
+  "original": "<p>Even as we speak, the Saiyans are hurtling towards us!<k><p>You can't beat them unless you get a great deal stronger, you know.<k>",
+  "ids": [
+   "sb:cf0/kar/kar03_00.sb:43"
+  ]
+ },
+ "377": {
+  "original": "<p>Hey! I'll help you if you get in trouble, so if you need me, just say so!<k>",
+  "ids": [
+   "sb:cf0/kar/kar03_00.sb:44"
+  ]
+ },
+ "378": {
+  "original": "<p>Learned <c=#8BEFD4>Y-Yajirobe?!<c><k>",
+  "ids": [
+   "sb:cf0/kar/kar03_00.sb:45"
+  ]
+ },
+ "379": {
+  "original": "<p>I couldn't do much against those guys if I tried. You people better work hard, okay?<k>",
+  "ids": [
+   "sb:cf0/kar/kar03_00.sb:46"
+  ]
+ },
+ "380": {
+  "original": "<p>A small urn sits on the altar. The divine water must be inside of it.<k>",
+  "ids": [
+   "sb:cf0/kar/kar03_00.sb:47"
+  ]
+ },
+ "381": {
+  "original": "<p>A giant eggshell. Who can guess how large the fully-grown bird might be?<k>",
+  "ids": [
+   "sb:cf0/kiu/kiu04_00.sb:37"
+  ]
+ },
+ "382": {
+  "original": "<p>A guy named Montgomery has the Spirit Crystal. He's in the forest.<k><p>First, you must revive five Yemma trees. Then the path to the sprite's tree will open!<k><p>Get a move on, or else the fairies will be <d>fairy<d> annoyed! Hah!<k>",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:34"
+  ]
+ },
+ "383": {
+  "original": "<p>So, you wanna go back to the Other World map?<k>",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:41"
+  ]
+ },
+ "384": {
+  "original": "Go",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:42"
+  ]
+ },
+ "385": {
+  "original": "Cancel",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:43"
+  ]
+ },
+ "386": {
+  "original": "<p>You're going back to Snake Way? How sssssneaky of you! Hah!<k>",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:44"
+  ]
+ },
+ "387": {
+  "original": "Return",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:45"
+  ]
+ },
+ "388": {
+  "original": "<p>A small garage. Does it ever even rain in this world?<k>",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:47"
+  ]
+ },
+ "389": {
+  "original": "<p>A stylish sedan. King Kai uses this to tool around the road, apparently.<k>",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:48"
+  ]
+ },
+ "390": {
+  "original": "<p>An old-fashioned well. Apparently there's ground water to be had in this world.<k>",
+  "ids": [
+   "sb:cf0/kos/kos01_00.sb:49"
+  ]
+ },
+ "391": {
+  "original": "<p>Ook ook! Oooook!<k>",
+  "ids": [
+   "sb:cf0/kos/kos02_00.sb:40"
+  ]
+ },
+ "392": {
+  "original": "<p>Ook ook! Ook ook ook!<k>",
+  "ids": [
+   "sb:cf0/kos/kos02_00.sb:41"
+  ]
+ },
+ "393": {
+  "original": "<p>Ook ook! Oooook ook ook!<k>",
+  "ids": [
+   "sb:cf0/kos/kos02_00.sb:42"
+  ]
+ },
+ "394": {
+  "original": "<p>Ook ook! Ook ook ook ook ook!<k>",
+  "ids": [
+   "sb:cf0/kos/kos02_00.sb:43"
+  ]
+ },
+ "395": {
+  "original": "<p>Ook ook! Ook!<k>",
+  "ids": [
+   "sb:cf0/kos/kos02_00.sb:44"
+  ]
+ },
+ "396": {
+  "original": "<p>Ooooook...<k>",
+  "ids": [
+   "sb:cf0/kos/kos02_00.sb:45"
+  ]
+ },
+ "397": {
+  "original": "<p>Oook ook ook!<k>",
+  "ids": [
+   "sb:cf0/kos/kos02_00.sb:46"
+  ]
+ },
+ "398": {
+  "original": "<p>That planet Earth seems to have nothing but terrible things happen to it.<k><p>For better or for worse, you certainly wouldn't be bored living there.<k>",
+  "ids": [
+   "sb:cf0/kos/kos04_00.sb:15"
+  ]
+ },
+ "399": {
+  "original": "<p>I've had enough of King Kai's stupid puns.<k><p>Put up with that for a few centuries, and you'd be pretty drained, too...<k>",
+  "ids": [
+   "sb:cf0/kos/kos04_00.sb:16"
+  ]
+ },
+ "400": {
+  "original": "<p>This table has a smaller table placed on top of it.<k>",
+  "ids": [
+   "sb:cf0/kos/kos04_00.sb:17"
+  ]
+ },
+ "401": {
+  "original": "<p><d>The Path of a Punmaster,<d> <d>Enrich Your Life with Puns,<d> <d>Love and Punnery<d>...<k><p>The shelf's book selection is, to say the least, a bit skewed.<k>",
+  "ids": [
+   "sb:cf0/kos/kos04_00.sb:18"
+  ]
+ },
+ "402": {
+  "original": "<p>You oughta be strong enough by now... I'll give you permission to venture outside.<k><p>But you're your own man now. No visiting anyplace that'll spoil you like before. Got it?<k>",
+  "ids": [
+   "sb:cf0/kou/kou01_00.sb:26"
+  ]
+ },
+ "403": {
+  "original": "<p>Huh...?<k>",
+  "ids": [
+   "sb:cf0/kou/kou04_00.sb:17"
+  ]
+ },
+ "404": {
+  "original": "<p>Ahhh... ahhhhhhh...<k>",
+  "ids": [
+   "sb:cf0/kou/kou04_00.sb:18"
+  ]
+ },
+ "405": {
+  "original": "<p>It's a gigantic flower. The scent is just as overpowering...<k>",
+  "ids": [
+   "sb:cf0/kou/kou05_00.sb:16"
+  ]
+ },
+ "406": {
+  "original": "<p>A statue of Mutaito, teacher of Master Roshi and Master Shen, sits here.<k>",
+  "ids": [
+   "sb:cf0/krd/krd03_00.sb:32"
+  ]
+ },
+ "407": {
+  "original": "<p>If we go any further, there won't be any turning back. You ready?<k>",
+  "ids": [
+   "sb:cf0/las/las01_00.sb:12",
+   "sb:cf0/las/las02_00.sb:12"
+  ]
+ },
+ "408": {
+  "original": "<p>There's no turning back now. Let's keep going.<k>",
+  "ids": [
+   "sb:cf0/las/las01_00.sb:14",
+   "sb:cf0/las/las02_00.sb:14"
+  ]
+ },
+ "409": {
+  "original": "<p>Let's hurry and go find Eighter!<k>",
+  "ids": [
+   "sb:cf0/mas/mas01_00.sb:15",
+   "sb:cf0/mas/mas02_00.sb:15",
+   "sb:cf0/mas/mas03_00.sb:15",
+   "sb:cf0/mas/mas04_00.sb:15",
+   "sb:cf0/mas/mas05_00.sb:15",
+   "sb:cf0/mas/mas06_00.sb:15",
+   "sb:cf0/mas/mas07_00.sb:15",
+   "sb:cf0/mas/mas09_00.sb:15"
+  ]
+ },
+ "410": {
+  "original": "<p>You people sure are strong... I don't know what I'd do without you.<k>",
+  "ids": [
+   "sb:cf0/mas/mas01_00.sb:16",
+   "sb:cf0/mas/mas02_00.sb:16",
+   "sb:cf0/mas/mas03_00.sb:16",
+   "sb:cf0/mas/mas04_00.sb:16",
+   "sb:cf0/mas/mas05_00.sb:16",
+   "sb:cf0/mas/mas06_00.sb:16",
+   "sb:cf0/mas/mas07_00.sb:16",
+   "sb:cf0/mas/mas09_00.sb:16"
+  ]
+ },
+ "411": {
+  "original": "<p>We're almost at the top... Be careful.<k>",
+  "ids": [
+   "sb:cf0/mas/mas01_00.sb:17",
+   "sb:cf0/mas/mas02_00.sb:17",
+   "sb:cf0/mas/mas03_00.sb:17",
+   "sb:cf0/mas/mas04_00.sb:17",
+   "sb:cf0/mas/mas05_00.sb:17",
+   "sb:cf0/mas/mas06_00.sb:17",
+   "sb:cf0/mas/mas07_00.sb:17",
+   "sb:cf0/mas/mas09_00.sb:17"
+  ]
+ },
+ "412": {
+  "original": "<p>The giant machine keep on whirring, even after its owner has disappeared.<k>",
+  "ids": [
+   "sb:cf0/mas/mas09_00.sb:36"
+  ]
+ },
+ "413": {
+  "original": "<p>Tea bottles and snack food are strewn across the table.<k>",
+  "ids": [
+   "sb:cf0/mas/mas09_00.sb:37"
+  ]
+ },
+ "414": {
+  "original": "<p>The bridge has collapsed. You can see a river flowing far down below.<k>",
+  "ids": [
+   "sb:cf0/mut/mut03_00.sb:17"
+  ]
+ },
+ "415": {
+  "original": "<p>There's no turning back beyond this point. You sure about this?<k>",
+  "ids": [
+   "sb:cf0/nap/nap02_00.sb:11",
+   "sb:cf0/nap/nap03_00.sb:11",
+   "sb:cf0/nap/nap04_00.sb:11"
+  ]
+ },
+ "416": {
+  "original": "<p>I'm sorry, Goku... You're the only guy we can rely on. Are you leaving?<k>",
+  "ids": [
+   "sb:cf0/nap/nap02_00.sb:15",
+   "sb:cf0/nap/nap03_00.sb:15",
+   "sb:cf0/nap/nap04_00.sb:15"
+  ]
+ },
+ "417": {
+  "original": "<p>Yamcha doesn't respond...<k>",
+  "ids": [
+   "sb:cf0/nap/nap02_00.sb:17",
+   "sb:cf0/nap/nap03_00.sb:17",
+   "sb:cf0/nap/nap04_00.sb:17"
+  ]
+ },
+ "418": {
+  "original": "<p>D-Daddy!<k>",
+  "ids": [
+   "sb:cf0/nap/nap02_00.sb:20",
+   "sb:cf0/nap/nap03_00.sb:20",
+   "sb:cf0/nap/nap04_00.sb:20"
+  ]
+ },
+ "419": {
+  "original": "<p>It's up to you, Goku. Try not to get yourself killed.<k>",
+  "ids": [
+   "sb:cf0/nap/nap02_00.sb:21",
+   "sb:cf0/nap/nap03_00.sb:21",
+   "sb:cf0/nap/nap04_00.sb:21"
+  ]
+ },
+ "420": {
+  "original": "<p>I think I've got a chance to win this time.<k>",
+  "ids": [
+   "sb:cf0/nap/nap02_00.sb:24",
+   "sb:cf0/nap/nap03_00.sb:24",
+   "sb:cf0/nap/nap04_00.sb:24"
+  ]
+ },
+ "421": {
+  "original": "<p>I hope I've got enough strength.<k>",
+  "ids": [
+   "sb:cf0/nap/nap02_00.sb:28",
+   "sb:cf0/nap/nap03_00.sb:28",
+   "sb:cf0/nap/nap04_00.sb:28"
+  ]
+ },
+ "422": {
+  "original": "<p>Piccolo... I guess you saved Gohan's life. I swear I'll get revenge for you!<k>",
+  "ids": [
+   "sb:cf0/nap/nap02_00.sb:32",
+   "sb:cf0/nap/nap03_00.sb:32",
+   "sb:cf0/nap/nap04_00.sb:32"
+  ]
+ },
+ "423": {
+  "original": "<p>Huh...looks like this robot man's battery ran out.<k><p>Wonder if there's a spare battery somewhere in the ruins?<k>",
+  "ids": [
+   "sb:cf0/nem/nem03_00.sb:20"
+  ]
+ },
+ "424": {
+  "original": "<p>You have no more reason to be here. Walk onward and search for your future.<k>",
+  "ids": [
+   "sb:cf0/nem/nem03_00.sb:23"
+  ]
+ },
+ "425": {
+  "original": "<p>You're not exactly sure what this device is used for.<k>",
+  "ids": [
+   "sb:cf0/nem/nem05_00.sb:18"
+  ]
+ },
+ "426": {
+  "original": "<p>I don't even have the energy to destroy this...<k><p>I wish I could see Piccolo...<k>",
+  "ids": [
+   "sb:cf0/nem/nem05_00.sb:21"
+  ]
+ },
+ "427": {
+  "original": "<p>Yamcha! Is your training going well?<k><p>I forgot to give you this earlier! Go ahead, take it!<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:22"
+  ]
+ },
+ "428": {
+  "original": "<p>Yamcha! I believe in you, okay? I know you can beat up those Saiyans for us!<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:23"
+  ]
+ },
+ "429": {
+  "original": "<p>*sigh* Yamcha...<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:24"
+  ]
+ },
+ "430": {
+  "original": "<p>I promise I'll protect your home, Yamcha! Just focus on your training!<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:25"
+  ]
+ },
+ "431": {
+  "original": "<p>Whoahh! T-this is Yamcha's place!<k><p>I'm protecting his home from intruders, and I... I'm not gonna let you beat me!<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:26"
+  ]
+ },
+ "432": {
+  "original": "<p>I'll be cheering you on right here! Hang in there, everybody!<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:27"
+  ]
+ },
+ "433": {
+  "original": "<p>A slender business suit hangs here among the training outfits.<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:28"
+  ]
+ },
+ "434": {
+  "original": "<p>The hanging scroll is written with characters too complex for you to read.<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:29"
+  ]
+ },
+ "435": {
+  "original": "<p>I think this is about how you have to use heavy weights to refine your body and stuff...<k><p>Y-you know, don't get lazy with your training, that sort of thing!<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:32"
+  ]
+ },
+ "436": {
+  "original": "<p>Refreshing cooking smells emanate from the pot.<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:33"
+  ]
+ },
+ "437": {
+  "original": "<p>A large sword casually rests here.<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:34"
+  ]
+ },
+ "438": {
+  "original": "<p>The bed is neatly made.<k>",
+  "ids": [
+   "sb:cf0/pao/pao04_00.sb:35"
+  ]
+ },
+ "439": {
+  "original": "<p>Notice: Dragon Rock, home to monsters, due east.<k><p>Trespassing and treasure hunting is highly discouraged.<k>",
+  "ids": [
+   "sb:cf0/pao/pao06_00.sb:32"
+  ]
+ },
+ "440": {
+  "original": "<p>Kakarot...!<k>",
+  "ids": [
+   "sb:cf0/pao/pao06_00.sb:34"
+  ]
+ },
+ "441": {
+  "original": "<p>Goku's House Ahead<k>",
+  "ids": [
+   "sb:cf0/pao/pao08_00.sb:65"
+  ]
+ },
+ "442": {
+  "original": "<p>A portrait of Pilaf... not very flattering.<k>",
+  "ids": [
+   "sb:cf0/pir/pir02_00.sb:15"
+  ]
+ },
+ "443": {
+  "original": "<p>A TV monitor. Nothing's being displayed right now.<k>",
+  "ids": [
+   "sb:cf0/pir/pir03_00.sb:18"
+  ]
+ },
+ "444": {
+  "original": "<p>A large, ponderous machine. You don't know what it's used for.<k>",
+  "ids": [
+   "sb:cf0/pir/pir07_00.sb:16"
+  ]
+ },
+ "445": {
+  "original": "<p>The monitor displays the scene outside.<k>",
+  "ids": [
+   "sb:cf0/pir/pir07_00.sb:17"
+  ]
+ },
+ "446": {
+  "original": "<p>There's some kind of button here. Push it?<k>",
+  "ids": [
+   "sb:cf0/pir/pir07_00.sb:18"
+  ]
+ },
+ "447": {
+  "original": "<p>A ping-pong table is set up here.<k>",
+  "ids": [
+   "sb:cf0/pir/pir10_00.sb:31"
+  ]
+ },
+ "448": {
+  "original": "<p>Cards and a game board lie here, abandoned in the middle of play.<k>",
+  "ids": [
+   "sb:cf0/pir/pir10_00.sb:32"
+  ]
+ },
+ "449": {
+  "original": "<p>A large dragon sculpture. The owner of this place must like dragons.<k>",
+  "ids": [
+   "sb:cf0/pir/pir10_00.sb:33"
+  ]
+ },
+ "450": {
+  "original": "<p>Colorful, expensive-looking vases are lined up here.<k>",
+  "ids": [
+   "sb:cf0/pir/pir10_00.sb:34"
+  ]
+ },
+ "451": {
+  "original": "<p>A glass piece of some sort. You don't know what it's used for.<k>",
+  "ids": [
+   "sb:cf0/pir/pir10_00.sb:35"
+  ]
+ },
+ "452": {
+  "original": "<p>A full-sized pinball machine. It appears to have seen heavy use.<k>",
+  "ids": [
+   "sb:cf0/pir/pir10_00.sb:36"
+  ]
+ },
+ "453": {
+  "original": "<p>A large lotus flower sits in the middle of the pond, emitting a mystical light.<k>",
+  "ids": [
+   "sb:cf0/sen/sen04_00.sb:28"
+  ]
+ },
+ "454": {
+  "original": "<p>The two falling stars were omens of disaster. Something else is going to happen soon.<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:15"
+  ]
+ },
+ "455": {
+  "original": "<p>Thank you for coming. We are the people that guard the sacred land.<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:16"
+  ]
+ },
+ "456": {
+  "original": "<p>I heard something terrible happened to East City! What was it, I wonder?<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:17"
+  ]
+ },
+ "457": {
+  "original": "<p>They say there's a really neat cat that lives at the top of Korin Tower!<k><p>I'm gonna climb up there someday and catch it!<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:18"
+  ]
+ },
+ "458": {
+  "original": "<p>I wonder if the shooting stars surprised the cat in Korin Tower, too.<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:19"
+  ]
+ },
+ "459": {
+  "original": "<p>There's no way a cat could live so high up there! I mean, it'd fall off!<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:20"
+  ]
+ },
+ "460": {
+  "original": "<p>Rrrrr... *whine*<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:21"
+  ]
+ },
+ "461": {
+  "original": "<p>Rrrrr... Ruff! Ruff ruff!<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:22"
+  ]
+ },
+ "462": {
+  "original": "<p>Hey! You still okay?! East City exploded, so I thought you were dead, too!<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:24"
+  ]
+ },
+ "463": {
+  "original": "<p>I hear East City exploded! Big surprise! Did that temple blow up, too?<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:25"
+  ]
+ },
+ "464": {
+  "original": "<p>Oh! You! I still train to keep you from beating me! Hi-yahh!<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:26"
+  ]
+ },
+ "465": {
+  "original": "<p>People here are very nice! I can train in peace! Hi-yahh!<k>",
+  "ids": [
+   "sb:cf0/skr/skr01_00.sb:27"
+  ]
+ },
+ "466": {
+  "original": "<p>The sky was bright red over in the east! What was that...?!<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:47"
+  ]
+ },
+ "467": {
+  "original": "<p>The whole world is in a panic.<k><p>Times like these are when you have to relax and look at the big picture.<k><p>You must understand what is really happening<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:48"
+  ]
+ },
+ "468": {
+  "original": "<p>We felt the aftershock of the explosion at the East City.<n>Korin Tower was shaking termendously.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:49"
+  ]
+ },
+ "469": {
+  "original": "<p>Inside this village is Korin Tower, a structure so high that they say it reaches the sky.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:50"
+  ]
+ },
+ "470": {
+  "original": "<p>Bora told me to calm down, but I can't... I feel like something terrible's going to happen.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:51"
+  ]
+ },
+ "471": {
+  "original": "<p>Bora, the sole protector of the village, was killed by the military.<k><p>But this boy came to save his life with his mysterious power.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:52"
+  ]
+ },
+ "472": {
+  "original": "<p>Two falling stars... I just know something is about to unfold for us all.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:53"
+  ]
+ },
+ "473": {
+  "original": "<p>This land once fell under attack by a group calling themselves the Red Ribbon Army.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:54"
+  ]
+ },
+ "474": {
+  "original": "<p>You know what? Korin Tower swayed a whole bunch! I was afraid it was gonna fall down!<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:55"
+  ]
+ },
+ "475": {
+  "original": "<p>You just got down from that tower, right? What's it like in there?!<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:56"
+  ]
+ },
+ "476": {
+  "original": "<p>Wow! Korin Tower is so tall!<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:57"
+  ]
+ },
+ "477": {
+  "original": "<p>Mankind has angered the gods... That was a bolt of lightning from the deities themselves.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:58"
+  ]
+ },
+ "478": {
+  "original": "<p>The river source inside the cave is a sacred place. No one is allowed near it.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:59"
+  ]
+ },
+ "479": {
+  "original": "<p>Hey... is what happened to East City gonna happen to the rest of the world, too?<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:60"
+  ]
+ },
+ "480": {
+  "original": "<p>Upa is so cool! I can't believe how strong he is!<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:61"
+  ]
+ },
+ "481": {
+  "original": "<p>There's no point falling into panic at a time like this.<k><p>We just have to accept our fate when it arrives.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:62"
+  ]
+ },
+ "482": {
+  "original": "<p>This is the Chief's tent. You can go inside, but please don't make a mess.<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:63"
+  ]
+ },
+ "483": {
+  "original": "<p>Did you think Speed just determines who attacks first in battle?<k><p>Well, it's more than that! Higher speed lets you evade enemy attacks more often! Cool, huh?<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:64"
+  ]
+ },
+ "484": {
+  "original": "<p>Rrrrr... grrrr...<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:65"
+  ]
+ },
+ "485": {
+  "original": "<p>Rrrr... Grarf!<k>",
+  "ids": [
+   "sb:cf0/skr/skr02_00.sb:66"
+  ]
+ },
+ "486": {
+  "original": "<p>A statue of Korin, complete with a rather cute tail.<k>",
+  "ids": [
+   "sb:cf0/skr/skr03_00.sb:38"
+  ]
+ },
+ "487": {
+  "original": "<p>A statue of Korin. His smiling face beams across town.<k>",
+  "ids": [
+   "sb:cf0/skr/skr03_00.sb:39"
+  ]
+ },
+ "488": {
+  "original": "<p>I can't believe East City exploded... I've never seen such an angry-looking sky.<k>",
+  "ids": [
+   "sb:cf0/skr/skr04_00.sb:11"
+  ]
+ },
+ "489": {
+  "original": "<p>This is the Sacred Land of Korin.<k><p>A group has gathered here and formed a village, following the beliefs of Bora's tribe.<k>",
+  "ids": [
+   "sb:cf0/skr/skr04_00.sb:12"
+  ]
+ },
+ "490": {
+  "original": "<p>Food gathered from the forest rests on the counter.<k>",
+  "ids": [
+   "sb:cf0/skr/skr04_00.sb:13"
+  ]
+ },
+ "491": {
+  "original": "<p>It seems people are running from their homes after hearing about East City.<k><p>Where can they run, though? As long as we're on Earth, we all share the same fate.<k>",
+  "ids": [
+   "sb:cf0/skr/skr05_00.sb:11"
+  ]
+ },
+ "492": {
+  "original": "<p>We don't get guests very often. If you think Korin Tower is a tourist spot, you're mistaken.<k>",
+  "ids": [
+   "sb:cf0/skr/skr05_00.sb:12"
+  ]
+ },
+ "493": {
+  "original": "<p>A sharp odor wafts out of the pot. There must be some kind of medicine inside.<k>",
+  "ids": [
+   "sb:cf0/skr/skr05_00.sb:13"
+  ]
+ },
+ "494": {
+  "original": "<p>You can build up your body all you want, but if your heart is not just as solid...<k><p>Then you'll be unable to act when the time calls for it. It's a difficult sort of balance.<k>",
+  "ids": [
+   "sb:cf0/skr/skr06_00.sb:11"
+  ]
+ },
+ "495": {
+  "original": "<p>If you climb the tower, the hermit who lives up top will give you sacred water.<k><p>Drink it, and your power will be multiplied countless times.<k>",
+  "ids": [
+   "sb:cf0/skr/skr06_00.sb:12"
+  ]
+ },
+ "496": {
+  "original": "<p>The altar is draped with an intricately-designed cloth.<k>",
+  "ids": [
+   "sb:cf0/skr/skr06_00.sb:13"
+  ]
+ },
+ "497": {
+  "original": "<p>There is a depression in the ground. Do you want to try stepping on it?<k>",
+  "ids": [
+   "sb:cf0/sna/sna02_00.sb:16",
+   "sb:cf0/sna/sna04_00.sb:14"
+  ]
+ },
+ "498": {
+  "original": "<p>Princess Snake is waiting for you.<k>",
+  "ids": [
+   "sb:cf0/sna/sna05_00.sb:17"
+  ]
+ },
+ "499": {
+  "original": "<p>Please enter through the large door.<k>",
+  "ids": [
+   "sb:cf0/sna/sna05_00.sb:18"
+  ]
+ },
+ "500": {
+  "original": "<p>Princess Snake's room is on the other side.<k>",
+  "ids": [
+   "sb:cf0/sna/sna05_00.sb:19"
+  ]
+ },
+ "501": {
+  "original": "<p>There is Princess Snake's chair... but no Princess Snake.<k>",
+  "ids": [
+   "sb:cf0/sna/sna06_00.sb:13"
+  ]
+ },
+ "502": {
+  "original": "<p>It sounds like he went off to a power source as strong as my own...<k><p>Did he mean... Goku?!!<k><p>I'd better go to Master Roshi and see what's up...<k><p>But who is this Kakarot?<k>",
+  "ids": [
+   "sb:cf0/spi/spi08_00.sb:12"
+  ]
+ },
+ "503": {
+  "original": "<p>When you raise your Skill parameter, you can fire off beams and stuff! Cool, huh?<k><p>What kind of waves? Well, I don't know! Microwaves? Cosmic waves?<k><p>...Oh, no, I hope it's not cosmic waves! I'm scared of those! Ahhhhh!!<k>",
+  "ids": [
+   "sb:cf0/ura/ura01_00.sb:10"
+  ]
+ },
+ "504": {
+  "original": "<p>Not even Fortuneteller Baba can predict the future this time... I hope Earth turns out all right.<k>",
+  "ids": [
+   "sb:cf0/ura/ura01_00.sb:12"
+  ]
+ },
+ "505": {
+  "original": "<p>Admission is free for all of you. Please, come on in.<k>",
+  "ids": [
+   "sb:cf0/ura/ura01_00.sb:13"
+  ]
+ },
+ "506": {
+  "original": "<p>Ah, a visitor... heh heh heh. Please, come right in.<k>",
+  "ids": [
+   "sb:cf0/ura/ura01_00.sb:14"
+  ]
+ },
+ "507": {
+  "original": "<p>You hear about East City?! They say space aliens blew it up! How scary!<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:13"
+  ]
+ },
+ "508": {
+  "original": "<p>You're all too strong! Just go visit Baba, okay? You don't have to do any fighting!<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:14"
+  ]
+ },
+ "509": {
+  "original": "<p>Fortuneteller Baba always looks forward to new challengers.<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:15"
+  ]
+ },
+ "510": {
+  "original": "<p>Zzz... zzz...<k><p>Gahh!!<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:16"
+  ]
+ },
+ "511": {
+  "original": "<p>I've been lying here this whole time, so I'm starting to get a little sleepy...<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:17"
+  ]
+ },
+ "512": {
+  "original": "<p>Ow ow ow ow...<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:18"
+  ]
+ },
+ "513": {
+  "original": "<p>Hey, I think this guy's just pretending to be knocked out. Let's try kicking him.<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:19"
+  ]
+ },
+ "514": {
+  "original": "<p>My blood's been sucked... I feel faint. When am I ever gonna win here?<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:20"
+  ]
+ },
+ "515": {
+  "original": "<p>That's not fair! You can't fight when you're invisible!<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:21"
+  ]
+ },
+ "516": {
+  "original": "<p>Waaallllk... Verrrry... Sloooowlllyy...<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:22"
+  ]
+ },
+ "517": {
+  "original": "<p>Soooo... slloooowwww... Meeeewwwwww...<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:23"
+  ]
+ },
+ "518": {
+  "original": "<p>So... slow... Me... ow...<k>",
+  "ids": [
+   "sb:cf0/ura/ura02_00.sb:24"
+  ]
+ },
+ "519": {
+  "original": "<p>Earth is dangerous enough as is... now someone's actively trying to destroy it.<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:87"
+  ]
+ },
+ "520": {
+  "original": "<p>P-P-Piccolo! What do you want?! You here to beat up a poor old woman?!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:88"
+  ]
+ },
+ "521": {
+  "original": "<p>What do you want? You guys are too strong for me. I'll tell your fortunes without a fight.<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:89"
+  ]
+ },
+ "522": {
+  "original": "<p>It's a secret to everybody!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:91"
+  ]
+ },
+ "523": {
+  "original": "<p>Acquired <c=#8BEFD4>5000 Zeni<c>!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:92"
+  ]
+ },
+ "524": {
+  "original": "<p>Sorry! I've got nothing left!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:93"
+  ]
+ },
+ "525": {
+  "original": "<p>I'd be happy to guide you to the Other World. Would you like to pay it a visit...?<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:94"
+  ]
+ },
+ "526": {
+  "original": "<p>This giant crystal ball emits a mystical light.<k><p>If you look closely, you can see something writhing around inside.<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:96"
+  ]
+ },
+ "527": {
+  "original": "<p>An eerie mask has been hung on the wall.<k><p>It's warm to the touch, almost as if it's alive.<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:97"
+  ]
+ },
+ "528": {
+  "original": "<p>A golden coffin shines coldly, covered by a gravestone-like object.<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:98"
+  ]
+ },
+ "529": {
+  "original": "<p>I can bring the dead back from the Other World for a short time. Who would you like to resurrect?<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:99"
+  ]
+ },
+ "530": {
+  "original": "Quit",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:103"
+  ]
+ },
+ "531": {
+  "original": "<p>Ah yes, Piccolo... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:104"
+  ]
+ },
+ "532": {
+  "original": "<p>You people are hopeless without me. I suppose I can help you out for a little bit.<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:106"
+  ]
+ },
+ "533": {
+  "original": "Piccolo joined your team!",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:107"
+  ]
+ },
+ "534": {
+  "original": "<p>But Piccolo is right beside you! I don't appreciate being made fun of, you!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:108"
+  ]
+ },
+ "535": {
+  "original": "<p>Ah yes, Yamcha... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:109"
+  ]
+ },
+ "536": {
+  "original": "<p>Ha hahh! I'm ready and rarin' to go!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:111"
+  ]
+ },
+ "537": {
+  "original": "Yamcha joined your team!",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:112"
+  ]
+ },
+ "538": {
+  "original": "<p>But Yamcha is right beside you! Didn't you notice him?<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:113"
+  ]
+ },
+ "539": {
+  "original": "<p>Ah yes, Tien... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:114"
+  ]
+ },
+ "540": {
+  "original": "<p>Thanks, man. Time to kick up a little dust!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:116"
+  ]
+ },
+ "541": {
+  "original": "Tien joined your team!",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:117"
+  ]
+ },
+ "542": {
+  "original": "<p>But Tien is right beside you! Quit being silly with me!<k>",
+  "ids": [
+   "sb:cf0/ura/ura03_00.sb:118"
+  ]
+ },
+ "543": {
+  "original": "<p>Oh, man... I let myself go wild. I bought a new capsule without my mom's permission...<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:15"
+  ]
+ },
+ "544": {
+  "original": "<p>Hey, check this out! A new capsule! This is so cool!<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:16"
+  ]
+ },
+ "545": {
+  "original": "<p>I wanna buy a new capsule... But my mom will be mad at me if I buy one without her permission.<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:17"
+  ]
+ },
+ "546": {
+  "original": "<p>Are you using the accessories you have? There are some really awesome ones out there!<k><p>One of them makes all your skills cost only one Ki point! You'd be an unstoppable skill machine!<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:18"
+  ]
+ },
+ "547": {
+  "original": "<p>Wow... before I realized it, I wrote all over this thing. What to do, what to do...?<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:19"
+  ]
+ },
+ "548": {
+  "original": "<p><d>No... parking!<d> There! That'll be perfect!<k><p>Oh, wait... I better write <d>You're in the way,<d> too. That'll work.<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:20"
+  ]
+ },
+ "549": {
+  "original": "<p>I hate it when people park their cars here... think I'll draw some graffiti on it.<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:21"
+  ]
+ },
+ "550": {
+  "original": "<p>T-they got East City...is this place next?!<k><p>I'm so scared...! What am I gonna do?! I'm really, really scared!<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:22"
+  ]
+ },
+ "551": {
+  "original": "<p>I'm a lady from the city, you know! I'm not like you country bumpkins!<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:23"
+  ]
+ },
+ "552": {
+  "original": "<p>Hey, those are some weird clothes you got, man! You from the sticks, or what?<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:24"
+  ]
+ },
+ "553": {
+  "original": "<p>The frosted glass prevents you from looking inside.<k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:25"
+  ]
+ },
+ "554": {
+  "original": "<p>A note is written on the end of the car: <d>No Graffiti!<d><k>",
+  "ids": [
+   "sb:cf0/wst/wst01_00.sb:26"
+  ]
+ },
+ "555": {
+  "original": "<p>I lost so much weight, and now look... I'm heartbroken.<k><p>It's no good... the pizza killed me. That and the potato chips too, I guess.<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:23"
+  ]
+ },
+ "556": {
+  "original": "<p>M-man, I've been walking a while... I'm giving it everything I got!<k><p>I musta lost a lot of weight by this point, huh? Now it's okay to start eating pizza again, right?<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:24"
+  ]
+ },
+ "557": {
+  "original": "<p>I-I'm so hot... I thought I'd go walk in heavy clothes to jump-start my metabolism...<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:25"
+  ]
+ },
+ "558": {
+  "original": "<p>Press the X Button for the top row line, Y Button for the middle line, and B Button for the bottom line, right when the enemy attacks to execute an Active Guard.<k><p>If you get it right, you'll earn more resistance against Poison and things. It's worth trying out.<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:26"
+  ]
+ },
+ "559": {
+  "original": "<p>Whisper whisper whisper!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:27"
+  ]
+ },
+ "560": {
+  "original": "<p>Whisper whisper whisper! Whisper whisper whisper whisper!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:28"
+  ]
+ },
+ "561": {
+  "original": "<p>A spy! A spy!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:29"
+  ]
+ },
+ "562": {
+  "original": "<p>You heard about the East City explosion? I bet the villains in this house were behind it!<k><p>I pretty sure that's got to be it! I'm positive!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:30"
+  ]
+ },
+ "563": {
+  "original": "<p>What a weird house! I bet some villain lives in there! It's gotta be packed with bad guys!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:31"
+  ]
+ },
+ "564": {
+  "original": "<p>This house is suspicious, if you ask me! I hear weird animal sounds out of it all day!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:32"
+  ]
+ },
+ "565": {
+  "original": "<p>Boy, it sure is hard to stop emitting carbon dioxide. I just can't do it!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:33"
+  ]
+ },
+ "566": {
+  "original": "<p>I'm sick of going out on drives! We need to think more about the environment now!<k><p>We need to stop emitting carbon dioxide, and stuff like that!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:34"
+  ]
+ },
+ "567": {
+  "original": "<p>I'm bored... I wish someone would take me on a drive or something.<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:35"
+  ]
+ },
+ "568": {
+  "original": "<p>I heard there was a terrorist attack on East City. Places like these, though... they're way safer.<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:36"
+  ]
+ },
+ "569": {
+  "original": "<p>There's someone in Old City who just loves carrots.<k><p>If you've got one, why don't you pay him a visit?<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:37"
+  ]
+ },
+ "570": {
+  "original": "<p>Old City is just down those stairs. It's not very safe there, so be careful.<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:38"
+  ]
+ },
+ "571": {
+  "original": "<p>Rrrroww! Ffft!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:39"
+  ]
+ },
+ "572": {
+  "original": "<p>Reeowww!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:40"
+  ]
+ },
+ "573": {
+  "original": "<p>Maoww...<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:41"
+  ]
+ },
+ "574": {
+  "original": "<p>Um, what's the sound that regular dogs make?<k><p>Was it <d>Dog! Dog dog dog dog!<d><k><p>I'm pretty sure that was it.<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:42"
+  ]
+ },
+ "575": {
+  "original": "<p>Moff! Moff!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:43"
+  ]
+ },
+ "576": {
+  "original": "<p>Wurfle!<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:44"
+  ]
+ },
+ "577": {
+  "original": "<p>It's not very nice to go peeping into people's homes.<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:45"
+  ]
+ },
+ "578": {
+  "original": "<p>A sign on the door reads <d>Coro.<d><k><p>It must be a doghouse.<k>",
+  "ids": [
+   "sb:cf0/wst/wst02_00.sb:46"
+  ]
+ },
+ "579": {
+  "original": "<p>I can't take it anymore! My eyes are spinning! I feel so... blorrff!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:20"
+  ]
+ },
+ "580": {
+  "original": "<p>Oh man... it's all over... I can't control myself anymore...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:21"
+  ]
+ },
+ "581": {
+  "original": "<p>I'm sure envious of these kids... heh heh.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:22"
+  ]
+ },
+ "582": {
+  "original": "<p>How many laps have we done by now, anyway?<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:23"
+  ]
+ },
+ "583": {
+  "original": "<p>Around we go!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:24"
+  ]
+ },
+ "584": {
+  "original": "<p>Yaaahhh! I'm running!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:25"
+  ]
+ },
+ "585": {
+  "original": "<p>How many times have we gotten dizzy and fallen over by now, anyway?<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:26"
+  ]
+ },
+ "586": {
+  "original": "<p>Where'll we stop? I dunno!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:27"
+  ]
+ },
+ "587": {
+  "original": "<p>Whoaa! I'm dizzy!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:28"
+  ]
+ },
+ "588": {
+  "original": "<p>It's Lait-Lait! Would you like some coffee?<k><p>Um... is that Lait-Lait something you put in the coffee?<k><p>Oh, ewwwww! I don't even want to know what it is!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:29"
+  ]
+ },
+ "589": {
+  "original": "<p>Maybe the maid thing didn't work out, but this next will for sure! It's Lait-Lait Coffee!<k><p>Um, I have no idea what that means...<k><p>Besides, that sounds like the name of a panda or something.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:30"
+  ]
+ },
+ "590": {
+  "original": "<p>Just quit it, okay? You have no business sense!<k><p>I do too! There's gonna be a maid cafe next! It's gonna happen, I swear!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:31"
+  ]
+ },
+ "591": {
+  "original": "<p>I saw these huge shooting stars headed eastward!<k><p>Those must be what blew up East City! That's got to be it!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:32"
+  ]
+ },
+ "592": {
+  "original": "<p>Boy, am I busy. I've got no time to clean, even. I wish someone could do it for me.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:33"
+  ]
+ },
+ "593": {
+  "original": "<p>What? Hey, you're free, aren't you? Could you pick up some of this garbage?<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:34"
+  ]
+ },
+ "594": {
+  "original": "<p>Niii... niii...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:35"
+  ]
+ },
+ "595": {
+  "original": "<p>Norrww...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:36"
+  ]
+ },
+ "596": {
+  "original": "<p>Nuuu... nuuu...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:37"
+  ]
+ },
+ "597": {
+  "original": "<p>We're hearing rumors about East City, too. It all smells pretty fishy to us!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:38"
+  ]
+ },
+ "598": {
+  "original": "<p>People better start noticing soon. That guy is just gonna pop sooner or later.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:39"
+  ]
+ },
+ "599": {
+  "original": "<p>That guy's so weird... always going on about this crazy stuff. I can just tell he's trouble.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:40"
+  ]
+ },
+ "600": {
+  "original": "<p>Mrrarrff!!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:41"
+  ]
+ },
+ "601": {
+  "original": "<p>Mrorff! Mrorff!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:42"
+  ]
+ },
+ "602": {
+  "original": "<p>Morf! Morf morf!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:43"
+  ]
+ },
+ "603": {
+  "original": "<p>Ahh... carrots... wonderful, wonderful carrots...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:44"
+  ]
+ },
+ "604": {
+  "original": "<p>Carrots... you have any carrots?<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:45"
+  ]
+ },
+ "605": {
+  "original": "<p>I just love carrots... All the world's a paradise as long as I have carrots...<k><p>If you find any carrots, please bring them back to me...<k><p>I've got some great stuff for you... I'm serious here...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:46"
+  ]
+ },
+ "606": {
+  "original": "<p>Give him all the carrots you have?<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:47"
+  ]
+ },
+ "607": {
+  "original": "<p>This makes %d carrots you've given me in all.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:48"
+  ]
+ },
+ "608": {
+  "original": "<p>Ah...! You brought carrots for me. You can have this in exchange. Thanks for coming through for me.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:49"
+  ]
+ },
+ "609": {
+  "original": "<p>A hundred carrots! You've given me over a hundred carrots!<k><p>Ahh...how wonderful... You've got to take this... It's a token of my gratitude...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:50"
+  ]
+ },
+ "610": {
+  "original": "<p>Whoa... Five hundred!<k><p>500 carrots...! You've given me 500 of them!<k><p>I just don't know what to say... Take this, okay? It's a token of my thanks.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:51"
+  ]
+ },
+ "611": {
+  "original": "<p>I can't believe it...! I just can't!<k><p>You've given me 1000 carrots! A full thousand!<k><p>Isn't it beautiful? You're so wonderful to me... Thank you so much...!<k><p>This is the greatest gift I can give you... Thank you! Oh, thank you!<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:52"
+  ]
+ },
+ "612": {
+  "original": "<p>Um... could I ask you for 1000 carrots? Would that be too hard...?<k><p>If you can get those, I'll give you the key to a certain place...<k><p>A place where a legendary item lies in rest, waiting to be found. You curious yet...?<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:53"
+  ]
+ },
+ "613": {
+  "original": "<p>I really want 500 carrots... Get me those, and you'll get an item that'll make you richer.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:54"
+  ]
+ },
+ "614": {
+  "original": "<p>You know... I'd really like to have at least 100 of these...<k><p>Get me those, and I'll give you an item that makes it easier to run from enemies...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:55"
+  ]
+ },
+ "615": {
+  "original": "<p>Carrots... I can't live without carrots...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:56"
+  ]
+ },
+ "616": {
+  "original": "<p>Hey... do you have any carrots...?<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:57"
+  ]
+ },
+ "617": {
+  "original": "<p>Oh... that's a shame...<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:58"
+  ]
+ },
+ "618": {
+  "original": "<p>The door is boarded shut. It must have gone out of business.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:59"
+  ]
+ },
+ "619": {
+  "original": "<p>You can hear voices whispering inside...<k><p><d>Accuracy<d> is pretty important... I guess you need to land attacks for them to mean anything, huh?<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:60"
+  ]
+ },
+ "620": {
+  "original": "<p><d>Carrot Storehouse<d><k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:61"
+  ]
+ },
+ "621": {
+  "original": "<p>A sickly-sweet smell emanates from the other side of the door.<k>",
+  "ids": [
+   "sb:cf0/wst/wst03_00.sb:62"
+  ]
+ },
+ "622": {
+  "original": "<p>Oh! Perfect! I was just thinking about giving this to you.<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:55"
+  ]
+ },
+ "623": {
+  "original": "<p>You now have more capsule shortcuts!<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:56"
+  ]
+ },
+ "624": {
+  "original": "<p>Take care of it, okay?<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:57"
+  ]
+ },
+ "625": {
+  "original": "<p>Ooh, here's the newlywed now! Congratulations! I'm so jealous!<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:58"
+  ]
+ },
+ "626": {
+  "original": "<p>Who coulda guessed Goku would get married, huh? What a crazy world this is!<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:59"
+  ]
+ },
+ "627": {
+  "original": "<p>The Earth's in a life-or-death struggle right now, and nobody even has a clue...<k><p>Sure feels weird, doesn't it?<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:60"
+  ]
+ },
+ "628": {
+  "original": "<p>Don't you think the owner ought to say hi to us? We've been living here a while now.<k><p>Well, yeah! I think it's about time he did!<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:61"
+  ]
+ },
+ "629": {
+  "original": "<p>Ahh, life is so easy in here! You think we can take this car, too?<k><p>Oh, of course! Look at how many they've got! Let's hop in!<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:62"
+  ]
+ },
+ "630": {
+  "original": "<p>This house is huge! We could live here, and nobody'd ever notice!<k><p>Oh, totally! You wanna do it? Yeah, let's do it!<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:63"
+  ]
+ },
+ "631": {
+  "original": "<p>Welcome, guest.<k><p>What, do you want to leave?<k><p>Do I look like your servant? Forget it.<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:64"
+  ]
+ },
+ "632": {
+  "original": "<p>Welcome, guest.<k><p>What are you here for? If you do not have a problem to discuss, do not bother me.<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:65"
+  ]
+ },
+ "633": {
+  "original": "<p>Welcome. Are you a guest?<k><p>State your business now.<k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:66"
+  ]
+ },
+ "634": {
+  "original": "<p><d>The first automobile developed by Capsule Corporation.<d><k><p><d>Its charming design has earned it a legion of fans even today.<d><k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:67"
+  ]
+ },
+ "635": {
+  "original": "<p><d>The first mass-produced anti-gravity scooter, the result of a lifelong dream.<d><k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:68"
+  ]
+ },
+ "636": {
+  "original": "<p><d>The latest light airplane, capable of vertical takeoff and landing. Anyone can pilot it.<d><k>",
+  "ids": [
+   "sb:cf0/wst/wst04_00.sb:69"
+  ]
+ },
+ "637": {
+  "original": "<p>Boy, East City is in bad shape! I don't know any details, but it's in real bad shape!<k><p>If it's anything like how I am without any makeup, then it must be simply horrible!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:42"
+  ]
+ },
+ "638": {
+  "original": "<p>Bulma never comes back home these days.<k><p>Maybe she's become a delinquent! I bet that's it! Maybe I should join her in a gang or something!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:43"
+  ]
+ },
+ "639": {
+  "original": "<p>Well, nice to see you again! You're looking wonderful these days!<k><p>You people never bother seeing me. Honestly! I get lonely, you know!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:44"
+  ]
+ },
+ "640": {
+  "original": "<p>Well! You're a handsome one, aren't you?<k><p>Nice to meet you! I'm Bulma's mother!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:45"
+  ]
+ },
+ "641": {
+  "original": "<p>Zzzzzz...<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:46"
+  ]
+ },
+ "642": {
+  "original": "<p>Boy, I'm getting tired... Guess I'll have to sleep it off.<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:47"
+  ]
+ },
+ "643": {
+  "original": "<p>Ahhh, it's so warm... It's like heaven in here!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:48"
+  ]
+ },
+ "644": {
+  "original": "<p>Whoa!<k><p>Hey, I'm not a criminal or anything! I'm just shacking up here for a bit!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:49"
+  ]
+ },
+ "645": {
+  "original": "<p>I swear, I'm not a criminal! Don't worry about me!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:50"
+  ]
+ },
+ "646": {
+  "original": "<p>Nowwhh...<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:51"
+  ]
+ },
+ "647": {
+  "original": "<p>Nnnn...<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:52"
+  ]
+ },
+ "648": {
+  "original": "<p>Nyu nyu nyuuuu...<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:53"
+  ]
+ },
+ "649": {
+  "original": "<p>Nghahh!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:54"
+  ]
+ },
+ "650": {
+  "original": "<p>Mreowwhh!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:55"
+  ]
+ },
+ "651": {
+  "original": "<p>Myah?!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:56"
+  ]
+ },
+ "652": {
+  "original": "<p>......<k><p>......<k><p>Do you really care that much about me?<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:57"
+  ]
+ },
+ "653": {
+  "original": "<p>......<k><p>......<k><p>You just don't give up, do you?<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:58"
+  ]
+ },
+ "654": {
+  "original": "<p>......<k><p>......<k><p>I'm sleeping. Quit bothering me.<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:59"
+  ]
+ },
+ "655": {
+  "original": "<p>Ffffft!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:60"
+  ]
+ },
+ "656": {
+  "original": "<p>Mrowh!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:61"
+  ]
+ },
+ "657": {
+  "original": "<p>Mrrrgh!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:62"
+  ]
+ },
+ "658": {
+  "original": "<p>Woffle! Woffle!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:63"
+  ]
+ },
+ "659": {
+  "original": "<p>My concern now lies with my companions that live in East City...<k><p>I am safe simply because I happened to be here. It is nothing but pure, simple luck.<k><p>What can I do for all of them? That is all I can think about, every day...<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:64"
+  ]
+ },
+ "660": {
+  "original": "<p>Everyone here is basking in their good fortune as if they were entitled to it.<k><p>A single stroke of luck, and they could have been on the other side of this window.<k><p>When I think about that, I can't help but feel awkward...<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:65"
+  ]
+ },
+ "661": {
+  "original": "<p>The place we are in right now is a safe, clean, and comfortable environment.<k><p>I am unable to hide the joy I feel to be free from hunger and permitted to run free.<k><p>Wahoooo!!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:66"
+  ]
+ },
+ "662": {
+  "original": "<p>Caw caw!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:67"
+  ]
+ },
+ "663": {
+  "original": "<p>Coo coo coo!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:68"
+  ]
+ },
+ "664": {
+  "original": "<p>Cheep cheep!<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:69"
+  ]
+ },
+ "665": {
+  "original": "<p>Some skills cannot be learned right off the bat... Try to experiment a little.<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:70"
+  ]
+ },
+ "666": {
+  "original": "<p>The West City skyline is laid out beyond the window.<k>",
+  "ids": [
+   "sb:cf0/wst/wst05_00.sb:71"
+  ]
+ },
+ "667": {
+  "original": "<p>They found an alien spaceship in East City, didn't they? Man, I'd love to see it!<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:71"
+  ]
+ },
+ "668": {
+  "original": "<p>It's always nothing but men in your group. Why don'tcha hang out with girls a little more, huh?<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:72"
+  ]
+ },
+ "669": {
+  "original": "<p>Hey! You doing okay? I'm fit as a fiddle! Ha ha ha!<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:73"
+  ]
+ },
+ "670": {
+  "original": "<p>Ah, a visitor! What would you like to see? My private dirty book stash is right here!<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:74"
+  ]
+ },
+ "671": {
+  "original": "<p>One bolt's screwed in, two go missing...<k><p>Two bolts are screwed in, four go missing...<k><p>I think I'm gonna have a screw loose myself before too long.<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:75"
+  ]
+ },
+ "672": {
+  "original": "<p>I'm not done yet...! I can do this!<k><p>All I gotta do is follow the steps in this manual!<k><p>I can do it! I can change myself! Yes I can!<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:76"
+  ]
+ },
+ "673": {
+  "original": "<p>So this connects to this... and that connects to over there...<k><p>Dahh, I don't get this at all! How does this thing work?!<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:77"
+  ]
+ },
+ "674": {
+  "original": "<p>Nnnnyuuu...<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:78"
+  ]
+ },
+ "675": {
+  "original": "<p>Mew mew!<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:79"
+  ]
+ },
+ "676": {
+  "original": "<p>Mmmyuuu...<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:80"
+  ]
+ },
+ "677": {
+  "original": "<p>An airplane? A submarine? A spaceship? This could be anything, really.<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:81"
+  ]
+ },
+ "678": {
+  "original": "<p>The cluttered bookshelf is filled with nothing but dirty books.<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:82"
+  ]
+ },
+ "679": {
+  "original": "<p>A model made of rigid clay. This must be how they finalize their designs.<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:83"
+  ]
+ },
+ "680": {
+  "original": "<p>Someone is halfway done building an airplane model on this desk. There's parts everywhere.<k>",
+  "ids": [
+   "sb:cf0/wst/wst06_00.sb:84"
+  ]
+ },
+ "681": {
+  "original": "<p>A bizarre-looking object sits here.<k>",
+  "ids": [
+   "sb:cf0/yun/yun01_01.sb:18"
+  ]
+ },
+ "682": {
+  "original": "<p>Your way is blocked by a gigantic clump of ice.<k>",
+  "ids": [
+   "sb:cf0/yun/yun02_00.sb:15"
+  ]
+ }
+}

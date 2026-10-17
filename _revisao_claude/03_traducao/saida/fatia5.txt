@@ -1,0 +1,2385 @@
+### 3069 [cf1/c11/c1104_02.sb:11] (x1)
+EN: <p>If he dies here, then our chances against the Saiyans will plummet!<k><p>I'm probably getting too soft on him, but we'd better join up...<k>
+PT: <p>Se ele morrer aqui, as nossas chances contra os Saiyajins despencam!<k><p>Devo estar ficando mole com ele, mas é melhor irmos juntos...<k>
+### 3070 [cf1/c11/c1105_00.sb:11] (x1)
+EN: <p>Yay! You came to save me, right?!<k>
+PT: <p>Oba! Você veio me salvar, né?!<k>
+### 3071 [cf1/c11/c1105_00.sb:14] (x1)
+EN: <p>...I can't have you dying on me...<k><p>Did you find the Devil's Bracelet?<k>
+PT: <p>...Não posso deixar você morrer...<k><p>Achou o Bracelete do Diabo?<k>
+### 3072 [cf1/c11/c1105_00.sb:15] (x1)
+EN: <p>...Umm, well...<k>
+PT: <p>...Hã, bom...<k>
+### 3073 [cf1/c11/c1105_00.sb:16] (x1)
+EN: <p>Heh heh... Guess not, huh?<k>
+PT: <p>Heh heh... Pelo jeito, não, né?<k>
+### 3074 [cf1/c11/c1105_00.sb:17] (x1)
+EN: <p>Fine. I'll back you up from here.<k><p>But in turn you better find that bracelet! Got it?<k>
+PT: <p>Que seja. Daqui em diante, eu te dou cobertura.<k><p>Mas, em troca, é bom você achar aquele bracelete! Entendeu?<k>
+### 3075 [cf1/c11/c1105_00.sb:18] (x1)
+EN: <p>Mr. Piccolo!<k>
+PT: <p>Senhor Piccolo!<k>
+### 3076 [cf1/c11/c1105_00.sb:20] (x1)
+EN: <p>All right.<k>
+PT: <p>Muito bem.<k>
+### 3077 [cf1/c11/c1105_01.sb:10] (x1)
+EN: <p>Mr. Piccolo... What's that...?<k>
+PT: <p>Senhor Piccolo... O que é aquilo...?<k>
+### 3078 [cf1/c11/c1105_01.sb:13] (x1)
+EN: <p>Looks like some greedy weaklings have their eye set on treasure...<k>
+PT: <p>Parece que uns fracotes gananciosos estão de olho no tesouro...<k>
+### 3079 [cf1/c11/c1105_01.sb:14] (x1)
+EN: <p>I can take them...<k>
+PT: <p>Eu dou conta deles...<k>
+### 3080 [cf1/c11/c1105_01.sb:15] (x1)
+EN: <p>...Wait.<k>
+PT: <p>...Espere.<k>
+### 3081 [cf1/c11/c1105_01.sb:17] (x1)
+EN: <p>I'd like to see just how strong you've become... but I don't like the looks of these guys...<k>
+PT: <p>Eu queria ver o quanto você ficou forte... mas não gosto da cara desses sujeitos...<k>
+### 3082 [cf1/c11/c1105_01.sb:18] (x1)
+EN: Bandit B
+PT: Bandido B
+### 3083 [cf1/c11/c1105_01.sb:19] (x1)
+EN: <p>...Hey big bro! There's some strange folks over there...<k>
+PT: <p>...Ei, maninho! Tem uns tipos estranhos ali...<k>
+### 3084 [cf1/c11/c1105_01.sb:20] (x1)
+EN: Bandit A
+PT: Bandido A
+### 3085 [cf1/c11/c1105_01.sb:21] (x1)
+EN: <p>...Huh?!<k><p>Looks like they're after the ruin's treasure just like us. Thieves probably.<k>
+PT: <p>...Hã?!<k><p>Parece que eles estão atrás do tesouro das ruínas, que nem a gente. Devem ser ladrões.<k>
+### 3086 [cf1/c11/c1105_01.sb:22] (x1)
+EN: <p>Hey, then maybe they have some treasure on them already!<k>
+PT: <p>Ei, então talvez eles já tenham algum tesouro!<k>
+### 3087 [cf1/c11/c1105_01.sb:23] (x1)
+EN: <p>Yeah!<k><p>Let's give them a little scare and relieve them of their goods while we're at it!<k>
+PT: <p>É!<k><p>Vamos dar um sustinho neles e aproveitar pra aliviar eles das coisas!<k>
+### 3088 [cf1/c11/c1105_01.sb:24] (x1)
+EN: <p>Good thinking, big bro!<k>
+PT: <p>Boa ideia, maninho!<k>
+### 3089 [cf1/c11/c1105_01.sb:25] (x1)
+EN: <p>Hey you!<k><p>So, you after the treasure too?!<k>
+PT: <p>Ei, vocês!<k><p>Então também estão atrás do tesouro?!<k>
+### 3090 [cf1/c11/c1105_01.sb:27] (x1)
+EN: <p>We're kinda famous in these parts...<k><p>We won't tell anyone, so...<k><p>If you wanna avoid a beating, hand over your treasure and make for the exit!<k>
+PT: <p>A gente é meio famoso por aqui...<k><p>Não vamos contar pra ninguém, então...<k><p>Se não quiserem apanhar, passem o tesouro e sumam daqui!<k>
+### 3091 [cf1/c11/c1105_01.sb:28] (x1)
+EN: <p>You think you're bad guys, eh? Don't make me laugh!<k><p>I'll show you real evil!<k>
+PT: <p>Acham que são malvados, é? Não me façam rir!<k><p>Eu vou mostrar o que é o mal de verdade!<k>
+### 3092 [cf1/c11/c1105_01.sb:29] (x1)
+EN: <p>Hah! Just keep on talkin' like that!<k><p>Go get 'em, excavation robot!<k>
+PT: <p>Rá! Continua falando assim!<k><p>Pega eles, robô escavador!<k>
+### 3093 [cf1/c11/c1105_02.sb:10] (x1)
+EN: <p>Mr. Piccolo...<k>
+PT: <p>Senhor Piccolo...<k>
+### 3094 [cf1/c11/c1105_02.sb:13] (x1)
+EN: <p>You've gotten stronger...<k>
+PT: <p>Você ficou mais forte...<k>
+### 3095 [cf1/c11/c1105_02.sb:14] (x1)
+EN: <p>Mr. Piccolo, you said to them you'd show them <d>real evil<d>...<k><p>But they're the evil ones. I think what you showed them was the <d>power of good<d>...<k>
+PT: <p>Senhor Piccolo, o senhor disse que ia mostrar a eles o <d>mal de verdade<d>...<k><p>Mas os maus eram eles. Acho que o que o senhor mostrou foi o <d>poder do bem<d>...<k>
+### 3096 [cf1/c11/c1105_02.sb:15] (x1)
+EN: <p>D-Don't be stupid!<k>
+PT: <p>N-não seja bobo!<k>
+### 3097 [cf1/c11/c1105_02.sb:17] (x1)
+EN: <p>Quit talking nonsense... We found the Devil's Bracelet, so we're getting out of here!<k>
+PT: <p>Pare de falar besteira... Já achamos o Bracelete do Diabo, então vamos sair daqui!<k>
+### 3098 [cf1/c11/c1105_03.sb:11] (x1)
+EN: <p>Ouch...<n>That smarts...<k>
+PT: <p>Ai...<n>Isso dói...<k>
+### 3099 [cf1/c11/c1105_03.sb:14] (x1)
+EN: <p>Hmm... Looks like you've at least gotten over your cry baby syndrome...<k>
+PT: <p>Hmm... Pelo menos parece que você superou essa mania de chorão...<k>
+### 3100 [cf1/c11/c1105_03.sb:16] (x1)
+EN: <p>Hey Piccolo... You and my dad fought in the past, right?<k>
+PT: <p>Ei, Piccolo... Você e o meu pai já lutaram antes, né?<k>
+### 3101 [cf1/c11/c1105_03.sb:17] (x1)
+EN: <p>That fight still isn't over... After we defeat the Saiyans your father is next on my list...<k>
+PT: <p>Essa luta ainda não acabou... Depois de derrotarmos os Saiyajins, o seu pai é o próximo da minha lista...<k>
+### 3102 [cf1/c11/c1105_03.sb:18] (x1)
+EN: <p>But...<k><p>Dad told me that you're not as bad as the Piccolo from the past...<k>
+PT: <p>Mas...<k><p>O papai me disse que você não é tão mau quanto o Piccolo do passado...<k>
+### 3103 [cf1/c11/c1105_03.sb:20] (x1)
+EN: <p>I think he's right... Mom and grandpa were scared of you though...<k>
+PT: <p>Acho que ele tem razão... Mas a mamãe e o vovô tinham medo de você...<k>
+### 3104 [cf1/c11/c1105_03.sb:22] (x1)
+EN: <p>Enough of your babbling! Go to sleep!<k><p>Tomorrow's training won't be as nice as today's was!<k>
+PT: <p>Chega de tagarelice! Vá dormir!<k><p>O treino de amanhã não vai ser tão leve quanto o de hoje!<k>
+### 3105 [cf1/c11/c1105_03.sb:24] (x1)
+EN: <p>...Little runt...!<k>
+PT: <p>...Pirralho...!<k>
+### 3106 [cf1/c12/c1201_00.sb:10] (x1)
+EN: <p>Hey...<n>Do you know where Chiaotzu is?<k>
+PT: <p>Ei...<n>Vocês sabem onde está o Chaos?<k>
+### 3107 [cf1/c12/c1201_00.sb:13] (x1)
+EN: <p>Chiaotzu?<k><p>I don't think he would have left Kami's Lookout...<n>You can't find him?<k>
+PT: <p>O Chaos?<k><p>Acho que ele não teria saído do Templo de Kami-Sama...<n>Não conseguem achar ele?<k>
+### 3108 [cf1/c12/c1201_00.sb:14] (x1)
+EN: <p>Yeah...<k><p>I've been looking for him since morning and I still can't find him...<n>Do you know anything, Mr. Popo?<k>
+PT: <p>É...<k><p>Estou procurando por ele desde cedo e ainda não achei...<n>O senhor sabe de alguma coisa, Sr. Popo?<k>
+### 3109 [cf1/c12/c1201_00.sb:17] (x1)
+EN: <p>I haven't seen him since last night...<n>I'm worried...<k>
+PT: <p>Não vejo ele desde ontem à noite...<n>Estou preocupado...<k>
+### 3110 [cf1/c12/c1201_00.sb:18] (x1)
+EN: <p>So you haven't seen him either...<k>
+PT: <p>Então o senhor também não viu...<k>
+### 3111 [cf1/c12/c1201_00.sb:19] (x1)
+EN: <p>I don't feel his Ki anywhere nearby... Try talking to Kami...<k>
+PT: <p>Não sinto o Ki dele em lugar nenhum por perto... Tente falar com o Kami-Sama...<k>
+### 3112 [cf1/c12/c1201_00.sb:25] (x1)
+EN: <p>Looks like Chiaotzu's no where to be found...<k>
+PT: <p>Parece que o Chaos não está em lugar nenhum...<k>
+### 3113 [cf1/c12/c1201_00.sb:27] (x1)
+EN: <p>You should try looking for him below.<k>
+PT: <p>Vocês deviam procurá-lo lá embaixo.<k>
+### 3114 [cf1/c12/c1201_00.sb:28] (x1)
+EN: <p>You mean...leave the lookout?<k>
+PT: <p>Quer dizer... sair do templo?<k>
+### 3115 [cf1/c12/c1201_00.sb:29] (x1)
+EN: <p>Yes. Go and see Baba. She may know something.<k>
+PT: <p>Sim. Vão ver a Vovó Uranai. Talvez ela saiba de algo.<k>
+### 3116 [cf1/c12/c1201_00.sb:30] (x1)
+EN: <p>I understand.<k><p>We'll go below and look for him! Training will only be put on hold until we find him.<k>
+PT: <p>Entendido.<k><p>Vamos descer e procurar por ele! O treino fica suspenso só até acharmos o Chaos.<k>
+### 3117 [cf1/c12/c1201_00.sb:31] (x1)
+EN: <p>Do not worry!<k><p>Going below will be a part of your training. I wouldn't want to train fighters who don't value their comrades.<k>
+PT: <p>Não se preocupem!<k><p>Descer também fará parte do treino. Eu não gostaria de treinar lutadores que não valorizam os companheiros.<k>
+### 3118 [cf1/c12/c1201_00.sb:32] (x2)
+EN: <p>Thank you, Kami!<k>
+PT: <p>Obrigado, Kami-Sama!<k>
+### 3119 [cf1/c12/c1202_00.sb:10] (x1)
+EN: <p>What? What?! What are you all doing here?<k>
+PT: <p>O quê? O quê?! O que vocês todos fazem aqui?<k>
+### 3120 [cf1/c12/c1202_00.sb:13] (x1)
+EN: <p>Well...<k>
+PT: <p>Bom...<k>
+### 3121 [cf1/c12/c1202_00.sb:16] (x1)
+EN: <p>We don't know where Chiaotzu has gone!<k><p>We thought maybe you might help us find a clue...<k>
+PT: <p>Não sabemos pra onde o Chaos foi!<k><p>Achamos que a senhora podia nos ajudar a achar uma pista...<k>
+### 3122 [cf1/c12/c1202_00.sb:17] (x1)
+EN: <p>Hmm...<k><p>I guess you boys aren't playing around.<k>
+PT: <p>Hmm...<k><p>Pelo jeito vocês não estão de brincadeira.<k>
+### 3123 [cf1/c12/c1202_00.sb:20] (x1)
+EN: <p>Could you use your power to help us find him?<k>
+PT: <p>A senhora pode usar o seu poder pra nos ajudar a achá-lo?<k>
+### 3124 [cf1/c12/c1202_00.sb:21] (x1)
+EN: <p>Easily done! Hoy hoy hoy sa sa!<k>
+PT: <p>Moleza! Hoy hoy hoy sa sa!<k>
+### 3125 [cf1/c12/c1202_00.sb:23] (x1)
+EN: <p>Did you find out anything?!<k>
+PT: <p>Descobriu alguma coisa?!<k>
+### 3126 [cf1/c12/c1202_00.sb:24] (x1)
+EN: <p>It seems he's at Master Mutaito's training grounds!<k>
+PT: <p>Parece que ele está no campo de treino do Mestre Mutaito!<k>
+### 3127 [cf1/c12/c1202_00.sb:25] (x1)
+EN: <p>Master Mutaito's training grounds?!<k>
+PT: <p>No campo de treino do Mestre Mutaito?!<k>
+### 3128 [cf1/c12/c1202_00.sb:26] (x1)
+EN: <p>Right! The place where it is said Master Mutaito himself trained.<k>
+PT: <p>Isso! O lugar onde dizem que o próprio Mestre Mutaito treinava.<k>
+### 3129 [cf1/c12/c1202_00.sb:27] (x1)
+EN: <p>What would Chiaotzu be doing in a place like that?!<k>
+PT: <p>O que o Chaos estaria fazendo num lugar desses?!<k>
+### 3130 [cf1/c12/c1202_00.sb:28] (x1)
+EN: <p>My powers tell me that he didn't go there by his own will.<k>
+PT: <p>Os meus poderes dizem que ele não foi pra lá por vontade própria.<k>
+### 3131 [cf1/c12/c1202_00.sb:29] (x1)
+EN: <p>Not by his own will?!<k>
+PT: <p>Não por vontade própria?!<k>
+### 3132 [cf1/c12/c1202_00.sb:30] (x1)
+EN: <p>That's right. Simply put, he was kidnapped! ...I think?<k>
+PT: <p>Isso mesmo. Resumindo: ele foi sequestrado! ...Acho?<k>
+### 3133 [cf1/c12/c1202_00.sb:31] (x1)
+EN: <p>Kidnapped?! By who?!<k>
+PT: <p>Sequestrado?! Por quem?!<k>
+### 3134 [cf1/c12/c1202_00.sb:32] (x1)
+EN: <p>I don't know. You should go to the training grounds.<k>
+PT: <p>Não sei. É melhor vocês irem ao campo de treino.<k>
+### 3135 [cf1/c12/c1203_00.sb:10] (x1)
+EN: <p>This is it.<k>
+PT: <p>É aqui.<k>
+### 3136 [cf1/c12/c1203_00.sb:13] (x1)
+EN: <p>So this is where Master Mutaito trained. I think I'm getting goose bumps!<k>
+PT: <p>Então foi aqui que o Mestre Mutaito treinou. Acho que estou todo arrepiado!<k>
+### 3137 [cf1/c12/c1203_00.sb:16] (x1)
+EN: <p>(Chiaotzu... Where are you?)<k>
+PT: <p>(Chaos... Onde você está?)<k>
+### 3138 [cf1/c12/c1204_00.sb:9] (x1)
+EN: <p>Hah hah hah hah! I've been waiting for you, Tien!<k>
+PT: <p>Rá rá rá rá! Estava te esperando, Tenshinhan!<k>
+### 3139 [cf1/c12/c1204_00.sb:13] (x1)
+EN: <p>Don't tell me you've forgotten my voice already.<k>
+PT: <p>Não me diga que já esqueceu a minha voz.<k>
+### 3140 [cf1/c12/c1204_00.sb:14] (x1)
+EN: <p>M-Master Shen?!<k>
+PT: <p>M-Mestre Shen?!<k>
+### 3141 [cf1/c12/c1204_00.sb:17] (x1)
+EN: Master Shen
+PT: Mestre Shen
+### 3142 [cf1/c12/c1204_00.sb:18] (x1)
+EN: <p>Heh heh! The traitor has finally shown himself!<k><p>Now where did that other traitor go... Oh, there he is!<k>
+PT: <p>Heh heh! O traidor finalmente apareceu!<k><p>E onde foi parar o outro traidor... Ah, ali está ele!<k>
+### 3143 [cf1/c12/c1204_00.sb:21] (x1)
+EN: <p>Why... Why would you do this?!?!<k>
+PT: <p>Por quê... Por que fazer isso?!?!<k>
+### 3144 [cf1/c12/c1204_00.sb:22] (x1)
+EN: <p>To get even with you!<k><p>You had become too strong at the last World Tournament, like you said!<k><p>You tore my pride to pieces...<k>
+PT: <p>Pra me vingar de você!<k><p>Você ficou forte demais no último Torneio, como você mesmo disse!<k><p>Você fez o meu orgulho em pedaços...<k>
+### 3145 [cf1/c12/c1204_00.sb:23] (x1)
+EN: <p>Pride? Pride?! All you cared about was winning! Your fists ignored all decency.<k><p>You had no pride to begin with!<k>
+PT: <p>Orgulho? Orgulho?! Tudo o que importava pro senhor era vencer! Os seus punhos ignoravam qualquer decência.<k><p>O senhor nunca teve orgulho nenhum!<k>
+### 3146 [cf1/c12/c1204_00.sb:24] (x1)
+EN: <p>That's what I'm talking about!<k><p>I must shut that high and mighty mouth of yours!<k><p>I brought you here to make you pay for the sorrow you caused my brother<k><p>after you caused him injury beyond recovery!<k>
+PT: <p>É disso que eu estou falando!<k><p>Tenho que calar essa sua boca arrogante!<k><p>Te trouxe aqui pra pagar pelo sofrimento que causou ao meu irmão<k><p>depois de deixá-lo com ferimentos que nunca vão sarar!<k>
+### 3147 [cf1/c12/c1204_00.sb:25] (x1)
+EN: <p>Are you saying that for that, not only would you hurt Chiaotzu...<k><p>But you would insult Master Mutaito himself?<k>
+PT: <p>Está dizendo que, por isso, não só feriria o Chaos...<k><p>Como também insultaria o próprio Mestre Mutaito?<k>
+### 3148 [cf1/c12/c1204_00.sb:27] (x1)
+EN: <p>Hah hah hah!<k><p>I'll make you pay for your conceit in front of my master, Mutaito.<k><p>Prepare yourself, Tien. I've analyzed my brother's battles and put the data into this super robot.<k><p>I'll let TPP-EX take you to the other side!<k>
+PT: <p>Rá rá rá!<k><p>Vou fazer você pagar pela sua arrogância diante do meu mestre, Mutaito.<k><p>Prepare-se, Tenshinhan. Analisei as lutas do meu irmão e pus os dados neste super-robô.<k><p>Vou deixar o TPP-EX te mandar pro Outro Mundo!<k>
+### 3149 [cf1/c12/c1205_00.sb:10] (x2)
+EN: <p>Tien!<k>
+PT: <p>Tenshinhan!<k>
+### 3150 [cf1/c12/c1205_00.sb:13] (x1)
+EN: <p>Are you hurt??<k>
+PT: <p>Você está ferido??<k>
+### 3151 [cf1/c12/c1205_00.sb:14] (x1)
+EN: <p>Yes... But...<k>
+PT: <p>Estou... Mas...<k>
+### 3152 [cf1/c12/c1205_00.sb:15] (x1)
+EN: <p>You don't need to say anything.<k>
+PT: <p>Não precisa dizer nada.<k>
+### 3153 [cf1/c12/c1205_00.sb:16] (x1)
+EN: <p>...But...<k>
+PT: <p>...Mas...<k>
+### 3154 [cf1/c12/c1205_00.sb:17] (x1)
+EN: <p>We have only one master... And that's Master Roshi!<k>
+PT: <p>Nós só temos um mestre... E ele é o Mestre Kame!<k>
+### 3155 [cf1/c12/c1205_00.sb:18] (x1)
+EN: <p>Tien... What a sad thing to happen...<k>
+PT: <p>Tenshinhan... Que coisa triste de acontecer...<k>
+### 3156 [cf1/c12/c1205_00.sb:19] (x1)
+EN: <p>I know...<k>
+PT: <p>Eu sei...<k>
+### 3157 [cf1/c12/c1206_00.sb:16] (x1)
+EN: <p>I see...<k><p>So he was upset over his brother then...<k><p>But Tien... You should have nothing more to worry about now.<k>
+PT: <p>Entendo...<k><p>Então ele estava ressentido por causa do irmão...<k><p>Mas, Tenshinhan... Agora você não tem mais com o que se preocupar.<k>
+### 3158 [cf1/c12/c1206_00.sb:19] (x1)
+EN: <p>...That's right! No matter how many times you showed him the wrong in his ways he wouldn't learn!<k>
+PT: <p>...Isso mesmo! Por mais que você mostrasse o erro dele, ele não aprendia!<k>
+### 3159 [cf1/c12/c1206_00.sb:25] (x1)
+EN: <p>Yes... I know it, but... I still can't help it...<k>
+PT: <p>É... Eu sei, mas... Não consigo evitar...<k>
+### 3160 [cf1/c12/c1206_00.sb:28] (x1)
+EN: <p>You warned him!<k><p>He'll never show his face around you again!<k>
+PT: <p>Você avisou ele!<k><p>Ele nunca mais vai aparecer na sua frente!<k>
+### 3161 [cf1/c12/c1206_00.sb:29] (x1)
+EN: <p>...Yeah...<k>
+PT: <p>...É...<k>
+### 3162 [cf1/c12/c1206_00.sb:31] (x1)
+EN: <p>?<n>...Is something funny?<k>
+PT: <p>?<n>...Algo engraçado?<k>
+### 3163 [cf1/c12/c1206_00.sb:32] (x1)
+EN: <p>I never thought once enemies such as yourselves would have ever formed such a strong bond.<k>
+PT: <p>Nunca imaginei que antigos inimigos como vocês fossem criar um laço tão forte.<k>
+### 3164 [cf1/c12/c1206_00.sb:34] (x1)
+EN: <p>You have all surpassed me long ago.<k><p>Mr. Popo and I have nothing more to teach you.<k><p>I believe it would be best if you returned to the world below to polish your various techniques before the showdown.<k>
+PT: <p>Vocês todos me superaram há muito tempo.<k><p>O Sr. Popo e eu não temos mais nada a ensinar.<k><p>Acho que o melhor é vocês voltarem ao mundo lá embaixo para aprimorar suas técnicas antes da batalha decisiva.<k>
+### 3165 [cf1/c12/c1206_00.sb:35] (x1)
+EN: <p>I leave the future in your hands.<k>
+PT: <p>Deixo o futuro em suas mãos.<k>
+### 3166 [cf1/c12/c1206_00.sb:39] (x1)
+EN: <p>...Can I take off this heavy clothing now then?<k>
+PT: <p>...Então já posso tirar esta roupa pesada?<k>
+### 3167 [cf1/c13/c1301_00.sb:10] (x1)
+EN: <p>So... How was everything on Earth?<k>
+PT: <p>E então... Como estava tudo na Terra?<k>
+### 3168 [cf1/c13/c1301_00.sb:13] (x1)
+EN: <p>Everyone was doing good!<k><p>I was worried about Piccolo and Gohan, but they seem to be doing fine!<k>
+PT: <p>Todo mundo estava bem!<k><p>Eu estava preocupado com o Piccolo e o Gohan, mas parece que estão indo bem!<k>
+### 3169 [cf1/c13/c1301_00.sb:14] (x1)
+EN: <p>I see, I see... Well then, let's continue the training, shall we?<k>
+PT: <p>Entendo, entendo... Bom, então vamos continuar o treino, que tal?<k>
+### 3170 [cf1/c13/c1301_00.sb:15] (x1)
+EN: <p>OK! ...So, what are you going to teach me next?<k>
+PT: <p>Tá! ...E o que o senhor vai me ensinar agora?<k>
+### 3171 [cf1/c13/c1301_00.sb:16] (x1)
+EN: <p>...The Spirit Bomb!<k>
+PT: <p>...A Genki Dama!<k>
+### 3172 [cf1/c13/c1301_00.sb:17] (x1)
+EN: <p>Spirit Bomb?<k><p>...Sounds powerful! What kind of technique is it?!<k>
+PT: <p>Genki Dama?<k><p>...Parece poderosa! Que tipo de técnica é essa?!<k>
+### 3173 [cf1/c13/c1301_00.sb:18] (x1)
+EN: <p>If you can complete the task I have for you, I'll teach it to you...<k><p>...First, go to Yemma's Forest and bring me the Spirit Crystal!<k>
+PT: <p>Se você cumprir a tarefa que tenho para você, eu te ensino...<k><p>...Primeiro, vá à Floresta do Enma e me traga o Cristal Espiritual!<k>
+### 3174 [cf1/c13/c1301_00.sb:19] (x1)
+EN: <p>Yemma's Forest from before?<k>
+PT: <p>A Floresta do Enma de antes?<k>
+### 3175 [cf1/c13/c1301_00.sb:20] (x1)
+EN: <p>Right! A forest sprite should have it!<k><p>...But there's a little problem... You remember how Raditz went on a rampage?<k><p>He downed a Yemma Tree and blocked the road to the tree the sprites live in!<k>
+PT: <p>Isso! Um espírito da floresta deve estar com ele!<k><p>...Mas tem um probleminha... Lembra da bagunça que o Raditz fez?<k><p>Ele derrubou uma Árvore do Enma e bloqueou o caminho até a árvore onde os espíritos moram!<k>
+### 3176 [cf1/c13/c1301_00.sb:21] (x1)
+EN: <p>The tree the sprites live in...?<k>
+PT: <p>A árvore onde os espíritos moram...?<k>
+### 3177 [cf1/c13/c1301_00.sb:22] (x1)
+EN: <p>You know Gregory, right?<k><p>That tree is where he used to live!<k><p>The elder Montgomery should have the Spirit Crystal...<k>
+PT: <p>Você conhece o Gregory, né?<k><p>Era naquela árvore que ele morava!<k><p>O ancião Montgomery deve estar com o Cristal Espiritual...<k>
+### 3178 [cf1/c13/c1301_00.sb:23] (x1)
+EN: <p>...But the road's been blocked. How am I supposed to get there?<k>
+PT: <p>...Mas o caminho está bloqueado. Como eu vou chegar lá?<k>
+### 3179 [cf1/c13/c1301_00.sb:24] (x1)
+EN: <p>Hah hah hah! That's why I have this nutrient!<k><p>It's a secret recipe.<k><p>Bubbles and I make it as a hobby.<k><p>This stuff will help raise any plant...<k>
+PT: <p>Rá rá rá! É pra isso que eu tenho este adubo!<k><p>É uma receita secreta.<k><p>O Bubbles e eu fazemos por hobby.<k><p>Isto aqui faz qualquer planta crescer...<k>
+### 3180 [cf1/c13/c1301_00.sb:25] (x1)
+EN: <p>Oh, man! It reeks!<k><p>Are you sure this'll make that Yemma Tree go back to normal?<k>
+PT: <p>Nossa! Que fedor!<k><p>Tem certeza de que isso vai fazer a Árvore do Enma voltar ao normal?<k>
+### 3181 [cf1/c13/c1301_00.sb:26] (x1)
+EN: <p>Heh heh! I can guarantee it'll work!<k><p>...All right? Raditz broke five trees in all!<k><p>If you heal all five trees, the road to the tree the sprites live in should open...<k><p>Go see Montgomery and bring the Spirit Crystal back to me!<k>
+PT: <p>Heh heh! Garanto que funciona!<k><p>...Entendeu? O Raditz quebrou cinco árvores ao todo!<k><p>Se curar as cinco árvores, o caminho até a árvore dos espíritos deve abrir...<k><p>Vá falar com o Montgomery e me traga o Cristal Espiritual!<k>
+### 3182 [cf1/c13/c1301_00.sb:27] (x1)
+EN: <p>No problem! I'll be back!<k>
+PT: <p>Sem problema! Já volto!<k>
+### 3183 [cf1/c13/c1301_00.sb:28] (x1)
+EN: <p>And just so you know...<k>
+PT: <p>E fique sabendo...<k>
+### 3184 [cf1/c13/c1301_00.sb:30] (x1)
+EN: <p>You can use the Kaioken if you want to now!<k>
+PT: <p>Agora você já pode usar o Kaioken, se quiser!<k>
+### 3185 [cf1/c13/c1301_00.sb:32] (x1)
+EN: <p>Yes.<k><p>You did well mastering something not even I myself could not...<k><p>You impress me, Goku...<k><p>However I urge you not to overuse it.<k><p>If you lose control, your own body could be destroyed...<k>
+PT: <p>Sim.<k><p>Você foi muito bem em dominar algo que nem eu mesmo consegui...<k><p>Você me impressiona, Goku...<k><p>Mas peço que não abuse dele.<k><p>Se perder o controle, o seu próprio corpo pode ser destruído...<k>
+### 3186 [cf1/c13/c1301_00.sb:34] (x1)
+EN: <p>Don't go over two times the power.<k><p>Got it?<k><p>Taking the Kaioken beyond that would be too much for your body...<k><p>Your body won't be able to keep up and the technique will backfire...<k>
+PT: <p>Não passe do dobro do poder.<k><p>Entendeu?<k><p>Levar o Kaioken além disso seria demais para o seu corpo...<k><p>O seu corpo não vai aguentar e a técnica vai se voltar contra você...<k>
+### 3187 [cf1/c13/c1301_00.sb:35] (x1)
+EN: <p>Got it, King Kai!<k>
+PT: <p>Entendi, Senhor Kaioh!<k>
+### 3188 [cf1/c13/c1301_00.sb:36] (x1)
+EN: <p>Learned Kaioken!<k>
+PT: <p>Aprendeu Kaioken!<k>
+### 3189 [cf1/c13/c1302_00.sb:10] (x1)
+EN: <p>...So, this is where the sprites live! It's huge!!<k>
+PT: <p>...Então é aqui que os espíritos moram! É enorme!!<k>
+### 3190 [cf1/c13/c1302_00.sb:11] (x1)
+EN: <p>I better find the elder...<k>
+PT: <p>É melhor eu achar o ancião...<k>
+### 3191 [cf1/c13/c1302_00.sb:14] (x1)
+EN: <p>So, you're after the Spirit Crystal as well...<k>
+PT: <p>Então você também está atrás do Cristal Espiritual...<k>
+### 3192 [cf1/c13/c1302_00.sb:15] (x1)
+EN: <p>Raditz?! You're still here? You just won't give up, will you?<k>
+PT: <p>Raditz?! Você ainda está aqui? Você não desiste mesmo, né?<k>
+### 3193 [cf1/c13/c1302_00.sb:16] (x1)
+EN: <p>You should know better than that!<k><p>If I can get a hold of the Spirit Crystal I'll gain power greater than that of King Yemma himself!<k>
+PT: <p>Você devia saber!<k><p>Se eu puser as mãos no Cristal Espiritual, vou ganhar um poder maior que o do próprio Senhor Enma!<k>
+### 3194 [cf1/c13/c1302_00.sb:17] (x1)
+EN: <p>What do you plan to do after that?<k>
+PT: <p>E o que você pretende fazer depois?<k>
+### 3195 [cf1/c13/c1302_00.sb:18] (x1)
+EN: <p>What do you think?! I will rule all of Hell!<k>
+PT: <p>O que você acha?! Vou governar todo o Inferno!<k>
+### 3196 [cf1/c13/c1303_00.sb:10] (x1)
+EN: <p>Gugh...! How... could this happen...<k>
+PT: <p>Argh...! Como... isso pôde acontecer...<k>
+### 3197 [cf1/c13/c1303_00.sb:13] (x1)
+EN: <p>Whew...! How stubborn can you get...<k><p>I wonder if he was telling the truth about the Spirit Crystal being able to make someone more powerful than King Yemma...<k>
+PT: <p>Ufa...! Que teimoso...<k><p>Será que era verdade que o Cristal Espiritual deixa alguém mais forte que o Senhor Enma...<k>
+### 3198 [cf1/c13/c1303_00.sb:14] (x1)
+EN: <p>Oh well!<k><p>I need to hurry up so I can learn the Spirit Bomb from King Kai...!<k>
+PT: <p>Deixa pra lá!<k><p>Tenho que me apressar pra aprender a Genki Dama com o Senhor Kaioh...!<k>
+### 3199 [cf1/c13/c1303_00.sb:16] (x1)
+EN: <p>What's all the fuss?!<k>
+PT: <p>Que barulheira é essa?!<k>
+### 3200 [cf1/c13/c1303_00.sb:20] (x1)
+EN: <p>Elder??<k>
+PT: <p>Ancião??<k>
+### 3201 [cf1/c13/c1303_00.sb:22] (x1)
+EN: <p>Oh! Gregory, is that you??<k><p>Have you been keeping up the hard work under King Kai??<k>
+PT: <p>Oh! Gregory, é você??<k><p>Tem se esforçado no treino com o Senhor Kaioh??<k>
+### 3202 [cf1/c13/c1303_00.sb:23] (x1)
+EN: <p>Of course!<k>
+PT: <p>Claro!<k>
+### 3203 [cf1/c13/c1303_00.sb:24] (x1)
+EN: <p>What's wrong? I suppose you're not just home to visit...<k>
+PT: <p>O que houve? Imagino que não veio só fazer uma visita...<k>
+### 3204 [cf1/c13/c1303_00.sb:25] (x1)
+EN: <p>That's right! I brought a man from Earth with me!<k>
+PT: <p>Isso! Trouxe um homem da Terra comigo!<k>
+### 3205 [cf1/c13/c1303_00.sb:26] (x1)
+EN: <p>...Earth?<k>
+PT: <p>...Da Terra?<k>
+### 3206 [cf1/c13/c1303_00.sb:27] (x1)
+EN: <p>Hi! I'm Goku!<k>
+PT: <p>Oi! Eu sou o Goku!<k>
+### 3207 [cf1/c13/c1303_00.sb:28] (x1)
+EN: <p>...And what is it this man from Earth wants?<k>
+PT: <p>...E o que esse homem da Terra quer?<k>
+### 3208 [cf1/c13/c1303_00.sb:29] (x1)
+EN: <p>King Kai told me to find the Spirit Crystal!<k>
+PT: <p>O Senhor Kaioh me mandou achar o Cristal Espiritual!<k>
+### 3209 [cf1/c13/c1303_00.sb:30] (x1)
+EN: <p>If that's all you're looking for then take all you need...<k><p>Here!<k>
+PT: <p>Se é só isso que procura, leve quantos precisar...<k><p>Tome!<k>
+### 3210 [cf1/c13/c1303_00.sb:31] (x1)
+EN: <p>That was pretty easy...<k><p>Isn't this something really important?<k>
+PT: <p>Foi bem fácil...<k><p>Isso não é uma coisa muito importante?<k>
+### 3211 [cf1/c13/c1303_00.sb:32] (x1)
+EN: <p>...Important?<k>
+PT: <p>...Importante?<k>
+### 3212 [cf1/c13/c1303_00.sb:33] (x1)
+EN: <p>Yeah. Raditz said that it would grant power greater than King Yemma...<k>
+PT: <p>É. O Raditz disse que ele dava um poder maior que o do Senhor Enma...<k>
+### 3213 [cf1/c13/c1303_00.sb:34] (x1)
+EN: <p>Wah hah hah! Sounds like Goz and Mez have been up to their old lies again!<k><p>It's just something of a protective charm to us sprites!<k><p>You can find them rolling all over this area!<k>
+PT: <p>Uá rá rá! Parece que o Goz e o Mez andam contando as mentiras de sempre!<k><p>É só um amuleto de proteção pra nós, espíritos!<k><p>Tem um monte deles rolando por esta área!<k>
+### 3214 [cf1/c13/c1303_00.sb:35] (x1)
+EN: <p>I wonder why King Kai had me come and get one then...<k>
+PT: <p>Então por que será que o Senhor Kaioh me mandou buscar um...<k>
+### 3215 [cf1/c13/c1303_00.sb:36] (x1)
+EN: <p>Hmm...<k><p>Maybe he wanted for us to meet...<k>
+PT: <p>Hmm...<k><p>Talvez ele quisesse que nos conhecêssemos...<k>
+### 3216 [cf1/c13/c1303_00.sb:37] (x1)
+EN: <p>I don't really understand it all, but thanks!<k><p>I gotta get back to King Kai's place! Later!<k>
+PT: <p>Não entendi direito, mas valeu!<k><p>Tenho que voltar pra casa do Senhor Kaioh! Até mais!<k>
+### 3217 [cf1/c13/c1303_00.sb:38] (x1)
+EN: <p>...Elder. Are you sure about giving that Earthling the Spirit Crystal?<k><p>It's supposed to only be given to those as proof of learning the Spirit Bomb...<k>
+PT: <p>...Ancião. Tem certeza de dar o Cristal Espiritual àquele terráqueo?<k><p>Ele só deve ser dado como prova de quem aprendeu a Genki Dama...<k>
+### 3218 [cf1/c13/c1303_00.sb:39] (x1)
+EN: <p>Just what have you been learning under King Kai??<k>
+PT: <p>O que você anda aprendendo com o Senhor Kaioh??<k>
+### 3219 [cf1/c13/c1303_00.sb:41] (x1)
+EN: <p>You saw the pureness in his eyes, didn't you?<k><p>He'll put the Spirit Bomb to good use, I'm sure of it!<k><p>Are you sure you don't want to go after him? Aren't you supposed to still be training?<k>
+PT: <p>Você viu a pureza nos olhos dele, não viu?<k><p>Ele vai usar bem a Genki Dama, tenho certeza!<k><p>Não vai atrás dele? Você não devia estar treinando ainda?<k>
+### 3220 [cf1/c13/c1303_00.sb:42] (x1)
+EN: <p>Yes! I guess I better go!<k>
+PT: <p>Sim! Acho melhor eu ir!<k>
+### 3221 [cf1/c13/c1304_00.sb:10] (x1)
+EN: <p>King Kai!<k>
+PT: <p>Senhor Kaioh!<k>
+### 3222 [cf1/c13/c1304_00.sb:13] (x1)
+EN: <p>So, you're back!<k>
+PT: <p>Então você voltou!<k>
+### 3223 [cf1/c13/c1304_00.sb:14] (x1)
+EN: <p>Look! I brought the Spirit Crystal you told me to get!<k><p>Why did you make me go after it? The elder said it was just a plain old protective charm!<k>
+PT: <p>Olha! Trouxe o Cristal Espiritual que o senhor pediu!<k><p>Por que me fez ir buscar? O ancião disse que era só um amuleto de proteção comum!<k>
+### 3224 [cf1/c13/c1304_00.sb:15] (x1)
+EN: <p>Yes, well...<k><p>Think about it. I'm sure you've gained some strength in getting it, haven't you?<k>
+PT: <p>Sim, bem...<k><p>Pense bem. Com certeza você ficou mais forte ao buscá-lo, não ficou?<k>
+### 3225 [cf1/c13/c1304_00.sb:16] (x1)
+EN: <p>Come on, King Kai! Hurry up and teach me the Spirit Bomb!<k>
+PT: <p>Vamos, Senhor Kaioh! Me ensina logo a Genki Dama!<k>
+### 3226 [cf1/c13/c1304_00.sb:18] (x1)
+EN: <p>Heh heh. <k><p>Looks like Montgomery has seen just how capable he is.<k>
+PT: <p>Heh heh. <k><p>Parece que o Montgomery viu do que ele é capaz.<k>
+### 3227 [cf1/c13/c1304_00.sb:20] (x1)
+EN: <p>Hah hah! Don't get so hasty!<k>
+PT: <p>Rá rá! Não seja tão apressado!<k>
+### 3228 [cf1/c13/c1304_00.sb:21] (x1)
+EN: <p>I can't wait much longer! There's not much time!<k>
+PT: <p>Não dá pra esperar mais! Não temos muito tempo!<k>
+### 3229 [cf1/c13/c1304_00.sb:22] (x1)
+EN: <p>The truth is... You've already attained the Spirit Bomb!<k>
+PT: <p>A verdade é que... Você já aprendeu a Genki Dama!<k>
+### 3230 [cf1/c13/c1304_00.sb:23] (x1)
+EN: <p>Wh-What? Then what's this Spirit Crystal?!?!<k>
+PT: <p>O-o quê? Então pra que serve este Cristal Espiritual?!?!<k>
+### 3231 [cf1/c13/c1304_00.sb:24] (x1)
+EN: <p>That was like a sort of graduation test.<k><p>Gregory even said you saved him!<k>
+PT: <p>Foi uma espécie de prova de formatura.<k><p>O Gregory até disse que você o salvou!<k>
+### 3232 [cf1/c13/c1304_00.sb:25] (x1)
+EN: <p>I can't believe it. All that work for nothing!<k>
+PT: <p>Não acredito. Todo aquele trabalho à toa!<k>
+### 3233 [cf1/c13/c1304_00.sb:26] (x1)
+EN: <p>It wasn't for nothing! What do you think you're sayin', Saiyan? Hee hee!<k>
+PT: <p>Não foi à toa! Que bobagem, hein, Saiyajin? Hi hi!<k>
+### 3234 [cf1/c13/c1304_00.sb:28] (x1)
+EN: <p>*Cough cough*<k><p>Each time you complete the training I assign to you,<k><p> you gain the means to greater control your Ki!<k>
+PT: <p>*Cof cof*<k><p>Cada vez que você completa um treino que eu passo,<k><p> ganha mais controle sobre o seu Ki!<k>
+### 3235 [cf1/c13/c1304_00.sb:29] (x1)
+EN: <p>Really??<k>
+PT: <p>Sério??<k>
+### 3236 [cf1/c13/c1304_00.sb:30] (x1)
+EN: <p>By choosing Ultimate Attack during battle, you will be able to use the Spirit Bomb!<k>
+PT: <p>Escolhendo Técnica Suprema na batalha, você pode usar a Genki Dama!<k>
+### 3237 [cf1/c13/c1304_00.sb:31] (x1)
+EN: <p>All right! So I've gained an Ultimate Attack!<k>
+PT: <p>Beleza! Então ganhei uma Técnica Suprema!<k>
+### 3238 [cf1/c13/c1304_00.sb:32] (x1)
+EN: <p>Learned Spirit Bomb!<k>
+PT: <p>Aprendeu Genki Dama!<k>
+### 3239 [cf1/c13/c1304_00.sb:33] (x1)
+EN: <p>But listen, Goku. This is a technique that borrows a small amount of energy from things like the grass, trees, humans and animals.<k><p>Eventually the energy from things and the air itself can be gathered and released.<k><p>You can even tap into the massive energy of the sun.<k><p>It will be a Spirit Bomb of enormous power.<k><p>If you make one mistake, you could destroy the very planet that you are trying to protect.<k><p>Only use it if you have to!<k>
+PT: <p>Mas escute, Goku. Esta técnica pega emprestada um pouco da energia da grama, das árvores, das pessoas e dos animais.<k><p>Aos poucos, a energia das coisas e do próprio ar pode ser reunida e liberada.<k><p>Dá até para usar a enorme energia do sol.<k><p>Será uma Genki Dama de poder imenso.<k><p>Um único erro, e você pode destruir o próprio planeta que está tentando proteger.<k><p>Só use se for preciso!<k>
+### 3240 [cf1/c13/c1304_00.sb:34] (x1)
+EN: <p>OK! Gotcha, King Kai.<k><p>I'll be fine. The Kaioken should be enough!<k>
+PT: <p>Tá! Entendi, Senhor Kaioh.<k><p>Vai ficar tudo bem. O Kaioken deve bastar!<k>
+### 3241 [cf1/c13/c1304_00.sb:35] (x1)
+EN: <p>Well, the day of the decisive battle has come!<k><p>The Saiyans will descend to Earth tomorrow.<k>
+PT: <p>Bem, chegou o dia da batalha decisiva!<k><p>Os Saiyajins vão chegar à Terra amanhã.<k>
+### 3242 [cf1/c13/c1304_00.sb:36] (x1)
+EN: <p>Oh no! Tomorrow! I've really done it this time!!<k>
+PT: <p>Ah, não! Amanhã! Agora eu fiz besteira!!<k>
+### 3243 [cf1/c13/c1304_00.sb:37] (x1)
+EN: <p>What's wrong, King Kai??<k>
+PT: <p>O que foi, Senhor Kaioh??<k>
+### 3244 [cf1/c13/c1304_00.sb:38] (x1)
+EN: <p>I... I forgot to add in the time it would take you to travel back across Snake Way!<k>
+PT: <p>Eu... eu esqueci de contar o tempo que você levaria pra voltar pela Estrada da Serpente!<k>
+### 3245 [cf1/c13/c1304_00.sb:39] (x1)
+EN: <p>Couldn't you just beam me down to Earth with one of your tricks?<k><p>You mean I have to go back the way I came?!<k><p>It took me half a year to get here!<k>
+PT: <p>O senhor não pode me mandar pra Terra com um dos seus truques?<k><p>Quer dizer que eu tenho que voltar pelo mesmo caminho?!<k><p>Levei meio ano pra chegar aqui!<k>
+### 3246 [cf1/c13/c1304_00.sb:40] (x1)
+EN: <p>I'm sure you could make it there in only a couple days now!<k><p>I'll contact Kami and tell him to meet you to take you to Earth!<k>
+PT: <p>Tenho certeza de que agora você chega lá em só uns dois dias!<k><p>Vou falar com o Kami-Sama pra ele te buscar e levar pra Terra!<k>
+### 3247 [cf1/c13/c1304_00.sb:41] (x1)
+EN: <p>But that'll be one day too long! Everyone might get killed!<k>
+PT: <p>Mas isso é um dia a mais! Todo mundo pode morrer!<k>
+### 3248 [cf1/c13/c1304_00.sb:42] (x1)
+EN: <p>You don't have to remind me! I'm allowed to make mistakes too, aren't I?!<k><p>Now! Hurry up and tell your friends on Earth to wish you back to life!<k>
+PT: <p>Não precisa me lembrar! Eu também tenho direito de errar, não tenho?!<k><p>Agora! Ande logo e diga aos seus amigos na Terra pra te reviverem!<k>
+### 3249 [cf1/c13/c1304_00.sb:43] (x1)
+EN: <p>How do I do that?<k>
+PT: <p>Como eu faço isso?<k>
+### 3250 [cf1/c13/c1304_00.sb:44] (x1)
+EN: <p>Put your hand on my back and you can tell them telepathically!<k>
+PT: <p>Ponha a mão nas minhas costas e fale com eles por telepatia!<k>
+### 3251 [cf1/c13/c1304_00.sb:45] (x1)
+EN: <p>R-Really??<k><p>Like this?<k>
+PT: <p>S-sério??<k><p>Assim?<k>
+### 3252 [cf1/c13/c1304_00.sb:46] (x1)
+EN: <p>Hurry up and tell them!<k>
+PT: <p>Ande logo e fale com eles!<k>
+### 3253 [cf1/c13/c1304_00.sb:47] (x1)
+EN: <p>(...M-Master Roshi... Master Roshi, it's me, Goku. Can you hear me?)<k>
+PT: <p>(...M-Mestre Kame... Mestre Kame, sou eu, o Goku. Está me ouvindo?)<k>
+### 3254 [cf1/c13/c1305_00.sb:10] (x1)
+EN: <p>Goku! Is that you? Where are you??<k>
+PT: <p>Goku! É você? Onde você está??<k>
+### 3255 [cf1/c13/c1305_00.sb:13] (x1)
+EN: <p>(Great! You heard me! I'm still on the other side.<k><p>I'm talking to you telepathically.)<k>
+PT: <p>(Ótimo! O senhor me ouviu! Ainda estou no Outro Mundo.<k><p>Estou falando por telepatia.)<k>
+### 3256 [cf1/c13/c1305_00.sb:14] (x1)
+EN: <p>The... other side...<k>
+PT: <p>O... Outro Mundo...<k>
+### 3257 [cf1/c13/c1305_00.sb:15] (x1)
+EN: <p>(Did you gather all the Dragon Balls?)<k>
+PT: <p>(Vocês juntaram todas as Esferas do Dragão?)<k>
+### 3258 [cf1/c13/c1305_00.sb:16] (x1)
+EN: <p>Yes, we already did!<k><p>We did it all together... To bring you back...<k>
+PT: <p>Sim, já juntamos!<k><p>Fizemos isso todos juntos... Pra te trazer de volta...<k>
+### 3259 [cf1/c13/c1305_00.sb:17] (x1)
+EN: <p>(Thanks.<k><p>Sorry to be in such a rush, but could you summon Shenron and wish me back to life now?<k><p>The Saiyans will arrive on Earth tomorrow!)<k>
+PT: <p>(Valeu.<k><p>Desculpa a pressa, mas podem invocar o Shenlong e me reviver agora?<k><p>Os Saiyajins chegam à Terra amanhã!)<k>
+### 3260 [cf1/c13/c1305_00.sb:18] (x1)
+EN: <p>What?! They'll be here already?!<k><p>That's a month earlier than I expected!<k>
+PT: <p>O quê?! Já vão estar aqui?!<k><p>É um mês antes do que eu esperava!<k>
+### 3261 [cf1/c13/c1305_00.sb:19] (x1)
+EN: <p>(Hurry, Master Roshi! I'm gonna be a little late.<k><p>I promise I'll do what I can!)<k>
+PT: <p>(Rápido, Mestre Kame! Vou me atrasar um pouco.<k><p>Prometo que vou fazer o que puder!)<k>
+### 3262 [cf1/c13/c1305_00.sb:20] (x1)
+EN: <p>All right, Goku! By the way...<k><p>I heard you've been training there. How has it come along?<k>
+PT: <p>Certo, Goku! Aliás...<k><p>Soube que você está treinando aí. Como está indo?<k>
+### 3263 [cf1/c13/c1305_00.sb:21] (x1)
+EN: <p>(Great!)<k>
+PT: <p>(Ótimo!)<k>
+### 3264 [cf1/c13/c1305_00.sb:29] (x1)
+EN: <p>Is...he OK in there? I can hear him mumbling...<k>
+PT: <p>Ele... está bem lá dentro? Dá pra ouvir ele resmungando...<k>
+### 3265 [cf1/c13/c1305_00.sb:32] (x1)
+EN: <p>I wonder if he's just lost it...<k>
+PT: <p>Será que ele pirou de vez...<k>
+### 3266 [cf1/c13/c1305_00.sb:34] (x1)
+EN: <p>Hey, everyone! Get the Dragon Balls together right away!<k>
+PT: <p>Ei, pessoal! Juntem as Esferas do Dragão agora mesmo!<k>
+### 3267 [cf1/c13/c1306_00.sb:10] (x1)
+EN: <p>That was cool, King Kai! I actually got through!<k>
+PT: <p>Que legal, Senhor Kaioh! Consegui falar com eles!<k>
+### 3268 [cf1/c13/c1306_00.sb:13] (x1)
+EN: <p>Heh heh... Of course you did.<k><p>Now, while we wait for them to revive you, I'll do something about those tattered clothes...<k>
+PT: <p>Heh heh... Claro que conseguiu.<k><p>Agora, enquanto esperamos que te revivam, vou dar um jeito nessas roupas em farrapos...<k>
+### 3269 [cf1/c13/c1306_00.sb:14] (x1)
+EN: <p>There!<k>
+PT: <p>Pronto!<k>
+### 3270 [cf1/c13/c1306_00.sb:15] (x1)
+EN: <p>Wow! I feel a whole lot lighter!<k>
+PT: <p>Uau! Estou me sentindo bem mais leve!<k>
+### 3271 [cf1/c13/c1306_00.sb:16] (x1)
+EN: <p>They aren't just light. That's strong material.<k><p>Light attacks will bounce right off.<k>
+PT: <p>Elas não são só leves. É um material resistente.<k><p>Golpes fracos vão ricochetear.<k>
+### 3272 [cf1/c13/c1306_00.sb:17] (x1)
+EN: <p>Thanks, King Kai! Oh, good! The symbol of the turtle is still there!<k><p>I was worried I was gonna end up with the stupid looking symbol on your clothes!<k>
+PT: <p>Valeu, Senhor Kaioh! Ah, que bom! O símbolo da tartaruga continua aí!<k><p>Fiquei com medo de acabar com aquele símbolo bobo das suas roupas!<k>
+### 3273 [cf1/c13/c1306_00.sb:18] (x1)
+EN: <p>...Well excuse me...<k>
+PT: <p>...Ora, me desculpe...<k>
+### 3274 [cf1/c13/c1306_00.sb:20] (x1)
+EN: <p>I wish they'd hurry up!<k>
+PT: <p>Tomara que eles se apressem!<k>
+### 3275 [cf1/c13/c1306_00.sb:21] (x1)
+EN: <p>The symbol on the back is the number one fashion point!<k>
+PT: <p>O símbolo nas costas é o ponto alto do visual!<k>
+### 3276 [cf1/c13/c1306_00.sb:24] (x1)
+EN: <p>Make your wish! I will grant any wish, but only one!<k>
+PT: <p>Façam o seu pedido! Realizarei qualquer desejo, mas só um!<k>
+### 3277 [cf1/c13/c1306_00.sb:27] (x1)
+EN: <p>Hey! Umm...<k><p>Could you maybe beat up the Saiyans and save the Earth? Would that wish be OK...?<k>
+PT: <p>Ei! Hã...<k><p>Você podia dar uma surra nos Saiyajins e salvar a Terra? Pode ser esse o pedido...?<k>
+### 3278 [cf1/c13/c1306_00.sb:30] (x1)
+EN: <p>What are you saying! You want to just forget about Goku being dead?!<k>
+PT: <p>O que você está dizendo! Quer esquecer que o Goku está morto?!<k>
+### 3279 [cf1/c13/c1306_00.sb:31] (x1)
+EN: <p>No!<k><p>We could just bring him back the next time... Why not?<k>
+PT: <p>Não!<k><p>A gente podia trazer ele de volta da próxima vez... Por que não?<k>
+### 3280 [cf1/c13/c1306_00.sb:32] (x1)
+EN: <p>I can not grant that wish.<k><p>Kami is my creator. I can not grant wishes that exceed Kami's power.<k>
+PT: <p>Não posso realizar esse desejo.<k><p>O Kami-Sama é o meu criador. Não posso realizar desejos que vão além do poder dele.<k>
+### 3281 [cf1/c13/c1306_00.sb:35] (x1)
+EN: <p>Then I wish for you to bring Goku back to life!<k>
+PT: <p>Então eu peço que você traga o Goku de volta à vida!<k>
+### 3282 [cf1/c13/c1306_00.sb:36] (x1)
+EN: <p>A simple matter.<k>
+PT: <p>Isso é simples.<k>
+### 3283 [cf1/c13/c1307_00.sb:10] (x1)
+EN: <p>It's the middle of the day and it's dark out!<k>
+PT: <p>É meio-dia e está escuro lá fora!<k>
+### 3284 [cf1/c13/c1307_00.sb:13] (x1)
+EN: <P>(Looks like Goku is about  to be revived...)<k>
+PT: <P>(Parece que o Goku está prestes a ser revivido...)<k>
+### 3285 [cf1/c13/c1307_00.sb:15] (x1)
+EN: <p>That means that the Saiyans are coming sooner than I thought!<k>
+PT: <p>Isso quer dizer que os Saiyajins estão vindo antes do que eu pensava!<k>
+### 3286 [cf1/c13/c1307_00.sb:26] (x1)
+EN: <p>Good!<k><p>The halo's gone! You're back to life! Now, hurry!<k>
+PT: <p>Ótimo!<k><p>A auréola sumiu! Você voltou à vida! Agora, rápido!<k>
+### 3287 [cf1/c13/c1307_00.sb:27] (x1)
+EN: <p>OK, King Kai!<k>
+PT: <p>Tá, Senhor Kaioh!<k>
+### 3288 [cf1/c13/c1307_00.sb:28] (x1)
+EN: <p>Now remember, your enemy is evil and stronger than you can imagine!<k><p>You can't let your guard down even for a moment! Don't think you can be brought back to life again!<k>
+PT: <p>Lembre-se: o seu inimigo é mau e mais forte do que você imagina!<k><p>Não baixe a guarda nem por um instante! Não conte com ser revivido de novo!<k>
+### 3289 [cf1/c13/c1307_00.sb:29] (x1)
+EN: <p>I'll be all right! I can only be brought back to life once with the Dragon Balls!<k><p>I'll give it all I've got!<k>
+PT: <p>Vai ficar tudo bem! Com as Esferas do Dragão, só dá pra reviver uma vez!<k><p>Vou dar tudo de mim!<k>
+### 3290 [cf1/c13/c1307_00.sb:30] (x1)
+EN: <p>Thanks for everything, King Kai. If I die again, I'll be sure to visit!<k>
+PT: <p>Obrigado por tudo, Senhor Kaioh. Se eu morrer de novo, venho te visitar!<k>
+### 3291 [cf1/c13/c1307_00.sb:32] (x1)
+EN: <p>There seems to be no limit to his strength...<k><p>And his heart is as clear as crystal...<k><p>Who would have thought someone like him existed in the lower world.<k><p>Although he didn't have much of a sense of humor...<k><p>I'll have to instruct him on that the next time...<k>
+PT: <p>Parece que a força dele não tem limite...<k><p>E o coração dele é puro como cristal...<k><p>Quem diria que existia alguém assim no mundo lá embaixo.<k><p>Se bem que ele não tinha muito senso de humor...<k><p>Vou ter que ensinar isso a ele da próxima vez...<k>
+### 3292 [cf1/c13/c1307_00.sb:34] (x1)
+EN: <p>This is great! I feel so light! Like my whole body's made out of cotton!<k>
+PT: <p>Que demais! Estou tão leve! Parece que o meu corpo é feito de algodão!<k>
+### 3293 [cf1/c13/c1307_00.sb:35] (x1)
+EN: <p>This is no time to be fooling around though! I better hurry!<k>
+PT: <p>Mas não é hora de brincadeira! É melhor eu me apressar!<k>
+### 3294 [cf1/c13/c1307_00.sb:36] (x1)
+EN: <p>And so, at 11:43AM the next day, the Earth was invaded by two Saiyans!<k>
+PT: <p>E assim, às 11h43 do dia seguinte, a Terra foi invadida por dois Saiyajins!<k>
+### 3295 [cf1/c13/c1308_00.sb:16] (x1)
+EN: <p>Wha... What happened? What's going on...?<k>
+PT: <p>O... O que houve? O que está acontecendo...?<k>
+### 3296 [cf1/c13/c1308_00.sb:17] (x1)
+EN: <p>That was scary...<k>
+PT: <p>Que susto...<k>
+### 3297 [cf1/c13/c1308_00.sb:18] (x1)
+EN: <p>Looks like something... fell from the sky...<k>
+PT: <p>Parece que alguma coisa... caiu do céu...<k>
+### 3298 [cf1/c13/c1308_00.sb:19] (x1)
+EN: <p>I knew it...! That round thing fell from the sky!<k>
+PT: <p>Eu sabia...! Aquela coisa redonda caiu do céu!<k>
+### 3299 [cf1/c13/c1308_00.sb:20] (x1)
+EN: <p>There's one over here, too!<k>
+PT: <p>Tem outra aqui também!<k>
+### 3300 [cf1/c13/c1308_00.sb:21] (x1)
+EN: <p>L-Look! Someone came out of it!!<k>
+PT: <p>O-olha! Saiu alguém de dentro!!<k>
+### 3301 [cf1/c13/c1308_00.sb:24] (x1)
+EN: <p>Whew...<k>
+PT: <p>Ufa...<k>
+### 3302 [cf1/c14/c1401_00.sb:11] (x1)
+EN: Piccolo & Gohan
+PT: Piccolo e Gohan
+### 3303 [cf1/c14/c1401_00.sb:14] (x1)
+EN: <p>They're finally here...!<k>
+PT: <p>Finalmente chegaram...!<k>
+### 3304 [cf1/c14/c1401_00.sb:16] (x1)
+EN: <p>Their Ki is unbelievable...<k>
+PT: <p>O Ki deles é inacreditável...<k>
+### 3305 [cf1/c14/c1401_00.sb:38] (x1)
+EN: <p>They're here sooner than I thought!<k>
+PT: <p>Chegaram antes do que eu pensava!<k>
+### 3306 [cf1/c14/c1401_00.sb:45] (x1)
+EN: <p>What do they think they're doing? Who are these guys?<k>
+PT: <p>O que eles pensam que estão fazendo? Quem são esses caras?<k>
+### 3307 [cf1/c14/c1401_00.sb:48] (x1)
+EN: <p>Earth, was it? Not bad.<k>
+PT: <p>Terra, não é? Nada mal.<k>
+### 3308 [cf1/c14/c1401_00.sb:50] (x1)
+EN: <p>How about we greet the noisy little animals?<k>
+PT: <p>Que tal cumprimentarmos esses bichinhos barulhentos?<k>
+### 3309 [cf1/c14/c1401_00.sb:51] (x1)
+EN: <p>What the?! What did they do??<k>
+PT: <p>Mas o quê?! O que eles fizeram??<k>
+### 3310 [cf1/c14/c1401_00.sb:53] (x1)
+EN: <p>Wah hah hah hah!!<k><p>I think I overdid the greeting a bit!<k>
+PT: <p>Uá rá rá rá!!<k><p>Acho que exagerei um pouco no cumprimento!<k>
+### 3311 [cf1/c14/c1401_00.sb:54] (x1)
+EN: <p>That's enough for now, Nappa...<k><p>We can't damage the planet too much or the price will go down when we sell it.<k>
+PT: <p>Chega por enquanto, Nappa...<k><p>Não podemos estragar demais o planeta, ou o preço cai na hora de vender.<k>
+### 3312 [cf1/c14/c1401_00.sb:56] (x1)
+EN: <p>Oh yeah!<k><p>Hey, Vegeta! We're gonna search for those things that will grant us any wish, right?<k>
+PT: <p>Ah, é!<k><p>Ei, Vegeta! Nós vamos procurar aquelas coisas que realizam qualquer desejo, né?<k>
+### 3313 [cf1/c14/c1401_00.sb:58] (x1)
+EN: <p>The Dragon Balls.<k><p>First we need to find the one that killed Raditz and ask him about them...<k>
+PT: <p>As Esferas do Dragão.<k><p>Primeiro temos que achar quem matou o Raditz e perguntar sobre elas...<k>
+### 3314 [cf1/c14/c1401_00.sb:59] (x1)
+EN: <p>If the Dragon Balls were close by,<k><p>that greeting of yours would have destroyed our chances at wishing for eternal life.<k>
+PT: <p>Se as Esferas do Dragão estivessem por perto,<k><p>esse seu cumprimento teria acabado com a nossa chance de pedir a vida eterna.<k>
+### 3315 [cf1/c14/c1401_00.sb:60] (x1)
+EN: <p>Sorry, Vegeta. I forgot about that.<k>
+PT: <p>Foi mal, Vegeta. Esqueci disso.<k>
+### 3316 [cf1/c14/c1401_00.sb:61] (x1)
+EN: <p>Now let's see... The one with the highest power level should be the one who killed Raditz.<k><p>Or maybe Kakarot's son...<k>
+PT: <p>Vejamos... Quem tiver o maior nível de poder deve ser quem matou o Raditz.<k><p>Ou talvez o filho do Kakarotto...<k>
+### 3317 [cf1/c14/c1401_00.sb:62] (x1)
+EN: <p>Hey, Vegeta! This is strange!<k><p>There're a bunch of power levels over 1000! How could that be...?<k>
+PT: <p>Ei, Vegeta! Isto é estranho!<k><p>Tem um monte de níveis de poder acima de 1000! Como pode...?<k>
+### 3318 [cf1/c14/c1401_00.sb:63] (x1)
+EN: <p>Don't get shaken up. They're no match for us anyway.<k><p>Just find the one with the highest power level...<k>
+PT: <p>Não se abale. Eles não são páreo para nós.<k><p>Só ache quem tem o maior nível de poder...<k>
+### 3319 [cf1/c14/c1401_00.sb:64] (x1)
+EN: <p>!<k><p>Found them! Two high power levels are together...<k><p>All right! Nappa! Let's go have some fun!<k>
+PT: <p>!<k><p>Achei! Dois níveis de poder altos estão juntos...<k><p>Muito bem! Nappa! Vamos nos divertir um pouco!<k>
+### 3320 [cf1/c14/c1401_00.sb:65] (x1)
+EN: <p>Heh heh heh. This is great!<k><p>The gravity is so low on this planet! It's really easy to move!<k>
+PT: <p>Heh heh heh. Que ótimo!<k><p>A gravidade deste planeta é tão baixa! É muito fácil se mexer!<k>
+### 3321 [cf1/c14/c1401_01.sb:11] (x1)
+EN: <p>They've started to move!<k>
+PT: <p>Eles começaram a se mover!<k>
+### 3322 [cf1/c14/c1401_01.sb:16] (x1)
+EN: <p>They're heading towards two other strong Kis!<k><p>Maybe it's Tien and Chiaotzu. Or maybe Piccolo and Goku's son...<k>
+PT: <p>Estão indo na direção de outros dois Kis fortes!<k><p>Talvez sejam o Tenshinhan e o Chaos. Ou o Piccolo e o filho do Goku...<k>
+### 3323 [cf1/c14/c1401_01.sb:22] (x1)
+EN: <p>They're coming! They're coming right for us!<k>
+PT: <p>Estão vindo! Estão vindo direto pra cá!<k>
+### 3324 [cf1/c14/c1401_01.sb:31] (x1)
+EN: <p>Chiaotzu! Just stay here!<k>
+PT: <p>Chaos! Fique aqui!<k>
+### 3325 [cf1/c14/c1401_01.sb:34] (x1)
+EN: <p>No, I'm going too! I trained for this! I'm going with you!<k>
+PT: <p>Não, eu também vou! Treinei pra isso! Vou com você!<k>
+### 3326 [cf1/c14/c1401_01.sb:36] (x1)
+EN: <p>The cause of the large earthquake is completely unknown!<k><p>Furthermore, we are very concerned over the welfare of East City,<k><p> which is believed to be the epicenter of the earthquake, as communications are completely cut off at this time...<k>
+PT: <p>A causa do grande terremoto é completamente desconhecida!<k><p>Além disso, há grande preocupação com a situação da Cidade do Leste,<k><p> que seria o epicentro do terremoto, já que as comunicações estão totalmente cortadas no momento...<k>
+### 3327 [cf1/c14/c1401_01.sb:39] (x1)
+EN: <p>So, they finally have arrived!<k>
+PT: <p>Então, eles finalmente chegaram!<k>
+### 3328 [cf1/c14/c1401_01.sb:42] (x1)
+EN: <p>Should we go cheer them on? We could find them with this!<K>
+PT: <p>Vamos lá torcer por eles? Dá pra achar eles com isto!<K>
+### 3329 [cf1/c14/c1401_01.sb:45] (x1)
+EN: <p>I wouldn't go there if my life depended on it!<k>
+PT: <p>Eu não ia lá nem que a minha vida dependesse disso!<k>
+### 3330 [cf1/c14/c1401_01.sb:46] (x1)
+EN: <p>No... We should stay out of it. It's too dangerous.<k><p>Even I would just be in the way.<k><p>All we can do is hope for their victory from here.<k>
+PT: <p>Não... Melhor ficarmos de fora. É perigoso demais.<k><p>Até eu só ia atrapalhar.<k><p>Tudo o que podemos fazer é torcer pela vitória deles daqui.<k>
+### 3331 [cf1/c14/c1401_01.sb:49] (x1)
+EN: <p>Yamcha... Please don't die!<k>
+PT: <p>Yamcha... Por favor, não morra!<k>
+### 3332 [cf1/c14/c1401_01.sb:50] (x1)
+EN: <p>Goku! Hurry up and get here!<k>
+PT: <p>Goku! Venha logo!<k>
+### 3333 [cf1/c14/c1401_01.sb:55] (x1)
+EN: <p>Hold on everyone!<k>
+PT: <p>Aguentem firme, pessoal!<k>
+### 3334 [cf1/c14/c1401_02.sb:8] (x1)
+EN: <p>12:20PM...<k><p>Sensing an unusual presence, the animals and birds of the land have begun to flee.<k>
+PT: <p>12h20...<k><p>Sentindo uma presença estranha, os animais e as aves começaram a fugir.<k>
+### 3335 [cf1/c14/c1401_02.sb:11] (x1)
+EN: <p>There's nothing to be scared of.<k><p>We've become incomparably stronger compared to a year ago.<k>
+PT: <p>Não há o que temer.<k><p>Ficamos incomparavelmente mais fortes do que há um ano.<k>
+### 3336 [cf1/c14/c1401_02.sb:15] (x1)
+EN: <p>Okay! Let's head in the direction of their Ki!<k>
+PT: <p>Certo! Vamos na direção do Ki deles!<k>
+### 3337 [cf1/c14/c1401_03.sb:10] (x1)
+EN: <p>!<k><p>What?! Someone's coming from another direction!<k>
+PT: <p>!<k><p>O quê?! Tem alguém vindo de outra direção!<k>
+### 3338 [cf1/c14/c1401_03.sb:11] (x1)
+EN: <p>There're others coming this way!<k>
+PT: <p>Tem mais gente vindo pra cá!<k>
+### 3339 [cf1/c14/c1401_03.sb:14] (x1)
+EN: <p>Weren't there supposed to be only two Saiyans?!<k>
+PT: <p>Não eram só dois Saiyajins?!<k>
+### 3340 [cf1/c14/c1401_03.sb:17] (x1)
+EN: <p>A Saiyan?!<k>
+PT: <p>Um Saiyajin?!<k>
+### 3341 [cf1/c14/c1401_03.sb:20] (x1)
+EN: <p>Hey, Piccolo! Long time no see...<k>
+PT: <p>Ei, Piccolo! Quanto tempo...<k>
+### 3342 [cf1/c14/c1401_03.sb:21] (x1)
+EN: <p>Oh, it's you...<k><p>Heh heh... What are you doing here? Come to get in the way?<k>
+PT: <p>Ah, é você...<k><p>Heh heh... O que faz aqui? Veio atrapalhar?<k>
+### 3343 [cf1/c14/c1401_03.sb:22] (x1)
+EN: <p>Come on, Piccolo... I've progressed a bit since you last saw me.<k>
+PT: <p>Qual é, Piccolo... Eu evoluí um pouco desde a última vez que você me viu.<k>
+### 3344 [cf1/c14/c1401_03.sb:23] (x1)
+EN: <p>I can tell.<k><p>So, I guess more fools will try to show up?<k>
+PT: <p>Dá pra perceber.<k><p>Então imagino que mais tolos vão aparecer?<k>
+### 3345 [cf1/c14/c1401_03.sb:24] (x1)
+EN: <p>Yeah, everyone will be here. I was the closest.<k>
+PT: <p>É, todo mundo vai vir. Eu era o que estava mais perto.<k>
+### 3346 [cf1/c14/c1401_03.sb:25] (x1)
+EN: <p>Krillin! I knew you'd come fight with us!<k>
+PT: <p>Kuririn! Eu sabia que você vinha lutar com a gente!<k>
+### 3347 [cf1/c14/c1401_03.sb:26] (x1)
+EN: <p>...Yeah, of course!<k>
+PT: <p>...É, claro!<k>
+### 3348 [cf1/c14/c1401_03.sb:27] (x1)
+EN: <p>All right. Time to cut the chatter. Let's go!<k>
+PT: <p>Muito bem. Chega de conversa. Vamos!<k>
+### 3349 [cf1/c14/c1402_00.sb:13] (x1)
+EN: <p>They're here!<k>
+PT: <p>Chegaram!<k>
+### 3350 [cf1/c14/c1402_00.sb:16] (x1)
+EN: <p>Heh heh... There they are!<k><p>Looks like another strong one joined them...<k>
+PT: <p>Heh heh... Lá estão eles!<k><p>Parece que mais um forte se juntou a eles...<k>
+### 3351 [cf1/c14/c1402_00.sb:19] (x1)
+EN: <p>It seems they're well informed about us...<k>
+PT: <p>Parece que eles estão bem informados sobre nós...<k>
+### 3352 [cf1/c14/c1402_00.sb:20] (x1)
+EN: <p>So, those are the Saiyans?<k><p>I can feel their Ki. It's so strong...<k><p>It's overwhelming!<k>
+PT: <p>Então aqueles são os Saiyajins?<k><p>Dá pra sentir o Ki deles. É tão forte...<k><p>É esmagador!<k>
+### 3353 [cf1/c14/c1402_00.sb:21] (x1)
+EN: <p>I see you've been waiting for us...<k>
+PT: <p>Vejo que estavam nos esperando...<k>
+### 3354 [cf1/c14/c1402_00.sb:23] (x1)
+EN: <p>Let me ask just in case...<k><p>What did you come here for?<k>
+PT: <p>Deixa eu perguntar, só por garantia...<k><p>O que vocês vieram fazer aqui?<k>
+### 3355 [cf1/c14/c1402_00.sb:24] (x1)
+EN: <p>That voice... You must be the one that defeated Raditz.<k>
+PT: <p>Essa voz... Você deve ser quem derrotou o Raditz.<k>
+### 3356 [cf1/c14/c1402_00.sb:25] (x1)
+EN: <p>Voice...?!<k>
+PT: <p>Voz...?!<k>
+### 3357 [cf1/c14/c1402_00.sb:26] (x1)
+EN: <p>Didn't Raditz tell you? This machine is also a communications device.<k>
+PT: <p>O Raditz não contou? Esta máquina também serve para comunicação.<k>
+### 3358 [cf1/c14/c1402_00.sb:27] (x1)
+EN: <p>That guy's a Namek...<k>
+PT: <p>Aquele cara é um namekuseijin...<k>
+### 3359 [cf1/c14/c1402_00.sb:28] (x1)
+EN: <p>So it seems...<k><p>I guess it's not really that surprising that Raditz was defeated.<k>
+PT: <p>Parece que sim...<k><p>Então não é tão surpreendente que o Raditz tenha sido derrotado.<k>
+### 3360 [cf1/c14/c1402_00.sb:29] (x1)
+EN: <p>?!  ...a Namek...?<k>
+PT: <p>?! ...um namekuseijin...?<k>
+### 3361 [cf1/c14/c1402_00.sb:30] (x1)
+EN: <p>Piccolo. Is it true...?<k><p> Are you an alien too?!<k><p>
+PT: <p>Piccolo. É verdade...?<k><p> Você também é um alienígena?!<k><p>
+### 3362 [cf1/c14/c1402_00.sb:34] (x1)
+EN: <p>Are you, Piccolo?<k>
+PT: <p>É, Piccolo?<k>
+### 3363 [cf1/c14/c1402_00.sb:35] (x1)
+EN: <p>Now I get it!<k><p>As well as having above average power levels, they say the Nameks also have special skills!<k><p>I've heard that some of them even have magical abilities...<k><p>You made the Dragon Balls, didn't you!<k>
+PT: <p>Agora entendi!<k><p>Além de terem níveis de poder acima da média, dizem que os namekuseijins têm habilidades especiais!<k><p>Ouvi dizer que alguns até têm poderes mágicos...<k><p>Foi você que criou as Esferas do Dragão, não foi?!<k>
+### 3364 [cf1/c14/c1402_00.sb:36] (x1)
+EN: <p>They know about the Dragon Balls!<k>
+PT: <p>Eles sabem das Esferas do Dragão!<k>
+### 3365 [cf1/c14/c1402_00.sb:37] (x1)
+EN: <p>Those Dragon Balls are our main goal. So hand 'em over!<k><p>Even if you are a Namek, you're just one.<k><p>You're like a fly to us!<k>
+PT: <p>Essas Esferas do Dragão são o nosso objetivo. Então passem pra cá!<k><p>Mesmo sendo um namekuseijin, você é só um.<k><p>Pra nós, você é uma mosca!<k>
+### 3366 [cf1/c14/c1402_00.sb:38] (x1)
+EN: <p>Heh... Thanks.<k><p>You've helped me understand who my ancestors were...<k><p>Sorry to disappoint you, but I didn't make the Dragon Balls.<k><p>Fighting is my specialty!<k>
+PT: <p>Heh... Obrigado.<k><p>Vocês me ajudaram a entender quem eram os meus ancestrais...<k><p>Lamento decepcionar, mas não fui eu que criei as Esferas do Dragão.<k><p>A minha especialidade é lutar!<k>
+### 3367 [cf1/c14/c1402_00.sb:39] (x1)
+EN: <p>Come see if I'm really the fly you say I am!<k>
+PT: <p>Venham ver se eu sou mesmo a mosca que vocês dizem!<k>
+### 3368 [cf1/c14/c1402_00.sb:45] (x1)
+EN: <p>Kami...<K>
+PT: <p>Kami-Sama...<K>
+### 3369 [cf1/c14/c1402_00.sb:48] (x1)
+EN: <p>I had no idea...<k><p>I'm an alien... I knew I was different than everyone else... but...<k>
+PT: <p>Eu não fazia ideia...<k><p>Eu sou um alienígena... Sabia que era diferente de todos... mas...<k>
+### 3370 [cf1/c14/c1402_00.sb:49] (x1)
+EN: <p>I was the one who made the Dragon Balls.<k><p>It was the first time I had made them, but I felt a sort of nostalgia...<k><p>It's possible that Dragon Balls were made on a different planet by those they call Namek.<k><p>The memory of those far off ancestors remained inside of me...<k>
+PT: <p>Fui eu que criei as Esferas do Dragão.<k><p>Era a primeira vez que eu as fazia, mas senti uma espécie de nostalgia...<k><p>Pode ser que as Esferas do Dragão tenham sido criadas em outro planeta, pelos tais namekuseijins.<k><p>A memória desses ancestrais distantes ficou dentro de mim...<k>
+### 3371 [cf1/c14/c1402_01.sb:10] (x1)
+EN: <p>I guess you have no intention of telling us where they are.<k><p>Fine. We'll just have to force it out of you.<k>
+PT: <p>Pelo jeito vocês não pretendem dizer onde elas estão.<k><p>Tudo bem. Vamos arrancar isso de vocês à força.<k>
+### 3372 [cf1/c14/c1402_01.sb:13] (x1)
+EN: <p>981... 1220... 1083...<k><p>Hah! You think you can take us on with power levels like that?!<k>
+PT: <p>981... 1220... 1083...<k><p>Rá! Acham que podem nos enfrentar com níveis de poder desses?!<k>
+### 3373 [cf1/c14/c1402_01.sb:14] (x1)
+EN: <p>These Earthlings can control their power levels.<k><p>We can't rely on our scouters here.<k>
+PT: <p>Esses terráqueos conseguem controlar o nível de poder.<k><p>Não dá pra confiar nos scouters aqui.<k>
+### 3374 [cf1/c14/c1402_01.sb:15] (x1)
+EN: <p>Oh, right...<k><p>Now I remember, that weakling Raditz got himself killed after letting his guard down.<k>
+PT: <p>Ah, é...<k><p>Agora lembrei, aquele fracote do Raditz morreu porque baixou a guarda.<k>
+### 3375 [cf1/c14/c1402_01.sb:18] (x1)
+EN: <p>W-Weakling?<k>
+PT: <p>F-fracote?<k>
+### 3376 [cf1/c14/c1402_01.sb:21] (x1)
+EN: <p>Raditz...<k><p>Wasn't he the Saiyan that took both you and Goku to take him down?<k>
+PT: <p>O Raditz...<k><p>Não foi aquele Saiyajin que precisou de você e do Goku juntos pra ser derrotado?<k>
+### 3377 [cf1/c14/c1402_01.sb:22] (x1)
+EN: <p>A weakling, huh... Hah hah...<k>
+PT: <p>Fracote, é... Rá rá...<k>
+### 3378 [cf1/c14/c1402_01.sb:23] (x1)
+EN: <p>That's right. So let's see just how strong these fools really are.<k><p>I'm sure that will help them in telling us where the Dragon Balls are.<k>
+PT: <p>Isso mesmo. Então vamos ver o quanto esses tolos são fortes de verdade.<k><p>Com certeza isso vai ajudá-los a nos contar onde estão as Esferas do Dragão.<k>
+### 3379 [cf1/c14/c1402_01.sb:24] (x1)
+EN: <p>Hey, Nappa. There should be about six Saibamen left.<k><p>Take them out.<k>
+PT: <p>Ei, Nappa. Devem ter sobrado uns seis Saibamen.<k><p>Tire eles daí.<k>
+### 3380 [cf1/c14/c1402_01.sb:25] (x1)
+EN: <p>Heh heh heh... You sure know how to have fun, don't you Vegeta?<k>
+PT: <p>Heh heh heh... Você sabe mesmo se divertir, hein, Vegeta?<k>
+### 3381 [cf1/c14/c1402_01.sb:29] (x1)
+EN: <p>What's... that...?<k>
+PT: <p>O que... é isso...?<k>
+### 3382 [cf1/c14/c1402_01.sb:30] (x1)
+EN: <p>You're right, there are six!<k>
+PT: <p>Você tem razão, são seis!<k>
+### 3383 [cf1/c14/c1402_01.sb:31] (x1)
+EN: <p>This soil should raise some good Saibamen.<k>
+PT: <p>Este solo deve dar bons Saibamen.<k>
+### 3384 [cf1/c14/c1402_01.sb:32] (x1)
+EN: <p>There we go...<k>
+PT: <p>Lá vamos nós...<k>
+### 3385 [cf1/c14/c1402_01.sb:33] (x1)
+EN: <p>What're they doing?!<k>
+PT: <p>O que eles estão fazendo?!<k>
+### 3386 [cf1/c14/c1402_01.sb:37] (x1)
+EN: <p>Yikes! Those are some weird monsters!<k>
+PT: <p>Credo! Que monstros esquisitos!<k>
+### 3387 [cf1/c14/c1402_01.sb:38] (x1)
+EN: <p>Those three are the target. Make them suffer!<k>
+PT: <p>O alvo são aqueles três. Façam eles sofrer!<k>
+### 3388 [cf1/c14/c1402_01.sb:39] (x1)
+EN: <p>Th-These guys seem pretty tough!<k>
+PT: <p>E-esses caras parecem bem durões!<k>
+### 3389 [cf1/c14/c1402_02.sb:13] (x1)
+EN: <p>Tien! Chiaotzu!<k>
+PT: <p>Tenshinhan! Chaos!<k>
+### 3390 [cf1/c14/c1402_02.sb:17] (x1)
+EN: <p>Yo! Sorry I'm late, guys.<k>
+PT: <p>E aí! Desculpa o atraso, pessoal.<k>
+### 3391 [cf1/c14/c1402_02.sb:21] (x1)
+EN: <p>Well now, so you runts have friends...<k>
+PT: <p>Ora, ora, então os nanicos têm amigos...<k>
+### 3392 [cf1/c14/c1402_02.sb:24] (x1)
+EN: <p>Wasn't there supposed to only be just two Saiyans?<k>
+PT: <p>Não eram só dois Saiyajins?<k>
+### 3393 [cf1/c14/c1402_02.sb:25] (x1)
+EN: <p>There's been some changes... They've multiplied...<k>
+PT: <p>Houve umas mudanças... Eles se multiplicaram...<k>
+### 3394 [cf1/c14/c1402_02.sb:28] (x1)
+EN: <p>Six of them... I like it! One for each human...<k><p>How about it? A one on one match with the Saibamen!<k><p>We could make a game out of it!<k>
+PT: <p>Seis deles... Gostei! Um para cada humano...<k><p>Que tal? Uma luta de um contra um com os Saibamen!<k><p>Podemos fazer disso um jogo!<k>
+### 3395 [cf1/c14/c1402_02.sb:31] (x1)
+EN: <p>A game?! Don't be ridiculous!<k><p>Let's not beat around the bush! We'll take you all on at once!<k>
+PT: <p>Um jogo?! Não seja ridículo!<k><p>Vamos parar de enrolação! Vamos enfrentar todos vocês de uma vez!<k>
+### 3396 [cf1/c14/c1402_02.sb:32] (x1)
+EN: <p>Hold on, Piccolo! This could work out for us!<k><p>We could buy some time until Goku gets here!<k>
+PT: <p>Espera, Piccolo! Isso pode ser bom pra nós!<k><p>Dá pra ganhar tempo até o Goku chegar!<k>
+### 3397 [cf1/c14/c1402_02.sb:33] (x1)
+EN: <p>Fine with me. I'll go first. Come and get it.<k>
+PT: <p>Por mim tudo bem. Eu vou primeiro. Pode vir.<k>
+### 3398 [cf1/c14/c1402_02.sb:34] (x1)
+EN: <p>Gah hah hah hah!<k><p>He's gonna be surprised to find out just how strong the Saibamen really are!<k>
+PT: <p>Uá rá rá rá!<k><p>Ele vai se surpreender com a força de verdade dos Saibamen!<k>
+### 3399 [cf1/c14/c1402_02.sb:35] (x1)
+EN: <p>You go! And don't hold back anything.<k><p>Got it?<k>
+PT: <p>Vá você! E não segure nada.<k><p>Entendeu?<k>
+### 3400 [cf1/c14/c1402_02.sb:38] (x1)
+EN: <p>You can do it, Tien!<k>
+PT: <p>Você consegue, Tenshinhan!<k>
+### 3401 [cf1/c14/c1402_99.sb:10] (x1)
+EN: <p>My training must not have been enough...<k>
+PT: <p>O meu treino não deve ter sido suficiente...<k>
+### 3402 [cf1/c14/c1403_00.sb:12] (x1)
+EN: <p>......! What?!<k>
+PT: <p>......! O quê?!<k>
+### 3403 [cf1/c14/c1403_00.sb:15] (x1)
+EN: <p>All right, Tien!<k>
+PT: <p>Isso aí, Tenshinhan!<k>
+### 3404 [cf1/c14/c1403_00.sb:18] (x1)
+EN: <p>Great job, Tien!<k>
+PT: <p>Mandou bem, Tenshinhan!<k>
+### 3405 [cf1/c14/c1403_00.sb:21] (x1)
+EN: <p>Heh heh... I knew they'd provide us some entertainment.<k>
+PT: <p>Heh heh... Eu sabia que eles iam nos divertir.<k>
+### 3406 [cf1/c14/c1403_00.sb:24] (x1)
+EN: <p>...Gak!<k>
+PT: <p>...Argh!<k>
+### 3407 [cf1/c14/c1403_00.sb:25] (x1)
+EN: <p>Wh-What the...?! The Saibamen's power level is supposed to be 1200!<k><p>They should all be as strong as Raditz was!<k>
+PT: <p>M-mas o quê...?! O nível de poder dos Saibamen devia ser 1200!<k><p>Eles deviam ser tão fortes quanto o Raditz!<k>
+### 3408 [cf1/c14/c1403_00.sb:26] (x1)
+EN: <p>Then his power level is greater than that. It's that simple.<k>
+PT: <p>Então o nível de poder dele é maior que isso. Simples assim.<k>
+### 3409 [cf1/c14/c1403_00.sb:27] (x1)
+EN: <p>But! We had no data on this!<k>
+PT: <p>Mas! Não tínhamos dados sobre isso!<k>
+### 3410 [cf1/c14/c1403_00.sb:29] (x1)
+EN: <p>Tien, it got back up!<k>
+PT: <p>Tenshinhan, ele levantou!<k>
+### 3411 [cf1/c14/c1403_00.sb:32] (x1)
+EN: <p>Wha... What...?!<k>
+PT: <p>O... O quê...?!<k>
+### 3412 [cf1/c14/c1403_00.sb:33] (x1)
+EN: <p>V-Vegeta... Why...?<k>
+PT: <p>V-Vegeta... Por quê...?<k>
+### 3413 [cf1/c14/c1403_00.sb:34] (x1)
+EN: <p>There was no use in letting him continue. He would have lost.<k><p>That Saibaman didn't take his enemy seriously.<k><p>I told them not to hold back.<k>
+PT: <p>Não adiantava deixá-lo continuar. Ele ia perder.<k><p>Aquele Saibaman não levou o inimigo a sério.<k><p>Eu mandei não segurarem nada.<k>
+### 3414 [cf1/c14/c1403_00.sb:35] (x1)
+EN: <p>I can't believe it...<k>
+PT: <p>Não acredito...<k>
+### 3415 [cf1/c14/c1403_00.sb:38] (x1)
+EN: <p>(That Saiyan... He reduced that green monster to pieces in a matter of seconds... What power!)<k>
+PT: <p>(Aquele Saiyajin... Reduziu aquele monstro verde a pedaços em segundos... Que poder!)<k>
+### 3416 [cf1/c14/c1403_00.sb:39] (x1)
+EN: <p>So, who's next?<k>
+PT: <p>Então, quem é o próximo?<k>
+### 3417 [cf1/c14/c1403_00.sb:40] (x1)
+EN: <p>You guys better not hold back this time!<k>
+PT: <p>É bom vocês não segurarem nada desta vez!<k>
+### 3418 [cf1/c14/c1403_00.sb:41] (x1)
+EN: <p>Well, here we go!<k>
+PT: <p>Bom, lá vamos nós!<k>
+### 3419 [cf1/c14/c1403_00.sb:44] (x1)
+EN: <p>Let me go.<k><p>I wanna show them we're not playing around.<k>
+PT: <p>Deixa comigo.<k><p>Quero mostrar a eles que não estamos de brincadeira.<k>
+### 3420 [cf1/c14/c1403_00.sb:45] (x1)
+EN: <p>Yamcha, let me go...<k>
+PT: <p>Yamcha, deixa eu ir...<k>
+### 3421 [cf1/c14/c1403_00.sb:46] (x1)
+EN: <p>You've already been wished back by the Dragon Balls, Krillin.<k><p>If something happened, you won't be able to come back.<k>
+PT: <p>Você já foi revivido pelas Esferas do Dragão, Kuririn.<k><p>Se acontecer alguma coisa, você não vai poder voltar.<k>
+### 3422 [cf1/c14/c1403_00.sb:47] (x1)
+EN: <p>Now, bring it on!<k>
+PT: <p>Agora, pode vir!<k>
+### 3423 [cf1/c14/c1403_00.sb:48] (x1)
+EN: <p>Heh. What confidence.<k>
+PT: <p>Heh. Quanta confiança.<k>
+### 3424 [cf1/c14/c1403_00.sb:49] (x1)
+EN: <p>Show him what you Saibamen are really made of!<k>
+PT: <p>Mostrem a ele do que os Saibamen são feitos de verdade!<k>
+### 3425 [cf1/c14/c1403_01.sb:11] (x1)
+EN: <p>...Not again...<k>
+PT: <p>...De novo não...<k>
+### 3426 [cf1/c14/c1403_01.sb:14] (x1)
+EN: <p>Looks like these monsters weren't as strong as you thought.<k><p>I think I'll go ahead and clean up the remaining four as well...<k>
+PT: <p>Parece que esses monstros não eram tão fortes quanto vocês pensavam.<k><p>Acho que vou logo dar um jeito nos quatro que sobraram...<k>
+### 3427 [cf1/c14/c1403_01.sb:17] (x1)
+EN: <p>Heh heh heh... Looks like you're the one who's underestimated us this time.<k>
+PT: <p>Heh heh heh... Parece que desta vez quem nos subestimou foi você.<k>
+### 3428 [cf1/c14/c1403_01.sb:21] (x1)
+EN: <p>Yes... That's what we need.<k>
+PT: <p>Sim... É disso que precisamos.<k>
+### 3429 [cf1/c14/c1403_01.sb:24] (x1)
+EN: <p>He blew himself up... I don't believe it!<k>
+PT: <p>Ele se explodiu... Não acredito!<k>
+### 3430 [cf1/c14/c1403_01.sb:28] (x1)
+EN: <p>...He's dead...<k>
+PT: <p>...Ele morreu...<k>
+### 3431 [cf1/c14/c1403_01.sb:29] (x1)
+EN: <p>Yamcha must have had a bad feeling about the fight...<k><p>That's why he went in my place...<k><p>This can't be happening... What are we gonna tell Puar and Bulma...?<k>
+PT: <p>O Yamcha devia ter um mau pressentimento sobre a luta...<k><p>Foi por isso que ele foi no meu lugar...<k><p>Não pode ser... O que vamos dizer pro Puar e pra Bulma...?<k>
+### 3432 [cf1/c14/c1403_01.sb:30] (x1)
+EN: <p>These Saibamen are pathetic!<k><p>Why would they use that kind of move on these losers!<k>
+PT: <p>Esses Saibamen são patéticos!<k><p>Pra que usar um golpe desses nesses perdedores!<k>
+### 3433 [cf1/c14/c1403_01.sb:31] (x1)
+EN: <p>Hey! Why don't you clean up that dirty, piece of garbage there!<k>
+PT: <p>Ei! Por que você não limpa esse lixo imundo daí!<k>
+### 3434 [cf1/c14/c1403_01.sb:32] (x1)
+EN: <p>......!<k><p>You'll regret that! Time to show you what I can do!<k>
+PT: <p>......!<k><p>Você vai se arrepender disso! Hora de mostrar do que eu sou capaz!<k>
+### 3435 [cf1/c14/c1403_02.sb:10] (x1)
+EN: <p>Where'd they go?!<k>
+PT: <p>Pra onde eles foram?!<k>
+### 3436 [cf1/c14/c1403_02.sb:13] (x1)
+EN: <p>They're probably waiting somewhere for us... Let's go after them!<k>
+PT: <p>Devem estar esperando a gente em algum lugar... Vamos atrás deles!<k>
+### 3437 [cf1/c14/c1403_99.sb:10] (x1)
+EN: <p>...Energy... ...Give me some of your energy...<k>
+PT: <p>...Energia... ...Me deem um pouco da sua energia...<k>
+### 3438 [cf1/c14/c1404_00.sb:15] (x1)
+EN: <p>Now then, enough playing around.<k>
+PT: <p>Agora chega de brincadeira.<k>
+### 3439 [cf1/c14/c1404_00.sb:18] (x1)
+EN: <p>Heh heh heh... Time to get serious.<k>
+PT: <p>Heh heh heh... Hora de levar a sério.<k>
+### 3440 [cf1/c14/c1404_00.sb:19] (x1)
+EN: <p>Let me take them, Vegeta. I'll clean all five of them up in no time!<k>
+PT: <p>Deixa eles comigo, Vegeta. Dou um jeito nos cinco rapidinho!<k>
+### 3441 [cf1/c14/c1404_00.sb:20] (x1)
+EN: <p>Do what you want.<k>
+PT: <p>Faça o que quiser.<k>
+### 3442 [cf1/c14/c1404_00.sb:21] (x1)
+EN: <p>Heh heh... I'm gonna have some fun with you guys.<k>
+PT: <p>Heh heh... Vou me divertir com vocês.<k>
+### 3443 [cf1/c14/c1404_00.sb:24] (x1)
+EN: <p>U... Ugh! The ground is shaking!<k>
+PT: <p>A... Argh! O chão está tremendo!<k>
+### 3444 [cf1/c14/c1404_00.sb:27] (x1)
+EN: <p>Tien! My psychic powers aren't working!<k>
+PT: <p>Tenshinhan! Os meus poderes psíquicos não funcionam!<k>
+### 3445 [cf1/c14/c1404_00.sb:30] (x1)
+EN: <p>How... How could he be this strong?!<k>
+PT: <p>Como... Como ele pode ser tão forte?!<k>
+### 3446 [cf1/c14/c1404_00.sb:31] (x1)
+EN: <p>Wahhhhh!!<K>
+PT: <p>Uaaaaah!!<K>
+### 3447 [cf1/c14/c1404_00.sb:34] (x1)
+EN: <p>I never thought they'd be this strong!<k>
+PT: <p>Nunca imaginei que eles fossem tão fortes!<k>
+### 3448 [cf1/c14/c1404_00.sb:35] (x1)
+EN: <p>Now then... Who should I start with first?<k>
+PT: <p>E agora... Por quem eu começo?<k>
+### 3449 [cf1/c14/c1404_00.sb:36] (x2)
+EN: <p>Here he comes!<k>
+PT: <p>Lá vem ele!<k>
+### 3450 [cf1/c14/c1404_01.sb:10] (x1)
+EN: <p>What an incredible wave of energy!<k>
+PT: <p>Que onda de energia incrível!<k>
+### 3451 [cf1/c14/c1404_01.sb:13] (x1)
+EN: <p>Chiaotzu?! Where are you?! Did he get caught in the blast?!<k>
+PT: <p>Chaos?! Cadê você?! Ele foi pego pela explosão?!<k>
+### 3452 [cf1/c14/c1404_01.sb:16] (x1)
+EN: <p>What...?!?!<k>
+PT: <p>O quê...?!?!<k>
+### 3453 [cf1/c14/c1404_01.sb:19] (x1)
+EN: <p>Nappa! Look behind you!<k>
+PT: <p>Nappa! Olhe atrás de você!<k>
+### 3454 [cf1/c14/c1404_01.sb:26] (x1)
+EN: <p>Gah! You little twerp!<k>
+PT: <p>Argh! Seu pestinha!<k>
+### 3455 [cf1/c14/c1404_01.sb:27] (x1)
+EN: <p>What are you trying to do, Chiaotzu?! Get outta there! RUN AWAY!<k>
+PT: <p>O que você está tentando fazer, Chaos?! Sai daí! FUJA!<k>
+### 3456 [cf1/c14/c1404_01.sb:30] (x1)
+EN: <p>(Goodbye, Tien... Please don't die...)<k>
+PT: <p>(Adeus, Tenshinhan... Por favor, não morra...)<k>
+### 3457 [cf1/c14/c1404_01.sb:32] (x1)
+EN: <p>No... You can't...<k>
+PT: <p>Não... Você não pode...<k>
+### 3458 [cf1/c14/c1404_01.sb:34] (x1)
+EN: <p>No Chiaotzu! Don't do it!<k>
+PT: <p>Não, Chaos! Não faça isso!<k>
+### 3459 [cf1/c14/c1404_01.sb:36] (x1)
+EN: <p>...Ch... Chiao... tzu...<k>
+PT: <p>...Cha... Cha... os...<k>
+### 3460 [cf1/c14/c1404_01.sb:37] (x1)
+EN: <p>Chiaotzuuuu!<k>
+PT: <p>Chaoooos!<k>
+### 3461 [cf1/c14/c1404_01.sb:38] (x1)
+EN: <p>...A suicide attack like that takes some guts.<k><p>Not bad for a little guy...<k>
+PT: <p>...Um ataque suicida desses exige coragem.<k><p>Nada mal para um baixinho...<k>
+### 3462 [cf1/c14/c1404_01.sb:40] (x1)
+EN: <p>Heh heh heh... What a wimp...<k><p>Looks like you guys still don't understand what you're up against!<k>
+PT: <p>Heh heh heh... Que fracote...<k><p>Parece que vocês ainda não entenderam com quem estão lidando!<k>
+### 3463 [cf1/c14/c1404_02.sb:10] (x1)
+EN: <p>Uh oh... I've got a bad feeling!<k>
+PT: <p>Ih... Tenho um mau pressentimento!<k>
+### 3464 [cf1/c14/c1404_02.sb:11] (x1)
+EN: <p>I better hurry!<k>
+PT: <p>É melhor eu me apressar!<k>
+### 3465 [cf1/c14/c1404_03.sb:19] (x1)
+EN: <p>After I take out the guy with three eyes, you guys are next!<k><p>Heh heh... You'll all be good and dead!<k>
+PT: <p>Depois de acabar com o de três olhos, vocês são os próximos!<k><p>Heh heh... Vão todos morrer direitinho!<k>
+### 3466 [cf1/c14/c1404_03.sb:22] (x1)
+EN: <p>How...?!<k><p>There's not a scratch on him! That's not fair... Chiaotzu gave his life!<k>
+PT: <p>Como...?!<k><p>Ele não tem nem um arranhão! Não é justo... O Chaos deu a vida!<k>
+### 3467 [cf1/c14/c1404_03.sb:23] (x1)
+EN: <p>Chiaotzu has already been wished back with the Dragon Balls...<k><p>He can't be brought back again!<k>
+PT: <p>O Chaos já foi revivido pelas Esferas do Dragão...<k><p>Ele não pode ser trazido de volta de novo!<k>
+### 3468 [cf1/c14/c1404_03.sb:24] (x1)
+EN: <p>Let me send you to the other side to visit the little rat! You can thank me later!<k>
+PT: <p>Deixa eu te mandar pro Outro Mundo pra visitar aquele ratinho! Depois você me agradece!<k>
+### 3469 [cf1/c14/c1404_03.sb:25] (x1)
+EN: <p>You're gonna pay for this!<k>
+PT: <p>Você vai pagar por isso!<k>
+### 3470 [cf1/c14/c1404_03.sb:28] (x1)
+EN: <p>Listen... He's gonna be vulnerable for just a second as he makes his attack...<k><p>That's where we'll aim for...<k>
+PT: <p>Escutem... Ele vai ficar vulnerável por um instante quando atacar...<k><p>É aí que vamos mirar...<k>
+### 3471 [cf1/c14/c1404_03.sb:31] (x1)
+EN: <p>Good plan. Wish you guys luck<k>
+PT: <p>Bom plano. Boa sorte pra vocês<k>
+### 3472 [cf1/c14/c1404_03.sb:33] (x1)
+EN: <p>I wouldn't be looking away if I were you. You might miss your chance.<k>
+PT: <p>Eu não desviaria o olhar se fosse você. Pode perder a sua chance.<k>
+### 3473 [cf1/c14/c1404_03.sb:34] (x1)
+EN: <p>You sure don't seem worried.<k><p>Keep smiling while you have the chance. Goku will change all of that when he gets here.<k>
+PT: <p>Você não parece nem um pouco preocupado.<k><p>Sorria enquanto pode. O Goku vai mudar tudo isso quando chegar.<k>
+### 3474 [cf1/c14/c1404_03.sb:35] (x1)
+EN: <p>Oh really? Just who is this Goku? Someone special?<k>
+PT: <p>É mesmo? E quem é esse Goku? Alguém especial?<k>
+### 3475 [cf1/c14/c1404_03.sb:36] (x1)
+EN: <p>Why you!<k>
+PT: <p>Seu...!<k>
+### 3476 [cf1/c14/c1404_03.sb:37] (x1)
+EN: <p>DIE!<k>
+PT: <p>MORRA!<k>
+### 3477 [cf1/c14/c1405_00.sb:13] (x1)
+EN: <p>Whew... That was close!<k>
+PT: <p>Ufa... Essa foi por pouco!<k>
+### 3478 [cf1/c14/c1405_00.sb:16] (x1)
+EN: <p>He's a... A monster...<k>
+PT: <p>Ele é um... Um monstro...<k>
+### 3479 [cf1/c14/c1405_00.sb:17] (x1)
+EN: <p>No... No good...<k>
+PT: <p>Não... Não adianta...<k>
+### 3480 [cf1/c14/c1405_00.sb:20] (x1)
+EN: <p>Idiot. Another useless attempt leads to another one dead...<k>
+PT: <p>Idiota. Mais uma tentativa inútil, mais um morto...<k>
+### 3481 [cf1/c14/c1405_00.sb:23] (x1)
+EN: <p>It can't be... Can nothing kill this guy?!<k>
+PT: <p>Não pode ser... Nada consegue matar esse cara?!<k>
+### 3482 [cf1/c14/c1405_00.sb:24] (x1)
+EN: <p>No... Not Tien... This is... a nightmare...<k><p>We keep dying one after the other...<k>
+PT: <p>Não... O Tenshinhan não... Isto é... um pesadelo...<k><p>Estamos morrendo um atrás do outro...<k>
+### 3483 [cf1/c14/c1405_00.sb:25] (x1)
+EN: <p>GOKU! Hurry up and get here! PLEASE!<k>
+PT: <p>GOKU! Venha logo! POR FAVOR!<k>
+### 3484 [cf1/c14/c1405_00.sb:26] (x1)
+EN: <p>Goku...? That name again...<k>
+PT: <p>Goku...? Esse nome de novo...<k>
+### 3485 [cf1/c14/c1405_00.sb:27] (x1)
+EN: <p>...Wait a sec...<k>
+PT: <p>...Espera aí...<k>
+### 3486 [cf1/c14/c1405_00.sb:28] (x1)
+EN: <p>Gwah hah hah... That's another one down for the count... You guys are next...<k>
+PT: <p>Uá rá rá... Mais um fora de combate... Vocês são os próximos...<k>
+### 3487 [cf1/c14/c1405_00.sb:29] (x1)
+EN: <p>I'll just leave the Namek alive and breathing enough to tell us where the Dragon Balls are.<k><p>We'd like to ask you more about them.<k>
+PT: <p>Vou deixar o namekuseijin vivo o bastante pra nos dizer onde estão as Esferas do Dragão.<k><p>Queremos saber mais sobre elas.<k>
+### 3488 [cf1/c14/c1405_00.sb:30] (x1)
+EN: <p>Lucky for you, Piccolo...<k><p>They think only you know about the Dragon Balls...<k>
+PT: <p>Sorte a sua, Piccolo...<k><p>Eles acham que só você sabe das Esferas do Dragão...<k>
+### 3489 [cf1/c14/c1405_00.sb:31] (x1)
+EN: <p>Doesn't make a difference... They'll kill us all in the end anyway.<k>
+PT: <p>Não faz diferença... No fim, eles vão matar todos nós de qualquer jeito.<k>
+### 3490 [cf1/c14/c1405_00.sb:32] (x1)
+EN: <p>It sure is good to have you on our side in a situation like this...<k><p>Who'd of thought, you know?<k><p>So, you think we have at least a little chance at winning?<k>
+PT: <p>É bom ter você do nosso lado numa hora dessas...<k><p>Quem diria, né?<k><p>E aí, acha que temos pelo menos uma chancezinha de vencer?<k>
+### 3491 [cf1/c14/c1405_00.sb:33] (x1)
+EN: <p>None!<k>
+PT: <p>Nenhuma!<k>
+### 3492 [cf1/c14/c1405_00.sb:34] (x1)
+EN: <p>I didn't think they'd be monsters of this magnitude.<k><p>They far surpass the Saiyan that came before them.<k>
+PT: <p>Não imaginei que fossem monstros desse tamanho.<k><p>Eles superam de longe o Saiyajin que veio antes.<k>
+### 3493 [cf1/c14/c1405_00.sb:35] (x1)
+EN: <p>Looks like I might end up dying again...<k>
+PT: <p>Parece que eu vou acabar morrendo de novo...<k>
+### 3494 [cf1/c14/c1405_00.sb:41] (x1)
+EN: <p>What's taking him so long? Where are you Goku!<k>
+PT: <p>Por que ele está demorando tanto? Cadê você, Goku!<k>
+### 3495 [cf1/c14/c1405_00.sb:44] (x1)
+EN: <p>Can you not feel his presence yet?<k>
+PT: <p>Ainda não consegue sentir a presença dele?<k>
+### 3496 [cf1/c14/c1405_00.sb:46] (x1)
+EN: <p>Hurry... I have but little time left...<k><p>Death draws ever closer...<k>
+PT: <p>Rápido... Resta-me pouco tempo...<k><p>A morte se aproxima cada vez mais...<k>
+### 3497 [cf1/c14/c1405_00.sb:47] (x1)
+EN: <p>Kami... You don't mean...<k>
+PT: <p>Kami-Sama... Não me diga que...<k>
+### 3498 [cf1/c14/c1405_00.sb:48] (x1)
+EN: <p>Piccolo will die...<k>
+PT: <p>O Piccolo vai morrer...<k>
+### 3499 [cf1/c14/c1405_01.sb:10] (x1)
+EN: <p>Heh heh heh... I wouldn't let your guard down if I were you...<k><p>If you won't go first, then I will!<k>
+PT: <p>Heh heh heh... Eu não baixaria a guarda se fosse vocês...<k><p>Se vocês não vêm primeiro, vou eu!<k>
+### 3500 [cf1/c14/c1405_01.sb:13] (x1)
+EN: <p>HERE HE COMES!!!<k>
+PT: <p>LÁ VEM ELE!!!<k>
+### 3501 [cf1/c14/c1405_01.sb:16] (x1)
+EN: <p>Nappa, STOP!<k>
+PT: <p>Nappa, PARE!<k>
+### 3502 [cf1/c14/c1405_01.sb:19] (x1)
+EN: <p>Wh-What, Vegeta...?! Why'd you stop me?<k>
+PT: <p>O-o que foi, Vegeta...?! Por que me parou?<k>
+### 3503 [cf1/c14/c1405_01.sb:23] (x1)
+EN: <p>Don't be in such a hurry. I've got something I want to ask them.<k>
+PT: <p>Não tenha tanta pressa. Quero perguntar uma coisa a eles.<k>
+### 3504 [cf1/c14/c1405_01.sb:24] (x1)
+EN: <p>The one you call Goku...<k><p>Are you talking about Kakarot?!<k>
+PT: <p>Esse que vocês chamam de Goku...<k><p>Estão falando do Kakarotto?!<k>
+### 3505 [cf1/c14/c1405_01.sb:25] (x1)
+EN: <p>Yeah! So what?<k>
+PT: <p>Sim! E daí?<k>
+### 3506 [cf1/c14/c1405_01.sb:26] (x1)
+EN: <p>I see.<k><p>So, what we heard on the scouters is true. He's been brought back to life.<k><p>Hah hah hah!<k><p>Who'd have thought that your savior was that weakling, Kakarot!<k>
+PT: <p>Entendo.<k><p>Então o que ouvimos nos scouters é verdade. Ele foi revivido.<k><p>Rá rá rá!<k><p>Quem diria que o salvador de vocês seria aquele fracote do Kakarotto!<k>
+### 3507 [cf1/c14/c1405_01.sb:27] (x1)
+EN: <p>What do you expect him to do? He couldn't even stand up to Raditz!<k>
+PT: <p>O que vocês esperam que ele faça? Ele nem conseguiu enfrentar o Raditz!<k>
+### 3508 [cf1/c14/c1405_01.sb:28] (x1)
+EN: <p>He should be a lot stronger now... No, he will be for sure!<k><p>Stronger beyond belief!<k>
+PT: <p>Ele deve estar bem mais forte agora... Não, com certeza está!<k><p>Forte além da imaginação!<k>
+### 3509 [cf1/c14/c1405_01.sb:31] (x1)
+EN: <p>Don't underestimate Goku!<k>
+PT: <p>Não subestimem o Goku!<k>
+### 3510 [cf1/c14/c1405_01.sb:32] (x1)
+EN: <p>Dah hah hah! Then where is he?<k><p>You sure he didn't run off scared?!<k>
+PT: <p>Uá rá rá! Então cadê ele?<k><p>Tem certeza de que ele não fugiu de medo?!<k>
+### 3511 [cf1/c14/c1405_01.sb:33] (x1)
+EN: <p>He'll be here! My dad will be here, you'll see!<k><p>He'll take you down!<k>
+PT: <p>Ele vem! O meu pai vai vir, vocês vão ver!<k><p>Ele vai acabar com vocês!<k>
+### 3512 [cf1/c14/c1405_01.sb:34] (x1)
+EN: <p>Heh heh... That's a lot of faith you've got there.<k>
+PT: <p>Heh heh... Quanta fé você tem.<k>
+### 3513 [cf1/c14/c1405_01.sb:35] (x1)
+EN: <p>Interesting. Very well then. We'll wait until he arrives.<k>
+PT: <p>Interessante. Muito bem. Vamos esperar até ele chegar.<k>
+### 3514 [cf1/c14/c1405_01.sb:36] (x1)
+EN: <p>What?! Are you kidding, Vegeta?<k><p>Don't be so boring! Kakarot won't show! Let's just take care of these guys right now!<k>
+PT: <p>O quê?! Tá brincando, Vegeta?<k><p>Não seja chato! O Kakarotto não vai aparecer! Vamos dar um jeito nesses caras agora mesmo!<k>
+### 3515 [cf1/c14/c1405_01.sb:37] (x1)
+EN: <p>Just for three hours. No longer.<k>
+PT: <p>Só três horas. Nem um minuto a mais.<k>
+### 3516 [cf1/c14/c1405_01.sb:38] (x1)
+EN: <p>Three hours?! What're we gonna do for three hours?<k><p>I can't just stay still after sleeping all the way here!<k><p>There's no point in waiting!<k>
+PT: <p>Três horas?! O que vamos fazer por três horas?<k><p>Não consigo ficar parado depois de dormir a viagem inteira!<k><p>Não adianta esperar!<k>
+### 3517 [cf1/c14/c1405_01.sb:39] (x1)
+EN: <p>This is stupid! I wanna play now!!<k>
+PT: <p>Isso é idiota! Quero brincar agora!!<k>
+### 3518 [cf1/c14/c1405_01.sb:40] (x1)
+EN: <p>Nappa! Did you not hear what I said?!?!<k>
+PT: <p>Nappa! Você não ouviu o que eu disse?!?!<k>
+### 3519 [cf1/c14/c1405_01.sb:41] (x1)
+EN: <p>S-Sorry... Sorry, Vegeta...<k><p>I got a little... carried away...<k>
+PT: <p>D-desculpa... Desculpa, Vegeta...<k><p>Eu me empolguei... um pouco...<k>
+### 3520 [cf1/c14/c1405_01.sb:42] (x1)
+EN: <p>Well, you heard me. I've extended your lives for a little bit longer. Be grateful.<k>
+PT: <p>Bem, vocês ouviram. Estiquei a vida de vocês mais um pouco. Sejam gratos.<k>
+### 3521 [cf1/c14/c1405_02.sb:10] (x1)
+EN: <p>But, Vegeta... Why are we waiting for someone like Kakarot?<k>
+PT: <p>Mas, Vegeta... Por que estamos esperando alguém como o Kakarotto?<k>
+### 3522 [cf1/c14/c1405_02.sb:13] (x1)
+EN: <p>Kakarot is a back-stabbing Saiyan.<k><p>He must be punished.<k><p>We're going to kill his friends and son right in front of him.<k><p>After that we'll give him a lesson in slow death.<k><p>We'll show him just how powerless he is and make him writhe in anguish.<k><p>All in a few hours. Heh heh.<k><p>We should be able to give them all a hell of a show.<k>
+PT: <p>O Kakarotto é um Saiyajin traidor.<k><p>Ele tem que ser punido.<k><p>Vamos matar os amigos e o filho dele bem na frente dele.<k><p>Depois vamos dar a ele uma aula de morte lenta.<k><p>Vamos mostrar o quanto ele é impotente e fazê-lo se contorcer de agonia.<k><p>Tudo em poucas horas. Heh heh.<k><p>Vamos dar a eles um espetáculo e tanto.<k>
+### 3523 [cf1/c14/c1405_02.sb:14] (x1)
+EN: <p>Now I get it! So that's the plan! Sounds good, Vegeta.<k>
+PT: <p>Agora entendi! Então esse é o plano! Gostei, Vegeta.<k>
+### 3524 [cf1/c14/c1405_02.sb:15] (x1)
+EN: <p>That's if he shows up in three hours...<k>
+PT: <p>Isso se ele aparecer em três horas...<k>
+### 3525 [cf1/c14/c1405_02.sb:16] (x1)
+EN: <p>You can have Kakarot, but let me have these three!<k>
+PT: <p>O Kakarotto pode ficar com você, mas esses três são meus!<k>
+### 3526 [cf1/c14/c1405_02.sb:17] (x1)
+EN: <p>Whatever you want.<k><p>But after we get the information about the Dragon Balls out of the Namek.<k>
+PT: <p>Como quiser.<k><p>Mas só depois de arrancarmos do namekuseijin as informações sobre as Esferas do Dragão.<k>
+### 3527 [cf1/c14/c1405_02.sb:18] (x1)
+EN: <p>I hope that Kakarot shows up...<k>
+PT: <p>Tomara que esse Kakarotto apareça...<k>
+### 3528 [cf1/c14/c1406_00.sb:10] (x1)
+EN: <p>He made it! Goku's here!<k>
+PT: <p>Ele conseguiu! O Goku chegou!<k>
+### 3529 [cf1/c14/c1406_00.sb:13] (x1)
+EN: <p>Quickly, Kami!<k>
+PT: <p>Rápido, Kami-Sama!<k>
+### 3530 [cf1/c14/c1406_00.sb:17] (x1)
+EN: <p>There it is! The end of Snake Way!<k>
+PT: <p>Ali está! O fim da Estrada da Serpente!<k>
+### 3531 [cf1/c14/c1406_00.sb:21] (x1)
+EN: <p>He made it to the other side! That was incredibly fast!<k>
+PT: <p>Ele chegou ao outro lado! Foi incrivelmente rápido!<k>
+### 3532 [cf1/c14/c1406_00.sb:24] (x1)
+EN: <p>Kami!<k>
+PT: <p>Kami-Sama!<k>
+### 3533 [cf1/c14/c1406_00.sb:25] (x1)
+EN: <p>Hurry! Grab on!<k>
+PT: <p>Rápido! Segure-se!<k>
+### 3534 [cf1/c14/c1406_00.sb:28] (x1)
+EN: <p>That Goku... He actually made it back from King Kai's place...<k>
+PT: <p>Esse Goku... Ele voltou mesmo da casa do Senhor Kaioh...<k>
+### 3535 [cf1/c14/c1406_00.sb:30] (x1)
+EN: <p>Well, here I go! I'm trained and ready for anything!<k>
+PT: <p>Bom, lá vou eu! Estou treinado e pronto pra tudo!<k>
+### 3536 [cf1/c14/c1406_00.sb:31] (x1)
+EN: <p>We're counting on you, Goku!<k>
+PT: <p>Contamos com você, Goku!<k>
+### 3537 [cf1/c14/c1406_00.sb:32] (x1)
+EN: <p>Good luck!<k>
+PT: <p>Boa sorte!<k>
+### 3538 [cf1/c14/c1406_00.sb:33] (x1)
+EN: <p>Gohan... Everyone... Stay alive!<k>
+PT: <p>Gohan... Pessoal... Fiquem vivos!<k>
+### 3539 [cf1/c14/c1406_00.sb:37] (x1)
+EN: <p>Here he comes! He's pretty worn out!<k>
+PT: <p>Lá vem ele! Está bem cansado!<k>
+### 3540 [cf1/c14/c1406_00.sb:38] (x2)
+EN: <p>Heyyyy!<k>
+PT: <p>Eeeei!<k>
+### 3541 [cf1/c14/c1406_00.sb:39] (x1)
+EN: <p>Korin!<k>
+PT: <p>Mestre Karin!<k>
+### 3542 [cf1/c14/c1406_00.sb:40] (x1)
+EN: <p>Here! Senzu beans! Take 'em!<k>
+PT: <p>Tome! Sementes dos Deuses! Pegue!<k>
+### 3543 [cf1/c14/c1406_00.sb:41] (x1)
+EN: <p>Thanks! You're a life saver!<k>
+PT: <p>Valeu! O senhor salvou a minha vida!<k>
+### 3544 [cf1/c14/c1406_00.sb:42] (x1)
+EN: <p>Don't let us down, Goku!<k>
+PT: <p>Não nos decepcione, Goku!<k>
+### 3545 [cf1/c14/c1406_00.sb:43] (x1)
+EN: <p>I'll have one right now...<k>
+PT: <p>Vou comer uma agora mesmo...<k>
+### 3546 [cf1/c14/c1406_00.sb:44] (x1)
+EN: <p>All right! Back to 100%!<k>
+PT: <p>Beleza! De volta aos 100%!<k>
+### 3547 [cf1/c14/c1406_00.sb:47] (x1)
+EN: <p>Good to see you, Nimbus! Let's go!<k>
+PT: <p>Que bom te ver, Nuvem Voadora! Vamos!<k>
+### 3548 [cf1/c14/c1406_00.sb:48] (x1)
+EN: <p>There's a lot of huge Ki all in one place! Over there!<k>
+PT: <p>Tem um monte de Ki enorme num lugar só! Ali!<k>
+### 3549 [cf1/c14/c1406_01.sb:11] (x1)
+EN: <p>W-what?! This Ki!<k><p>There's a massive Ki force coming right this way!<k>
+PT: <p>O-o quê?! Esse Ki!<k><p>Tem um Ki enorme vindo direto pra cá!<k>
+### 3550 [cf1/c14/c1406_01.sb:14] (x1)
+EN: <p>Y-you're right... It's huge, but I think I remember it from somewhere!<k>
+PT: <p>V-você tem razão... É enorme, mas acho que já senti isso antes!<k>
+### 3551 [cf1/c14/c1406_01.sb:17] (x1)
+EN: <p>Gehh! Quit giving me your stupid nonsense!<k>
+PT: <p>Argh! Chega dessas suas bobagens!<k>
+### 3552 [cf1/c14/c1406_01.sb:18] (x1)
+EN: <p>It's Goku... It's got to be him!<k>
+PT: <p>É o Goku... Só pode ser ele!<k>
+### 3553 [cf1/c14/c1406_01.sb:19] (x1)
+EN: <p>Daddy's coming for us!<k>
+PT: <p>O papai está vindo!<k>
+### 3554 [cf1/c14/c1406_01.sb:20] (x1)
+EN: <p>Vegeta! Are they being serious?!<k><p>Heh heh heh! Is Kakarot actually coming this way?!<k>
+PT: <p>Vegeta! Eles estão falando sério?!<k><p>Heh heh heh! O Kakarotto está mesmo vindo pra cá?!<k>
+### 3555 [cf1/c14/c1406_01.sb:23] (x1)
+EN: <p>I don't know if it's Kakarot or not.<k><p>But it'll be here in about four minutes...<k><p>And whoever it is, its power level is around 5000!<k>
+PT: <p>Não sei se é o Kakarotto ou não.<k><p>Mas vai chegar aqui em uns quatro minutos...<k><p>E, seja quem for, o nível de poder é de uns 5000!<k>
+### 3556 [cf1/c14/c1406_01.sb:24] (x1)
+EN: <p>F-five thousand?!<k>
+PT: <p>C-cinco mil?!<k>
+### 3557 [cf1/c14/c1406_01.sb:25] (x1)
+EN: <p>...Nappa! Kill them!<k>
+PT: <p>...Nappa! Mate-os!<k>
+### 3558 [cf1/c14/c1406_01.sb:26] (x1)
+EN: <p>! W-what about the Dragon Balls?!<k>
+PT: <p>! E-e as Esferas do Dragão?!<k>
+### 3559 [cf1/c14/c1406_01.sb:27] (x1)
+EN: <p>Forget about them! I've got an idea!<k><p>We can just go to Planet Namek, home of the Namekians.<k><p>There's got to be an even stronger set of Dragon Balls on that planet!<k><p>If Kakarot's really alive, that means the legend's been true all along!<k>
+PT: <p>Esqueça! Tive uma ideia!<k><p>Podemos ir ao Planeta Namekusei, a terra dos namekuseijins.<k><p>Deve haver Esferas do Dragão ainda mais poderosas naquele planeta!<k><p>Se o Kakarotto está mesmo vivo, a lenda era verdade o tempo todo!<k>
+### 3560 [cf1/c14/c1406_01.sb:29] (x1)
+EN: <p>Piccolo, run!<k><p>I'll hold him off until Daddy makes it here!<k><p>If you die, then Kami's gonna die too...<k><p>And then there won't be any more Dragon Balls!<k>
+PT: <p>Piccolo, fuja!<k><p>Eu seguro ele até o papai chegar!<k><p>Se você morrer, o Kami-Sama também vai morrer...<k><p>E aí não vai ter mais Esferas do Dragão!<k>
+### 3561 [cf1/c14/c1406_01.sb:30] (x1)
+EN: <p>Heh... why do you have to be so stupid?<k><p>You know there's no way you can defend yourself against him.<k>
+PT: <p>Heh... Por que você tem que ser tão tolo?<k><p>Você sabe que não tem como se defender dele.<k>
+### 3562 [cf1/c14/c1406_01.sb:31] (x1)
+EN: <p>You? Hold me off?<k>
+PT: <p>Você? Me segurar?<k>
+### 3563 [cf1/c14/c1406_01.sb:32] (x1)
+EN: <p>You stupid brat! Don't make me laugh!<k>
+PT: <p>Seu pirralho idiota! Não me faça rir!<k>
+### 3564 [cf1/c14/c1406_01.sb:34] (x1)
+EN: <p>It's over for you, kid!<k>
+PT: <p>É o seu fim, garoto!<k>
+### 3565 [cf1/c14/c1406_01.sb:36] (x1)
+EN: <p>Diiiieeee!!<k>
+PT: <p>Morraaaa!!<k>
+### 3566 [cf1/c14/c1406_01.sb:46] (x1)
+EN: <p>It's been three hours...<k><p>What a waste of time... That coward Kakarot never showed...<k>
+PT: <p>Já se passaram três horas...<k><p>Que perda de tempo... Aquele covarde do Kakarotto não apareceu...<k>
+### 3567 [cf1/c14/c1406_01.sb:47] (x1)
+EN: <p>My dad's not a coward!<k>
+PT: <p>O meu pai não é covarde!<k>
+### 3568 [cf1/c14/c1406_01.sb:48] (x1)
+EN: <p>Just great... Why isn't he here yet?<k>
+PT: <p>Que ótimo... Por que ele ainda não chegou?<k>
+### 3569 [cf1/c14/c1406_01.sb:49] (x1)
+EN: <p>Now then...<k><p>Time to turn on the pain! Just too bad we couldn't do the same for Kakarot...<k>
+PT: <p>Agora...<k><p>Hora de fazer sofrer! Pena que não vai dar pra fazer o mesmo com o Kakarotto...<k>
+### 3570 [cf1/c14/c1406_01.sb:51] (x1)
+EN: <p>Looks like I'll be dead soon too... I feel like I'm on a suicide mission...<k>
+PT: <p>Parece que eu também vou morrer logo... Isso está parecendo missão suicida...<k>
+### 3571 [cf1/c14/c1406_01.sb:53] (x1)
+EN: <p>There's only one chance we have at beating this guy...<k><p>That's if it goes to plan...<k>
+PT: <p>Só temos uma chance de vencer esse cara...<k><p>Isso se tudo sair como planejado...<k>
+### 3572 [cf1/c14/c1406_01.sb:54] (x1)
+EN: <p>Krillin, first you do all you can to get their attention...<k><p>Then I'll take that opening to grab the Saiyan's tail... That's their weakness.<k>
+PT: <p>Kuririn, primeiro você faz de tudo pra chamar a atenção deles...<k><p>Aí eu aproveito a brecha pra agarrar a cauda do Saiyajin... É o ponto fraco deles.<k>
+### 3573 [cf1/c14/c1406_01.sb:55] (x1)
+EN: <p>...Oh yeah!<k>
+PT: <p>...Ah, é!<k>
+### 3574 [cf1/c14/c1406_01.sb:56] (x1)
+EN: <p>That'll take his power down and make him helpless...<k><p>When that happens, Gohan, you hit him with all you've got! Got it?<k>
+PT: <p>Isso vai derrubar o poder dele e deixá-lo indefeso...<k><p>Quando isso acontecer, Gohan, você acerta ele com tudo o que tem! Entendeu?<k>
+### 3575 [cf1/c14/c1406_01.sb:57] (x1)
+EN: <p>Got it!<k><p>It's OK... I won't run away this time!<k>
+PT: <p>Entendi!<k><p>Pode deixar... Desta vez eu não vou fugir!<k>
+### 3576 [cf1/c14/c1406_01.sb:58] (x1)
+EN: <p>You'd better not!<k><p>Remember, the fate of the Earth is in your hands.<k>
+PT: <p>É bom mesmo!<k><p>Lembre-se: o destino da Terra está nas suas mãos.<k>
+### 3577 [cf1/c14/c1406_01.sb:59] (x1)
+EN: <p>(Wow, all right Piccolo! I'm starting to see the light!<k><p>We might just have a chance!)<k>
+PT: <p>(Uau, é isso aí, Piccolo! Estou começando a ver uma luz!<k><p>Talvez a gente tenha uma chance!)<k>
+### 3578 [cf1/c14/c1406_01.sb:60] (x1)
+EN: <p>Gohan, believe in yourself. If you really try, your power could even surpass mine...<k>
+PT: <p>Gohan, acredite em você. Se você se esforçar de verdade, o seu poder pode até superar o meu...<k>
+### 3579 [cf1/c14/c1406_01.sb:61] (x1)
+EN: <p>OK! Let's do it!<k>
+PT: <p>Tá! Vamos nessa!<k>
+### 3580 [cf1/c14/c1407_00.sb:14] (x1)
+EN: <p>Go... han... Run... Gohan...<k>
+PT: <p>Go... han... Fuja... Gohan...<k>
+### 3581 [cf1/c14/c1407_00.sb:15] (x1)
+EN: <p>...Uh... ......Uh...<k>
+PT: <p>...Ah... ......Ah...<k>
+### 3582 [cf1/c14/c1407_00.sb:20] (x1)
+EN: <p>Piccolo... Why did you... save... me...?<k>
+PT: <p>Piccolo... Por que você me... salvou...?<k>
+### 3583 [cf1/c14/c1407_00.sb:22] (x1)
+EN: <p>I told you... I told you to run... Hurry... Get out of here...<k>
+PT: <p>Eu disse... Eu disse pra fugir... Rápido... Saia daqui...<k>
+### 3584 [cf1/c14/c1407_00.sb:23] (x1)
+EN: <p>Don't die, Piccolo! My dad will be here soon!<k><p>Please... Don't die!!<k>
+PT: <p>Não morra, Piccolo! O meu pai já vai chegar!<k><p>Por favor... Não morra!!<k>
+### 3585 [cf1/c14/c1407_00.sb:26] (x1)
+EN: <p>That fool!<k><p>I didn't mean to kill him just yet... Oh well... It was gonna happen sooner or later anyway.<k>
+PT: <p>Aquele tolo!<k><p>Eu ainda não queria matá-lo... Paciência... Ia acontecer mais cedo ou mais tarde, de qualquer jeito.<k>
+### 3586 [cf1/c14/c1407_00.sb:29] (x1)
+EN: <p>One of the powers is fading! Someone's dying!<k>
+PT: <p>Um dos poderes está sumindo! Alguém está morrendo!<k>
+### 3587 [cf1/c14/c1407_00.sb:33] (x1)
+EN: <p>Looks like my time has come... I suppose Goku didn't make it in time.<k><p>However... Piccolo managed to... Surpass even me... in the end...<k><p>He did well...<k>
+PT: <p>Parece que chegou a minha hora... Pelo jeito o Goku não chegou a tempo.<k><p>Mesmo assim... O Piccolo conseguiu... Superar até a mim... no fim...<k><p>Ele se saiu bem...<k>
+### 3588 [cf1/c14/c1407_00.sb:34] (x1)
+EN: <p>How pathetic... The Demon King Piccolo's final moments...<k><p>...Were spent protecting a kid... What a joke... Heh heh heh...<k>
+PT: <p>Que patético... Os últimos momentos do Rei Demônio Piccolo...<k><p>...Foram protegendo um garoto... Que piada... Heh heh heh...<k>
+### 3589 [cf1/c14/c1407_00.sb:35] (x1)
+EN: <p>It's all Goku's fault... His weaknesses spread into me through you...<k><p>Gohan... Y-You were the only one who ever...<k><p>...Talked to me like I was someone...<k>
+PT: <p>É tudo culpa do Goku... As fraquezas dele passaram pra mim através de você...<k><p>Gohan... V-você foi o único que...<k><p>...Falou comigo como se eu fosse alguém...<k>
+### 3590 [cf1/c14/c1407_00.sb:37] (x1)
+EN: <p>Th-The months we spent together were... all right...<k><p>Don't... die... Go... han...<k>
+PT: <p>O-os meses que passamos juntos foram... bons...<k><p>Não... morra... Go... han...<k>
+### 3591 [cf1/c14/c1407_00.sb:39] (x1)
+EN: <p>The Ki disappeared!<k>
+PT: <p>O Ki sumiu!<k>
+### 3592 [cf1/c14/c1407_00.sb:40] (x1)
+EN: <p>The rest is up to you... Mr. Popo...<k>
+PT: <p>O resto é com você... Sr. Popo...<k>
+### 3593 [cf1/c14/c1407_00.sb:43] (x1)
+EN: <p>Kami!!<k>
+PT: <p>Kami-Sama!!<k>
+### 3594 [cf1/c14/c1407_00.sb:44] (x1)
+EN: <p>Wahhhhhhhh!!<k>
+PT: <p>Aaaaaaaaah!!<k>
+### 3595 [cf1/c14/c1407_00.sb:45] (x1)
+EN: <p>G-Goku's son...?! His Ki is... huge!<k>
+PT: <p>O-o filho do Goku...?! O Ki dele é... enorme!<k>
+### 3596 [cf1/c14/c1407_00.sb:48] (x1)
+EN: <p>Power level 2800! I knew they could control their power!<k>
+PT: <p>Nível de poder 2800! Eu sabia que eles controlavam o poder!<k>
+### 3597 [cf1/c14/c1408_00.sb:10] (x1)
+EN: <p>Not bad for a runt...<k><p>Heh heh... You made my arm go numb...<k>
+PT: <p>Nada mal para um nanico...<k><p>Heh heh... Você deixou o meu braço dormente...<k>
+### 3598 [cf1/c14/c1408_00.sb:13] (x1)
+EN: <p>His power level has gone down again...<k><p>Looks like he used up all of his energy...<k>
+PT: <p>O nível de poder dele caiu de novo...<k><p>Parece que ele gastou toda a energia...<k>
+### 3599 [cf1/c14/c1408_00.sb:16] (x1)
+EN: <p>They're... too strong... Way too strong...<k>
+PT: <p>Eles são... fortes demais... Fortes demais...<k>
+### 3600 [cf1/c14/c1408_00.sb:19] (x1)
+EN: <p>Piccolo... I'm sorry... I couldn't avenge you...<k><p>I don't even have enough energy to run...<k>
+PT: <p>Piccolo... Desculpa... Não consegui te vingar...<k><p>Não tenho energia nem pra fugir...<k>
+### 3601 [cf1/c14/c1408_00.sb:20] (x1)
+EN: <p>Just great!<k>
+PT: <p>Que ótimo!<k>
+### 3602 [cf1/c14/c1408_00.sb:21] (x1)
+EN: <p>Gaaah hah hah!<k><p>I can't wait to see the look on Kakarot's face when he sees his mangled son!<k>
+PT: <p>Uaaah rá rá!<k><p>Mal posso esperar pra ver a cara do Kakarotto quando vir o filho em pedaços!<k>
+### 3603 [cf1/c14/c1408_00.sb:22] (x1)
+EN: <p>F-Flying Nimbus...?!<k>
+PT: <p>N-Nuvem Voadora...?!<k>
+### 3604 [cf1/c14/c1408_00.sb:23] (x1)
+EN: <p>Wha...?! What's that thing...<k>
+PT: <p>O quê...?! Que coisa é essa...<k>
+### 3605 [cf1/c14/c1408_00.sb:25] (x1)
+EN: <p>He finally showed his face!<k>
+PT: <p>Ele finalmente deu as caras!<k>
+### 3606 [cf1/c14/c1408_01.sb:10] (x1)
+EN: <p>Goku! We've been waiting for you!<k>
+PT: <p>Goku! Estávamos te esperando!<k>
+### 3607 [cf1/c14/c1408_01.sb:16] (x1)
+EN: <p>What is it you came for, Kakarot?<k><p>You can't possibly think you can defeat us.<k>
+PT: <p>O que você veio fazer aqui, Kakarotto?<k><p>Você não pode achar que vai nos derrotar.<k>
+### 3608 [cf1/c14/c1408_01.sb:23] (x1)
+EN: <p>Piccolo died protecting me...<k>
+PT: <p>O Piccolo morreu me protegendo...<k>
+### 3609 [cf1/c14/c1408_01.sb:24] (x1)
+EN: <p>Are you upset that all your stupid friends are dead? No need to be sad.<k><p>You'll be joining them soon. It's too bad you just now came back to life...<k>
+PT: <p>Está chateado porque todos os seus amigos idiotas morreram? Não precisa ficar triste.<k><p>Logo você vai se juntar a eles. Pena que acabou de voltar à vida...<k>
+### 3610 [cf1/c14/c1408_01.sb:25] (x1)
+EN: <p>(His power level keeps on rising!)<k>
+PT: <p>(O nível de poder dele não para de subir!)<k>
+### 3611 [cf1/c14/c1408_01.sb:26] (x1)
+EN: <p>Hey! What's wrong with you? You wanna die already? Well?!<k>
+PT: <p>Ei! O que deu em você? Já quer morrer? Hein?!<k>
+### 3612 [cf1/c14/c1408_01.sb:27] (x1)
+EN: <p>Let me give you a proper greeting!<k>
+PT: <p>Deixa eu te cumprimentar direito!<k>
+### 3613 [cf1/c14/c1408_01.sb:29] (x1)
+EN: <p>Gohan, over here...<k>
+PT: <p>Gohan, aqui...<k>
+### 3614 [cf1/c14/c1408_01.sb:30] (x1)
+EN: <p>.........? ......Wha...?!<k>
+PT: <p>.........? ......O quê...?!<k>
+### 3615 [cf1/c14/c1408_01.sb:31] (x1)
+EN: <p>(...He's fast!)<k>
+PT: <p>(...Ele é rápido!)<k>
+### 3616 [cf1/c14/c1408_01.sb:32] (x1)
+EN: <p>Sorry I'm late, you guys.<k><p>You both did great... Here, split this...<k>
+PT: <p>Desculpem o atraso, pessoal.<k><p>Vocês dois foram ótimos... Tomem, dividam isto...<k>
+### 3617 [cf1/c14/c1408_01.sb:33] (x1)
+EN: <p>Huh? Senzu beans... Korin still had some left...?<k>
+PT: <p>Hã? Sementes dos Deuses... O Mestre Karin ainda tinha alguma...?<k>
+### 3618 [cf1/c14/c1408_01.sb:34] (x1)
+EN: <p>This is the last one.<k>
+PT: <p>Esta é a última.<k>
+### 3619 [cf1/c14/c1408_01.sb:35] (x1)
+EN: <p>In that case, you eat it, Goku!<k>
+PT: <p>Então come você, Goku!<k>
+### 3620 [cf1/c14/c1408_01.sb:36] (x1)
+EN: <p>I already had one.<k>
+PT: <p>Eu já comi uma.<k>
+### 3621 [cf1/c14/c1408_01.sb:37] (x1)
+EN: <p>Then... hold on to it just in case!<k><p>We wouldn't be able to help even if we ate these!<k>
+PT: <p>Então... guarda por garantia!<k><p>Mesmo comendo, a gente não ia conseguir ajudar!<k>
+### 3622 [cf1/c14/c1408_01.sb:38] (x1)
+EN: <p>Don't worry, Krillin. If you don't want it, I'll just toss it!<k>
+PT: <p>Não se preocupe, Kuririn. Se você não quiser, eu jogo fora!<k>
+### 3623 [cf1/c14/c1408_01.sb:39] (x1)
+EN: <p>OK... Thanks Goku...<k>
+PT: <p>Tá... Valeu, Goku...<k>
+### 3624 [cf1/c14/c1408_01.sb:40] (x1)
+EN: <p>You too, Gohan.<k>
+PT: <p>Você também, Gohan.<k>
+### 3625 [cf1/c14/c1408_02.sb:10] (x1)
+EN: <p>Krillin, you've really improved. I can tell from your Ki...<k>
+PT: <p>Kuririn, você melhorou muito. Dá pra ver pelo seu Ki...<k>
+### 3626 [cf1/c14/c1408_02.sb:13] (x1)
+EN: <p>I thought I had too, but it was no use... Nothing worked against them.<k><p>They were too strong... They killed everyone right in front of us...<k>
+PT: <p>Eu também achei que tinha melhorado, mas não adiantou... Nada funcionou contra eles.<k><p>Eles eram fortes demais... Mataram todo mundo bem na nossa frente...<k>
+### 3627 [cf1/c14/c1408_02.sb:14] (x1)
+EN: <p>Gohan, you really have come a long way too! You must have trained hard!<k>
+PT: <p>Gohan, você também evoluiu muito! Deve ter treinado pesado!<k>
+### 3628 [cf1/c14/c1408_02.sb:17] (x1)
+EN: <p>Yeah... Thanks to Piccolo...<k><p>But... I couldn't even do anything...<k>
+PT: <p>É... Graças ao Piccolo...<k><p>Mas... Eu não consegui fazer nada...<k>
+### 3629 [cf1/c14/c1408_02.sb:18] (x1)
+EN: <p>Piccolo's dead... That means the Dragon Balls are gone...<k><p>We can't wish anyone back to life now...<k>
+PT: <p>O Piccolo morreu... Isso quer dizer que as Esferas do Dragão sumiram...<k><p>Agora não dá mais pra reviver ninguém...<k>
+### 3630 [cf1/c14/c1408_02.sb:19] (x1)
+EN: <p>Those damn Saiyans... Let's all three of us teach them a lesson!<k><p>Now that Goku's here, we might just be able to take one of them down!<k>
+PT: <p>Malditos Saiyajins... Vamos nós três dar uma lição neles!<k><p>Agora que o Goku chegou, talvez dê pra derrubar um deles!<k>
+### 3631 [cf1/c14/c1408_02.sb:20] (x1)
+EN: <p>You trained with some really strong guy called King Kai, right?<k>
+PT: <p>Você treinou com um cara muito forte chamado Senhor Kaioh, né?<k>
+### 3632 [cf1/c14/c1408_02.sb:21] (x1)
+EN: <p>Yeah. But let me fight them alone.<k><p>You two step back and try not to get caught in the fight.<k>
+PT: <p>É. Mas deixa eu lutar com eles sozinho.<k><p>Vocês dois se afastem e tentem não ser pegos pela luta.<k>
+### 3633 [cf1/c14/c1408_02.sb:22] (x1)
+EN: <p>?! You're gonna fight them alone?!<k><p>Not even you could do it alone!<k><p>Those guys are way stronger than you imagine!<k>
+PT: <p>?! Vai lutar com eles sozinho?!<k><p>Nem você consegue sozinho!<k><p>Esses caras são muito mais fortes do que você imagina!<k>
+### 3634 [cf1/c14/c1408_02.sb:23] (x1)
+EN: <p>He's right! Dad!<k>
+PT: <p>Ele tem razão! Papai!<k>
+### 3635 [cf1/c14/c1408_02.sb:25] (x1)
+EN: <p>Let's do what he says, Gohan. Goku knows what he's doing.<k>
+PT: <p>Vamos fazer o que ele diz, Gohan. O Goku sabe o que está fazendo.<k>
+### 3636 [cf1/c14/c1408_02.sb:26] (x1)
+EN: <p>B-But!<k>
+PT: <p>M-mas!<k>
+### 3637 [cf1/c14/c1408_02.sb:27] (x1)
+EN: <p>Don't worry about it, let's just go!<k>
+PT: <p>Não se preocupe, vamos logo!<k>
+### 3638 [cf1/c14/c1408_02.sb:29] (x1)
+EN: <p>(I've never seen Goku so angry...<k><p>We'd never be able to come between him...)<k>
+PT: <p>(Nunca vi o Goku com tanta raiva...<k><p>Não dá pra gente se meter...)<k>
+### 3639 [cf1/c14/c1408_03.sb:10] (x1)
+EN: <p>Y-you little!<k>
+PT: <p>S-seu pirralho!<k>
+### 3640 [cf1/c14/c1408_03.sb:13] (x1)
+EN: <p>Your bark's a lot worse than your bite, isn't it?<k>
+PT: <p>Você late muito mais do que morde, né?<k>
+### 3641 [cf1/c14/c1408_03.sb:14] (x1)
+EN: <p>What...?! What did you say?!<k>
+PT: <p>O quê...?! O que você disse?!<k>
+### 3642 [cf1/c14/c1408_03.sb:17] (x1)
+EN: <p>How... how did he do that?<k>
+PT: <p>Como... como ele fez isso?<k>
+### 3643 [cf1/c14/c1408_03.sb:20] (x1)
+EN: <p>(This is so bizarre... His power level's nothing like it was when he fought Raditz!)<k>
+PT: <p>(Isso é muito estranho... O nível de poder dele não tem nada a ver com o de quando lutou com o Raditz!)<k>
+### 3644 [cf1/c14/c1408_03.sb:21] (x1)
+EN: <p>You think I'm all talk, huh?!<k>
+PT: <p>Acha que eu sou só conversa, é?!<k>
+### 3645 [cf1/c14/c1408_03.sb:22] (x1)
+EN: <p>Yep. I could tell from that last attack.<k>
+PT: <p>Aham. Deu pra ver naquele último ataque.<k>
+### 3646 [cf1/c14/c1408_03.sb:23] (x1)
+EN: <p>Heh... heh heh heh... You think you've got me all figured out, huh?!<k><p>I'd like to know how you managed that!<k>
+PT: <p>Heh... heh heh heh... Acha que já me entendeu todinho, é?!<k><p>Quero ver como você conseguiu isso!<k>
+### 3647 [cf1/c14/c1408_03.sb:25] (x1)
+EN: <p>This one's for Chiaotzu!<k>
+PT: <p>Esta é pelo Chaos!<k>
+### 3648 [cf1/c14/c1408_03.sb:27] (x1)
+EN: <p>This one's for Yamcha!<k>
+PT: <p>Esta é pelo Yamcha!<k>
+### 3649 [cf1/c14/c1408_03.sb:29] (x1)
+EN: <p>This one's for Tien!<k>
+PT: <p>Esta é pelo Tenshinhan!<k>
+### 3650 [cf1/c14/c1408_03.sb:31] (x1)
+EN: <p>And this one's for Piccolo!<k>
+PT: <p>E esta é pelo Piccolo!<k>
+### 3651 [cf1/c14/c1408_03.sb:40] (x1)
+EN: <p>What's with the face? I don't like that look...<k><p>Heh heh heh... You really wanna die that bad?<k>
+PT: <p>Que cara é essa? Não gosto desse olhar...<k><p>Heh heh heh... Quer tanto assim morrer?<k>
+### 3652 [cf1/c14/c1408_03.sb:41] (x1)
+EN: <p>You're gonna regret what you've done!!<k>
+PT: <p>Você vai se arrepender do que fez!!<k>
+### 3653 [cf1/c14/c1408_03.sb:44] (x1)
+EN: <p>Power level 7000... 8000! That can't be!<k>
+PT: <p>Nível de poder 7000... 8000! Não pode ser!<k>
+### 3654 [cf1/c14/c1408_03.sb:46] (x1)
+EN: <p>Vegeta, what's Kakarot's power level?<k>
+PT: <p>Vegeta, qual é o nível de poder do Kakarotto?<k>
+### 3655 [cf1/c14/c1408_03.sb:47] (x1)
+EN: <p>It's over 8000!<k>
+PT: <p>É mais de oito mil!<k>
+### 3656 [cf1/c14/c1408_03.sb:48] (x1)
+EN: <p>8000?! That can't be right! That thing must be broken!<k>
+PT: <p>8000?! Não pode ser! Essa coisa deve estar quebrada!<k>
+### 3657 [cf1/c14/c1408_03.sb:49] (x1)
+EN: <p>Don't worry. I won't use the Kaioken on you...<k>
+PT: <p>Pode ficar tranquilo. Não vou usar o Kaioken em você...<k>
+### 3658 [cf1/c14/c1408_03.sb:52] (x1)
+EN: <p>You're no match for someone like me!<k>
+PT: <p>Você não é páreo para alguém como eu!<k>
+### 3659 [cf1/c14/c1409_00.sb:10] (x1)
+EN: <p>Wow! I really have gotten better!<k>
+PT: <p>Uau! Eu melhorei mesmo!<k>
+### 3660 [cf1/c14/c1409_00.sb:13] (x1)
+EN: <p>Heh heh heh... better, you say?<k><p>I'm gonna shut that big mouth of yours for good! It's over, you!<k>
+PT: <p>Heh heh heh... melhorou, é?<k><p>Vou calar essa sua boca grande de vez! Acabou pra você!<k>
+### 3661 [cf1/c14/c1409_00.sb:17] (x1)
+EN: <p>Enough! You don't have what it takes to finish this! I'll take care of him!<k>
+PT: <p>Chega! Você não tem o que é preciso pra acabar com isso! Eu cuido dele!<k>
+### 3662 [cf1/c14/c1409_00.sb:19] (x1)
+EN: <p>How pathetic...<k><p>I never thought I'd even have to lift a finger against you, Kakarot...<k>
+PT: <p>Que patético...<k><p>Nunca pensei que teria de levantar um dedo contra você, Kakarotto...<k>
+### 3663 [cf1/c14/c1409_00.sb:23] (x1)
+EN: <p>He... he's finally serious...<k><p>Even that giant is a huge coward when faced with him...<k>
+PT: <p>Ele... ele finalmente ficou sério...<k><p>Até aquele gigante vira um covarde diante dele...<k>
+### 3664 [cf1/c14/c1409_00.sb:24] (x1)
+EN: <p>N-no... You were supposed to be nothing.<k><p>W-why did I need Vegeta to finish you off?<k><p>I've got my orders, so I'll leave the rest for Vegeta.<k><p>But don't think I'm gonna just leave without settling this...<k>
+PT: <p>N-não... Você devia ser um zé-ninguém.<k><p>P-por que eu precisei do Vegeta pra acabar com você?<k><p>Tenho as minhas ordens, então deixo o resto pro Vegeta.<k><p>Mas não pense que vou embora sem acertar as contas...<k>
+### 3665 [cf1/c14/c1409_00.sb:29] (x1)
+EN: <p>! Oh, no! I've got to save them!<k>
+PT: <p>! Ah, não! Tenho que salvar eles!<k>
+### 3666 [cf1/c14/c1409_00.sb:36] (x1)
+EN: <p>How could he?! This is impossible!<k>
+PT: <p>Como ele pôde?! Isto é impossível!<k>
+### 3667 [cf1/c14/c1409_00.sb:37] (x1)
+EN: <p>Impressive. You're pretty tough!<k>
+PT: <p>Impressionante. Você é bem resistente!<k>
+### 3668 [cf1/c14/c1409_00.sb:38] (x1)
+EN: <p>I'm an Elite Warrior of noble birth! I won't let some Low-Class Warrior like you make a fool out of me!!<k>
+PT: <p>Eu sou um guerreiro de elite, de sangue nobre! Não vou deixar um guerreiro de classe baixa como você me fazer de bobo!!<k>
+### 3669 [cf1/c14/c1409_00.sb:39] (x1)
+EN: <p>Wow! Goku's incredible! He might just win!<k>
+PT: <p>Uau! O Goku é incrível! Ele pode ganhar!<k>
+### 3670 [cf1/c14/c1409_00.sb:41] (x1)
+EN: <p>Nappa, you fool! Calm down!<k><p>He won't be able to beat you if you stay level headed!<k><p>Compose yourself!<k>
+PT: <p>Nappa, seu tolo! Acalme-se!<k><p>Ele não vai conseguir te vencer se você ficar de cabeça fria!<k><p>Controle-se!<k>
+### 3671 [cf1/c14/c1409_00.sb:42] (x1)
+EN: <p>......!<k><p>You're right! Thanks, Vegeta. You've opened my eyes...<k>
+PT: <p>......!<k><p>Você tem razão! Valeu, Vegeta. Você abriu os meus olhos...<k>
+### 3672 [cf1/c14/c1409_00.sb:43] (x1)
+EN: <p>(That simple minded fool! Looks like it'll be my turn soon at this rate...)<k>
+PT: <p>(Aquele tolo de mente simples! Desse jeito, logo vai ser a minha vez...)<k>
+### 3673 [cf1/c14/c1409_00.sb:44] (x1)
+EN: <p>I admit I lost it for a minute there...<k><p>But now it's time for the real show to start... You ready, Kakarot?<k>
+PT: <p>Admito que perdi a cabeça por um minuto...<k><p>Mas agora é hora do show de verdade começar... Pronto, Kakarotto?<k>
+### 3674 [cf1/c14/c1409_00.sb:45] (x1)
+EN: <p>Finally... That's what I've been waiting for.<k>
+PT: <p>Finalmente... Era o que eu estava esperando.<k>
+### 3675 [cf1/c14/c1409_00.sb:46] (x1)
+EN: <p>Heh heh. You think you're so tough?<k>
+PT: <p>Heh heh. Acha que é tão durão assim?<k>
+### 3676 [cf1/c14/c1409_00.sb:48] (x1)
+EN: <p>(He doesn't just think he is. He knows it.)<k>
+PT: <p>(Ele não só acha. Ele sabe.)<k>
+### 3677 [cf1/c14/c1409_00.sb:50] (x1)
+EN: <p>Hahhhhh!!<k>
+PT: <p>Rááááá!!<k>
+### 3678 [cf1/c14/c1410_00.sb:10] (x1)
+EN: <p>He probably won't be able to fight anymore. Leave Earth now, and take him with you!<k>
+PT: <p>Ele provavelmente não vai mais conseguir lutar. Saia da Terra agora e leve ele junto!<k>
+### 3679 [cf1/c14/c1410_00.sb:14] (x1)
+EN: <p>V-Vegeta... Help me!<k>
+PT: <p>V-Vegeta... Me ajude!<k>
+### 3680 [cf1/c14/c1410_00.sb:18] (x1)
+EN: <p>Thanks... Vegeta...<k>
+PT: <p>Obrigado... Vegeta...<k>
+### 3681 [cf1/c14/c1410_00.sb:19] (x1)
+EN: <p>Don't bother thanking me...<k>
+PT: <p>Não precisa me agradecer...<k>
+### 3682 [cf1/c14/c1410_00.sb:21] (x1)
+EN: <p>Aaaaah! Wh-Why?!?!<k><p>Vegeta! Vegetaaaaa!<k>
+PT: <p>Aaaaah! P-por quê?!?!<k><p>Vegeta! Vegetaaaaa!<k>
+### 3683 [cf1/c14/c1410_00.sb:22] (x1)
+EN: <p>I've no need for a useless Saiyan! DIE!!!<k>
+PT: <p>Não preciso de um Saiyajin inútil! MORRA!!!<k>
+### 3684 [cf1/c14/c1410_00.sb:23] (x1)
+EN: <p>(What a monster!)<k>
+PT: <p>(Que monstro!)<k>
+### 3685 [cf1/c14/c1410_04.sb:13] (x1)
+EN: <p>His Ki is incredible...<k><p>Greater than any enemy I've ever faced...<k>
+PT: <p>O Ki dele é incrível...<k><p>Maior que o de qualquer inimigo que já enfrentei...<k>
+### 3686 [cf1/c15/c1501_00.sb:9] (x1)
+EN: <p>Wh-What a monster...<k><p>He killed his own ally...<k>
+PT: <p>Q-que monstro...<k><p>Ele matou o próprio aliado...<k>
+### 3687 [cf1/c15/c1501_00.sb:11] (x1)
+EN: <p>Go back to the Kame House now, you two!<k>
+PT: <p>Voltem pra Casa do Kame agora, vocês dois!<k>
+### 3688 [cf1/c15/c1501_00.sb:14] (x1)
+EN: <p>.........You're right...<k>
+PT: <p>.........Você tem razão...<k>
+### 3689 [cf1/c15/c1501_00.sb:15] (x1)
+EN: <p>Gohan! You heard him! Let's get outta here!<k>
+PT: <p>Gohan! Você ouviu! Vamos sair daqui!<k>
+### 3690 [cf1/c15/c1501_00.sb:16] (x1)
+EN: <p>Huh? But...<k>
+PT: <p>Hã? Mas...<k>
+### 3691 [cf1/c15/c1501_00.sb:17] (x1)
+EN: <p>That Saiyan is beyond us!<k><p>There's nothing we could do if we stayed!<k><p>We'd only be in Goku's way!<k>
+PT: <p>Esse Saiyajin está muito acima da gente!<k><p>Se ficarmos, não vamos poder fazer nada!<k><p>Só vamos atrapalhar o Goku!<k>
+### 3692 [cf1/c15/c1501_00.sb:18] (x1)
+EN: <p>Sorry. He's much stronger than I thought.<k>
+PT: <p>Desculpa. Ele é muito mais forte do que eu pensava.<k>
+### 3693 [cf1/c15/c1501_00.sb:19] (x1)
+EN: <p>OK... I understand.<k>
+PT: <p>Tá... Eu entendo.<k>
+### 3694 [cf1/c15/c1501_00.sb:20] (x1)
+EN: <p>Oh yeah, Goku! Could you take the battle to somewhere a little farther away from here?<k>
+PT: <p>Ah, é, Goku! Dá pra levar a luta pra um lugar um pouco mais longe daqui?<k>
+### 3695 [cf1/c15/c1501_00.sb:22] (x1)
+EN: <p>We don't want everyone's bodies to get blown to pieces before we wish them back...<k>
+PT: <p>Não queremos que os corpos de todo mundo virem pedacinhos antes de revivermos eles...<k>
+### 3696 [cf1/c15/c1501_00.sb:23] (x1)
+EN: <p>What do you mean <d>wish them back<d>?<k><p>Piccolo and Kami are dead. The Dragon Balls are gone forever.<k><p>There's no way to bring them back now.<k>
+PT: <p>Como assim, <d>revivermos eles<d>?<k><p>O Piccolo e o Kami-Sama morreram. As Esferas do Dragão sumiram para sempre.<k><p>Agora não há como trazê-los de volta.<k>
+### 3697 [cf1/c15/c1501_00.sb:24] (x1)
+EN: <p>......!<k><p>Krillin... Are you thinking maybe...?<k>
+PT: <p>......!<k><p>Kuririn... Você está pensando que talvez...?<k>
+### 3698 [cf1/c15/c1501_00.sb:26] (x1)
+EN: <p>I'll fill you in on the details later!<k><p>If you beat him, that is...<k>
+PT: <p>Depois eu conto os detalhes!<k><p>Isso se você vencer ele...<k>
+### 3699 [cf1/c15/c1501_00.sb:27] (x1)
+EN: <p>Yeah, if I beat him...<k><p>I gotta beat him. No matter what it takes.<k>
+PT: <p>É, se eu vencer ele...<k><p>Tenho que vencer. Custe o que custar.<k>
+### 3700 [cf1/c15/c1501_01.sb:13] (x1)
+EN: <p>You...<k>
+PT: <p>Você...<k>
+### 3701 [cf1/c15/c1501_01.sb:16] (x1)
+EN: <p>What are you waiting around for? Lost your will to fight?<k><p>Did you get scared and decide to start planning your escape?<k>
+PT: <p>O que está esperando? Perdeu a vontade de lutar?<k><p>Ficou com medo e resolveu planejar a sua fuga?<k>
+### 3702 [cf1/c15/c1501_01.sb:17] (x1)
+EN: <p>Well, time to try my luck.<k><p>Leave it to me.<k>
+PT: <p>Bom, hora de tentar a sorte.<k><p>Deixem comigo.<k>
+### 3703 [cf1/c15/c1501_01.sb:18] (x1)
+EN: <p>Goku... Sorry to always have to put our fate into your hands...<k><p>Just don't die on us. You're my best friend!<k>
+PT: <p>Goku... Desculpa sempre deixar o nosso destino nas suas mãos...<k><p>Só não vá morrer. Você é o meu melhor amigo!<k>
+### 3704 [cf1/c15/c1501_01.sb:19] (x1)
+EN: <p>I won't!<k>
+PT: <p>Não vou!<k>
+### 3705 [cf1/c15/c1501_01.sb:20] (x1)
+EN: <p>Gohan. If I make it back alive, let's go fishing again sometime, OK?<k>
+PT: <p>Gohan. Se eu voltar vivo, vamos pescar de novo um dia desses, tá?<k>
+### 3706 [cf1/c15/c1501_01.sb:24] (x1)
+EN: <p>Looks like you've realized it's pointless to run.<k>
+PT: <p>Parece que percebeu que não adianta fugir.<k>
+### 3707 [cf1/c15/c1501_01.sb:25] (x1)
+EN: <p>Let's change the scenery.<k>
+PT: <p>Vamos mudar de cenário.<k>
+### 3708 [cf1/c15/c1501_01.sb:26] (x1)
+EN: <p>Whatever you want. It won't change anything.<k>
+PT: <p>Como quiser. Não vai mudar nada.<k>
+### 3709 [cf1/c15/c1501_02.sb:10] (x1)
+EN: <p>What's wrong, Kakarot?! You can do better than that!<k><p>This isn't the Kakarot who defeated Nappa!<k><p>Come on! Show me what you got!<k>
+PT: <p>O que foi, Kakarotto?! Você consegue fazer melhor que isso!<k><p>Esse não é o Kakarotto que derrotou o Nappa!<k><p>Vamos! Mostre do que é capaz!<k>
+### 3710 [cf1/c15/c1501_02.sb:13] (x1)
+EN: <p>He wasn't kidding...<k><p>He hasn't even started seriously fighting yet...<k><p>And I'm already outclassed in both speed and skill.<k>
+PT: <p>Ele não estava brincando...<k><p>Ele nem começou a lutar a sério ainda...<k><p>E já me supera em velocidade e em técnica.<k>
+### 3711 [cf1/c15/c1501_02.sb:15] (x1)
+EN: <p>(I can't believe this guy!)<k>
+PT: <p>(Não acredito nesse cara!)<k>
+### 3712 [cf1/c15/c1501_02.sb:16] (x1)
+EN: <p>(But still... This is making me so excited! I don't care how dangerous it is!)<k>
+PT: <p>(Mas mesmo assim... Isso está me deixando tão empolgado! Não ligo pro perigo!)<k>
+### 3713 [cf1/c15/c1501_02.sb:17] (x1)
+EN: <p>You're smiling... Have you given up the fight?!<k><p>Or do you still have it in you to fight even harder?!<k>
+PT: <p>Você está sorrindo... Desistiu da luta?!<k><p>Ou ainda tem forças pra lutar mais pesado?!<k>
+### 3714 [cf1/c15/c1501_02.sb:19] (x1)
+EN: <p>I guess that's all you've got...<k><p>Well, here's a little present for you before you die...<k><p>The full, overwhelming power of an elite Saiyan warrior!<k>
+PT: <p>Acho que isso é tudo o que você tem...<k><p>Bem, aqui vai um presentinho antes de você morrer...<k><p>O poder total e esmagador de um guerreiro Saiyajin de elite!<k>
+### 3715 [cf1/c15/c1501_02.sb:20] (x1)
+EN: <p>Show me!<k>
+PT: <p>Mostre!<k>
+### 3716 [cf1/c15/c1501_02.sb:21] (x1)
+EN: <p>Heh heh heh...<k><p>I'll wipe that grin off your face!<k>
+PT: <p>Heh heh heh...<k><p>Vou tirar esse sorriso da sua cara!<k>
+### 3717 [cf1/c15/c1501_02.sb:24] (x1)
+EN: <p>N-no!<k><p>His... his power level's greater than mine!<k>
+PT: <p>N-não!<k><p>O... o nível de poder dele é maior que o meu!<k>
+### 3718 [cf1/c15/c1501_02.sb:25] (x1)
+EN: <p>Nngh... man... he's tough...<k>
+PT: <p>Nngh... nossa... ele é duro...<k>
+### 3719 [cf1/c15/c1501_02.sb:26] (x1)
+EN: <p>I... I can't believe this is happening!<k><p>I am an elite warrior! There's no way a lower-class Saiyan could defeat me!<k>
+PT: <p>N-não acredito que isso está acontecendo!<k><p>Eu sou um guerreiro de elite! Não tem como um Saiyajin de classe baixa me derrotar!<k>
+### 3720 [cf1/c15/c1501_02.sb:27] (x1)
+EN: <p>(I am the greatest fighter in the universe!)<k>
+PT: <p>(Eu sou o maior guerreiro do universo!)<k>
+### 3721 [cf1/c15/c1501_02.sb:35] (x1)
+EN: <p>Heh heh... You should be honored.<k><p>Not many low-class warriors like you get to lock horns with a super elite...<k>
+PT: <p>Heh heh... Você devia se sentir honrado.<k><p>Não é todo guerreiro de classe baixa como você que tem a chance de enfrentar um superelite...<k>
+### 3722 [cf1/c15/c1501_02.sb:36] (x1)
+EN: <p>Saiyans are tested at birth on their potential as warriors.<k><p>Those whose tests reveals a low value like you will be sent to planets of weak resistance.<k><p>In other words, you're the bottom of the barrel.<k>
+PT: <p>Os Saiyajins são testados ao nascer quanto ao potencial como guerreiros.<k><p>Quem tem um resultado baixo como o seu é mandado para planetas de pouca resistência.<k><p>Em outras palavras, você é o fundo do poço.<k>
+### 3723 [cf1/c15/c1501_02.sb:37] (x1)
+EN: <p>Thanks to that I was sent to Earth. I should be grateful.<k><p>But who knows, with enough hard work, even a low-class warrior might surpass a super elite.<k>
+PT: <p>Graças a isso, fui mandado pra Terra. Eu devia agradecer.<k><p>Mas quem sabe, com bastante esforço, até um guerreiro de classe baixa pode superar um superelite.<k>
+### 3724 [cf1/c15/c1501_02.sb:38] (x1)
+EN: <p>Heh. That's a laugh.<k><p>Now how about I show you the wall that no amount of hard work could ever overcome?<k>
+PT: <p>Heh. Essa é boa.<k><p>Que tal eu te mostrar a muralha que nenhum esforço jamais vai superar?<k>
+### 3725 [cf1/c15/c1501_99.sb:10] (x1)
+EN: <p>Hello! Good to see you all!<k>
+PT: <p>Olá! Que bom ver vocês!<k>
+### 3726 [cf1/c15/c1501_99.sb:13] (x1)
+EN: <p>...Mr. Popo... I'm sorry I wasn't able to save Piccolo...<k>
+PT: <p>...Sr. Popo... Desculpe não ter conseguido salvar o Piccolo...<k>
+### 3727 [cf1/c15/c1501_99.sb:14] (x1)
+EN: <p>I know...<k><p>But it is fate that Kami is gone. Kami knew this the best.<k>
+PT: <p>Eu sei...<k><p>Mas era o destino que o Kami-Sama partisse. O Kami-Sama sabia disso melhor que ninguém.<k>
+### 3728 [cf1/c15/c1501_99.sb:18] (x1)
+EN: <p>...But good had been born in Piccolo's heart. Kami was pleased.<k>
+PT: <p>...Mas o bem tinha nascido no coração do Piccolo. O Kami-Sama ficou contente.<k>
+### 3729 [cf1/c15/c1501_99.sb:19] (x1)
+EN: <p>What's wrong? Everyone seems sad.<k>
+PT: <p>O que foi? Todos parecem tristes.<k>
+### 3730 [cf1/c15/c1501_99.sb:22] (x1)
+EN: <p>Of course we're sad! Kami's gone... Aren't you sad, Mr. Popo?<k>
+PT: <p>Claro que estamos tristes! O Kami-Sama se foi... O senhor não está triste, Sr. Popo?<k>
+### 3731 [cf1/c15/c1501_99.sb:23] (x1)
+EN: <p>I've learned a lot from Kami here.<k><p>Kami wouldn't want me to mope around.<k><p>You should try looking ahead too.<k>
+PT: <p>Aprendi muito com o Kami-Sama aqui.<k><p>O Kami-Sama não ia querer me ver deprimido.<k><p>Vocês também deviam olhar pra frente.<k>
+### 3732 [cf1/c15/c1501_99.sb:24] (x1)
+EN: <p>...Mr. Popo...<k>
+PT: <p>...Sr. Popo...<k>
+### 3733 [cf1/c15/c1501_99.sb:25] (x1)
+EN: <p>Anyway, I called you all here for a reason!<k>
+PT: <p>Enfim, chamei todos vocês aqui por um motivo!<k>
+### 3734 [cf1/c15/c1501_99.sb:26] (x1)
+EN: <p>Oh yeah! What is it, Mr. Popo?<k>
+PT: <p>Ah, é! O que foi, Sr. Popo?<k>
+### 3735 [cf1/c15/c1501_99.sb:27] (x1)
+EN: <p>The Dragon Balls disappeared with Kami.<k><p>But I always watched him when he made them.<k><p>That's why I tried to copy him and make my own...<k><p>But they aren't as good as Kami's.<k><p>The wish that can be granted is limited...<k>
+PT: <p>As Esferas do Dragão desapareceram com o Kami-Sama.<k><p>Mas eu sempre o observava quando ele as fazia.<k><p>Por isso tentei imitá-lo e fazer as minhas...<k><p>Mas elas não são tão boas quanto as do Kami-Sama.<k><p>O desejo que elas realizam é limitado...<k>
+### 3736 [cf1/c15/c1501_99.sb:28] (x1)
+EN: <p>So you mean, there are new Dragon Balls?!<k>
+PT: <p>Então quer dizer que existem novas Esferas do Dragão?!<k>
+### 3737 [cf1/c15/c1501_99.sb:29] (x1)
+EN: <p>They're different from the ones that Kami made.<k><p>Truthfully, they aren't real Dragon Balls...<k><p>But they could be useful...<k>
+PT: <p>São diferentes das que o Kami-Sama fez.<k><p>Na verdade, não são Esferas do Dragão de verdade...<k><p>Mas podem ser úteis...<k>
+### 3738 [cf1/c15/c1501_99.sb:30] (x1)
+EN: <p>Really?? Great job, Mr. Popo!<k>
+PT: <p>Sério?? Mandou bem, Sr. Popo!<k>
+### 3739 [cf1/c15/c1501_99.sb:31] (x1)
+EN: <p>The dragon radar should be able to show you their location.<k><p>Go and find them together! They should be of some use...<k>
+PT: <p>O Radar do Dragão deve mostrar onde elas estão.<k><p>Vão procurá-las juntos! Devem servir pra alguma coisa...<k>
+### 3740 [cf1/c15/c1501_99.sb:32] (x1)
+EN: <p>All right! Let's get going!<k><p>Thanks, Mr. Popo!<k>
+PT: <p>Beleza! Vamos lá!<k><p>Valeu, Sr. Popo!<k>
+### 3741 [cf1/c15/c1501_99.sb:33] (x1)
+EN: <p>One more thing!<k>
+PT: <p>Mais uma coisa!<k>
+### 3742 [cf1/c15/c1501_99.sb:35] (x1)
+EN: <p>Baba told me she wanted to see you!<k>
+PT: <p>A Vovó Uranai disse que queria ver vocês!<k>
+### 3743 [cf1/c15/c1501_99.sb:36] (x1)
+EN: <p>...Baba? Why?<k>
+PT: <p>...A Vovó Uranai? Por quê?<k>
+### 3744 [cf1/c15/c1501_99.sb:37] (x1)
+EN: <p>I don't know...<k><p>Go and see her if you want to find out.<k>
+PT: <p>Não sei...<k><p>Vão falar com ela se quiserem descobrir.<k>
+### 3745 [cf1/c15/c1502_00.sb:10] (x1)
+EN: <p>Nooooo!! How...?!<k><p>How could Kakarot's power be stronger than mine... I'm a Super Elite...<k>
+PT: <p>Nãããão!! Como...?!<k><p>Como o poder do Kakarotto pode ser maior que o meu... Eu sou um superelite...<k>
+### 3746 [cf1/c15/c1502_00.sb:11] (x1)
+EN: <p>That low-class weakling!!!<k><p>I'm number one! I'm the strongest Saiyan there is!!!<k>
+PT: <p>Aquele fracote de classe baixa!!!<k><p>Eu sou o número um! Sou o Saiyajin mais forte que existe!!!<k>
+### 3747 [cf1/c15/c1502_00.sb:12] (x1)
+EN: <p>The only one thing left is to change into a Great Ape and crush him!<k><p>Heh heh heh... He will soon know the horror of my transformation!<k>
+PT: <p>Só me resta virar Oozaru e esmagá-lo!<k><p>Heh heh heh... Logo ele vai conhecer o horror da minha transformação!<k>
+### 3748 [cf1/c15/c1502_00.sb:13] (x1)
+EN: <p>That rat!<k><p>We came here on the day of a full moon in order to make fast work of this planet...<k><p>...But I never thought I'd have to transform to beat him!<k><p>What an embarrassment...!<k>
+PT: <p>Aquele rato!<k><p>Viemos num dia de lua cheia justamente para acabar logo com este planeta...<k><p>...Mas nunca pensei que teria que me transformar pra vencê-lo!<k><p>Que vergonha...!<k>
+### 3749 [cf1/c15/c1502_00.sb:14] (x1)
+EN: <p>? That's strange...<k><p>The moon should be out by now...<k>
+PT: <p>? Que estranho...<k><p>A lua já devia ter aparecido...<k>
+### 3750 [cf1/c15/c1502_00.sb:15] (x1)
+EN: <p>Of course! I can't believe it.<k><p>He's done it this time!<k><p>That Kakarot actually destroyed the moon!<k>
+PT: <p>Mas é claro! Não acredito.<k><p>Desta vez ele se superou!<k><p>Aquele Kakarotto destruiu a lua!<k>
+### 3751 [cf1/c15/c1502_00.sb:16] (x1)
+EN: <p>......<k><p>My ki will drop slightly but there's no choice now...<k>
+PT: <p>......<k><p>O meu Ki vai cair um pouco, mas agora não tem jeito...<k>
+### 3752 [cf1/c15/c1502_00.sb:17] (x1)
+EN: <p>I can't wait to see the look on his face! Wah hah hah hah hah!<k>
+PT: <p>Mal posso esperar pra ver a cara dele! Uá rá rá rá rá!<k>
+### 3753 [cf1/c15/c1502_00.sb:21] (x1)
+EN: <p>(Looks like I'll have to use the Spirit Bomb to win... I hope I have time to concentrate...!)<k>
+PT: <p>(Parece que vou ter que usar a Genki Dama pra vencer... Tomara que dê tempo de me concentrar...!)<k>
+### 3754 [cf1/c15/c1502_00.sb:22] (x1)
+EN: <p>You probably think you're pretty smart for destroying the moon, but don't think you've won just yet!<k>
+PT: <p>Você deve se achar muito esperto por ter destruído a lua, mas não pense que já ganhou!<k>
+### 3755 [cf1/c15/c1502_00.sb:23] (x1)
+EN: <p>The moon?! What are you talking about?<k>
+PT: <p>A lua?! Do que você está falando?<k>
+### 3756 [cf1/c15/c1502_00.sb:24] (x1)
+EN: <p>Heh heh heh... Don't play dumb with me.<k><p>Do you wanna know why we transform when we see a full moon?<k>
+PT: <p>Heh heh heh... Não se faça de bobo.<k><p>Quer saber por que nos transformamos quando vemos a lua cheia?<k>
+### 3757 [cf1/c15/c1502_00.sb:25] (x1)
+EN: <p>Transform...?<k>
+PT: <p>Transformar...?<k>
+### 3758 [cf1/c15/c1502_00.sb:26] (x1)
+EN: <p>Everyone knows that moon light is just reflected sun light...<k><p>But only when that sun light hits the moon does it create Blutz waves.<k><p>During a full moon, those Blutz waves exceed 17 million zenos.<k>
+PT: <p>Todo mundo sabe que a luz da lua é só a luz do sol refletida...<k><p>Mas só quando a luz do sol bate na lua é que ela cria as ondas Blutz.<k><p>Na lua cheia, essas ondas Blutz passam de 17 milhões de zenos.<k>
+### 3759 [cf1/c15/c1502_00.sb:27] (x1)
+EN: <p>Absorbing Blutz waves through the eyes at over 17 million zenos causes the tail to react and the transformation to begin!<k><p>There are many moons of different sizes in the universe, yet no matter what the size, only a full moon reaches the required 17 million.<k>
+PT: <p>Absorver pelos olhos ondas Blutz acima de 17 milhões de zenos faz a cauda reagir e a transformação começar!<k><p>Há muitas luas de tamanhos diferentes no universo, mas, seja qual for o tamanho, só a lua cheia chega aos 17 milhões necessários.<k>
+### 3760 [cf1/c15/c1502_00.sb:29] (x1)
+EN: <p>However... Certain Saiyans have the power to create their own small full moons that emit the required 17 million zenos!<k><p>By combining the oxygen in the air with this power ball!<k>
+PT: <p>Porém... Certos Saiyajins têm o poder de criar a sua própria pequena lua cheia, que emite os 17 milhões de zenos necessários!<k><p>Combinando o oxigênio do ar com esta esfera de energia!<k>
+### 3761 [cf1/c15/c1502_00.sb:30] (x1)
+EN: <p>Sorry to keep you waiting, Kakarot! At last, it's time for you to die!<k><p>You'll soon regret ever trying to go up against a Super Elite!<k><p>Hah hah hah...<k>
+PT: <p>Desculpe a espera, Kakarotto! Finalmente chegou a hora da sua morte!<k><p>Logo vai se arrepender de ter enfrentado um superelite!<k><p>Rá rá rá...<k>
+### 3762 [cf1/c15/c1502_00.sb:31] (x1)
+EN: <p>The second he created that weird light his ki dropped!<k><p>Why would he use up so much energy? I don't understand!<k>
+PT: <p>Assim que ele criou aquela luz estranha, o Ki dele caiu!<k><p>Por que ele gastaria tanta energia? Não entendo!<k>
+### 3763 [cf1/c15/c1502_00.sb:34] (x1)
+EN: <p>Explode and blend!!<k>
+PT: <p>Exploda e misture-se!!<k>
+### 3764 [cf1/c15/c1502_00.sb:36] (x1)
+EN: <p>What is this? What's did he do?!<k>
+PT: <p>O que é isso? O que ele fez?!<k>
+### 3765 [cf1/c15/c1502_00.sb:37] (x1)
+EN: <p>You'll be sorry you lost your tail, Kakarot!<k>
+PT: <p>Você vai se arrepender de ter perdido a cauda, Kakarotto!<k>
+### 3766 [cf1/c15/c1502_01.sb:9] (x1)
+EN: <p>The Kame House is just a little further. Hang in there, Gohan!<k>
+PT: <p>A Casa do Kame está logo ali. Aguenta firme, Gohan!<k>
+### 3767 [cf1/c15/c1502_01.sb:12] (x1)
+EN: Krillin & Gohan
+PT: Kuririn e Gohan
+### 3768 [cf1/c15/c1502_01.sb:14] (x1)
+EN: <p>What the?! I sense a huge Ki... And it's getting bigger...<k>
+PT: <p>Mas o quê?! Estou sentindo um Ki enorme... E está aumentando...<k>
+### 3769 [cf1/c15/c1502_01.sb:15] (x1)
+EN: <p>It's not my dad this time... is it?<k>
+PT: <p>Desta vez não é o meu pai... é?<k>
+### 3770 [cf1/c15/c1502_01.sb:16] (x1)
+EN: <p>No... This bad feeling I get must be that Saiyan!<k><p>It's so powerful... What's going on?!<k>
+PT: <p>Não... Essa sensação ruim deve ser daquele Saiyajin!<k><p>É tão poderoso... O que está acontecendo?!<k>
+### 3771 [cf1/c15/c1502_01.sb:17] (x1)
+EN: <p>......! Dad...<k>
+PT: <p>......! Papai...<k>
+### 3772 [cf1/c15/c1502_01.sb:18] (x1)
+EN: <p>I'm... going back...!<k>
+PT: <p>Eu... vou voltar...!<k>
+### 3773 [cf1/c15/c1502_01.sb:19] (x1)
+EN: <p>Huh?! You mean back to where Goku is?!<k>
+PT: <p>Hã?! Quer dizer, voltar pra onde o Goku está?!<k>
+### 3774 [cf1/c15/c1502_01.sb:20] (x1)
+EN: <p>He's in trouble...<k><p>I can feel it... If I don't go back he's gonna die!<k>
+PT: <p>Ele está em apuros...<k><p>Eu sinto... Se eu não voltar, ele vai morrer!<k>
+### 3775 [cf1/c15/c1502_01.sb:21] (x1)
+EN: <p>But that guy's so strong, there's nothing we could do...<k>
+PT: <p>Mas aquele cara é tão forte, a gente não ia poder fazer nada...<k>
+### 3776 [cf1/c15/c1502_01.sb:22] (x1)
+EN: <p>I... I know... But I have to go.<k>
+PT: <p>Eu... eu sei... Mas eu tenho que ir.<k>
+### 3777 [cf1/c15/c1502_01.sb:23] (x1)
+EN: <p>Wait, Gohan! I'll go with you!<k>
+PT: <p>Espera, Gohan! Eu vou com você!<k>
+### 3778 [cf1/c15/c1502_02.sb:9] (x1)
+EN: <p>Hah hah hah! How do you like that, huh?! You can't even run from me!<k>
+PT: <p>Rá rá rá! Que tal essa, hein?! Você nem consegue fugir de mim!<k>
+### 3779 [cf1/c15/c1502_02.sb:12] (x1)
+EN: <p>Y-you're so huge... How can you be so fast?!<k>
+PT: <p>V-você é tão grande... Como pode ser tão rápido?!<k>
+### 3780 [cf1/c15/c1502_02.sb:14] (x1)
+EN: <p>Heh... you're pretty obstinate.<k><p>But you're just about at your limit. I can tell.<k>
+PT: <p>Heh... Você é bem teimoso.<k><p>Mas está quase no seu limite. Dá pra ver.<k>
+### 3781 [cf1/c15/c1502_02.sb:15] (x1)
+EN: <p>Great... Now what?<k>
+PT: <p>Que ótimo... E agora?<k>
+### 3782 [cf1/c15/c1502_02.sb:16] (x1)
+EN: <p>However, it's time to end this, Kakarot!<k><p>Even if you could be resurrected, your planet will be history by then!<k>
+PT: <p>Mas está na hora de acabar com isso, Kakarotto!<k><p>Mesmo que você possa ser ressuscitado, o seu planeta já vai ser história até lá!<k>
+### 3783 [cf1/c15/c1502_02.sb:22] (x1)
+EN: <p>No... No...! This can't be!<k>
+PT: <p>Não... Não...! Não pode ser!<k>
+### 3784 [cf1/c15/c1502_02.sb:23] (x1)
+EN: <p>Gwah hah hah hah! Now what do you plan on doing, Kakarot??<k><p>You're finished!<k>
+PT: <p>Uá rá rá rá! E agora, o que pretende fazer, Kakarotto??<k><p>Você está acabado!<k>
+### 3785 [cf1/c15/c1502_02.sb:24] (x1)
+EN: <p>How could this be happening?!?!<k>
+PT: <p>Como isso pode estar acontecendo?!?!<k>
+### 3786 [cf1/c15/c1502_02.sb:25] (x1)
+EN: <p>He's... a monster...! A giant ape...!<k>
+PT: <p>Ele é... um monstro...! Um macaco gigante...!<k>
+### 3787 [cf1/c15/c1502_02.sb:26] (x1)
+EN: <p>I'll let you in on a little something...<k><p>When a Saiyan becomes a Great Ape, his power is increased ten fold!<k>
+PT: <p>Vou te contar um segredinho...<k><p>Quando um Saiyajin vira Oozaru, o poder dele fica dez vezes maior!<k>
+### 3788 [cf1/c15/c1502_02.sb:27] (x1)
+EN: <p>I see... Now I understand...<k><p>I can't believe it... It was me who killed Grandpa Gohan...<k><p>The monster that appeared and destroyed the fighting venue... It was me...!<k>
+PT: <p>Entendi... Agora eu entendi...<k><p>Não acredito... Fui eu que matei o Vovô Gohan...<k><p>O monstro que apareceu e destruiu a arena do torneio... Era eu...!<k>
+### 3789 [cf1/c15/c1502_02.sb:29] (x1)
+EN: <p>(Forgive me, Grandpa Gohan... This guy is way too strong.<k><p>I might have to use up all my ki to beat him...<k><p>If I die, I promise to visit you, Grandpa, and apologize...)<k>
+PT: <p>(Me perdoe, Vovô Gohan... Esse cara é forte demais.<k><p>Talvez eu tenha que gastar todo o meu Ki pra vencer...<k><p>Se eu morrer, prometo te visitar, vovô, e pedir desculpas...)<k>
+### 3790 [cf1/c15/c1502_02.sb:34] (x1)
+EN: <p>Wh-What's going on here...?!<k><p>Where did that monster come from?! It's... totally not of this world...<k><p>That armor it's wearing... Is it that Saiyan?!<k>
+PT: <p>O-o que está acontecendo aqui...?!<k><p>De onde saiu esse monstro?! Ele não é... deste mundo...<k><p>Essa armadura que ele usa... É aquele Saiyajin?!<k>
+### 3791 [cf1/c15/c1502_02.sb:35] (x1)
+EN: <p>How about I give you a taste of the Earth's Spirit Bomb!<k>
+PT: <p>Que tal provar a Genki Dama da Terra!<k>
+### 3792 [cf1/c15/c1503_00.sb:10] (x1)
+EN: <p>Just great... He's got me... totally beat...<k><p>I didn't think he'd be this strong...<k><p>It was exciting fighting someone so strong...<k><p>But... I hate... having to... die again...<k>
+PT: <p>Que ótimo... Ele me... derrotou de vez...<k><p>Não achei que ele fosse tão forte...<k><p>Foi empolgante lutar com alguém tão forte...<k><p>Mas... eu odeio... ter que... morrer de novo...<k>
+### 3793 [cf1/c15/c1503_00.sb:12] (x1)
+EN: <p>DIE!!!!!<k>
+PT: <p>MORRA!!!!!<k>
+### 3794 [cf1/c15/c1503_00.sb:17] (x1)
+EN: <p>Uwaaghhhh!<k>
+PT: <p>Uaaarghhhh!<k>
+### 3795 [cf1/c15/c1503_00.sb:18] (x1)
+EN: <p>Heh heh... That was... My last bit of strength...<k>
+PT: <p>Heh heh... Essa foi... a minha última gota de força...<k>
+### 3796 [cf1/c15/c1503_00.sb:19] (x1)
+EN: <p>N-Now I don't have enough strength to even... pick my nose...<k><p>Go ahead and finish me off...<k>
+PT: <p>A-agora não tenho força nem pra... coçar o nariz...<k><p>Pode acabar comigo...<k>
+### 3797 [cf1/c15/c1503_00.sb:20] (x1)
+EN: <p>Ugh... gh...! Why you little...! Kakarot!<k><p>Look what you've done to my face! I'm going to crush you like an egg!<k>
+PT: <p>Argh... gh...! Seu...! Kakarotto!<k><p>Veja o que fez com o meu rosto! Vou te esmagar como um ovo!<k>
+### 3798 [cf1/c15/c1503_00.sb:22] (x1)
+EN: <p>Gyaaahhh!!<k>
+PT: <p>Aaaaahhh!!<k>
+### 3799 [cf1/c15/c1503_00.sb:25] (x1)
+EN: <p>Eeeek! Th-This is bad...<k><p>There's... nothing I can do! He's as good as dead...<k><p>It's not that I won't help, it's just...<k><p>There's nothing I could do... Don't hate me, Goku...<k>
+PT: <p>Aiii! I-isso é ruim...<k><p>Não tem... nada que eu possa fazer! Ele já era...<k><p>Não é que eu não queira ajudar, é só que...<k><p>Não tem nada que eu possa fazer... Não me odeie, Goku...<k>
+### 3800 [cf1/c15/c1503_00.sb:26] (x1)
+EN: <p>Hah hah hah! Suffer and die!<k>
+PT: <p>Rá rá rá! Sofra e morra!<k>
+### 3801 [cf1/c15/c1503_00.sb:27] (x1)
+EN: <p>Uuaaagghhhh!!<k>
+PT: <p>Uuaaarghhhh!!<k>
+### 3802 [cf1/c15/c1503_01.sb:10] (x1)
+EN: <p>Goku's in trouble! This isn't good!<k>
+PT: <p>O Goku está em apuros! Isso é ruim!<k>
+### 3803 [cf1/c15/c1503_01.sb:14] (x1)
+EN: <p>Wah!<k>
+PT: <p>Uá!<k>
+### 3804 [cf1/c15/c1503_01.sb:16] (x1)
+EN: <p>Hey! Who do you think that monster is?! It's the Saiyan!<k>
+PT: <p>Ei! Quem vocês acham que é aquele monstro?! É o Saiyajin!<k>
+### 3805 [cf1/c15/c1503_01.sb:17] (x1)
+EN: <p>I know! If someone can cut off his tail, he'll return to normal!<k>
+PT: <p>Eu sei! Se alguém cortar a cauda dele, ele volta ao normal!<k>
+### 3806 [cf1/c15/c1503_01.sb:18] (x1)
+EN: <p>His tail?!<k>
+PT: <p>A cauda?!<k>
+### 3807 [cf1/c15/c1503_01.sb:19] (x1)
+EN: <p>Yeah, now listen!<k><p>You and Gohan get in front of him and get his attention!<k><p>Then I'll pop in from behind and cut his tail!<k>
+PT: <p>É, agora escuta!<k><p>Você e o Gohan ficam na frente dele e chamam a atenção!<k><p>Aí eu apareço por trás e corto a cauda!<k>
+### 3808 [cf1/c15/c1503_01.sb:20] (x1)
+EN: <p>Hurry! Goku's gonna die!!<k>
+PT: <p>Rápido! O Goku vai morrer!!<k>
+### 3809 [cf1/c15/c1503_01.sb:24] (x1)
+EN: <p>Get his attention? You gotta be kidding me!<k><p>You guys are crazy! Even if he goes back to normal he's still incredibly strong!<k>
+PT: <p>Chamar a atenção? Só pode ser brincadeira!<k><p>Vocês são loucos! Mesmo voltando ao normal, ele ainda é fortíssimo!<k>
+### 3810 [cf1/c15/c1503_02.sb:10] (x1)
+EN: <p>(N-no! This guy's like nothing I've seen before!)<k><p>(Even as a monster, he's still so calm... He's not letting his guard down for a moment!)<k>
+PT: <p>(N-não! Nunca vi ninguém como esse cara!)<k><p>(Mesmo sendo um monstro, ele continua tão calmo... Não baixa a guarda nem por um instante!)<k>
+### 3811 [cf1/c15/c1503_02.sb:12] (x1)
+EN: <p>Haaaah hah hah hah!<k><p>It was a mistake for you to challenge me from the very beginning!<k>
+PT: <p>Haaaah rá rá rá!<k><p>Foi um erro você me desafiar desde o começo!<k>
+### 3812 [cf1/c15/c1503_02.sb:13] (x1)
+EN: <p>Oh, no! I've got to do something... anything!<k>
+PT: <p>Ah, não! Tenho que fazer alguma coisa... qualquer coisa!<k>
+### 3813 [cf1/c15/c1503_02.sb:16] (x1)
+EN: <p>S-stop it! You can't!<k>
+PT: <p>P-pare! Não pode!<k>
+### 3814 [cf1/c15/c1503_02.sb:22] (x1)
+EN: <p>(Dad! Don't die!)<k>
+PT: <p>(Papai! Não morra!)<k>
+### 3815 [cf1/c15/c1503_02.sb:23] (x1)
+EN: <p>(Goku's Ki is almost all gone!<k><p>This isn't good! He's on the verge of dying...!)<k>
+PT: <p>(O Ki do Goku está quase acabando!<k><p>Isso é ruim! Ele está à beira da morte...!)<k>
+### 3816 [cf1/c15/c1503_02.sb:25] (x1)
+EN: <p>?! Someone's there! Where are they?<k>
+PT: <p>?! Tem alguém aí! Onde está?<k>
+### 3817 [cf1/c15/c1503_02.sb:26] (x1)
+EN: <p>Over here! Let my dad go!<k>
+PT: <p>Aqui! Solte o meu pai!<k>
+### 3818 [cf1/c15/c1503_02.sb:27] (x1)
+EN: <p>What a surprise. Kakarot's son, eh?<k><p>So, you've come to see your father's last moments have you?<k>
+PT: <p>Que surpresa. O filho do Kakarotto, é?<k><p>Então veio ver os últimos momentos do seu pai, é isso?<k>
+### 3819 [cf1/c15/c1503_03.sb:10] (x1)
+EN: <p>N-No...!<k><p>There was one more of them...! My... My tail...!<k>
+PT: <p>N-não...!<k><p>Tinha mais um deles...! A minha... A minha cauda...!<k>
+### 3820 [cf1/c15/c1503_03.sb:15] (x1)
+EN: <p>(That's it for me! You're all on your own now!)<k>
+PT: <p>(Pra mim chega! Agora é com vocês!)<k>
+### 3821 [cf1/c15/c1504_00.sb:10] (x1)
+EN: <p>Gohan...<k><p>My body's all messed up... I... I can't move anymore...<k><p>Y-you have to fight for me...<k><p>His... his power has to be pretty low by now...<k>
+PT: <p>Gohan...<k><p>O meu corpo está todo arrebentado... Eu... não consigo mais me mexer...<k><p>V-você tem que lutar por mim...<k><p>O... o poder dele já deve estar bem baixo...<k>
+### 3822 [cf1/c15/c1504_00.sb:13] (x1)
+EN: <p>I... I can't, Daddy. H-he's too strong...<k><p>I... I could never beat him.<k>
+PT: <p>Eu... eu não consigo, papai. E-ele é forte demais...<k><p>Eu... eu nunca conseguiria vencer ele.<k>
+### 3823 [cf1/c15/c1504_00.sb:14] (x1)
+EN: <p>It... doesn't matter. Just keep him... from attacking...<k><p>You've got more power than that... far more power...<k><p>Y-you can have Krillin... deliver the final blow...<k>
+PT: <p>Não... importa. Só impeça ele... de atacar...<k><p>Você tem mais poder que isso... muito mais...<k><p>P-pode deixar o Kuririn... dar o golpe final...<k>
+### 3824 [cf1/c15/c1504_00.sb:15] (x1)
+EN: <p>N-no...<k><p>I... I can hardly move... either...<k>
+PT: <p>N-não...<k><p>Eu... eu também... mal consigo me mexer...<k>
+### 3825 [cf1/c15/c1504_00.sb:16] (x1)
+EN: <p>D-don't be stupid!<k><p>You want all of their deaths to be for nothing?!<k><p>D-didn't Piccolo... teach you anything...?<k>
+PT: <p>N-não seja bobo!<k><p>Quer que a morte de todos eles tenha sido em vão?!<k><p>O P-Piccolo... não te ensinou nada...?<k>
+### 3826 [cf1/c15/c1504_00.sb:17] (x1)
+EN: <p>!! Nnngh!<k><p>Arrgh! Koff... koff...<k>
+PT: <p>!! Nnngh!<k><p>Argh! Cof... cof...<k>
+### 3827 [cf1/c15/c1504_00.sb:20] (x1)
+EN: <p>You've certainly given me a tough time for such trash...<k>
+PT: <p>Você me deu bastante trabalho pra um lixo desses...<k>
+### 3828 [cf1/c15/c1504_00.sb:21] (x1)
+EN: <p>N-no... stop it...<k>
+PT: <p>N-não... pare...<k>
+### 3829 [cf1/c15/c1504_00.sb:22] (x1)
+EN: <p>Hah hah hah hah hah!<k>
+PT: <p>Rá rá rá rá rá!<k>
+### 3830 [cf1/c15/c1504_00.sb:23] (x1)
+EN: <p>Stop it!<k><p>Stop it now!<k>
+PT: <p>Pare!<k><p>Pare agora!<k>
+### 3831 [cf1/c15/c1504_00.sb:25] (x1)
+EN: <p>I'm...<k><p>I'm going to take you down!<k>
+PT: <p>Eu...<k><p>Eu vou acabar com você!<k>
+### 3832 [cf1/c15/c1504_00.sb:29] (x1)
+EN: <p>Gah... no!<k>
+PT: <p>Argh... não!<k>
+### 3833 [cf1/c15/c1504_00.sb:30] (x1)
+EN: <p>You better not try to rile the great Vegeta!<k>
+PT: <p>É melhor não provocar o grande Vegeta!<k>
+### 3834 [cf1/c15/c1504_00.sb:37] (x1)
+EN: <p>You did it, Yajirobe! He returned to normal...!<k>
+PT: <p>Você conseguiu, Yajirobe! Ele voltou ao normal...!<k>
+### 3835 [cf1/c15/c1504_00.sb:38] (x1)
+EN: <p>You humans must really have a death wish...<k>
+PT: <p>Vocês, humanos, devem mesmo querer morrer...<k>
+### 3836 [cf1/c15/c1504_00.sb:39] (x1)
+EN: <p>What's going on...?! That monster...<k>
+PT: <p>O que está acontecendo...?! Aquele monstro...<k>
+### 3837 [cf1/c15/c1504_00.sb:40] (x1)
+EN: <p>If so, then let me grant it for you! Filthy pests!<k>
+PT: <p>Então deixem que eu realize esse desejo! Pragas imundas!<k>
+### 3838 [cf1/c15/c1504_01.sb:39] (x1)
+EN: <p>G-Goku... We can't do it...<k><p>He's just... too strong...<k><p>Why didn't you tell Gohan to run...<k>
+PT: <p>G-Goku... A gente não consegue...<k><p>Ele é... forte demais...<k><p>Por que você não mandou o Gohan fugir...<k>
+### 3839 [cf1/c15/c1504_01.sb:40] (x1)
+EN: <p>This is my chance... to give you something Krillin...<k><p>It's all the energy I gathered... from the Earth into a Spirit Bomb...!<k>
+PT: <p>Esta é a minha chance... de te dar uma coisa, Kuririn...<k><p>É toda a energia que eu reuni... da Terra numa Genki Dama...!<k>
+### 3840 [cf1/c15/c1504_01.sb:41] (x1)
+EN: <p>...Huh? What'd you say?!<k><p>What'd you say you were gonna give me?!<k>
+PT: <p>...Hã? O que você disse?!<k><p>O que você disse que ia me dar?!<k>
+### 3841 [cf1/c15/c1504_01.sb:42] (x1)
+EN: <p>A... Spirit Bomb... It holds a bit of the energy from... all over the Earth...<k><p>About half of it escaped, but... It might work against him in the shape he's in...<k>
+PT: <p>Uma... Genki Dama... Ela tem um pouco da energia de... toda a Terra...<k><p>Quase metade escapou, mas... Pode funcionar contra ele, no estado em que está...<k>
+### 3842 [cf1/c15/c1504_01.sb:43] (x1)
+EN: <p>Wh-What...?!<k>
+PT: <p>O-o quê...?!<k>
+### 3843 [cf1/c15/c1504_01.sb:44] (x1)
+EN: <p>Krillin... Take my hand...<k>
+PT: <p>Kuririn... Pegue a minha mão...<k>
+### 3844 [cf1/c15/c1504_01.sb:45] (x1)
+EN: <p>I don't understand, Goku...<k>
+PT: <p>Não entendo, Goku...<k>
+### 3845 [cf1/c15/c1504_01.sb:46] (x1)
+EN: <p>Hurry...!<k>
+PT: <p>Rápido...!<k>
+### 3846 [cf1/c15/c1504_01.sb:47] (x1)
+EN: <p>So I just need to take your hand, right...?<k>
+PT: <p>É só pegar a sua mão, né...?<k>
+### 3847 [cf1/c15/c1504_01.sb:49] (x1)
+EN: <p>Like... this?<k>
+PT: <p>Assim...?<k>
+### 3848 [cf1/c15/c1504_01.sb:51] (x1)
+EN: <p>Your bones are broken...!<k>
+PT: <p>Os seus ossos estão quebrados...!<k>
+### 3849 [cf1/c15/c1504_01.sb:52] (x1)
+EN: <p>Don't worry about it... Just don't let go...!<k>
+PT: <p>Não se preocupe... Só não solte...!<k>
+### 3850 [cf1/c15/c1504_01.sb:54] (x1)
+EN: <p>I'll pass it on to you... So take it...<k>
+PT: <p>Vou passar pra você... Então pegue...<k>
+### 3851 [cf1/c15/c1504_01.sb:56] (x1)
+EN: <p>Whoa! What is this thing...?!<k>
+PT: <p>Uau! O que é isso...?!<k>
+### 3852 [cf1/c15/c1504_01.sb:57] (x1)
+EN: <p>You gotta hit him with it, Krillin...<k><p>I... can't make another one... Make sure... you hit him... I'm counting on you!<k>
+PT: <p>Você tem que acertar ele com isso, Kuririn...<k><p>Eu... não consigo fazer outra... Não erre... Conto com você!<k>
+### 3853 [cf1/c15/c1504_01.sb:58] (x1)
+EN: <p>O-OK! I'll try... Leave it to me!<k>
+PT: <p>T-tá! Vou tentar... Deixa comigo!<k>
+### 3854 [cf1/c15/c1505_00.sb:10] (x1)
+EN: <p>You guys did it...<k>
+PT: <p>Vocês conseguiram...<k>
+### 3855 [cf1/c15/c1505_00.sb:13] (x1)
+EN: <p>Hah hah... I thought it was all over more than once...<k>
+PT: <p>Rá rá... Mais de uma vez achei que estava tudo acabado...<k>
+### 3856 [cf1/c15/c1505_00.sb:14] (x1)
+EN: <p>Heh heh... You're both pretty beat up...<k>
+PT: <p>Heh heh... Vocês dois estão bem machucados...<k>
+### 3857 [cf1/c15/c1505_00.sb:15] (x1)
+EN: <p>Not as much as you, Goku!<k>
+PT: <p>Não tanto quanto você, Goku!<k>
+### 3858 [cf1/c15/c1505_00.sb:17] (x2)
+EN: <p>What?<k>
+PT: <p>O quê?<k>
+### 3859 [cf1/c15/c1505_00.sb:21] (x1)
+EN: <p>The... The Saiyan!<k>
+PT: <p>O... O Saiyajin!<k>
+### 3860 [cf1/c15/c1505_00.sb:22] (x1)
+EN: <p>Don't worry, it's just his dead body.<k>
+PT: <p>Calma, é só o cadáver dele.<k>
+### 3861 [cf1/c15/c1505_00.sb:23] (x1)
+EN: <p>He sure was horrible... But we might as well dig a hole for his grave...<k>
+PT: <p>Ele era horrível mesmo... Mas bem que podíamos cavar uma cova pra ele...<k>
+### 3862 [cf1/c15/c1505_00.sb:26] (x1)
+EN: <p>Don't you mean your grave??<k>
+PT: <p>Não quis dizer a sua cova??<k>
+### 3863 [cf1/c15/c1505_00.sb:27] (x1)
+EN: <p>You've really done it this time...<k><p>I thought I was about to die from that last attack.<k>
+PT: <p>Desta vez vocês se superaram...<k><p>Achei que ia morrer com aquele último ataque.<k>

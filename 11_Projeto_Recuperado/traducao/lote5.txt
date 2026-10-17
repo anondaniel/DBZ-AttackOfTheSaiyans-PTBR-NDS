@@ -1,0 +1,1258 @@
+### 0 [cf1/c05/c0501_00.sb]
+<p>...Chi-Chi? Is this the right way to your old man's castle?<k>
+### 1 [cf1/c05/c0501_00.sb]
+<p>Goku, he's my father, not an <d>old man.<d> For that matter, he's your father, too.<k>
+### 2 [cf1/c05/c0501_00.sb]
+<p>Huh? Why's that?<k>
+### 3 [cf1/c05/c0501_00.sb]
+<p>Your father-in-law, at least once we get married!<k>
+### 4 [cf1/c05/c0501_00.sb]
+<p>Whoa! Man, the Ox-King's gonna be my dad, huh?!<k><p>That's... weird.<k>
+### 5 [cf1/c05/c0501_00.sb]
+<p>I have to admit, though, I'm impressed. I never thought you'd get this strong.<k><p>No wonder I figured you'd be the perfect husband.<k>
+### 6 [cf1/c05/c0501_00.sb]
+<p>Ugh, you still don't remember me? I'm Chi-Chi! Daughter of the Ox-King!<k>
+### 7 [cf1/c05/c0501_00.sb]
+<p>Chi-Chi!!<k>
+### 8 [cf1/c05/c0501_00.sb]
+<p>Aaaaagh! Now I remember!<k><p>Oh, man, I really said it, too! I told you I'd marry you!<k>
+### 9 [cf1/c05/c0501_00.sb]
+<p>Whew, finally...<k>
+### 10 [cf1/c05/c0501_00.sb]
+<p>(Now it makes sense...)<k><p>(I thought that a <d>wife<d> was some kinda food or something.)<k><p>(Ah, well... a promise is a promise!)<k>
+### 11 [cf1/c05/c0501_00.sb]
+<p>Okay, let's get married!<k>
+### 12 [cf1/c05/c0501_00.sb]
+<p>Hee hee! You got it!<k>
+### 13 [cf1/c05/c0501_00.sb]
+<p>...Boy, getting married sure sounds crazy.<k>
+### 14 [cf1/c05/c0501_00.sb]
+<p>Ah! There's the castle!<k>
+### 15 [cf1/c05/c0501_01.sb]
+<p>By the way, Goku, I think it'd be best if we held a marriage ceremony soon...<k>
+### 16 [cf1/c05/c0501_01.sb]
+<p>...Huh?<k>
+### 17 [cf1/c05/c0501_01.sb]
+<p>Yes. A ceremony worthy of the greatest son-in-law a king could ever hope for.<k>
+### 18 [cf1/c05/c0501_01.sb]
+<p>Oh, we don't need one! It'd be so embarrassing! Right, Goku?<k>
+### 19 [cf1/c05/c0501_01.sb]
+<p>Huh? I don't really care either way, but...<k>
+### 20 [cf1/c05/c0501_01.sb]
+<p>Chi-Chi... there's something I'd like to show you.<k>
+### 21 [cf1/c05/c0501_01.sb]
+<p>...Oh?<k>
+### 22 [cf1/c05/c0501_02.sb]
+<p>What're you looking for, Daddy?<k>
+### 23 [cf1/c05/c0501_02.sb]
+<p>Ah, here it is! Here, take a look!<k>
+### 24 [cf1/c05/c0501_02.sb]
+<p>Huh? What's that, Daddy?!<k>
+### 25 [cf1/c05/c0501_02.sb]
+<p>Wooowwwww!!<k>
+### 26 [cf1/c05/c0501_02.sb]
+<p>Mmm?<k>
+### 27 [cf1/c05/c0501_02.sb]
+<p>It's so pretty, Daddy!<k>
+### 28 [cf1/c05/c0501_02.sb]
+<p>It's a wedding dress. Your mother wore this when we got married.<k>
+### 29 [cf1/c05/c0501_02.sb]
+<p>Mommy, huh...?<k>
+### 30 [cf1/c05/c0501_02.sb]
+<p>I keep it here as something to remember the ol' lady by.<k>
+### 31 [cf1/c05/c0501_02.sb]
+<p>One of my mother's heirlooms...<k>
+### 32 [cf1/c05/c0501_02.sb]
+<p>Chi-Chi... I'd like you to put this on during the big day for me.<k>
+### 33 [cf1/c05/c0501_02.sb]
+<p>Oh, Daddy! We've just got to have a ceremony now!<k><p>I can't wait to put this wedding dress on for myself...<k><p>Let's do it! Right now! I'm ready anytime!! ...Huh? Goku!!<k>
+### 34 [cf1/c05/c0501_02.sb]
+<p>Uh... Chi-Chi? Do you really have to wear that dress to get married?<k>
+### 35 [cf1/c05/c0501_02.sb]
+<p>Sure do!<k>
+### 36 [cf1/c05/c0501_02.sb]
+<p>There's no need for haste here, Chi-Chi.<k><p>We'll need the villagers' support if we want to set up the greatest wedding ceremony in the land!<k>
+### 37 [cf1/c05/c0501_02.sb]
+<p>Okay, Daddy!<k>
+### 38 [cf1/c05/c0501_03.sb]
+<p><d>Ladies and gentlemen... uh... Thank you for, er, coming...<d><k><p><d>Er, I mean, for taking time out of your busy schedules...to, uh, make it to our wedding.<d><k>
+### 39 [cf1/c05/c0501_03.sb]
+<p>Ha hah! Perfect! My wedding speech is gonna be great! Now we just need good weather!<k>
+### 40 [cf1/c05/c0501_03.sb]
+<p>...Whoa! An earthquake!<k>
+### 41 [cf1/c05/c0501_03.sb]
+<p>Goku! I left my wedding dress in Daddy's room!<k>
+### 42 [cf1/c05/c0501_03.sb]
+<p>Chi-Chi!<k>
+### 43 [cf1/c05/c0501_03.sb]
+<p>I'll take care of the dress, Goku!<k><p>You get Chi-Chi out of here for me!<k>
+### 44 [cf1/c05/c0501_03.sb]
+<p>Daddy!!<k>
+### 45 [cf1/c05/c0501_03.sb]
+<p>Goku!<k>
+### 46 [cf1/c05/c0501_03.sb]
+<p>Got it!<k>
+### 47 [cf1/c05/c0501_03.sb]
+<p>Whoa! Man, it's so hot! I can't get any closer!<k>
+### 48 [cf1/c05/c0501_03.sb]
+<p>Ox-King...<k>
+### 49 [cf1/c05/c0501_04.sb]
+<p>Chi-Chi! You okay?<k>
+### 50 [cf1/c05/c0501_04.sb]
+<p>Goku! Use your Kamehameha to put out the flames!<k>
+### 51 [cf1/c05/c0501_04.sb]
+<p>Ka... me... ha... me...!!<k>
+### 52 [cf1/c05/c0501_04.sb]
+<p>Wait! On second thought, don't, Goku!<k>
+### 53 [cf1/c05/c0501_04.sb]
+<p>Why not?<k>
+### 54 [cf1/c05/c0501_04.sb]
+<p>You'll blow the whole castle apart! Just like Master Roshi did before!<k>
+### 55 [cf1/c05/c0501_04.sb]
+<p>Goku...<k>
+### 56 [cf1/c05/c0501_04.sb]
+<p>Don't worry, okay? I'll make it just strong enough to put out the fire!<k>
+### 57 [cf1/c05/c0501_04.sb]
+<p>Haaaaaahhh!!!<k>
+### 58 [cf1/c05/c0501_04.sb]
+<p>G-Goku!<k>
+### 59 [cf1/c05/c0501_04.sb]
+<p>Man... what a blaze...<k>
+### 60 [cf1/c05/c0501_04.sb]
+<p>Wait, I know! Flying Nimbus!!<k>
+### 61 [cf1/c05/c0501_04.sb]
+<p>Chi-Chi! You wait here, okay? I'll save him!<k>
+### 62 [cf1/c05/c0502_00.sb]
+<p>Oh, man...! This isn't any ordinary fire!<k>
+### 63 [cf1/c05/c0502_00.sb]
+<p>Ox-King!!<k>
+### 64 [cf1/c05/c0502_00.sb]
+<p>...Huh? Oh! Goku!<k>
+### 65 [cf1/c05/c0502_00.sb]
+<p>Ox-King! You okay?<k>
+### 66 [cf1/c05/c0502_00.sb]
+<p>Goku! The Bansho Fan's the only thing that'll put these flames out!<k>
+### 67 [cf1/c05/c0502_00.sb]
+<p>Huh? The Bansho Fan...?<k>
+### 68 [cf1/c05/c0502_00.sb]
+<p>Yeah! It's the greatest fan in the world!<k><p>Wave it once for a massive gust of wind... Wave it twice for clouds, and three times for rain!<k>
+### 69 [cf1/c05/c0502_00.sb]
+<p>But Master Roshi threw it away! He was using it as a pot holder, and it got all dirty!<k>
+### 70 [cf1/c05/c0502_00.sb]
+<p>I don't care, Goku! You've got to find that Bansho Fan for me! Pleeeease!<k>
+### 71 [cf1/c05/c0502_00.sb]
+<p>...But where could it be? I have no idea!<k>
+### 72 [cf1/c05/c0502_00.sb]
+<p>...Wait. Who do I go to when I'm stuck like this?<k>
+### 73 [cf1/c05/c0502_00.sb]
+<p>That's it! Fortuneteller Baba!!<k><p>Chi-Chi! I'm gonna go visit Baba, okay?<k>
+### 74 [cf1/c05/c0502_00.sb]
+<p>Goku!!<k>
+### 75 [cf1/c05/c0502_01.sb]
+<p>Ahh-choo!! Hoihoihoi!<k>
+### 76 [cf1/c05/c0502_01.sb]
+<p>Hey, uh, Baba...? Could you tell me where the Bansho Fan is?<k>
+### 77 [cf1/c05/c0502_01.sb]
+<p>Ahh-choo!! Great, I've caught my first cold in 200 years...<k><p>Ohh, I hardly feel like moving... Ahh-choo!!<k>
+### 78 [cf1/c05/c0502_01.sb]
+<p>Hmmmmmm...<k>
+### 79 [cf1/c05/c0502_01.sb]
+<p>Do you see anything?<k>
+### 80 [cf1/c05/c0502_01.sb]
+<p>I don't know where the Bansho Fan is...<k><p>But it appears Fire Mountain's eruption has something to do with the Magical Furnace.<k>
+### 81 [cf1/c05/c0502_01.sb]
+<p>...The what?<k>
+### 82 [cf1/c05/c0502_01.sb]
+<p>Yep! There's a furnace that lies under Fire Mountain, you see...<k><p>The flames from it are what you see spouting out of the mountain right now!<k><p>I can't see anything else... You'll have to go check out the furnace for yourself.<k>
+### 83 [cf1/c05/c0502_01.sb]
+<p>Really? Well, okay! So how can I get to it?<k>
+### 84 [cf1/c05/c0502_01.sb]
+<p>I heard there was a path leading to the furnace from Mt. Five Element...<k><p>It's being protected by a very, very important person. Her name's Annin!<k><p>Perhaps she might be able to tell you what's going on here.<k>
+### 85 [cf1/c05/c0502_01.sb]
+<p>Mt. Five Element, right? Thanks a lot!<k>
+### 86 [cf1/c05/c0502_02.sb]
+<p>Wow... this is the Magical Furnace?<k><p>Man, it's huge!<k>
+### 87 [cf1/c05/c0502_02.sb]
+<p>Annin! You there?!<k>
+### 88 [cf1/c05/c0502_02.sb]
+<p>...Who on earth would you be?<k><p>How am I supposed to sleep with all this racket?<k>
+### 89 [cf1/c05/c0502_02.sb]
+<p>Are you Annin?<k>
+### 90 [cf1/c05/c0502_02.sb]
+<p>Annin... I haven't heard anyone call me by that in a while.<k>
+### 91 [cf1/c05/c0502_02.sb]
+<p>But yes... yes, I am Annin!<k>
+### 92 [cf1/c05/c0502_02.sb]
+<p>Listen, there's something I need you to do! Put out the furnace's fire for me!<k>
+### 93 [cf1/c05/c0502_02.sb]
+<p>Whaaaaaat?! You want me to quell the flames?<k>
+### 94 [cf1/c05/c0502_02.sb]
+<p>Daddy's surrounded by the furnace's fire! He's trapped!<k>
+### 95 [cf1/c05/c0502_02.sb]
+<p>Daddy...?<k><p>Who're you, anyway?<k>
+### 96 [cf1/c05/c0502_02.sb]
+<p>My name's Chi-Chi, daughter of the Ox-King...<k>
+### 97 [cf1/c05/c0502_02.sb]
+<p>...The Ox-King lives on Fire Mountain?<k><p>Hmm... that's the mountain behind this one, isn't it?<k><p>That must mean there's a hole or something at the bottom of the furnace.<k>
+### 98 [cf1/c05/c0502_03.sb]
+<p>Please! You've got to put out the fire!<k>
+### 99 [cf1/c05/c0502_03.sb]
+<p>I can't do that.<k>
+### 100 [cf1/c05/c0502_03.sb]
+<p>Why not?!<k>
+### 101 [cf1/c05/c0502_03.sb]
+<p>Shutting the furnace down would cause chaos both here and in the Other World. Do you want that?<k>
+### 102 [cf1/c05/c0502_03.sb]
+<p>It'd certainly be interesting, to say the least, but...<k>
+### 103 [cf1/c05/c0502_03.sb]
+<p>It'd cause chaos...?<k>
+### 104 [cf1/c05/c0502_03.sb]
+<p>Please! We need to put out the furnace before it's too late!<k>
+### 105 [cf1/c05/c0502_03.sb]
+<p>...You want to see the world messed up that much, do you?<k>
+### 106 [cf1/c05/c0502_03.sb]
+<p>If that fire isn't put out, the Ox-King's gonna burn to death!<k>
+### 107 [cf1/c05/c0502_03.sb]
+<p>Come on, you need to help! Save my father for me!<k>
+### 108 [cf1/c05/c0502_03.sb]
+<p>So you want to plunge the world into turmoil in order to save a single man's life?<k>
+### 109 [cf1/c05/c0502_03.sb]
+<p>I... I don't know, okay?!<k><p>Just tell me how to shut off the furnace already!<k>
+### 110 [cf1/c05/c0502_03.sb]
+<p>Heavens! You certainly have a lot of spunk, at least!<k><p>You wanna shut the furnace down? Just turn that knob over there all the way down!<k><p>That'll put it out for sure, I guarantee!<k>
+### 111 [cf1/c05/c0502_03.sb]
+<p>Before that, though, let me test you to see how serious you really are!<k>
+### 112 [cf1/c05/c0503_00.sb]
+<p>Ngh...!<k>
+### 113 [cf1/c05/c0503_00.sb]
+<p>Look up, above the pot!<k><p>Do you see all the steam rising up from it?<k>
+### 114 [cf1/c05/c0503_00.sb]
+<p>Yeah.<k>
+### 115 [cf1/c05/c0503_00.sb]
+<p>That steam turns into fog and settles at the top of the mountain!<k><p>And that's where the problem lies here, Goku!<k>
+### 116 [cf1/c05/c0503_00.sb]
+<p>What...? The fog?<k>
+### 117 [cf1/c05/c0503_00.sb]
+<p>Uh-huh.<k><p>If the furnace shuts down, that fog's gonna disappear, too!<k>
+### 118 [cf1/c05/c0503_00.sb]
+<p>So what?<k>
+### 119 [cf1/c05/c0503_00.sb]
+<p>That fog's actually the portal between this and the Other World!<k><p>Everyone that dies in this world goes through that fog to the Other World...<k><p>And people in the Other World can come back through at times to see their kids and so on.<k>
+### 120 [cf1/c05/c0503_00.sb]
+<p>But with the furnace off, the fog's going to lift...<k><p>The souls of the dead or visiting won't be able to make it to the Other World anymore.<k><p>The world will be filled with wandering, vengeful souls!<k><p>It'd plunge the entire world into a panic! Don't you see?<k>
+### 121 [cf1/c05/c0503_01.sb]
+<p>Well, why don't we just turn the furnace off for a little bit, Annin?<k><p>Just enough to keep the steam from going completely away?<k>
+### 122 [cf1/c05/c0503_01.sb]
+<p>Sorry, no dice!<k>
+### 123 [cf1/c05/c0503_01.sb]
+<p>Once the furnace is extinguished, it takes over 2000 years to start it up again!<k><p>It'll be a dark, dark era for those millennia... Does that sound like something you want?<k>
+### 124 [cf1/c05/c0503_01.sb]
+<p>Well, how can we keep the flames from shooting out from the furnace?<k>
+### 125 [cf1/c05/c0503_01.sb]
+<p>C'mon, you gotta help us! There has to be some way!<k>
+### 126 [cf1/c05/c0503_01.sb]
+<p>Well... there is one method.<k><p>Have you ever seen one of these before?<k>
+### 127 [cf1/c05/c0503_01.sb]
+<p>...Whoa! The Bansho Fan!<k><p>Wow, lady, you had it the whole time!<k>
+### 128 [cf1/c05/c0503_01.sb]
+<p>Um... <d>lady,<d> you say?<k><p>Listen, kid, who do you think I am, anyway?<k><p>I am Annin, the great overseer. I have guarded this furnace for thousands of years!<k>
+### 129 [cf1/c05/c0503_01.sb]
+<p>Whoa! Thousands of years?!<k><p>Man... you aren't a lady, you're an old grandma!<k>
+### 130 [cf1/c05/c0503_01.sb]
+<p>...You little brat!! There are some things better left unsaid, you know!<k>
+### 131 [cf1/c05/c0503_01.sb]
+<p>What? You wanna fight me again, or what?<k>
+### 132 [cf1/c05/c0503_01.sb]
+<p>Hee hee hee... Oh, I'm already fully aware of your skill by this point, thanks.<k>
+### 133 [cf1/c05/c0503_01.sb]
+<p>Great Annin! Tell us how we can save Daddy already!<k>
+### 134 [cf1/c05/c0503_02.sb]
+<p>You'll need more than the Bansho Fan to put the furnace out...<k><p>You'll also need something to plug the hole at the bottom of the furnace.<k>
+### 135 [cf1/c05/c0503_02.sb]
+<p>Oh... what, is that it? Well, I'll go fetch whatever you need!<k>
+### 136 [cf1/c05/c0503_02.sb]
+<p>I'm afraid what we need is not so easily obtainable...<k>
+### 137 [cf1/c05/c0503_02.sb]
+<p>It's not?<k>
+### 138 [cf1/c05/c0503_02.sb]
+<p>So... what is it, then?<k>
+### 139 [cf1/c05/c0503_02.sb]
+<p>The bottom of the furnace is made from the shells of the eggs laid by the fire-eater bird!<k>
+### 140 [cf1/c05/c0503_02.sb]
+<p>The... the fire-eater bird?!<k>
+### 141 [cf1/c05/c0503_02.sb]
+<p>That's right. So we'll need a shell to plug the hole with...<k><p>And we'll need honey from an octogonal beehive to hold the shell in place, too.<k>
+### 142 [cf1/c05/c0503_02.sb]
+<p>Wow... so an eggshell and some honey, huh?<k>
+### 143 [cf1/c05/c0503_02.sb]
+<p>So where can we find these things, Annin?<k>
+### 144 [cf1/c05/c0503_02.sb]
+<p>The fire-eater bird lives on Kiwi Volcano, I think.<k><p>And as for the honey... er...<k>
+### 145 [cf1/c05/c0503_02.sb]
+<p>As for the honey?<k>
+### 146 [cf1/c05/c0503_02.sb]
+<p>I've forgotten... I haven't needed any for thousands of years, you see.<k><p>I'd be willing to bet Master Roshi would know, though.<k>
+### 147 [cf1/c05/c0503_02.sb]
+<p>...Oh! You mean the Turtle Hermit?<k>
+### 148 [cf1/c05/c0503_02.sb]
+<p>All right! I'll go off and find that shell and the honey for you!<k>
+### 149 [cf1/c05/c0503_02.sb]
+<p>Good! Try to be quick as you can about it!<k><p>We'll need those two things before we can do anything else!<k>
+### 150 [cf1/c05/c0504_00.sb]
+<p>Hey! Hey, Turtle Hermit!<k><p>Could you tell me where there's an eight-sided beehive at?<k>
+### 151 [cf1/c05/c0504_00.sb]
+<p>Ah, Goku! What on earth have you been up to?<k>
+### 152 [cf1/c05/c0504_00.sb]
+<p>Ah... I see...<k><p>Well, I heard there's a lady named Hakkake who collects that honey. She lives near Mt. Frappe.<k>
+### 153 [cf1/c05/c0504_00.sb]
+<p>Thanks, pops! Guess that's where I'm going next!<k>
+### 154 [cf1/c05/c0504_00.sb]
+<p>Chi-Chi... you better stay here.<k>
+### 155 [cf1/c05/c0504_00.sb]
+<p>Goku?!<k>
+### 156 [cf1/c05/c0504_00.sb]
+<p>I can't even imagine what kind of danger I'm gonna be facing from here on in...<k><p>I can't afford to have you exposed to all of that.<k>
+### 157 [cf1/c05/c0504_00.sb]
+<p>O-okay... but are you sure you're gonna be okay by yourself, Goku?!<k>
+### 158 [cf1/c05/c0504_00.sb]
+<p>No problem! I can handle the search, easy!<k>
+### 159 [cf1/c05/c0504_00.sb]
+<p>Wait!<k>
+### 160 [cf1/c05/c0504_00.sb]
+<p>I heard the whole story, Goku.<k><p>If Chi-Chi's dad is in trouble, there's no way I'm not gonna help, too!<k>
+### 161 [cf1/c05/c0504_00.sb]
+<p>...Hey! I'm not gonna let you hog all of the limelight! Take me along too, Goku!<k>
+### 162 [cf1/c05/c0504_00.sb]
+<p>Krillin... and Yamcha? Well, sorry, guys, but...<k>
+### 163 [cf1/c05/c0504_00.sb]
+<p>Hold on a minute, Goku. You better not be forgetting about me!<k>
+### 164 [cf1/c05/c0504_00.sb]
+<p>Tien...<k>
+### 165 [cf1/c05/c0504_00.sb]
+<p>Right! Let's get moving!<k><p>There isn't a single moment to waste!<k>
+### 166 [cf1/c05/c0504_00.sb]
+<p>A fire-eater bird's shell and some honey, eh...? It'll be a cinch with all of us helping!<k>
+### 167 [cf1/c05/c0504_00.sb]
+S-Combo Dictionary is now available!
+### 168 [cf1/c05/c0504_00.sb]
+<p>You can now view your S-Combos via the Crystal Ball in the menu!<k><p>This S-Combo dictionary lets you view all of the S-Combo notes you've acquired.<k><p>These notes contain hints on how you can put S-Combos together into bigger combos.<k><p>There are S-Combo notes hidden around the world. Try to find them all!<k>
+### 169 [cf1/c05/c0505_00.sb]
+Pilaf
+### 170 [cf1/c05/c0505_00.sb]
+<p>If you value your life, give me that egg!<k><p>When we want something, we get it, and that's that!<k>
+### 171 [cf1/c05/c0505_00.sb]
+Shu
+### 172 [cf1/c05/c0505_00.sb]
+<p>...Uh, wait. Emperor Pilaf?<k><p>Am I going at it alone here?<k>
+### 173 [cf1/c05/c0505_00.sb]
+<p>Of course you are! Go! Now!<k>
+### 174 [cf1/c05/c0505_00.sb]
+<p>Whaaaaaaaaaa?!<k>
+### 175 [cf1/c05/c0505_00.sb]
+<p>Wow... so this is a fire-eater bird's egg.<k>
+### 176 [cf1/c05/c0505_00.sb]
+<p>Great! Now we just need to take the shell back.<k><p>We better hurry... I'm getting worried about the Ox-King.<k>
+### 177 [cf1/c05/c0505_00.sb]
+<p>Hey! Who're you?<k>
+### 178 [cf1/c05/c0505_00.sb]
+<p>The rightful owners of that egg!<k>
+### 179 [cf1/c05/c0505_00.sb]
+Mai
+### 180 [cf1/c05/c0505_00.sb]
+<p>I'm honestly astounded you actually found an egg from that bird...<k>
+### 181 [cf1/c05/c0505_00.sb]
+<p>Sorry, pal, but we're taking that sucker, shell and all!<k>
+### 182 [cf1/c05/c0505_00.sb]
+<p>Huh...? Hey, it's you!<k>
+### 183 [cf1/c05/c0505_00.sb]
+<p>Quit messing with us! We're never gonna let you have it!<k>
+### 184 [cf1/c05/c0505_00.sb]
+<p>There's someone you oughta meet before you start going off like that!<k>
+### 185 [cf1/c05/c0505_00.sb]
+<p>A man feared in every corner of the dark underworld!<k>
+### 186 [cf1/c05/c0505_00.sb]
+<p>Robbery, murder, speeding, extortion, pickpocketing, dine 'n dash...<k>
+### 187 [cf1/c05/c0505_00.sb]
+<p>He'll do anything... anything... for money!<k>
+### 188 [cf1/c05/c0505_00.sb]
+<p>His name...? None other than Emperor Pilaf!<k>
+### 189 [cf1/c05/c0505_00.sb]
+<p>Gahh hah hah hah hah!<k>
+### 190 [cf1/c05/c0505_00.sb]
+<p>Oh great, it's him...<k>
+### 191 [cf1/c05/c0505_00.sb]
+<p>Huh? You know him?<k>
+### 192 [cf1/c05/c0505_00.sb]
+<p>Well, look at this! What a fine egg I see here!<k><p>It's the only one of its kind in the world! I could sell it for 100 million Zeni, easy!<k>
+### 193 [cf1/c05/c0505_00.sb]
+<p>And with that kind of cash, my dreams of world conquest will finally become reality!<k>
+### 194 [cf1/c05/c0505_00.sb]
+<p>Ah ha ha ha hah!<k><p>This egg is mine! All mine!!<k>
+### 195 [cf1/c05/c0505_01.sb]
+<p>Hmm... hey, have I seen you somewhere before?<k>
+### 196 [cf1/c05/c0505_01.sb]
+<p>Yeah... I was just thinking that myself.<k>
+### 197 [cf1/c05/c0505_01.sb]
+<p>Wait a minute. Isn't your name...??<k>
+### 198 [cf1/c05/c0505_01.sb]
+<p>Who, me...? Goku's the name, guys!<k>
+### 199 [cf1/c05/c0505_01.sb]
+<p>...Goku?<k>
+### 200 [cf1/c05/c0505_01.sb]
+<p>Goku, huh...<k>
+### 201 [cf1/c05/c0505_01.sb]
+<p>Goku?!?!<k>
+### 202 [cf1/c05/c0505_01.sb]
+<p>...Ahhhh!! Help us!!<k>
+### 203 [cf1/c05/c0505_01.sb]
+<p>Whoa, wait a sec... I think I just remembered!<k><p>Y-y-you're... G-Goku!<k>
+### 204 [cf1/c05/c0505_01.sb]
+<p>Oh, no no noooooo!<k>
+### 205 [cf1/c05/c0505_01.sb]
+<p>Emperor Pilaf!!<k>
+### 206 [cf1/c05/c0505_01.sb]
+<p>Guess we won't be seeing them again. Time to go home!<k>
+### 207 [cf1/c05/c0506_00.sb]
+<p>What brings you to this frigid place, my friends?<k>
+### 208 [cf1/c05/c0506_00.sb]
+<p>Gah! Forget about us! What are you doing in a place like this, old lady?<k><p>We're looking for someone named Hakkake! She's supposed to live somewhere around here.<k>
+### 209 [cf1/c05/c0506_00.sb]
+<p>Oh...? And what will you do once you meet her?<k>
+### 210 [cf1/c05/c0506_00.sb]
+<p>Well, it's kind of a long story...<k><p>But the gist of it is that we want a little bit of the honey she has!<k>
+### 211 [cf1/c05/c0506_00.sb]
+<p>...Gah! You rabble are after my honey as well, are you?!<k>
+### 212 [cf1/c05/c0506_00.sb]
+<p><d>My<d> honey...? Wait, so you're Hakkake?!<k>
+### 213 [cf1/c05/c0506_00.sb]
+<p>I most certainly am... But guess what, guys! There ain't no honey left!<k>
+### 214 [cf1/c05/c0506_00.sb]
+<p>No honey...?<k>
+### 215 [cf1/c05/c0506_00.sb]
+<p>I love eating shaved ice with honey on top... I get the ice right here on Mt. Frappe.<k><p>But these three weirdos came earlier and stole all of my honey!<k>
+### 216 [cf1/c05/c0506_00.sb]
+<p>Three of 'em, you say...?<k>
+### 217 [cf1/c05/c0506_00.sb]
+<p>Hey, how about we do this, lady?<k><p>If we can get your honey back, would you mind giving us just a little?<k>
+### 218 [cf1/c05/c0506_00.sb]
+<p>Get my honey back...? Well, I'd be happy to, if you can find it.<k>
+### 219 [cf1/c05/c0506_00.sb]
+<p>Great! Thanks a lot, lady! We'll have it back here in a flash!<k><p>So where did those three guys go?<k>
+### 220 [cf1/c05/c0506_00.sb]
+<p>They were climbing up Mt. Frappe last I saw them!<k>
+### 221 [cf1/c05/c0506_01.sb]
+<p>Hey! Hey, hold it, guys!<k>
+### 222 [cf1/c05/c0506_01.sb]
+<p>Mmm? Who the heck are you?!<k>
+### 223 [cf1/c05/c0506_01.sb]
+<p>You stole some honey from Hakkake, didn't you? I'm here to get it back!<k>
+### 224 [cf1/c05/c0506_01.sb]
+<p>...Emperor Pilaf?<k><p>I think they're after the legendary sweet honey we stole!<k>
+### 225 [cf1/c05/c0506_01.sb]
+<p>If we get our honey stolen back from us...<k><p>We can forget about selling it for the cash we need to conquer the world!<k>
+### 226 [cf1/c05/c0506_01.sb]
+<p>Wha...? Well, that's no good!<k>
+### 227 [cf1/c05/c0506_01.sb]
+<p>Ha hah!<k><p>You want that honey? Well, come right on up here and get it! Thpbbt!<k>
+### 228 [cf1/c05/c0506_02.sb]
+<p>H-huh...? Emperor Pilaf?<k><p>...Just me, by myself?<k>
+### 229 [cf1/c05/c0506_02.sb]
+<p>You got it! I'm counting on you, Mai!<k>
+### 230 [cf1/c05/c0506_02.sb]
+<p>Whaaa?! But that's crazy!<k>
+### 231 [cf1/c05/c0506_02.sb]
+<p>There are so many enemies out there! Do we have any kind of strategy, Emperor?!<k>
+### 232 [cf1/c05/c0506_02.sb]
+<p>...Nope!<k>
+### 233 [cf1/c05/c0506_02.sb]
+<p>Whaaaaa?! What am I supposed to do?!<k>
+### 234 [cf1/c05/c0506_02.sb]
+<p>...Hah! Gimme our honey back!<k>
+### 235 [cf1/c05/c0506_02.sb]
+<p>Ugghh! You guys don't know when to give up!<k><p>Shu! Mai! Get them!<k>
+### 236 [cf1/c05/c0506_03.sb]
+<p>Gee whiz, guys...<k><p>We could've avoided all this if you had just handed it over.<k>
+### 237 [cf1/c05/c0506_03.sb]
+<p>Hey! Hello!<k>
+### 238 [cf1/c05/c0506_03.sb]
+<p>Oh! Hakkake!<k><p>We got the honey back for you, ma'am!<k>
+### 239 [cf1/c05/c0506_03.sb]
+<p>Really? Oh, my! Thank you so much!<k><p>I made you a promise. Here's a bit of honey for you!<k>
+### 240 [cf1/c05/c0506_03.sb]
+<p>Thanks! I appreciate it a bunch!<k>
+### 241 [cf1/c05/c0507_00.sb]
+<p>And so Goku, with the fire-eater bird's eggshell and honey in hand, made his way back to Kame House.<k><p>There he regrouped with Chi-Chi to pay another visit to Annin and the furnace...<k>
+### 242 [cf1/c05/c0507_00.sb]
+<p>Here you go! The honey, and the eggshell!<k>
+### 243 [cf1/c05/c0507_00.sb]
+<p>Impressive! It didn't take you much time, either!<k>
+### 244 [cf1/c05/c0507_00.sb]
+<p>Now we can plug the hole in the furnace, right?<k>
+### 245 [cf1/c05/c0507_00.sb]
+<p>Not so fast, kid!<k><p>There's only a one-in-a-million chance that it'll even work, I'm afraid...<k>
+### 246 [cf1/c05/c0507_00.sb]
+<p>One in a million?!<k>
+### 247 [cf1/c05/c0507_00.sb]
+<p>...And if you mess up, you'll be dead for sure!<k>
+### 248 [cf1/c05/c0507_00.sb]
+<p>Well, I'm still giving it a shot! What do I have to do?<k>
+### 249 [cf1/c05/c0507_00.sb]
+<p>Hmm... if anyone can do it, it's got to be you, Goku.<k><p>I'll lift up the pot a little bit, so you'll go into the furnace and plug the hole in the meantime.<k>
+### 250 [cf1/c05/c0507_00.sb]
+<p>I gotta go inside the furnace?!<k><p>Oh, man! It's gotta be scorching in there, right?<k><p>I dunno about this anymore...<k>
+### 251 [cf1/c05/c0507_00.sb]
+<p>Well, that's where the Bansho Fan comes in!<k>
+### 252 [cf1/c05/c0507_00.sb]
+<p>Listen, Goku...<k><p>If you flap the fan once, you'll part the flames with the wind and make a path for yourself!<k><p>Follow that path down to the bottom, and you'll be able to patch up the furnace.<k><p>It'll be dangerous, Goku... you willing to risk your life for it?<k>
+### 253 [cf1/c05/c0507_00.sb]
+<p>I'm ready to try!<k>
+### 254 [cf1/c05/c0507_01.sb]
+<p>Goku...<k><p>There are flames raging all across the furnace... The hole's probably deep inside, too!<k>
+### 255 [cf1/c05/c0507_01.sb]
+<p>...Got it! I'll dive in as far as I can go!<k>
+### 256 [cf1/c05/c0507_01.sb]
+<p>Go then, Goku! There isn't a moment to lose!<k>
+### 257 [cf1/c05/c0507_02.sb]
+<p>Oh, man...! Where the heck is it?!<k>
+### 258 [cf1/c05/c0507_02.sb]
+<p>...Ah! There it is!<k>
+### 259 [cf1/c05/c0507_02.sb]
+<p>That oughta do it.<k>
+### 260 [cf1/c05/c0507_02.sb]
+<p>I better get back before I burn up!<k>
+### 261 [cf1/c05/c0508_00.sb]
+<p>Gokuuuuu! Oh, Goku, I'm so glad you made it in time!<k><p>I thought you were a goner for sure...<k>
+### 262 [cf1/c05/c0508_00.sb]
+<p>This ought to make the fire go away in the castle, right?<k>
+### 263 [cf1/c05/c0508_00.sb]
+<p>It should!<k>
+### 264 [cf1/c05/c0508_00.sb]
+<p>Thank you, Goku!<k><p>Sorry for the trouble, Chi-Chi... As overseer of the furnace, I formally apologize!<k>
+### 265 [cf1/c05/c0508_00.sb]
+<p>Thanks to Goku's bold efforts, the fire in the Ox-King's castle was extinguished.<k><p>With that, Goku and Chi-Chi were able to hold their marriage ceremony.<k>
+### 266 [cf1/c05/c0508_01.sb]
+<p>Listen up, everyone! Thanks for coming to celebrate my marriage!<k><p>Ohhh, this makes me so happy!<k>
+### 267 [cf1/c05/c0508_01.sb]
+<p>...Wow, Chi-Chi, you're beautiful.<k><p>You're an even match for your mother, in fact!<k>
+### 268 [cf1/c05/c0508_01.sb]
+<p>Thanks again for the wedding dress, Daddy!<k><p>I'll never forget this moment...<k>
+### 269 [cf1/c05/c0508_01.sb]
+<p>Take good care of her for me, Goku.<k>
+### 270 [cf1/c05/c0508_01.sb]
+<p>Sure...<k>
+### 271 [cf1/c05/c0508_01.sb]
+<p>With their ceremony over, what could be waiting for Goku and Chi-Chi ahead? Happiness, or...?<k>
+### 272 [cf1/c05/c0508_01.sb]
+<p>How about I tell your fortunes, instead?<k><p>Hoihoihoi!!<k>
+### 273 [cf1/c05/c0508_01.sb]
+<p>Let's see... Ahhhh!<k><p>Oooh, this is troubling indeed...<k>
+### 274 [cf1/c05/c0508_01.sb]
+<p>And so the story skips forward five years...<k>
+### 275 [cf1/c06/c0601_00.sb]
+<p>W-w-whoa! What was that?! A meteor? A UFO?<k>
+### 276 [cf1/c06/c0601_00.sb]
+<p>The inhabitants of this planet are still alive... Curse you, Kakarot.<k>
+### 277 [cf1/c06/c0601_00.sb]
+<p>W-w-whoaa!! W-who the heck are you?!<k>
+### 278 [cf1/c06/c0601_00.sb]
+<p>Power level... only 5, huh? Piece of garbage.<k>
+### 279 [cf1/c06/c0601_00.sb]
+<p>G-get away from me! I, I, I'll kill you!<k>
+### 280 [cf1/c06/c0601_00.sb]
+<p>Pfft. Such a pathetic species.<k>
+### 281 [cf1/c06/c0601_00.sb]
+<p>Hmm?<k><p>There's someone far more powerful nearby... range, 4800. Is that Kakarot?!<k>
+### 282 [cf1/c06/c0602_00.sb]
+<p>!!!<k><p>W-where did this power come from?! It's intense, and it's coming right this way!<k><p>It couldn't be Goku, could it?<k><p>Oh, no...!<k>
+### 283 [cf1/c06/c0602_00.sb]
+<p>Gah... you're not Kakarot.<k>
+### 284 [cf1/c06/c0602_00.sb]
+<p>And who are you? You got  a problem with me?<k>
+### 285 [cf1/c06/c0602_00.sb]
+<p>I don't need to deal with the likes of you.<k>
+### 286 [cf1/c06/c0602_00.sb]
+<p>So what're you here for?! You in that much of a hurry to die?<k>
+### 287 [cf1/c06/c0602_00.sb]
+<p>Heh heh heh... that's a big mouth you've got there.<k><p>Hmm... power level 322, eh? Quite a range of humans live here, I see.<k><p>But you're still no match for me...<k>
+### 288 [cf1/c06/c0602_00.sb]
+<p>What?!<k><p>Do you have any idea who you're talking to, you freak?!<k>
+### 289 [cf1/c06/c0602_00.sb]
+<p>Can't say I do.<k>
+### 290 [cf1/c06/c0602_00.sb]
+<p>(This guy...! He's so powerful!)<k><p>Haahh!!<k>
+### 291 [cf1/c06/c0602_00.sb]
+<p>What a worthless move... All it did was kick up some dust.<k><p>Now it's my turn, huh? Let me show you a real move...<k>
+### 292 [cf1/c06/c0602_00.sb]
+<p>!!!<k><p>I sense another power nearby! It's massive!<k>
+### 293 [cf1/c06/c0602_00.sb]
+<p>That way...! Range, 12,909...<k><p>This one's big... the biggest power source on the planet! It must be Kakarot!<k>
+### 294 [cf1/c06/c0602_00.sb]
+<p>Huff huff...<k><p>It... it can't be! I... I was shaking so much, I couldn't even move!<k>
+### 295 [cf1/c06/c0602_00.sb]
+<p>Kakarot! Have you thrown away your pride as a Saiyan, the great warrior race in the universe?<k>
+### 296 [cf1/c06/c0603_00.sb]
+<p>Hey! Long time no see!<k>
+### 297 [cf1/c06/c0603_00.sb]
+<p>Well, well!<k>
+### 298 [cf1/c06/c0603_00.sb]
+<p>Hello there, Bulma!<k>
+### 299 [cf1/c06/c0603_00.sb]
+<p>My goodness, it's been ages! Ages!<k><p>I tell you, you kids are so ungrateful! It wouldn't kill you to come visit more often...<k>
+### 300 [cf1/c06/c0603_00.sb]
+<p>Here you are! Just a little gift, some of your favorite meat buns.<k>
+### 301 [cf1/c06/c0603_00.sb]
+<p>Oh, my! You really shouldn't have...<k><p>Couldn't you have just let me have something more... personal?<k>
+### 302 [cf1/c06/c0603_00.sb]
+<p>Ngh... you never did have much of a sense of humor.<k>
+### 303 [cf1/c06/c0603_00.sb]
+<p>And you never had much in the way of dignity, you creep!<k>
+### 304 [cf1/c06/c0603_00.sb]
+<p>By the way, Bulma, do you know where Yamcha is?<k>
+### 305 [cf1/c06/c0603_00.sb]
+<p>What? Yamcha? That idiot? How should I know, huh?<k><p>He crossed me one too many times, so I didn't tell him we were all meeting here today!<k><p>We can party it up just fine without him, okay?!<k>
+### 306 [cf1/c06/c0603_00.sb]
+<p>You two certainly seem to enjoy arguing a great deal...<k>
+### 307 [cf1/c06/c0603_00.sb]
+<p>Wait a minute... What about Launch, though? Where's she?<k>
+### 308 [cf1/c06/c0603_00.sb]
+<p>She ran off somewhere. She's been chasing after Tien for five years now.<k>
+### 309 [cf1/c06/c0603_00.sb]
+<p>Look, there's Master Roshi's house!<k>
+### 310 [cf1/c06/c0603_00.sb]
+<p>Right, here we are!<k>
+### 311 [cf1/c06/c0603_00.sb]
+<p>Yahoo!<k>
+### 312 [cf1/c06/c0603_00.sb]
+<p>That's Goku's voice!<k>
+### 313 [cf1/c06/c0603_00.sb]
+<p>Hey!<k>
+### 314 [cf1/c06/c0603_00.sb]
+<p>Hey, Goku!<k>
+### 315 [cf1/c06/c0603_00.sb]
+<p>Hmm? Who's the kid with you?<k>
+### 316 [cf1/c06/c0603_00.sb]
+<p>You start a babysitting service or something?<k>
+### 317 [cf1/c06/c0603_00.sb]
+<p>He's my son.<k>
+### 318 [cf1/c06/c0603_00.sb]
+<p>Whaaaaaaattt?!!<k>
+### 319 [cf1/c06/c0603_00.sb]
+<p>Y-your son, Goku?!<k>
+### 320 [cf1/c06/c0603_00.sb]
+<p>Well, yeah. What's so weird about that? Come on, son, say hello to everyone.<k>
+### 321 [cf1/c06/c0603_00.sb]
+<p>Uh... h-hello.<k>
+### 322 [cf1/c06/c0603_00.sb]
+<p>Well, er... hello to you, too.<k>
+### 323 [cf1/c06/c0603_00.sb]
+<p>His name is Gohan.<k>
+### 324 [cf1/c06/c0603_00.sb]
+<p>Gohan?! My, you named him after your late grandfather!<k>
+### 325 [cf1/c06/c0604_00.sb]
+<p>Huh? What is it, Goku?<k>
+### 326 [cf1/c06/c0604_00.sb]
+<p>There's something coming this way! I don't know what, but it's something big!<k>
+### 327 [cf1/c06/c0604_00.sb]
+<p>Wha? What kind of something?<k>
+### 328 [cf1/c06/c0604_00.sb]
+<p>W-wow... I can feel this huge, intense power! What the heck could this be?!<k>
+### 329 [cf1/c06/c0604_00.sb]
+<p>Here it comes!<k>
+### 330 [cf1/c06/c0604_00.sb]
+<p>Ahhh!<k>
+### 331 [cf1/c06/c0604_00.sb]
+<p>Heh heh heh... you've grown, Kakarot, but I still recognized you right off.<k><p>You look just like father, after all...<k>
+### 332 [cf1/c06/c0604_00.sb]
+<p>Uh... who is this guy? What's he talking about?<k>
+### 333 [cf1/c06/c0604_00.sb]
+<p>Kakarot! What is wrong with you? Just look at this planet!<k><p>Your mission was to eradicate humanity! Why have you wasted so much time?!<k>
+### 334 [cf1/c06/c0604_00.sb]
+<p>Listen, I don't know who you are, but you better get out of here, now!<k><p>Sheesh... I wish people wouldn't start drinking so early in the day.<k>
+### 335 [cf1/c06/c0604_00.sb]
+<p>Krillin! Stay away from him!<k>
+### 336 [cf1/c06/c0604_00.sb]
+<p>You...!!<k>
+### 337 [cf1/c06/c0604_00.sb]
+<p>!!!<k><p>A... a tail!<k><p>This guy's got a tail...!<k>
+### 338 [cf1/c06/c0604_00.sb]
+<p>Heh heh heh... Have you recognized me yet?<k>
+### 339 [cf1/c06/c0604_00.sb]
+<p>Recognized you...?! What're you talking about?!<k>
+### 340 [cf1/c06/c0604_00.sb]
+<p>Are you kidding me, Kakarot? Have you forgotten absolutely everything?!<k><p>Hey, did you take a blow to the head or something?<k>
+### 341 [cf1/c06/c0604_00.sb]
+<p>You can stop calling me Kaka-whatever anytime, you know! My name's Goku!<k>
+### 342 [cf1/c06/c0604_00.sb]
+<p>Answer me! Did you get hit in the head when you were young, or not?!<k>
+### 343 [cf1/c06/c0604_00.sb]
+<p>...I did, actually!<k><p>I don't remember any of it, but it happened when I was really young. I still have a scar from it.<k>
+### 344 [cf1/c06/c0604_00.sb]
+<p>Dahh! I knew it...<k>
+### 345 [cf1/c06/c0604_00.sb]
+<p>But what's that got to do with anything?<k>
+### 346 [cf1/c06/c0604_00.sb]
+<p>Goku... this reminds me of a story your grandfather told me once.<k><p>He found a baby with a tail one day. The kid had a bad temper and kept causing trouble...<k><p>Drove the man crazy most of the time, no doubt about that.<k><p>One day, the boy fell in the valley and landed on his head. It was a wonder he survived...<k><p>But the baby was so powerful that he recovered without any permanent injury.<k><p>What's more, his bad temper went away, and he became a good, kind child.<k>
+### 347 [cf1/c06/c0604_00.sb]
+<p>Was... was that me?!<k>
+### 348 [cf1/c06/c0604_00.sb]
+<p>Hmm...<k>
+### 349 [cf1/c06/c0604_00.sb]
+<p>L-look, who are you anyway?! Tell me!<k>
+### 350 [cf1/c06/c0604_00.sb]
+<p>I can't believe you forgot everything... but oh well. I'll make you remember right now.<k><p>You've got a lot of work ahead of you, after all...<k>
+### 351 [cf1/c06/c0604_00.sb]
+<p>Nnngh... ugh...<k>
+### 352 [cf1/c06/c0604_00.sb]
+<p>Are you okay, Krillin?!<k>
+### 353 [cf1/c06/c0604_00.sb]
+<p>Y-yeah... I think so.<k>
+### 354 [cf1/c06/c0604_00.sb]
+<p>Be careful, Goku... this isn't any normal fighter.<k>
+### 355 [cf1/c06/c0604_00.sb]
+<p>No... doesn't look like it.<k><p>Just facing him down like this is scaring me, to be honest.<k><p>I've never felt this way before.<k>
+### 356 [cf1/c06/c0604_00.sb]
+<p>Right! First off, you weren't born on this planet, Kakarot!<k><p>Your birthplace is Planet Vegeta! You are a Saiyan, the proudest warrior race in the universe!<k>
+### 357 [cf1/c06/c0604_00.sb]
+<p>W-w-what...?!<k>
+### 358 [cf1/c06/c0604_00.sb]
+<p>And I... I am your brother, Raditz!<k>
+### 359 [cf1/c06/c0604_00.sb]
+<p>Y-y-you're his brother?!<k>
+### 360 [cf1/c06/c0604_00.sb]
+<p>Enough of your nonsense! You're lying!<k>
+### 361 [cf1/c06/c0604_00.sb]
+<p>Y-yeah! If Goku's a space alien, then what's he doing here on Earth?!<k>
+### 362 [cf1/c06/c0604_00.sb]
+<p>Heh heh heh... the answer's simple, really.<k><p>Kakarot was sent here to destroy the human species that lives on this planet!<k><p>We Saiyans are a race of warriors...<k><p>We search for suitable planets, eradicate everyone that lives on them...<k><p>And when we're done, we sell the planets to alien races at an enormous profit.<k><p>We send adult Saiyans to planets with strong native species living on them...<k><p>But with low-level planets like these, we send babies instead, like yourself.<k><p>Luckily, this planet has a moon...<k><p>With that, you could wipe out the humans here in just a few years.<k><p>Once you get around to remembering your orders, that is!<k>
+### 363 [cf1/c06/c0604_00.sb]
+<p>Oh, man... if that's true, then you guys are terrible.<k><p>It's all just so crazy... You make Piccolo seem like a saint by comparison.<k>
+### 364 [cf1/c06/c0604_00.sb]
+<p>...Wait. Why is having a moon a good thing?<k>
+### 365 [cf1/c06/c0604_00.sb]
+<p>Quit acting so stupid, Kakarot...<k><p>When we Saiyans see a full moon, our full latent abilities are unlocked! You know that!<k><p>...Wait. Don't tell me... Your tail! What happened to your tail?!<k>
+### 366 [cf1/c06/c0604_00.sb]
+<p>Oh, that thing got cut off ages ago!<k>
+### 367 [cf1/c06/c0604_00.sb]
+<p>This can't be happening! You blithering idiot...!<k><p>No wonder you've actually made friends with the natives!<k>
+### 368 [cf1/c06/c0604_00.sb]
+<p>I've had enough!<k><p>So what if I was born on some other planet and have a different name and stuff?<k><p>I don't even care if you are my brother. That doesn't matter to me anymore!<k><p>Krillin's right... you Saiyans are the absolute worst!!<k><p>My name's Goku, and this is my home! So get going, or else!<k>
+### 369 [cf1/c06/c0604_00.sb]
+<p>Heh heh heh... I'm afraid I can't do that for you.<k><p>We Saiyans were never a very large race, but now it's even worse...<k><p>You see, Planet Vegeta is gone... It exploded after colliding with a giant meteor.<k><p>Nearly all the Saiyans were vaporized in an instant... our mother and father, too.<k>
+### 370 [cf1/c06/c0604_00.sb]
+<p>There are only four Saiyans left in the universe, and you're one of them!<k><p>Me and another one were saved because we were busy invading another planet.<k><p>The third was sent off to a new world as a baby, just like you... He was lucky.<k><p>Earlier, we found the most amazing planet. We could sell it for a huge pile of money!<k><p>But it'll be hard to clean it up with just three of us...<k><p>That's when we remembered that you were still kicking around, Kakarot.<k><p>You still don't have your full powers quite yet...<k><p>But with all four of us working as a team, we should be able to manage well enough.<k><p>You have to open your eyes, Kakarot! It'll be fun! Let your Saiyan blood go wild!<k>
+### 371 [cf1/c06/c0604_00.sb]
+<p>You're insane! As long as I live, I swear I'll never join you guys!<k>
+### 372 [cf1/c06/c0604_00.sb]
+<p>Heh... I see.<k><p>Say, I couldn't help but notice... is that your kid standing behind you?<k>
+### 373 [cf1/c06/c0604_00.sb]
+<p>No, it's not!<k>
+### 374 [cf1/c06/c0604_00.sb]
+<p>Don't try to fool me, Kakarot.<k><p>That tail is all the evidence I need. He's got Saiyan blood in him.<k>
+### 375 [cf1/c06/c0604_00.sb]
+<p>Well, so what?!<k>
+### 376 [cf1/c06/c0604_00.sb]
+<p>Since you're not being very cooperative with me...<k><p>I was thinking about maybe borrowing your boy for a bit instead.<k>
+### 377 [cf1/c06/c0604_00.sb]
+<p>I dare you to take one step closer to me! I'll send you outta here in a heap!<k>
+### 378 [cf1/c06/c0604_00.sb]
+<p>Gah...!! Ngh... grhhh...!<k>
+### 379 [cf1/c06/c0604_00.sb]
+<p>Whoa there.<k>
+### 380 [cf1/c06/c0604_00.sb]
+<p>Waaahhh! Waaaahhhh!!<k>
+### 381 [cf1/c06/c0604_00.sb]
+<p>Kakarot... your kid's in our hands now.<k><p>If you want to get him back alive, you better start listening to your brother.<k>
+### 382 [cf1/c06/c0604_00.sb]
+<p>Goku... downed on one hit...<k>
+### 383 [cf1/c06/c0604_00.sb]
+<p>I'll give you one day. That's how long you have to make your decision.<k><p>Not that you have any choice besides joining us, of course... I'll need some evidence, too.<k><p>Nothing very fancy, mind you...<k><p>Just kill 100 or so people and pile their bodies here by this time tomorrow.<k>
+### 384 [cf1/c06/c0604_00.sb]
+<p>Got that? I'll be looking forward to seeing you tomorrow.<k><p>This is my nephew, after all...<k><p>I'd prefer if I didn't have to kill him. Heh heh heh...<k>
+### 385 [cf1/c06/c0604_00.sb]
+<p>T-that's not fair! You can't use a child like that!<k>
+### 386 [cf1/c06/c0604_00.sb]
+<p>H-he's right! Besides, how could Goku find it in him to kill anybody?<k>
+### 387 [cf1/c06/c0604_00.sb]
+<p>Fair enough... If you don't mind him dying, then don't worry about the bodies.<k><p>Either way, the people on this planet are doomed.<k><p>Once we're finished capturing our current planet, this one's going to be our next target!<k>
+### 388 [cf1/c06/c0604_00.sb]
+<p>W-what...?!<k>
+### 389 [cf1/c06/c0604_00.sb]
+<p>Heh heh heh...<k><p>Three Saiyans are all it'll take to exterminate everyone on Earth within a month.<k><p>So whether Kakarot passes his little test or not, it's all the same in the end.<k><p>Got that, Kakarot?!<k><p>Fight me all you want! Joining me is your only choice!<k>
+### 390 [cf1/c06/c0604_00.sb]
+<p>And don't even think about defying me, either!<k><p>Your incomplete powers are no match whatsoever for your big brother!<k>
+### 391 [cf1/c06/c0604_00.sb]
+<p>Waaaaahhhh!! Daddy!!<k>
+### 392 [cf1/c06/c0604_00.sb]
+<p>G-Gohan!!<k>
+### 393 [cf1/c06/c0604_00.sb]
+<p>Well, see you later! Tomorrow's sure gonna be fun! Ah ha ha ha ha hah!<k>
+### 394 [cf1/c06/c0604_00.sb]
+<p>I... I'm sorry... There wasn't a thing I could do against him.<k>
+### 395 [cf1/c06/c0604_00.sb]
+<p>F-Flying Nimbus!!<k>
+### 396 [cf1/c06/c0604_00.sb]
+<p>Hold it, Goku! It's too reckless! We need to think things over first!<k>
+### 397 [cf1/c06/c0604_00.sb]
+<p>Y-you can't go! He's going to kill you!<k>
+### 398 [cf1/c06/c0604_00.sb]
+<p>Do you seriously think you can beat him right now?!<k>
+### 399 [cf1/c06/c0604_00.sb]
+<p>Ugh... Darn it! What am I supposed to do?<k>
+### 400 [cf1/c06/c0604_00.sb]
+<p>Think... think...<k>
+### 401 [cf1/c06/c0605_00.sb]
+<p>Here he is! It's got to be him! Look at how fast he's going!<k>
+### 402 [cf1/c06/c0605_00.sb]
+<p>Where is he planning to go...?<k>
+### 403 [cf1/c06/c0605_00.sb]
+<p>He stopped! Phew... he's still on Earth! He hasn't gone off into outer space yet!<k>
+### 404 [cf1/c06/c0605_00.sb]
+<p>All right! Well, here goes... It's do-or-die time!<k>
+### 405 [cf1/c06/c0605_00.sb]
+<p>I... I guess so! We might have a chance at this, after all!<k>
+### 406 [cf1/c06/c0605_00.sb]
+<p>(Not much of one, but...)<k>
+### 407 [cf1/c06/c0605_00.sb]
+<p>If we're all doomed either way, might as well do as much as we can before doomsday arrives!<k>
+### 408 [cf1/c06/c0605_00.sb]
+<p>You people don't stand a chance! None of you!<k>
+### 409 [cf1/c06/c0605_00.sb]
+<p>Piccolo...!<k>
+### 410 [cf1/c06/c0605_00.sb]
+<p>W-what're you doing here...?!<k>
+### 411 [cf1/c06/c0605_00.sb]
+<p>I was following him.<k>
+### 412 [cf1/c06/c0605_00.sb]
+<p>So you already ran into him?<k>
+### 413 [cf1/c06/c0605_00.sb]
+<p>I did.<k><p>There's no way you two could beat him. I'll come along with you.<k><p>You know as well as I do just how strong he is...<k><p>Neither of us could face him down by ourselves.<k><p>But with the two of us together... there's a small chance of victory!<k>
+### 414 [cf1/c06/c0605_00.sb]
+<p>I guess so... but what's making you want to help me all of a sudden?<k>
+### 415 [cf1/c06/c0605_00.sb]
+<p>Don't get the wrong idea... I'm not some kind of freedom fighter or anything.<k><p>I don't care what happens to your kid... That guy's just in the way of my world domination plans!<k>
+### 416 [cf1/c06/c0605_00.sb]
+<p>Once I team up with you to beat him and those two friends of his...<k><p>You're next on my list, Goku.<k><p>I'll beat you down, and this time the world will be mine for sure!<k>
+### 417 [cf1/c06/c0605_00.sb]
+<p>Not if I can help it...<k><p>Until then, though, I think teaming up is a great idea.<k>
+### 418 [cf1/c06/c0605_00.sb]
+<p>In fact, I guess it's pretty much the only way.<k>
+### 419 [cf1/c06/c0605_00.sb]
+<p>Exactly... we need to be patient here, Goku.<k><p>The idea of partnering with you is enough to make me puke, but I've got to put up with it.<k>
+### 420 [cf1/c06/c0605_00.sb]
+<p>Hey, Bulma! Can I borrow your radar?<k>
+### 421 [cf1/c06/c0605_00.sb]
+<p>Huh? Oh, sure!<k>
+### 422 [cf1/c06/c0605_00.sb]
+<p>Think you can keep up with my Flying Nimbus?<k>
+### 423 [cf1/c06/c0605_00.sb]
+<p>Don't be stupid!<k><p>My strength is in a completely different class than your silly magic tricks.<k>
+### 424 [cf1/c06/c0605_00.sb]
+<p>I... I'm not sure how to feel about this.<k>
+### 425 [cf1/c06/c0605_00.sb]
+<p>Heh heh... well...<k><p>I have to say, I never imagined this pair-up in my wildest dreams.<k>
+### 426 [cf1/c06/c0605_00.sb]
+<p>I doubt there's been a stronger tag team in the history of the world!<k><p>We might just have a chance at this one after all!<k>
+### 427 [cf1/c06/c0605_00.sb]
+<p>This is gonna be one heck of a bout, I'm sure of that!<k><p>Bulma! You remember the spot your radar indicated? Let's all go check it out for ourselves!<k>
+### 428 [cf1/c06/c0605_01.sb]
+<p>Looks like he's going north at supersonic speed!<k>
+### 429 [cf1/c06/c0605_01.sb]
+<p>Hmph. Probably headed for the Spinach Wastes. That's where I first met him.<k>
+### 430 [cf1/c06/c0605_02.sb]
+<p>...I'm seeing a Dragon Ball deep in the wastes.<k><p>That must mean Gohan's somewhere in there, too.<k>
+### 431 [cf1/c06/c0605_02.sb]
+<p>So, what's our plan?<k>
+### 432 [cf1/c06/c0605_02.sb]
+<p>We gotta go in and get Gohan back. <n>That's the only way.<k>
+### 433 [cf1/c06/c0605_02.sb]
+<p>...Heh heh. I never thought I'd be fighting with you quite like this.<k>
+### 434 [cf1/c06/c0605_03.sb]
+<p>!!!!<k>
+### 435 [cf1/c06/c0605_03.sb]
+<p>What is it?!<k>
+### 436 [cf1/c06/c0605_03.sb]
+<p>The Dragon Radar's going crazy right here!<k>
+### 437 [cf1/c06/c0605_03.sb]
+<p>Right! Time to charge in!<k>
+### 438 [cf1/c06/c0605_04.sb]
+<p>Waaaaahhhh! Waaaaahhh!<k>
+### 439 [cf1/c06/c0605_04.sb]
+<p>Shut up, you brat! Gah, how long are you going to keep crying?!<k><p>You bear the blood of the noble Saiyan race! Saiyans are not... crybabies!<k>
+### 440 [cf1/c06/c0605_04.sb]
+<p>Get in there!<k>
+### 441 [cf1/c06/c0605_04.sb]
+<p>Right... guess I'll go hunt for some food.<k>
+### 442 [cf1/c06/c0605_04.sb]
+<p>Hmm?<k>
+### 443 [cf1/c06/c0605_04.sb]
+<p>Weird... a warning signal.<k>
+### 444 [cf1/c06/c0605_04.sb]
+<p>Power level 710?! It's right nearby, too! Where is it?!<k>
+### 445 [cf1/c06/c0605_04.sb]
+<p>What?! It's from that stupid brat!<k>
+### 446 [cf1/c06/c0605_04.sb]
+<p>Gah... this thing's got to be broken. Don't scare me like that!<k>
+### 447 [cf1/c06/c0606_00.sb]
+<p>We're getting close! We should probably touch down and hide pretty soon.<k>
+### 448 [cf1/c06/c0606_00.sb]
+<p>No, Goku! We need to keep going!<k>
+### 449 [cf1/c06/c0606_00.sb]
+<p>The guy's got some weird device that can measure our location and power levels!<k>
+### 450 [cf1/c06/c0606_00.sb]
+<p>So... so you think he knows we're close?<k>
+### 451 [cf1/c06/c0606_00.sb]
+<p>I'm positive of it!<k>
+### 452 [cf1/c06/c0606_00.sb]
+<p>Hmm... I guess a full-frontal attack's our only choice, then!<k>
+### 453 [cf1/c06/c0607_00.sb]
+<p>...Ah, yes.<k><p>Let me tell you something before all of you die.<k><p>The other two surviving Saiyans are even more powerful than I am.<k>
+### 454 [cf1/c06/c0607_00.sb]
+<p>Ugh... no...<k><p>Two more Saiyans... and they're even stronger...<k><p>W-what are we gonna do...?<k>
+### 455 [cf1/c06/c0607_00.sb]
+<p>Oh, brother...<k><p>I wish I didn't have to hear that.<k>
+### 456 [cf1/c06/c0607_00.sb]
+<p>I bet you're excited, Goku.<k>
+### 457 [cf1/c06/c0607_00.sb]
+<p>Heh heh... sorry.<k><p>Not this time, I'm sure not.<k>
+### 458 [cf1/c06/c0607_00.sb]
+<p>I'm so scared, I'm shaking...<k>
+### 459 [cf1/c06/c0607_00.sb]
+<p>But who cares about that! Where's my son?!<k><p>Where have you hidden him?!<k>
+### 460 [cf1/c06/c0607_00.sb]
+<p>I didn't hide him anywhere.<k><p>He wouldn't stop whining, so I just put him away for a bit.<k><p>You see that hole behind you?<k>
+### 461 [cf1/c06/c0607_00.sb]
+<p>He's in there. Still alive, too, I think...<k>
+### 462 [cf1/c06/c0607_00.sb]
+<p>In there...?<k>
+### 463 [cf1/c06/c0607_00.sb]
+<p>Hang on, Gohan!<k><p>Daddy's gonna come help you!<k>
+### 464 [cf1/c06/c0607_00.sb]
+<p>Ha ha ha ha hah!<k><p>Don't give me that!<k><p>There's no way you could possibly save him!<k><p>After all...<k><p>You're going to die before you even have a chance!<k>
+### 465 [cf1/c06/c0607_00.sb]
+<p>Ha ha ha ha hah!<k><p>Looks like you're just about at death's door!<k>
+### 466 [cf1/c06/c0607_00.sb]
+<p>Goku...<k><p>You have any kind of amazing new skill you could use right now?<k>
+### 467 [cf1/c06/c0607_00.sb]
+<p>Heh heh... sorry.<k><p>I gotta admit, I've got nothing.<k>
+### 468 [cf1/c06/c0607_00.sb]
+<p>Geh... When did you get so lazy...?<k><p>I treated my training seriously... and it's gotten me all kinds of new techniques.<k>
+### 469 [cf1/c06/c0607_00.sb]
+<p>Ha ha ha hah! What're you fools going on about?!<k><p>Discuss your strategy all you want! It's worthless!<k><p>It'll be easier for both of you if you just let me kill you now!<k>
+### 470 [cf1/c06/c0607_00.sb]
+<p>Wait...<k><p>So you've got some kind of amazing new technique, then?<k>
+### 471 [cf1/c06/c0607_00.sb]
+<p>You could say that...<k><p>But it takes a lot of time to gather the necessary Ki.<k><p>You'll need to fight him and divert his attention until I'm ready to go.<k>
+### 472 [cf1/c06/c0607_00.sb]
+<p>Got it... But do you think it'll hurt him?<k>
+### 473 [cf1/c06/c0607_00.sb]
+<p>It should. If it doesn't, then we've got nothing left.<k><p>Geh... I wanted to save this move for when I killed you, though.<k>
+### 474 [cf1/c06/c0607_00.sb]
+<p>But you're gonna save my life with it instead, huh?<k>
+### 475 [cf1/c06/c0607_00.sb]
+<p>Heh. If we can get this guy, it'll be your turn next.<k>
+### 476 [cf1/c06/c0607_00.sb]
+<p>Ha ha ha...<k>
+### 477 [cf1/c06/c0607_00.sb]
+<p>Heh heh... This isn't a laughing matter, Goku.<k>
+### 478 [cf1/c06/c0607_00.sb]
+<p>You're laughing at me...?<k><p>Defiant as always, are you?<k>
+### 479 [cf1/c06/c0607_00.sb]
+<p>All right! This is gonna be fun!<k><p>I'll go hold 'em off for you!<k>
+### 480 [cf1/c06/c0607_00.sb]
+<p>Don't give him a single inch!<k>
+### 481 [cf1/c06/c0607_00.sb]
+<p>Not again!<k>
+### 482 [cf1/c06/c0607_00.sb]
+<p>Power level 710... Ahhh, I knew this thing was broken!<k>
+### 483 [cf1/c06/c0607_00.sb]
+<p>Hang on, here's another target...<k>
+### 484 [cf1/c06/c0607_00.sb]
+<p>It's coming this way!<k>
+### 485 [cf1/c06/c0607_00.sb]
+<p>There's one... no, two of them! Power levels 322 and 334! That'd make one of them Kakarot.<k><p>There's no way he should be here, though! He knows full well that he has zero chance of winning...<k><p>Besides, how could he even know where I am right now...?<k>
+### 486 [cf1/c06/c0607_00.sb]
+<p>Oh, brother... this thing's completely useless.<k>
+### 487 [cf1/c06/c0607_00.sb]
+<p>!!<k><p>You're kidding me! They're actually here!!<k>
+### 488 [cf1/c06/c0607_00.sb]
+<p>(Maybe it's not broken after all...!)<k><p>(But... but there has to be some reason for this!)<k><p>(How could a kid like that have a power level of 710? That's ludicrous!)<k>
+### 489 [cf1/c06/c0607_00.sb]
+<p>Well, well. So you were the other one, huh? How did you find me?<k>
+### 490 [cf1/c06/c0607_00.sb]
+<p>As if I'd tell you!<k>
+### 491 [cf1/c06/c0607_00.sb]
+<p>Heh. Whatever. Let's try a different question, then.<k><p>What are you two here for?<k>
+### 492 [cf1/c06/c0607_00.sb]
+<p>Why do you think?! We're here to get my kid back!<k>
+### 493 [cf1/c06/c0607_00.sb]
+<p>So you refuse to join your only kin, your fellow Saiyans?<k>
+### 494 [cf1/c06/c0607_00.sb]
+<p>That's what I told you!<k>
+### 495 [cf1/c06/c0607_00.sb]
+<p>You're going to go against the wishes of your own brother?<k>
+### 496 [cf1/c06/c0607_00.sb]
+<p>I don't have any brother!<k>
+### 497 [cf1/c06/c0607_00.sb]
+<p>Kakarot... I thought you were a smarter man than that.<k><p>I can't believe you're such an idiot... What an enormous disappointment.<k><p>You didn't actually think that the two of you together could beat me, did you?<k>
+### 498 [cf1/c06/c0607_00.sb]
+<p>I've had enough of your yapping.<k>
+### 499 [cf1/c06/c0607_00.sb]
+<p>Piccolo... were you training with weights on, too?<k>
+### 500 [cf1/c06/c0607_00.sb]
+<p>Yep. Just like you.<k>
+### 501 [cf1/c06/c0607_00.sb]
+<p>My body hasn't felt this light in ages.<k>
+### 502 [cf1/c06/c0607_00.sb]
+<p>(What?! His power level's gone up to 408!)<k>
+### 503 [cf1/c06/c0607_00.sb]
+<p>Wow... guess you've been training pretty seriously.<k><p>I'm sure glad I have you on my side for now.<k><p>This ought to make the fight a little easier to deal with.<k>
+### 504 [cf1/c06/c0607_00.sb]
+<p>(Kakarot's up to 416...!)<k><p>Ah ha ha ha hah! You call that strong?!<k>
+### 505 [cf1/c06/c0607_00.sb]
+<p>Don't make me laugh!<k><p>I can't believe that's all you've got for me! You people are in way, way over your heads!<k>
+### 506 [cf1/c06/c0607_00.sb]
+<p>Winning the battle isn't just about strength... We've got a plan, you know.<k>
+### 507 [cf1/c06/c0607_00.sb]
+<p>Yeah, yeah... I've heard it all before.<k><p>Listen up, Kakarot: As of right now, I'm not gonna even try to be friendly with you.<k><p>You'd be nothing but a drag on all of us, that much I'm sure of...<k><p>You're an embarrassment to our entire race! Prepare to die!!<k>
+### 508 [cf1/c06/c0608_00.sb]
+<p>He... he dodged it! I can't believe it. He's so fast...<k>
+### 509 [cf1/c06/c0608_00.sb]
+<p>That blast pierced right through my armor...<k><p>That's one impressive move. If I took the full force of it, I'd be down for sure.<k>
+### 510 [cf1/c06/c0608_00.sb]
+<p>...If I can't hit with it, it's worthless.<k>
+### 511 [cf1/c06/c0608_00.sb]
+<p>You're gonna pay for that... I promise you will! I'm through playing around here.<k>
+### 512 [cf1/c06/c0608_00.sb]
+<p>Oh, no...it's all over!<k>
+### 513 [cf1/c06/c0608_00.sb]
+<p>I'll vaporize you in an instant!<k>
+### 514 [cf1/c06/c0608_00.sb]
+<p>Dieeee!!!<k>
+### 515 [cf1/c06/c0608_00.sb]
+<p>Agh... nnnngh...!!<k>
+### 516 [cf1/c06/c0608_00.sb]
+<p>You... you let your guard down. I've got your tail now...!<k>
+### 517 [cf1/c06/c0608_00.sb]
+<p>You... how did you do that...?<k>
+### 518 [cf1/c06/c0608_00.sb]
+<p>Now, Piccolo! Do that thing you did before!<k>
+### 519 [cf1/c06/c0608_00.sb]
+<p>Oh... uh, right!<k><p>Nice work, Goku! You better hold on tight to that tail!<k><p>I can unleash that move one more time, but that's it!<k>
+### 520 [cf1/c06/c0608_00.sb]
+<p>K-Kakarot... you're going to kill the only brother you have in the world?<k>
+### 521 [cf1/c06/c0608_00.sb]
+<p>Shut up! I told you, I don't have any brother! Not one as horrible as you are!<k><p>Besides, you're the one who was trying to kill me earlier! Don't try to talk your way out of this!<k>
+### 522 [cf1/c06/c0608_00.sb]
+<p>I... I give up!<k><p>I've had a change of heart... I promise I'll leave the planet peacefully.<k>
+### 523 [cf1/c06/c0608_00.sb]
+<p>Don't let him fool you, Goku!<k><p>He's just trying to cover his hide! You know he'd never do anything like that!<k>
+### 524 [cf1/c06/c0608_00.sb]
+<p>P-please... believe me, my brother! I've been so terrible all this time...<k><p>But... but I swear I'll keep my promise.<k>
+### 525 [cf1/c06/c0608_00.sb]
+<p>Don't let go of his tail! He's trying to trick you!<k>
+### 526 [cf1/c06/c0608_00.sb]
+<p>I... I'm begging you, Kakarot! Believe in me!<k>
+### 527 [cf1/c06/c0608_00.sb]
+<p>Goku!!!<k>
+### 528 [cf1/c06/c0608_00.sb]
+<p>Ngh!<k>
+### 529 [cf1/c06/c0608_00.sb]
+<p>Ugh! You... you fool...!!<k>
+### 530 [cf1/c06/c0608_00.sb]
+<p>Haaaaah hah hah! Perfect!<k><p>It's rare to run into someone as stupid as you, Kakarot!<k><p>I can't believe you fell for that! You'll never be a real warrior, that's for sure!<k>
+### 531 [cf1/c06/c0608_00.sb]
+<p>You...you dirty...<k>
+### 532 [cf1/c06/c0608_00.sb]
+<p>You're nothing like I am... I'm a first-class warrior!<k><p>I can kill people without even a moment of hesitation!<k><p>Care to see a little sample? Hmm?<k><p>Hyah!!<k>
+### 533 [cf1/c06/c0608_00.sb]
+<p>Gaaahhh!!<k>
+### 534 [cf1/c06/c0608_00.sb]
+<p>Hah! Yah! Suffer! Your death is near!<k>
+### 535 [cf1/c06/c0608_00.sb]
+<p>Grh... gah...!! Aaahhh!!<k>
+### 536 [cf1/c06/c0608_00.sb]
+<p>Haaaah hah hah!<k><p>Okay, your turn! Come on, lay one on me! What's the problem? Give me another one of those blasts!<k>
+### 537 [cf1/c06/c0608_00.sb]
+<p>Grrhhh...! H-he'd just dodge it again...<k>
+### 538 [cf1/c06/c0608_00.sb]
+<p>Yaaaahhhh! Nngh... rrghh...!<k>
+### 539 [cf1/c06/c0608_00.sb]
+<p>...?! What the...?!<k>
+### 540 [cf1/c06/c0608_01.sb]
+<p>*sniff*<k>
+### 541 [cf1/c06/c0608_01.sb]
+<p>G-Goku's... son?<k>
+### 542 [cf1/c06/c0608_01.sb]
+<p>Gohan...?!<k>
+### 543 [cf1/c06/c0608_01.sb]
+<p>What... what is this?!<k>
+### 544 [cf1/c06/c0608_01.sb]
+<p>G-get away, Gohan! Get away!<k>
+### 545 [cf1/c06/c0608_01.sb]
+<p>P-power level... 1307?!!<k>
+### 546 [cf1/c06/c0608_01.sb]
+<p>LEAVE MY DADDY ALONE!!!<k>
+### 547 [cf1/c06/c0608_01.sb]
+<p>Waaaaaaaahhhh!!!<k>
+### 548 [cf1/c06/c0608_01.sb]
+<p>Whoa!!<k>
+### 549 [cf1/c06/c0608_01.sb]
+<p>Grnhh...!!<k>
+### 550 [cf1/c06/c0608_01.sb]
+<p>......Gohan.<k>
+### 551 [cf1/c06/c0608_01.sb]
+<p>Oh! D-Daddy...!<k>
+### 552 [cf1/c06/c0608_01.sb]
+<p>Gohan... wow...<k>
+### 553 [cf1/c06/c0608_01.sb]
+<p>W-what is that kid...?<k>
+### 554 [cf1/c06/c0608_01.sb]
+<p>Gohan, you need to get out of here!<k>
+### 555 [cf1/c06/c0608_01.sb]
+<p>N-now his power level's back down to 1... It swings wildly depending on his emotions.<k>
+### 556 [cf1/c06/c0608_01.sb]
+<p>W-wait...! Stop it... you can't do that!<k>
+### 557 [cf1/c06/c0608_01.sb]
+<p>Why not? Because he's just a kid?<k><p>Don't give me those lies! This brat's power level is higher than yours!<k><p>I'm going to kill him before he learns how to control his powers correctly!<k><p>Don't worry... you'll get to see him soon enough, over in the Other World!<k>
+### 558 [cf1/c06/c0608_01.sb]
+<p>You... you monster! How could you still have so much power?!<k>
+### 559 [cf1/c06/c0608_01.sb]
+<p>Piccolo! Give me that move one more time!<k>
+### 560 [cf1/c06/c0608_01.sb]
+<p>Got it! I've got it prepared already!<k><p>It's gonna take some time, though! Why didn't you grab on to his tail?!<k>
+### 561 [cf1/c06/c0608_01.sb]
+<p>He... he can just rip that tail off anytime he wants!<k>
+### 562 [cf1/c06/c0608_01.sb]
+<p>Gah! You knew...?!<k>
+### 563 [cf1/c06/c0608_01.sb]
+<p>C-come on! Hurry it up!!<k>
+### 564 [cf1/c06/c0608_01.sb]
+<p>C-curse youuuu!! That brat's attack robbed me of my power...<k><p>Let me go, Kakarot! Don't you realize his attack will hurt you too, you fool?!<k>
+### 565 [cf1/c06/c0608_01.sb]
+<p>Heh heh... I'm gonna die right along with you!<k>
+### 566 [cf1/c06/c0608_01.sb]
+<p>W-what?! Have you gone crazy?!<k>
+### 567 [cf1/c06/c0608_01.sb]
+<p>This... this is the only way we have of defeating you...!<k>
+### 568 [cf1/c06/c0608_01.sb]
+<p>I'm not gonna hold back for you, Goku...<k><p>Both of you dying together is the best ending I could possibly hope for!<k><p>(Geh... not that it'd be much of a permanent solution, though.)<k><p>(I'm sure your friends would just resurrect you with the Dragon Balls before long...)<k>
+### 569 [cf1/c06/c0608_01.sb]
+<p>Are... are you ready yet?! My ribs are breaking here... Just do it already!!<k>
+### 570 [cf1/c06/c0608_01.sb]
+<p>Let me go!! This... this is all my fault! I swear I won't come to this planet ever again!<k>
+### 571 [cf1/c06/c0608_01.sb]
+<p>You aren't fooling me with that line twice!<k>
+### 572 [cf1/c06/c0608_01.sb]
+<p>Okay, I'm all set... You ready to go?<k>
+### 573 [cf1/c06/c0608_01.sb]
+<p>Do it!!<k>
+### 574 [cf1/c06/c0608_01.sb]
+<p>Special Beam Cannon!!!<k>
+### 575 [cf1/c06/c0608_01.sb]
+<p>Ergh...!! No... noooooo!!!<k>
+### 576 [cf1/c06/c0608_01.sb]
+<p>Heh heh...!<k>
+### 577 [cf1/c06/c0608_02.sb]
+<p>Curse you all... how could I have... let you beat me...?<k>
+### 578 [cf1/c06/c0608_02.sb]
+<p>You got what you deserved.<k>
+### 579 [cf1/c06/c0608_02.sb]
+<p>Heh... heh heh heh...<k><p>I never thought... Kakarot would sacrifice his own life...<k>
+### 580 [cf1/c06/c0608_02.sb]
+<p>You idiot. Goku can come back to life anytime he wants.<k>
+### 581 [cf1/c06/c0608_02.sb]
+<p>This planet has something called Dragon Balls... They're very useful things.<k><p>Make a wish to them, and you can do anything... even raise the dead.<k>
+### 582 [cf1/c06/c0608_02.sb]
+<p>Heh... heh heh... You do realize that this is all being recorded?<k><p>The entire battle... is being broadcasted to my two friends, far away in space...<k><p>Once they realize I've been defeated... they'll come here for you...<k>
+### 583 [cf1/c06/c0608_02.sb]
+<p>Y-you Earthlings are such fools...<k><p>They will come and eradicate humanity in the blink of an eye...<k><p>And maybe I'll have them... resurrect me with those... magical balls of yours...<k>
+### 584 [cf1/c06/c0608_02.sb]
+<p>W-when... are they gonna come here...?<k>
+### 585 [cf1/c06/c0608_02.sb]
+<p>One year... that's all it'll take them... heh heh heh...<k>
+### 586 [cf1/c06/c0608_02.sb]
+<p>One year... They'll be even stronger, and there's two of them...<k>
+### 587 [cf1/c06/c0608_02.sb]
+<p>You'll have no chance to win... I'm sure of it this time.<k><p>Hope... hope you enjoy the year's time you have left... heh heh heh...<k>
+### 588 [cf1/c06/c0608_02.sb]
+<p>Hee hee hee... a pretty short-lived victory, huh...?<k><p>You humans are nothing more than annoying flies...<k>
+### 589 [cf1/c06/c0608_02.sb]
+<p>Hrahhh!!!<k>
+### 590 [cf1/c06/c0608_02.sb]
+<p>That oughta put you to rest. It's what you deserve for all that trash talk...<k>
+### 591 [cf1/c06/c0608_02.sb]
+<p>Ahh!<k>
+### 592 [cf1/c06/c0608_02.sb]
+<p>I see someone!<k><p>Over there! There's a few people lying on the ground! Who's that standing up...?!<k>
+### 593 [cf1/c06/c0608_02.sb]
+<p>It's Piccolo!!<k><p>W-what on earth has happened here...?<k>
+### 594 [cf1/c06/c0608_03.sb]
+<p>Hmm... I see...<k>
+### 595 [cf1/c06/c0608_03.sb]
+<p>And then you came here.<k>
+### 596 [cf1/c06/c0608_03.sb]
+<p>Goku! Come on, Goku!<k><p>You can't just die like this! Come on, hang in there!<k>
+### 597 [cf1/c06/c0608_03.sb]
+<p>Gohan's unconscious, but he looks all right to me.<k>
+### 598 [cf1/c06/c0608_03.sb]
+<p>Whew... Thank heavens. Now Chi-Chi won't yell at me...<k><p>K-Krillin... it's... it's not much fun to die, is it...?<k>
+### 599 [cf1/c06/c0608_03.sb]
+<p>I... I guess not. Don't worry, though. We'll resurrect you as fast as we can.<k>
+### 600 [cf1/c06/c0608_03.sb]
+<p>Heh heh... thanks...<k>
+### 601 [cf1/c06/c0608_03.sb]
+<p>Agh!<k>
+### 602 [cf1/c06/c0608_03.sb]
+<p>He disappeared!!<k>
+### 603 [cf1/c06/c0608_03.sb]
+<p>Hmm... must be the work of Kami.<k>
+### 604 [cf1/c06/c0608_03.sb]
+<p>He's the only one who could do something like that.<k><p>That little sneak... He's probably got some stupid plan for Goku up his sleeve again.<k>
+### 605 [cf1/c06/c0608_99.sb]
+<p>Oh, no... it's all over!<k>
+### 606 [cf1/c06/c0608_99.sb]
+<p>Shut up! I told you, I don't have any brother! Not one as horrible as you are!<k><p>Besides, you're the one who was trying to kill me earlier! Don't give me your lies!<k>
+### 607 [cf1/c06/c0608_99.sb]
+<p>You... you dirty...<k>
+### 608 [cf1/c06/c0609_00.sb]
+<p>Yo! Hey, it's me! Long time no see!<k><p>I kinda forgot to tell you about Ki-Blasts, so let me give you the whole story on them.<k><p>If something breakable is flashing orange, you can break it right away...<k><p>But if it's flashing white, your Ki-Blast needs to be level 2. If black, then you'll need level 3!<k>
+### 609 [cf1/c06/c0609_00.sb]
+<p>Your Ki-Blast level goes up as you keep training, after certain events occur.<k><p>Best of luck out there!<k>
+### 610 [cf1/c06/c0609_00.sb]
+<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>
+### 611 [cf1/c06/c0609_00.sb]
+<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>
+### 612 [cf1/c06/c0609_00.sb]
+<p>Raditz, that moron... he died...<k>
+### 613 [cf1/c06/c0609_00.sb]
+<p>What a loser.<k><p>Getting killed by a bunch of guys whose power level barely broke 1000...<k>
+### 614 [cf1/c06/c0609_00.sb]
+<p>So, now what? Maybe we should save this planet for later...<k>
+### 615 [cf1/c06/c0609_00.sb]
+<p>Those Dragon Balls intrigue me... He said they can make any wish come true.<k>
+### 616 [cf1/c06/c0609_00.sb]
+<p>All right. Let's go!<k>
+### 617 [cf1/c06/c0609_00.sb]
+<p>Are you gonna resurrect Raditz?<k>
+### 618 [cf1/c06/c0609_00.sb]
+<p>Are you kidding me? I don't need that worthless bum.<k>
+### 619 [cf1/c06/c0609_00.sb]
+<p>Then how about we wish for eternal youth?<k><p>We could fight on and on, forever. It'd be great.<k>
+### 620 [cf1/c06/c0609_00.sb]
+<p>Hmmm...! Not a bad idea!<k>
+### 621 [cf1/c06/c0609_00.sb]
+<p>Still, the power Kakarot's son showed... He far outclasses any Saiyan kid I knew.<k>
+### 622 [cf1/c06/c0609_00.sb]
+<p>You don't think that was some kind of Scouter error?<k>
+### 623 [cf1/c06/c0609_00.sb]
+<p>No. It couldn't have been.<k><p>You saw how Raditz was nearly floored by a single strike from the kid...<k><p>If I had to guess, there must be something about combining the blood of Saiyans...<k><p>...with that of Earthlings. It must unleash some sort of massive new power.<k>
+### 624 [cf1/c06/c0609_00.sb]
+<p>A sort of Super Saiyan, you could say...<k><p>Interesting... if we could create more of those hybrids, then us Saiyans may yet rule again!<k>
+### 625 [cf1/c06/c0609_00.sb]
+<p>Don't be stupid! What do you think would happen if more of those guys show up?<k><p>It'd just make our position dangerous. It wouldn't accomplish anything for us.<k>
+### 626 [cf1/c06/c0609_00.sb]
+<p>I suppose you're right... Either way, Earth's inhabitants don't have long to live!<k>
+### 627 [cf1/c06/c0609_00.sb]
+<p>Well... I'd say it's time for the first long rest we've had in a while.<k>
+### 628 [cf1/c06/c0609_00.sb]
+<p>I'll see you in a year. This is going to be so much fun!<k>

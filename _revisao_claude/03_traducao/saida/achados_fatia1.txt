@@ -1,0 +1,26 @@
+nº | arquivo:índice | trecho atual | sugestão | ALTO/MÉDIO/BAIXO | motivo curto
+344 | cf0/god/god03_00.sb:13 | "Você já capturou todos os monstros." | "Vocês já capturaram todos os monstros." | MÉDIO | tratamento incoerente: no mesmo arquivo (347, 350-365) Kami-Sama/Sr. Popo falam com "vocês"
+346 | cf0/god/god03_00.sb:16 | "Você já capturou todo tipo de monstro que existe." | "Vocês já capturaram todo tipo de monstro que existe." | MÉDIO | mesmo problema de tratamento singular/plural (348 e seguintes usam "vocês")
+346 | cf0/god/god03_00.sb:16 | "O mestre virou mesmo o aluno!" | "O aluno superou o mestre!" | MÉDIO | calque do EN, que já está confuso; em PT a frase fica sem sentido (a intenção é elogiar)
+672 | cf0/skr/skr02_00.sb:64 | "você esquiva dos ataques inimigos" | "você se esquiva dos ataques inimigos" | MÉDIO | regência: "esquivar-se de" é pronominal
+587 | cf0/kos/kos04_00.sb:15 | "Pra bem ou pra mal, ninguém fica entediado" | "Pro bem ou pro mal, ninguém fica entediado" | MÉDIO | expressão fixa é "para o bem ou para o mal" (falta o artigo)
+709 | cf0/ura/ura01_00.sb:10 | "dá pra soltar raios e tal! [...] Que tipo de ondas?" | "dá pra soltar ondas e tal! [...] Que tipo de ondas?" | BAIXO | a piada seguinte fala de "ondas"; com "raios" a segunda fala fica sem gancho
+90 | cf0/bud/bud01_00.sb:34 | "23° Torneio de Artes Marciais" | "23º Torneio de Artes Marciais" | BAIXO | usado o símbolo de grau (°) no lugar do ordinal (º); trocar só se a fonte tiver o º
+5 | cf/las05_battle_event.sb:16 | "Sou o Senhor Kaioh, quem ensinou a Genki Dama ao Goku." | "Sou o Senhor Kaioh, aquele que ensinou a Genki Dama ao Goku." | BAIXO | "quem" como aposto de nome soa errado
+492 | cf0/kam/kam01_00.sb:68 | "dar a notícia para a Chichi e o Cutelo" | "dar a notícia para a Chichi e para o Cutelo" | BAIXO | regência: falta repetir a preposição no segundo complemento
+703 | cf0/tut/tut02_00.sb:46 | "só aumenta metade da resistência a Veneno quando está na reserva" | "só aumenta a resistência a Veneno pela metade quando está na reserva" | BAIXO | construção estranha e ambígua
+703/705/706 | cf0/tut/tut02_00.sb:46-49 | "experimentem sempre que acharem" (703) x "Tente equipar" (705) / "veja você mesmo" (706) | padronizar (ex.: tudo em "vocês", como em 702) | BAIXO | o mesmo tutorial alterna "vocês" e "você"
+481 | cf0/kam/kam01_00.sb:17 | "Eu me lembro do Mestre Kame visitando aquela ilha" | "Lembro que o Mestre Kame visitou aquela ilha" | BAIXO | gerúndio calcado do inglês
+401 | cf0/hel/hel01_00.sb:37 | "Dá frutas parecidas com pêssegos que parecem deliciosas." | "Dá frutas parecidas com pêssegos, com cara de deliciosas." | BAIXO | "parecidas/parecem" repetido
+553 | cf0/kam/kam03_00.sb:62 | "Livros sérios servem para esconder os mais picantes, escondidos nas sombras." | "Livros sérios servem para esconder os mais picantes, que ficam nas sombras." | BAIXO | "esconder/escondidos" repetido
+561 | cf0/kar/kar01_00.sb:15 | "Pelos pelos, deve ser do Mestre Karin." | "Pela pelagem, deve ser do Mestre Karin." | BAIXO | "Pelos pelos" é correto mas se lê como erro de digitação
+614 | cf0/nem/nem05_00.sb:18 | "Você não tem certeza de para que serve este aparelho." | "Você não sabe bem para que serve este aparelho." | BAIXO | "de para que" fica truncado
+624 | cf0/pao/pao04_00.sb:32 | "usar pesos pesados pra aprimorar o corpo" | "usar muito peso pra aprimorar o corpo" | BAIXO | redundância; "peso-pesado" também lembra categoria de luta
+295 | cf0/for/for01_00.sb:16 | "Usar <c=#8BEFD4>Coisa do Bubbles<c>?" | "Usar a <c=#8BEFD4>Coisa do Bubbles<c>?" | BAIXO | falta o artigo; outros prompts usam ("Usar a Chave do Esgoto?" em 147)
+27 | cf/worldmap.sb:31 | "Deserto Break" | "Ermo Break" | BAIXO | "Wasteland" virou "Ermo" em 45/46 ("Ermo Páprica", "Ermo Gizard"); "Deserto" já é o nome de outro lugar (33)
+32 | cf/worldmap.sb:43 | "Monte Frappe" | "Montanha Frappe" (ou trocar Paozu para "Monte Paozu") | BAIXO | "Mt." vira "Montanha" em 28/31 e "Monte" aqui
+594 | cf0/krd/krd03_00.sb:32 | "mestre do Mestre Kame e do Mestre Shen" | "Mestre Tsuru" (se o glossário seguir a dublagem BR) | BAIXO | nome fora do glossário; o projeto usa "Mestre Shen" nas fatias 2 e 5, então é só para decidir e padronizar
+594 | cf0/krd/krd03_00.sb:32 | "uma estátua de Mutaito" | "uma estátua do Mestre Mutaito" | BAIXO | em 321 e na fatia 2 é sempre "Mestre Mutaito"
+
+Impressão geral: a fatia está muito boa. Não há resto de inglês, erro de sentido grave nem nome errado, e o glossário foi aplicado sem desvios (Kuririn, Tenshinhan, Chaos, Mestre Kame, Senhor Kaioh, Kami-Sama, Sr. Popo, Vovó Uranai, Senhor Enma, Cutelo, Lunch, Número 8, Mestre Karin, Kakarotto, Saiyajins, Esferas do Dragão, Genki Dama, Sementes dos Deuses, Princesa Serpente, Exército Red Ribbon, Casa do Kame, Torre Karin). A acentuação está correta e os trocadilhos foram bem adaptados ("enfadadas", "Pririn", "perdidamente", "ssssorrateiro"). Os problemas são pontuais: tratamento você/vocês, uma regência, uma expressão fixa e alguns nomes de lugar sem padrão.
+Entradas lidas: 756 (nº 0 a 755, arquivo inteiro, 2268 linhas). Códigos de controle conferidos por amostragem: nenhuma divergência vista.

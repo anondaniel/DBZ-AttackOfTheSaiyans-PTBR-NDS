@@ -1,0 +1,17 @@
+# ROMs: jogo comercial (original e derivados) e grandes demais para o git.
+# Ficam no backup (C:\Users\daniel.figueira\Backups\DBZ-DS_*\) e no contêiner (/ds/rom).
+rom/
+*.nds
+*.zip
+
+# Saídas de teste do emulador: save states (~19 MB cada) e capturas de tela.
+saida/
+saida_teste/
+*.bin
+
+# Ferramentas de terceiros (núcleo do melonDS, capstone): só no contêiner/backup.
+tools/
+
+# Python
+__pycache__/
+*.pyc

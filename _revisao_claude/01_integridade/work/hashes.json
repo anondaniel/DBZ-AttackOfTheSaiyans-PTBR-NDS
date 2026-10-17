@@ -1,0 +1,106 @@
+[
+ {
+  "nome": "ORIG zip/(USA)(En,Fr).nds",
+  "bytes": 134217728,
+  "crc32": "a9f0b8f9",
+  "sha1": "b5d8ebbc8813db68270ea02f0e581f6005f54736",
+  "sha256": "e310a165a9fc87f0b20ef31033d7a3c55939609e5923f87cf224b2d898f3e11b",
+  "md5": "9c83a44ca1880d813eeb1c968dc6931f"
+ },
+ {
+  "nome": "00_Original/rom_antiga_do_switch_2026-10-11",
+  "bytes": 134217728,
+  "crc32": "431f0f32",
+  "sha1": "b593d15cdbc540f7cd6ebcae68836cc7f21f5607",
+  "sha256": "e19ede8a0f36735ef2ac970152698bd1992ad76131a0c04562662f59ea9032b5",
+  "md5": "c7b3d44a1b66c9e8ae99ca7b33918591"
+ },
+ {
+  "nome": "01_ROM/DBZ Attack of the Saiyans PT-BR.nds",
+  "bytes": 134217728,
+  "crc32": "670e3cf1",
+  "sha1": "74f536b0780857784eadb6d5e56b717ffbca49a0",
+  "sha256": "41412a4727328d5341ba2f7d17fa567c84db137d8cd082bc32389c6d27643a5f",
+  "md5": "55535efa321a90f8959d728859504c16"
+ },
+ {
+  "nome": "01_ROM zip/DBZ...PT-BR.nds",
+  "bytes": 134217728,
+  "crc32": "670e3cf1",
+  "sha1": "74f536b0780857784eadb6d5e56b717ffbca49a0",
+  "sha256": "41412a4727328d5341ba2f7d17fa567c84db137d8cd082bc32389c6d27643a5f",
+  "md5": "55535efa321a90f8959d728859504c16"
+ },
+ {
+  "nome": "07_Teste_Audio_PC/PTBR.nds",
+  "bytes": 134217728,
+  "crc32": "670e3cf1",
+  "sha1": "74f536b0780857784eadb6d5e56b717ffbca49a0",
+  "sha256": "41412a4727328d5341ba2f7d17fa567c84db137d8cd082bc32389c6d27643a5f",
+  "md5": "55535efa321a90f8959d728859504c16"
+ },
+ {
+  "nome": "10_Auditoria_Inimigos/Dragon Ball Z - Attack of the Saiyans.nds",
+  "bytes": 134217728,
+  "crc32": "670e3cf1",
+  "sha1": "74f536b0780857784eadb6d5e56b717ffbca49a0",
+  "sha256": "41412a4727328d5341ba2f7d17fa567c84db137d8cd082bc32389c6d27643a5f",
+  "md5": "55535efa321a90f8959d728859504c16"
+ },
+ {
+  "nome": "12_Coerencia_Historia/DBZ ... PT-BR Coerencia.nds",
+  "bytes": 134217728,
+  "crc32": "fe1fe43d",
+  "sha1": "abc2c10b51aa933855b086a470e52e2825d20cea",
+  "sha256": "130b4ad843d85d760c4e844de26c35021bde0b43b6c5f34d6c3c639b2f5a9edd",
+  "md5": "b3b6668e9dc9fc44d850a84e46392716"
+ },
+ {
+  "nome": "Downloads/melonDS-1.1/DBZ Attack of the Saiyans PT-BR.nds",
+  "bytes": 134217728,
+  "crc32": "670e3cf1",
+  "sha1": "74f536b0780857784eadb6d5e56b717ffbca49a0",
+  "sha256": "41412a4727328d5341ba2f7d17fa567c84db137d8cd082bc32389c6d27643a5f",
+  "md5": "55535efa321a90f8959d728859504c16"
+ },
+ {
+  "nome": "Backup conteiner-ds/rom/aots.nds",
+  "bytes": 134217728,
+  "crc32": "a9f0b8f9",
+  "sha1": "b5d8ebbc8813db68270ea02f0e581f6005f54736",
+  "sha256": "e310a165a9fc87f0b20ef31033d7a3c55939609e5923f87cf224b2d898f3e11b",
+  "md5": "9c83a44ca1880d813eeb1c968dc6931f"
+ },
+ {
+  "nome": "Backup conteiner-ds/rom/aots_ptbr_img.nds",
+  "bytes": 134217728,
+  "crc32": "670e3cf1",
+  "sha1": "74f536b0780857784eadb6d5e56b717ffbca49a0",
+  "sha256": "41412a4727328d5341ba2f7d17fa567c84db137d8cd082bc32389c6d27643a5f",
+  "md5": "55535efa321a90f8959d728859504c16"
+ },
+ {
+  "nome": "patch 11/aots_ptbr.bps",
+  "bytes": 2112001,
+  "crc32": "2144df1c",
+  "sha1": "fd8adec37d423d39dfc28fc9479ed9c4f37d5e5e",
+  "sha256": "8d3e04696a56de81734b29e3a39558a92f857994b7621a19ec13b63fc949a423",
+  "md5": "2dee79d4d6b53bf890ff74b2dd6a92fc"
+ },
+ {
+  "nome": "patch 12/Coerencia_sobre_PTBR_1.0.0-rc.1.bps",
+  "bytes": 1263965,
+  "crc32": "2144df1c",
+  "sha1": "14e6cabd1b81ba2ecc15495fe2e36802f04d9720",
+  "sha256": "25f43232578959cf18b82ee46e986cb347583b8d351f71e58301e159f06e11b1",
+  "md5": "adfbd4e5449c517a7141c05c6d19e2d1"
+ },
+ {
+  "nome": "patch 12/DBZ_PTBR_Coerencia_completo.bps",
+  "bytes": 7762105,
+  "crc32": "2144df1c",
+  "sha1": "ed8ae1ed3d23af6383123bf76cc240dc95d0ff97",
+  "sha256": "1d35b32302c82b5930faaf73bf4c758cf4160680b066621ce01c90ef8c7440c8",
+  "md5": "5bde3dae6dd1c292ebe98e42f0a41674"
+ }
+]

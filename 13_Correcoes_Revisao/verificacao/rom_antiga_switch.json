@@ -1,0 +1,17 @@
+{
+ "arquivo": "00_Original\\rom_antiga_do_switch_2026-10-11\\Dragon Ball Z - Attack of the Saiyans.nds",
+ "bytes": 134217728,
+ "crc32": "431f0f32",
+ "sha1": "b593d15cdbc540f7cd6ebcae68836cc7f21f5607",
+ "sha256": "e19ede8a0f36735ef2ac970152698bd1992ad76131a0c04562662f59ea9032b5",
+ "bytes_diferentes_do_original": 167,
+ "faixa": [
+  "0x33c",
+  "0xfff"
+ ],
+ "todos_zerados_nela": true,
+ "resto_da_rom_identico": true,
+ "arquivos_nitrofs_diferentes": [],
+ "crc16_cabecalho_valido": true,
+ "conclusao": "ROM original em ingles (USA, BRPE) com os campos de assinatura/HMAC do cabecalho zerados; nao e PT-BR; nenhum BPS a aceita como origem (CRC32 diferente de a9f0b8f9)."
+}

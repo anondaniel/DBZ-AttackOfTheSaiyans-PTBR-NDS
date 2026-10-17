@@ -1,0 +1,8324 @@
+{
+ "0": {
+  "original": "First attack!",
+  "ids": [
+   "bdat:btl_mes_SYS:0:us"
+  ]
+ },
+ "1": {
+  "original": "Sneak attack!",
+  "ids": [
+   "bdat:btl_mes_SYS:1:us"
+  ]
+ },
+ "2": {
+  "original": "Not enough Ki.",
+  "ids": [
+   "bdat:btl_mes_SYS:2:us"
+  ]
+ },
+ "3": {
+  "original": "Failed to escape...",
+  "ids": [
+   "bdat:btl_mes_SYS:3:us"
+  ]
+ },
+ "4": {
+  "original": "Cannot escape this battle!",
+  "ids": [
+   "bdat:btl_mes_SYS:4:us"
+  ]
+ },
+ "5": {
+  "original": "No one came...",
+  "ids": [
+   "bdat:btl_mes_SYS:5:us"
+  ]
+ },
+ "6": {
+  "original": "No one to switch to.",
+  "ids": [
+   "bdat:btl_mes_SYS:6:us"
+  ]
+ },
+ "7": {
+  "original": "<f> fled.",
+  "ids": [
+   "bdat:btl_mes_SYS:7:us"
+  ]
+ },
+ "8": {
+  "original": "<i> stolen.",
+  "ids": [
+   "bdat:btl_mes_SYS:8:us"
+  ]
+ },
+ "9": {
+  "original": "<f> watches on.",
+  "ids": [
+   "bdat:btl_mes_SYS:9:us"
+  ]
+ },
+ "10": {
+  "original": "Cannot use Scouter.",
+  "ids": [
+   "bdat:btl_mes_SYS:10:us"
+  ]
+ },
+ "11": {
+  "original": "Rage Gauge not full.",
+  "ids": [
+   "bdat:btl_mes_SYS:11:us"
+  ]
+ },
+ "12": {
+  "original": "You have no items.",
+  "ids": [
+   "bdat:btl_mes_SYS:12:us"
+  ]
+ },
+ "13": {
+  "original": "Can't use in Kaio-ken mode.",
+  "ids": [
+   "bdat:btl_mes_SYS:13:us"
+  ]
+ },
+ "14": {
+  "original": "No Supers learned.",
+  "ids": [
+   "bdat:btl_mes_SYS:14:us"
+  ]
+ },
+ "15": {
+  "original": "<t> was revived.",
+  "ids": [
+   "bdat:btl_mes_SYS:19:us"
+  ]
+ },
+ "16": {
+  "original": "<t> appeared.",
+  "ids": [
+   "bdat:btl_mes_SYS:20:us"
+  ]
+ },
+ "17": {
+  "original": "<f>'s Attack rose.",
+  "ids": [
+   "bdat:btl_mes_SYS:21:us"
+  ]
+ },
+ "18": {
+  "original": "<f>'s Defense rose.",
+  "ids": [
+   "bdat:btl_mes_SYS:22:us"
+  ]
+ },
+ "19": {
+  "original": "<f>'s Accuracy rose.",
+  "ids": [
+   "bdat:btl_mes_SYS:23:us"
+  ]
+ },
+ "20": {
+  "original": "<f>'s Evade rose.",
+  "ids": [
+   "bdat:btl_mes_SYS:24:us"
+  ]
+ },
+ "21": {
+  "original": "<f>'s Speed rose.",
+  "ids": [
+   "bdat:btl_mes_SYS:25:us"
+  ]
+ },
+ "22": {
+  "original": "<f>'s Rage Gauge rose.",
+  "ids": [
+   "bdat:btl_mes_SYS:26:us"
+  ]
+ },
+ "23": {
+  "original": "<f>'s Attack fell.",
+  "ids": [
+   "bdat:btl_mes_SYS:27:us"
+  ]
+ },
+ "24": {
+  "original": "<f>'s Defense fell.",
+  "ids": [
+   "bdat:btl_mes_SYS:28:us"
+  ]
+ },
+ "25": {
+  "original": "<f>'s Accuracy fell.",
+  "ids": [
+   "bdat:btl_mes_SYS:29:us"
+  ]
+ },
+ "26": {
+  "original": "<f>'s Evade fell.",
+  "ids": [
+   "bdat:btl_mes_SYS:30:us"
+  ]
+ },
+ "27": {
+  "original": "<f>'s Speed fell.",
+  "ids": [
+   "bdat:btl_mes_SYS:31:us"
+  ]
+ },
+ "28": {
+  "original": "<f>'s Rage Gauge fell.",
+  "ids": [
+   "bdat:btl_mes_SYS:32:us"
+  ]
+ },
+ "29": {
+  "original": "Took back <i>.",
+  "ids": [
+   "bdat:btl_mes_SYS:33:us"
+  ]
+ },
+ "30": {
+  "original": "All",
+  "ids": [
+   "bdat:btl_mes_SYS:44:us"
+  ]
+ },
+ "31": {
+  "original": "Item",
+  "ids": [
+   "bdat:btl_mes_SYS:45:us"
+  ]
+ },
+ "32": {
+  "original": "Attack",
+  "ids": [
+   "bdat:btl_mes_SYS:46:us"
+  ]
+ },
+ "33": {
+  "original": "Defend",
+  "ids": [
+   "bdat:btl_mes_SYS:47:us"
+  ]
+ },
+ "34": {
+  "original": "Super",
+  "ids": [
+   "bdat:btl_mes_SYS:48:us"
+  ]
+ },
+ "35": {
+  "original": "Ultimate",
+  "ids": [
+   "bdat:btl_mes_SYS:49:us"
+  ]
+ },
+ "36": {
+  "original": "Switch",
+  "ids": [
+   "bdat:btl_mes_SYS:50:us",
+   "bdat:cf_mes_MENU:35:us"
+  ]
+ },
+ "37": {
+  "original": "Run",
+  "ids": [
+   "bdat:btl_mes_SYS:51:us"
+  ]
+ },
+ "38": {
+  "original": "Scouter",
+  "ids": [
+   "bdat:btl_mes_SYS:52:us",
+   "bdat:pt_eqp_mes:6:us"
+  ]
+ },
+ "39": {
+  "original": "Containment Wave Power UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:54:us"
+  ]
+ },
+ "40": {
+  "original": "Item drops changed!",
+  "ids": [
+   "bdat:btl_mes_SYS:55:us"
+  ]
+ },
+ "41": {
+  "original": "Rage gauge drops more slowly!",
+  "ids": [
+   "bdat:btl_mes_SYS:56:us"
+  ]
+ },
+ "42": {
+  "original": "Rage gauge never falls!",
+  "ids": [
+   "bdat:btl_mes_SYS:57:us"
+  ]
+ },
+ "43": {
+  "original": "Sneak attack rate UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:58:us"
+  ]
+ },
+ "44": {
+  "original": "First attack rate UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:59:us"
+  ]
+ },
+ "45": {
+  "original": "No sneak attacks!",
+  "ids": [
+   "bdat:btl_mes_SYS:60:us"
+  ]
+ },
+ "46": {
+  "original": "Sparking Combo power UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:61:us"
+  ]
+ },
+ "47": {
+  "original": "Escape chance UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:62:us"
+  ]
+ },
+ "48": {
+  "original": "AP earned by standby members UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:63:us"
+  ]
+ },
+ "49": {
+  "original": "Zeni earned UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:64:us"
+  ]
+ },
+ "50": {
+  "original": "Item drop rate UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:65:us"
+  ]
+ },
+ "51": {
+  "original": "Rare item drop rate UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:66:us"
+  ]
+ },
+ "52": {
+  "original": "Poison resistance UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:67:us"
+  ]
+ },
+ "53": {
+  "original": "Thunder resistance UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:68:us"
+  ]
+ },
+ "54": {
+  "original": "Fire resistance UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:69:us"
+  ]
+ },
+ "55": {
+  "original": "Ice resistance UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:70:us"
+  ]
+ },
+ "56": {
+  "original": "Elemental resistance UP!",
+  "ids": [
+   "bdat:btl_mes_SYS:71:us"
+  ]
+ },
+ "57": {
+  "original": "Poison on all enemies!",
+  "ids": [
+   "bdat:btl_mes_SYS:72:us"
+  ]
+ },
+ "58": {
+  "original": "Darkness on all enemies!",
+  "ids": [
+   "bdat:btl_mes_SYS:73:us"
+  ]
+ },
+ "59": {
+  "original": "Sleep on all enemies!",
+  "ids": [
+   "bdat:btl_mes_SYS:74:us"
+  ]
+ },
+ "60": {
+  "original": "Paralysis on all enemies!",
+  "ids": [
+   "bdat:btl_mes_SYS:75:us"
+  ]
+ },
+ "61": {
+  "original": "Freeze on all enemies!",
+  "ids": [
+   "bdat:btl_mes_SYS:76:us"
+  ]
+ },
+ "62": {
+  "original": "HP refilled at end of battle!",
+  "ids": [
+   "bdat:btl_mes_SYS:77:us"
+  ]
+ },
+ "63": {
+  "original": "Ki refilled at end of battle!",
+  "ids": [
+   "bdat:btl_mes_SYS:78:us"
+  ]
+ },
+ "64": {
+  "original": "Used <i>.",
+  "ids": [
+   "bdat:btl_mes_ITM:0:us"
+  ]
+ },
+ "65": {
+  "original": "<f> used <i> on <t>.",
+  "ids": [
+   "bdat:btl_mes_ITM:1:us"
+  ]
+ },
+ "66": {
+  "original": "testTESTtest",
+  "ids": [
+   "bdat:btl_mes_ITM:2:us"
+  ]
+ },
+ "67": {
+  "original": "Nothing happened.",
+  "ids": [
+   "bdat:btl_mes_ITM:4:us"
+  ]
+ },
+ "68": {
+  "original": "<t> was healed.",
+  "ids": [
+   "bdat:btl_mes_ITM:9:us"
+  ]
+ },
+ "69": {
+  "original": "<t> was fully healed.",
+  "ids": [
+   "bdat:btl_mes_ITM:10:us"
+  ]
+ },
+ "70": {
+  "original": "Party healed.",
+  "ids": [
+   "bdat:btl_mes_ITM:11:us"
+  ]
+ },
+ "71": {
+  "original": "Party fully healed.",
+  "ids": [
+   "bdat:btl_mes_ITM:12:us"
+  ]
+ },
+ "72": {
+  "original": "<t>'s Ki refilled.",
+  "ids": [
+   "bdat:btl_mes_ITM:19:us"
+  ]
+ },
+ "73": {
+  "original": "<t>'s Ki fully refilled.",
+  "ids": [
+   "bdat:btl_mes_ITM:20:us"
+  ]
+ },
+ "74": {
+  "original": "Party's Ki refilled.",
+  "ids": [
+   "bdat:btl_mes_ITM:21:us"
+  ]
+ },
+ "75": {
+  "original": "Party's Ki fully refilled.",
+  "ids": [
+   "bdat:btl_mes_ITM:22:us"
+  ]
+ },
+ "76": {
+  "original": "<t>'s HP/Ki refilled.",
+  "ids": [
+   "bdat:btl_mes_ITM:29:us"
+  ]
+ },
+ "77": {
+  "original": "<t>'s HP/Ki fully refilled.",
+  "ids": [
+   "bdat:btl_mes_ITM:30:us"
+  ]
+ },
+ "78": {
+  "original": "Party's HP/Ki refilled.",
+  "ids": [
+   "bdat:btl_mes_ITM:31:us"
+  ]
+ },
+ "79": {
+  "original": "Party's HP/Ki fully refilled.",
+  "ids": [
+   "bdat:btl_mes_ITM:32:us"
+  ]
+ },
+ "80": {
+  "original": "<t>'s status restored.",
+  "ids": [
+   "bdat:btl_mes_ITM:34:us"
+  ]
+ },
+ "81": {
+  "original": "Party's status restored.",
+  "ids": [
+   "bdat:btl_mes_ITM:35:us"
+  ]
+ },
+ "82": {
+  "original": "HP/Ki switched.",
+  "ids": [
+   "bdat:btl_mes_ITM:36:us"
+  ]
+ },
+ "83": {
+  "original": "Party's status recovered.",
+  "ids": [
+   "bdat:btl_mes_ITM:37:us"
+  ]
+ },
+ "84": {
+  "original": "<t> recovered.",
+  "ids": [
+   "bdat:btl_mes_ITM:38:us"
+  ]
+ },
+ "85": {
+  "original": "All downed fighters recovered.",
+  "ids": [
+   "bdat:btl_mes_ITM:39:us"
+  ]
+ },
+ "86": {
+  "original": "<t> woke up.",
+  "ids": [
+   "bdat:btl_mes_ITM:40:us"
+  ]
+ },
+ "87": {
+  "original": "<t> no longer paralyzed.",
+  "ids": [
+   "bdat:btl_mes_ITM:41:us"
+  ]
+ },
+ "88": {
+  "original": "<t> no longer poisoned.",
+  "ids": [
+   "bdat:btl_mes_ITM:42:us"
+  ]
+ },
+ "89": {
+  "original": "<t> no longer blind.",
+  "ids": [
+   "bdat:btl_mes_ITM:43:us"
+  ]
+ },
+ "90": {
+  "original": "<t> no longer stunned.",
+  "ids": [
+   "bdat:btl_mes_ITM:44:us"
+  ]
+ },
+ "91": {
+  "original": "<t> no longer confused.",
+  "ids": [
+   "bdat:btl_mes_ITM:45:us"
+  ]
+ },
+ "92": {
+  "original": "<t> no longer frozen.",
+  "ids": [
+   "bdat:btl_mes_ITM:46:us"
+  ]
+ },
+ "93": {
+  "original": "<t> free of ailments.",
+  "ids": [
+   "bdat:btl_mes_ITM:47:us"
+  ]
+ },
+ "94": {
+  "original": "Party free of ailments.",
+  "ids": [
+   "bdat:btl_mes_ITM:48:us"
+  ]
+ },
+ "95": {
+  "original": "<t>'s Rage Gauge rose.",
+  "ids": [
+   "bdat:btl_mes_ITM:49:us"
+  ]
+ },
+ "96": {
+  "original": "<t>'s Rage Gauge at max.",
+  "ids": [
+   "bdat:btl_mes_ITM:50:us"
+  ]
+ },
+ "97": {
+  "original": "<t>'s Attack rose.",
+  "ids": [
+   "bdat:btl_mes_ITM:51:us"
+  ]
+ },
+ "98": {
+  "original": "<t>'s Defense rose.",
+  "ids": [
+   "bdat:btl_mes_ITM:52:us"
+  ]
+ },
+ "99": {
+  "original": "<t>'s Accuracy rose.",
+  "ids": [
+   "bdat:btl_mes_ITM:53:us"
+  ]
+ },
+ "100": {
+  "original": "<t>'s Evade rose.",
+  "ids": [
+   "bdat:btl_mes_ITM:54:us"
+  ]
+ },
+ "101": {
+  "original": "<t>'s Speed rose.",
+  "ids": [
+   "bdat:btl_mes_ITM:55:us"
+  ]
+ },
+ "102": {
+  "original": "All of <t>'s abilities rose.",
+  "ids": [
+   "bdat:btl_mes_ITM:56:us"
+  ]
+ },
+ "103": {
+  "original": "<t>'s critical rate rose.",
+  "ids": [
+   "bdat:btl_mes_ITM:57:us"
+  ]
+ },
+ "104": {
+  "original": "<t>'s Attack fell.",
+  "ids": [
+   "bdat:btl_mes_ITM:58:us"
+  ]
+ },
+ "105": {
+  "original": "<t>'s Defense fell.",
+  "ids": [
+   "bdat:btl_mes_ITM:59:us"
+  ]
+ },
+ "106": {
+  "original": "<t>'s Accuracy fell.",
+  "ids": [
+   "bdat:btl_mes_ITM:60:us"
+  ]
+ },
+ "107": {
+  "original": "<t>'s Evade fell.",
+  "ids": [
+   "bdat:btl_mes_ITM:61:us"
+  ]
+ },
+ "108": {
+  "original": "EXP earned in this battle UP!",
+  "ids": [
+   "bdat:btl_mes_ITM:64:us"
+  ]
+ },
+ "109": {
+  "original": "Zeni earned in this battle UP!",
+  "ids": [
+   "bdat:btl_mes_ITM:65:us"
+  ]
+ },
+ "110": {
+  "original": "Enemy item drop rate UP!",
+  "ids": [
+   "bdat:btl_mes_ITM:66:us"
+  ]
+ },
+ "111": {
+  "original": "<t> is invincible.",
+  "ids": [
+   "bdat:btl_mes_ITM:67:us"
+  ]
+ },
+ "112": {
+  "original": "<t> resistant to ailments.",
+  "ids": [
+   "bdat:btl_mes_ITM:68:us"
+  ]
+ },
+ "113": {
+  "original": "<t>'s senses sharpened.",
+  "ids": [
+   "bdat:btl_mes_ITM:69:us"
+  ]
+ },
+ "114": {
+  "original": "<t> bursts with power.",
+  "ids": [
+   "bdat:btl_mes_ITM:70:us"
+  ]
+ },
+ "115": {
+  "original": "HP Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:0:us"
+  ]
+ },
+ "116": {
+  "original": "Raises maximum HP",
+  "ids": [
+   "bdat:btl_mes_BLAST:1:us"
+  ]
+ },
+ "117": {
+  "original": "Ki Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:2:us"
+  ]
+ },
+ "118": {
+  "original": "Raises maximum Ki",
+  "ids": [
+   "bdat:btl_mes_BLAST:3:us"
+  ]
+ },
+ "119": {
+  "original": "Attack Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:4:us"
+  ]
+ },
+ "120": {
+  "original": "Raises Attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:5:us"
+  ]
+ },
+ "121": {
+  "original": "Defense Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:6:us"
+  ]
+ },
+ "122": {
+  "original": "Raises Defense",
+  "ids": [
+   "bdat:btl_mes_BLAST:7:us",
+   "bdat:use_item_mes:163:us"
+  ]
+ },
+ "123": {
+  "original": "Accuracy Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:8:us"
+  ]
+ },
+ "124": {
+  "original": "Raises Accuracy",
+  "ids": [
+   "bdat:btl_mes_BLAST:9:us"
+  ]
+ },
+ "125": {
+  "original": "Dodge Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:10:us"
+  ]
+ },
+ "126": {
+  "original": "Raises Dodge",
+  "ids": [
+   "bdat:btl_mes_BLAST:11:us"
+  ]
+ },
+ "127": {
+  "original": "Speed Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:12:us"
+  ]
+ },
+ "128": {
+  "original": "Raises movement speed",
+  "ids": [
+   "bdat:btl_mes_BLAST:13:us"
+  ]
+ },
+ "129": {
+  "original": "Auto-heal Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:14:us"
+  ]
+ },
+ "130": {
+  "original": "Raises the amount of HP you heal<n>automatically",
+  "ids": [
+   "bdat:btl_mes_BLAST:15:us"
+  ]
+ },
+ "131": {
+  "original": "Critical Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:16:us"
+  ]
+ },
+ "132": {
+  "original": "Increases chance of critical attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:17:us"
+  ]
+ },
+ "133": {
+  "original": "Chain Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:18:us"
+  ]
+ },
+ "134": {
+  "original": "Increases chance of launching a chain",
+  "ids": [
+   "bdat:btl_mes_BLAST:19:us"
+  ]
+ },
+ "135": {
+  "original": "Rage Gauge Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:20:us"
+  ]
+ },
+ "136": {
+  "original": "Makes your Rage Gauge fill up faster",
+  "ids": [
+   "bdat:btl_mes_BLAST:21:us"
+  ]
+ },
+ "137": {
+  "original": "All Abilities Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:22:us"
+  ]
+ },
+ "138": {
+  "original": "Raises all Abilities except HP and Ki",
+  "ids": [
+   "bdat:btl_mes_BLAST:23:us"
+  ]
+ },
+ "139": {
+  "original": "Resistance Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:24:us"
+  ]
+ },
+ "140": {
+  "original": "Raises resistance against fire,<n>thunder, and ice",
+  "ids": [
+   "bdat:btl_mes_BLAST:25:us"
+  ]
+ },
+ "141": {
+  "original": "Ailment Resist Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:26:us"
+  ]
+ },
+ "142": {
+  "original": "Makes you more resistant to status<n>ailments",
+  "ids": [
+   "bdat:btl_mes_BLAST:27:us"
+  ]
+ },
+ "143": {
+  "original": "Item Effect Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:28:us"
+  ]
+ },
+ "144": {
+  "original": "Enhances the effect of the items<n>you use",
+  "ids": [
+   "bdat:btl_mes_BLAST:29:us"
+  ]
+ },
+ "145": {
+  "original": "Item Drop Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:30:us"
+  ]
+ },
+ "146": {
+  "original": "Makes enemies drop items more often",
+  "ids": [
+   "bdat:btl_mes_BLAST:31:us",
+   "bdat:use_item_mes:187:us"
+  ]
+ },
+ "147": {
+  "original": "Ki Blast Resist Up",
+  "ids": [
+   "bdat:btl_mes_BLAST:32:us"
+  ]
+ },
+ "148": {
+  "original": "Raises resistance to Ki attacks",
+  "ids": [
+   "bdat:btl_mes_BLAST:33:us"
+  ]
+ },
+ "149": {
+  "original": "Combination",
+  "ids": [
+   "bdat:btl_mes_BLAST:39:us"
+  ]
+ },
+ "150": {
+  "original": "A quick, nimble combo attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:40:us",
+   "bdat:btl_mes_BLAST:54:us"
+  ]
+ },
+ "151": {
+  "original": "Meteor Combination",
+  "ids": [
+   "bdat:btl_mes_BLAST:41:us"
+  ]
+ },
+ "152": {
+  "original": "A punishing combo attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:42:us"
+  ]
+ },
+ "153": {
+  "original": "Kamehameha",
+  "ids": [
+   "bdat:btl_mes_BLAST:43:us",
+   "bdat:btl_mes_BLAST:83:us",
+   "bdat:btl_mes_BLAST:113:us",
+   "bdat:btl_mes_BLAST:139:us"
+  ]
+ },
+ "154": {
+  "original": "Turtle Style Energy Wave Attack <n>The world-famous \\42Kamehameha\\42",
+  "ids": [
+   "bdat:btl_mes_BLAST:44:us",
+   "bdat:btl_mes_BLAST:84:us",
+   "bdat:btl_mes_BLAST:114:us"
+  ]
+ },
+ "155": {
+  "original": "Energy Wave Combo",
+  "ids": [
+   "bdat:btl_mes_BLAST:45:us"
+  ]
+ },
+ "156": {
+  "original": "Fires energy blasts at all enemies",
+  "ids": [
+   "bdat:btl_mes_BLAST:46:us",
+   "bdat:btl_mes_BLAST:58:us"
+  ]
+ },
+ "157": {
+  "original": "After-image Technique",
+  "ids": [
+   "bdat:btl_mes_BLAST:47:us"
+  ]
+ },
+ "158": {
+  "original": "Gives you a large Evade boost for<n>several turns",
+  "ids": [
+   "bdat:btl_mes_BLAST:48:us"
+  ]
+ },
+ "159": {
+  "original": "Kaio-ken",
+  "ids": [
+   "bdat:btl_mes_BLAST:49:us"
+  ]
+ },
+ "160": {
+  "original": "Doubles all attributes for several turns<n>Decreases HP after effect expires",
+  "ids": [
+   "bdat:btl_mes_BLAST:50:us"
+  ]
+ },
+ "161": {
+  "original": "Spirit Bomb",
+  "ids": [
+   "bdat:btl_mes_BLAST:51:us"
+  ]
+ },
+ "162": {
+  "original": "An ultimate attack using everyone's spirit<n>Guard disabled until it's executed",
+  "ids": [
+   "bdat:btl_mes_BLAST:52:us"
+  ]
+ },
+ "163": {
+  "original": "Rush",
+  "ids": [
+   "bdat:btl_mes_BLAST:53:us"
+  ]
+ },
+ "164": {
+  "original": "Masenko",
+  "ids": [
+   "bdat:btl_mes_BLAST:55:us"
+  ]
+ },
+ "165": {
+  "original": "An energy blast skill perfected by Piccolo",
+  "ids": [
+   "bdat:btl_mes_BLAST:56:us"
+  ]
+ },
+ "166": {
+  "original": "Energy Blast Barrage",
+  "ids": [
+   "bdat:btl_mes_BLAST:57:us"
+  ]
+ },
+ "167": {
+  "original": "Anger",
+  "ids": [
+   "bdat:btl_mes_BLAST:59:us"
+  ]
+ },
+ "168": {
+  "original": "Expands the Rage Gauge and boosts your<n>attack for several turns",
+  "ids": [
+   "bdat:btl_mes_BLAST:60:us"
+  ]
+ },
+ "169": {
+  "original": "Icarus",
+  "ids": [
+   "bdat:btl_mes_BLAST:61:us"
+  ]
+ },
+ "170": {
+  "original": "Icarus appears to heal HP of all allies.",
+  "ids": [
+   "bdat:btl_mes_BLAST:62:us"
+  ]
+ },
+ "171": {
+  "original": "Burst Rush",
+  "ids": [
+   "bdat:btl_mes_BLAST:63:us"
+  ]
+ },
+ "172": {
+  "original": "A fierce combo attack driven by anger",
+  "ids": [
+   "bdat:btl_mes_BLAST:64:us"
+  ]
+ },
+ "173": {
+  "original": "Miracle Full Force",
+  "ids": [
+   "bdat:btl_mes_BLAST:65:us"
+  ]
+ },
+ "174": {
+  "original": "A rage-driven body attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:66:us"
+  ]
+ },
+ "175": {
+  "original": "Evil Assault",
+  "ids": [
+   "bdat:btl_mes_BLAST:67:us"
+  ]
+ },
+ "176": {
+  "original": "A combo attack the way only Piccolo<n>could do it",
+  "ids": [
+   "bdat:btl_mes_BLAST:68:us"
+  ]
+ },
+ "177": {
+  "original": "Destructive Wave",
+  "ids": [
+   "bdat:btl_mes_BLAST:69:us"
+  ]
+ },
+ "178": {
+  "original": "A normal energy blast",
+  "ids": [
+   "bdat:btl_mes_BLAST:70:us"
+  ]
+ },
+ "179": {
+  "original": "Light Grenade",
+  "ids": [
+   "bdat:btl_mes_BLAST:71:us"
+  ]
+ },
+ "180": {
+  "original": "A strong energy blast<n>Attacking enemies with Ki from your hands",
+  "ids": [
+   "bdat:btl_mes_BLAST:72:us"
+  ]
+ },
+ "181": {
+  "original": "Super Explosive Wave",
+  "ids": [
+   "bdat:btl_mes_BLAST:73:us"
+  ]
+ },
+ "182": {
+  "original": "Launches an explosive energy wave around<n>your body, damaging all enemies",
+  "ids": [
+   "bdat:btl_mes_BLAST:74:us"
+  ]
+ },
+ "183": {
+  "original": "Regeneration",
+  "ids": [
+   "bdat:btl_mes_BLAST:75:us"
+  ]
+ },
+ "184": {
+  "original": "Refills your HP",
+  "ids": [
+   "bdat:btl_mes_BLAST:76:us"
+  ]
+ },
+ "185": {
+  "original": "Special Beam Cannon",
+  "ids": [
+   "bdat:btl_mes_BLAST:77:us"
+  ]
+ },
+ "186": {
+  "original": "Pierces enemies with Ki from your finger<n>Guard is disabled (for several turns) until it's executed",
+  "ids": [
+   "bdat:btl_mes_BLAST:78:us"
+  ]
+ },
+ "187": {
+  "original": "Hellzone Grenade",
+  "ids": [
+   "bdat:btl_mes_BLAST:79:us"
+  ]
+ },
+ "188": {
+  "original": "Surround your enemy with Ki force<n>Launch it all at once to explode the enemy",
+  "ids": [
+   "bdat:btl_mes_BLAST:80:us"
+  ]
+ },
+ "189": {
+  "original": "Rengeki",
+  "ids": [
+   "bdat:btl_mes_BLAST:81:us"
+  ]
+ },
+ "190": {
+  "original": "A combo attack that strikes the enemy<n>when his guard is down",
+  "ids": [
+   "bdat:btl_mes_BLAST:82:us"
+  ]
+ },
+ "191": {
+  "original": "Destructo Disk",
+  "ids": [
+   "bdat:btl_mes_BLAST:85:us"
+  ]
+ },
+ "192": {
+  "original": "An energy attack that slices right through<n>enemies",
+  "ids": [
+   "bdat:btl_mes_BLAST:86:us"
+  ]
+ },
+ "193": {
+  "original": "Scatter Energy Wave",
+  "ids": [
+   "bdat:btl_mes_BLAST:87:us"
+  ]
+ },
+ "194": {
+  "original": "Scatters compressed energy waves from the sky<n> damaging all enemies",
+  "ids": [
+   "bdat:btl_mes_BLAST:88:us"
+  ]
+ },
+ "195": {
+  "original": "Solar Flare",
+  "ids": [
+   "bdat:btl_mes_BLAST:89:us",
+   "bdat:btl_mes_BLAST:101:us"
+  ]
+ },
+ "196": {
+  "original": "Dazzles enemies with a bright light.<n>Gives you a good chance to escape",
+  "ids": [
+   "bdat:btl_mes_BLAST:90:us"
+  ]
+ },
+ "197": {
+  "original": "Chain Destructo-disc Barrage",
+  "ids": [
+   "bdat:btl_mes_BLAST:91:us"
+  ]
+ },
+ "198": {
+  "original": "Fires a barrage of Destructo Disks at<n>all enemies",
+  "ids": [
+   "bdat:btl_mes_BLAST:92:us"
+  ]
+ },
+ "199": {
+  "original": "Y-Yajirobe?!",
+  "ids": [
+   "bdat:btl_mes_BLAST:93:us"
+  ]
+ },
+ "200": {
+  "original": "Yajirobe heals all allies, and his sword<n>disables all enemies from fighting.",
+  "ids": [
+   "bdat:btl_mes_BLAST:94:us"
+  ]
+ },
+ "201": {
+  "original": "Fierce Attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:95:us"
+  ]
+ },
+ "202": {
+  "original": "A combo attack that plows over your<n>enemies",
+  "ids": [
+   "bdat:btl_mes_BLAST:96:us"
+  ]
+ },
+ "203": {
+  "original": "Tri-Beam",
+  "ids": [
+   "bdat:btl_mes_BLAST:97:us"
+  ]
+ },
+ "204": {
+  "original": "A strong energy blast that consumes HP",
+  "ids": [
+   "bdat:btl_mes_BLAST:98:us"
+  ]
+ },
+ "205": {
+  "original": "Multi-Form Attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:99:us"
+  ]
+ },
+ "206": {
+  "original": "Divides you into four fighters and<n>launches energy waves",
+  "ids": [
+   "bdat:btl_mes_BLAST:100:us"
+  ]
+ },
+ "207": {
+  "original": "Dazzle enemies with bright light <n>Chance of causing Darkness on<n>all enemies",
+  "ids": [
+   "bdat:btl_mes_BLAST:102:us"
+  ]
+ },
+ "208": {
+  "original": "Evil Containment Wave",
+  "ids": [
+   "bdat:btl_mes_BLAST:103:us"
+  ]
+ },
+ "209": {
+  "original": "Seals enemies into a rice cooker<n>Higher chance of success on weakened enemies",
+  "ids": [
+   "bdat:btl_mes_BLAST:104:us"
+  ]
+ },
+ "210": {
+  "original": "Neo Tri-Beam",
+  "ids": [
+   "bdat:btl_mes_BLAST:105:us"
+  ]
+ },
+ "211": {
+  "original": "Fires a barrage of Tri-Beams. Consumes<n>a large amount of HP",
+  "ids": [
+   "bdat:btl_mes_BLAST:106:us"
+  ]
+ },
+ "212": {
+  "original": "Final Solar Flare",
+  "ids": [
+   "bdat:btl_mes_BLAST:107:us"
+  ]
+ },
+ "213": {
+  "original": "Nobody can imitate this \\42real\\42 solar flare<n>Darkness and then big damages on all enemies ",
+  "ids": [
+   "bdat:btl_mes_BLAST:108:us"
+  ]
+ },
+ "214": {
+  "original": "Wolf Hurricane",
+  "ids": [
+   "bdat:btl_mes_BLAST:109:us"
+  ]
+ },
+ "215": {
+  "original": "A somewhat needlessly flashy combo move",
+  "ids": [
+   "bdat:btl_mes_BLAST:110:us"
+  ]
+ },
+ "216": {
+  "original": "Wolf Fang Fist",
+  "ids": [
+   "bdat:btl_mes_BLAST:111:us"
+  ]
+ },
+ "217": {
+  "original": "Yamcha's favorite strong combo attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:112:us"
+  ]
+ },
+ "218": {
+  "original": "Spirit Ball",
+  "ids": [
+   "bdat:btl_mes_BLAST:115:us"
+  ]
+ },
+ "219": {
+  "original": "Attacks several times with a set of<n>energy balls",
+  "ids": [
+   "bdat:btl_mes_BLAST:116:us"
+  ]
+ },
+ "220": {
+  "original": "Perfect Moves",
+  "ids": [
+   "bdat:btl_mes_BLAST:117:us"
+  ]
+ },
+ "221": {
+  "original": "Allows you to always hit with your<n>attacks for several turns",
+  "ids": [
+   "bdat:btl_mes_BLAST:118:us"
+  ]
+ },
+ "222": {
+  "original": "Neo Wolf Fang Fist",
+  "ids": [
+   "bdat:btl_mes_BLAST:119:us"
+  ]
+ },
+ "223": {
+  "original": "A more powerful Wolf Fang Fist<n>A punishing combo attack",
+  "ids": [
+   "bdat:btl_mes_BLAST:120:us"
+  ]
+ },
+ "224": {
+  "original": "Super Spirit Ball",
+  "ids": [
+   "bdat:btl_mes_BLAST:121:us"
+  ]
+ },
+ "225": {
+  "original": "Attacks all enemies with powerful<n>Spirit Balls multiple several times",
+  "ids": [
+   "bdat:btl_mes_BLAST:122:us"
+  ]
+ },
+ "226": {
+  "original": "Energy Blast",
+  "ids": [
+   "bdat:btl_mes_BLAST:129:us"
+  ]
+ },
+ "227": {
+  "original": "2x Energy Blast",
+  "ids": [
+   "bdat:btl_mes_BLAST:130:us"
+  ]
+ },
+ "228": {
+  "original": "Max Energy Blast",
+  "ids": [
+   "bdat:btl_mes_BLAST:131:us"
+  ]
+ },
+ "229": {
+  "original": "Move it!!",
+  "ids": [
+   "bdat:btl_mes_BLAST:132:us"
+  ]
+ },
+ "230": {
+  "original": "Kngh!",
+  "ids": [
+   "bdat:btl_mes_BLAST:133:us"
+  ]
+ },
+ "231": {
+  "original": "Kaghh!",
+  "ids": [
+   "bdat:btl_mes_BLAST:134:us"
+  ]
+ },
+ "232": {
+  "original": "I am Vegeta!",
+  "ids": [
+   "bdat:btl_mes_BLAST:135:us"
+  ]
+ },
+ "233": {
+  "original": "Zrahh!",
+  "ids": [
+   "bdat:btl_mes_BLAST:136:us"
+  ]
+ },
+ "234": {
+  "original": "Galick Gun",
+  "ids": [
+   "bdat:btl_mes_BLAST:137:us"
+  ]
+ },
+ "235": {
+  "original": "Super Breath Cannon",
+  "ids": [
+   "bdat:btl_mes_BLAST:138:us"
+  ]
+ },
+ "236": {
+  "original": "Turtle Style Last Resort",
+  "ids": [
+   "bdat:btl_mes_BLAST:140:us"
+  ]
+ },
+ "237": {
+  "original": "Max Kamehameha",
+  "ids": [
+   "bdat:btl_mes_BLAST:141:us"
+  ]
+ },
+ "238": {
+  "original": "Gigantic Blow",
+  "ids": [
+   "bdat:btl_mes_BLAST:142:us"
+  ]
+ },
+ "239": {
+  "original": "Blaster Cannon",
+  "ids": [
+   "bdat:btl_mes_BLAST:143:us"
+  ]
+ },
+ "240": {
+  "original": "Blaster Burst",
+  "ids": [
+   "bdat:btl_mes_BLAST:144:us"
+  ]
+ },
+ "241": {
+  "original": "\\4AA\\1P3Encounters",
+  "ids": [
+   "bdat:btl_mes_TUT:0:us"
+  ]
+ },
+ "242": {
+  "original": "You will run into enemies during your<n>travels. Battle ends when you defeat them;<n>lose, and the game is over. Always keep<n>an eye on your party's HP levels.",
+  "ids": [
+   "bdat:btl_mes_TUT:1:us"
+  ]
+ },
+ "243": {
+  "original": "\\4AA\\1P3Basic Commands",
+  "ids": [
+   "bdat:btl_mes_TUT:2:us"
+  ]
+ },
+ "244": {
+  "original": "\\1P1Attack  \\1Pn: Attack enemies<n>\\1P1Item    \\1Pn: Use an item<n>\\1P1Skill   \\1Pn: Use Ki to launch a skill<n>\\1P1Defend  \\1Pn: Defend and reduce damage taken",
+  "ids": [
+   "bdat:btl_mes_TUT:3:us"
+  ]
+ },
+ "245": {
+  "original": "\\4AA\\1P3Running",
+  "ids": [
+   "bdat:btl_mes_TUT:4:us"
+  ]
+ },
+ "246": {
+  "original": "You can run from most battles by selecting<n>the \\1P1Run\\1Pn command. If it fails, the<n>character will be unable to do anything for<n>one turn.",
+  "ids": [
+   "bdat:btl_mes_TUT:5:us"
+  ]
+ },
+ "247": {
+  "original": "\\4AA\\1P3Switching",
+  "ids": [
+   "bdat:btl_mes_TUT:6:us"
+  ]
+ },
+ "248": {
+  "original": "If you have party members on standby, use<n>the \\1P1Switch\\1Pn command to change allies in and<n>out of battle.",
+  "ids": [
+   "bdat:btl_mes_TUT:7:us"
+  ]
+ },
+ "249": {
+  "original": "\\4AA\\1P3Status Ailments",
+  "ids": [
+   "bdat:btl_mes_TUT:8:us",
+   "bdat:btl_mes_TUT:10:us"
+  ]
+ },
+ "250": {
+  "original": "Sometimes enemy attacks will give you<n>status ailments. There are 8 types:<n>\\1P1Sleep, Paralyze, Poison, Dark, Confuse, Stun,<n>\\1P1Freeze, and Carrot\\1Pn.",
+  "ids": [
+   "bdat:btl_mes_TUT:9:us"
+  ]
+ },
+ "251": {
+  "original": "Status ailments may cost you several turns<n>or damage you gradually over time. It's<n>tough to fight with them, so fix them with<n>items as soon as possible.",
+  "ids": [
+   "bdat:btl_mes_TUT:11:us"
+  ]
+ },
+ "252": {
+  "original": "\\4AA\\1P3Attack Types",
+  "ids": [
+   "bdat:btl_mes_TUT:12:us",
+   "bdat:btl_mes_TUT:14:us"
+  ]
+ },
+ "253": {
+  "original": "There are several kinds of attacks you can<n>unleash. If one attack doesn't seem to<n>work, try another attack method, such as<n>a skill or item.<n>",
+  "ids": [
+   "bdat:btl_mes_TUT:13:us"
+  ]
+ },
+ "254": {
+  "original": "@35 Melee type<n>@36 Ki type<n>@37 Fire type<n>@39 Thunder type<n>@38 Ice type<n>",
+  "ids": [
+   "bdat:btl_mes_TUT:15:us"
+  ]
+ },
+ "255": {
+  "original": "\\4AA\\1P3Active Guards (1)",
+  "ids": [
+   "bdat:btl_mes_TUT:16:us"
+  ]
+ },
+ "256": {
+  "original": "Press the Button just before the enemy <n>attacks to reduce damage. Watch for the<n>icon above your character's head -- that's<n>your chance.",
+  "ids": [
+   "bdat:btl_mes_TUT:17:us"
+  ]
+ },
+ "257": {
+  "original": "\\4AA\\1P3Active Guards (2)",
+  "ids": [
+   "bdat:btl_mes_TUT:18:us"
+  ]
+ },
+ "258": {
+  "original": "The button to press depends on where your<n>character is. From the top, press \\4Pd,<n>\\4Pf, or \\4Pb. Try to press it just before<n>you take the attack.",
+  "ids": [
+   "bdat:btl_mes_TUT:19:us"
+  ]
+ },
+ "259": {
+  "original": "\\4AA\\1P3Rage Gauge",
+  "ids": [
+   "bdat:btl_mes_TUT:20:us"
+  ]
+ },
+ "260": {
+  "original": "This gauge goes up when you attack, or are<n>attacked by enemies. When it's full, you<n>can launch Ultimate Skills or Sparking<n>Combos.",
+  "ids": [
+   "bdat:btl_mes_TUT:21:us"
+  ]
+ },
+ "261": {
+  "original": "\\4AA\\1P3Sparking Combos",
+  "ids": [
+   "bdat:btl_mes_TUT:22:us",
+   "bdat:btl_mes_TUT:24:us"
+  ]
+ },
+ "262": {
+  "original": "These combos are launched when party<n>members \\1P1whose Rage Gauge is maxed out\\1Pn<n>attack the same enemy with certain<n>special moves.",
+  "ids": [
+   "bdat:btl_mes_TUT:23:us"
+  ]
+ },
+ "263": {
+  "original": "These S-Combos let you deal more damage<n>than what would normally be possible.<n>There are many ways to combine these<n>moves, so try to experiment a little.",
+  "ids": [
+   "bdat:btl_mes_TUT:25:us"
+  ]
+ },
+ "264": {
+  "original": "\\4AA\\1P3Ultimate Skills",
+  "ids": [
+   "bdat:btl_mes_TUT:26:us",
+   "bdat:btl_mes_TUT:28:us"
+  ]
+ },
+ "265": {
+  "original": "These skills, learned as you play through<n>the game, are extremely powerful. You can<n>unleash them \\1P1when your Rage Gauge is full\\1Pn.",
+  "ids": [
+   "bdat:btl_mes_TUT:27:us"
+  ]
+ },
+ "266": {
+  "original": "Some skills require several turns to<n>unleash. Get the timing right, and you'll<n>be able to smash your enemies!",
+  "ids": [
+   "bdat:btl_mes_TUT:29:us"
+  ]
+ },
+ "267": {
+  "original": "\\4AA\\1P3World Tournament",
+  "ids": [
+   "bdat:btl_mes_TUT:30:us"
+  ]
+ },
+ "268": {
+  "original": "You cannot use items during the World<n>Martial Arts Tournament. Use Active Guard<n>instead to keep damage as low as possible.",
+  "ids": [
+   "bdat:btl_mes_TUT:31:us"
+  ]
+ },
+ "269": {
+  "original": "\\1P3Skill Acquired",
+  "ids": [
+   "bdat:btl_mes_TUT:40:us"
+  ]
+ },
+ "270": {
+  "original": "\\1P3Piccolo\\1Pn learned \\1P1Special Beam Cannon\\1Pn.",
+  "ids": [
+   "bdat:btl_mes_TUT:41:us"
+  ]
+ },
+ "271": {
+  "original": "\\4AA\\1P3Shops",
+  "ids": [
+   "bdat:cf_mes_TUT:0:us"
+  ]
+ },
+ "272": {
+  "original": "\\24P3Welcome!<n>\\24P3You can use@19\\24P3 \\1P3Zeni\\1Pn (money)\\1Pn to<N>\\24P3buy a variety of items, as well<n>\\24P3as sell stuff you don't need<n>\\24P3for extra \\1P3Zeni\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_TUT:1:us"
+  ]
+ },
+ "273": {
+  "original": "\\4AA\\1P3Item Types",
+  "ids": [
+   "bdat:cf_mes_TUT:2:us"
+  ]
+ },
+ "274": {
+  "original": "You can buy the following types<n>of items at the shop. Press<n>\\240\\4pi \\4Pk\\24P3 to switch menus.<n>@00\\24P3\\1P3Tools<n>@13\\24P3\\1P3Accessories<n>@14\\24P3\\1P3Capsules<n>",
+  "ids": [
+   "bdat:cf_mes_TUT:3:us"
+  ]
+ },
+ "275": {
+  "original": "\\4AA\\1P3Accessories",
+  "ids": [
+   "bdat:cf_mes_TUT:4:us"
+  ]
+ },
+ "276": {
+  "original": "\\1P3Accessories\\1Pn, found in shops and<n>dungeons, can be equipped on<n>characters to power up their<n>abilities. If you find one, try<n>it out and see what happens!",
+  "ids": [
+   "bdat:cf_mes_TUT:5:us"
+  ]
+ },
+ "277": {
+  "original": "\\4AA\\1P3What's Available",
+  "ids": [
+   "bdat:cf_mes_TUT:6:us"
+  ]
+ },
+ "278": {
+  "original": "Different towns sell different<n>merchandise, so make sure you<n>visit the shop whenever you get<n>to a new town.",
+  "ids": [
+   "bdat:cf_mes_TUT:7:us"
+  ]
+ },
+ "279": {
+  "original": "Obtained<n><c=#8BEFD4>%s<c>!",
+  "ids": [
+   "bdat:cf_mes_MENU:0:us"
+  ]
+ },
+ "280": {
+  "original": "Yes",
+  "ids": [
+   "bdat:cf_mes_MENU:1:us"
+  ]
+ },
+ "281": {
+  "original": "No",
+  "ids": [
+   "bdat:cf_mes_MENU:2:us"
+  ]
+ },
+ "282": {
+  "original": "* Caution *<n>This will delete any quicksave data.<n>Continue anyway?",
+  "ids": [
+   "bdat:cf_mes_MENU:3:us"
+  ]
+ },
+ "283": {
+  "original": "Select Data to Load",
+  "ids": [
+   "bdat:cf_mes_MENU:4:us"
+  ]
+ },
+ "284": {
+  "original": "Quicksave data available.<n>Continue your game?",
+  "ids": [
+   "bdat:cf_mes_MENU:5:us"
+  ]
+ },
+ "285": {
+  "original": "Data corrupted",
+  "ids": [
+   "bdat:cf_mes_MENU:6:us"
+  ]
+ },
+ "286": {
+  "original": "Empty",
+  "ids": [
+   "bdat:cf_mes_MENU:7:us"
+  ]
+ },
+ "287": {
+  "original": "Overwrite this file?",
+  "ids": [
+   "bdat:cf_mes_MENU:8:us"
+  ]
+ },
+ "288": {
+  "original": "Saving. Don't turn off the power.",
+  "ids": [
+   "bdat:cf_mes_MENU:9:us"
+  ]
+ },
+ "289": {
+  "original": "Save and leave the game?",
+  "ids": [
+   "bdat:cf_mes_MENU:10:us"
+  ]
+ },
+ "290": {
+  "original": "The game will return to the title screen.",
+  "ids": [
+   "bdat:cf_mes_MENU:11:us"
+  ]
+ },
+ "291": {
+  "original": "Quicksaving...",
+  "ids": [
+   "bdat:cf_mes_MENU:12:us"
+  ]
+ },
+ "292": {
+  "original": "Quicksave complete. It will be deleted<n>when you load it next.",
+  "ids": [
+   "bdat:cf_mes_MENU:13:us"
+  ]
+ },
+ "293": {
+  "original": "Save your progress?",
+  "ids": [
+   "bdat:cf_mes_MENU:14:us"
+  ]
+ },
+ "294": {
+  "original": "Are you sure you want to continue<n>without saving?",
+  "ids": [
+   "bdat:cf_mes_MENU:15:us"
+  ]
+ },
+ "295": {
+  "original": "Quicksave data corrupt. Deleting.",
+  "ids": [
+   "bdat:cf_mes_MENU:16:us"
+  ]
+ },
+ "296": {
+  "original": "Save Complete",
+  "ids": [
+   "bdat:cf_mes_MENU:17:us"
+  ]
+ },
+ "297": {
+  "original": "Skip",
+  "ids": [
+   "bdat:cf_mes_MENU:18:us",
+   "bdat:cf_mes_MENU:98:us"
+  ]
+ },
+ "298": {
+  "original": "OK",
+  "ids": [
+   "bdat:cf_mes_MENU:19:us"
+  ]
+ },
+ "299": {
+  "original": "Back",
+  "ids": [
+   "bdat:cf_mes_MENU:20:us"
+  ]
+ },
+ "300": {
+  "original": "Sort",
+  "ids": [
+   "bdat:cf_mes_MENU:21:us"
+  ]
+ },
+ "301": {
+  "original": "Drop",
+  "ids": [
+   "bdat:cf_mes_MENU:22:us"
+  ]
+ },
+ "302": {
+  "original": "Remove",
+  "ids": [
+   "bdat:cf_mes_MENU:23:us"
+  ]
+ },
+ "303": {
+  "original": "Menu",
+  "ids": [
+   "bdat:cf_mes_MENU:24:us",
+   "bdat:cf_mes_MENU:99:us"
+  ]
+ },
+ "304": {
+  "original": "Try Again",
+  "ids": [
+   "bdat:cf_mes_MENU:25:us"
+  ]
+ },
+ "305": {
+  "original": "Buy",
+  "ids": [
+   "bdat:cf_mes_MENU:26:us"
+  ]
+ },
+ "306": {
+  "original": "Sell",
+  "ids": [
+   "bdat:cf_mes_MENU:27:us"
+  ]
+ },
+ "307": {
+  "original": "Items",
+  "ids": [
+   "bdat:cf_mes_MENU:29:us"
+  ]
+ },
+ "308": {
+  "original": "Skills",
+  "ids": [
+   "bdat:cf_mes_MENU:30:us",
+   "bdat:cf_mes_MENU:49:us"
+  ]
+ },
+ "309": {
+  "original": "Equip",
+  "ids": [
+   "bdat:cf_mes_MENU:31:us"
+  ]
+ },
+ "310": {
+  "original": "Crystal Ball",
+  "ids": [
+   "bdat:cf_mes_MENU:32:us"
+  ]
+ },
+ "311": {
+  "original": "Status",
+  "ids": [
+   "bdat:cf_mes_MENU:33:us"
+  ]
+ },
+ "312": {
+  "original": "Options",
+  "ids": [
+   "bdat:cf_mes_MENU:34:us"
+  ]
+ },
+ "313": {
+  "original": "Capsules",
+  "ids": [
+   "bdat:cf_mes_MENU:36:us"
+  ]
+ },
+ "314": {
+  "original": "View Items and their usage ",
+  "ids": [
+   "bdat:cf_mes_MENU:37:us"
+  ]
+ },
+ "315": {
+  "original": "Use AP to learn/upgrade skills",
+  "ids": [
+   "bdat:cf_mes_MENU:38:us"
+  ]
+ },
+ "316": {
+  "original": "Change the party's equipment",
+  "ids": [
+   "bdat:cf_mes_MENU:39:us"
+  ]
+ },
+ "317": {
+  "original": "View goals, enemy info, etc.",
+  "ids": [
+   "bdat:cf_mes_MENU:40:us"
+  ]
+ },
+ "318": {
+  "original": "View your party's skills",
+  "ids": [
+   "bdat:cf_mes_MENU:41:us"
+  ]
+ },
+ "319": {
+  "original": "Adjust the game's options",
+  "ids": [
+   "bdat:cf_mes_MENU:42:us"
+  ]
+ },
+ "320": {
+  "original": "Change the battle lineup",
+  "ids": [
+   "bdat:cf_mes_MENU:43:us"
+  ]
+ },
+ "321": {
+  "original": "Change capsule shortcuts",
+  "ids": [
+   "bdat:cf_mes_MENU:44:us"
+  ]
+ },
+ "322": {
+  "original": "Quicksave",
+  "ids": [
+   "bdat:cf_mes_MENU:45:us",
+   "bdat:cf_mes_MENU:46:us"
+  ]
+ },
+ "323": {
+  "original": "Save",
+  "ids": [
+   "bdat:cf_mes_MENU:47:us"
+  ]
+ },
+ "324": {
+  "original": "Can not learn skills yet!",
+  "ids": [
+   "bdat:cf_mes_MENU:48:us"
+  ]
+ },
+ "325": {
+  "original": "Ultimate Skills",
+  "ids": [
+   "bdat:cf_mes_MENU:50:us"
+  ]
+ },
+ "326": {
+  "original": "Abilities",
+  "ids": [
+   "bdat:cf_mes_MENU:51:us"
+  ]
+ },
+ "327": {
+  "original": "Select Skill type. You can use AP to<n>learn or upgrade Skills.",
+  "ids": [
+   "bdat:cf_mes_MENU:52:us"
+  ]
+ },
+ "328": {
+  "original": "S-Combo<n>Guide",
+  "ids": [
+   "bdat:cf_mes_MENU:53:us"
+  ]
+ },
+ "329": {
+  "original": "Next Goal",
+  "ids": [
+   "bdat:cf_mes_MENU:54:us"
+  ]
+ },
+ "330": {
+  "original": "Enemy Info",
+  "ids": [
+   "bdat:cf_mes_MENU:55:us"
+  ]
+ },
+ "331": {
+  "original": "Power",
+  "ids": [
+   "bdat:cf_mes_MENU:56:us"
+  ]
+ },
+ "332": {
+  "original": "- - -",
+  "ids": [
+   "bdat:cf_mes_MENU:57:us"
+  ]
+ },
+ "333": {
+  "original": "Use %s AP to earn this skill",
+  "ids": [
+   "bdat:cf_mes_MENU:59:us"
+  ]
+ },
+ "334": {
+  "original": "Use %s AP to upgrade this skill",
+  "ids": [
+   "bdat:cf_mes_MENU:60:us"
+  ]
+ },
+ "335": {
+  "original": "Assign your bonus points to your parameters.",
+  "ids": [
+   "bdat:cf_mes_MENU:61:us"
+  ]
+ },
+ "336": {
+  "original": "Is this what you want?",
+  "ids": [
+   "bdat:cf_mes_MENU:62:us"
+  ]
+ },
+ "337": {
+  "original": "Cannot assign any more points here.",
+  "ids": [
+   "bdat:cf_mes_MENU:63:us"
+  ]
+ },
+ "338": {
+  "original": "Equip %s",
+  "ids": [
+   "bdat:cf_mes_MENU:64:us"
+  ]
+ },
+ "339": {
+  "original": "No. Owned",
+  "ids": [
+   "bdat:cf_mes_MENU:65:us"
+  ]
+ },
+ "340": {
+  "original": "Zeni @19",
+  "ids": [
+   "bdat:cf_mes_MENU:66:us"
+  ]
+ },
+ "341": {
+  "original": "Total@19",
+  "ids": [
+   "bdat:cf_mes_MENU:67:us"
+  ]
+ },
+ "342": {
+  "original": "NO DATA",
+  "ids": [
+   "bdat:cf_mes_MENU:68:us"
+  ]
+ },
+ "343": {
+  "original": "Message Speed",
+  "ids": [
+   "bdat:cf_mes_MENU:69:us"
+  ]
+ },
+ "344": {
+  "original": "The speed of conversation messages",
+  "ids": [
+   "bdat:cf_mes_MENU:70:us"
+  ]
+ },
+ "345": {
+  "original": "Slow",
+  "ids": [
+   "bdat:cf_mes_MENU:71:us"
+  ]
+ },
+ "346": {
+  "original": "Normal",
+  "ids": [
+   "bdat:cf_mes_MENU:72:us"
+  ]
+ },
+ "347": {
+  "original": "Fast",
+  "ids": [
+   "bdat:cf_mes_MENU:73:us"
+  ]
+ },
+ "348": {
+  "original": "Sound",
+  "ids": [
+   "bdat:cf_mes_MENU:74:us"
+  ]
+ },
+ "349": {
+  "original": "Choose between stereo or mono",
+  "ids": [
+   "bdat:cf_mes_MENU:75:us"
+  ]
+ },
+ "350": {
+  "original": "Mono",
+  "ids": [
+   "bdat:cf_mes_MENU:76:us"
+  ]
+ },
+ "351": {
+  "original": "Stereo",
+  "ids": [
+   "bdat:cf_mes_MENU:77:us"
+  ]
+ },
+ "352": {
+  "original": "Language Select",
+  "ids": [
+   "bdat:cf_mes_MENU:79:us"
+  ]
+ },
+ "353": {
+  "original": "Language Select description text",
+  "ids": [
+   "bdat:cf_mes_MENU:80:us"
+  ]
+ },
+ "354": {
+  "original": "English",
+  "ids": [
+   "bdat:cf_mes_MENU:81:us"
+  ]
+ },
+ "355": {
+  "original": "French",
+  "ids": [
+   "bdat:cf_mes_MENU:82:us"
+  ]
+ },
+ "356": {
+  "original": "German",
+  "ids": [
+   "bdat:cf_mes_MENU:83:us"
+  ]
+ },
+ "357": {
+  "original": "Italian",
+  "ids": [
+   "bdat:cf_mes_MENU:84:us"
+  ]
+ },
+ "358": {
+  "original": "Spanish",
+  "ids": [
+   "bdat:cf_mes_MENU:85:us"
+  ]
+ },
+ "359": {
+  "original": "<p>Sniff... <w=30><n>Sniff...<w=60><p>Looks like there are <c=#c0c0f0>%d<c><n>treasures left to find here.<w=120>",
+  "ids": [
+   "bdat:cf_mes_MENU:89:us"
+  ]
+ },
+ "360": {
+  "original": "Obtained <c=#c0c0f0>%d<c> <c=#c0c0f0>%s<c>(s)!",
+  "ids": [
+   "bdat:cf_mes_MENU:90:us"
+  ]
+ },
+ "361": {
+  "original": "Obtained memo for S-Combo<n><c=#c0c0f0>%s<c>!",
+  "ids": [
+   "bdat:cf_mes_MENU:91:us"
+  ]
+ },
+ "362": {
+  "original": "Cannot carry any more.<n>Returned to chest.",
+  "ids": [
+   "bdat:cf_mes_MENU:92:us"
+  ]
+ },
+ "363": {
+  "original": "Drop the chosen item?",
+  "ids": [
+   "bdat:cf_mes_MENU:94:us"
+  ]
+ },
+ "364": {
+  "original": "Buy the chosen item?",
+  "ids": [
+   "bdat:cf_mes_MENU:95:us"
+  ]
+ },
+ "365": {
+  "original": "Sell the chosen item?",
+  "ids": [
+   "bdat:cf_mes_MENU:96:us"
+  ]
+ },
+ "366": {
+  "original": "Ffwd",
+  "ids": [
+   "bdat:cf_mes_MENU:100:us"
+  ]
+ },
+ "367": {
+  "original": "Next",
+  "ids": [
+   "bdat:cf_mes_MENU:101:us"
+  ]
+ },
+ "368": {
+  "original": "Select",
+  "ids": [
+   "bdat:cf_mes_MENU:102:us"
+  ]
+ },
+ "369": {
+  "original": "Capsule help display",
+  "ids": [
+   "bdat:cf_mes_MENU:105:us"
+  ]
+ },
+ "370": {
+  "original": "\\1P1Skill Req'd:\\1Pn%s Lv%d",
+  "ids": [
+   "bdat:cf_mes_MENU:107:us"
+  ]
+ },
+ "371": {
+  "original": "Ki cost",
+  "ids": [
+   "bdat:cf_mes_MENU:108:us"
+  ]
+ },
+ "372": {
+  "original": "Force",
+  "ids": [
+   "bdat:cf_mes_MENU:109:us"
+  ]
+ },
+ "373": {
+  "original": "Accuracy",
+  "ids": [
+   "bdat:cf_mes_MENU:110:us"
+  ]
+ },
+ "374": {
+  "original": "Effect",
+  "ids": [
+   "bdat:cf_mes_MENU:111:us"
+  ]
+ },
+ "375": {
+  "original": "Recover",
+  "ids": [
+   "bdat:cf_mes_MENU:112:us"
+  ]
+ },
+ "376": {
+  "original": "Escape",
+  "ids": [
+   "bdat:cf_mes_MENU:113:us"
+  ]
+ },
+ "377": {
+  "original": "Success",
+  "ids": [
+   "bdat:cf_mes_MENU:115:us"
+  ]
+ },
+ "378": {
+  "original": "The save data could not be accessed.<n>Please turn off the power and<n>reinsert the DS Game Card.",
+  "ids": [
+   "bdat:cf_mes_MENU:119:us"
+  ]
+ },
+ "379": {
+  "original": "Resetting backup memory.<n>Press the A Button to begin.",
+  "ids": [
+   "bdat:cf_mes_MENU:120:us"
+  ]
+ },
+ "380": {
+  "original": "Resetting...",
+  "ids": [
+   "bdat:cf_mes_MENU:121:us"
+  ]
+ },
+ "381": {
+  "original": "Memory reset failed. Please turn off<n>the power and reinsert the card.",
+  "ids": [
+   "bdat:cf_mes_MENU:122:us"
+  ]
+ },
+ "382": {
+  "original": "Data write failed. Please turn off the<n>power and reinsert the card.",
+  "ids": [
+   "bdat:cf_mes_MENU:123:us"
+  ]
+ },
+ "383": {
+  "original": "The Dragon Ball Z: Attack of the Saiyans<n>data is corrupted and will be deleted.<n>Press A Button to continue. ",
+  "ids": [
+   "bdat:cf_mes_MENU:124:us"
+  ]
+ },
+ "384": {
+  "original": "Combos",
+  "ids": [
+   "bdat:cf_mes_MENU:126:us"
+  ]
+ },
+ "385": {
+  "original": "Ki blasts",
+  "ids": [
+   "bdat:cf_mes_MENU:127:us"
+  ]
+ },
+ "386": {
+  "original": "Krillin returns to \\1P3Orin Temple\\1Pn, his<n>old stomping grounds.",
+  "ids": [
+   "bdat:cf_mes_QUEST:0:us"
+  ]
+ },
+ "387": {
+  "original": "Orin Temple was attacked! Track down the<n>culprit in \\1P3Bump Forest\\1Pn!",
+  "ids": [
+   "bdat:cf_mes_QUEST:1:us"
+  ]
+ },
+ "388": {
+  "original": "There's trouble on \\1P3Mt. Paozu\\1Pn. What<n>are all these carrots about?",
+  "ids": [
+   "bdat:cf_mes_QUEST:2:us"
+  ]
+ },
+ "389": {
+  "original": "Monster Carrot is back! Chase him<n>down to the \\1P3hideout\\1Pn!",
+  "ids": [
+   "bdat:cf_mes_QUEST:3:us"
+  ]
+ },
+ "390": {
+  "original": "Tien is headed for the \\1P3Divine<n>\\1P3Crossing\\1Pn, resting place of Mutaito.",
+  "ids": [
+   "bdat:cf_mes_QUEST:4:us"
+  ]
+ },
+ "391": {
+  "original": "The World Martial Arts Tournament is<n>here! First up, the prelims.",
+  "ids": [
+   "bdat:cf_mes_QUEST:5:us"
+  ]
+ },
+ "392": {
+  "original": "The Tournament is in turmoil! Who<n>is this strange new fighter?",
+  "ids": [
+   "bdat:cf_mes_QUEST:6:us"
+  ]
+ },
+ "393": {
+  "original": "Piccolo has returned! All hopes ride<n>on Goku in the final match!",
+  "ids": [
+   "bdat:cf_mes_QUEST:7:us"
+  ]
+ },
+ "394": {
+  "original": "Goku and Chi-Chi get married! The<n>ceremony's at the \\1P3Ox-King's palace!\\1P3",
+  "ids": [
+   "bdat:cf_mes_QUEST:8:us"
+  ]
+ },
+ "395": {
+  "original": "Head to \\1P3Fortuneteller Baba's palace\\1Pn<n>in search of the Bansho Fan.",
+  "ids": [
+   "bdat:cf_mes_QUEST:9:us"
+  ]
+ },
+ "396": {
+  "original": "Hurry to \\1P3Mt. Five Element\\1Pn to find the<n>furnace that caused the fire!",
+  "ids": [
+   "bdat:cf_mes_QUEST:10:us"
+  ]
+ },
+ "397": {
+  "original": "You need honey to patch the hole.<n>Master Roshi may know where it is.",
+  "ids": [
+   "bdat:cf_mes_QUEST:11:us"
+  ]
+ },
+ "398": {
+  "original": "Find an eggshell from the fire-eater<n>bird that lives on \\1P3Kiwi Volcano\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_QUEST:12:us"
+  ]
+ },
+ "399": {
+  "original": "Hakkake, who lives near \\1P3Mt. Frappe\\1Pn,<n>apparently collects the honey.",
+  "ids": [
+   "bdat:cf_mes_QUEST:13:us"
+  ]
+ },
+ "400": {
+  "original": "The honey has been stolen! Follow<n>the gang of three up \\1P3Mt. Frappe\\1Pn!",
+  "ids": [
+   "bdat:cf_mes_QUEST:14:us"
+  ]
+ },
+ "401": {
+  "original": "Pilaf and his gang are behind this!<n>Chase them down!",
+  "ids": [
+   "bdat:cf_mes_QUEST:15:us"
+  ]
+ },
+ "402": {
+  "original": "You got the honey! Now find the egg-<n>shell and visit Annin!",
+  "ids": [
+   "bdat:cf_mes_QUEST:16:us"
+  ]
+ },
+ "403": {
+  "original": "Where is the hole in the furnace?<n>Part the flames and find it!",
+  "ids": [
+   "bdat:cf_mes_QUEST:17:us"
+  ]
+ },
+ "404": {
+  "original": "A mysterious man is headed straight<n>for... \\1P3Kame House\\1Pn?!",
+  "ids": [
+   "bdat:cf_mes_QUEST:18:us"
+  ]
+ },
+ "405": {
+  "original": "Goku has a son... and boy, is<n>he spoiled!",
+  "ids": [
+   "bdat:cf_mes_QUEST:19:us"
+  ]
+ },
+ "406": {
+  "original": "Gohan's been kidnapped! And the<n>kidnapper is... Goku's brother?!",
+  "ids": [
+   "bdat:cf_mes_QUEST:20:us"
+  ]
+ },
+ "407": {
+  "original": "Goku and Piccolo team up and head<n>for the \\1P3Spinach Wastes\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_QUEST:21:us"
+  ]
+ },
+ "408": {
+  "original": "All alone in the wilderness... Go<n>see Piccolo, who's waiting up ahead.",
+  "ids": [
+   "bdat:cf_mes_QUEST:22:us"
+  ]
+ },
+ "409": {
+  "original": "Gohan's survival training begins!<n>Stay alive for six months!",
+  "ids": [
+   "bdat:cf_mes_QUEST:23:us"
+  ]
+ },
+ "410": {
+  "original": "Goku is dead, Gohan taken away...<n>Krillin needs to tell Chi-Chi.",
+  "ids": [
+   "bdat:cf_mes_QUEST:24:us"
+  ]
+ },
+ "411": {
+  "original": "Get the Precision Circuit from<n>\\1P3Capsule Corp\\1Pn and give it to Bulma.",
+  "ids": [
+   "bdat:cf_mes_QUEST:25:us"
+  ]
+ },
+ "412": {
+  "original": "Kami is training fighters! Track<n>down Tien, Chiaotzu and Yamcha.",
+  "ids": [
+   "bdat:cf_mes_QUEST:26:us"
+  ]
+ },
+ "413": {
+  "original": "Where is \\1P3Holly Plain\\1Pn? Find Launch,<n>who was out finding medicine!",
+  "ids": [
+   "bdat:cf_mes_QUEST:27:us"
+  ]
+ },
+ "414": {
+  "original": "Launch is found beyond a gate! Find<n>the Frozen Hyacinth!",
+  "ids": [
+   "bdat:cf_mes_QUEST:28:us"
+  ]
+ },
+ "415": {
+  "original": "Now bring the Frozen Hyacinth<n>back to \\1P3Jingle Village\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_QUEST:29:us"
+  ]
+ },
+ "416": {
+  "original": "Tien and Chiaotzu are reunited!<n>Yamcha should be on \\1P3Mt. Paozu\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_QUEST:30:us"
+  ]
+ },
+ "417": {
+  "original": "Everyone's here! Report back to<n>Master Roshi at \\1P3Kame House\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_QUEST:31:us"
+  ]
+ },
+ "418": {
+  "original": "Off to Kami's temple! First stop:<n>\\1P3Korin Tower\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_QUEST:32:us"
+  ]
+ },
+ "419": {
+  "original": "The Senzu plants are in trouble! Get<n>water for them at \\1P3Hermit's Spring\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_QUEST:33:us"
+  ]
+ },
+ "420": {
+  "original": "Gohan has grown! Whose presence does<n>he feel up ahead?",
+  "ids": [
+   "bdat:cf_mes_QUEST:34:us"
+  ]
+ },
+ "421": {
+  "original": "Destroy the flower-eating dragon!<n>Gohan's real training begins!",
+  "ids": [
+   "bdat:cf_mes_QUEST:35:us"
+  ]
+ },
+ "422": {
+  "original": "Is this the Other World? Talk to<n>Kami and King Yemma.",
+  "ids": [
+   "bdat:cf_mes_QUEST:36:us"
+  ]
+ },
+ "423": {
+  "original": "Training under King Kai! \\1P3Snake Way\\1Pn<n>is yours to traverse.",
+  "ids": [
+   "bdat:cf_mes_QUEST:37:us"
+  ]
+ },
+ "424": {
+  "original": "After falling asleep on Snake Way,<n>Goku lands in the \\1P3Underworld\\1Pn.",
+  "ids": [
+   "bdat:cf_mes_QUEST:38:us"
+  ]
+ },
+ "425": {
+  "original": "A sumo match with Goz! Win, and<n>you'll get back on Snake Way!",
+  "ids": [
+   "bdat:cf_mes_QUEST:39:us"
+  ]
+ },
+ "426": {
+  "original": "A game of tag with Mez! Win, and<n>you'll learn about the secret path!",
+  "ids": [
+   "bdat:cf_mes_QUEST:40:us"
+  ]
+ },
+ "427": {
+  "original": "Chase after Mez!",
+  "ids": [
+   "bdat:cf_mes_QUEST:41:us"
+  ]
+ },
+ "428": {
+  "original": "Got 'em! Ask Goz and Mez about the<n>secret path.",
+  "ids": [
+   "bdat:cf_mes_QUEST:42:us"
+  ]
+ },
+ "429": {
+  "original": "What a detour! Hurry on<n>to \\1P3Snake Way\\1Pn!",
+  "ids": [
+   "bdat:cf_mes_QUEST:43:us"
+  ]
+ },
+ "430": {
+  "original": "Is this King Kai's place? Let's<n>go inside.",
+  "ids": [
+   "bdat:cf_mes_QUEST:44:us"
+  ]
+ },
+ "431": {
+  "original": "Princess Snake is angry! Get out<n>of her mansion!",
+  "ids": [
+   "bdat:cf_mes_QUEST:45:us"
+  ]
+ },
+ "432": {
+  "original": "Another detour! Off to King<n>Kai's place!",
+  "ids": [
+   "bdat:cf_mes_QUEST:46:us"
+  ]
+ },
+ "433": {
+  "original": "10 G-forces? No problem! Catch<n>the sneaky Bubbles!",
+  "ids": [
+   "bdat:cf_mes_QUEST:47:us"
+  ]
+ },
+ "434": {
+  "original": "The \\1P3Yemma Forest\\1Pn has been vandal-<n>ized! Save the woods!",
+  "ids": [
+   "bdat:cf_mes_QUEST:48:us"
+  ]
+ },
+ "435": {
+  "original": "Raditz is down! Back to King Kai<n>to continue your training.",
+  "ids": [
+   "bdat:cf_mes_QUEST:49:us"
+  ]
+ },
+ "436": {
+  "original": "Before the Dragon Balls, visit<n>Baba's to meet your \\42helper.\\42",
+  "ids": [
+   "bdat:cf_mes_QUEST:50:us"
+  ]
+ },
+ "437": {
+  "original": "Goku joins! Use the Dragon Rader to find <n>where the Dragon Balls are located!",
+  "ids": [
+   "bdat:cf_mes_QUEST:51:us"
+  ]
+ },
+ "438": {
+  "original": "Melt the ice blocking the way to<n>\\1P3Yunzabit Heights\\1Pn with the flame!",
+  "ids": [
+   "bdat:cf_mes_QUEST:52:us"
+  ]
+ },
+ "439": {
+  "original": "You got the fire! Now melt the ice<n>and explore the area beyond.",
+  "ids": [
+   "bdat:cf_mes_QUEST:53:us"
+  ]
+ },
+ "440": {
+  "original": "The radar points you to the \\1P3Devil's<n>Toilet\\1Pn... Two Dragon Balls?!",
+  "ids": [
+   "bdat:cf_mes_QUEST:54:us"
+  ]
+ },
+ "441": {
+  "original": "The two-star ball is in two pieces!<n>Get the other piece.",
+  "ids": [
+   "bdat:cf_mes_QUEST:55:us"
+  ]
+ },
+ "442": {
+  "original": "Head to \\1P3Kami's Temple\\1Pn to repair the<n>broken two-star Dragon Ball.",
+  "ids": [
+   "bdat:cf_mes_QUEST:56:us"
+  ]
+ },
+ "443": {
+  "original": "Find Eighter and the Dragon Ball<n>inside \\1P3Muscle Tower\\1Pn!",
+  "ids": [
+   "bdat:cf_mes_QUEST:57:us"
+  ]
+ },
+ "444": {
+  "original": "An underwater Dragon Ball? Visit<n>\\1P3West City\\1Pn and meet Bulma's father.",
+  "ids": [
+   "bdat:cf_mes_QUEST:58:us"
+  ]
+ },
+ "445": {
+  "original": "Dragon Ball search in a submarine!<n> What awaits in the deep sea...? ",
+  "ids": [
+   "bdat:cf_mes_QUEST:59:us"
+  ]
+ },
+ "446": {
+  "original": "A Dragon Ball is hidden in the<n>\\1P3Desert\\1Pn. Track it down!",
+  "ids": [
+   "bdat:cf_mes_QUEST:60:us"
+  ]
+ },
+ "447": {
+  "original": "Head to \\1P3Pilaf's Castle\\1Pn to get<n>your stolen Dragon Balls back!",
+  "ids": [
+   "bdat:cf_mes_QUEST:61:us"
+  ]
+ },
+ "448": {
+  "original": "You're at the \\1P3Castle\\1Pn! Now get those<n>Dragon Balls back!",
+  "ids": [
+   "bdat:cf_mes_QUEST:62:us"
+  ]
+ },
+ "449": {
+  "original": "Gohan's real training begins! Head<n>for the \\1P3Nemuria Ruins\\1Pn first.",
+  "ids": [
+   "bdat:cf_mes_QUEST:63:us"
+  ]
+ },
+ "450": {
+  "original": "Piccolo told you to get the Devil's<n>Bracelet inside!",
+  "ids": [
+   "bdat:cf_mes_QUEST:64:us"
+  ]
+ },
+ "451": {
+  "original": "You ran into the dead robot again.<n>Where's the spare battery?",
+  "ids": [
+   "bdat:cf_mes_QUEST:65:us"
+  ]
+ },
+ "452": {
+  "original": "Gohan still isn't back... Piccolo<n>is getting anxious.",
+  "ids": [
+   "bdat:cf_mes_QUEST:66:us"
+  ]
+ },
+ "453": {
+  "original": "Quicksand at the entrance! Hurry<n>inside!",
+  "ids": [
+   "bdat:cf_mes_QUEST:67:us"
+  ]
+ },
+ "454": {
+  "original": "Gohan is found! But training isn't<n>over yet! Get the devil's bracelet!",
+  "ids": [
+   "bdat:cf_mes_QUEST:68:us"
+  ]
+ },
+ "455": {
+  "original": "Chiaotzu is gone... Head for \\1P3Baba's\\1Pn<n>to figure out where he is.",
+  "ids": [
+   "bdat:cf_mes_QUEST:69:us"
+  ]
+ },
+ "456": {
+  "original": "Chaiotzu is at \\1P3Mutaito's training<n>grounds\\1Pn! What happened to him?",
+  "ids": [
+   "bdat:cf_mes_QUEST:70:us"
+  ]
+ },
+ "457": {
+  "original": "Revive the broken \\1P3Yemma tree\\1Pn to<n>get the Spirit Crystal!",
+  "ids": [
+   "bdat:cf_mes_QUEST:71:us"
+  ]
+ },
+ "458": {
+  "original": "The tree is revived! Talk with<n>its spirit!",
+  "ids": [
+   "bdat:cf_mes_QUEST:72:us"
+  ]
+ },
+ "459": {
+  "original": "You got the Spirit Crystal! The<n>Spirit Bomb is yours!",
+  "ids": [
+   "bdat:cf_mes_QUEST:73:us"
+  ]
+ },
+ "460": {
+  "original": "The Saiyans arrive! Their first<n>target: Piccolo and Gohan!",
+  "ids": [
+   "bdat:cf_mes_QUEST:74:us"
+  ]
+ },
+ "461": {
+  "original": "Krillin is here! Advance on to face<n>the Saiyans...",
+  "ids": [
+   "bdat:cf_mes_QUEST:75:us"
+  ]
+ },
+ "462": {
+  "original": "Yamcha sacrificed his life against<n>the Saibamen. The battle begins!",
+  "ids": [
+   "bdat:cf_mes_QUEST:76:us"
+  ]
+ },
+ "463": {
+  "original": "Where's Goku?! Three hours left<n>to plan against the Saiyans...",
+  "ids": [
+   "bdat:cf_mes_QUEST:77:us"
+  ]
+ },
+ "464": {
+  "original": "The warriors go down like flies...<n>But Goku's finally here!",
+  "ids": [
+   "bdat:cf_mes_QUEST:78:us"
+  ]
+ },
+ "465": {
+  "original": "The final battle! Proceed into the<n>\\1P3Gizard Wasteland\\1Pn. <n>A heated battle beyond the limit.",
+  "ids": [
+   "bdat:cf_mes_QUEST:79:us"
+  ]
+ },
+ "466": {
+  "original": "Goku vs. Vegeta! This battle will<n>go beyond all limits.",
+  "ids": [
+   "bdat:cf_mes_QUEST:80:us"
+  ]
+ },
+ "467": {
+  "original": "-",
+  "ids": [
+   "bdat:cf_mes_QUEST:81:us",
+   "bdat:cf_mes_QUEST:82:us",
+   "bdat:cf_mes_QUEST:83:us",
+   "bdat:cf_mes_QUEST:84:us",
+   "bdat:cf_mes_QUEST:85:us",
+   "bdat:cf_mes_QUEST:86:us",
+   "bdat:cf_mes_QUEST:87:us",
+   "bdat:cf_mes_QUEST:88:us",
+   "bdat:cf_mes_QUEST:89:us",
+   "bdat:cf_mes_QUEST:90:us",
+   "bdat:cf_mes_QUEST:91:us",
+   "bdat:cf_mes_QUEST:92:us",
+   "bdat:cf_mes_QUEST:93:us",
+   "bdat:cf_mes_QUEST:94:us",
+   "bdat:cf_mes_QUEST:95:us",
+   "bdat:cf_mes_QUEST:96:us",
+   "bdat:cf_mes_QUEST:97:us"
+  ]
+ },
+ "468": {
+  "original": "Character \\1PAcolor \\1PBchange \\1P0test",
+  "ids": [
+   "bdat:cf_mes_QUEST:98:us"
+  ]
+ },
+ "469": {
+  "original": "#100",
+  "ids": [
+   "bdat:cf_mes_QUEST:99:us"
+  ]
+ },
+ "470": {
+  "original": "Devil's Toilet entr.",
+  "ids": [
+   "bdat:cf_mes_LOC:0:us"
+  ]
+ },
+ "471": {
+  "original": "Devil's Toilet (Basement Left)",
+  "ids": [
+   "bdat:cf_mes_LOC:1:us"
+  ]
+ },
+ "472": {
+  "original": "Devil's Toilet (Basement Right)",
+  "ids": [
+   "bdat:cf_mes_LOC:2:us"
+  ]
+ },
+ "473": {
+  "original": "Orin Temple",
+  "ids": [
+   "bdat:cf_mes_LOC:6:us"
+  ]
+ },
+ "474": {
+  "original": "East City Ruins",
+  "ids": [
+   "bdat:cf_mes_LOC:7:us",
+   "bdat:cf_mes_LOC:50:us"
+  ]
+ },
+ "475": {
+  "original": "Yemma Forest",
+  "ids": [
+   "bdat:cf_mes_LOC:8:us"
+  ]
+ },
+ "476": {
+  "original": "Inside Yemma Forest",
+  "ids": [
+   "bdat:cf_mes_LOC:9:us"
+  ]
+ },
+ "477": {
+  "original": "Mt. Frappe Cave",
+  "ids": [
+   "bdat:cf_mes_LOC:10:us"
+  ]
+ },
+ "478": {
+  "original": "Sewer",
+  "ids": [
+   "bdat:cf_mes_LOC:11:us"
+  ]
+ },
+ "479": {
+  "original": "Mt. Five Element",
+  "ids": [
+   "bdat:cf_mes_LOC:12:us"
+  ]
+ },
+ "480": {
+  "original": "Goku's House",
+  "ids": [
+   "bdat:cf_mes_LOC:13:us"
+  ]
+ },
+ "481": {
+  "original": "Underworld",
+  "ids": [
+   "bdat:cf_mes_LOC:14:us"
+  ]
+ },
+ "482": {
+  "original": "Korin Tower",
+  "ids": [
+   "bdat:cf_mes_LOC:19:us"
+  ]
+ },
+ "483": {
+  "original": "Foot of Kiwi Volcano",
+  "ids": [
+   "bdat:cf_mes_LOC:20:us"
+  ]
+ },
+ "484": {
+  "original": "Break Wasteland Desert",
+  "ids": [
+   "bdat:cf_mes_LOC:22:us"
+  ]
+ },
+ "485": {
+  "original": "Gizard Wasteland entr.",
+  "ids": [
+   "bdat:cf_mes_LOC:25:us"
+  ]
+ },
+ "486": {
+  "original": "Mutaito Training Grounds",
+  "ids": [
+   "bdat:cf_mes_LOC:27:us"
+  ]
+ },
+ "487": {
+  "original": "Mutaito Grounds (cave)",
+  "ids": [
+   "bdat:cf_mes_LOC:28:us"
+  ]
+ },
+ "488": {
+  "original": "In Paprika Wasteland",
+  "ids": [
+   "bdat:cf_mes_LOC:30:us"
+  ]
+ },
+ "489": {
+  "original": "Nemuria Ruins",
+  "ids": [
+   "bdat:cf_mes_LOC:31:us"
+  ]
+ },
+ "490": {
+  "original": "Inside Nemuria Ruins",
+  "ids": [
+   "bdat:cf_mes_LOC:32:us"
+  ]
+ },
+ "491": {
+  "original": "Pilaf's Castle 1",
+  "ids": [
+   "bdat:cf_mes_LOC:34:us"
+  ]
+ },
+ "492": {
+  "original": "Pilaf's Castle 2",
+  "ids": [
+   "bdat:cf_mes_LOC:35:us"
+  ]
+ },
+ "493": {
+  "original": "Pilaf's Castle Window",
+  "ids": [
+   "bdat:cf_mes_LOC:36:us"
+  ]
+ },
+ "494": {
+  "original": "Outside Pilaf's Castle",
+  "ids": [
+   "bdat:cf_mes_LOC:37:us"
+  ]
+ },
+ "495": {
+  "original": "Princess Snake's House",
+  "ids": [
+   "bdat:cf_mes_LOC:40:us"
+  ]
+ },
+ "496": {
+  "original": "Princess Snake's Room",
+  "ids": [
+   "bdat:cf_mes_LOC:41:us"
+  ]
+ },
+ "497": {
+  "original": "In Spinach Wastes",
+  "ids": [
+   "bdat:cf_mes_LOC:44:us"
+  ]
+ },
+ "498": {
+  "original": "Yunzabit Heights Cave",
+  "ids": [
+   "bdat:cf_mes_LOC:48:us"
+  ]
+ },
+ "499": {
+  "original": "Yunzabit Ice Cave",
+  "ids": [
+   "bdat:cf_mes_LOC:49:us"
+  ]
+ },
+ "500": {
+  "original": "End of Prologue",
+  "ids": [
+   "bdat:cf_mes_LOC:51:us"
+  ]
+ },
+ "501": {
+  "original": "End of Chapter 1",
+  "ids": [
+   "bdat:cf_mes_LOC:52:us"
+  ]
+ },
+ "502": {
+  "original": "End of Chapter 2",
+  "ids": [
+   "bdat:cf_mes_LOC:53:us"
+  ]
+ },
+ "503": {
+  "original": "End of Chapter 3",
+  "ids": [
+   "bdat:cf_mes_LOC:54:us"
+  ]
+ },
+ "504": {
+  "original": "End of Chapter 4",
+  "ids": [
+   "bdat:cf_mes_LOC:55:us"
+  ]
+ },
+ "505": {
+  "original": "End of Chapter 5",
+  "ids": [
+   "bdat:cf_mes_LOC:56:us"
+  ]
+ },
+ "506": {
+  "original": "End of Chapter 6",
+  "ids": [
+   "bdat:cf_mes_LOC:57:us"
+  ]
+ },
+ "507": {
+  "original": "End of Chapter 7",
+  "ids": [
+   "bdat:cf_mes_LOC:58:us"
+  ]
+ },
+ "508": {
+  "original": "End of Chapter 8",
+  "ids": [
+   "bdat:cf_mes_LOC:59:us"
+  ]
+ },
+ "509": {
+  "original": "End of Chapter 9",
+  "ids": [
+   "bdat:cf_mes_LOC:60:us"
+  ]
+ },
+ "510": {
+  "original": "End of Chapter 10",
+  "ids": [
+   "bdat:cf_mes_LOC:61:us"
+  ]
+ },
+ "511": {
+  "original": "End of Chapter 11",
+  "ids": [
+   "bdat:cf_mes_LOC:62:us"
+  ]
+ },
+ "512": {
+  "original": "End of Chapter 12",
+  "ids": [
+   "bdat:cf_mes_LOC:63:us"
+  ]
+ },
+ "513": {
+  "original": "End of Chapter 13",
+  "ids": [
+   "bdat:cf_mes_LOC:64:us"
+  ]
+ },
+ "514": {
+  "original": "End of Chapter 14",
+  "ids": [
+   "bdat:cf_mes_LOC:65:us"
+  ]
+ },
+ "515": {
+  "original": "End of Chapter 15",
+  "ids": [
+   "bdat:cf_mes_LOC:66:us"
+  ]
+ },
+ "516": {
+  "original": "Complete Game",
+  "ids": [
+   "bdat:cf_mes_LOC:67:us"
+  ]
+ },
+ "517": {
+  "original": "Foot of Mt. Frappe",
+  "ids": [
+   "bdat:cf_mes_LOC:68:us"
+  ]
+ },
+ "518": {
+  "original": "Mt. Frappe Path",
+  "ids": [
+   "bdat:cf_mes_LOC:69:us"
+  ]
+ },
+ "519": {
+  "original": "In Break Wasteland",
+  "ids": [
+   "bdat:cf_mes_LOC:70:us"
+  ]
+ },
+ "520": {
+  "original": "Break Wasteland entr.",
+  "ids": [
+   "bdat:cf_mes_LOC:72:us"
+  ]
+ },
+ "521": {
+  "original": "Hey! You wanna buy any of the stuff<n>I've collected? I'll wanna get paid<n>money for it, of course!",
+  "ids": [
+   "bdat:cf_mes_SHOP:0:us"
+  ]
+ },
+ "522": {
+  "original": "I'm proud of this one. Buy as many<n>as you like!",
+  "ids": [
+   "bdat:cf_mes_SHOP:1:us"
+  ]
+ },
+ "523": {
+  "original": "Huh? You're selling? What am I, a<n>pawnbroker? Well, whatever. What<n>do you want to sell?",
+  "ids": [
+   "bdat:cf_mes_SHOP:2:us",
+   "bdat:cf_mes_SHOP:82:us"
+  ]
+ },
+ "524": {
+  "original": "How many are you buying? The more,<n>the better, you know. Always be<n>prepared, and stuff!",
+  "ids": [
+   "bdat:cf_mes_SHOP:3:us",
+   "bdat:cf_mes_SHOP:83:us"
+  ]
+ },
+ "525": {
+  "original": "How many are you selling?",
+  "ids": [
+   "bdat:cf_mes_SHOP:4:us",
+   "bdat:cf_mes_SHOP:20:us",
+   "bdat:cf_mes_SHOP:28:us",
+   "bdat:cf_mes_SHOP:44:us",
+   "bdat:cf_mes_SHOP:68:us",
+   "bdat:cf_mes_SHOP:76:us",
+   "bdat:cf_mes_SHOP:84:us",
+   "bdat:cf_mes_SHOP:100:us",
+   "bdat:cf_mes_SHOP:108:us",
+   "bdat:cf_mes_SHOP:124:us",
+   "bdat:cf_mes_SHOP:148:us",
+   "bdat:cf_mes_SHOP:156:us"
+  ]
+ },
+ "526": {
+  "original": "Thanks! It's this sorta give and<n>take that makes the world go 'round,<n>you know?",
+  "ids": [
+   "bdat:cf_mes_SHOP:5:us",
+   "bdat:cf_mes_SHOP:85:us"
+  ]
+ },
+ "527": {
+  "original": "Oh, hello. We don't have much here,<n>but feel free to purchase whatever<n>you like.",
+  "ids": [
+   "bdat:cf_mes_SHOP:8:us"
+  ]
+ },
+ "528": {
+  "original": "What would you like to buy?",
+  "ids": [
+   "bdat:cf_mes_SHOP:9:us",
+   "bdat:cf_mes_SHOP:89:us"
+  ]
+ },
+ "529": {
+  "original": "What would you like to sell?",
+  "ids": [
+   "bdat:cf_mes_SHOP:10:us",
+   "bdat:cf_mes_SHOP:90:us"
+  ]
+ },
+ "530": {
+  "original": "How many are you buying? 99, right?",
+  "ids": [
+   "bdat:cf_mes_SHOP:11:us",
+   "bdat:cf_mes_SHOP:91:us"
+  ]
+ },
+ "531": {
+  "original": "How many are you selling? Hopefully<n>not too much.",
+  "ids": [
+   "bdat:cf_mes_SHOP:12:us",
+   "bdat:cf_mes_SHOP:92:us"
+  ]
+ },
+ "532": {
+  "original": "Thank you very much... tee hee.",
+  "ids": [
+   "bdat:cf_mes_SHOP:13:us"
+  ]
+ },
+ "533": {
+  "original": "Welcome! How would you like to<n>prepare for your battle?",
+  "ids": [
+   "bdat:cf_mes_SHOP:16:us"
+  ]
+ },
+ "534": {
+  "original": "What are you buying? Try not to buy<n>too much! Heh heh heh...",
+  "ids": [
+   "bdat:cf_mes_SHOP:17:us",
+   "bdat:cf_mes_SHOP:97:us"
+  ]
+ },
+ "535": {
+  "original": "What are you selling? I'll take<n>anything you have. Heh heh heh...",
+  "ids": [
+   "bdat:cf_mes_SHOP:18:us",
+   "bdat:cf_mes_SHOP:98:us"
+  ]
+ },
+ "536": {
+  "original": "How many are you buying?",
+  "ids": [
+   "bdat:cf_mes_SHOP:19:us",
+   "bdat:cf_mes_SHOP:27:us",
+   "bdat:cf_mes_SHOP:43:us",
+   "bdat:cf_mes_SHOP:67:us",
+   "bdat:cf_mes_SHOP:75:us",
+   "bdat:cf_mes_SHOP:99:us",
+   "bdat:cf_mes_SHOP:107:us",
+   "bdat:cf_mes_SHOP:123:us",
+   "bdat:cf_mes_SHOP:147:us",
+   "bdat:cf_mes_SHOP:155:us"
+  ]
+ },
+ "537": {
+  "original": "Thank you very much. I look forward<n>to serving you again. Heh heh heh...",
+  "ids": [
+   "bdat:cf_mes_SHOP:21:us",
+   "bdat:cf_mes_SHOP:101:us"
+  ]
+ },
+ "538": {
+  "original": "Welcome! I am confident that we have<n>the best selection in the world.",
+  "ids": [
+   "bdat:cf_mes_SHOP:24:us"
+  ]
+ },
+ "539": {
+  "original": "What're you buying? I am positive<n>you'll want to buy a lot.",
+  "ids": [
+   "bdat:cf_mes_SHOP:25:us",
+   "bdat:cf_mes_SHOP:105:us"
+  ]
+ },
+ "540": {
+  "original": "What're you selling? I am positive<n>you'll give me wonderful things.",
+  "ids": [
+   "bdat:cf_mes_SHOP:26:us",
+   "bdat:cf_mes_SHOP:106:us"
+  ]
+ },
+ "541": {
+  "original": "Thanks. Why not have a look at some<n>other things? There's no need to be<n>nervous about it.",
+  "ids": [
+   "bdat:cf_mes_SHOP:29:us",
+   "bdat:cf_mes_SHOP:109:us"
+  ]
+ },
+ "542": {
+  "original": "I am a traveling merchant, available<n>anywhere the world's martial artists<n>need me.",
+  "ids": [
+   "bdat:cf_mes_SHOP:32:us"
+  ]
+ },
+ "543": {
+  "original": "What are you looking for?",
+  "ids": [
+   "bdat:cf_mes_SHOP:33:us",
+   "bdat:cf_mes_SHOP:113:us"
+  ]
+ },
+ "544": {
+  "original": "What would you like me to buy?",
+  "ids": [
+   "bdat:cf_mes_SHOP:34:us",
+   "bdat:cf_mes_SHOP:114:us"
+  ]
+ },
+ "545": {
+  "original": "Very well. How many would you like?",
+  "ids": [
+   "bdat:cf_mes_SHOP:35:us",
+   "bdat:cf_mes_SHOP:115:us"
+  ]
+ },
+ "546": {
+  "original": "How many will you be selling?",
+  "ids": [
+   "bdat:cf_mes_SHOP:36:us",
+   "bdat:cf_mes_SHOP:116:us"
+  ]
+ },
+ "547": {
+  "original": "Thank you very much. If you need<n>anything, kindly keep this traveling<n>merchant in mind.",
+  "ids": [
+   "bdat:cf_mes_SHOP:37:us"
+  ]
+ },
+ "548": {
+  "original": "Welcome! You're our first customer<n>in a while! Have a look around!",
+  "ids": [
+   "bdat:cf_mes_SHOP:40:us"
+  ]
+ },
+ "549": {
+  "original": "I'm proud of everything I sell!<n>Please, buy it all! ...Just kidding!<n>But buy some, anyway!",
+  "ids": [
+   "bdat:cf_mes_SHOP:41:us",
+   "bdat:cf_mes_SHOP:121:us"
+  ]
+ },
+ "550": {
+  "original": "What are you selling? I'll buy<n>anything!",
+  "ids": [
+   "bdat:cf_mes_SHOP:42:us",
+   "bdat:cf_mes_SHOP:122:us"
+  ]
+ },
+ "551": {
+  "original": "Thank you very much! Please, look<n>around as much as you like!",
+  "ids": [
+   "bdat:cf_mes_SHOP:45:us",
+   "bdat:cf_mes_SHOP:125:us"
+  ]
+ },
+ "552": {
+  "original": "Oh, good afternoon. What're you<n>here for? Shopping?",
+  "ids": [
+   "bdat:cf_mes_SHOP:48:us"
+  ]
+ },
+ "553": {
+  "original": "This is all I got. You buying?",
+  "ids": [
+   "bdat:cf_mes_SHOP:49:us",
+   "bdat:cf_mes_SHOP:129:us"
+  ]
+ },
+ "554": {
+  "original": "What're you selling? I'm not<n>interested in garbage.",
+  "ids": [
+   "bdat:cf_mes_SHOP:50:us",
+   "bdat:cf_mes_SHOP:130:us"
+  ]
+ },
+ "555": {
+  "original": "How many you need?",
+  "ids": [
+   "bdat:cf_mes_SHOP:51:us",
+   "bdat:cf_mes_SHOP:131:us"
+  ]
+ },
+ "556": {
+  "original": "How many you selling?",
+  "ids": [
+   "bdat:cf_mes_SHOP:52:us",
+   "bdat:cf_mes_SHOP:132:us"
+  ]
+ },
+ "557": {
+  "original": "Right, thanks... Mm? You need<n>something else?",
+  "ids": [
+   "bdat:cf_mes_SHOP:53:us",
+   "bdat:cf_mes_SHOP:133:us"
+  ]
+ },
+ "558": {
+  "original": "Mmm? What do you need? Did you want<n>a piece of my collection?",
+  "ids": [
+   "bdat:cf_mes_SHOP:56:us"
+  ]
+ },
+ "559": {
+  "original": "No! Stop! Quit staring at my<n>collection like that!",
+  "ids": [
+   "bdat:cf_mes_SHOP:57:us",
+   "bdat:cf_mes_SHOP:137:us"
+  ]
+ },
+ "560": {
+  "original": "Are you giving me your collection?",
+  "ids": [
+   "bdat:cf_mes_SHOP:58:us",
+   "bdat:cf_mes_SHOP:138:us"
+  ]
+ },
+ "561": {
+  "original": "Ah, that? All right. How many do<n>you want?",
+  "ids": [
+   "bdat:cf_mes_SHOP:59:us",
+   "bdat:cf_mes_SHOP:139:us"
+  ]
+ },
+ "562": {
+  "original": "I'd be happy to buy that. How many<n>are you parting with?",
+  "ids": [
+   "bdat:cf_mes_SHOP:60:us",
+   "bdat:cf_mes_SHOP:140:us"
+  ]
+ },
+ "563": {
+  "original": "A pleasure doing business with you.",
+  "ids": [
+   "bdat:cf_mes_SHOP:61:us",
+   "bdat:cf_mes_SHOP:141:us"
+  ]
+ },
+ "564": {
+  "original": "Oh, hello. I'm impressed you made it<n>to this cold place. Feel free to<n>warm up a little in here.",
+  "ids": [
+   "bdat:cf_mes_SHOP:64:us"
+  ]
+ },
+ "565": {
+  "original": "Which do you want? Let me know if<n>you'd like to buy anything.",
+  "ids": [
+   "bdat:cf_mes_SHOP:65:us",
+   "bdat:cf_mes_SHOP:145:us"
+  ]
+ },
+ "566": {
+  "original": "What would you like me to buy? Let<n>me know what you're selling.",
+  "ids": [
+   "bdat:cf_mes_SHOP:66:us",
+   "bdat:cf_mes_SHOP:146:us"
+  ]
+ },
+ "567": {
+  "original": "Thank you much. You're my first<n>customer in a while. I'd love to<n>have you look around a bit more.",
+  "ids": [
+   "bdat:cf_mes_SHOP:69:us",
+   "bdat:cf_mes_SHOP:149:us"
+  ]
+ },
+ "568": {
+  "original": "Welcome.",
+  "ids": [
+   "bdat:cf_mes_SHOP:72:us",
+   "bdat:cf_mes_SHOP:152:us"
+  ]
+ },
+ "569": {
+  "original": "What will you buy?",
+  "ids": [
+   "bdat:cf_mes_SHOP:73:us",
+   "bdat:cf_mes_SHOP:153:us"
+  ]
+ },
+ "570": {
+  "original": "What will you sell?",
+  "ids": [
+   "bdat:cf_mes_SHOP:74:us",
+   "bdat:cf_mes_SHOP:154:us"
+  ]
+ },
+ "571": {
+  "original": "Thank you.",
+  "ids": [
+   "bdat:cf_mes_SHOP:77:us",
+   "bdat:cf_mes_SHOP:157:us"
+  ]
+ },
+ "572": {
+  "original": "Hey! I got some new stuff in! It<n>wouldn't kill you to have a look!",
+  "ids": [
+   "bdat:cf_mes_SHOP:80:us"
+  ]
+ },
+ "573": {
+  "original": "Heh heh! I'm proud of this one.<n>Buy as many as you like!",
+  "ids": [
+   "bdat:cf_mes_SHOP:81:us"
+  ]
+ },
+ "574": {
+  "original": "Oh, hello. I just took in some new<n>inventory that I'd love to show you.",
+  "ids": [
+   "bdat:cf_mes_SHOP:88:us"
+  ]
+ },
+ "575": {
+  "original": "Thank you very much... tee hee. I<n>hope to continue receiving your<n>business.",
+  "ids": [
+   "bdat:cf_mes_SHOP:93:us"
+  ]
+ },
+ "576": {
+  "original": "Welcome! We have new items in... How<n>would you like to prepare for your<n>battle?",
+  "ids": [
+   "bdat:cf_mes_SHOP:96:us"
+  ]
+ },
+ "577": {
+  "original": "Welcome! We have new inventory in.<n>Have a look around.",
+  "ids": [
+   "bdat:cf_mes_SHOP:104:us"
+  ]
+ },
+ "578": {
+  "original": "I have a wealth of new items in my<n>bag, ready for use by all the<n>martial artists in the world.",
+  "ids": [
+   "bdat:cf_mes_SHOP:112:us"
+  ]
+ },
+ "579": {
+  "original": "Thank you very much. If you need<n>anything, kindly keep this<n>merchant in mind.",
+  "ids": [
+   "bdat:cf_mes_SHOP:117:us"
+  ]
+ },
+ "580": {
+  "original": "Welcome! I've gotten in some new<n>stock! Please take a look!",
+  "ids": [
+   "bdat:cf_mes_SHOP:120:us"
+  ]
+ },
+ "581": {
+  "original": "Oh, good afternoon. What're you<n>here for? Shopping? There's some<n>new stock around, I hear.",
+  "ids": [
+   "bdat:cf_mes_SHOP:128:us"
+  ]
+ },
+ "582": {
+  "original": "Mmm? What do you need? Did you want<n>a look at the new items in my<n>collection?",
+  "ids": [
+   "bdat:cf_mes_SHOP:136:us"
+  ]
+ },
+ "583": {
+  "original": "Oh, hello. We just got in a bunch<n>of new stock, so feel free to look<n>around.",
+  "ids": [
+   "bdat:cf_mes_SHOP:144:us"
+  ]
+ },
+ "584": {
+  "original": "Charging Rush",
+  "ids": [
+   "bdat:cf_mes_COMBO:0:us"
+  ]
+ },
+ "585": {
+  "original": "Rush Blast",
+  "ids": [
+   "bdat:cf_mes_COMBO:1:us"
+  ]
+ },
+ "586": {
+  "original": "Hyper Rush",
+  "ids": [
+   "bdat:cf_mes_COMBO:2:us"
+  ]
+ },
+ "587": {
+  "original": "Hyper Blast",
+  "ids": [
+   "bdat:cf_mes_COMBO:3:us"
+  ]
+ },
+ "588": {
+  "original": "Saiyan Attack",
+  "ids": [
+   "bdat:cf_mes_COMBO:4:us"
+  ]
+ },
+ "589": {
+  "original": "Demon Fusion Wave",
+  "ids": [
+   "bdat:cf_mes_COMBO:5:us"
+  ]
+ },
+ "590": {
+  "original": "Demon Cannon",
+  "ids": [
+   "bdat:cf_mes_COMBO:6:us"
+  ]
+ },
+ "591": {
+  "original": "Heavenly Sunlight",
+  "ids": [
+   "bdat:cf_mes_COMBO:7:us"
+  ]
+ },
+ "592": {
+  "original": "Crane Wolf Strike",
+  "ids": [
+   "bdat:cf_mes_COMBO:8:us"
+  ]
+ },
+ "593": {
+  "original": "Seismic Energy Ray",
+  "ids": [
+   "bdat:cf_mes_COMBO:9:us"
+  ]
+ },
+ "594": {
+  "original": "Spirit Saucer",
+  "ids": [
+   "bdat:cf_mes_COMBO:10:us"
+  ]
+ },
+ "595": {
+  "original": "Quad Siege",
+  "ids": [
+   "bdat:cf_mes_COMBO:11:us"
+  ]
+ },
+ "596": {
+  "original": "Kamehame Fever",
+  "ids": [
+   "bdat:cf_mes_COMBO:12:us"
+  ]
+ },
+ "597": {
+  "original": "Earthling Strike",
+  "ids": [
+   "bdat:cf_mes_COMBO:13:us"
+  ]
+ },
+ "598": {
+  "original": "Meteor Impact",
+  "ids": [
+   "bdat:cf_mes_COMBO:14:us"
+  ]
+ },
+ "599": {
+  "original": "Platonic Energy",
+  "ids": [
+   "bdat:cf_mes_COMBO:15:us"
+  ]
+ },
+ "600": {
+  "original": "Demon-Wolf-Crane",
+  "ids": [
+   "bdat:cf_mes_COMBO:16:us"
+  ]
+ },
+ "601": {
+  "original": "Rush at your foe and punch, kick,<n>do whatever it takes to beat him!",
+  "ids": [
+   "bdat:cf_mes_COMBO:20:us"
+  ]
+ },
+ "602": {
+  "original": "A combination of punches, kicks, and<n>Ki blasts sure to fell any enemy!",
+  "ids": [
+   "bdat:cf_mes_COMBO:21:us"
+  ]
+ },
+ "603": {
+  "original": "Beat your enemy to the ground with this<n>barrage of punches and kicks!",
+  "ids": [
+   "bdat:cf_mes_COMBO:22:us"
+  ]
+ },
+ "604": {
+  "original": "Beat the stuffing out of your foe and<n>seal the deal with a massive Ki blast!",
+  "ids": [
+   "bdat:cf_mes_COMBO:23:us"
+  ]
+ },
+ "605": {
+  "original": "A Goku family tradition. Send your foe<n>into the air, then rush at him!",
+  "ids": [
+   "bdat:cf_mes_COMBO:24:us"
+  ]
+ },
+ "606": {
+  "original": "A co-op move between demon and Kami<n>pupil. The energy waves are merciless!",
+  "ids": [
+   "bdat:cf_mes_COMBO:25:us"
+  ]
+ },
+ "607": {
+  "original": "A co-op strategy passed down among the<n>demon race. The Ki blast is the key!",
+  "ids": [
+   "bdat:cf_mes_COMBO:26:us"
+  ]
+ },
+ "608": {
+  "original": "This sun-like burst of light does more<n>than just make your eyes water...",
+  "ids": [
+   "bdat:cf_mes_COMBO:27:us"
+  ]
+ },
+ "609": {
+  "original": "The wolf and crane combine for a combo<n>capped off by a devastating Ki blast.",
+  "ids": [
+   "bdat:cf_mes_COMBO:28:us"
+  ]
+ },
+ "610": {
+  "original": "A combo involving two types of Ki blasts.<n>Sometimes less really is more!",
+  "ids": [
+   "bdat:cf_mes_COMBO:29:us"
+  ]
+ },
+ "611": {
+  "original": "A wave of Ki attacks. He'll never<n>give up women, will he?",
+  "ids": [
+   "bdat:cf_mes_COMBO:30:us"
+  ]
+ },
+ "612": {
+  "original": "A quadruple-power attack followed by a<n>devastating demon Ki blast!",
+  "ids": [
+   "bdat:cf_mes_COMBO:31:us"
+  ]
+ },
+ "613": {
+  "original": "One of the Turtle school's secret moves.<n>Burn your foe to a crisp!",
+  "ids": [
+   "bdat:cf_mes_COMBO:32:us"
+  ]
+ },
+ "614": {
+  "original": "It's mano-a-mano with this move. Show<n>'em what Earthlings are made of!",
+  "ids": [
+   "bdat:cf_mes_COMBO:33:us"
+  ]
+ },
+ "615": {
+  "original": "Give your foe a Saiyan combo attack,<n>finishing with a demon Ki blast!",
+  "ids": [
+   "bdat:cf_mes_COMBO:34:us"
+  ]
+ },
+ "616": {
+  "original": "A full-power Ki-Blast combo. Show off<n>the power of friendship!",
+  "ids": [
+   "bdat:cf_mes_COMBO:35:us"
+  ]
+ },
+ "617": {
+  "original": "A three-part fusion attack. Close your<n>eyes and let the Ki flow out!",
+  "ids": [
+   "bdat:cf_mes_COMBO:36:us"
+  ]
+ },
+ "618": {
+  "original": "Small Bean",
+  "ids": [
+   "bdat:use_item_mes:0:us"
+  ]
+ },
+ "619": {
+  "original": "Refills 150 of one ally's HP",
+  "ids": [
+   "bdat:use_item_mes:1:us"
+  ]
+ },
+ "620": {
+  "original": "Medium Bean",
+  "ids": [
+   "bdat:use_item_mes:2:us"
+  ]
+ },
+ "621": {
+  "original": "Refills 300 of one ally's HP",
+  "ids": [
+   "bdat:use_item_mes:3:us"
+  ]
+ },
+ "622": {
+  "original": "Large Bean",
+  "ids": [
+   "bdat:use_item_mes:4:us"
+  ]
+ },
+ "623": {
+  "original": "Refills 800 of one ally's HP",
+  "ids": [
+   "bdat:use_item_mes:5:us"
+  ]
+ },
+ "624": {
+  "original": "MAX Bean",
+  "ids": [
+   "bdat:use_item_mes:6:us"
+  ]
+ },
+ "625": {
+  "original": "Refills 1500 of one ally's HP",
+  "ids": [
+   "bdat:use_item_mes:7:us"
+  ]
+ },
+ "626": {
+  "original": "HP Drink 30",
+  "ids": [
+   "bdat:use_item_mes:8:us"
+  ]
+ },
+ "627": {
+  "original": "Refills 30% of one ally's HP",
+  "ids": [
+   "bdat:use_item_mes:9:us"
+  ]
+ },
+ "628": {
+  "original": "HP Drink 50",
+  "ids": [
+   "bdat:use_item_mes:10:us"
+  ]
+ },
+ "629": {
+  "original": "Refills 50% of one ally's HP",
+  "ids": [
+   "bdat:use_item_mes:11:us"
+  ]
+ },
+ "630": {
+  "original": "HP Drink Z",
+  "ids": [
+   "bdat:use_item_mes:12:us"
+  ]
+ },
+ "631": {
+  "original": "Fully refills one ally's HP",
+  "ids": [
+   "bdat:use_item_mes:13:us"
+  ]
+ },
+ "632": {
+  "original": "HP Capsule 50",
+  "ids": [
+   "bdat:use_item_mes:14:us"
+  ]
+ },
+ "633": {
+  "original": "Refills 50% of all allies' HP",
+  "ids": [
+   "bdat:use_item_mes:15:us"
+  ]
+ },
+ "634": {
+  "original": "HP Capsule Z",
+  "ids": [
+   "bdat:use_item_mes:16:us"
+  ]
+ },
+ "635": {
+  "original": "Fully refills all allies' HP",
+  "ids": [
+   "bdat:use_item_mes:17:us"
+  ]
+ },
+ "636": {
+  "original": "Dragon Stone",
+  "ids": [
+   "bdat:use_item_mes:18:us"
+  ]
+ },
+ "637": {
+  "original": "Refills a little HP of all allies<n>(Only during battle. Can be used repeatedly)",
+  "ids": [
+   "bdat:use_item_mes:19:us"
+  ]
+ },
+ "638": {
+  "original": "Wilted Carrot",
+  "ids": [
+   "bdat:use_item_mes:20:us"
+  ]
+ },
+ "639": {
+  "original": "Refills a little HP to one ally<n>(during battle only)",
+  "ids": [
+   "bdat:use_item_mes:21:us",
+   "bdat:use_item_mes:23:us",
+   "bdat:use_item_mes:25:us"
+  ]
+ },
+ "640": {
+  "original": "Carrot",
+  "ids": [
+   "bdat:use_item_mes:22:us"
+  ]
+ },
+ "641": {
+  "original": "Fancy Carrot",
+  "ids": [
+   "bdat:use_item_mes:24:us"
+  ]
+ },
+ "642": {
+  "original": "Ki Drink 30",
+  "ids": [
+   "bdat:use_item_mes:26:us"
+  ]
+ },
+ "643": {
+  "original": "Refills 30% of one ally's Ki",
+  "ids": [
+   "bdat:use_item_mes:27:us"
+  ]
+ },
+ "644": {
+  "original": "Ki Drink 50",
+  "ids": [
+   "bdat:use_item_mes:28:us"
+  ]
+ },
+ "645": {
+  "original": "Refills 50% of one ally's Ki",
+  "ids": [
+   "bdat:use_item_mes:29:us"
+  ]
+ },
+ "646": {
+  "original": "Ki Drink Z",
+  "ids": [
+   "bdat:use_item_mes:30:us"
+  ]
+ },
+ "647": {
+  "original": "Fully refills one ally's Ki",
+  "ids": [
+   "bdat:use_item_mes:31:us"
+  ]
+ },
+ "648": {
+  "original": "Ki Capsule 50",
+  "ids": [
+   "bdat:use_item_mes:32:us"
+  ]
+ },
+ "649": {
+  "original": "Refills 50% of all allies' Ki",
+  "ids": [
+   "bdat:use_item_mes:33:us"
+  ]
+ },
+ "650": {
+  "original": "Ki Capsule Z",
+  "ids": [
+   "bdat:use_item_mes:34:us"
+  ]
+ },
+ "651": {
+  "original": "Fully refills all allies' Ki",
+  "ids": [
+   "bdat:use_item_mes:35:us"
+  ]
+ },
+ "652": {
+  "original": "Sacred Jewel",
+  "ids": [
+   "bdat:use_item_mes:36:us"
+  ]
+ },
+ "653": {
+  "original": "Refills a little Ki of one ally<n>(Only during battle. Can be used repeatedly)",
+  "ids": [
+   "bdat:use_item_mes:37:us"
+  ]
+ },
+ "654": {
+  "original": "Double Drink 50",
+  "ids": [
+   "bdat:use_item_mes:38:us"
+  ]
+ },
+ "655": {
+  "original": "Refills 50% of one ally's HP and Ki",
+  "ids": [
+   "bdat:use_item_mes:39:us"
+  ]
+ },
+ "656": {
+  "original": "Double Drink Z",
+  "ids": [
+   "bdat:use_item_mes:40:us"
+  ]
+ },
+ "657": {
+  "original": "Fully refills one ally's HP and Ki",
+  "ids": [
+   "bdat:use_item_mes:41:us",
+   "bdat:use_item_mes:45:us"
+  ]
+ },
+ "658": {
+  "original": "Double Capsule 50",
+  "ids": [
+   "bdat:use_item_mes:42:us"
+  ]
+ },
+ "659": {
+  "original": "Refills 50% of all allies' HP and Ki",
+  "ids": [
+   "bdat:use_item_mes:43:us"
+  ]
+ },
+ "660": {
+  "original": "Double Capsule Z",
+  "ids": [
+   "bdat:use_item_mes:44:us"
+  ]
+ },
+ "661": {
+  "original": "Hermit Elixir",
+  "ids": [
+   "bdat:use_item_mes:46:us"
+  ]
+ },
+ "662": {
+  "original": "Refills some HP and Ki to one ally<n>(Reduces Rage Gauge)",
+  "ids": [
+   "bdat:use_item_mes:47:us"
+  ]
+ },
+ "663": {
+  "original": "Hermit Medicine",
+  "ids": [
+   "bdat:use_item_mes:48:us"
+  ]
+ },
+ "664": {
+  "original": "Fully refills one ally's HP and Ki<n>(Reduces Rage Gauge to zero)",
+  "ids": [
+   "bdat:use_item_mes:49:us"
+  ]
+ },
+ "665": {
+  "original": "Hermit Water",
+  "ids": [
+   "bdat:use_item_mes:50:us"
+  ]
+ },
+ "666": {
+  "original": "Refills some HP and Ki to all allies<n> (Reduces Rage Gauge)",
+  "ids": [
+   "bdat:use_item_mes:51:us"
+  ]
+ },
+ "667": {
+  "original": "Hermit Milk",
+  "ids": [
+   "bdat:use_item_mes:52:us"
+  ]
+ },
+ "668": {
+  "original": "Fully refills all allies' HP and Ki<n>(Reduces Rage Gauge to zero)",
+  "ids": [
+   "bdat:use_item_mes:53:us"
+  ]
+ },
+ "669": {
+  "original": "Senzu Bean",
+  "ids": [
+   "bdat:use_item_mes:54:us"
+  ]
+ },
+ "670": {
+  "original": "Refills one ally's HP and Ki to max,<n>reviving him and curing all statuses",
+  "ids": [
+   "bdat:use_item_mes:55:us"
+  ]
+ },
+ "671": {
+  "original": "Super Senzu Bean",
+  "ids": [
+   "bdat:use_item_mes:56:us"
+  ]
+ },
+ "672": {
+  "original": "Refills all allies' HP and Ki to max,<n> reviving them and curing all statuses",
+  "ids": [
+   "bdat:use_item_mes:57:us"
+  ]
+ },
+ "673": {
+  "original": "Korin's Medicine",
+  "ids": [
+   "bdat:use_item_mes:58:us"
+  ]
+ },
+ "674": {
+  "original": "Swaps your HP and Ki stats",
+  "ids": [
+   "bdat:use_item_mes:59:us"
+  ]
+ },
+ "675": {
+  "original": "Phoenix Feather",
+  "ids": [
+   "bdat:use_item_mes:60:us"
+  ]
+ },
+ "676": {
+  "original": "Revives one character with 50% HP",
+  "ids": [
+   "bdat:use_item_mes:61:us"
+  ]
+ },
+ "677": {
+  "original": "Phoenix Tail Feather",
+  "ids": [
+   "bdat:use_item_mes:62:us"
+  ]
+ },
+ "678": {
+  "original": "Revives one character with full HP",
+  "ids": [
+   "bdat:use_item_mes:63:us"
+  ]
+ },
+ "679": {
+  "original": "Poison Recovery",
+  "ids": [
+   "bdat:use_item_mes:64:us"
+  ]
+ },
+ "680": {
+  "original": "Cures one ally of Poison",
+  "ids": [
+   "bdat:use_item_mes:65:us"
+  ]
+ },
+ "681": {
+  "original": "Darkness Recovery",
+  "ids": [
+   "bdat:use_item_mes:66:us"
+  ]
+ },
+ "682": {
+  "original": "Cures one ally of Darkness",
+  "ids": [
+   "bdat:use_item_mes:67:us"
+  ]
+ },
+ "683": {
+  "original": "Sleep Recovery",
+  "ids": [
+   "bdat:use_item_mes:68:us"
+  ]
+ },
+ "684": {
+  "original": "Cures one ally of Sleep",
+  "ids": [
+   "bdat:use_item_mes:69:us"
+  ]
+ },
+ "685": {
+  "original": "Bind Recovery",
+  "ids": [
+   "bdat:use_item_mes:70:us"
+  ]
+ },
+ "686": {
+  "original": "Cures one ally of Paralysis",
+  "ids": [
+   "bdat:use_item_mes:71:us"
+  ]
+ },
+ "687": {
+  "original": "Stun Recovery",
+  "ids": [
+   "bdat:use_item_mes:72:us"
+  ]
+ },
+ "688": {
+  "original": "Cures one ally of Stun",
+  "ids": [
+   "bdat:use_item_mes:73:us"
+  ]
+ },
+ "689": {
+  "original": "Panic Recovery",
+  "ids": [
+   "bdat:use_item_mes:74:us"
+  ]
+ },
+ "690": {
+  "original": "Cures one ally of Confusion",
+  "ids": [
+   "bdat:use_item_mes:75:us"
+  ]
+ },
+ "691": {
+  "original": "Freeze Recovery",
+  "ids": [
+   "bdat:use_item_mes:76:us"
+  ]
+ },
+ "692": {
+  "original": "Cures one ally of Freeze",
+  "ids": [
+   "bdat:use_item_mes:77:us"
+  ]
+ },
+ "693": {
+  "original": "Recover Capsule",
+  "ids": [
+   "bdat:use_item_mes:78:us"
+  ]
+ },
+ "694": {
+  "original": "Cures one ally of all status ailments",
+  "ids": [
+   "bdat:use_item_mes:79:us"
+  ]
+ },
+ "695": {
+  "original": "All Recover",
+  "ids": [
+   "bdat:use_item_mes:80:us"
+  ]
+ },
+ "696": {
+  "original": "Cures all allies of all status ailments",
+  "ids": [
+   "bdat:use_item_mes:81:us"
+  ]
+ },
+ "697": {
+  "original": "Anger Jewel",
+  "ids": [
+   "bdat:use_item_mes:82:us"
+  ]
+ },
+ "698": {
+  "original": "Fills one ally's Rage Gauge a little",
+  "ids": [
+   "bdat:use_item_mes:83:us"
+  ]
+ },
+ "699": {
+  "original": "Shenron Scale",
+  "ids": [
+   "bdat:use_item_mes:84:us"
+  ]
+ },
+ "700": {
+  "original": "Fills one ally's Rage Gauge to max",
+  "ids": [
+   "bdat:use_item_mes:85:us"
+  ]
+ },
+ "701": {
+  "original": "Attack Water",
+  "ids": [
+   "bdat:use_item_mes:86:us"
+  ]
+ },
+ "702": {
+  "original": "Raises attack power for several turns",
+  "ids": [
+   "bdat:use_item_mes:87:us"
+  ]
+ },
+ "703": {
+  "original": "Defense Water",
+  "ids": [
+   "bdat:use_item_mes:88:us"
+  ]
+ },
+ "704": {
+  "original": "Raises defense power for several turns",
+  "ids": [
+   "bdat:use_item_mes:89:us"
+  ]
+ },
+ "705": {
+  "original": "Battle Sense",
+  "ids": [
+   "bdat:use_item_mes:90:us"
+  ]
+ },
+ "706": {
+  "original": "Raises accuracy for several turns",
+  "ids": [
+   "bdat:use_item_mes:91:us"
+  ]
+ },
+ "707": {
+  "original": "Evasion Secrets",
+  "ids": [
+   "bdat:use_item_mes:92:us"
+  ]
+ },
+ "708": {
+  "original": "Raises evasion for several turns",
+  "ids": [
+   "bdat:use_item_mes:93:us"
+  ]
+ },
+ "709": {
+  "original": "Paozu Stone",
+  "ids": [
+   "bdat:use_item_mes:94:us"
+  ]
+ },
+ "710": {
+  "original": "Raises speed for several turns",
+  "ids": [
+   "bdat:use_item_mes:95:us"
+  ]
+ },
+ "711": {
+  "original": "Super Sacred Water",
+  "ids": [
+   "bdat:use_item_mes:96:us"
+  ]
+ },
+ "712": {
+  "original": "Raises all parameters for several turns",
+  "ids": [
+   "bdat:use_item_mes:97:us"
+  ]
+ },
+ "713": {
+  "original": "Dragonbone Powder",
+  "ids": [
+   "bdat:use_item_mes:98:us"
+  ]
+ },
+ "714": {
+  "original": "Raises the chance of a critical attack<n> for several turns",
+  "ids": [
+   "bdat:use_item_mes:99:us"
+  ]
+ },
+ "715": {
+  "original": "Missile",
+  "ids": [
+   "bdat:use_item_mes:100:us"
+  ]
+ },
+ "716": {
+  "original": "Launches a missile at one enemy",
+  "ids": [
+   "bdat:use_item_mes:101:us"
+  ]
+ },
+ "717": {
+  "original": "Giant Missile",
+  "ids": [
+   "bdat:use_item_mes:102:us"
+  ]
+ },
+ "718": {
+  "original": "Launches a large missile at one enemy",
+  "ids": [
+   "bdat:use_item_mes:103:us"
+  ]
+ },
+ "719": {
+  "original": "Multi-Missile",
+  "ids": [
+   "bdat:use_item_mes:104:us"
+  ]
+ },
+ "720": {
+  "original": "Fires several missiles at all enemies",
+  "ids": [
+   "bdat:use_item_mes:105:us"
+  ]
+ },
+ "721": {
+  "original": "Satellite Laser",
+  "ids": [
+   "bdat:use_item_mes:106:us"
+  ]
+ },
+ "722": {
+  "original": "Attacks all enemies with lasers<n>from the sky",
+  "ids": [
+   "bdat:use_item_mes:107:us"
+  ]
+ },
+ "723": {
+  "original": "Hot Capsule",
+  "ids": [
+   "bdat:use_item_mes:108:us"
+  ]
+ },
+ "724": {
+  "original": "Light @37fire damage to one enemy",
+  "ids": [
+   "bdat:use_item_mes:109:us"
+  ]
+ },
+ "725": {
+  "original": "Burn Capsule",
+  "ids": [
+   "bdat:use_item_mes:110:us"
+  ]
+ },
+ "726": {
+  "original": "Major @37fire damage to one enemy",
+  "ids": [
+   "bdat:use_item_mes:111:us"
+  ]
+ },
+ "727": {
+  "original": "Ox-King Flame",
+  "ids": [
+   "bdat:use_item_mes:112:us"
+  ]
+ },
+ "728": {
+  "original": "Light @37fire damage to all enemies",
+  "ids": [
+   "bdat:use_item_mes:113:us"
+  ]
+ },
+ "729": {
+  "original": "Annin Flame",
+  "ids": [
+   "bdat:use_item_mes:114:us"
+  ]
+ },
+ "730": {
+  "original": "Major @37fire damage to all enemies",
+  "ids": [
+   "bdat:use_item_mes:115:us"
+  ]
+ },
+ "731": {
+  "original": "Electric Capsule",
+  "ids": [
+   "bdat:use_item_mes:116:us"
+  ]
+ },
+ "732": {
+  "original": "Light @39lightning damage to one enemy",
+  "ids": [
+   "bdat:use_item_mes:117:us"
+  ]
+ },
+ "733": {
+  "original": "Thunder Capsule",
+  "ids": [
+   "bdat:use_item_mes:118:us"
+  ]
+ },
+ "734": {
+  "original": "Major @39lightning damage to one enemy",
+  "ids": [
+   "bdat:use_item_mes:119:us"
+  ]
+ },
+ "735": {
+  "original": "Master Roshi's Anger",
+  "ids": [
+   "bdat:use_item_mes:120:us"
+  ]
+ },
+ "736": {
+  "original": "Light @39lightning damage to all enemies",
+  "ids": [
+   "bdat:use_item_mes:121:us"
+  ]
+ },
+ "737": {
+  "original": "Kami's Judgment",
+  "ids": [
+   "bdat:use_item_mes:122:us"
+  ]
+ },
+ "738": {
+  "original": "Major @39lightning damage to all enemies",
+  "ids": [
+   "bdat:use_item_mes:123:us"
+  ]
+ },
+ "739": {
+  "original": "Ice Capsule",
+  "ids": [
+   "bdat:use_item_mes:124:us"
+  ]
+ },
+ "740": {
+  "original": "Light @38ice damage to one enemy",
+  "ids": [
+   "bdat:use_item_mes:125:us"
+  ]
+ },
+ "741": {
+  "original": "Freeze Capsule",
+  "ids": [
+   "bdat:use_item_mes:126:us"
+  ]
+ },
+ "742": {
+  "original": "Major @38ice damage to one enemy",
+  "ids": [
+   "bdat:use_item_mes:127:us"
+  ]
+ },
+ "743": {
+  "original": "Jingle Village Bomb",
+  "ids": [
+   "bdat:use_item_mes:128:us"
+  ]
+ },
+ "744": {
+  "original": "Light @38ice damage to all enemies",
+  "ids": [
+   "bdat:use_item_mes:129:us"
+  ]
+ },
+ "745": {
+  "original": "Yunzabit Bomb",
+  "ids": [
+   "bdat:use_item_mes:130:us"
+  ]
+ },
+ "746": {
+  "original": "Major @38ice damage to all enemies",
+  "ids": [
+   "bdat:use_item_mes:131:us"
+  ]
+ },
+ "747": {
+  "original": "Sleep Pill",
+  "ids": [
+   "bdat:use_item_mes:132:us"
+  ]
+ },
+ "748": {
+  "original": "Puts one enemy to sleep",
+  "ids": [
+   "bdat:use_item_mes:133:us"
+  ]
+ },
+ "749": {
+  "original": "Wolf's Roar",
+  "ids": [
+   "bdat:use_item_mes:134:us"
+  ]
+ },
+ "750": {
+  "original": "Paralyzes one enemy",
+  "ids": [
+   "bdat:use_item_mes:135:us"
+  ]
+ },
+ "751": {
+  "original": "Rattlesnake Scale",
+  "ids": [
+   "bdat:use_item_mes:136:us"
+  ]
+ },
+ "752": {
+  "original": "Poisons one enemy",
+  "ids": [
+   "bdat:use_item_mes:137:us"
+  ]
+ },
+ "753": {
+  "original": "Spirit Light",
+  "ids": [
+   "bdat:use_item_mes:138:us"
+  ]
+ },
+ "754": {
+  "original": "Puts one enemy in darkness",
+  "ids": [
+   "bdat:use_item_mes:139:us"
+  ]
+ },
+ "755": {
+  "original": "Absolute Zero",
+  "ids": [
+   "bdat:use_item_mes:140:us"
+  ]
+ },
+ "756": {
+  "original": "Freezes one enemy",
+  "ids": [
+   "bdat:use_item_mes:141:us"
+  ]
+ },
+ "757": {
+  "original": "Demon King Seal",
+  "ids": [
+   "bdat:use_item_mes:142:us"
+  ]
+ },
+ "758": {
+  "original": "Instantly kills one enemy",
+  "ids": [
+   "bdat:use_item_mes:143:us"
+  ]
+ },
+ "759": {
+  "original": "Monster Carrot Jewel",
+  "ids": [
+   "bdat:use_item_mes:144:us"
+  ]
+ },
+ "760": {
+  "original": "Turns one enemy into a carrot",
+  "ids": [
+   "bdat:use_item_mes:145:us"
+  ]
+ },
+ "761": {
+  "original": "Mystery Jewel",
+  "ids": [
+   "bdat:use_item_mes:146:us"
+  ]
+ },
+ "762": {
+  "original": "Gives a random status ailment<n>to one enemy",
+  "ids": [
+   "bdat:use_item_mes:147:us"
+  ]
+ },
+ "763": {
+  "original": "Blunder Card",
+  "ids": [
+   "bdat:use_item_mes:148:us"
+  ]
+ },
+ "764": {
+  "original": "Reduces attack power of one enemy",
+  "ids": [
+   "bdat:use_item_mes:149:us"
+  ]
+ },
+ "765": {
+  "original": "Bravado Card",
+  "ids": [
+   "bdat:use_item_mes:150:us"
+  ]
+ },
+ "766": {
+  "original": "Reduces defense power of one enemy",
+  "ids": [
+   "bdat:use_item_mes:151:us"
+  ]
+ },
+ "767": {
+  "original": "Defocus Card",
+  "ids": [
+   "bdat:use_item_mes:152:us"
+  ]
+ },
+ "768": {
+  "original": "Reduces accuracy of one enemy",
+  "ids": [
+   "bdat:use_item_mes:153:us"
+  ]
+ },
+ "769": {
+  "original": "Inattention Card",
+  "ids": [
+   "bdat:use_item_mes:154:us"
+  ]
+ },
+ "770": {
+  "original": "Reduces evasion of one enemy",
+  "ids": [
+   "bdat:use_item_mes:155:us"
+  ]
+ },
+ "771": {
+  "original": "HP Fruit",
+  "ids": [
+   "bdat:use_item_mes:156:us"
+  ]
+ },
+ "772": {
+  "original": "Raises your maximum HP",
+  "ids": [
+   "bdat:use_item_mes:157:us"
+  ]
+ },
+ "773": {
+  "original": "Ki Fruit",
+  "ids": [
+   "bdat:use_item_mes:158:us"
+  ]
+ },
+ "774": {
+  "original": "Raises your maximum Ki",
+  "ids": [
+   "bdat:use_item_mes:159:us"
+  ]
+ },
+ "775": {
+  "original": "Power Fruit",
+  "ids": [
+   "bdat:use_item_mes:160:us"
+  ]
+ },
+ "776": {
+  "original": "Raises Power",
+  "ids": [
+   "bdat:use_item_mes:161:us"
+  ]
+ },
+ "777": {
+  "original": "Defense Fruit",
+  "ids": [
+   "bdat:use_item_mes:162:us"
+  ]
+ },
+ "778": {
+  "original": "Recovery Fruit",
+  "ids": [
+   "bdat:use_item_mes:164:us"
+  ]
+ },
+ "779": {
+  "original": "Raises Recovery",
+  "ids": [
+   "bdat:use_item_mes:165:us"
+  ]
+ },
+ "780": {
+  "original": "Skill Fruit",
+  "ids": [
+   "bdat:use_item_mes:166:us"
+  ]
+ },
+ "781": {
+  "original": "Raises Skill",
+  "ids": [
+   "bdat:use_item_mes:167:us"
+  ]
+ },
+ "782": {
+  "original": "Speed Fruit",
+  "ids": [
+   "bdat:use_item_mes:168:us"
+  ]
+ },
+ "783": {
+  "original": "Raises Speed",
+  "ids": [
+   "bdat:use_item_mes:169:us"
+  ]
+ },
+ "784": {
+  "original": "Luck Fruit",
+  "ids": [
+   "bdat:use_item_mes:170:us"
+  ]
+ },
+ "785": {
+  "original": "Raises Luck",
+  "ids": [
+   "bdat:use_item_mes:171:us"
+  ]
+ },
+ "786": {
+  "original": "Ki-Blast Fruit",
+  "ids": [
+   "bdat:use_item_mes:172:us"
+  ]
+ },
+ "787": {
+  "original": "Raises the maximum size of the Ki-Blast<n>meter on the field map",
+  "ids": [
+   "bdat:use_item_mes:173:us"
+  ]
+ },
+ "788": {
+  "original": "Finisher Bean",
+  "ids": [
+   "bdat:use_item_mes:174:us"
+  ]
+ },
+ "789": {
+  "original": "Use to obtain 1500 AP",
+  "ids": [
+   "bdat:use_item_mes:175:us"
+  ]
+ },
+ "790": {
+  "original": "Exorcism Water",
+  "ids": [
+   "bdat:use_item_mes:176:us"
+  ]
+ },
+ "791": {
+  "original": "Lets you walk for a while without<n>encountering enemies",
+  "ids": [
+   "bdat:use_item_mes:177:us"
+  ]
+ },
+ "792": {
+  "original": "Attract Water",
+  "ids": [
+   "bdat:use_item_mes:178:us"
+  ]
+ },
+ "793": {
+  "original": "Raises chance of enemy encounter<n>for a while",
+  "ids": [
+   "bdat:use_item_mes:179:us"
+  ]
+ },
+ "794": {
+  "original": "Smoke Bomb",
+  "ids": [
+   "bdat:use_item_mes:180:us"
+  ]
+ },
+ "795": {
+  "original": "Lets you escape a battle 100%<n>of the time",
+  "ids": [
+   "bdat:use_item_mes:181:us"
+  ]
+ },
+ "796": {
+  "original": "EXP Boost",
+  "ids": [
+   "bdat:use_item_mes:182:us"
+  ]
+ },
+ "797": {
+  "original": "Raises the experience points earned<n>in battle",
+  "ids": [
+   "bdat:use_item_mes:183:us"
+  ]
+ },
+ "798": {
+  "original": "Zeni Boost",
+  "ids": [
+   "bdat:use_item_mes:184:us"
+  ]
+ },
+ "799": {
+  "original": "Raises the money earned in battle",
+  "ids": [
+   "bdat:use_item_mes:185:us"
+  ]
+ },
+ "800": {
+  "original": "Theft Card",
+  "ids": [
+   "bdat:use_item_mes:186:us"
+  ]
+ },
+ "801": {
+  "original": "Demon Bravery",
+  "ids": [
+   "bdat:use_item_mes:188:us"
+  ]
+ },
+ "802": {
+  "original": "Makes you invincible until your next turn",
+  "ids": [
+   "bdat:use_item_mes:189:us"
+  ]
+ },
+ "803": {
+  "original": "Perception Charm",
+  "ids": [
+   "bdat:use_item_mes:190:us"
+  ]
+ },
+ "804": {
+  "original": "Lets you have a good chance to evade the next attack",
+  "ids": [
+   "bdat:use_item_mes:191:us"
+  ]
+ },
+ "805": {
+  "original": "Concentration Charm",
+  "ids": [
+   "bdat:use_item_mes:192:us"
+  ]
+ },
+ "806": {
+  "original": "Boosts attack power greatly<n>until the next turn",
+  "ids": [
+   "bdat:use_item_mes:193:us"
+  ]
+ },
+ "807": {
+  "original": "Resist Seal",
+  "ids": [
+   "bdat:use_item_mes:194:us"
+  ]
+ },
+ "808": {
+  "original": "Makes you more resistant to status<n>ailments for several turns",
+  "ids": [
+   "bdat:use_item_mes:195:us"
+  ]
+ },
+ "809": {
+  "original": "Scrap Iron",
+  "ids": [
+   "bdat:use_item_mes:196:us"
+  ]
+ },
+ "810": {
+  "original": "Can be sold for lots of money",
+  "ids": [
+   "bdat:use_item_mes:197:us",
+   "bdat:use_item_mes:199:us",
+   "bdat:use_item_mes:201:us",
+   "bdat:use_item_mes:203:us",
+   "bdat:use_item_mes:205:us",
+   "bdat:use_item_mes:207:us"
+  ]
+ },
+ "811": {
+  "original": "Opal",
+  "ids": [
+   "bdat:use_item_mes:198:us"
+  ]
+ },
+ "812": {
+  "original": "Amethyst",
+  "ids": [
+   "bdat:use_item_mes:200:us"
+  ]
+ },
+ "813": {
+  "original": "Emerald",
+  "ids": [
+   "bdat:use_item_mes:202:us"
+  ]
+ },
+ "814": {
+  "original": "Ruby",
+  "ids": [
+   "bdat:use_item_mes:204:us"
+  ]
+ },
+ "815": {
+  "original": "Diamond",
+  "ids": [
+   "bdat:use_item_mes:206:us"
+  ]
+ },
+ "816": {
+  "original": "Energy Ring",
+  "ids": [
+   "bdat:btl_acc_mes:0:us"
+  ]
+ },
+ "817": {
+  "original": "Raises maximum HP by 100",
+  "ids": [
+   "bdat:btl_acc_mes:1:us"
+  ]
+ },
+ "818": {
+  "original": "Energy Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:2:us"
+  ]
+ },
+ "819": {
+  "original": "Raises maximum HP by 300",
+  "ids": [
+   "bdat:btl_acc_mes:3:us"
+  ]
+ },
+ "820": {
+  "original": "Energy Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:4:us"
+  ]
+ },
+ "821": {
+  "original": "Raises maximum HP by 500",
+  "ids": [
+   "bdat:btl_acc_mes:5:us"
+  ]
+ },
+ "822": {
+  "original": "Ki Ring",
+  "ids": [
+   "bdat:btl_acc_mes:6:us"
+  ]
+ },
+ "823": {
+  "original": "Raises maximum Ki by 30",
+  "ids": [
+   "bdat:btl_acc_mes:7:us"
+  ]
+ },
+ "824": {
+  "original": "Ki Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:8:us"
+  ]
+ },
+ "825": {
+  "original": "Raises maximum Ki by 50",
+  "ids": [
+   "bdat:btl_acc_mes:9:us"
+  ]
+ },
+ "826": {
+  "original": "Ki Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:10:us"
+  ]
+ },
+ "827": {
+  "original": "Raises maximum Ki by 100",
+  "ids": [
+   "bdat:btl_acc_mes:11:us"
+  ]
+ },
+ "828": {
+  "original": "Power Ring",
+  "ids": [
+   "bdat:btl_acc_mes:12:us"
+  ]
+ },
+ "829": {
+  "original": "Raises Power by 3",
+  "ids": [
+   "bdat:btl_acc_mes:13:us"
+  ]
+ },
+ "830": {
+  "original": "Power Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:14:us"
+  ]
+ },
+ "831": {
+  "original": "Raises Power by 5",
+  "ids": [
+   "bdat:btl_acc_mes:15:us"
+  ]
+ },
+ "832": {
+  "original": "Power Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:16:us"
+  ]
+ },
+ "833": {
+  "original": "Raises Power by 8",
+  "ids": [
+   "bdat:btl_acc_mes:17:us"
+  ]
+ },
+ "834": {
+  "original": "Defense Ring",
+  "ids": [
+   "bdat:btl_acc_mes:18:us"
+  ]
+ },
+ "835": {
+  "original": "Raises Defense by 3",
+  "ids": [
+   "bdat:btl_acc_mes:19:us"
+  ]
+ },
+ "836": {
+  "original": "Defense Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:20:us"
+  ]
+ },
+ "837": {
+  "original": "Raises Defense by 5",
+  "ids": [
+   "bdat:btl_acc_mes:21:us"
+  ]
+ },
+ "838": {
+  "original": "Defense Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:22:us"
+  ]
+ },
+ "839": {
+  "original": "Raises Defense by 8",
+  "ids": [
+   "bdat:btl_acc_mes:23:us"
+  ]
+ },
+ "840": {
+  "original": "Recovery Ring",
+  "ids": [
+   "bdat:btl_acc_mes:24:us"
+  ]
+ },
+ "841": {
+  "original": "Raises Recover by 3",
+  "ids": [
+   "bdat:btl_acc_mes:25:us"
+  ]
+ },
+ "842": {
+  "original": "Recovery Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:26:us"
+  ]
+ },
+ "843": {
+  "original": "Raises Recover by 5",
+  "ids": [
+   "bdat:btl_acc_mes:27:us"
+  ]
+ },
+ "844": {
+  "original": "Recovery Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:28:us"
+  ]
+ },
+ "845": {
+  "original": "Raises Recover by 8",
+  "ids": [
+   "bdat:btl_acc_mes:29:us"
+  ]
+ },
+ "846": {
+  "original": "Skill Ring",
+  "ids": [
+   "bdat:btl_acc_mes:30:us"
+  ]
+ },
+ "847": {
+  "original": "Raises Skill by 3",
+  "ids": [
+   "bdat:btl_acc_mes:31:us"
+  ]
+ },
+ "848": {
+  "original": "Skill Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:32:us"
+  ]
+ },
+ "849": {
+  "original": "Raises Skill by 5",
+  "ids": [
+   "bdat:btl_acc_mes:33:us"
+  ]
+ },
+ "850": {
+  "original": "Skill Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:34:us"
+  ]
+ },
+ "851": {
+  "original": "Raises Skill by 8",
+  "ids": [
+   "bdat:btl_acc_mes:35:us"
+  ]
+ },
+ "852": {
+  "original": "Agility Ring",
+  "ids": [
+   "bdat:btl_acc_mes:36:us"
+  ]
+ },
+ "853": {
+  "original": "Raises Speed by 3",
+  "ids": [
+   "bdat:btl_acc_mes:37:us"
+  ]
+ },
+ "854": {
+  "original": "Agility Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:38:us"
+  ]
+ },
+ "855": {
+  "original": "Raises Speed by 5",
+  "ids": [
+   "bdat:btl_acc_mes:39:us"
+  ]
+ },
+ "856": {
+  "original": "Agility Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:40:us"
+  ]
+ },
+ "857": {
+  "original": "Raises Speed by 8",
+  "ids": [
+   "bdat:btl_acc_mes:41:us"
+  ]
+ },
+ "858": {
+  "original": "Luck Ring",
+  "ids": [
+   "bdat:btl_acc_mes:42:us"
+  ]
+ },
+ "859": {
+  "original": "Raises Luck by 5",
+  "ids": [
+   "bdat:btl_acc_mes:43:us"
+  ]
+ },
+ "860": {
+  "original": "Luck Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:44:us"
+  ]
+ },
+ "861": {
+  "original": "Raises Luck by 10",
+  "ids": [
+   "bdat:btl_acc_mes:45:us"
+  ]
+ },
+ "862": {
+  "original": "Luck Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:46:us"
+  ]
+ },
+ "863": {
+  "original": "Raises Luck by 15",
+  "ids": [
+   "bdat:btl_acc_mes:47:us"
+  ]
+ },
+ "864": {
+  "original": "Full Ring",
+  "ids": [
+   "bdat:btl_acc_mes:48:us"
+  ]
+ },
+ "865": {
+  "original": "Raises all parameters by 2",
+  "ids": [
+   "bdat:btl_acc_mes:49:us"
+  ]
+ },
+ "866": {
+  "original": "Full Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:50:us"
+  ]
+ },
+ "867": {
+  "original": "Raises all parameters by 4",
+  "ids": [
+   "bdat:btl_acc_mes:51:us"
+  ]
+ },
+ "868": {
+  "original": "Full Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:52:us"
+  ]
+ },
+ "869": {
+  "original": "Raises all parameters by 6",
+  "ids": [
+   "bdat:btl_acc_mes:53:us"
+  ]
+ },
+ "870": {
+  "original": "Fighter's Mark",
+  "ids": [
+   "bdat:btl_acc_mes:54:us"
+  ]
+ },
+ "871": {
+  "original": "Raises attack power by 5%",
+  "ids": [
+   "bdat:btl_acc_mes:55:us"
+  ]
+ },
+ "872": {
+  "original": "Fighter's Emblem",
+  "ids": [
+   "bdat:btl_acc_mes:56:us"
+  ]
+ },
+ "873": {
+  "original": "Raises attack power by 10%",
+  "ids": [
+   "bdat:btl_acc_mes:57:us"
+  ]
+ },
+ "874": {
+  "original": "Fighter's Crest",
+  "ids": [
+   "bdat:btl_acc_mes:58:us"
+  ]
+ },
+ "875": {
+  "original": "Raises attack power by 15%",
+  "ids": [
+   "bdat:btl_acc_mes:59:us"
+  ]
+ },
+ "876": {
+  "original": "Protective Mark",
+  "ids": [
+   "bdat:btl_acc_mes:60:us"
+  ]
+ },
+ "877": {
+  "original": "Raises defense power by 5%",
+  "ids": [
+   "bdat:btl_acc_mes:61:us"
+  ]
+ },
+ "878": {
+  "original": "Protective Emblem",
+  "ids": [
+   "bdat:btl_acc_mes:62:us"
+  ]
+ },
+ "879": {
+  "original": "Raises defense power by 10%",
+  "ids": [
+   "bdat:btl_acc_mes:63:us"
+  ]
+ },
+ "880": {
+  "original": "Protective Crest",
+  "ids": [
+   "bdat:btl_acc_mes:64:us"
+  ]
+ },
+ "881": {
+  "original": "Raises defense power by 15%",
+  "ids": [
+   "bdat:btl_acc_mes:65:us"
+  ]
+ },
+ "882": {
+  "original": "Striker's Mark",
+  "ids": [
+   "bdat:btl_acc_mes:66:us"
+  ]
+ },
+ "883": {
+  "original": "Raises accuracy by 10%",
+  "ids": [
+   "bdat:btl_acc_mes:67:us"
+  ]
+ },
+ "884": {
+  "original": "Striker's Emblem",
+  "ids": [
+   "bdat:btl_acc_mes:68:us"
+  ]
+ },
+ "885": {
+  "original": "Raises accuracy by 15%",
+  "ids": [
+   "bdat:btl_acc_mes:69:us"
+  ]
+ },
+ "886": {
+  "original": "Striker's Crest",
+  "ids": [
+   "bdat:btl_acc_mes:70:us"
+  ]
+ },
+ "887": {
+  "original": "Raises accuracy by 20%",
+  "ids": [
+   "bdat:btl_acc_mes:71:us"
+  ]
+ },
+ "888": {
+  "original": "Evasion Mark",
+  "ids": [
+   "bdat:btl_acc_mes:72:us"
+  ]
+ },
+ "889": {
+  "original": "Raises evasion by 10%",
+  "ids": [
+   "bdat:btl_acc_mes:73:us"
+  ]
+ },
+ "890": {
+  "original": "Evasion Emblem",
+  "ids": [
+   "bdat:btl_acc_mes:74:us"
+  ]
+ },
+ "891": {
+  "original": "Raises evasion by 15%",
+  "ids": [
+   "bdat:btl_acc_mes:75:us"
+  ]
+ },
+ "892": {
+  "original": "Evasion Crest",
+  "ids": [
+   "bdat:btl_acc_mes:76:us"
+  ]
+ },
+ "893": {
+  "original": "Raises evasion by 20%",
+  "ids": [
+   "bdat:btl_acc_mes:77:us"
+  ]
+ },
+ "894": {
+  "original": "Speed Mark",
+  "ids": [
+   "bdat:btl_acc_mes:78:us"
+  ]
+ },
+ "895": {
+  "original": "Raises speed by 10%",
+  "ids": [
+   "bdat:btl_acc_mes:79:us"
+  ]
+ },
+ "896": {
+  "original": "Speed Emblem",
+  "ids": [
+   "bdat:btl_acc_mes:80:us"
+  ]
+ },
+ "897": {
+  "original": "Raises speed by 20%",
+  "ids": [
+   "bdat:btl_acc_mes:81:us"
+  ]
+ },
+ "898": {
+  "original": "Speed Crest",
+  "ids": [
+   "bdat:btl_acc_mes:82:us"
+  ]
+ },
+ "899": {
+  "original": "Raises speed by 30%",
+  "ids": [
+   "bdat:btl_acc_mes:83:us"
+  ]
+ },
+ "900": {
+  "original": "Recovery Mark",
+  "ids": [
+   "bdat:btl_acc_mes:84:us"
+  ]
+ },
+ "901": {
+  "original": "Raises auto-healing by 10%",
+  "ids": [
+   "bdat:btl_acc_mes:85:us"
+  ]
+ },
+ "902": {
+  "original": "Recovery Emblem",
+  "ids": [
+   "bdat:btl_acc_mes:86:us"
+  ]
+ },
+ "903": {
+  "original": "Raises auto-healing by 15%",
+  "ids": [
+   "bdat:btl_acc_mes:87:us"
+  ]
+ },
+ "904": {
+  "original": "Recovery Crest",
+  "ids": [
+   "bdat:btl_acc_mes:88:us"
+  ]
+ },
+ "905": {
+  "original": "Raises auto-healing by 20%",
+  "ids": [
+   "bdat:btl_acc_mes:89:us"
+  ]
+ },
+ "906": {
+  "original": "Fighter's Secret",
+  "ids": [
+   "bdat:btl_acc_mes:90:us"
+  ]
+ },
+ "907": {
+  "original": "Raises chance of critical hits by 3%",
+  "ids": [
+   "bdat:btl_acc_mes:91:us"
+  ]
+ },
+ "908": {
+  "original": "Hero's Secret",
+  "ids": [
+   "bdat:btl_acc_mes:92:us"
+  ]
+ },
+ "909": {
+  "original": "Raises chance of critical hits by 5%",
+  "ids": [
+   "bdat:btl_acc_mes:93:us"
+  ]
+ },
+ "910": {
+  "original": "Master's Secret",
+  "ids": [
+   "bdat:btl_acc_mes:94:us"
+  ]
+ },
+ "911": {
+  "original": "Raises chance of critical hits by 8%",
+  "ids": [
+   "bdat:btl_acc_mes:95:us"
+  ]
+ },
+ "912": {
+  "original": "Fighter's Scheme",
+  "ids": [
+   "bdat:btl_acc_mes:96:us"
+  ]
+ },
+ "913": {
+  "original": "Raises chance of launching chains by 3%",
+  "ids": [
+   "bdat:btl_acc_mes:97:us"
+  ]
+ },
+ "914": {
+  "original": "Hero's Scheme",
+  "ids": [
+   "bdat:btl_acc_mes:98:us"
+  ]
+ },
+ "915": {
+  "original": "Raises chance of launching chains by 5%",
+  "ids": [
+   "bdat:btl_acc_mes:99:us"
+  ]
+ },
+ "916": {
+  "original": "Master's Scheme",
+  "ids": [
+   "bdat:btl_acc_mes:100:us"
+  ]
+ },
+ "917": {
+  "original": "Raises chance of launching chains by 8%",
+  "ids": [
+   "bdat:btl_acc_mes:101:us"
+  ]
+ },
+ "918": {
+  "original": "Rush Ring",
+  "ids": [
+   "bdat:btl_acc_mes:102:us",
+   "bdat:btl_acc_mes:200:us"
+  ]
+ },
+ "919": {
+  "original": "Raises attack by 15%;<n>lowers defense by 15%",
+  "ids": [
+   "bdat:btl_acc_mes:103:us"
+  ]
+ },
+ "920": {
+  "original": "Rush Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:104:us"
+  ]
+ },
+ "921": {
+  "original": "Raises attack by 20%;<n>lowers defense by 20%",
+  "ids": [
+   "bdat:btl_acc_mes:105:us"
+  ]
+ },
+ "922": {
+  "original": "Caution Ring",
+  "ids": [
+   "bdat:btl_acc_mes:106:us"
+  ]
+ },
+ "923": {
+  "original": "Raises defense by 15%;<n>lowers attack by 15%",
+  "ids": [
+   "bdat:btl_acc_mes:107:us"
+  ]
+ },
+ "924": {
+  "original": "Caution Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:108:us"
+  ]
+ },
+ "925": {
+  "original": "Raises defense by 20%;<n>lowers attack by 20%",
+  "ids": [
+   "bdat:btl_acc_mes:109:us"
+  ]
+ },
+ "926": {
+  "original": "Model Full Moon",
+  "ids": [
+   "bdat:btl_acc_mes:110:us"
+  ]
+ },
+ "927": {
+  "original": "Boosts all of a Saiyan's powers, but<n>puts him in permanent Confusion mode",
+  "ids": [
+   "bdat:btl_acc_mes:111:us"
+  ]
+ },
+ "928": {
+  "original": "Saiyan Spirit",
+  "ids": [
+   "bdat:btl_acc_mes:112:us"
+  ]
+ },
+ "929": {
+  "original": "Raises all of a Saiyan's powers<n>when he is near death",
+  "ids": [
+   "bdat:btl_acc_mes:113:us"
+  ]
+ },
+ "930": {
+  "original": "Perfume",
+  "ids": [
+   "bdat:btl_acc_mes:114:us"
+  ]
+ },
+ "931": {
+  "original": "Drastically lowers Yamcha's defense;<n>raises all his other parameters",
+  "ids": [
+   "bdat:btl_acc_mes:115:us"
+  ]
+ },
+ "932": {
+  "original": "Sleep Ring",
+  "ids": [
+   "bdat:btl_acc_mes:116:us"
+  ]
+ },
+ "933": {
+  "original": "Makes you resistant to Sleep",
+  "ids": [
+   "bdat:btl_acc_mes:117:us"
+  ]
+ },
+ "934": {
+  "original": "Sleep Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:118:us"
+  ]
+ },
+ "935": {
+  "original": "Makes you impervious to Sleep",
+  "ids": [
+   "bdat:btl_acc_mes:119:us"
+  ]
+ },
+ "936": {
+  "original": "Paralysis Ring",
+  "ids": [
+   "bdat:btl_acc_mes:120:us"
+  ]
+ },
+ "937": {
+  "original": "Makes you resistant to Paralysis",
+  "ids": [
+   "bdat:btl_acc_mes:121:us"
+  ]
+ },
+ "938": {
+  "original": "Paralysis Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:122:us"
+  ]
+ },
+ "939": {
+  "original": "Makes you impervious to Paralysis",
+  "ids": [
+   "bdat:btl_acc_mes:123:us"
+  ]
+ },
+ "940": {
+  "original": "Poison Ring",
+  "ids": [
+   "bdat:btl_acc_mes:124:us"
+  ]
+ },
+ "941": {
+  "original": "Makes you resistant to Poison",
+  "ids": [
+   "bdat:btl_acc_mes:125:us"
+  ]
+ },
+ "942": {
+  "original": "Poison Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:126:us"
+  ]
+ },
+ "943": {
+  "original": "Makes you impervious to Poison",
+  "ids": [
+   "bdat:btl_acc_mes:127:us"
+  ]
+ },
+ "944": {
+  "original": "Dark Ring",
+  "ids": [
+   "bdat:btl_acc_mes:128:us"
+  ]
+ },
+ "945": {
+  "original": "Makes you resistant to Darkness",
+  "ids": [
+   "bdat:btl_acc_mes:129:us"
+  ]
+ },
+ "946": {
+  "original": "Dark Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:130:us"
+  ]
+ },
+ "947": {
+  "original": "Makes you impervious to Darkness",
+  "ids": [
+   "bdat:btl_acc_mes:131:us"
+  ]
+ },
+ "948": {
+  "original": "Stun Ring",
+  "ids": [
+   "bdat:btl_acc_mes:132:us"
+  ]
+ },
+ "949": {
+  "original": "Makes you resistant to Stun",
+  "ids": [
+   "bdat:btl_acc_mes:133:us"
+  ]
+ },
+ "950": {
+  "original": "Stun Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:134:us"
+  ]
+ },
+ "951": {
+  "original": "Makes you impervious to Stun",
+  "ids": [
+   "bdat:btl_acc_mes:135:us"
+  ]
+ },
+ "952": {
+  "original": "Confuse Ring",
+  "ids": [
+   "bdat:btl_acc_mes:136:us"
+  ]
+ },
+ "953": {
+  "original": "Makes you resistant to Confusion",
+  "ids": [
+   "bdat:btl_acc_mes:137:us"
+  ]
+ },
+ "954": {
+  "original": "Confuse Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:138:us"
+  ]
+ },
+ "955": {
+  "original": "Makes you impervious to Confusion",
+  "ids": [
+   "bdat:btl_acc_mes:139:us"
+  ]
+ },
+ "956": {
+  "original": "Freeze Ring",
+  "ids": [
+   "bdat:btl_acc_mes:140:us"
+  ]
+ },
+ "957": {
+  "original": "Makes you resistant to Freezing",
+  "ids": [
+   "bdat:btl_acc_mes:141:us"
+  ]
+ },
+ "958": {
+  "original": "Freeze Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:142:us"
+  ]
+ },
+ "959": {
+  "original": "Makes you impervious to Freezing",
+  "ids": [
+   "bdat:btl_acc_mes:143:us"
+  ]
+ },
+ "960": {
+  "original": "Evil Containment Stone",
+  "ids": [
+   "bdat:btl_acc_mes:144:us"
+  ]
+ },
+ "961": {
+  "original": "Gives you a chance to avoid<n>instant-kill attacks",
+  "ids": [
+   "bdat:btl_acc_mes:145:us"
+  ]
+ },
+ "962": {
+  "original": "Evil Containment Jewel",
+  "ids": [
+   "bdat:btl_acc_mes:146:us"
+  ]
+ },
+ "963": {
+  "original": "Defense against all instant-kill attacks",
+  "ids": [
+   "bdat:btl_acc_mes:147:us"
+  ]
+ },
+ "964": {
+  "original": "CHA-LA",
+  "ids": [
+   "bdat:btl_acc_mes:148:us"
+  ]
+ },
+ "965": {
+  "original": "Makes you more resistant to<n>all status ailments",
+  "ids": [
+   "bdat:btl_acc_mes:149:us"
+  ]
+ },
+ "966": {
+  "original": "HEAD-CHA-LA",
+  "ids": [
+   "bdat:btl_acc_mes:150:us"
+  ]
+ },
+ "967": {
+  "original": "Makes you impervious to<n>all status ailments",
+  "ids": [
+   "bdat:btl_acc_mes:151:us"
+  ]
+ },
+ "968": {
+  "original": "Sleep Knuckle",
+  "ids": [
+   "bdat:btl_acc_mes:152:us"
+  ]
+ },
+ "969": {
+  "original": "Chance of putting enemies to sleep<n>with each attack",
+  "ids": [
+   "bdat:btl_acc_mes:153:us"
+  ]
+ },
+ "970": {
+  "original": "Bind Knuckle",
+  "ids": [
+   "bdat:btl_acc_mes:154:us"
+  ]
+ },
+ "971": {
+  "original": "Chance of paralyzing enemies<n>with each attack",
+  "ids": [
+   "bdat:btl_acc_mes:155:us"
+  ]
+ },
+ "972": {
+  "original": "Poison Knuckle",
+  "ids": [
+   "bdat:btl_acc_mes:156:us"
+  ]
+ },
+ "973": {
+  "original": "Chance of poisoning enemies<n>with each attack",
+  "ids": [
+   "bdat:btl_acc_mes:157:us"
+  ]
+ },
+ "974": {
+  "original": "Blindfold Knuckle",
+  "ids": [
+   "bdat:btl_acc_mes:158:us"
+  ]
+ },
+ "975": {
+  "original": "Chance of putting enemies in darkness<n>with each attack",
+  "ids": [
+   "bdat:btl_acc_mes:159:us"
+  ]
+ },
+ "976": {
+  "original": "Stun Knuckle",
+  "ids": [
+   "bdat:btl_acc_mes:160:us"
+  ]
+ },
+ "977": {
+  "original": "Chance of stunning enemies<n>with each attack",
+  "ids": [
+   "bdat:btl_acc_mes:161:us"
+  ]
+ },
+ "978": {
+  "original": "Freeze Knuckle",
+  "ids": [
+   "bdat:btl_acc_mes:162:us"
+  ]
+ },
+ "979": {
+  "original": "Chance of freezing enemies<n>with each attack",
+  "ids": [
+   "bdat:btl_acc_mes:163:us"
+  ]
+ },
+ "980": {
+  "original": "Demon Seal",
+  "ids": [
+   "bdat:btl_acc_mes:164:us"
+  ]
+ },
+ "981": {
+  "original": "Chance of killing an enemy instantly<n>with each attack",
+  "ids": [
+   "bdat:btl_acc_mes:165:us"
+  ]
+ },
+ "982": {
+  "original": "Fire Glove",
+  "ids": [
+   "bdat:btl_acc_mes:166:us"
+  ]
+ },
+ "983": {
+  "original": "Adds @37fire element to normal attacks",
+  "ids": [
+   "bdat:btl_acc_mes:167:us"
+  ]
+ },
+ "984": {
+  "original": "Thunder Glove",
+  "ids": [
+   "bdat:btl_acc_mes:168:us"
+  ]
+ },
+ "985": {
+  "original": "Adds @39Lightning element to normal attacks",
+  "ids": [
+   "bdat:btl_acc_mes:169:us"
+  ]
+ },
+ "986": {
+  "original": "Ice Glove",
+  "ids": [
+   "bdat:btl_acc_mes:170:us"
+  ]
+ },
+ "987": {
+  "original": "Adds @38ice element to normal attacks",
+  "ids": [
+   "bdat:btl_acc_mes:171:us"
+  ]
+ },
+ "988": {
+  "original": "Comfort Ring",
+  "ids": [
+   "bdat:btl_acc_mes:172:us"
+  ]
+ },
+ "989": {
+  "original": "Refills a little Ki with each turn",
+  "ids": [
+   "bdat:btl_acc_mes:173:us"
+  ]
+ },
+ "990": {
+  "original": "Comfort Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:174:us"
+  ]
+ },
+ "991": {
+  "original": "Refills some Ki with each turn",
+  "ids": [
+   "bdat:btl_acc_mes:175:us"
+  ]
+ },
+ "992": {
+  "original": "Healing Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:176:us"
+  ]
+ },
+ "993": {
+  "original": "Raises the rate of HP regeneration;<n>refills a little Ki",
+  "ids": [
+   "bdat:btl_acc_mes:177:us"
+  ]
+ },
+ "994": {
+  "original": "Absorb Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:178:us"
+  ]
+ },
+ "995": {
+  "original": "Absorbs damage landed on enemies<n>and refills a little HP",
+  "ids": [
+   "bdat:btl_acc_mes:179:us"
+  ]
+ },
+ "996": {
+  "original": "Psyonic Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:180:us"
+  ]
+ },
+ "997": {
+  "original": "Absorbs @36Ki damage from enemies<n>and refills a little of your Ki",
+  "ids": [
+   "bdat:btl_acc_mes:181:us"
+  ]
+ },
+ "998": {
+  "original": "Meditation Belt",
+  "ids": [
+   "bdat:btl_acc_mes:182:us"
+  ]
+ },
+ "999": {
+  "original": "Reduces consumed Ki a little",
+  "ids": [
+   "bdat:btl_acc_mes:183:us"
+  ]
+ },
+ "1000": {
+  "original": "Kami's Cape",
+  "ids": [
+   "bdat:btl_acc_mes:184:us"
+  ]
+ },
+ "1001": {
+  "original": "Makes all Ki attacks cost 1",
+  "ids": [
+   "bdat:btl_acc_mes:185:us"
+  ]
+ },
+ "1002": {
+  "original": "Selflessness Belt",
+  "ids": [
+   "bdat:btl_acc_mes:186:us"
+  ]
+ },
+ "1003": {
+  "original": "Makes some attacks cost zero Ki",
+  "ids": [
+   "bdat:btl_acc_mes:187:us"
+  ]
+ },
+ "1004": {
+  "original": "Knowledge Belt",
+  "ids": [
+   "bdat:btl_acc_mes:188:us"
+  ]
+ },
+ "1005": {
+  "original": "Enhances effect of consumable items",
+  "ids": [
+   "bdat:btl_acc_mes:189:us"
+  ]
+ },
+ "1006": {
+  "original": "Extension Belt",
+  "ids": [
+   "bdat:btl_acc_mes:190:us"
+  ]
+ },
+ "1007": {
+  "original": "Extends effect of timed items",
+  "ids": [
+   "bdat:btl_acc_mes:191:us"
+  ]
+ },
+ "1008": {
+  "original": "Range Belt",
+  "ids": [
+   "bdat:btl_acc_mes:192:us"
+  ]
+ },
+ "1009": {
+  "original": "HP and KI recovery items heal the whole<n>party evenly",
+  "ids": [
+   "bdat:btl_acc_mes:193:us"
+  ]
+ },
+ "1010": {
+  "original": "Fortune Belt",
+  "ids": [
+   "bdat:btl_acc_mes:194:us"
+  ]
+ },
+ "1011": {
+  "original": "Gives you a chance to use items<n>without consuming them",
+  "ids": [
+   "bdat:btl_acc_mes:195:us"
+  ]
+ },
+ "1012": {
+  "original": "Popo's Turban",
+  "ids": [
+   "bdat:btl_acc_mes:196:us"
+  ]
+ },
+ "1013": {
+  "original": "Raises the experience points you earn",
+  "ids": [
+   "bdat:btl_acc_mes:197:us"
+  ]
+ },
+ "1014": {
+  "original": "Bushido Spirit",
+  "ids": [
+   "bdat:btl_acc_mes:198:us"
+  ]
+ },
+ "1015": {
+  "original": "Raises the AP you earn",
+  "ids": [
+   "bdat:btl_acc_mes:199:us"
+  ]
+ },
+ "1016": {
+  "original": "Consumes Ki to make a normal attack a <n>chain attack",
+  "ids": [
+   "bdat:btl_acc_mes:201:us"
+  ]
+ },
+ "1017": {
+  "original": "Tension Up",
+  "ids": [
+   "bdat:btl_acc_mes:202:us"
+  ]
+ },
+ "1018": {
+  "original": "Makes the Rage Gauge fill up faster",
+  "ids": [
+   "bdat:btl_acc_mes:203:us"
+  ]
+ },
+ "1019": {
+  "original": "Targeting Ring",
+  "ids": [
+   "bdat:btl_acc_mes:204:us"
+  ]
+ },
+ "1020": {
+  "original": "Makes your attacks hit the enemy<n>100% of the time",
+  "ids": [
+   "bdat:btl_acc_mes:205:us"
+  ]
+ },
+ "1021": {
+  "original": "Counter Bracelet",
+  "ids": [
+   "bdat:btl_acc_mes:206:us"
+  ]
+ },
+ "1022": {
+  "original": "Lets you counterattack the enemy<n>(Low chance)",
+  "ids": [
+   "bdat:btl_acc_mes:207:us"
+  ]
+ },
+ "1023": {
+  "original": "Dragon's Rage",
+  "ids": [
+   "bdat:btl_acc_mes:208:us"
+  ]
+ },
+ "1024": {
+  "original": "Lets you counterattack the enemy<n>(High chance)",
+  "ids": [
+   "bdat:btl_acc_mes:209:us"
+  ]
+ },
+ "1025": {
+  "original": "Double-Edged Seal",
+  "ids": [
+   "bdat:btl_acc_mes:210:us"
+  ]
+ },
+ "1026": {
+  "original": "Raises attack power, but also hurts<n>you with each attack landed",
+  "ids": [
+   "bdat:btl_acc_mes:211:us"
+  ]
+ },
+ "1027": {
+  "original": "Shenron's Nail",
+  "ids": [
+   "bdat:btl_acc_mes:212:us"
+  ]
+ },
+ "1028": {
+  "original": "Always gives you the first<n>attack in battle",
+  "ids": [
+   "bdat:btl_acc_mes:213:us"
+  ]
+ },
+ "1029": {
+  "original": "Confrontation Brace",
+  "ids": [
+   "bdat:btl_acc_mes:214:us"
+  ]
+ },
+ "1030": {
+  "original": "Makes enemies target you more often",
+  "ids": [
+   "bdat:btl_acc_mes:215:us"
+  ]
+ },
+ "1031": {
+  "original": "Blessing Belt",
+  "ids": [
+   "bdat:btl_acc_mes:216:us"
+  ]
+ },
+ "1032": {
+  "original": "Chance of rendering attacks<n>against you ineffective",
+  "ids": [
+   "bdat:btl_acc_mes:217:us"
+  ]
+ },
+ "1033": {
+  "original": "Attitude Belt",
+  "ids": [
+   "bdat:btl_acc_mes:218:us"
+  ]
+ },
+ "1034": {
+  "original": "Chance of reviving yourself when<n>you run out of HP",
+  "ids": [
+   "bdat:btl_acc_mes:219:us"
+  ]
+ },
+ "1035": {
+  "original": "Guard Earring",
+  "ids": [
+   "bdat:btl_acc_mes:220:us"
+  ]
+ },
+ "1036": {
+  "original": "Reduces damage received during<n>an Active Guard",
+  "ids": [
+   "bdat:btl_acc_mes:221:us"
+  ]
+ },
+ "1037": {
+  "original": "Detect Earring",
+  "ids": [
+   "bdat:btl_acc_mes:222:us"
+  ]
+ },
+ "1038": {
+  "original": "Chance of avoiding all damage<n>with an Active Guard",
+  "ids": [
+   "bdat:btl_acc_mes:223:us"
+  ]
+ },
+ "1039": {
+  "original": "Guard Sense",
+  "ids": [
+   "bdat:btl_acc_mes:224:us"
+  ]
+ },
+ "1040": {
+  "original": "Chance of counterattack with<n>an Active Guard",
+  "ids": [
+   "bdat:btl_acc_mes:225:us"
+  ]
+ },
+ "1041": {
+  "original": "One-Hit Earring",
+  "ids": [
+   "bdat:btl_acc_mes:226:us"
+  ]
+ },
+ "1042": {
+  "original": "Chance of killing weaker enemies<n>immediately",
+  "ids": [
+   "bdat:btl_acc_mes:227:us"
+  ]
+ },
+ "1043": {
+  "original": "Invigorate Ring",
+  "ids": [
+   "bdat:btl_acc_mes:228:us"
+  ]
+ },
+ "1044": {
+  "original": "Raises power of @36Ki blasts",
+  "ids": [
+   "bdat:btl_acc_mes:229:us"
+  ]
+ },
+ "1045": {
+  "original": "High Spirits",
+  "ids": [
+   "bdat:btl_acc_mes:230:us"
+  ]
+ },
+ "1046": {
+  "original": "Shares your spirit to<n>increase the power of spirit ball<n>(Anyone but Goku can use it)",
+  "ids": [
+   "bdat:btl_acc_mes:231:us"
+  ]
+ },
+ "1047": {
+  "original": "Broly's Necklace",
+  "ids": [
+   "bdat:btl_acc_mes:232:us"
+  ]
+ },
+ "1048": {
+  "original": "Proof that Broly is defeated<n> Raises all parameters by 50",
+  "ids": [
+   "bdat:btl_acc_mes:233:us"
+  ]
+ },
+ "1049": {
+  "original": "Dragon Radar",
+  "ids": [
+   "bdat:pt_eqp_mes:0:us"
+  ]
+ },
+ "1050": {
+  "original": "Helps you find Dragon Balls. \\1P3Standby:\\1Pn No<n>effect. Press \\24ON\\4P6\\24P2 to use.",
+  "ids": [
+   "bdat:pt_eqp_mes:1:us"
+  ]
+ },
+ "1051": {
+  "original": "Oolong's Nose",
+  "ids": [
+   "bdat:pt_eqp_mes:2:us"
+  ]
+ },
+ "1052": {
+  "original": "Helps you find treasures in the map.<n>\\1P3Standby:\\1Pn No effect. Press \\24ON\\4P6\\24P2 to use.",
+  "ids": [
+   "bdat:pt_eqp_mes:3:us"
+  ]
+ },
+ "1053": {
+  "original": "Korin's Canteen",
+  "ids": [
+   "bdat:pt_eqp_mes:4:us"
+  ]
+ },
+ "1054": {
+  "original": "Raises the speed your Ki meter refills.<n>\\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:5:us"
+  ]
+ },
+ "1055": {
+  "original": "Displays enemy data during battle.<n>\\1P3Standby:\\1Pn 100% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:7:us"
+  ]
+ },
+ "1056": {
+  "original": "Rice Cooker",
+  "ids": [
+   "bdat:pt_eqp_mes:8:us"
+  ]
+ },
+ "1057": {
+  "original": "Makes Tien's Evil Containment Wave a little<n>more powerful. \\1P3Standby:\\1Pn 100% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:9:us"
+  ]
+ },
+ "1058": {
+  "original": "Better Rice Cooker",
+  "ids": [
+   "bdat:pt_eqp_mes:10:us"
+  ]
+ },
+ "1059": {
+  "original": "Makes Tien's Containment Wave more<n>powerful. \\1P3Standby:\\1Pn 100% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:11:us"
+  ]
+ },
+ "1060": {
+  "original": "Best Rice Cooker",
+  "ids": [
+   "bdat:pt_eqp_mes:12:us"
+  ]
+ },
+ "1061": {
+  "original": "Makes Tien's Containment Wave much<n>more powerful. \\1P3Standby:\\1Pn 100% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:13:us"
+  ]
+ },
+ "1062": {
+  "original": "Carrot Glove",
+  "ids": [
+   "bdat:pt_eqp_mes:14:us"
+  ]
+ },
+ "1063": {
+  "original": "Turns defeated enemies into carrots. No Zeni<n>can be obtained. \\1P3Standby:\\1P3 No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:15:us"
+  ]
+ },
+ "1064": {
+  "original": "Energy Seed",
+  "ids": [
+   "bdat:pt_eqp_mes:16:us"
+  ]
+ },
+ "1065": {
+  "original": "Refills a little HP after battle.<n>\\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:17:us"
+  ]
+ },
+ "1066": {
+  "original": "Ki Seed",
+  "ids": [
+   "bdat:pt_eqp_mes:18:us"
+  ]
+ },
+ "1067": {
+  "original": "Refills a little Ki after battle.<n>\\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:19:us"
+  ]
+ },
+ "1068": {
+  "original": "Chi-Chi's Lunch",
+  "ids": [
+   "bdat:pt_eqp_mes:20:us"
+  ]
+ },
+ "1069": {
+  "original": "Refills HP as you walk around.<n>\\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:21:us"
+  ]
+ },
+ "1070": {
+  "original": "Korin's Staff",
+  "ids": [
+   "bdat:pt_eqp_mes:22:us"
+  ]
+ },
+ "1071": {
+  "original": "Refills Ki as you walk around.<n>\\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:23:us"
+  ]
+ },
+ "1072": {
+  "original": "Agitator",
+  "ids": [
+   "bdat:pt_eqp_mes:24:us"
+  ]
+ },
+ "1073": {
+  "original": "Keeps Rage Gauge from falling as much<n>after battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:25:us"
+  ]
+ },
+ "1074": {
+  "original": "Adrenaline",
+  "ids": [
+   "bdat:pt_eqp_mes:26:us"
+  ]
+ },
+ "1075": {
+  "original": "Keeps Rage Gauge from falling<n>after battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:27:us"
+  ]
+ },
+ "1076": {
+  "original": "Squeaky Boots",
+  "ids": [
+   "bdat:pt_eqp_mes:28:us"
+  ]
+ },
+ "1077": {
+  "original": "Raises rate of enemy encounter.<n>\\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:29:us"
+  ]
+ },
+ "1078": {
+  "original": "Ninja Sandals",
+  "ids": [
+   "bdat:pt_eqp_mes:30:us"
+  ]
+ },
+ "1079": {
+  "original": "Lowers rate of enemy encounter.<n>\\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:31:us"
+  ]
+ },
+ "1080": {
+  "original": "Foe Charm",
+  "ids": [
+   "bdat:pt_eqp_mes:32:us"
+  ]
+ },
+ "1081": {
+  "original": "Raises chance of encounter with rare<n>enemies. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:33:us"
+  ]
+ },
+ "1082": {
+  "original": "Foe Challenger",
+  "ids": [
+   "bdat:pt_eqp_mes:34:us"
+  ]
+ },
+ "1083": {
+  "original": "Makes you encounter strong foes more<n>than weak ones. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:35:us"
+  ]
+ },
+ "1084": {
+  "original": "Heavy Karate Outfit",
+  "ids": [
+   "bdat:pt_eqp_mes:36:us"
+  ]
+ },
+ "1085": {
+  "original": "Gives you a little experience as you<n>walk around. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:37:us"
+  ]
+ },
+ "1086": {
+  "original": "Oolong's Wallet",
+  "ids": [
+   "bdat:pt_eqp_mes:38:us"
+  ]
+ },
+ "1087": {
+  "original": "Gives you a little Zeni as you walk<n>around. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:39:us"
+  ]
+ },
+ "1088": {
+  "original": "Swift Boots",
+  "ids": [
+   "bdat:pt_eqp_mes:40:us"
+  ]
+ },
+ "1089": {
+  "original": "Raises speed and chance of being sneak-<n>attacked. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:41:us"
+  ]
+ },
+ "1090": {
+  "original": "Spark Boots",
+  "ids": [
+   "bdat:pt_eqp_mes:42:us"
+  ]
+ },
+ "1091": {
+  "original": "Makes you move much faster.<n>\\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:43:us"
+  ]
+ },
+ "1092": {
+  "original": "Offense Ring",
+  "ids": [
+   "bdat:pt_eqp_mes:44:us"
+  ]
+ },
+ "1093": {
+  "original": "Raises chance of a first strike in<n>battle. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:45:us"
+  ]
+ },
+ "1094": {
+  "original": "Kami's Eyes",
+  "ids": [
+   "bdat:pt_eqp_mes:46:us"
+  ]
+ },
+ "1095": {
+  "original": "Keeps enemies from sneak-attacking you.<n>\\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:47:us"
+  ]
+ },
+ "1096": {
+  "original": "Combo UP",
+  "ids": [
+   "bdat:pt_eqp_mes:48:us"
+  ]
+ },
+ "1097": {
+  "original": "Raises Sparking Combo damage.<n>\\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:49:us"
+  ]
+ },
+ "1098": {
+  "original": "Escape Path",
+  "ids": [
+   "bdat:pt_eqp_mes:50:us"
+  ]
+ },
+ "1099": {
+  "original": "Raises chance of running from enemies in<n>battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:51:us"
+  ]
+ },
+ "1100": {
+  "original": "Hammock",
+  "ids": [
+   "bdat:pt_eqp_mes:52:us"
+  ]
+ },
+ "1101": {
+  "original": "Raises AP earned by non-party members.<n>\\1P3Standby:\\1Pn 100% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:53:us"
+  ]
+ },
+ "1102": {
+  "original": "Zeni Rush",
+  "ids": [
+   "bdat:pt_eqp_mes:54:us"
+  ]
+ },
+ "1103": {
+  "original": "Raises Zeni dropped by enemies after<n>battle. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:55:us"
+  ]
+ },
+ "1104": {
+  "original": "Item Rush",
+  "ids": [
+   "bdat:pt_eqp_mes:56:us"
+  ]
+ },
+ "1105": {
+  "original": "Raises chance of item drops after<n>battle. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:57:us"
+  ]
+ },
+ "1106": {
+  "original": "Puar's Wallet",
+  "ids": [
+   "bdat:pt_eqp_mes:58:us"
+  ]
+ },
+ "1107": {
+  "original": "Raises chance of rare item drops after<n>battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:59:us"
+  ]
+ },
+ "1108": {
+  "original": "Gas Mask",
+  "ids": [
+   "bdat:pt_eqp_mes:60:us"
+  ]
+ },
+ "1109": {
+  "original": "Raises Poison resistance; makes gas<n>floors safe. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:61:us"
+  ]
+ },
+ "1110": {
+  "original": "Rubber Boots",
+  "ids": [
+   "bdat:pt_eqp_mes:62:us"
+  ]
+ },
+ "1111": {
+  "original": "Raises Thunder defense; makes electric<n>floors safe. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:63:us"
+  ]
+ },
+ "1112": {
+  "original": "Cold Boots",
+  "ids": [
+   "bdat:pt_eqp_mes:64:us"
+  ]
+ },
+ "1113": {
+  "original": "Raises Fire resistance; makes fire<n>floors safe. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:65:us"
+  ]
+ },
+ "1114": {
+  "original": "Silver Fur",
+  "ids": [
+   "bdat:pt_eqp_mes:66:us"
+  ]
+ },
+ "1115": {
+  "original": "Raises Ice resistance; makes icy<n>floors safe. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:67:us"
+  ]
+ },
+ "1116": {
+  "original": "Shenron's Blessing",
+  "ids": [
+   "bdat:pt_eqp_mes:68:us"
+  ]
+ },
+ "1117": {
+  "original": "Makes all damaging floors safe.<n>\\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:69:us"
+  ]
+ },
+ "1118": {
+  "original": "Kami's Uniform",
+  "ids": [
+   "bdat:pt_eqp_mes:70:us"
+  ]
+ },
+ "1119": {
+  "original": "Raises Poison/Lightning/Fire/Ice<n>resistance. \\1P3Standby:\\1Pn 50% effective.",
+  "ids": [
+   "bdat:pt_eqp_mes:71:us"
+  ]
+ },
+ "1120": {
+  "original": "Poison Card",
+  "ids": [
+   "bdat:pt_eqp_mes:72:us"
+  ]
+ },
+ "1121": {
+  "original": "Occasionally poisons enemies at the start<n>of battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:73:us"
+  ]
+ },
+ "1122": {
+  "original": "Darkness Card",
+  "ids": [
+   "bdat:pt_eqp_mes:74:us"
+  ]
+ },
+ "1123": {
+  "original": "Occasionally blinds enemies at the start<n>of a battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:75:us"
+  ]
+ },
+ "1124": {
+  "original": "Sleep Card",
+  "ids": [
+   "bdat:pt_eqp_mes:76:us"
+  ]
+ },
+ "1125": {
+  "original": "Occasionally makes enemies sleep at<n>the start of a battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:77:us"
+  ]
+ },
+ "1126": {
+  "original": "Binding Card",
+  "ids": [
+   "bdat:pt_eqp_mes:78:us"
+  ]
+ },
+ "1127": {
+  "original": "Occasionally paralyzes enemies at start<n>of battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:79:us"
+  ]
+ },
+ "1128": {
+  "original": "Freezing Card",
+  "ids": [
+   "bdat:pt_eqp_mes:80:us"
+  ]
+ },
+ "1129": {
+  "original": "Occasionally freezes enemies at start<n>of battle. \\1P3Standby:\\1Pn No effect.",
+  "ids": [
+   "bdat:pt_eqp_mes:81:us"
+  ]
+ },
+ "1130": {
+  "original": "Fortuneteller's Ball",
+  "ids": [
+   "bdat:key_item_mes:0:us"
+  ]
+ },
+ "1131": {
+  "original": "A mysterious crystal, somehow related to the one<n>Fortuneteller Baba has.",
+  "ids": [
+   "bdat:key_item_mes:1:us"
+  ]
+ },
+ "1132": {
+  "original": "Orin Sign",
+  "ids": [
+   "bdat:key_item_mes:2:us"
+  ]
+ },
+ "1133": {
+  "original": "Orin Temple's sign. You got this<n>back for the temple.",
+  "ids": [
+   "bdat:key_item_mes:3:us"
+  ]
+ },
+ "1134": {
+  "original": "Eggshell",
+  "ids": [
+   "bdat:key_item_mes:4:us"
+  ]
+ },
+ "1135": {
+  "original": "The shell from an egg laid by the fire-<n>eater bird on Kiwi Volcano.",
+  "ids": [
+   "bdat:key_item_mes:5:us"
+  ]
+ },
+ "1136": {
+  "original": "Honey",
+  "ids": [
+   "bdat:key_item_mes:6:us"
+  ]
+ },
+ "1137": {
+  "original": "Hakkake's favorite. Can also be used<n>as an adhesive.",
+  "ids": [
+   "bdat:key_item_mes:7:us"
+  ]
+ },
+ "1138": {
+  "original": "Bansho Fan",
+  "ids": [
+   "bdat:key_item_mes:8:us"
+  ]
+ },
+ "1139": {
+  "original": "An amazing fan that can put out the<n>flames on Fire Mountain.",
+  "ids": [
+   "bdat:key_item_mes:9:us"
+  ]
+ },
+ "1140": {
+  "original": "Precision Circuit",
+  "ids": [
+   "bdat:key_item_mes:10:us"
+  ]
+ },
+ "1141": {
+  "original": "A circuit needed to fix the device<n>Goku's brother left behind.",
+  "ids": [
+   "bdat:key_item_mes:11:us"
+  ]
+ },
+ "1142": {
+  "original": "Snowfield Key",
+  "ids": [
+   "bdat:key_item_mes:12:us"
+  ]
+ },
+ "1143": {
+  "original": "Required to open the Snowfield gate.",
+  "ids": [
+   "bdat:key_item_mes:13:us"
+  ]
+ },
+ "1144": {
+  "original": "Frozen Hyacinth",
+  "ids": [
+   "bdat:key_item_mes:14:us"
+  ]
+ },
+ "1145": {
+  "original": "A flower found on Holly Plain. Used to<n>make fever medication.",
+  "ids": [
+   "bdat:key_item_mes:15:us"
+  ]
+ },
+ "1146": {
+  "original": "Hermit Spring Water",
+  "ids": [
+   "bdat:key_item_mes:16:us"
+  ]
+ },
+ "1147": {
+  "original": "Special water taken from Hermit Spring.<n>Required to raise Senzu bean plants.",
+  "ids": [
+   "bdat:key_item_mes:17:us"
+  ]
+ },
+ "1148": {
+  "original": "Submarine",
+  "ids": [
+   "bdat:key_item_mes:18:us"
+  ]
+ },
+ "1149": {
+  "original": "Allows you access to certain areas<n>on the world map.",
+  "ids": [
+   "bdat:key_item_mes:19:us"
+  ]
+ },
+ "1150": {
+  "original": "Furnace Flame",
+  "ids": [
+   "bdat:key_item_mes:20:us",
+   "bdat:character_name:192:us"
+  ]
+ },
+ "1151": {
+  "original": "Allows you to melt any blocks of ice<n>you run into on the map.",
+  "ids": [
+   "bdat:key_item_mes:21:us"
+  ]
+ },
+ "1152": {
+  "original": "One-Star Ball",
+  "ids": [
+   "bdat:key_item_mes:22:us"
+  ]
+ },
+ "1153": {
+  "original": "The Dragon Ball with one star.",
+  "ids": [
+   "bdat:key_item_mes:23:us"
+  ]
+ },
+ "1154": {
+  "original": "Two-Star Ball",
+  "ids": [
+   "bdat:key_item_mes:24:us"
+  ]
+ },
+ "1155": {
+  "original": "The Dragon Ball with two stars.",
+  "ids": [
+   "bdat:key_item_mes:25:us"
+  ]
+ },
+ "1156": {
+  "original": "Three-Star Ball",
+  "ids": [
+   "bdat:key_item_mes:26:us"
+  ]
+ },
+ "1157": {
+  "original": "The Dragon Ball with three stars.",
+  "ids": [
+   "bdat:key_item_mes:27:us"
+  ]
+ },
+ "1158": {
+  "original": "Four-Star Ball",
+  "ids": [
+   "bdat:key_item_mes:28:us"
+  ]
+ },
+ "1159": {
+  "original": "The Dragon Ball with four stars.",
+  "ids": [
+   "bdat:key_item_mes:29:us"
+  ]
+ },
+ "1160": {
+  "original": "Five-Star Ball",
+  "ids": [
+   "bdat:key_item_mes:30:us"
+  ]
+ },
+ "1161": {
+  "original": "The Dragon Ball with five stars.",
+  "ids": [
+   "bdat:key_item_mes:31:us"
+  ]
+ },
+ "1162": {
+  "original": "Six-Star Ball",
+  "ids": [
+   "bdat:key_item_mes:32:us"
+  ]
+ },
+ "1163": {
+  "original": "The Dragon Ball with six stars.",
+  "ids": [
+   "bdat:key_item_mes:33:us"
+  ]
+ },
+ "1164": {
+  "original": "Seven-Star Ball",
+  "ids": [
+   "bdat:key_item_mes:34:us"
+  ]
+ },
+ "1165": {
+  "original": "The Dragon Ball with seven stars.",
+  "ids": [
+   "bdat:key_item_mes:35:us"
+  ]
+ },
+ "1166": {
+  "original": "Dragon Ball Shard",
+  "ids": [
+   "bdat:key_item_mes:36:us",
+   "bdat:key_item_mes:38:us"
+  ]
+ },
+ "1167": {
+  "original": "A piece of the broken two-star<n>Dragon Ball.",
+  "ids": [
+   "bdat:key_item_mes:37:us",
+   "bdat:key_item_mes:39:us"
+  ]
+ },
+ "1168": {
+  "original": "Battery",
+  "ids": [
+   "bdat:key_item_mes:40:us"
+  ]
+ },
+ "1169": {
+  "original": "Something must run off this battery.",
+  "ids": [
+   "bdat:key_item_mes:41:us"
+  ]
+ },
+ "1170": {
+  "original": "Devil's Bracelet",
+  "ids": [
+   "bdat:key_item_mes:42:us"
+  ]
+ },
+ "1171": {
+  "original": "A bracelet imbued with Piccolo's power.",
+  "ids": [
+   "bdat:key_item_mes:43:us"
+  ]
+ },
+ "1172": {
+  "original": "Bubbles' Thing",
+  "ids": [
+   "bdat:key_item_mes:44:us"
+  ]
+ },
+ "1173": {
+  "original": "Water to revive Yemma trees. Very<n>nutritious. Don't ask how he makes it.",
+  "ids": [
+   "bdat:key_item_mes:45:us"
+  ]
+ },
+ "1174": {
+  "original": "Spirit Crystal",
+  "ids": [
+   "bdat:key_item_mes:46:us"
+  ]
+ },
+ "1175": {
+  "original": "The spirit crystal from an Yemma tree,<n>obtained from Montgomery.",
+  "ids": [
+   "bdat:key_item_mes:47:us"
+  ]
+ },
+ "1176": {
+  "original": "Empty Capsule",
+  "ids": [
+   "bdat:key_item_mes:48:us",
+   "bdat:key_item_mes:50:us"
+  ]
+ },
+ "1177": {
+  "original": "Increases the number of capsule<n>shortcuts available.",
+  "ids": [
+   "bdat:key_item_mes:49:us",
+   "bdat:key_item_mes:51:us"
+  ]
+ },
+ "1178": {
+  "original": "Sewer Key",
+  "ids": [
+   "bdat:key_item_mes:52:us"
+  ]
+ },
+ "1179": {
+  "original": "A key for the sewer entrance inside<n>the Martial Arts Temple.",
+  "ids": [
+   "bdat:key_item_mes:53:us"
+  ]
+ },
+ "1180": {
+  "original": "East City Pass",
+  "ids": [
+   "bdat:key_item_mes:54:us"
+  ]
+ },
+ "1181": {
+  "original": "Permission for the bearer to enter the<n>most damaged sections of East City.",
+  "ids": [
+   "bdat:key_item_mes:55:us"
+  ]
+ },
+ "1182": {
+  "original": "Piccolo",
+  "ids": [
+   "bdat:character_name:2:us",
+   "bdat:character_name:187:us",
+   "bdat:character_name:188:us"
+  ]
+ },
+ "1183": {
+  "original": "Bubbles",
+  "ids": [
+   "bdat:character_name:6:us"
+  ]
+ },
+ "1184": {
+  "original": "Gregory",
+  "ids": [
+   "bdat:character_name:7:us"
+  ]
+ },
+ "1185": {
+  "original": "Saibaman",
+  "ids": [
+   "bdat:character_name:9:us"
+  ]
+ },
+ "1186": {
+  "original": "J. Sai",
+  "ids": [
+   "bdat:character_name:10:us"
+  ]
+ },
+ "1187": {
+  "original": "C. Sai",
+  "ids": [
+   "bdat:character_name:11:us"
+  ]
+ },
+ "1188": {
+  "original": "K. Sai",
+  "ids": [
+   "bdat:character_name:12:us"
+  ]
+ },
+ "1189": {
+  "original": "T. Sai",
+  "ids": [
+   "bdat:character_name:13:us"
+  ]
+ },
+ "1190": {
+  "original": "Pirate Robot",
+  "ids": [
+   "bdat:character_name:14:us"
+  ]
+ },
+ "1191": {
+  "original": "Skull Robot",
+  "ids": [
+   "bdat:character_name:15:us"
+  ]
+ },
+ "1192": {
+  "original": "Captain Robot",
+  "ids": [
+   "bdat:character_name:16:us"
+  ]
+ },
+ "1193": {
+  "original": "Red Ribbon Spy",
+  "ids": [
+   "bdat:character_name:18:us"
+  ]
+ },
+ "1194": {
+  "original": "Hired Rider",
+  "ids": [
+   "bdat:character_name:19:us"
+  ]
+ },
+ "1195": {
+  "original": "Red Ribbon Mech",
+  "ids": [
+   "bdat:character_name:20:us"
+  ]
+ },
+ "1196": {
+  "original": "RR Tundra Robot",
+  "ids": [
+   "bdat:character_name:22:us"
+  ]
+ },
+ "1197": {
+  "original": "RR Deserter",
+  "ids": [
+   "bdat:character_name:23:us"
+  ]
+ },
+ "1198": {
+  "original": "Red Ribbon Survivor",
+  "ids": [
+   "bdat:character_name:24:us"
+  ]
+ },
+ "1199": {
+  "original": "Red Ribbon Medic",
+  "ids": [
+   "bdat:character_name:25:us"
+  ]
+ },
+ "1200": {
+  "original": "RR High Soldier",
+  "ids": [
+   "bdat:character_name:27:us"
+  ]
+ },
+ "1201": {
+  "original": "RR Northern Soldier",
+  "ids": [
+   "bdat:character_name:28:us"
+  ]
+ },
+ "1202": {
+  "original": "RR Ex-Sergeant",
+  "ids": [
+   "bdat:character_name:29:us"
+  ]
+ },
+ "1203": {
+  "original": "RR Ex-Staff Sergeant",
+  "ids": [
+   "bdat:character_name:30:us"
+  ]
+ },
+ "1204": {
+  "original": "Female Bandit",
+  "ids": [
+   "bdat:character_name:32:us"
+  ]
+ },
+ "1205": {
+  "original": "Snow Bandit Girl",
+  "ids": [
+   "bdat:character_name:33:us"
+  ]
+ },
+ "1206": {
+  "original": "Bandit Queen",
+  "ids": [
+   "bdat:character_name:34:us"
+  ]
+ },
+ "1207": {
+  "original": "Bandit",
+  "ids": [
+   "bdat:character_name:35:us"
+  ]
+ },
+ "1208": {
+  "original": "Snow Bandit",
+  "ids": [
+   "bdat:character_name:36:us"
+  ]
+ },
+ "1209": {
+  "original": "Bandit King",
+  "ids": [
+   "bdat:character_name:37:us"
+  ]
+ },
+ "1210": {
+  "original": "Thief Fox",
+  "ids": [
+   "bdat:character_name:38:us"
+  ]
+ },
+ "1211": {
+  "original": "Veteran Fox",
+  "ids": [
+   "bdat:character_name:39:us"
+  ]
+ },
+ "1212": {
+  "original": "Racketeer Fox",
+  "ids": [
+   "bdat:character_name:40:us"
+  ]
+ },
+ "1213": {
+  "original": "Sniper",
+  "ids": [
+   "bdat:character_name:41:us"
+  ]
+ },
+ "1214": {
+  "original": "Refugee",
+  "ids": [
+   "bdat:character_name:42:us"
+  ]
+ },
+ "1215": {
+  "original": "Elite Assassin",
+  "ids": [
+   "bdat:character_name:43:us"
+  ]
+ },
+ "1216": {
+  "original": "Fugitive",
+  "ids": [
+   "bdat:character_name:44:us"
+  ]
+ },
+ "1217": {
+  "original": "Piratess",
+  "ids": [
+   "bdat:character_name:47:us"
+  ]
+ },
+ "1218": {
+  "original": "Female Desert Bandit",
+  "ids": [
+   "bdat:character_name:48:us"
+  ]
+ },
+ "1219": {
+  "original": "Pirate",
+  "ids": [
+   "bdat:character_name:50:us"
+  ]
+ },
+ "1220": {
+  "original": "Desert Bandit",
+  "ids": [
+   "bdat:character_name:51:us"
+  ]
+ },
+ "1221": {
+  "original": "Rabbit Private 1",
+  "ids": [
+   "bdat:character_name:53:us"
+  ]
+ },
+ "1222": {
+  "original": "Rabbit Elite Guard 1",
+  "ids": [
+   "bdat:character_name:54:us"
+  ]
+ },
+ "1223": {
+  "original": "Rabbit Survivor 1",
+  "ids": [
+   "bdat:character_name:55:us"
+  ]
+ },
+ "1224": {
+  "original": "Rabbit Private 2",
+  "ids": [
+   "bdat:character_name:56:us"
+  ]
+ },
+ "1225": {
+  "original": "Rabbit Elite Guard 2",
+  "ids": [
+   "bdat:character_name:57:us"
+  ]
+ },
+ "1226": {
+  "original": "Rabbit Survivor 2",
+  "ids": [
+   "bdat:character_name:58:us"
+  ]
+ },
+ "1227": {
+  "original": "Female Pupil",
+  "ids": [
+   "bdat:character_name:60:us"
+  ]
+ },
+ "1228": {
+  "original": "Betrayer",
+  "ids": [
+   "bdat:character_name:62:us"
+  ]
+ },
+ "1229": {
+  "original": "Expelled Pupil",
+  "ids": [
+   "bdat:character_name:63:us"
+  ]
+ },
+ "1230": {
+  "original": "Pupil",
+  "ids": [
+   "bdat:character_name:64:us"
+  ]
+ },
+ "1231": {
+  "original": "Would-be Fighter",
+  "ids": [
+   "bdat:character_name:65:us"
+  ]
+ },
+ "1232": {
+  "original": "Rowdy Fighter",
+  "ids": [
+   "bdat:character_name:66:us"
+  ]
+ },
+ "1233": {
+  "original": "Instructor",
+  "ids": [
+   "bdat:character_name:67:us"
+  ]
+ },
+ "1234": {
+  "original": "Princess' Servant",
+  "ids": [
+   "bdat:character_name:68:us"
+  ]
+ },
+ "1235": {
+  "original": "Princess' Guard",
+  "ids": [
+   "bdat:character_name:69:us"
+  ]
+ },
+ "1236": {
+  "original": "Weird Girl",
+  "ids": [
+   "bdat:character_name:70:us"
+  ]
+ },
+ "1237": {
+  "original": "Raider",
+  "ids": [
+   "bdat:character_name:71:us"
+  ]
+ },
+ "1238": {
+  "original": "Thug",
+  "ids": [
+   "bdat:character_name:72:us"
+  ]
+ },
+ "1239": {
+  "original": "Grave Robber",
+  "ids": [
+   "bdat:character_name:73:us"
+  ]
+ },
+ "1240": {
+  "original": "Meadow Wizard",
+  "ids": [
+   "bdat:character_name:77:us"
+  ]
+ },
+ "1241": {
+  "original": "Spring Guard",
+  "ids": [
+   "bdat:character_name:78:us"
+  ]
+ },
+ "1242": {
+  "original": "Red Shaman",
+  "ids": [
+   "bdat:character_name:79:us"
+  ]
+ },
+ "1243": {
+  "original": "Distrustful Man",
+  "ids": [
+   "bdat:character_name:80:us"
+  ]
+ },
+ "1244": {
+  "original": "Violent Tribesman",
+  "ids": [
+   "bdat:character_name:81:us"
+  ]
+ },
+ "1245": {
+  "original": "Ruin Guard",
+  "ids": [
+   "bdat:character_name:82:us"
+  ]
+ },
+ "1246": {
+  "original": "Winged Dragon",
+  "ids": [
+   "bdat:character_name:83:us"
+  ]
+ },
+ "1247": {
+  "original": "Violent Dragon",
+  "ids": [
+   "bdat:character_name:84:us"
+  ]
+ },
+ "1248": {
+  "original": "Snow Dragon",
+  "ids": [
+   "bdat:character_name:85:us"
+  ]
+ },
+ "1249": {
+  "original": "Dinosaur",
+  "ids": [
+   "bdat:character_name:86:us"
+  ]
+ },
+ "1250": {
+  "original": "Ice Dinosaur",
+  "ids": [
+   "bdat:character_name:87:us"
+  ]
+ },
+ "1251": {
+  "original": "Fire Dinosaur",
+  "ids": [
+   "bdat:character_name:88:us"
+  ]
+ },
+ "1252": {
+  "original": "Giant Snake",
+  "ids": [
+   "bdat:character_name:89:us"
+  ]
+ },
+ "1253": {
+  "original": "Mansion Snake",
+  "ids": [
+   "bdat:character_name:90:us"
+  ]
+ },
+ "1254": {
+  "original": "Poisonous Snake",
+  "ids": [
+   "bdat:character_name:91:us"
+  ]
+ },
+ "1255": {
+  "original": "Lantern Ghost",
+  "ids": [
+   "bdat:character_name:92:us"
+  ]
+ },
+ "1256": {
+  "original": "Ship Ghost",
+  "ids": [
+   "bdat:character_name:93:us"
+  ]
+ },
+ "1257": {
+  "original": "Patrol Ghost",
+  "ids": [
+   "bdat:character_name:94:us"
+  ]
+ },
+ "1258": {
+  "original": "Ghost Pot",
+  "ids": [
+   "bdat:character_name:95:us"
+  ]
+ },
+ "1259": {
+  "original": "Head Ghoul",
+  "ids": [
+   "bdat:character_name:96:us"
+  ]
+ },
+ "1260": {
+  "original": "Death Sentence",
+  "ids": [
+   "bdat:character_name:97:us"
+  ]
+ },
+ "1261": {
+  "original": "Demon Denizen",
+  "ids": [
+   "bdat:character_name:98:us"
+  ]
+ },
+ "1262": {
+  "original": "Demon Noble",
+  "ids": [
+   "bdat:character_name:99:us"
+  ]
+ },
+ "1263": {
+  "original": "Demon Mystic",
+  "ids": [
+   "bdat:character_name:100:us"
+  ]
+ },
+ "1264": {
+  "original": "Gogyo Majin",
+  "ids": [
+   "bdat:character_name:102:us"
+  ]
+ },
+ "1265": {
+  "original": "Ensei Majin",
+  "ids": [
+   "bdat:character_name:103:us"
+  ]
+ },
+ "1266": {
+  "original": "Ostrich Chicken",
+  "ids": [
+   "bdat:character_name:104:us"
+  ]
+ },
+ "1267": {
+  "original": "Sand Dodo",
+  "ids": [
+   "bdat:character_name:105:us"
+  ]
+ },
+ "1268": {
+  "original": "Dododo",
+  "ids": [
+   "bdat:character_name:106:us"
+  ]
+ },
+ "1269": {
+  "original": "Firebird",
+  "ids": [
+   "bdat:character_name:107:us"
+  ]
+ },
+ "1270": {
+  "original": "Blue Hawk",
+  "ids": [
+   "bdat:character_name:108:us"
+  ]
+ },
+ "1271": {
+  "original": "Dark Condor",
+  "ids": [
+   "bdat:character_name:109:us"
+  ]
+ },
+ "1272": {
+  "original": "Tiger",
+  "ids": [
+   "bdat:character_name:110:us"
+  ]
+ },
+ "1273": {
+  "original": "Snow Tiger",
+  "ids": [
+   "bdat:character_name:111:us"
+  ]
+ },
+ "1274": {
+  "original": "Dimensional Tiger",
+  "ids": [
+   "bdat:character_name:112:us"
+  ]
+ },
+ "1275": {
+  "original": "Wolf",
+  "ids": [
+   "bdat:character_name:113:us"
+  ]
+ },
+ "1276": {
+  "original": "White Wolf",
+  "ids": [
+   "bdat:character_name:114:us"
+  ]
+ },
+ "1277": {
+  "original": "Red Wolf",
+  "ids": [
+   "bdat:character_name:115:us"
+  ]
+ },
+ "1278": {
+  "original": "Stray Dog",
+  "ids": [
+   "bdat:character_name:116:us"
+  ]
+ },
+ "1279": {
+  "original": "Red Ribbon Spy Dog",
+  "ids": [
+   "bdat:character_name:117:us"
+  ]
+ },
+ "1280": {
+  "original": "Super Watchdog",
+  "ids": [
+   "bdat:character_name:118:us"
+  ]
+ },
+ "1281": {
+  "original": "Wild Boar",
+  "ids": [
+   "bdat:character_name:119:us"
+  ]
+ },
+ "1282": {
+  "original": "Champion Boar",
+  "ids": [
+   "bdat:character_name:120:us"
+  ]
+ },
+ "1283": {
+  "original": "Snow Boar",
+  "ids": [
+   "bdat:character_name:121:us"
+  ]
+ },
+ "1284": {
+  "original": "Hungry Bear",
+  "ids": [
+   "bdat:character_name:122:us"
+  ]
+ },
+ "1285": {
+  "original": "Snow Bear",
+  "ids": [
+   "bdat:character_name:123:us"
+  ]
+ },
+ "1286": {
+  "original": "Strong Bear",
+  "ids": [
+   "bdat:character_name:124:us"
+  ]
+ },
+ "1287": {
+  "original": "Dangerous Panda",
+  "ids": [
+   "bdat:character_name:125:us"
+  ]
+ },
+ "1288": {
+  "original": "Snow Panda",
+  "ids": [
+   "bdat:character_name:126:us"
+  ]
+ },
+ "1289": {
+  "original": "Ultimate Pandaman",
+  "ids": [
+   "bdat:character_name:127:us"
+  ]
+ },
+ "1290": {
+  "original": "Giant Fish",
+  "ids": [
+   "bdat:character_name:128:us"
+  ]
+ },
+ "1291": {
+  "original": "Wild Fish",
+  "ids": [
+   "bdat:character_name:129:us"
+  ]
+ },
+ "1292": {
+  "original": "Sand Fish",
+  "ids": [
+   "bdat:character_name:130:us"
+  ]
+ },
+ "1293": {
+  "original": "Wolfman",
+  "ids": [
+   "bdat:character_name:131:us"
+  ]
+ },
+ "1294": {
+  "original": "Werewolf",
+  "ids": [
+   "bdat:character_name:132:us"
+  ]
+ },
+ "1295": {
+  "original": "Golden Wolf",
+  "ids": [
+   "bdat:character_name:133:us"
+  ]
+ },
+ "1296": {
+  "original": "Bloodsucker",
+  "ids": [
+   "bdat:character_name:134:us"
+  ]
+ },
+ "1297": {
+  "original": "Vampire",
+  "ids": [
+   "bdat:character_name:135:us"
+  ]
+ },
+ "1298": {
+  "original": "Red Vampire",
+  "ids": [
+   "bdat:character_name:136:us"
+  ]
+ },
+ "1299": {
+  "original": "Mummy Man",
+  "ids": [
+   "bdat:character_name:137:us"
+  ]
+ },
+ "1300": {
+  "original": "Mummy",
+  "ids": [
+   "bdat:character_name:138:us"
+  ]
+ },
+ "1301": {
+  "original": "Burning Mummy",
+  "ids": [
+   "bdat:character_name:139:us"
+  ]
+ },
+ "1302": {
+  "original": "Giant Bat",
+  "ids": [
+   "bdat:character_name:140:us"
+  ]
+ },
+ "1303": {
+  "original": "Vampire Bat",
+  "ids": [
+   "bdat:character_name:141:us"
+  ]
+ },
+ "1304": {
+  "original": "King Bat",
+  "ids": [
+   "bdat:character_name:142:us"
+  ]
+ },
+ "1305": {
+  "original": "Big Club",
+  "ids": [
+   "bdat:character_name:143:us"
+  ]
+ },
+ "1306": {
+  "original": "Giant Crab",
+  "ids": [
+   "bdat:character_name:144:us"
+  ]
+ },
+ "1307": {
+  "original": "Dark Crab",
+  "ids": [
+   "bdat:character_name:145:us"
+  ]
+ },
+ "1308": {
+  "original": "Fishman",
+  "ids": [
+   "bdat:character_name:146:us"
+  ]
+ },
+ "1309": {
+  "original": "Man-Fish",
+  "ids": [
+   "bdat:character_name:147:us"
+  ]
+ },
+ "1310": {
+  "original": "Magman",
+  "ids": [
+   "bdat:character_name:148:us"
+  ]
+ },
+ "1311": {
+  "original": "Experiment #3",
+  "ids": [
+   "bdat:character_name:149:us"
+  ]
+ },
+ "1312": {
+  "original": "Experiment #7",
+  "ids": [
+   "bdat:character_name:150:us"
+  ]
+ },
+ "1313": {
+  "original": "Experiment #9",
+  "ids": [
+   "bdat:character_name:151:us"
+  ]
+ },
+ "1314": {
+  "original": "Sandman",
+  "ids": [
+   "bdat:character_name:152:us"
+  ]
+ },
+ "1315": {
+  "original": "Yorgan",
+  "ids": [
+   "bdat:character_name:153:us"
+  ]
+ },
+ "1316": {
+  "original": "Failed Experiment",
+  "ids": [
+   "bdat:character_name:154:us"
+  ]
+ },
+ "1317": {
+  "original": "Forest Guard",
+  "ids": [
+   "bdat:character_name:155:us"
+  ]
+ },
+ "1318": {
+  "original": "Ancient Descendant",
+  "ids": [
+   "bdat:character_name:156:us"
+  ]
+ },
+ "1319": {
+  "original": "Mad Scientist",
+  "ids": [
+   "bdat:character_name:157:us"
+  ]
+ },
+ "1320": {
+  "original": "Tumble Bug",
+  "ids": [
+   "bdat:character_name:158:us"
+  ]
+ },
+ "1321": {
+  "original": "Fire Caterpillar",
+  "ids": [
+   "bdat:character_name:159:us"
+  ]
+ },
+ "1322": {
+  "original": "Caterpillar",
+  "ids": [
+   "bdat:character_name:160:us"
+  ]
+ },
+ "1323": {
+  "original": "Dark Giras",
+  "ids": [
+   "bdat:character_name:161:us"
+  ]
+ },
+ "1324": {
+  "original": "Magmaras",
+  "ids": [
+   "bdat:character_name:162:us"
+  ]
+ },
+ "1325": {
+  "original": "Dengiras",
+  "ids": [
+   "bdat:character_name:163:us"
+  ]
+ },
+ "1326": {
+  "original": "Roundworm",
+  "ids": [
+   "bdat:character_name:164:us"
+  ]
+ },
+ "1327": {
+  "original": "Dark Firefly",
+  "ids": [
+   "bdat:character_name:165:us"
+  ]
+ },
+ "1328": {
+  "original": "Poison Sandbug",
+  "ids": [
+   "bdat:character_name:166:us"
+  ]
+ },
+ "1329": {
+  "original": "Roundworm Larva",
+  "ids": [
+   "bdat:character_name:170:us"
+  ]
+ },
+ "1330": {
+  "original": "Firefly Larva",
+  "ids": [
+   "bdat:character_name:171:us"
+  ]
+ },
+ "1331": {
+  "original": "Sandbug Larva",
+  "ids": [
+   "bdat:character_name:172:us"
+  ]
+ },
+ "1332": {
+  "original": "Helper Robot",
+  "ids": [
+   "bdat:character_name:176:us"
+  ]
+ },
+ "1333": {
+  "original": "Someone's Robot",
+  "ids": [
+   "bdat:character_name:177:us"
+  ]
+ },
+ "1334": {
+  "original": "Spy Robot",
+  "ids": [
+   "bdat:character_name:178:us"
+  ]
+ },
+ "1335": {
+  "original": "Monster Carrot",
+  "ids": [
+   "bdat:character_name:184:us"
+  ]
+ },
+ "1336": {
+  "original": "Evil Flame",
+  "ids": [
+   "bdat:character_name:185:us"
+  ]
+ },
+ "1337": {
+  "original": "Chiaotzu",
+  "ids": [
+   "bdat:character_name:186:us"
+  ]
+ },
+ "1338": {
+  "original": "Shu Machine",
+  "ids": [
+   "bdat:character_name:190:us"
+  ]
+ },
+ "1339": {
+  "original": "Mai Machine",
+  "ids": [
+   "bdat:character_name:191:us"
+  ]
+ },
+ "1340": {
+  "original": "Demon Flame",
+  "ids": [
+   "bdat:character_name:193:us"
+  ]
+ },
+ "1341": {
+  "original": "Raditz",
+  "ids": [
+   "bdat:character_name:195:us"
+  ]
+ },
+ "1342": {
+  "original": "Rival Dinosaur",
+  "ids": [
+   "bdat:character_name:196:us"
+  ]
+ },
+ "1343": {
+  "original": "Dongiras",
+  "ids": [
+   "bdat:character_name:197:us"
+  ]
+ },
+ "1344": {
+  "original": "Spring Majin",
+  "ids": [
+   "bdat:character_name:198:us"
+  ]
+ },
+ "1345": {
+  "original": "Spring Guardian",
+  "ids": [
+   "bdat:character_name:199:us"
+  ]
+ },
+ "1346": {
+  "original": "Midgiras",
+  "ids": [
+   "bdat:character_name:200:us"
+  ]
+ },
+ "1347": {
+  "original": "Goz",
+  "ids": [
+   "bdat:character_name:201:us"
+  ]
+ },
+ "1348": {
+  "original": "Princess Snake",
+  "ids": [
+   "bdat:character_name:202:us",
+   "bdat:character_name:203:us"
+  ]
+ },
+ "1349": {
+  "original": "Raditz's Soul",
+  "ids": [
+   "bdat:character_name:204:us",
+   "bdat:character_name:218:us"
+  ]
+ },
+ "1350": {
+  "original": "Sand Eagle",
+  "ids": [
+   "bdat:character_name:205:us"
+  ]
+ },
+ "1351": {
+  "original": "Eighter",
+  "ids": [
+   "bdat:character_name:206:us"
+  ]
+ },
+ "1352": {
+  "original": "General White",
+  "ids": [
+   "bdat:character_name:207:us"
+  ]
+ },
+ "1353": {
+  "original": "Giant Octopus",
+  "ids": [
+   "bdat:character_name:208:us"
+  ]
+ },
+ "1354": {
+  "original": "RR Power Robot",
+  "ids": [
+   "bdat:character_name:209:us"
+  ]
+ },
+ "1355": {
+  "original": "Ladies",
+  "ids": [
+   "bdat:character_name:210:us"
+  ]
+ },
+ "1356": {
+  "original": "Gentlemen",
+  "ids": [
+   "bdat:character_name:211:us"
+  ]
+ },
+ "1357": {
+  "original": "Bronze Pinball",
+  "ids": [
+   "bdat:character_name:212:us"
+  ]
+ },
+ "1358": {
+  "original": "Silver Pinball",
+  "ids": [
+   "bdat:character_name:213:us"
+  ]
+ },
+ "1359": {
+  "original": "Gold Pinball",
+  "ids": [
+   "bdat:character_name:214:us"
+  ]
+ },
+ "1360": {
+  "original": "Pilaf Fusion Mech",
+  "ids": [
+   "bdat:character_name:215:us"
+  ]
+ },
+ "1361": {
+  "original": "Excavated Robot v2",
+  "ids": [
+   "bdat:character_name:216:us"
+  ]
+ },
+ "1362": {
+  "original": "TPP-EX",
+  "ids": [
+   "bdat:character_name:217:us"
+  ]
+ },
+ "1363": {
+  "original": "Nappa",
+  "ids": [
+   "bdat:character_name:219:us",
+   "bdat:character_name:220:us"
+  ]
+ },
+ "1364": {
+  "original": "Vegeta",
+  "ids": [
+   "bdat:character_name:221:us",
+   "bdat:character_name:223:us"
+  ]
+ },
+ "1365": {
+  "original": "Giant Ape Vegeta",
+  "ids": [
+   "bdat:character_name:222:us"
+  ]
+ },
+ "1366": {
+  "original": "Broly",
+  "ids": [
+   "bdat:character_name:224:us"
+  ]
+ },
+ "1367": {
+  "original": "Pilaf Machine",
+  "ids": [
+   "bdat:character_name:225:us"
+  ]
+ }
+}

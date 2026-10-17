@@ -1,0 +1,150 @@
+[
+ {
+  "patch": "aots_ptbr.bps",
+  "desc": "original->rc.1",
+  "info": {
+   "src_size": 134217728,
+   "tgt_size": 134217728,
+   "meta": "",
+   "src_crc": "a9f0b8f9",
+   "tgt_crc": "670e3cf1",
+   "patch_crc": "2778f6e7",
+   "patch_crc_calc": "2778f6e7",
+   "body": 13
+  },
+  "out_len": 134217728,
+  "cmds": {
+   "0": 20975,
+   "1": 20341,
+   "2": 35683,
+   "3": 0
+  },
+  "bytes_by_cmd": {
+   "0": 127761386,
+   "1": 1930204,
+   "2": 4526138,
+   "3": 0
+  },
+  "src_crc_ok": true,
+  "src_size_ok": true,
+  "tgt_crc_ok": true,
+  "patch_crc_ok": true,
+  "saida_sha256": "41412a4727328d5341ba2f7d17fa567c84db137d8cd082bc32389c6d27643a5f",
+  "saida_crc32": "670e3cf1",
+  "igual_esperado": true,
+  "bps_projeto_igual": true,
+  "rejeita_origem_rc1": true,
+  "rejeita_origem_antiga_switch": true
+ },
+ {
+  "patch": "Coerencia_sobre_PTBR_1.0.0-rc.1.bps",
+  "desc": "rc.1->Coerencia",
+  "info": {
+   "src_size": 134217728,
+   "tgt_size": 134217728,
+   "meta": "DBZ NDS - coerencia narrativa - 52 entradas - 2026-10-11",
+   "src_crc": "670e3cf1",
+   "tgt_crc": "fe1fe43d",
+   "patch_crc": "6f0edc09",
+   "patch_crc_calc": "6f0edc09",
+   "body": 69
+  },
+  "out_len": 134217728,
+  "cmds": {
+   "0": 326,
+   "1": 325,
+   "2": 0,
+   "3": 0
+  },
+  "bytes_by_cmd": {
+   "0": 132954829,
+   "1": 1262899,
+   "2": 0,
+   "3": 0
+  },
+  "src_crc_ok": true,
+  "src_size_ok": true,
+  "tgt_crc_ok": true,
+  "patch_crc_ok": true,
+  "saida_sha256": "130b4ad843d85d760c4e844de26c35021bde0b43b6c5f34d6c3c639b2f5a9edd",
+  "saida_crc32": "fe1fe43d",
+  "igual_esperado": true,
+  "bps_projeto_igual": true,
+  "rejeita_origem_original": true,
+  "rejeita_origem_antiga_switch": true
+ },
+ {
+  "patch": "DBZ_PTBR_Coerencia_completo.bps",
+  "desc": "original->Coerencia",
+  "info": {
+   "src_size": 134217728,
+   "tgt_size": 134217728,
+   "meta": "DBZ NDS - PT-BR e coerencia narrativa - 2026-10-11",
+   "src_crc": "a9f0b8f9",
+   "tgt_crc": "fe1fe43d",
+   "patch_crc": "7dda32e3",
+   "patch_crc_calc": "7dda32e3",
+   "body": 63
+  },
+  "out_len": 134217728,
+  "cmds": {
+   "0": 6396,
+   "1": 6395,
+   "2": 0,
+   "3": 0
+  },
+  "bytes_by_cmd": {
+   "0": 126476006,
+   "1": 7741722,
+   "2": 0,
+   "3": 0
+  },
+  "src_crc_ok": true,
+  "src_size_ok": true,
+  "tgt_crc_ok": true,
+  "patch_crc_ok": true,
+  "saida_sha256": "130b4ad843d85d760c4e844de26c35021bde0b43b6c5f34d6c3c639b2f5a9edd",
+  "saida_crc32": "fe1fe43d",
+  "igual_esperado": true,
+  "bps_projeto_igual": true,
+  "rejeita_origem_rc1": true,
+  "rejeita_origem_antiga_switch": true
+ },
+ {
+  "patch": "aots_bichos_db.bps (antigo)",
+  "desc": "original->hack antigo",
+  "info": {
+   "src_size": 134217728,
+   "tgt_size": 134217728,
+   "meta": "",
+   "src_crc": "a9f0b8f9",
+   "tgt_crc": "68ffeccb",
+   "patch_crc": "ca4565ba",
+   "patch_crc_calc": "ca4565ba",
+   "body": 13
+  },
+  "out_len": 134217728,
+  "cmds": {
+   "0": 682,
+   "1": 931,
+   "2": 1643,
+   "3": 0
+  },
+  "bytes_by_cmd": {
+   "0": 133504735,
+   "1": 62011,
+   "2": 650982,
+   "3": 0
+  },
+  "src_crc_ok": true,
+  "src_size_ok": true,
+  "tgt_crc_ok": true,
+  "patch_crc_ok": true,
+  "saida_sha256": "a296ac4687d96fe865de9aa2e01b5ee3fdeb4e973f38de6ad833a821da32365d",
+  "saida_crc32": "68ffeccb",
+  "igual_esperado": null,
+  "bps_projeto_igual": true,
+  "rejeita_origem_rc1": true,
+  "rejeita_origem_antiga_switch": true
+ }
+]

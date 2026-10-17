@@ -1,0 +1,1701 @@
+{
+ "0": {
+  "original": "<p>Hmph...!<k><p>Your father's weakling friends have delayed our training...<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:10"
+  ]
+ },
+ "1": {
+  "original": "<p>Prepare yourself, because from today, we're going to do some actual fighting!<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:14"
+  ]
+ },
+ "2": {
+  "original": "<p>Alright, follow me! We're heading<n>southeast to Nemuria Ruins!<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:16"
+  ]
+ },
+ "3": {
+  "original": "<p>Nemuria Ruins!<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:17"
+  ]
+ },
+ "4": {
+  "original": "<p>You got a problem, Gohan?!<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:18"
+  ]
+ },
+ "5": {
+  "original": "<p>Uh, it's nothing!<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:19"
+  ]
+ },
+ "6": {
+  "original": "<p>...Nemuria Ruins...<k><p>That's where that robot saved me when I got lost half a year ago...<k><p>Then he got buried in the ruins. I wonder if he's OK...<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:21"
+  ]
+ },
+ "7": {
+  "original": "<p>Hey! What are you mumbling about?!<k><p>You're training! No time to waste!<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:23"
+  ]
+ },
+ "8": {
+  "original": "<p>Yes, Piccolo!<k>",
+  "ids": [
+   "sb:cf1/c11/c1101_00.sb:24"
+  ]
+ },
+ "9": {
+  "original": "<p>...Just ahead is Nemuria Ruins!<k>",
+  "ids": [
+   "sb:cf1/c11/c1102_00.sb:10"
+  ]
+ },
+ "10": {
+  "original": "<p>Right!<k>",
+  "ids": [
+   "sb:cf1/c11/c1102_00.sb:13"
+  ]
+ },
+ "11": {
+  "original": "<p>Go and find the Devil's Bracelet that I hid in the deepest parts of the ruins!<k>",
+  "ids": [
+   "sb:cf1/c11/c1102_00.sb:14"
+  ]
+ },
+ "12": {
+  "original": "<p>Find it... alone?<k>",
+  "ids": [
+   "sb:cf1/c11/c1102_00.sb:15"
+  ]
+ },
+ "13": {
+  "original": "<p>You still insist on acting like a scared little baby?<k><p>It wouldn't be training if I had to hold your hand, right?!<k>",
+  "ids": [
+   "sb:cf1/c11/c1102_00.sb:16"
+  ]
+ },
+ "14": {
+  "original": "<p>OK! I'll find the Devil's Bracelet and bring it back!<k>",
+  "ids": [
+   "sb:cf1/c11/c1102_00.sb:17"
+  ]
+ },
+ "15": {
+  "original": "<p>W-Whoa whoa!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_00.sb:12"
+  ]
+ },
+ "16": {
+  "original": "<p>Waaahhhh!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_00.sb:13"
+  ]
+ },
+ "17": {
+  "original": "<p>Ouch, that hurt...<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_01.sb:10"
+  ]
+ },
+ "18": {
+  "original": "<p>Wow! It's the Nemuria Ruins...<k><p>This is where I ran away to from Piccolo's training half a year ago.<k><p>This is about where I started crying...<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_01.sb:11"
+  ]
+ },
+ "19": {
+  "original": "<p>I hope the robot who saved me is still OK...<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_01.sb:12"
+  ]
+ },
+ "20": {
+  "original": "<p>I better start Piccolo's training!<k><p>...He said the Devil's Bracelet was in the deepest parts of the ruins...<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_01.sb:13"
+  ]
+ },
+ "21": {
+  "original": "<p>Hmm... Everywhere I go is a dead end...<k><p>Where could it be?<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_02.sb:10"
+  ]
+ },
+ "22": {
+  "original": "<p>Hey! Mr. Robot! You're all right!<k><p>It's me! Gohan!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_02.sb:12"
+  ]
+ },
+ "23": {
+  "original": "<p>Huh...? Your battery is gone!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_02.sb:13"
+  ]
+ },
+ "24": {
+  "original": "<p>If only he had his battery, I could talk to him...<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_02.sb:14"
+  ]
+ },
+ "25": {
+  "original": "<p>Maybe there's a spare battery somewhere in the ruins!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_02.sb:15"
+  ]
+ },
+ "26": {
+  "original": "<p>I found it! A battery just for him!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_03.sb:10"
+  ]
+ },
+ "27": {
+  "original": "<p>Now I'll be able to talk to him.<k><p>...He might even know where to find the Devil's Bracelet!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_03.sb:11"
+  ]
+ },
+ "28": {
+  "original": "<p>...This should do it!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:10"
+  ]
+ },
+ "29": {
+  "original": "<p>Mr. Robot! Mr. Robot! Wake up! Come on, wake up!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:11"
+  ]
+ },
+ "30": {
+  "original": "<p>...m... mm... Hm? Who has awakened me...?<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:14"
+  ]
+ },
+ "31": {
+  "original": "<p>Yahoo! It's me, Mr. Robot! Gohan!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:15"
+  ]
+ },
+ "32": {
+  "original": "<p>Oh, Gohan? What has happened? Have you not run away yet?<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:16"
+  ]
+ },
+ "33": {
+  "original": "<p>It's been half a year since I was lost in here!<k><p>...I'm glad you were OK!<k><p>I thought you were crushed under the ruins after you saved me!<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:17"
+  ]
+ },
+ "34": {
+  "original": "<p>...I see. So it has been that long...<k><p>...Then why is it that you are here? You should have made it out.<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:18"
+  ]
+ },
+ "35": {
+  "original": "<p>...Well... I got caught in some quicksand...<k><p>Oh, I have to go deep into the ruins and get the Devil's Bracelet!<k><p>Do you know which way to go?<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:19"
+  ]
+ },
+ "36": {
+  "original": "<p>So, in need of help again, I see... There are cave-ins happening all the time, so I do not know the terrain...<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:20"
+  ]
+ },
+ "37": {
+  "original": "<p>I saw a place that looked like I might be able to get through on the way here...<k><p>But there was a big boulder in the way...<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:21"
+  ]
+ },
+ "38": {
+  "original": "<p>...I see. I would move it for you, but...<k><p>As you can see...<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:22"
+  ]
+ },
+ "39": {
+  "original": "<p>Hmm... How am I gonna move it...?<k>",
+  "ids": [
+   "sb:cf1/c11/c1103_04.sb:23"
+  ]
+ },
+ "40": {
+  "original": "<p>...He's still not back...<k>",
+  "ids": [
+   "sb:cf1/c11/c1104_00.sb:10"
+  ]
+ },
+ "41": {
+  "original": "<p>This is taking too long! I guess I've got no choice but to see what the problem is...<k>",
+  "ids": [
+   "sb:cf1/c11/c1104_00.sb:11"
+  ]
+ },
+ "42": {
+  "original": "<p>!<n>Quicksand?!<k>",
+  "ids": [
+   "sb:cf1/c11/c1104_01.sb:11"
+  ]
+ },
+ "43": {
+  "original": "<p>Looks like I'm stuck...<k>",
+  "ids": [
+   "sb:cf1/c11/c1104_01.sb:12"
+  ]
+ },
+ "44": {
+  "original": "<p>Yahhh!!<k>",
+  "ids": [
+   "sb:cf1/c11/c1104_01.sb:13"
+  ]
+ },
+ "45": {
+  "original": "<p>...No problem...<k><p>But I better stay on guard.<k>",
+  "ids": [
+   "sb:cf1/c11/c1104_01.sb:14"
+  ]
+ },
+ "46": {
+  "original": "<p>The terrain here sure has changed...<k>",
+  "ids": [
+   "sb:cf1/c11/c1104_02.sb:10"
+  ]
+ },
+ "47": {
+  "original": "<p>If he dies here, then our chances against the Saiyans will plummet!<k><p>I'm probably getting too soft on him, but we'd better join up...<k>",
+  "ids": [
+   "sb:cf1/c11/c1104_02.sb:11"
+  ]
+ },
+ "48": {
+  "original": "<p>Piccolo!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_00.sb:10"
+  ]
+ },
+ "49": {
+  "original": "<p>Yay! You came to save me, right?!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_00.sb:11"
+  ]
+ },
+ "50": {
+  "original": "<p>...I can't have you dying on me...<k><p>Did you find the Devil's Bracelet?<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_00.sb:14"
+  ]
+ },
+ "51": {
+  "original": "<p>...Umm, well...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_00.sb:15"
+  ]
+ },
+ "52": {
+  "original": "<p>Heh heh... Guess not, huh?<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_00.sb:16"
+  ]
+ },
+ "53": {
+  "original": "<p>Fine. I'll back you up from here.<k><p>But in turn you better find that bracelet! Got it?<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_00.sb:17"
+  ]
+ },
+ "54": {
+  "original": "<p>Mr. Piccolo!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_00.sb:18"
+  ]
+ },
+ "55": {
+  "original": "<p>All right.<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_00.sb:20"
+  ]
+ },
+ "56": {
+  "original": "<p>Mr. Piccolo... What's that...?<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:10"
+  ]
+ },
+ "57": {
+  "original": "<p>Looks like some greedy weaklings have their eye set on treasure...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:13"
+  ]
+ },
+ "58": {
+  "original": "<p>I can take them...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:14"
+  ]
+ },
+ "59": {
+  "original": "<p>...Wait.<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:15"
+  ]
+ },
+ "60": {
+  "original": "<p>I'd like to see just how strong you've become... but I don't like the looks of these guys...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:17"
+  ]
+ },
+ "61": {
+  "original": "<p>...Hey big bro! There's some strange folks over there...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:19"
+  ]
+ },
+ "62": {
+  "original": "<p>...Huh?!<k><p>Looks like they're after the ruin's treasure just like us. Thieves probably.<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:21"
+  ]
+ },
+ "63": {
+  "original": "<p>Hey, then maybe they have some treasure on them already!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:22"
+  ]
+ },
+ "64": {
+  "original": "<p>Yeah!<k><p>Let's give them a little scare and relieve them of their goods while we're at it!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:23"
+  ]
+ },
+ "65": {
+  "original": "<p>Good thinking, big bro!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:24"
+  ]
+ },
+ "66": {
+  "original": "<p>Hey you!<k><p>So, you after the treasure too?!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:25"
+  ]
+ },
+ "67": {
+  "original": "<p>We're kinda famous in these parts...<k><p>We won't tell anyone, so...<k><p>If you wanna avoid a beating, hand over your treasure and make for the exit!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:27"
+  ]
+ },
+ "68": {
+  "original": "<p>You think you're bad guys, eh? Don't make me laugh!<k><p>I'll show you real evil!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:28"
+  ]
+ },
+ "69": {
+  "original": "<p>Hah! Just keep on talkin' like that!<k><p>Go get 'em, excavation robot!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_01.sb:29"
+  ]
+ },
+ "70": {
+  "original": "<p>Mr. Piccolo...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_02.sb:10"
+  ]
+ },
+ "71": {
+  "original": "<p>You've gotten stronger...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_02.sb:13"
+  ]
+ },
+ "72": {
+  "original": "<p>Mr. Piccolo, you said to them you'd show them <d>real evil<d>...<k><p>But they're the evil ones. I think what you showed them was the <d>power of good<d>...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_02.sb:14"
+  ]
+ },
+ "73": {
+  "original": "<p>D-Don't be stupid!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_02.sb:15"
+  ]
+ },
+ "74": {
+  "original": "<p>Quit talking nonsense... We found the Devil's Bracelet, so we're getting out of here!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_02.sb:17"
+  ]
+ },
+ "75": {
+  "original": "<p>Ouch...<n>That smarts...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:11"
+  ]
+ },
+ "76": {
+  "original": "<p>Hmm... Looks like you've at least gotten over your cry baby syndrome...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:14"
+  ]
+ },
+ "77": {
+  "original": "<p>Heh heh...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:15"
+  ]
+ },
+ "78": {
+  "original": "<p>Hey Piccolo... You and my dad fought in the past, right?<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:16"
+  ]
+ },
+ "79": {
+  "original": "<p>That fight still isn't over... After we defeat the Saiyans your father is next on my list...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:17"
+  ]
+ },
+ "80": {
+  "original": "<p>But...<k><p>Dad told me that you're not as bad as the Piccolo from the past...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:18"
+  ]
+ },
+ "81": {
+  "original": "<p>I think he's right... Mom and grandpa were scared of you though...<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:20"
+  ]
+ },
+ "82": {
+  "original": "<p>Enough of your babbling! Go to sleep!<k><p>Tomorrow's training won't be as nice as today's was!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:22"
+  ]
+ },
+ "83": {
+  "original": "<p>...Little runt...!<k>",
+  "ids": [
+   "sb:cf1/c11/c1105_03.sb:24"
+  ]
+ },
+ "84": {
+  "original": "<p>Hey...<n>Do you know where Chiaotzu is?<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:10"
+  ]
+ },
+ "85": {
+  "original": "<p>Chiaotzu?<k><p>I don't think he would have left Kami's Lookout...<n>You can't find him?<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:13"
+  ]
+ },
+ "86": {
+  "original": "<p>Yeah...<k><p>I've been looking for him since morning and I still can't find him...<n>Do you know anything, Mr. Popo?<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:14"
+  ]
+ },
+ "87": {
+  "original": "<p>I haven't seen him since last night...<n>I'm worried...<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:17"
+  ]
+ },
+ "88": {
+  "original": "<p>So you haven't seen him either...<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:18"
+  ]
+ },
+ "89": {
+  "original": "<p>I don't feel his Ki anywhere nearby... Try talking to Kami...<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:19"
+  ]
+ },
+ "90": {
+  "original": "<p>Looks like Chiaotzu's no where to be found...<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:25"
+  ]
+ },
+ "91": {
+  "original": "<p>You should try looking for him below.<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:27"
+  ]
+ },
+ "92": {
+  "original": "<p>You mean...leave the lookout?<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:28"
+  ]
+ },
+ "93": {
+  "original": "<p>Yes. Go and see Baba. She may know something.<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:29"
+  ]
+ },
+ "94": {
+  "original": "<p>I understand.<k><p>We'll go below and look for him! Training will only be put on hold until we find him.<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:30"
+  ]
+ },
+ "95": {
+  "original": "<p>Do not worry!<k><p>Going below will be a part of your training. I wouldn't want to train fighters who don't value their comrades.<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:31"
+  ]
+ },
+ "96": {
+  "original": "<p>Thank you, Kami!<k>",
+  "ids": [
+   "sb:cf1/c12/c1201_00.sb:32",
+   "sb:cf1/c12/c1206_00.sb:36"
+  ]
+ },
+ "97": {
+  "original": "<p>What? What?! What are you all doing here?<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:10"
+  ]
+ },
+ "98": {
+  "original": "<p>Well...<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:13"
+  ]
+ },
+ "99": {
+  "original": "<p>We don't know where Chiaotzu has gone!<k><p>We thought maybe you might help us find a clue...<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:16"
+  ]
+ },
+ "100": {
+  "original": "<p>Hmm...<k><p>I guess you boys aren't playing around.<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:17"
+  ]
+ },
+ "101": {
+  "original": "<p>Could you use your power to help us find him?<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:20"
+  ]
+ },
+ "102": {
+  "original": "<p>Easily done! Hoy hoy hoy sa sa!<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:21"
+  ]
+ },
+ "103": {
+  "original": "<p>...Hmmm...<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:22"
+  ]
+ },
+ "104": {
+  "original": "<p>Did you find out anything?!<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:23"
+  ]
+ },
+ "105": {
+  "original": "<p>It seems he's at Master Mutaito's training grounds!<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:24"
+  ]
+ },
+ "106": {
+  "original": "<p>Master Mutaito's training grounds?!<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:25"
+  ]
+ },
+ "107": {
+  "original": "<p>Right! The place where it is said Master Mutaito himself trained.<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:26"
+  ]
+ },
+ "108": {
+  "original": "<p>What would Chiaotzu be doing in a place like that?!<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:27"
+  ]
+ },
+ "109": {
+  "original": "<p>My powers tell me that he didn't go there by his own will.<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:28"
+  ]
+ },
+ "110": {
+  "original": "<p>Not by his own will?!<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:29"
+  ]
+ },
+ "111": {
+  "original": "<p>That's right. Simply put, he was kidnapped! ...I think?<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:30"
+  ]
+ },
+ "112": {
+  "original": "<p>Kidnapped?! By who?!<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:31"
+  ]
+ },
+ "113": {
+  "original": "<p>I don't know. You should go to the training grounds.<k>",
+  "ids": [
+   "sb:cf1/c12/c1202_00.sb:32"
+  ]
+ },
+ "114": {
+  "original": "<p>This is it.<k>",
+  "ids": [
+   "sb:cf1/c12/c1203_00.sb:10"
+  ]
+ },
+ "115": {
+  "original": "<p>So this is where Master Mutaito trained. I think I'm getting goose bumps!<k>",
+  "ids": [
+   "sb:cf1/c12/c1203_00.sb:13"
+  ]
+ },
+ "116": {
+  "original": "<p>(Chiaotzu... Where are you?)<k>",
+  "ids": [
+   "sb:cf1/c12/c1203_00.sb:16"
+  ]
+ },
+ "117": {
+  "original": "<p>Hah hah hah hah! I've been waiting for you, Tien!<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:9"
+  ]
+ },
+ "118": {
+  "original": "<p>Don't tell me you've forgotten my voice already.<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:13"
+  ]
+ },
+ "119": {
+  "original": "<p>M-Master Shen?!<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:14"
+  ]
+ },
+ "120": {
+  "original": "<p>Heh heh! The traitor has finally shown himself!<k><p>Now where did that other traitor go... Oh, there he is!<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:18"
+  ]
+ },
+ "121": {
+  "original": "<p>Why... Why would you do this?!?!<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:21"
+  ]
+ },
+ "122": {
+  "original": "<p>To get even with you!<k><p>You had become too strong at the last World Tournament, like you said!<k><p>You tore my pride to pieces...<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:22"
+  ]
+ },
+ "123": {
+  "original": "<p>Pride? Pride?! All you cared about was winning! Your fists ignored all decency.<k><p>You had no pride to begin with!<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:23"
+  ]
+ },
+ "124": {
+  "original": "<p>That's what I'm talking about!<k><p>I must shut that high and mighty mouth of yours!<k><p>I brought you here to make you pay for the sorrow you caused my brother<k><p>after you caused him injury beyond recovery!<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:24"
+  ]
+ },
+ "125": {
+  "original": "<p>Are you saying that for that, not only would you hurt Chiaotzu...<k><p>But you would insult Master Mutaito himself?<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:25"
+  ]
+ },
+ "126": {
+  "original": "<p>Hah hah hah!<k><p>I'll make you pay for your conceit in front of my master, Mutaito.<k><p>Prepare yourself, Tien. I've analyzed my brother's battles and put the data into this super robot.<k><p>I'll let TPP-EX take you to the other side!<k>",
+  "ids": [
+   "sb:cf1/c12/c1204_00.sb:27"
+  ]
+ },
+ "127": {
+  "original": "<p>Tien!<k>",
+  "ids": [
+   "sb:cf1/c12/c1205_00.sb:10"
+  ]
+ },
+ "128": {
+  "original": "<p>Are you hurt??<k>",
+  "ids": [
+   "sb:cf1/c12/c1205_00.sb:13"
+  ]
+ },
+ "129": {
+  "original": "<p>Yes... But...<k>",
+  "ids": [
+   "sb:cf1/c12/c1205_00.sb:14"
+  ]
+ },
+ "130": {
+  "original": "<p>You don't need to say anything.<k>",
+  "ids": [
+   "sb:cf1/c12/c1205_00.sb:15"
+  ]
+ },
+ "131": {
+  "original": "<p>...But...<k>",
+  "ids": [
+   "sb:cf1/c12/c1205_00.sb:16"
+  ]
+ },
+ "132": {
+  "original": "<p>We have only one master... And that's Master Roshi!<k>",
+  "ids": [
+   "sb:cf1/c12/c1205_00.sb:17"
+  ]
+ },
+ "133": {
+  "original": "<p>Tien... What a sad thing to happen...<k>",
+  "ids": [
+   "sb:cf1/c12/c1205_00.sb:18"
+  ]
+ },
+ "134": {
+  "original": "<p>I know...<k>",
+  "ids": [
+   "sb:cf1/c12/c1205_00.sb:19"
+  ]
+ },
+ "135": {
+  "original": "<p>I see...<k><p>So he was upset over his brother then...<k><p>But Tien... You should have nothing more to worry about now.<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:16"
+  ]
+ },
+ "136": {
+  "original": "<p>...That's right! No matter how many times you showed him the wrong in his ways he wouldn't learn!<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:19"
+  ]
+ },
+ "137": {
+  "original": "<p>Yes... I know it, but... I still can't help it...<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:25"
+  ]
+ },
+ "138": {
+  "original": "<p>You warned him!<k><p>He'll never show his face around you again!<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:28"
+  ]
+ },
+ "139": {
+  "original": "<p>...Yeah...<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:29"
+  ]
+ },
+ "140": {
+  "original": "<p>Heh heh heh.<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:30"
+  ]
+ },
+ "141": {
+  "original": "<p>?<n>...Is something funny?<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:31"
+  ]
+ },
+ "142": {
+  "original": "<p>I never thought once enemies such as yourselves would have ever formed such a strong bond.<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:32"
+  ]
+ },
+ "143": {
+  "original": "<p>You have all surpassed me long ago.<k><p>Mr. Popo and I have nothing more to teach you.<k><p>I believe it would be best if you returned to the world below to polish your various techniques before the showdown.<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:34"
+  ]
+ },
+ "144": {
+  "original": "<p>I leave the future in your hands.<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:35"
+  ]
+ },
+ "145": {
+  "original": "<p>...Can I take off this heavy clothing now then?<k>",
+  "ids": [
+   "sb:cf1/c12/c1206_00.sb:39"
+  ]
+ },
+ "146": {
+  "original": "<p>So... How was everything on Earth?<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:10"
+  ]
+ },
+ "147": {
+  "original": "<p>Everyone was doing good!<k><p>I was worried about Piccolo and Gohan, but they seem to be doing fine!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:13"
+  ]
+ },
+ "148": {
+  "original": "<p>I see, I see... Well then, let's continue the training, shall we?<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:14"
+  ]
+ },
+ "149": {
+  "original": "<p>OK! ...So, what are you going to teach me next?<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:15"
+  ]
+ },
+ "150": {
+  "original": "<p>...The Spirit Bomb!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:16"
+  ]
+ },
+ "151": {
+  "original": "<p>Spirit Bomb?<k><p>...Sounds powerful! What kind of technique is it?!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:17"
+  ]
+ },
+ "152": {
+  "original": "<p>If you can complete the task I have for you, I'll teach it to you...<k><p>...First, go to Yemma's Forest and bring me the Spirit Crystal!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:18"
+  ]
+ },
+ "153": {
+  "original": "<p>Yemma's Forest from before?<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:19"
+  ]
+ },
+ "154": {
+  "original": "<p>Right! A forest sprite should have it!<k><p>...But there's a little problem... You remember how Raditz went on a rampage?<k><p>He downed a Yemma Tree and blocked the road to the tree the sprites live in!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:20"
+  ]
+ },
+ "155": {
+  "original": "<p>The tree the sprites live in...?<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:21"
+  ]
+ },
+ "156": {
+  "original": "<p>You know Gregory, right?<k><p>That tree is where he used to live!<k><p>The elder Montgomery should have the Spirit Crystal...<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:22"
+  ]
+ },
+ "157": {
+  "original": "<p>...But the road's been blocked. How am I supposed to get there?<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:23"
+  ]
+ },
+ "158": {
+  "original": "<p>Hah hah hah! That's why I have this nutrient!<k><p>It's a secret recipe.<k><p>Bubbles and I make it as a hobby.<k><p>This stuff will help raise any plant...<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:24"
+  ]
+ },
+ "159": {
+  "original": "<p>Oh, man! It reeks!<k><p>Are you sure this'll make that Yemma Tree go back to normal?<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:25"
+  ]
+ },
+ "160": {
+  "original": "<p>Heh heh! I can guarantee it'll work!<k><p>...All right? Raditz broke five trees in all!<k><p>If you heal all five trees, the road to the tree the sprites live in should open...<k><p>Go see Montgomery and bring the Spirit Crystal back to me!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:26"
+  ]
+ },
+ "161": {
+  "original": "<p>No problem! I'll be back!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:27"
+  ]
+ },
+ "162": {
+  "original": "<p>And just so you know...<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:28"
+  ]
+ },
+ "163": {
+  "original": "<p>You can use the Kaioken if you want to now!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:30"
+  ]
+ },
+ "164": {
+  "original": "<p>Yes.<k><p>You did well mastering something not even I myself could not...<k><p>You impress me, Goku...<k><p>However I urge you not to overuse it.<k><p>If you lose control, your own body could be destroyed...<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:32"
+  ]
+ },
+ "165": {
+  "original": "<p>Don't go over two times the power.<k><p>Got it?<k><p>Taking the Kaioken beyond that would be too much for your body...<k><p>Your body won't be able to keep up and the technique will backfire...<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:34"
+  ]
+ },
+ "166": {
+  "original": "<p>Got it, King Kai!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:35"
+  ]
+ },
+ "167": {
+  "original": "<p>Learned Kaioken!<k>",
+  "ids": [
+   "sb:cf1/c13/c1301_00.sb:36"
+  ]
+ },
+ "168": {
+  "original": "<p>...So, this is where the sprites live! It's huge!!<k>",
+  "ids": [
+   "sb:cf1/c13/c1302_00.sb:10"
+  ]
+ },
+ "169": {
+  "original": "<p>I better find the elder...<k>",
+  "ids": [
+   "sb:cf1/c13/c1302_00.sb:11"
+  ]
+ },
+ "170": {
+  "original": "<p>So, you're after the Spirit Crystal as well...<k>",
+  "ids": [
+   "sb:cf1/c13/c1302_00.sb:14"
+  ]
+ },
+ "171": {
+  "original": "<p>Raditz?! You're still here? You just won't give up, will you?<k>",
+  "ids": [
+   "sb:cf1/c13/c1302_00.sb:15"
+  ]
+ },
+ "172": {
+  "original": "<p>You should know better than that!<k><p>If I can get a hold of the Spirit Crystal I'll gain power greater than that of King Yemma himself!<k>",
+  "ids": [
+   "sb:cf1/c13/c1302_00.sb:16"
+  ]
+ },
+ "173": {
+  "original": "<p>What do you plan to do after that?<k>",
+  "ids": [
+   "sb:cf1/c13/c1302_00.sb:17"
+  ]
+ },
+ "174": {
+  "original": "<p>What do you think?! I will rule all of Hell!<k>",
+  "ids": [
+   "sb:cf1/c13/c1302_00.sb:18"
+  ]
+ },
+ "175": {
+  "original": "<p>Gugh...! How... could this happen...<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:10"
+  ]
+ },
+ "176": {
+  "original": "<p>Whew...! How stubborn can you get...<k><p>I wonder if he was telling the truth about the Spirit Crystal being able to make someone more powerful than King Yemma...<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:13"
+  ]
+ },
+ "177": {
+  "original": "<p>Oh well!<k><p>I need to hurry up so I can learn the Spirit Bomb from King Kai...!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:14"
+  ]
+ },
+ "178": {
+  "original": "<p>What's all the fuss?!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:16"
+  ]
+ },
+ "179": {
+  "original": "<p>Elder??<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:20"
+  ]
+ },
+ "180": {
+  "original": "Montgomery",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:21"
+  ]
+ },
+ "181": {
+  "original": "<p>Oh! Gregory, is that you??<k><p>Have you been keeping up the hard work under King Kai??<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:22"
+  ]
+ },
+ "182": {
+  "original": "<p>Of course!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:23"
+  ]
+ },
+ "183": {
+  "original": "<p>What's wrong? I suppose you're not just home to visit...<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:24"
+  ]
+ },
+ "184": {
+  "original": "<p>That's right! I brought a man from Earth with me!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:25"
+  ]
+ },
+ "185": {
+  "original": "<p>...Earth?<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:26"
+  ]
+ },
+ "186": {
+  "original": "<p>Hi! I'm Goku!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:27"
+  ]
+ },
+ "187": {
+  "original": "<p>...And what is it this man from Earth wants?<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:28"
+  ]
+ },
+ "188": {
+  "original": "<p>King Kai told me to find the Spirit Crystal!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:29"
+  ]
+ },
+ "189": {
+  "original": "<p>If that's all you're looking for then take all you need...<k><p>Here!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:30"
+  ]
+ },
+ "190": {
+  "original": "<p>That was pretty easy...<k><p>Isn't this something really important?<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:31"
+  ]
+ },
+ "191": {
+  "original": "<p>...Important?<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:32"
+  ]
+ },
+ "192": {
+  "original": "<p>Yeah. Raditz said that it would grant power greater than King Yemma...<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:33"
+  ]
+ },
+ "193": {
+  "original": "<p>Wah hah hah! Sounds like Goz and Mez have been up to their old lies again!<k><p>It's just something of a protective charm to us sprites!<k><p>You can find them rolling all over this area!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:34"
+  ]
+ },
+ "194": {
+  "original": "<p>I wonder why King Kai had me come and get one then...<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:35"
+  ]
+ },
+ "195": {
+  "original": "<p>Hmm...<k><p>Maybe he wanted for us to meet...<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:36"
+  ]
+ },
+ "196": {
+  "original": "<p>I don't really understand it all, but thanks!<k><p>I gotta get back to King Kai's place! Later!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:37"
+  ]
+ },
+ "197": {
+  "original": "<p>...Elder. Are you sure about giving that Earthling the Spirit Crystal?<k><p>It's supposed to only be given to those as proof of learning the Spirit Bomb...<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:38"
+  ]
+ },
+ "198": {
+  "original": "<p>Just what have you been learning under King Kai??<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:39"
+  ]
+ },
+ "199": {
+  "original": "<p>You saw the pureness in his eyes, didn't you?<k><p>He'll put the Spirit Bomb to good use, I'm sure of it!<k><p>Are you sure you don't want to go after him? Aren't you supposed to still be training?<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:41"
+  ]
+ },
+ "200": {
+  "original": "<p>Yes! I guess I better go!<k>",
+  "ids": [
+   "sb:cf1/c13/c1303_00.sb:42"
+  ]
+ },
+ "201": {
+  "original": "<p>King Kai!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:10"
+  ]
+ },
+ "202": {
+  "original": "<p>So, you're back!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:13"
+  ]
+ },
+ "203": {
+  "original": "<p>Look! I brought the Spirit Crystal you told me to get!<k><p>Why did you make me go after it? The elder said it was just a plain old protective charm!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:14"
+  ]
+ },
+ "204": {
+  "original": "<p>Yes, well...<k><p>Think about it. I'm sure you've gained some strength in getting it, haven't you?<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:15"
+  ]
+ },
+ "205": {
+  "original": "<p>Come on, King Kai! Hurry up and teach me the Spirit Bomb!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:16"
+  ]
+ },
+ "206": {
+  "original": "<p>Heh heh. <k><p>Looks like Montgomery has seen just how capable he is.<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:18"
+  ]
+ },
+ "207": {
+  "original": "<p>Hah hah! Don't get so hasty!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:20"
+  ]
+ },
+ "208": {
+  "original": "<p>I can't wait much longer! There's not much time!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:21"
+  ]
+ },
+ "209": {
+  "original": "<p>The truth is... You've already attained the Spirit Bomb!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:22"
+  ]
+ },
+ "210": {
+  "original": "<p>Wh-What? Then what's this Spirit Crystal?!?!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:23"
+  ]
+ },
+ "211": {
+  "original": "<p>That was like a sort of graduation test.<k><p>Gregory even said you saved him!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:24"
+  ]
+ },
+ "212": {
+  "original": "<p>I can't believe it. All that work for nothing!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:25"
+  ]
+ },
+ "213": {
+  "original": "<p>It wasn't for nothing! What do you think you're sayin', Saiyan? Hee hee!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:26"
+  ]
+ },
+ "214": {
+  "original": "<p>*Cough cough*<k><p>Each time you complete the training I assign to you,<k><p> you gain the means to greater control your Ki!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:28"
+  ]
+ },
+ "215": {
+  "original": "<p>Really??<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:29"
+  ]
+ },
+ "216": {
+  "original": "<p>By choosing Ultimate Attack during battle, you will be able to use the Spirit Bomb!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:30"
+  ]
+ },
+ "217": {
+  "original": "<p>All right! So I've gained an Ultimate Attack!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:31"
+  ]
+ },
+ "218": {
+  "original": "<p>Learned Spirit Bomb!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:32"
+  ]
+ },
+ "219": {
+  "original": "<p>But listen, Goku. This is a technique that borrows a small amount of energy from things like the grass, trees, humans and animals.<k><p>Eventually the energy from things and the air itself can be gathered and released.<k><p>You can even tap into the massive energy of the sun.<k><p>It will be a Spirit Bomb of enormous power.<k><p>If you make one mistake, you could destroy the very planet that you are trying to protect.<k><p>Only use it if you have to!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:33"
+  ]
+ },
+ "220": {
+  "original": "<p>OK! Gotcha, King Kai.<k><p>I'll be fine. The Kaioken should be enough!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:34"
+  ]
+ },
+ "221": {
+  "original": "<p>Well, the day of the decisive battle has come!<k><p>The Saiyans will descend to Earth tomorrow.<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:35"
+  ]
+ },
+ "222": {
+  "original": "<p>Oh no! Tomorrow! I've really done it this time!!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:36"
+  ]
+ },
+ "223": {
+  "original": "<p>What's wrong, King Kai??<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:37"
+  ]
+ },
+ "224": {
+  "original": "<p>I... I forgot to add in the time it would take you to travel back across Snake Way!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:38"
+  ]
+ },
+ "225": {
+  "original": "<p>Couldn't you just beam me down to Earth with one of your tricks?<k><p>You mean I have to go back the way I came?!<k><p>It took me half a year to get here!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:39"
+  ]
+ },
+ "226": {
+  "original": "<p>I'm sure you could make it there in only a couple days now!<k><p>I'll contact Kami and tell him to meet you to take you to Earth!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:40"
+  ]
+ },
+ "227": {
+  "original": "<p>But that'll be one day too long! Everyone might get killed!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:41"
+  ]
+ },
+ "228": {
+  "original": "<p>You don't have to remind me! I'm allowed to make mistakes too, aren't I?!<k><p>Now! Hurry up and tell your friends on Earth to wish you back to life!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:42"
+  ]
+ },
+ "229": {
+  "original": "<p>How do I do that?<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:43"
+  ]
+ },
+ "230": {
+  "original": "<p>Put your hand on my back and you can tell them telepathically!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:44"
+  ]
+ },
+ "231": {
+  "original": "<p>R-Really??<k><p>Like this?<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:45"
+  ]
+ },
+ "232": {
+  "original": "<p>Hurry up and tell them!<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:46"
+  ]
+ },
+ "233": {
+  "original": "<p>(...M-Master Roshi... Master Roshi, it's me, Goku. Can you hear me?)<k>",
+  "ids": [
+   "sb:cf1/c13/c1304_00.sb:47"
+  ]
+ },
+ "234": {
+  "original": "<p>Goku! Is that you? Where are you??<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:10"
+  ]
+ },
+ "235": {
+  "original": "<p>(Great! You heard me! I'm still on the other side.<k><p>I'm talking to you telepathically.)<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:13"
+  ]
+ },
+ "236": {
+  "original": "<p>The... other side...<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:14"
+  ]
+ },
+ "237": {
+  "original": "<p>(Did you gather all the Dragon Balls?)<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:15"
+  ]
+ },
+ "238": {
+  "original": "<p>Yes, we already did!<k><p>We did it all together... To bring you back...<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:16"
+  ]
+ },
+ "239": {
+  "original": "<p>(Thanks.<k><p>Sorry to be in such a rush, but could you summon Shenron and wish me back to life now?<k><p>The Saiyans will arrive on Earth tomorrow!)<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:17"
+  ]
+ },
+ "240": {
+  "original": "<p>What?! They'll be here already?!<k><p>That's a month earlier than I expected!<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:18"
+  ]
+ },
+ "241": {
+  "original": "<p>(Hurry, Master Roshi! I'm gonna be a little late.<k><p>I promise I'll do what I can!)<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:19"
+  ]
+ },
+ "242": {
+  "original": "<p>All right, Goku! By the way...<k><p>I heard you've been training there. How has it come along?<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:20"
+  ]
+ },
+ "243": {
+  "original": "<p>(Great!)<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:21"
+  ]
+ },
+ "244": {
+  "original": "UmiGame",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:26"
+  ]
+ },
+ "245": {
+  "original": "<p>Is...he OK in there? I can hear him mumbling...<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:29"
+  ]
+ },
+ "246": {
+  "original": "<p>I wonder if he's just lost it...<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:32"
+  ]
+ },
+ "247": {
+  "original": "<p>Hey, everyone! Get the Dragon Balls together right away!<k>",
+  "ids": [
+   "sb:cf1/c13/c1305_00.sb:34"
+  ]
+ },
+ "248": {
+  "original": "<p>That was cool, King Kai! I actually got through!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:10"
+  ]
+ },
+ "249": {
+  "original": "<p>Heh heh... Of course you did.<k><p>Now, while we wait for them to revive you, I'll do something about those tattered clothes...<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:13"
+  ]
+ },
+ "250": {
+  "original": "<p>There!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:14"
+  ]
+ },
+ "251": {
+  "original": "<p>Wow! I feel a whole lot lighter!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:15"
+  ]
+ },
+ "252": {
+  "original": "<p>They aren't just light. That's strong material.<k><p>Light attacks will bounce right off.<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:16"
+  ]
+ },
+ "253": {
+  "original": "<p>Thanks, King Kai! Oh, good! The symbol of the turtle is still there!<k><p>I was worried I was gonna end up with the stupid looking symbol on your clothes!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:17"
+  ]
+ },
+ "254": {
+  "original": "<p>...Well excuse me...<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:18"
+  ]
+ },
+ "255": {
+  "original": "<p>I wish they'd hurry up!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:20"
+  ]
+ },
+ "256": {
+  "original": "<p>The symbol on the back is the number one fashion point!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:21"
+  ]
+ },
+ "257": {
+  "original": "<p>Make your wish! I will grant any wish, but only one!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:24"
+  ]
+ },
+ "258": {
+  "original": "<p>Hey! Umm...<k><p>Could you maybe beat up the Saiyans and save the Earth? Would that wish be OK...?<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:27"
+  ]
+ },
+ "259": {
+  "original": "<p>What are you saying! You want to just forget about Goku being dead?!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:30"
+  ]
+ },
+ "260": {
+  "original": "<p>No!<k><p>We could just bring him back the next time... Why not?<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:31"
+  ]
+ },
+ "261": {
+  "original": "<p>I can not grant that wish.<k><p>Kami is my creator. I can not grant wishes that exceed Kami's power.<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:32"
+  ]
+ },
+ "262": {
+  "original": "<p>Then I wish for you to bring Goku back to life!<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:35"
+  ]
+ },
+ "263": {
+  "original": "<p>A simple matter.<k>",
+  "ids": [
+   "sb:cf1/c13/c1306_00.sb:36"
+  ]
+ },
+ "264": {
+  "original": "<p>It's the middle of the day and it's dark out!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:10"
+  ]
+ },
+ "265": {
+  "original": "<P>(Looks like Goku is about  to be revived...)<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:13"
+  ]
+ },
+ "266": {
+  "original": "<p>That means that the Saiyans are coming sooner than I thought!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:15"
+  ]
+ },
+ "267": {
+  "original": "<p>Good!<k><p>The halo's gone! You're back to life! Now, hurry!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:26"
+  ]
+ },
+ "268": {
+  "original": "<p>OK, King Kai!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:27"
+  ]
+ },
+ "269": {
+  "original": "<p>Now remember, your enemy is evil and stronger than you can imagine!<k><p>You can't let your guard down even for a moment! Don't think you can be brought back to life again!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:28"
+  ]
+ },
+ "270": {
+  "original": "<p>I'll be all right! I can only be brought back to life once with the Dragon Balls!<k><p>I'll give it all I've got!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:29"
+  ]
+ },
+ "271": {
+  "original": "<p>Thanks for everything, King Kai. If I die again, I'll be sure to visit!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:30"
+  ]
+ },
+ "272": {
+  "original": "<p>There seems to be no limit to his strength...<k><p>And his heart is as clear as crystal...<k><p>Who would have thought someone like him existed in the lower world.<k><p>Although he didn't have much of a sense of humor...<k><p>I'll have to instruct him on that the next time...<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:32"
+  ]
+ },
+ "273": {
+  "original": "<p>This is great! I feel so light! Like my whole body's made out of cotton!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:34"
+  ]
+ },
+ "274": {
+  "original": "<p>This is no time to be fooling around though! I better hurry!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:35"
+  ]
+ },
+ "275": {
+  "original": "<p>And so, at 11:43AM the next day, the Earth was invaded by two Saiyans!<k>",
+  "ids": [
+   "sb:cf1/c13/c1307_00.sb:36"
+  ]
+ },
+ "276": {
+  "original": "<p>Wha... What happened? What's going on...?<k>",
+  "ids": [
+   "sb:cf1/c13/c1308_00.sb:16"
+  ]
+ },
+ "277": {
+  "original": "<p>That was scary...<k>",
+  "ids": [
+   "sb:cf1/c13/c1308_00.sb:17"
+  ]
+ },
+ "278": {
+  "original": "<p>Looks like something... fell from the sky...<k>",
+  "ids": [
+   "sb:cf1/c13/c1308_00.sb:18"
+  ]
+ },
+ "279": {
+  "original": "<p>I knew it...! That round thing fell from the sky!<k>",
+  "ids": [
+   "sb:cf1/c13/c1308_00.sb:19"
+  ]
+ },
+ "280": {
+  "original": "<p>There's one over here, too!<k>",
+  "ids": [
+   "sb:cf1/c13/c1308_00.sb:20"
+  ]
+ },
+ "281": {
+  "original": "<p>L-Look! Someone came out of it!!<k>",
+  "ids": [
+   "sb:cf1/c13/c1308_00.sb:21"
+  ]
+ },
+ "282": {
+  "original": "<p>Whew...<k>",
+  "ids": [
+   "sb:cf1/c13/c1308_00.sb:24"
+  ]
+ }
+}

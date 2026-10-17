@@ -1,0 +1,41 @@
+# Diferenca ROM 13 -> ROM 13.1
+ROM 13   0616e6c6fdada1e54d0694bd2e552be64dea3c3e592cd88ddf07b31d8bda3a82
+ROM 13.1 26785b882a49d34cfcd12cde4b6e75dc4a0df413b7730abf53653cca88070e68
+OK    mesma árvore de arquivos (FNT)
+arquivos diferentes: 10
+    btl/bdat/EN/bdat.bin 122148 -> 122212 bytes no lugar
+    btl/bdat/US/bdat.bin 122532 -> 122612 bytes no lugar
+    btl/ene/ene008_01.chr 26826 -> 26826 bytes no lugar
+    btl/ene/ene012_01.chr 26256 -> 26256 bytes no lugar
+    btl/ene/ene014_01.chr 18992 -> 18992 bytes no lugar
+    btl/ene/ene015_01.chr 33996 -> 33996 bytes no lugar
+    btl/ene/ene016_01.chr 13168 -> 13168 bytes no lugar
+    btl/ene/ene020_01.chr 10860 -> 10860 bytes no lugar
+    btl/ene/ene021_01.chr 13224 -> 13224 bytes no lugar
+    btl/ene/ene026_01.chr 26988 -> 26988 bytes no lugar
+OK    só mudaram os .chr das paletas corrigidas e os bdat.bin US/EN
+OK    cabeçalho: só tamanho usado/CRC16 []
+entradas da FAT alteradas: ['btl/bdat/EN/bdat.bin', 'btl/bdat/US/bdat.bin']
+OK    ene008_01: só mudaram (paleta, índice) [(4, 1), (4, 6), (4, 7), (5, 1), (5, 6), (5, 7), (5, 8)]
+OK    ene008_01: cabeçalho, tiles e quadros idênticos
+OK    ene012_01: só mudaram (paleta, índice) [(3, 1), (3, 11), (5, 1), (5, 11), (6, 1), (6, 11), (7, 1), (7, 9), (7, 10), (7, 11)]
+OK    ene012_01: cabeçalho, tiles e quadros idênticos
+OK    ene014_01: só mudaram (paleta, índice) [(4, 1), (4, 7)]
+OK    ene014_01: cabeçalho, tiles e quadros idênticos
+OK    ene015_01: só mudaram (paleta, índice) [(4, 1), (4, 5), (4, 6), (4, 7)]
+OK    ene015_01: cabeçalho, tiles e quadros idênticos
+OK    ene016_01: só mudaram (paleta, índice) [(5, 1), (5, 4), (5, 5)]
+OK    ene016_01: cabeçalho, tiles e quadros idênticos
+OK    ene020_01: só mudaram (paleta, índice) [(3, 1), (3, 5), (3, 6), (4, 1), (4, 5), (4, 6)]
+OK    ene020_01: cabeçalho, tiles e quadros idênticos
+OK    ene021_01: só mudaram (paleta, índice) [(3, 1), (3, 4), (3, 5), (4, 1), (4, 4), (4, 5), (5, 1), (5, 4), (5, 5), (6, 1), (6, 4), (6, 5)]
+OK    ene021_01: cabeçalho, tiles e quadros idênticos
+OK    ene026_01: só mudaram (paleta, índice) [(3, 1), (3, 8), (3, 9), (4, 1), (4, 8)]
+OK    ene026_01: cabeçalho, tiles e quadros idênticos
+OK    bdat EN: células alteradas [('cf_mes_MENU', 120, 'en')]
+OK    bdat US: células alteradas [('cf_mes_MENU', 120, 'us'), ('cf_mes_MENU', 121, 'us')]
+OK    bdat FR: células alteradas []
+OK    bdat SP: células alteradas []
+OK    bdat GR: células alteradas []
+OK    bdat IT: células alteradas []
+OK    nenhum byte diferente da 13 fora desses arquivos, das suas entradas na FAT e do cabeçalho: 0

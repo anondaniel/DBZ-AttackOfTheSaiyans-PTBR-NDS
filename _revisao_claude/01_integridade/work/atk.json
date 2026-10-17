@@ -1,0 +1,2318 @@
+[
+ {
+  "linha": 1,
+  "nome_orig": "J. Sai",
+  "nome_rc1": "J. Sai",
+  "nome_coe": "Robô de Patrulha",
+  "lv": 52,
+  "file": [
+   "ene001_01",
+   "ene001_01",
+   "ene062_01"
+  ],
+  "atk_orig": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   0,
+   30,
+   0,
+   0
+  ],
+  "E_orig": 9.0,
+  "E_rc1": 9.0,
+  "E_coe": 9.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   3
+  ]
+ },
+ {
+  "linha": 2,
+  "nome_orig": "C. Sai",
+  "nome_rc1": "C. Sai",
+  "nome_coe": "Robô do Deserto",
+  "lv": 48,
+  "file": [
+   "ene001_01",
+   "ene001_01",
+   "ene062_01"
+  ],
+  "atk_orig": [
+   50,
+   40,
+   10,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   40,
+   10,
+   0
+  ],
+  "atk_coe": [
+   30,
+   20,
+   30,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 3,
+  "nome_orig": "K. Sai",
+  "nome_rc1": "K. Sai",
+  "nome_coe": "Mutante Errante",
+  "lv": 52,
+  "file": [
+   "ene001_01",
+   "ene001_01",
+   "ene053_01"
+  ],
+  "atk_orig": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 4,
+  "nome_orig": "T. Sai",
+  "nome_rc1": "T. Sai",
+  "nome_coe": "Mutante Sombrio",
+  "lv": 52,
+  "file": [
+   "ene001_01",
+   "ene001_01",
+   "ene053_01"
+  ],
+  "atk_orig": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   30,
+   0,
+   0
+  ],
+  "E_orig": 9.0,
+  "E_rc1": 9.0,
+  "E_coe": 9.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   3
+  ]
+ },
+ {
+  "linha": 74,
+  "nome_orig": "Winged Dragon",
+  "nome_rc1": "Robô Alado RR",
+  "nome_coe": "Mecha Patrulheiro",
+  "lv": 30,
+  "file": [
+   "ene029_01",
+   "ene004_01",
+   "ene004_01"
+  ],
+  "atk_orig": [
+   20,
+   20,
+   40,
+   20
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   0,
+   20,
+   0,
+   30
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 6.0,
+  "E_coe": 6.0,
+  "morto": [
+   4
+  ],
+  "peso_sem_pow": [
+   1,
+   3
+  ]
+ },
+ {
+  "linha": 75,
+  "nome_orig": "Violent Dragon",
+  "nome_rc1": "Robô de Assalto RR",
+  "nome_coe": "Mecha de Combate",
+  "lv": 43,
+  "file": [
+   "ene029_01",
+   "ene004_01",
+   "ene004_01"
+  ],
+  "atk_orig": [
+   20,
+   20,
+   40,
+   20
+  ],
+  "atk_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_coe": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   0,
+   20,
+   0,
+   30
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 12.0,
+  "E_coe": 12.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   3
+  ]
+ },
+ {
+  "linha": 76,
+  "nome_orig": "Snow Dragon",
+  "nome_rc1": "Robô Ártico RR",
+  "nome_coe": "Guardião Errante",
+  "lv": 21,
+  "file": [
+   "ene029_01",
+   "ene004_01",
+   "ene027_01"
+  ],
+  "atk_orig": [
+   20,
+   20,
+   40,
+   20
+  ],
+  "atk_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_coe": [
+   40,
+   40,
+   20,
+   0
+  ],
+  "pow": [
+   0,
+   20,
+   0,
+   30
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 12.0,
+  "E_coe": 8.0,
+  "morto": [
+   4
+  ],
+  "peso_sem_pow": [
+   1,
+   3
+  ]
+ },
+ {
+  "linha": 80,
+  "nome_orig": "Giant Snake",
+  "nome_rc1": "Serva da Princesa",
+  "nome_coe": "Lutador Errante",
+  "lv": 3,
+  "file": [
+   "ene031_01",
+   "ene022_01",
+   "ene021_01"
+  ],
+  "atk_orig": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   20,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 8.0,
+  "E_coe": 10.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 81,
+  "nome_orig": "Mansion Snake",
+  "nome_rc1": "Guarda da Mansão",
+  "nome_coe": "Guarda da Mansão",
+  "lv": 21,
+  "file": [
+   "ene031_01",
+   "ene022_01",
+   "ene022_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   30,
+   -30,
+   30,
+   0
+  ],
+  "E_orig": 12.0,
+  "E_rc1": 12.0,
+  "E_coe": 12.0,
+  "morto": [],
+  "peso_sem_pow": []
+ },
+ {
+  "linha": 82,
+  "nome_orig": "Poisonous Snake",
+  "nome_rc1": "Serva Venenosa",
+  "nome_coe": "Corsária Venenosa",
+  "lv": 43,
+  "file": [
+   "ene031_01",
+   "ene022_01",
+   "ene014_01"
+  ],
+  "atk_orig": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "atk_rc1": [
+   40,
+   30,
+   0,
+   30
+  ],
+  "atk_coe": [
+   40,
+   15,
+   40,
+   5
+  ],
+  "pow": [
+   40,
+   -50,
+   0,
+   30
+  ],
+  "E_orig": 2.0,
+  "E_rc1": 10.0,
+  "E_coe": 10.0,
+  "morto": [],
+  "peso_sem_pow": [
+   3
+  ]
+ },
+ {
+  "linha": 95,
+  "nome_orig": "Ostrich Chicken",
+  "nome_rc1": "Batedor Saiyajin",
+  "nome_coe": "Batedor do Ermo",
+  "lv": 18,
+  "file": [
+   "ene036_01",
+   "ene200_01",
+   "ene012_01"
+  ],
+  "atk_orig": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   40,
+   20,
+   40,
+   0
+  ],
+  "pow": [
+   60,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 18.0,
+  "E_rc1": 11.4,
+  "E_coe": 24.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 96,
+  "nome_orig": "Sand Dodo",
+  "nome_rc1": "Batedor do Deserto",
+  "nome_coe": "Batedora do Deserto",
+  "lv": 43,
+  "file": [
+   "ene036_01",
+   "ene200_01",
+   "ene014_01"
+  ],
+  "atk_orig": [
+   20,
+   20,
+   20,
+   40
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   40,
+   15,
+   40,
+   5
+  ],
+  "pow": [
+   50,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 9.5,
+  "E_coe": 20.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 97,
+  "nome_orig": "Dododo",
+  "nome_rc1": "Elite Saiyajin",
+  "nome_coe": "Mercenário de Elite",
+  "lv": 80,
+  "file": [
+   "ene036_01",
+   "ene200_01",
+   "ene012_01"
+  ],
+  "atk_orig": [
+   10,
+   5,
+   5,
+   80
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   30,
+   20,
+   30,
+   20
+  ],
+  "pow": [
+   75,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 7.5,
+  "E_rc1": 14.25,
+  "E_coe": 22.5,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 98,
+  "nome_orig": "Firebird",
+  "nome_rc1": "Aviador Red Ribbon",
+  "nome_coe": "Piloto Renegado",
+  "lv": 48,
+  "file": [
+   "ene037_01",
+   "ene003_01",
+   "ene003_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 99,
+  "nome_orig": "Blue Hawk",
+  "nome_rc1": "Aviador Azul RR",
+  "nome_coe": "Piloto Mercenário",
+  "lv": 28,
+  "file": [
+   "ene037_01",
+   "ene003_01",
+   "ene003_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_coe": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   30,
+   0
+  ],
+  "E_orig": 9.0,
+  "E_rc1": 6.0,
+  "E_coe": 6.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 100,
+  "nome_orig": "Dark Condor",
+  "nome_rc1": "Aviador Sombrio RR",
+  "nome_coe": "Piloto Veterano",
+  "lv": 48,
+  "file": [
+   "ene037_01",
+   "ene003_01",
+   "ene003_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_coe": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   30,
+   0,
+   40,
+   0
+  ],
+  "E_orig": 24.0,
+  "E_rc1": 17.0,
+  "E_coe": 17.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 101,
+  "nome_orig": "Tiger",
+  "nome_rc1": "Soldado Saiyajin",
+  "nome_coe": "Arruaceiro do Bambu",
+  "lv": 8,
+  "file": [
+   "ene038_01",
+   "ene200_01",
+   "ene021_01"
+  ],
+  "atk_orig": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 102,
+  "nome_orig": "Snow Tiger",
+  "nome_rc1": "Soldado Glacial",
+  "nome_coe": "Mercenário da Neve",
+  "lv": 15,
+  "file": [
+   "ene038_01",
+   "ene200_01",
+   "ene010_01"
+  ],
+  "atk_orig": [
+   40,
+   20,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 103,
+  "nome_orig": "Dimensional Tiger",
+  "nome_rc1": "Soldado Dimensional",
+  "nome_coe": "Guardião da Floresta",
+  "lv": 46,
+  "file": [
+   "ene038_01",
+   "ene200_01",
+   "ene026_01"
+  ],
+  "atk_orig": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   30,
+   20,
+   30,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 104,
+  "nome_orig": "Wolf",
+  "nome_rc1": "Saibaman",
+  "nome_coe": "Atirador da Montanha",
+  "lv": 8,
+  "file": [
+   "ene039_01",
+   "ene001_01",
+   "ene012_01"
+  ],
+  "atk_orig": [
+   20,
+   40,
+   40,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   40,
+   20,
+   40,
+   0
+  ],
+  "pow": [
+   105,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 21.0,
+  "E_rc1": 52.5,
+  "E_coe": 42.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 105,
+  "nome_orig": "White Wolf",
+  "nome_rc1": "Saibaman Glacial",
+  "nome_coe": "Guerreira Errante",
+  "lv": 15,
+  "file": [
+   "ene039_01",
+   "ene001_01",
+   "ene008_01"
+  ],
+  "atk_orig": [
+   20,
+   40,
+   40,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   0,
+   20
+  ],
+  "pow": [
+   106,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 21.2,
+  "E_rc1": 53.0,
+  "E_coe": 53.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 106,
+  "nome_orig": "Red Wolf",
+  "nome_rc1": "Saibaman Rubro",
+  "nome_coe": "Atirador Veterano",
+  "lv": 48,
+  "file": [
+   "ene039_01",
+   "ene001_01",
+   "ene012_01"
+  ],
+  "atk_orig": [
+   20,
+   30,
+   20,
+   30
+  ],
+  "atk_rc1": [
+   50,
+   40,
+   10,
+   0
+  ],
+  "atk_coe": [
+   30,
+   20,
+   30,
+   20
+  ],
+  "pow": [
+   107,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 21.4,
+  "E_rc1": 53.5,
+  "E_coe": 32.1,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 107,
+  "nome_orig": "Stray Dog",
+  "nome_rc1": "Desertor Red Ribbon",
+  "nome_coe": "Desertor Red Ribbon",
+  "lv": 18,
+  "file": [
+   "ene040_01",
+   "ene005_01",
+   "ene005_01"
+  ],
+  "atk_orig": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "atk_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   30,
+   0,
+   10,
+   0
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 15.0,
+  "E_coe": 15.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2
+  ]
+ },
+ {
+  "linha": 108,
+  "nome_orig": "Red Ribbon Spy Dog",
+  "nome_rc1": "Espião Red Ribbon",
+  "nome_coe": "Espião Red Ribbon",
+  "lv": 30,
+  "file": [
+   "ene040_01",
+   "ene005_01",
+   "ene005_01"
+  ],
+  "atk_orig": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "atk_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   30,
+   0,
+   10,
+   0
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 15.0,
+  "E_coe": 15.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2
+  ]
+ },
+ {
+  "linha": 109,
+  "nome_orig": "Super Watchdog",
+  "nome_rc1": "Sentinela Red Ribbon",
+  "nome_coe": "Sentinela Pirata",
+  "lv": 43,
+  "file": [
+   "ene040_01",
+   "ene005_01",
+   "ene014_01"
+  ],
+  "atk_orig": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "atk_rc1": [
+   30,
+   30,
+   40,
+   0
+  ],
+  "atk_coe": [
+   40,
+   15,
+   40,
+   5
+  ],
+  "pow": [
+   30,
+   0,
+   10,
+   0
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 13.0,
+  "E_coe": 16.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 110,
+  "nome_orig": "Wild Boar",
+  "nome_rc1": "Brutamontes Saiyajin",
+  "nome_coe": "Brutamontes do Ermo",
+  "lv": 18,
+  "file": [
+   "ene041_01",
+   "ene200_01",
+   "ene013_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   25,
+   15,
+   40,
+   20
+  ],
+  "pow": [
+   30,
+   0,
+   30,
+   0
+  ],
+  "E_orig": 21.0,
+  "E_rc1": 11.1,
+  "E_coe": 19.5,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 111,
+  "nome_orig": "Champion Boar",
+  "nome_rc1": "Brutamontes Campeão",
+  "nome_coe": "Lutador Veterano",
+  "lv": 46,
+  "file": [
+   "ene041_01",
+   "ene200_01",
+   "ene021_01"
+  ],
+  "atk_orig": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   40,
+   0,
+   50,
+   30
+  ],
+  "E_orig": 28.0,
+  "E_rc1": 30.1,
+  "E_coe": 30.0,
+  "morto": [
+   4
+  ],
+  "peso_sem_pow": [
+   2
+  ]
+ },
+ {
+  "linha": 112,
+  "nome_orig": "Snow Boar",
+  "nome_rc1": "Brutamontes Glacial",
+  "nome_coe": "Brutamontes Glacial",
+  "lv": 35,
+  "file": [
+   "ene041_01",
+   "ene200_01",
+   "ene013_01"
+  ],
+  "atk_orig": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "atk_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "atk_coe": [
+   30,
+   15,
+   35,
+   20
+  ],
+  "pow": [
+   50,
+   0,
+   0,
+   50
+  ],
+  "E_orig": 30.0,
+  "E_rc1": 32.0,
+  "E_coe": 25.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 113,
+  "nome_orig": "Hungry Bear",
+  "nome_rc1": "Saibaman Faminto",
+  "nome_coe": "Saqueador do Ermo",
+  "lv": 18,
+  "file": [
+   "ene042_01",
+   "ene001_01",
+   "ene023_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 114,
+  "nome_orig": "Snow Bear",
+  "nome_rc1": "Saibaman das Neves",
+  "nome_coe": "Bandida Glacial",
+  "lv": 15,
+  "file": [
+   "ene042_01",
+   "ene001_01",
+   "ene008_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   40,
+   20,
+   20,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 115,
+  "nome_orig": "Strong Bear",
+  "nome_rc1": "Saibaman Feroz",
+  "nome_coe": "Mestre Errante",
+  "lv": 46,
+  "file": [
+   "ene042_01",
+   "ene001_01",
+   "ene021_01"
+  ],
+  "atk_orig": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 116,
+  "nome_orig": "Dangerous Panda",
+  "nome_rc1": "Saibaman do Bambu",
+  "nome_coe": "Discípulo Expulso",
+  "lv": 8,
+  "file": [
+   "ene042_02",
+   "ene001_01",
+   "ene020_01"
+  ],
+  "atk_orig": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   50,
+   40,
+   10,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 117,
+  "nome_orig": "Snow Panda",
+  "nome_rc1": "Saibaman da Nevasca",
+  "nome_coe": "Guardião Peregrino",
+  "lv": 21,
+  "file": [
+   "ene042_02",
+   "ene001_01",
+   "ene026_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   30,
+   20,
+   30,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   50,
+   0
+  ],
+  "E_orig": 15.0,
+  "E_rc1": 10.0,
+  "E_coe": 15.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 118,
+  "nome_orig": "Ultimate Pandaman",
+  "nome_rc1": "Saibaman Supremo",
+  "nome_coe": "Corsária Veterana",
+  "lv": 43,
+  "file": [
+   "ene042_02",
+   "ene001_01",
+   "ene014_01"
+  ],
+  "atk_orig": [
+   40,
+   0,
+   30,
+   30
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   40,
+   15,
+   40,
+   5
+  ],
+  "pow": [
+   0,
+   0,
+   50,
+   0
+  ],
+  "E_orig": 15.0,
+  "E_rc1": 10.0,
+  "E_coe": 20.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 119,
+  "nome_orig": "Giant Fish",
+  "nome_rc1": "Robô Pirata",
+  "nome_coe": "Robô Patrulheiro",
+  "lv": 28,
+  "file": [
+   "ene043_01",
+   "ene002_01",
+   "ene002_01"
+  ],
+  "atk_orig": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_rc1": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "atk_coe": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pow": [
+   0,
+   30,
+   0,
+   0
+  ],
+  "E_orig": 9.0,
+  "E_rc1": 6.0,
+  "E_coe": 6.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 120,
+  "nome_orig": "Wild Fish",
+  "nome_rc1": "Robô Pirata Selvagem",
+  "nome_coe": "Robô da Caverna",
+  "lv": 35,
+  "file": [
+   "ene043_01",
+   "ene002_01",
+   "ene002_01"
+  ],
+  "atk_orig": [
+   50,
+   0,
+   30,
+   20
+  ],
+  "atk_rc1": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "atk_coe": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   50
+  ],
+  "E_orig": 10.0,
+  "E_rc1": 15.0,
+  "E_coe": 15.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 121,
+  "nome_orig": "Sand Fish",
+  "nome_rc1": "Robô Pirata das Areias",
+  "nome_coe": "Robô das Areias",
+  "lv": 30,
+  "file": [
+   "ene043_01",
+   "ene002_01",
+   "ene002_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   0,
+   30
+  ],
+  "atk_rc1": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "atk_coe": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pow": [
+   0,
+   50,
+   0,
+   30
+  ],
+  "E_orig": 24.0,
+  "E_rc1": 19.0,
+  "E_coe": 19.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   3
+  ]
+ },
+ {
+  "linha": 131,
+  "nome_orig": "Giant Bat",
+  "nome_rc1": "Vampiro",
+  "nome_coe": "Vampiro Errante",
+  "lv": 8,
+  "file": [
+   "ene047_01",
+   "ene045_01",
+   "ene045_01"
+  ],
+  "atk_orig": [
+   30,
+   40,
+   0,
+   30
+  ],
+  "atk_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 132,
+  "nome_orig": "Vampire Bat",
+  "nome_rc1": "Vampiro Sanguinário",
+  "nome_coe": "Vampiro Sanguinário",
+  "lv": 24,
+  "file": [
+   "ene047_01",
+   "ene045_01",
+   "ene045_01"
+  ],
+  "atk_orig": [
+   30,
+   25,
+   25,
+   20
+  ],
+  "atk_rc1": [
+   20,
+   30,
+   30,
+   20
+  ],
+  "atk_coe": [
+   20,
+   30,
+   30,
+   20
+  ],
+  "pow": [
+   0,
+   30,
+   0,
+   0
+  ],
+  "E_orig": 7.5,
+  "E_rc1": 9.0,
+  "E_coe": 9.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 133,
+  "nome_orig": "King Bat",
+  "nome_rc1": "Rei Vampiro",
+  "nome_coe": "Vampiro Ancião",
+  "lv": 40,
+  "file": [
+   "ene047_01",
+   "ene045_01",
+   "ene045_01"
+  ],
+  "atk_orig": [
+   30,
+   25,
+   20,
+   25
+  ],
+  "atk_rc1": [
+   20,
+   30,
+   20,
+   30
+  ],
+  "atk_coe": [
+   20,
+   30,
+   20,
+   30
+  ],
+  "pow": [
+   0,
+   50,
+   0,
+   0
+  ],
+  "E_orig": 12.5,
+  "E_rc1": 15.0,
+  "E_coe": 15.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 134,
+  "nome_orig": "Big Crab",
+  "nome_rc1": "Capanga",
+  "nome_coe": "Capanga da Caverna",
+  "lv": 35,
+  "file": [
+   "ene051_01",
+   "ene016_01",
+   "ene016_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 135,
+  "nome_orig": "Giant Crab",
+  "nome_rc1": "Capanga Gigante",
+  "nome_coe": "Capanga da Fonte",
+  "lv": 28,
+  "file": [
+   "ene051_01",
+   "ene016_01",
+   "ene016_01"
+  ],
+  "atk_orig": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   0,
+   40,
+   30,
+   30
+  ],
+  "atk_coe": [
+   0,
+   40,
+   30,
+   30
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "E_orig": 0.0,
+  "E_rc1": 0.0,
+  "E_coe": 0.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "linha": 136,
+  "nome_orig": "Dark Crab",
+  "nome_rc1": "Capanga Sombrio",
+  "nome_coe": "Capanga Sombrio",
+  "lv": 45,
+  "file": [
+   "ene051_01",
+   "ene016_01",
+   "ene016_01"
+  ],
+  "atk_orig": [
+   15,
+   15,
+   35,
+   35
+  ],
+  "atk_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_coe": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   0,
+   50,
+   0,
+   30
+  ],
+  "E_orig": 18.0,
+  "E_rc1": 21.0,
+  "E_coe": 21.0,
+  "morto": [],
+  "peso_sem_pow": [
+   1,
+   3
+  ]
+ },
+ {
+  "linha": 149,
+  "nome_orig": "Tumble Bug",
+  "nome_rc1": "Recruta Red Ribbon",
+  "nome_coe": "Recruta Renegado",
+  "lv": 3,
+  "file": [
+   "ene058_01",
+   "ene006_01",
+   "ene006_01"
+  ],
+  "atk_orig": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   -70,
+   0,
+   0,
+   50
+  ],
+  "E_orig": -18.0,
+  "E_rc1": -35.0,
+  "E_coe": -35.0,
+  "morto": [
+   4
+  ],
+  "peso_sem_pow": [
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 150,
+  "nome_orig": "Fire Caterpillar",
+  "nome_rc1": "Recruta Incendiário",
+  "nome_coe": "Soldado Incendiário",
+  "lv": 15,
+  "file": [
+   "ene058_01",
+   "ene006_01",
+   "ene006_01"
+  ],
+  "atk_orig": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   -70,
+   0,
+   0,
+   100
+  ],
+  "E_orig": -1.0,
+  "E_rc1": -35.0,
+  "E_coe": -35.0,
+  "morto": [
+   4
+  ],
+  "peso_sem_pow": [
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 151,
+  "nome_orig": "Caterpillar",
+  "nome_rc1": "Recruta Veterano",
+  "nome_coe": "Aprendiz da Floresta",
+  "lv": 24,
+  "file": [
+   "ene058_01",
+   "ene006_01",
+   "ene017_01"
+  ],
+  "atk_orig": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   0,
+   30
+  ],
+  "pow": [
+   -70,
+   0,
+   0,
+   100
+  ],
+  "E_orig": -1.0,
+  "E_rc1": -35.0,
+  "E_coe": 2.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2
+  ]
+ },
+ {
+  "linha": 155,
+  "nome_orig": "Roundworm",
+  "nome_rc1": "Saibaman Escavador",
+  "nome_coe": "Batedor Escavador",
+  "lv": 18,
+  "file": [
+   "ene060_01",
+   "ene001_01",
+   "ene023_01"
+  ],
+  "atk_orig": [
+   30,
+   40,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   60,
+   0,
+   162,
+   0
+  ],
+  "E_orig": 66.6,
+  "E_rc1": 30.0,
+  "E_coe": 62.4,
+  "morto": [],
+  "peso_sem_pow": [
+   2
+  ]
+ },
+ {
+  "linha": 156,
+  "nome_orig": "Dark Firefly",
+  "nome_rc1": "Saibaman Noturno",
+  "nome_coe": "Lutador Noturno",
+  "lv": 46,
+  "file": [
+   "ene060_01",
+   "ene001_01",
+   "ene020_01"
+  ],
+  "atk_orig": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   60,
+   0,
+   163,
+   0
+  ],
+  "E_orig": 72.9,
+  "E_rc1": 30.0,
+  "E_coe": 72.9,
+  "morto": [],
+  "peso_sem_pow": [
+   2
+  ]
+ },
+ {
+  "linha": 157,
+  "nome_orig": "Poison Sandbug",
+  "nome_rc1": "Saibaman Venenoso",
+  "nome_coe": "Batedor Venenoso",
+  "lv": 30,
+  "file": [
+   "ene060_01",
+   "ene001_01",
+   "ene012_01"
+  ],
+  "atk_orig": [
+   20,
+   30,
+   50,
+   0
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   60,
+   0,
+   164,
+   0
+  ],
+  "E_orig": 94.0,
+  "E_rc1": 30.0,
+  "E_coe": 50.8,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 161,
+  "nome_orig": "Roundworm Larva",
+  "nome_rc1": "Broto Escavador",
+  "nome_coe": "Recruta Escavador",
+  "lv": 18,
+  "file": [
+   "ene061_01",
+   "ene001_01",
+   "ene008_01"
+  ],
+  "atk_orig": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   50,
+   30,
+   0,
+   20
+  ],
+  "pow": [
+   -30,
+   0,
+   0,
+   0
+  ],
+  "E_orig": -9.0,
+  "E_rc1": -15.0,
+  "E_coe": -15.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   4
+  ]
+ },
+ {
+  "linha": 162,
+  "nome_orig": "Firefly Larva",
+  "nome_rc1": "Broto Noturno",
+  "nome_coe": "Aprendiz Noturno",
+  "lv": 46,
+  "file": [
+   "ene061_01",
+   "ene001_01",
+   "ene017_01"
+  ],
+  "atk_orig": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   30,
+   40,
+   30,
+   0
+  ],
+  "pow": [
+   -30,
+   0,
+   0,
+   0
+  ],
+  "E_orig": -9.0,
+  "E_rc1": -15.0,
+  "E_coe": -9.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3
+  ]
+ },
+ {
+  "linha": 163,
+  "nome_orig": "Sandbug Larva",
+  "nome_rc1": "Broto Venenoso",
+  "nome_coe": "Batedora Venenosa",
+  "lv": 30,
+  "file": [
+   "ene061_01",
+   "ene001_01",
+   "ene014_01"
+  ],
+  "atk_orig": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "atk_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "atk_coe": [
+   40,
+   15,
+   40,
+   5
+  ],
+  "pow": [
+   -30,
+   0,
+   0,
+   0
+  ],
+  "E_orig": -9.0,
+  "E_rc1": -15.0,
+  "E_coe": -12.0,
+  "morto": [],
+  "peso_sem_pow": [
+   2,
+   3,
+   4
+  ]
+ }
+]

@@ -1,0 +1,33 @@
+SHA-256 lancamento 408815b99220a72c9947f3ff902748f10a916b6ff06989198a809cc161637595
+SHA-256 teste      3281164cfcd19d20fb7cb04170d57e41fb4f1f0b629f5ea03563d012134f4c3f
+arquivos no NitroFS: 7010 | diferentes: 21
+    script/cf0/tut/tut01_00.sb
+    script/cf0/tut/tut02_00.sb
+    script/cf1/c00/c0002_01.sb
+    script/EN/cf0/tut/tut01_00.sb
+    script/EN/cf0/tut/tut02_00.sb
+    script/EN/cf1/c00/c0002_01.sb
+    script/FR/cf0/tut/tut01_00.sb
+    script/FR/cf0/tut/tut02_00.sb
+    script/FR/cf1/c00/c0002_01.sb
+    script/GR/cf0/tut/tut01_00.sb
+    script/GR/cf0/tut/tut02_00.sb
+    script/GR/cf1/c00/c0002_01.sb
+    script/IT/cf0/tut/tut01_00.sb
+    script/IT/cf0/tut/tut02_00.sb
+    script/IT/cf1/c00/c0002_01.sb
+    script/SP/cf0/tut/tut01_00.sb
+    script/SP/cf0/tut/tut02_00.sb
+    script/SP/cf1/c00/c0002_01.sb
+    script/US/cf0/tut/tut01_00.sb
+    script/US/cf0/tut/tut02_00.sb
+    script/US/cf1/c00/c0002_01.sb
+bytes diferentes fora desses arquivos e da FAT: 0
+cabecalho 0x000-0x200 igual: True
+sprite btl/ene/ene021_01.chr 331e4d3624309baf == 331e4d3624309baf True
+nome em btl/bdat/EN/bdat.bin e0d25ab38a240d3d == e0d25ab38a240d3d True
+nome em btl/bdat/FR/bdat.bin 5c3c36e603fb0caf == 5c3c36e603fb0caf True
+nome em btl/bdat/GR/bdat.bin 0de2e85527baf07e == 0de2e85527baf07e True
+nome em btl/bdat/IT/bdat.bin 90c65a84d73a7965 == 90c65a84d73a7965 True
+nome em btl/bdat/SP/bdat.bin 089e49c1d18ea552 == 089e49c1d18ea552 True
+nome em btl/bdat/US/bdat.bin ece71c4d9002b506 == ece71c4d9002b506 True

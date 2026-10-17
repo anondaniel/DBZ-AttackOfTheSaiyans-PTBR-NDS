@@ -1,0 +1,1202 @@
+### 0 [cf1/c09/c0901_00.sb]
+<p>All right, now!<n>Everyone stay in line and<n>keep moving!<k><p>You over there!! Don't make<n>two lines!<n>Please, just stay in one line!<k>
+### 1 [cf1/c09/c0901_01.sb]
+<p>...And so, I brought Goku to<n>receive training, body intact.<k><p>Please, King Yemma, allow him to<n>visit King Kai.<k>
+### 2 [cf1/c09/c0901_01.sb]
+<p>Hmm, I see... Goku, huh?<n>Certainly, his achievements<n>have been exceptional...<k><p>But are you saying...<k><p>You would allow someone who is<n>Heaven-bound to make the dangerous<n>journey across Snake Way to see<n>King Kai?<k>
+### 3 [cf1/c09/c0901_01.sb]
+<p>Yes.<k>
+### 4 [cf1/c09/c0901_01.sb]
+<p>Hey, does everyone who dies<n>come here?<k>
+### 5 [cf1/c09/c0901_01.sb]
+<p>That's right.<k>
+### 6 [cf1/c09/c0901_01.sb]
+<p>Even aliens?<k>
+### 7 [cf1/c09/c0901_01.sb]
+<p>Well,<n>you were an alien too, right?<k><p>All who perish come here and are<n>judged and then sent<n>to Heaven or Hell...<k>
+### 8 [cf1/c09/c0901_01.sb]
+<p>Did someone called Raditz come<n>through here?<k>
+### 9 [cf1/c09/c0901_01.sb]
+<p>Goku...!<n>Be careful not to be rude!<k>
+### 10 [cf1/c09/c0901_01.sb]
+<p>Yeah, he did.<n>Your brother, right?<n>Naturally, I sent him to Hell...<k>
+### 11 [cf1/c09/c0901_01.sb]
+<p>Did he fight back?<k>
+### 12 [cf1/c09/c0901_01.sb]
+<p>That he did.<n>He fought, but I took care of him.<k>
+### 13 [cf1/c09/c0901_01.sb]
+<p>Wow!<n>You must be pretty strong to be<n>able to handle someone like that!<k>
+### 14 [cf1/c09/c0901_01.sb]
+<p>Maybe I should get training<n>from this guy!<k>
+### 15 [cf1/c09/c0901_01.sb]
+<p>Shhh!<k><p>Keep your voice down!<n>You shouldn't talk that way in<n>front of King Yemma!<k><p>King Kai is even stronger anyway.<k>
+### 16 [cf1/c09/c0901_01.sb]
+<p>Hmm.<k><p>I heard that, Kami of Earth.<n>Maybe I'll give you passage to<n>Hell when your time comes...<k>
+### 17 [cf1/c09/c0901_01.sb]
+<p>Oh, please forgive me!<n>I didn't think you would hear...!<k><p>What superb hearing you have...<k>
+### 18 [cf1/c09/c0901_01.sb]
+<p>...Don't worry.<n>I was just joking.<k>
+### 19 [cf1/c09/c0901_01.sb]
+<p>All right!<n>If you want to go that bad,<n>I will allow you passage.<k>
+### 20 [cf1/c09/c0901_01.sb]
+<p>Oh, thank you King Yemma!<k>
+### 21 [cf1/c09/c0901_01.sb]
+<p>I'll call a guide.<k><p>Go out that way and wait.<n>But just so you know,<n>if you fall off Snake Way,<n>no one can help you.<k>
+### 22 [cf1/c09/c0901_01.sb]
+<p>Farewell, Goku...<n>Don't give up.<n>This will be a hard year.<k>
+### 23 [cf1/c09/c0901_01.sb]
+<p>Well,<n>I don't really understand it all,<n>but I'll be back!<k><p>Thanks!<n>Tell Mr. Popo I said <d>Hi<d>!<k>
+### 24 [cf1/c09/c0901_01.sb]
+<p>Earth has certainly found a lot of<n>trouble this time...<k><p>This just might be too close<n>to call...<k>
+### 25 [cf1/c09/c0901_01.sb]
+<p>Even if we were to ask Shenron to<n>destroy the Saiyans...<k><p>...He might not be able to stand<n>up against such power...<k>
+### 26 [cf1/c09/c0901_01.sb]
+<p>Now we must wait for Goku to train<n>under King Kai...<k><p>...And see just how much<n>stronger he can become...<k>
+### 27 [cf1/c09/c0901_01.sb]
+<p>Goku's son, Gohan, is our only<n>other hope...<k><p>I must keep an eye on<n>his development...<k>
+### 28 [cf1/c09/c0901_01.sb]
+<p>Quiet down!<n>You're getting in the way!!<n>If you're through here,<n>then leave already!!!<k>
+### 29 [cf1/c09/c0901_01.sb]
+<p>Gah!!<k>
+### 30 [cf1/c09/c0902_00.sb]
+<p>Sorry to keep you waiting.<n>I will now show you to the head<n>of the snake.<k><p>Snake Way should prove a<n>rough road.<n>Are you in good shape, sir?<k>
+### 31 [cf1/c09/c0902_00.sb]
+<p>Well...<k><p>I died, so I don't think I<n>am really...<k>
+### 32 [cf1/c09/c0902_00.sb]
+<p>What's King Kai like anyway?<k>
+### 33 [cf1/c09/c0902_00.sb]
+<p>King Kai rules over and stands<n>atop the whole universe.<k>
+### 34 [cf1/c09/c0902_00.sb]
+<p>Here we are.<k>
+### 35 [cf1/c09/c0902_00.sb]
+<p>Wow!<n>So... This is Snake Way, huh?!<n>Now what?<k>
+### 36 [cf1/c09/c0902_00.sb]
+<p>All you have to do is follow the<n>road and it will lead you to where<n>King Kai resides.<k>
+### 37 [cf1/c09/c0902_00.sb]
+<p>Looks pretty long...<k>
+### 38 [cf1/c09/c0902_00.sb]
+<p>They say it is about 600,000<n>miles long.<k>
+### 39 [cf1/c09/c0902_00.sb]
+<p>600,000 miles?!<n>Has anyone ever made it to<n>the end?<k>
+### 40 [cf1/c09/c0902_00.sb]
+<p>In the last ten million years,<n>I believe only King Yemma<n>has made the journey...<k>
+### 41 [cf1/c09/c0902_00.sb]
+<p>That big guy?<k><p>Well, as long as someone<n>has made it before,<n>I might have a chance...<k>
+### 42 [cf1/c09/c0902_00.sb]
+<p>Make sure you are careful not to<n>fall into the clouds.<k><p>Hell lies below and you will<n>never be able to come back.<k>
+### 43 [cf1/c09/c0902_00.sb]
+<p>Oh, OK.<k>
+### 44 [cf1/c09/c0902_00.sb]
+<p>I really should have brought<n>something to eat...<k>
+### 45 [cf1/c09/c0902_00.sb]
+<p>Nothing to worry about.<k><p>Since you are no longer living,<n>there should be no chance of you<n>dying of hunger.<k>
+### 46 [cf1/c09/c0902_00.sb]
+<p>Oh yeah!<n>I've got a favor I wanna ask.<n>Do you know Baba?<k>
+### 47 [cf1/c09/c0902_00.sb]
+<p>Well, yes.<n>She visits on occasion...<k>
+### 48 [cf1/c09/c0902_00.sb]
+<p>Great!<k><p>Next time you see her,<n>tell her to tell Master Roshi to<n>wait a year to bring me back!<k>
+### 49 [cf1/c09/c0902_00.sb]
+<p>All right.<k><p>So, wait one year...<n>Master Roshi...<k>
+### 50 [cf1/c09/c0902_00.sb]
+<p>Well, here goes nothing!<n>So, I just have to be careful not<n>to fall off, right?<k>
+### 51 [cf1/c09/c0902_00.sb]
+<p>Yes, that's right.<k>
+### 52 [cf1/c09/c0902_00.sb]
+<p>Time to fly!!!<k>
+### 53 [cf1/c09/c0902_00.sb]
+<p>That's cheating...<k>
+### 54 [cf1/c09/c0903_00.sb]
+<p>?<k>
+### 55 [cf1/c09/c0903_00.sb]
+<p>Hey there!!<n>What are you doing?<k>
+### 56 [cf1/c09/c0903_00.sb]
+<p>What do ya think I'm doing?<n>King Yemma asked me to clean<n>the road.<k>
+### 57 [cf1/c09/c0903_00.sb]
+<p>Oh, really?<n>Well, I'm off to see King Kai!<k>
+### 58 [cf1/c09/c0903_00.sb]
+<p>Huh?!<n>King Kai?<k><p>Never heard of anyone trying to<n>do such a crazy thing!<k>
+### 59 [cf1/c09/c0903_00.sb]
+<p>Is it still a ways to go?<k>
+### 60 [cf1/c09/c0903_00.sb]
+<p>Don't be stupid!<k><p>You're still only a quarter of<n>the way there!<k>
+### 61 [cf1/c09/c0903_00.sb]
+<p>What?!<n>Only a quarter of the way?!<n>It sure is far!<k>
+### 62 [cf1/c09/c0903_00.sb]
+<p>Hey!<n>What're you doing?<k>
+### 63 [cf1/c09/c0903_00.sb]
+<p>Taking a little break!<k>
+### 64 [cf1/c09/c0903_00.sb]
+<p>I could take you part of the way, if ya want!<n>You can ride on the back!<k>
+### 65 [cf1/c09/c0903_00.sb]
+<p>Really?<n>Yahoo!!<k>
+### 66 [cf1/c09/c0903_00.sb]
+<p>OK, mister!!<k>
+### 67 [cf1/c09/c0903_00.sb]
+<p>All right.<n>Here we go!<k>
+### 68 [cf1/c09/c0903_01.sb]
+<p>*Snore... snore...*<n>Hi, King Kai... I'm Goku...<k>
+### 69 [cf1/c09/c0903_01.sb]
+<p>...Yow!<n>This training is tough...<k>
+### 70 [cf1/c09/c0903_01.sb]
+<p>That smarts...<n>Ouch, that's hot!<k>
+### 71 [cf1/c09/c0903_01.sb]
+<p>Huh?<n>What's this place?<k><p>I wonder if I made it all the way<n>to King Kai's place already...<k>
+### 72 [cf1/c09/c0903_01.sb]
+<p>...Huh?<n>That smells good!!<k>
+### 73 [cf1/c09/c0903_01.sb]
+<p>There!<n>That fruit looks pretty tasty...<k>
+### 74 [cf1/c09/c0903_01.sb]
+<p>?!?!<k>
+### 75 [cf1/c09/c0903_02.sb]
+<p>Who do you think you are?<n>Trying to take fruit from the<n>Yemma Tree...<k>
+### 76 [cf1/c09/c0903_02.sb]
+<p>...Huh?<n>I'm not allowed to eat this?<k>
+### 77 [cf1/c09/c0903_02.sb]
+<p>Course not!<k><p>Only King Yemma is allowed to<n>partake of the fruit...<k>
+### 78 [cf1/c09/c0903_02.sb]
+<p>Well... Hah hah...<n>I was just so hungry...<k>
+### 79 [cf1/c09/c0903_02.sb]
+Mez
+### 80 [cf1/c09/c0903_02.sb]
+<p>You were hungry?!<n>What kind of excuse is that...?<n>Just who are you, anyway?<k>
+### 81 [cf1/c09/c0903_02.sb]
+<p>What are you doing here?<k>
+### 82 [cf1/c09/c0903_02.sb]
+<p>...I'm Goku!<k><p>I came for special training...<n>So, which one of you is King Kai?<k>
+### 83 [cf1/c09/c0903_02.sb]
+<p>...King Kai??<k>
+### 84 [cf1/c09/c0903_02.sb]
+<p>You guys aren't King Kai?<k>
+### 85 [cf1/c09/c0903_02.sb]
+<p>Of course we're not!<n>Where do you think you are?!<k>
+### 86 [cf1/c09/c0903_02.sb]
+<p>This is Hell...<n>Area 1, Sector 3.<k>
+### 87 [cf1/c09/c0903_02.sb]
+<p>And we ogres are the guardians<n>of this place!<k>
+### 88 [cf1/c09/c0903_02.sb]
+<p>What?!<n>This is Hell??<k><p>...That means I must have fallen<n>off Snake Way!!<k>
+### 89 [cf1/c09/c0903_03.sb]
+<p>...What're you doing?<k>
+### 90 [cf1/c09/c0903_03.sb]
+<p>...Me?<k><p>I wanna get back to Snake Way!<k>
+### 91 [cf1/c09/c0903_03.sb]
+<p>Hee hee hee...<k><p>You wanna get back that badly?<n>I'm the second strongest ogre next to King Yemma!<k>
+### 92 [cf1/c09/c0903_03.sb]
+<p>I heard King Yemma was<n>really strong...<n>Must not be as strong as<n>I thought...<k>
+### 93 [cf1/c09/c0903_03.sb]
+<p>Hah hah hah!<n>How about finding out for yourself?!<k>
+### 94 [cf1/c09/c0903_03.sb]
+<p>I don't have the time...<k>
+### 95 [cf1/c09/c0903_03.sb]
+<p>If you win,<n>I'll arrange it so you get back<n>to Snake Way!<k>
+### 96 [cf1/c09/c0903_03.sb]
+<p>Really?!?!<k>
+### 97 [cf1/c09/c0903_03.sb]
+<p>We don't lie...<n>Lying will get your tongue pulled<n>out by King Yemma...<k>
+### 98 [cf1/c09/c0903_03.sb]
+<p>OK!<n>I'll do it!<k>
+### 99 [cf1/c09/c0903_03.sb]
+<p>If you lose,<n>we get to take your soul...<k>
+### 100 [cf1/c09/c0903_03.sb]
+<p>OK!<n>I'm gonna win anyway!<k>
+### 101 [cf1/c09/c0903_03.sb]
+<p>All right,<n>whenever you're ready let us know!<k>
+### 102 [cf1/c09/c0903_04.sb]
+<p>How long are you gonna keep<n>playing around?!<k>
+### 103 [cf1/c09/c0903_04.sb]
+<p>I gotta hurry up and get to<n>King Kai's place!<k>
+### 104 [cf1/c09/c0903_04.sb]
+<p>Hey, you!<k><p>...You wanna get back up on<n>Snake Way, right?<k><p>In that case,<n>I've got a good idea!<k>
+### 105 [cf1/c09/c0903_04.sb]
+<p>Really?<n>Tell me!<k>
+### 106 [cf1/c09/c0903_04.sb]
+<p>It's a secret passage that no<n>one knows about...<k>
+### 107 [cf1/c09/c0903_04.sb]
+<p>Mez!<n>We can't tell him about that!<k>
+### 108 [cf1/c09/c0903_04.sb]
+<p>Tell me!!<n>Please!!<k>
+### 109 [cf1/c09/c0903_04.sb]
+<p>...Only on one condition!<k>
+### 110 [cf1/c09/c0903_04.sb]
+<p>Condition?<k>
+### 111 [cf1/c09/c0903_04.sb]
+<p>I'm gonna set off running...<k><p>If you can catch me,<n>I'll tell you about the<n>secret passage...<k>
+### 112 [cf1/c09/c0903_04.sb]
+<p>Like tag?<k>
+### 113 [cf1/c09/c0903_04.sb]
+<p>That's right!<n>But this time it's no<n>ordinary game!!<k><p>We'll get started once<n>you're ready!<k>
+### 114 [cf1/c09/c0904_00.sb]
+<p>...You ready?<k>
+### 115 [cf1/c09/c0904_00.sb]
+<p>I'm always ready!<k>
+### 116 [cf1/c09/c0904_00.sb]
+<p>Just so you know,<n>I'm the second fastest runner<n>next to King Yemma...<k><p>So, if you lose...<k>
+### 117 [cf1/c09/c0904_00.sb]
+<p>I know, I know!<n>Let's hurry up and get started!<k>
+### 118 [cf1/c09/c0904_00.sb]
+<p>OK!<n>Here we go then!<n>Ready... Set... Go!!!<k>
+### 119 [cf1/c09/c0904_00.sb]
+<p>Whoa!<n>This guy's fast!!<k>
+### 120 [cf1/c09/c0904_01.sb]
+<p>...Wait up!<n>I'm getting tired...<k>
+### 121 [cf1/c09/c0904_01.sb]
+<p>*Pant pant...*<n>What a lazy bum...<k>
+### 122 [cf1/c09/c0904_01.sb]
+<p>Hey, let me have a piece of<n>fruit from that tree...<k>
+### 123 [cf1/c09/c0904_01.sb]
+<p>No!!<k><p>Eating just one of those would let<n>you go 100 days without eating.<k><p>That fruit would also give you<n>a huge boost in power...<k>
+### 124 [cf1/c09/c0904_01.sb]
+<p>Oh...<n>That's some pretty special fruit...<k>
+### 125 [cf1/c09/c0904_01.sb]
+<p>That's right...<k>
+### 126 [cf1/c09/c0904_01.sb]
+<p>...?<n>Huh...?!?!<k>
+### 127 [cf1/c09/c0904_01.sb]
+<p>Hah!<n>Got some!!<k>
+### 128 [cf1/c09/c0904_01.sb]
+<p>Hey!! Wait!!<n>If you ate that,<n>we'd be in big trouble!!<k>
+### 129 [cf1/c09/c0904_01.sb]
+<p>There, I got you!<n>Yahoo!!<k>
+### 130 [cf1/c09/c0904_01.sb]
+<p>Now, you promised.<n>Tell me the way out!<k>
+### 131 [cf1/c09/c0904_01.sb]
+<p>No fair, you got me off guard!<n>Just one more time...<k>
+### 132 [cf1/c09/c0904_01.sb]
+<p>Are you gonna break your promise?<n>Do you want your tongue ripped<n>out by King Yemma?!<k>
+### 133 [cf1/c09/c0904_01.sb]
+<p>Gah...<n>...All right, it's over there...<k>
+### 134 [cf1/c09/c0904_02.sb]
+<p>If you go up these stairs,<n>they'll take you back to<n>Snake Way...<k>
+### 135 [cf1/c09/c0904_02.sb]
+<p>OK! See ya then!<k>
+### 136 [cf1/c09/c0904_02.sb]
+<p>Go on, get outta here!<k>
+### 137 [cf1/c09/c0904_02.sb]
+<p>I'll be taking a piece of fruit<n>for the road!<k><p>Running around with you guys<n>works up an appetite!<k>
+### 138 [cf1/c09/c0904_02.sb]
+<p>Hey!!!<k>
+### 139 [cf1/c09/c0904_02.sb]
+<p>See ya!<k>
+### 140 [cf1/c09/c0904_02.sb]
+<p>That lousy...!<k>
+### 141 [cf1/c09/c0904_02.sb]
+<p>Don't bother showing your face<n>around here again!<k>
+### 142 [cf1/c09/c0904_03.sb]
+<p>Huh?<n>What's this place?<k>
+### 143 [cf1/c09/c0904_03.sb]
+<p>Hey...<n>What are you doing here?<k>
+### 144 [cf1/c09/c0904_03.sb]
+<p>Gahhh!<n>K-King Yemma...!<k>
+### 145 [cf1/c09/c0904_03.sb]
+<p>Did you meet with King<n>Kai already??<k>
+### 146 [cf1/c09/c0904_03.sb]
+<p>Uh, umm...<n>Is this... where I think it is...?<k>
+### 147 [cf1/c09/c0904_03.sb]
+<p>I gotta go!!<k>
+### 148 [cf1/c09/c0904_03.sb]
+<p>...?<n>What's with him?<k>
+### 149 [cf1/c09/c0905_00.sb]
+<p>Huh?<n>That's...!<k>
+### 150 [cf1/c09/c0905_00.sb]
+<p>Maybe this is where King<n>Kai lives...<k>
+### 151 [cf1/c09/c0905_00.sb]
+<p>Guess I'll go inside and<n>find out!<k>
+### 152 [cf1/c09/c0905_01.sb]
+<p>Welcome!!<k><p>Looks like we have a guest!<n>Princess Snake is waiting!<n>Come on in!<k>
+### 153 [cf1/c09/c0905_01.sb]
+<p>Huh?<n>Princess Snake?<k>
+### 154 [cf1/c09/c0905_02.sb]
+<p>Mistress...<n>We have a guest...<k>
+### 155 [cf1/c09/c0905_02.sb]
+<p>...What?<n>A guest?<k>
+### 156 [cf1/c09/c0905_02.sb]
+<p>What a fine man...<n>Just my type.<k>
+### 157 [cf1/c09/c0905_02.sb]
+<p>...!<n>I didn't know King Kai was a girl!<k><p>And cute, too!<k>
+### 158 [cf1/c09/c0905_02.sb]
+<p>Oh, my!<n>Do you really think so?<k><p>How chivalrous...<n>Why, my heart won't<n>stop pounding...<k>
+### 159 [cf1/c09/c0905_02.sb]
+<p>Mistress hasn't been<n>this excited probably since King<n>Yemma paid a visit...<k>
+### 160 [cf1/c09/c0905_02.sb]
+<p>That's right.<n>He was also a gentleman<n>like you...<k><p>It's been what, 500 years now?<k>
+### 161 [cf1/c09/c0905_02.sb]
+<p>500 years?!<k>
+### 162 [cf1/c09/c0905_02.sb]
+<p>Ha!<k>
+### 163 [cf1/c09/c0905_02.sb]
+<p>Well, anyway!<n>King Kai, I'm ready to<n>start training!<k>
+### 164 [cf1/c09/c0905_02.sb]
+<p>This isn't King Kai!<k><p>This is the Princess Snake!<n>She was the crowned winner of<n>the afterlife beauty contest!<k>
+### 165 [cf1/c09/c0905_02.sb]
+<p>...What?<n>You're not King Kai?!<k>
+### 166 [cf1/c09/c0905_02.sb]
+<p>I'm leaving!<k>
+### 167 [cf1/c09/c0905_02.sb]
+<p>What? Y-You wouldn't...!<n>Wait, please...<k>
+### 168 [cf1/c09/c0905_02.sb]
+<p>I'm in a hurry!!<k>
+### 169 [cf1/c09/c0905_02.sb]
+<p>Please, don't leave...<k>
+### 170 [cf1/c09/c0905_02.sb]
+<p>Sorry, but I'm going.<n>Earth is waiting for me to<n>get back!<k>
+### 171 [cf1/c09/c0905_02.sb]
+<p>Are you sure you can't stay...?<k>
+### 172 [cf1/c09/c0905_02.sb]
+<p>I'm sure.<n>I've gotta go!!<k>
+### 173 [cf1/c09/c0905_02.sb]
+<p>How could you?!<k>
+### 174 [cf1/c09/c0905_02.sb]
+<p>I'm the goddess of Snake Way who has<n>lived here for 1500 years!<k><p>How could you embarrass me<n>like that?<k><p>You're not going anywhere,<n>you hear me?!<k>
+### 175 [cf1/c09/c0905_03.sb]
+<p>Yikes! This isn't good!<n>I better get outta here fast!<k>
+### 176 [cf1/c09/c0905_03.sb]
+<p>Wait right there!<n>I won't let you get away!!<k>
+### 177 [cf1/c09/c0905_04.sb]
+<p>Ha ha ha!<n>Cut you off!<n>You can't get away that easily!<k>
+### 178 [cf1/c09/c0905_04.sb]
+<p>...?<k><p>I gotta get to King<n>Kai's place!<n>Outta the way!!<k>
+### 179 [cf1/c09/c0905_04.sb]
+<p>Ha ha ha ha!!<n>Melt away, you sorry<n>excuse for a man!!<k>
+### 180 [cf1/c09/c0905_04.sb]
+<p>...Gah!!<k>
+### 181 [cf1/c09/c0906_00.sb]
+<p>...Later!<n>I'll be on my way now!<k>
+### 182 [cf1/c09/c0906_00.sb]
+<p>Noooo!!<k>
+### 183 [cf1/c09/c0906_00.sb]
+<p>I'm outta here!<k>
+### 184 [cf1/c09/c0907_00.sb]
+<p>*Pant... pant...*<k>
+### 185 [cf1/c09/c0907_00.sb]
+<p>I'm beat...<k><p>How much longer is this<n>gonna last...?<n>There's no end to it...<k><p>It'll take a year just to get to<n>King Kai at this rate...<k>
+### 186 [cf1/c09/c0907_00.sb]
+<p>There it is!!!<n>It's... the tail!<k><p>I did it!!<n>I finally made it!!!<k><p>......<n>......<k>
+### 187 [cf1/c09/c0907_00.sb]
+<p>Wait a second...<n>There's... nothing here...<k><p>Oh great!<n>You've gotta be kidding me!<k>
+### 188 [cf1/c09/c0907_00.sb]
+<p>There's some round thing<n>floating in the sky...<k>
+### 189 [cf1/c09/c0907_00.sb]
+<p>That's it!!<n>That's where King Kai is!<k><p>All right!!<k>
+### 190 [cf1/c09/c0907_01.sb]
+<p>Gah!<k>
+### 191 [cf1/c09/c0907_01.sb]
+<p>Ugh...!! Wh-what's with this place...?<k>
+### 192 [cf1/c09/c0907_01.sb]
+<p>I f-feel like I'm being<n>crushed into the ground...!<k><p>My body feels like lead!!<k>
+### 193 [cf1/c09/c0907_01.sb]
+<p>That... must be King Kai...<n>He doesn't look it,<n>but he must be pretty strong...<k>
+### 194 [cf1/c09/c0907_01.sb]
+<p>H-Hi. I'm Goku.<n>I'm here for training.<k>
+### 195 [cf1/c09/c0907_01.sb]
+<p>Oo-oo!<n>Oo-oo-aa!<k>
+### 196 [cf1/c09/c0907_01.sb]
+<p>Here we go!<n>I need to imitate your<n>movements, right?<k>
+### 197 [cf1/c09/c0907_01.sb]
+<p>Oo... Oo-oo! Aa-aa...!<n>Th-this is pretty tough!<k><p>King Kai, what's wrong with the<n>ground here?<k>
+### 198 [cf1/c09/c0907_01.sb]
+<p>Oo-oo! Oo-oo-aa!<k>
+### 199 [cf1/c09/c0907_01.sb]
+<p>Oo-oo...!<n>Oo-oo-aa...!!<k>
+### 200 [cf1/c09/c0907_01.sb]
+<p>Hey, what are you doing?<k>
+### 201 [cf1/c09/c0907_01.sb]
+<p>Hey...<n>...Who are you...?<k>
+### 202 [cf1/c09/c0907_01.sb]
+<p>Hee hee...<k>
+### 203 [cf1/c09/c0907_01.sb]
+<p>*Scratch scratch...*<k>
+### 204 [cf1/c09/c0907_01.sb]
+<p>Know how to find a flea bite?<k>
+### 205 [cf1/c09/c0907_01.sb]
+<p>...Start from scratch!<k><p>The king of laughs, King Kai, at your service!<k>
+### 206 [cf1/c09/c0907_01.sb]
+<p>Huh?!<n>Then... Who's that?<k>
+### 207 [cf1/c09/c0907_01.sb]
+<p>That's my pet, Bubbles.<k>
+### 208 [cf1/c09/c0907_01.sb]
+<p>Hah hah... <n>I thought a monkey being King Kai<n>seemed strange...<k>
+### 209 [cf1/c09/c0907_01.sb]
+<p>You're the strange one.<k>
+### 210 [cf1/c09/c0907_01.sb]
+<p>Anyway, what'd you think of<n>my joke?<k><n>Pretty hilarious, right?<n>You can laugh if you want to!<k>
+### 211 [cf1/c09/c0907_01.sb]
+<p>Huh? What joke?<k>
+### 212 [cf1/c09/c0907_01.sb]
+<p>......<k><p>You must have been so nervous<n>meeting me you didn't hear it...<k>
+### 213 [cf1/c09/c0907_01.sb]
+<p>Oh well, can't win 'em all...<k><p>All right,<n>I'll lay another one on you!<k>
+### 214 [cf1/c09/c0907_01.sb]
+<p>Hello? Hellooo?<n>That's strange... There must be a<n>bee on the other line.<k>
+### 215 [cf1/c09/c0907_01.sb]
+<p>I keep getting a buzzy signal!!<n>Hah hah! Genius!!<k>
+### 216 [cf1/c09/c0907_01.sb]
+<p>...Huh? What do you mean?<k>
+### 217 [cf1/c09/c0907_01.sb]
+<p>......<n>So, what are you doing<n>here anyway...?<k>
+### 218 [cf1/c09/c0907_01.sb]
+<p>Oh!<n>I came to train under you,<n>King Kai!<k>
+### 219 [cf1/c09/c0907_01.sb]
+<p>Well then, go home!<k><p>Anyone who doesn't laugh at jokes<n>that funny has a<n>bad sense of humor!<k><p>I'm not training someone<n>like that!<k>
+### 220 [cf1/c09/c0907_01.sb]
+<p>Ah hah hah hah hah!!<n>I get it now!<n>You're hilarious, King Kai!<k><p>I've never heard something so<n>funny in my life!<k>
+### 221 [cf1/c09/c0907_01.sb]
+<p>...Heh heh...<n>I told ya.<n>You sure are slow...<k>
+### 222 [cf1/c09/c0907_01.sb]
+<p>Will you train me now?<k>
+### 223 [cf1/c09/c0907_01.sb]
+<p>Heh heh heh... Train you, huh...<n>All right.<n>But only if you pass my test...<k><p>If you can make me laugh,<n>I'll agree to train you!<k>
+### 224 [cf1/c09/c0907_01.sb]
+<p>What?!<n>I have to... make you laugh?!<k>
+### 225 [cf1/c09/c0907_01.sb]
+<p>Hee hee... Not up for it?<n>You gotta be really funny if you<n>expect to make me laugh!<k>
+### 226 [cf1/c09/c0907_01.sb]
+<p>You've met your match...<n>Now, give up and go home!<k>
+### 227 [cf1/c09/c0907_01.sb]
+<p>Why did the turkey cross<n>the road?<k><p>To prove he wasn't chicken!!<k>
+### 228 [cf1/c09/c0907_01.sb]
+<p>...To prove he wasn't... chicken...<k><p>Hah!<n>Hah hah!!<n>Hah hah hah!!!<k><p>Hee hee...!<k>
+### 229 [cf1/c09/c0907_01.sb]
+<p>You laughed!!<n>I got you!!<k>
+### 230 [cf1/c09/c0907_01.sb]
+<p>Drat!<n>You're better than I thought!<n>A pro!<k>
+### 231 [cf1/c09/c0907_01.sb]
+<p>All right.<n>I'll train you.<n>I'll teach you the funniest<n>joke ever!<k>
+### 232 [cf1/c09/c0907_01.sb]
+<p>I don't wanna learn jokes,<n>I wanna learn martial arts!<k>
+### 233 [cf1/c09/c0907_01.sb]
+<p>Oh, martial arts, huh...<k>
+### 234 [cf1/c09/c0907_01.sb]
+<p>OK. Try coming at me.<n>Let's see what you've got.<k>
+### 235 [cf1/c09/c0907_01.sb]
+<p>I would but it's weird.<n>It's so hard to move here.<n>My body feels so heavy...<k>
+### 236 [cf1/c09/c0907_01.sb]
+<p>Where'd you come from?<n>Earth?<k>
+### 237 [cf1/c09/c0907_01.sb]
+<p>Then you must feel heavy.<n>This planet here is small but it's<n>gravity is very strong.<k><p>About ten times that of Earth.<k><p>So your body would weigh about<n>ten times more!<k>
+### 238 [cf1/c09/c0907_01.sb]
+<p>Try a jump.<n>Give it all you've got.<k>
+### 239 [cf1/c09/c0907_01.sb]
+<p>OK.<k>
+### 240 [cf1/c09/c0907_01.sb]
+<p>Yah!!<k>
+### 241 [cf1/c09/c0907_01.sb]
+<p>Ugh!!<n>It's no good!<k><p>That's all I can manage...<k>
+### 242 [cf1/c09/c0907_01.sb]
+<p>(Well look at that...!<n>He was able to jump that high even<n>in ten times his normal gravity!<k><p>This will be one<n>interesting student!)<k>
+### 243 [cf1/c09/c0907_02.sb]
+<p>Goku has made the long journey<n>along Snake Way and has finally<n>come face to face with King Kai.<k><p>His rigorous training under<n>gravity ten times that of Earth<n>has begun!<k>
+### 244 [cf1/c09/c0907_02.sb]
+<p>Now, shall we start the training?<n>How long do you plan on<n>being here?<k>
+### 245 [cf1/c09/c0907_02.sb]
+<p>I don't know how long it took me<n>to get here, so I don't know...<n>I don't think I have much time.<k><p>The Saiyans are on their way to<n>Earth to take over...<k><p>So, I'd like you to train me until<n>they get here.<k>
+### 246 [cf1/c09/c0907_02.sb]
+<p>Saiyans, huh?<n>You've made some<n>formidable enemies...<k><p>Let me check how long until they<n>reach Earth for you...<k>
+### 247 [cf1/c09/c0907_02.sb]
+<p>Hmm...<n>There they are...<k><p>Looks like they'll reach<n>Earth in about...<n>...Let's see...<k><n>158 more days.<k>
+### 248 [cf1/c09/c0907_02.sb]
+<p>Wow!<n>You can tell that?!<k>
+### 249 [cf1/c09/c0907_02.sb]
+<p>So...<n>Only 158 days...<k>
+### 250 [cf1/c09/c0907_02.sb]
+<p>What are you saying?<n>158 days should be plenty of time.<k>
+### 251 [cf1/c09/c0907_02.sb]
+<p>I don't know...<k>
+### 252 [cf1/c09/c0907_02.sb]
+<p>Training under me for 158 days<n>here will be like training for 1000<n>years on Earth!<k>
+### 253 [cf1/c09/c0907_02.sb]
+<p>Really?!<k>
+### 254 [cf1/c09/c0907_02.sb]
+<p>But even with the training,<n>there's no guarantee you'll win<n>against the Saiyans.<k><p>Those Saiyans possess<n>terrible power.<k><p>Power even greater than my own.<k>
+### 255 [cf1/c09/c0907_02.sb]
+<p>Erk!<n>Greater than you...?<k>
+### 256 [cf1/c09/c0907_02.sb]
+<p>That's right.<n>That means you have to surpass me.<k><p>If you do not, it is hopeless.<k>
+### 257 [cf1/c09/c0907_02.sb]
+<p>Well then, let's begin.<n>Hey! Bubbles!<k>
+### 258 [cf1/c09/c0907_02.sb]
+<p>First, you must prevail over the<n>gravity of this place.<k><p>Try catching Bubbles!<k><p>You need to be able to at least<n>move that fast or there's nothing<n>we can do.<k>
+### 259 [cf1/c09/c0907_02.sb]
+<p>OK...<k>
+### 260 [cf1/c09/c0907_03.sb]
+I finally did it!<n>I got him!!<k>
+### 261 [cf1/c09/c0907_03.sb]
+<p>Good!<k>
+### 262 [cf1/c09/c0907_03.sb]
+<p>(Hmm... He's as good as<n>I thought...<k><p>He's gotten used to this<n>gravity already...)<k>
+### 263 [cf1/c09/c0907_03.sb]
+<p>(118 more days to go...<n>He just might be able to master<n>my Kaioken!<k><p>The Kaioken...<n>The one skill I could only dream<n>of mastering!<k><p>And then,<n>the ultimate technique...)<k>
+### 264 [cf1/c09/c0907_03.sb]
+<p>You're probably ready for it,<n>but my training will be harder<n>than you can imagine!<k><p>Think you can take it?!<k>
+### 265 [cf1/c09/c0907_03.sb]
+<p>Yeah!<n>I'll try!<k>
+### 266 [cf1/c09/c0907_03.sb]
+<p>If you're gonna try,<n>try being the best in<n>the universe!<k><p>Physically and mentally!<n>Got it?!<k>
+### 267 [cf1/c09/c0907_03.sb]
+<p>OK!<k>
+### 268 [cf1/c09/c0907_03.sb]
+<p>But before we get started,<n>I have a favor to ask...<k>
+### 269 [cf1/c09/c0907_03.sb]
+<p>...A favor?<k>
+### 270 [cf1/c09/c0907_03.sb]
+<p>There seems to be trouble in <n>Yemma Forest...<k>
+### 271 [cf1/c09/c0907_03.sb]
+<p>...Yemma Forest?<k><p>Mez and Goz told me that the fruit<n>from the Yemma tree was King<n>Yemma's favorite...<k>
+### 272 [cf1/c09/c0907_03.sb]
+<p>...That's right.<k><p>Normally, King Yemma would go in<n>there and take care of the<n>problem himself...<k><p>But he's been busy lately.<k><p>He heard you made it here and has<n>been begging for you to come lend<n>him a hand!<k>
+### 273 [cf1/c09/c0907_03.sb]
+<p>Oh...<n>Well, he did help me before...<k><p>OK!<n>I'll go to Yemma Forest and take<n>care of whoever's causing<n>the problem!<k>
+### 274 [cf1/c09/c0907_03.sb]
+<p>...Good.<n>Think of it as part of your training.<k>
+### 275 [cf1/c09/c0907_03.sb]
+<p>OK.<k><p>So if this is like training, then<n>is whoever is causing trouble in<n>the forest strong?<k>
+### 276 [cf1/c09/c0907_03.sb]
+<p>Heh heh heh...<n>It's someone you know quite<n>well, actually!<k>
+### 277 [cf1/c09/c0907_03.sb]
+<p>...Someone I know?<k>
+### 278 [cf1/c09/c0907_03.sb]
+<p>Raditz!<k>
+### 279 [cf1/c09/c0907_03.sb]
+<p>What?!<n>Even after King Yemma said he took<n>care of him...<k><p>...He's still making trouble?<n>All right, I'll be back!<k>
+### 280 [cf1/c09/c0907_03.sb]
+<p>Wait a minute!<k>
+### 281 [cf1/c09/c0907_03.sb]
+<p>I'd feel a little better if you<n>didn't go alone...<k><p>I'm sending someone with you!<n>Hey!<n>Bubbles!<k>
+### 282 [cf1/c09/c0907_03.sb]
+<p>Oo-oo?!<k>
+### 283 [cf1/c09/c0907_03.sb]
+<p>Huh?<n>Bubbles?!<k>
+### 284 [cf1/c09/c0907_03.sb]
+<p>That's right!<n>You know how fast he is...<k><p>You could use his help!<n>There's one other powerful ally<n>I'm sending to help...<k><p>Gregory!!<k>
+### 285 [cf1/c09/c0907_03.sb]
+<p>...Uhh.<n>Where is he?!<k>
+### 286 [cf1/c09/c0907_03.sb]
+<p>How rude!<n>I'm right here!!<k>
+### 287 [cf1/c09/c0907_03.sb]
+<p>Whoa!<n>...A bug??<k>
+### 288 [cf1/c09/c0907_03.sb]
+<p>How much ruder can you get?!<k>
+### 289 [cf1/c09/c0907_03.sb]
+<p>King Kai!<n>Do I really have to help this guy?<k>
+### 290 [cf1/c09/c0907_03.sb]
+<p>Settle down now...<k><p>If the three of you go together,<n>I'm sure you'll be able to take<n>down Raditz in no time.<k>
+### 291 [cf1/c09/c0907_03.sb]
+<p>...I could do it on my<n>own, too...<k>
+### 292 [cf1/c09/c0907_03.sb]
+<p>Quit complaining and get going!!<k><p>I made a warp point by the one<n>tree on this planet for you<n>to use!<k><p>Jump into the warp and you'll be<n>in Yemma Forest!<k>
+### 293 [cf1/c09/c0907_03.sb]
+<p>All right!<k>
+### 294 [cf1/c09/c0908_00.sb]
+<p>Hey, Raditz!!<n>Stop wrecking the forest!<k>
+### 295 [cf1/c09/c0908_00.sb]
+<p>?!<n>...Kakarot?<k><p>I thought I would run into<n>you eventually...<k><p>What are you doing here?<k>
+### 296 [cf1/c09/c0908_00.sb]
+<p>I came to stop you!<k>
+### 297 [cf1/c09/c0908_00.sb]
+<p>...Stop me?<k><p>You were barely able to take me<n>down before with two people!<k><p>With the power of the fruit from<n>the Yemma tree, I'm going to<n>surpass King Yemma himself!!<k>
+### 298 [cf1/c09/c0908_00.sb]
+<p>I've begun training under<n>King Kai!<n>I've gotten a lot stronger!<k><p>You haven't been training at all,<n>so there's no way I can lose!<k>
+### 299 [cf1/c09/c0908_00.sb]
+<p>...Interesting...<n>Well, let's see who's stronger<n>then, shall we?<k>
+### 300 [cf1/c09/c0908_01.sb]
+<p>How do you like that?!<n>You sorry now?<k><p>You might wanna train next time.<k><p>How about I ask King Kai to teach<n>you a thing or two!<k>
+### 301 [cf1/c09/c0908_01.sb]
+<p>...!<n>Why you...!!<k>
+### 302 [cf1/c09/c0908_01.sb]
+<p>Hey!<n>Wait!!<k>
+### 303 [cf1/c09/c0908_01.sb]
+<p>I don't think he's learned<n>his lesson!<n>He's sure to cause trouble again!<k>
+### 304 [cf1/c09/c0908_01.sb]
+<p>...Well, looks like he's given<n>up for now.<n>Let's head back!<k>
+### 305 [cf1/c09/c0908_02.sb]
+<p>King Kai!<n>We're back!<k>
+### 306 [cf1/c09/c0908_02.sb]
+<p>Oh!<n>You're back.<k><p>...How did it go with Raditz?<k>
+### 307 [cf1/c09/c0908_02.sb]
+<p>We put him in his place but I<n>don't think he's learned his<n>lesson just yet.<k>
+### 308 [cf1/c09/c0908_02.sb]
+<p>I see. Well it's no surprise!<n>I'm sure he'll be up to no<n>good again.<k><p>Can I count on you again when that<n>time comes?<k>
+### 309 [cf1/c09/c0908_02.sb]
+<p>Sure!<k><p>I haven't even been here that long<n>and already Raditz seems like he's<n>gotten so much weaker...<k>
+### 310 [cf1/c09/c0908_02.sb]
+<p>Heh heh!<n>Of course.<k><p>Running all the way here alone is<n>sure to have upped your<n>stamina considerably!<k>
+### 311 [cf1/c09/c0908_02.sb]
+<p>Oh yeah!<n>That was like partly training<n>in itself!<k>
+### 312 [cf1/c09/c0908_02.sb]
+<p>That's right, Goku!<n>Oh, looks like you have a guest!<k>
+### 313 [cf1/c09/c0908_02.sb]
+<p>...A guest?<k>
+### 314 [cf1/c09/c0908_02.sb]
+<p>!!<n>Baba!!<n>What are you doing here?!<k><p>...I thought I already gave a<n>message to everyone saying not to<n>bring me back for a year...<k>
+### 315 [cf1/c09/c0908_02.sb]
+<p>Well...<k><p>It looks like your friends are<n>having a hard time finding the<n>Dragon Balls by themselves...<k>
+### 316 [cf1/c09/c0908_02.sb]
+<p>What?!<n>Training for a year won't do any<n>good if they can't wish me back!<k>
+### 317 [cf1/c09/c0908_02.sb]
+<p>...I know!<n>I talked it over with King Kai...<k><p>We decided to take you back to the<n>other side to help find<n>the Dragon Balls!<k>
+### 318 [cf1/c09/c0908_02.sb]
+<p>...Wait a second...<n>I've gotta train!<k>
+### 319 [cf1/c09/c0908_02.sb]
+<p>We know!!<k><p>Just think of looking for the<n>Dragon Balls as part of<n>your training!<k><p>...You want the Saiyans to show up<n>with you not being able to be<n>wished back?<k>
+### 320 [cf1/c09/c0908_02.sb]
+<p>Well, no...<k>
+### 321 [cf1/c09/c0908_02.sb]
+<p>Then it's settled!!<n>I'm taking you back!<k>
+### 322 [cf1/c09/c0908_02.sb]
+<p>...Wh-what?!<k>
+### 323 [cf1/c10/c1001_00.sb]
+<p>...Was there something you<n>needed to talk about?<k>
+### 324 [cf1/c10/c1001_00.sb]
+<p>I was just thinking...<k><p>Since all of you seem to be at<n>the end of your training here...<k>
+### 325 [cf1/c10/c1001_00.sb]
+<p>Kami!<k><p>Our training will never be over.<n>How could we even near the end<n>of it...<k>
+### 326 [cf1/c10/c1001_00.sb]
+<p>I'm sure you've started to<n>become bored, haven't you?<k><p>Well?<n>Shall we start the search for<n>the Dragon Balls?<k>
+### 327 [cf1/c10/c1001_00.sb]
+<p>...Well...<k><p>I suppose it would be pointless if<n>we couldn't wish Goku back after<n>his training...<k>
+### 328 [cf1/c10/c1001_00.sb]
+<p>Exactly.<k>
+### 329 [cf1/c10/c1001_00.sb]
+<p>I am ordering you all!<k><p>Return to the Earth below and find the Dragon Balls!<k>
+### 330 [cf1/c10/c1001_00.sb]
+<p>Understood!<k>
+### 331 [cf1/c10/c1001_00.sb]
+<p>Welcome back!<n>How did the training with Kami go?<k>
+### 332 [cf1/c10/c1001_00.sb]
+<p>The training was hard but we<n>finally mastered it.<k><p>...Now I understand how Goku was<n>able to get so strong.<k>
+### 333 [cf1/c10/c1001_00.sb]
+<p>Good, good.<n>I'm glad to hear it!<k>
+### 334 [cf1/c10/c1001_00.sb]
+<p>We'd like to start searching for<n>the Dragon Balls.<k><n>But we heard you had something<n>to tell us.<k>
+### 335 [cf1/c10/c1001_00.sb]
+<p>Oh, I have some news!<n>I have a message from<n>Baba.<k><n>She says she's bringing someone to<n>help search for the Dragon Balls!<k>
+### 336 [cf1/c10/c1001_00.sb]
+<p>...Someone to help?<k>
+### 337 [cf1/c10/c1001_00.sb]
+<p>Right.<n>I don't know who it is,<n>but I hear he's strong!<k><p>You should stop by Baba's palace<n>before you start searching...<k>
+### 338 [cf1/c10/c1001_00.sb]
+<p>!<n>Piccolo!<n>Gohan?!<k>
+### 339 [cf1/c10/c1001_00.sb]
+<p>What are you lazy bums doing?<k><p>I thought I told you to hurry up<n>and find the Dragon Balls!<k>
+### 340 [cf1/c10/c1001_00.sb]
+<p>We've been busy!<k>
+### 341 [cf1/c10/c1001_00.sb]
+<p>Who cares what you've been?<k><p>Try telling that to the Saiyans<n>when they get here!<k>
+### 342 [cf1/c10/c1001_00.sb]
+<p>...Hmph!<k>
+### 343 [cf1/c10/c1001_00.sb]
+<p>What did you come here for?<k>
+### 344 [cf1/c10/c1001_00.sb]
+<p>Well, I didn't come to get<n>involved with idiots<n>like you...<k><p>I came to find the Dragon Balls.<k>
+### 345 [cf1/c10/c1001_00.sb]
+<p>...You're gonna help us find them?<k>
+### 346 [cf1/c10/c1001_00.sb]
+<p>I told you, I'm not getting<n>involved with you blockheads...<k><p>I came to find them for myself.<n>Even if that means having to pick<n>up your pieces...<k>
+### 347 [cf1/c10/c1001_00.sb]
+<p>Well, whatever the reason,<n>we're glad to have help...<k><p>First stop,<n>Baba's palace!<k>
+### 348 [cf1/c10/c1001_00.sb]
+<p>Puar and Bulma are on their way<n>ahead of you.<k><p>Get the Dragon Radar<n>from them once you get to the palace...<k>
+### 349 [cf1/c10/c1001_01.sb]
+<p>H-Hello...<k>
+### 350 [cf1/c10/c1001_01.sb]
+<p>You're late!<k>
+### 351 [cf1/c10/c1001_01.sb]
+<p>Yikes!<k>
+### 352 [cf1/c10/c1001_01.sb]
+<p>Master Roshi said you brought<n>someone strong to help us find<n>the Dragon Balls...<k>
+### 353 [cf1/c10/c1001_01.sb]
+<p>Uh huh, that's right!<k>
+### 354 [cf1/c10/c1001_01.sb]
+<p>Come on out!<n>Everyone's here now!<k>
+### 355 [cf1/c10/c1001_01.sb]
+<p>...Go... Go...<k>
+### 356 [cf1/c10/c1001_01.sb]
+<p>Dad...<k>
+### 357 [cf1/c10/c1001_01.sb]
+<p>How've you all been?<k>
+### 358 [cf1/c10/c1001_01.sb]
+<p>Dad!<k>
+### 359 [cf1/c10/c1001_01.sb]
+<p>...Goku?!<n>How?!<k>
+### 360 [cf1/c10/c1001_01.sb]
+<p>Baba helped make it possible for<n>me to help everyone search for<n>the Dragon Balls!<k>
+### 361 [cf1/c10/c1001_01.sb]
+<p>...Well?<n>I told you I found a<n>strong helper!<k>
+### 362 [cf1/c10/c1001_01.sb]
+<p>Yes, you sure did!<k>
+### 363 [cf1/c10/c1001_01.sb]
+<p>Here's the Dragon Radar!<k><p>Now we're all set to go find them!<k>
+### 364 [cf1/c10/c1002_00.sb]
+<p>Man, this ice is hard...!<n>Even Ki won't crack it!<k>
+### 365 [cf1/c10/c1002_00.sb]
+<p>The Dragon Ball is right there...<n>...what are we going to do...<k>
+### 366 [cf1/c10/c1002_00.sb]
+<p>With this ice being so solid...<n>It's no use trying to break<n>it with force...<k>
+### 367 [cf1/c10/c1002_00.sb]
+<p>If it's just ice, then how about<n>we melt it?<k><p>...Like use some<n>powerful flames...<k>
+### 368 [cf1/c10/c1002_00.sb]
+<p>How would we do that?<n>Where could we find fire<n>that strong...?<k>
+### 369 [cf1/c10/c1002_00.sb]
+<p>...Wait!<k>
+### 370 [cf1/c10/c1002_00.sb]
+<p>Did you think of a way?<k>
+### 371 [cf1/c10/c1002_00.sb]
+<p>Yeah!<k><p>We could go to Mt. Five Element and ask Annin to lend us the flames from the Magical Furnace!<k>
+### 372 [cf1/c10/c1002_00.sb]
+<p>Yeah!<n>If we can use the flames<n>from there, we might be able<n>to melt it!<k><p>All right!<n>Let's hurry to Mount<n>Five Element!<k>
+### 373 [cf1/c10/c1002_01.sb]
+<p>Goku!<n>It's been a while!<n>How've you been?<k>
+### 374 [cf1/c10/c1002_01.sb]
+<p>Not so good,<n>since I'm dead and all...<k><p>But I'm still just as good<n>as alive!<k>
+### 375 [cf1/c10/c1002_01.sb]
+<p>Dead...?<k><p>You haven't come to start<n>complaining about the furnace,<n>have you?<k>
+### 376 [cf1/c10/c1002_01.sb]
+<p>About the furnace!<n>We've got a favor to ask!<k>
+### 377 [cf1/c10/c1002_01.sb]
+<p>Yeah!<n>Do you know Yunzabit Heights?<k>
+### 378 [cf1/c10/c1002_01.sb]
+<p>Yunzabit Heights?<n>You mean that remote area in<n>the mountains?<k>
+### 379 [cf1/c10/c1002_01.sb]
+<p>You know it? Good!<k><p>There's ice there that we<n>can't break!<k><p>Our Ki won't even crack it...<k>
+### 380 [cf1/c10/c1002_01.sb]
+<p>...So, you thought you would try<n>melting it with the flames from<n>the furnace?<k><p>...You got it.  Here, <d>The Flames of the<n>Magical Furnace<d>.<n>Take it!<k>
+### 381 [cf1/c10/c1002_01.sb]
+<p>Thanks!<n>We owe you one!<k>
+### 382 [cf1/c10/c1002_02.sb]
+<p>Let's see...<n>If we use the flames that Annin<n>gave us...<k>
+### 383 [cf1/c10/c1002_02.sb]
+<p>The ice melted!<k>
+### 384 [cf1/c10/c1002_02.sb]
+<p>We can finally move on!<k>
+### 385 [cf1/c10/c1002_02.sb]
+<p>All right!<n>Let's hurry!<k>
+### 386 [cf1/c10/c1002_03.sb]
+<p>!<n>Dad!<n>There's some strange men<n>wandering around...<k>
+### 387 [cf1/c10/c1002_03.sb]
+<p>That symbol...<n>It's the Red Ribbon Army!<k>
+### 388 [cf1/c10/c1002_03.sb]
+<p>I heard in Jingle Village how<n>remnants of the army have been<n>looking for the Dragon Balls...<k>
+### 389 [cf1/c10/c1002_03.sb]
+<p>If they get a hold of the<n>Dragon Balls, the world's gonna be<n>in trouble!<k>
+### 390 [cf1/c10/c1002_03.sb]
+<p>So let's take them before they do!<k>
+### 391 [cf1/c10/c1002_03.sb]
+<p>...Can we do it?<k>
+### 392 [cf1/c10/c1002_03.sb]
+<p>No sweat!<n>We'll take them by force!<n>I used to be a bandit, you know!<k>
+### 393 [cf1/c10/c1002_04.sb]
+<p>Even with their nice equipment,<n>they were no match for us!<k>
+### 394 [cf1/c10/c1002_04.sb]
+<p>...That's some confidence<n>you've got.<k><p>Just be careful not to let it get<n>you killed...<k>
+### 395 [cf1/c10/c1002_04.sb]
+<p>Whatever...<k>
+### 396 [cf1/c10/c1002_04.sb]
+<p>Whew!<k><p>It's so cold!<n>We've got what we came for so<n>let's get outta here!<k>
+### 397 [cf1/c10/c1002_04.sb]
+<p>Yeah!<k>
+### 398 [cf1/c10/c1003_00.sb]
+<p>What the...?!<n>What a creepy place...<k>
+### 399 [cf1/c10/c1003_00.sb]
+<p>Really?<n>I think it feels kind of cool and<n>pleasant here...<k>
+### 400 [cf1/c10/c1003_00.sb]
+<p>...Piccolo.<k><p>I feel an evil presence in the air...<k>
+### 401 [cf1/c10/c1003_00.sb]
+<p>...Evil?<n>That would suit me just fine...<k>
+### 402 [cf1/c10/c1003_00.sb]
+<p>The Dragon Radar shows Dragon Balls in two places!<k>
+### 403 [cf1/c10/c1003_00.sb]
+<p>All right!<k><p>That means two more Dragon Balls!<k>
+### 404 [cf1/c10/c1003_00.sb]
+<p>Yamcha's right.<n>Let's hurry!<k>
+### 405 [cf1/c10/c1003_00.sb]
+<p>...I dunno.<n>I've got a bad feeling<n>about this...<k>
+### 406 [cf1/c10/c1003_01.sb]
+<p>...This stone statue...<n>Does it move?!?!<k>
+### 407 [cf1/c10/c1003_02.sb]
+<p>!<n>What?!<k>
+### 408 [cf1/c10/c1003_02.sb]
+<p>What's wrong?!<k>
+### 409 [cf1/c10/c1003_02.sb]
+<p>The Two-Star Ball...<n>It's broken...<k>
+### 410 [cf1/c10/c1003_02.sb]
+<p>Maybe the two signals the Dragon Radar<n>picked up were...<k>
+### 411 [cf1/c10/c1003_02.sb]
+<p>...Two pieces of<n>the same Dragon Ball...<k>
+### 412 [cf1/c10/c1003_02.sb]
+<p>If it's broken,<n>will we not be able to wish<n>Dad back??<k>
+### 413 [cf1/c10/c1003_02.sb]
+<p>Don't worry, Gohan!<n>Your Dad has a plan!<k>
+### 414 [cf1/c10/c1003_02.sb]
+<p>...A plan?<k>
+### 415 [cf1/c10/c1003_02.sb]
+<p>Yup.<k><p>Come on everyone,<n>there's one more place.<k><p>Let's find the the other piece of<n>the Two-Star Ball.<k>
+### 416 [cf1/c10/c1003_02.sb]
+<p>Yeah!<n>Let's go!<k>
+### 417 [cf1/c10/c1003_03.sb]
+<p>!<n>...Not this guy again!<k><p>Let's take him out and get that<n>other piece!<k>
+### 418 [cf1/c10/c1003_04.sb]
+<p>All right!<n>We've got both pieces now!<k>
+### 419 [cf1/c10/c1003_04.sb]
+<p>So what's the plan you said<n>you had, Dad?<k>
+### 420 [cf1/c10/c1003_04.sb]
+<p>...You're going to take them<n>to Kami, right?<k>
+### 421 [cf1/c10/c1003_04.sb]
+<p>Wow, Piccolo.<n>That's exactly what I was<n>planning to do!<k>
+### 422 [cf1/c10/c1003_04.sb]
+<p>Kami's place?<k>
+### 423 [cf1/c10/c1003_04.sb]
+<p>Yah. In the past,<n>when Piccolo destroyed Shenron,<n>Mr. Popo fixed him!<k><p>I'm sure if we take the pieces to<n>Mr. Popo, he'll fix it for us!<k>
+### 424 [cf1/c10/c1003_04.sb]
+<p>Ah!<n>I get it now!<k><p>If that's the case,<n>then let's get going!<k>
+### 425 [cf1/c10/c1004_00.sb]
+<p>Hey!<n>How've you been, Mr. Popo?<k>
+### 426 [cf1/c10/c1004_00.sb]
+<p>Oh, Goku!<k>
+### 427 [cf1/c10/c1004_00.sb]
+<p>Goku?!<n>...What are you doing here?!?!<k>
+### 428 [cf1/c10/c1004_00.sb]
+<p>Heh heh heh.<k><p>King Kai gave me permission to<n>help search for the Dragon Balls!<k>
+### 429 [cf1/c10/c1004_00.sb]
+<p>...I see...<n>Well then, how goes the search?<k>
+### 430 [cf1/c10/c1004_00.sb]
+<p>Well, actually...<n>We've got a little problem!<k><p>...Look!<k>
+### 431 [cf1/c10/c1004_00.sb]
+<p>Oh my...!<n>The Dragon Ball is broken in half!<k>
+### 432 [cf1/c10/c1004_00.sb]
+<p>Yah!<k><p>We thought maybe Mr. Popo would<n>fix it for us!<k>
+### 433 [cf1/c10/c1004_00.sb]
+<p>That's easy!<n>There!<k>
+### 434 [cf1/c10/c1004_00.sb]
+<p>Here...<n>Take it.<k>
+### 435 [cf1/c10/c1004_00.sb]
+<p>Thanks, Mr. Popo!<k><p>Later Kami!<n>We're off to find the rest<n>of them!<k>
+### 436 [cf1/c10/c1005_00.sb]
+<p>No!<k>
+### 437 [cf1/c10/c1005_00.sb]
+<p>You again?<n>Go home!<k>
+### 438 [cf1/c10/c1005_00.sb]
+<p>Wait!<n>Give back Eighter!<k>
+### 439 [cf1/c10/c1005_00.sb]
+<p>Shut your mouth!<n>You have a death wish?!<k>
+### 440 [cf1/c10/c1005_00.sb]
+<p>Aaaaah!<k>
+### 441 [cf1/c10/c1005_01.sb]
+Suno
+### 442 [cf1/c10/c1005_01.sb]
+Thanks...<k><p>You guys are strong.<n>I'm Suno.<n>I live in Jingle Village.<k>
+### 443 [cf1/c10/c1005_01.sb]
+<p>Suno...?<k>
+### 444 [cf1/c10/c1005_01.sb]
+<p>......<k><p>...Suno!<n>It's me! Goku!<k>
+### 445 [cf1/c10/c1005_01.sb]
+<p>Goku?<n>Goku?!?!<k><p>What are you doing here?!<k>
+### 446 [cf1/c10/c1005_01.sb]
+<p>I'm looking for the Dragon Balls!<k>
+### 447 [cf1/c10/c1005_01.sb]
+<p>The Dragon Balls...<k>
+### 448 [cf1/c10/c1005_01.sb]
+<p>What's wrong?<k>
+### 449 [cf1/c10/c1005_01.sb]
+<p>I'm looking for them too...<k>
+### 450 [cf1/c10/c1005_01.sb]
+<p>Oh, really? You're looking for them too?<k><p>...But, why?<k>
+### 451 [cf1/c10/c1005_01.sb]
+<p>It's not that I really want them. It's just... Well...<k>
+### 452 [cf1/c10/c1005_01.sb]
+<p>What is it? Just say it!<k>
+### 453 [cf1/c10/c1005_01.sb]
+<p>...A little while ago, Eighter found a Dragon Ball in the forest.<k><p>Since then, there's been strange rumors in the village...<k>
+### 454 [cf1/c10/c1005_01.sb]
+<p>Strange rumors?<k>
+### 455 [cf1/c10/c1005_01.sb]
+<p>Yeah...<k><p>It seems that General White is back at Muscle Tower...<k><p>He's trying to collect the Dragon Balls for his plans to conquer the world...<k>
+### 456 [cf1/c10/c1005_01.sb]
+<p>That guy never learns, does he?<k>
+### 457 [cf1/c10/c1005_01.sb]
+<p>I guess that the rumors are true...<k><p>The Dragon Ball was stolen...<k><p>So Eighter went to Muscle Tower to get it back...<k>
+### 458 [cf1/c10/c1005_01.sb]
+<p>If that's the case, you shouldn't have to worry about Eighter!<k><p>He's stronger than a bulldozer!<k>
+### 459 [cf1/c10/c1005_01.sb]
+<p>But it's been ten days since he left...<k><p>That's why I've been so worried...<k>
+### 460 [cf1/c10/c1005_01.sb]
+<p>It has?! All right!<k><p>We'll help you find him along with the Dragon Ball then!<k>
+### 461 [cf1/c10/c1005_01.sb]
+<p>Really?! I know I can count on you, Goku!<k>
+### 462 [cf1/c10/c1005_02.sb]
+<p>Hmph... I'm surprised you've made it this far.<k>
+### 463 [cf1/c10/c1005_02.sb]
+<p>Let Eighter go!<k>
+### 464 [cf1/c10/c1005_02.sb]
+<p>Who is this little girl? Someone from Jingle Village?<k><p>This scrap heap is already one of us.<n>Give it up.<k>
+### 465 [cf1/c10/c1005_02.sb]
+<p>You're lying! Eighter! Wake up!<k>
+### 466 [cf1/c10/c1005_02.sb]
+<p>Ugh... Aaaaahhh!<k>
+### 467 [cf1/c10/c1005_03.sb]
+<p>H-How could this be...<k>
+### 468 [cf1/c10/c1005_03.sb]
+<p>Nnnghh...<k>
+### 469 [cf1/c10/c1005_03.sb]
+<p>Eighter! Please! Snap out of it!<k>
+### 470 [cf1/c10/c1005_03.sb]
+<p>Nngaah!<k>
+### 471 [cf1/c10/c1005_03.sb]
+<p>Please...!<k>
+### 472 [cf1/c10/c1005_03.sb]
+<p>Su... no...?<k>
+### 473 [cf1/c10/c1005_03.sb]
+<p>Eighter!<k>
+### 474 [cf1/c10/c1005_03.sb]
+<p>Suno... Why do you cry?<k>
+### 475 [cf1/c10/c1005_03.sb]
+<p>You had me worried! But... I'm so glad you're all right...<k>
+### 476 [cf1/c10/c1005_03.sb]
+<p>Eighter,<n>I'm glad you're alright!!<k>
+### 477 [cf1/c10/c1005_03.sb]
+<p>Who are you...?<k>
+### 478 [cf1/c10/c1005_03.sb]
+<p>Oh! Goku! It's Goku! It's been a while!<k><p>You're just as small as I remember...<k>
+### 479 [cf1/c10/c1005_03.sb]
+<p>...I'm Gohan.<k>
+### 480 [cf1/c10/c1005_03.sb]
+<p>Are you OK? Looks like you're not quite fully healed...<k>
+### 481 [cf1/c10/c1005_03.sb]
+<p>Ohhh! Goku! I thought you were someone else!<k>
+### 482 [cf1/c10/c1005_03.sb]
+<p>By the way... where's the Dragon Ball?<k>
+### 483 [cf1/c10/c1005_03.sb]
+<p>I've got it right here!<k>
+### 484 [cf1/c10/c1005_03.sb]
+<p>Good!<k><p>You see, Goku and his friends need to gather the Dragon Balls!<k>
+### 485 [cf1/c10/c1005_03.sb]
+<p>...I see. If it was someone with an evil heart, there'd be trouble.<k><p>But I know Goku will use it for good. Take it...<k>
+### 486 [cf1/c10/c1005_03.sb]
+<p>All right! Suno, Eighter, thanks!<k>
+### 487 [cf1/c10/c1005_03.sb]
+<p>You saved me again...<k><p>I should be thanking you...<k>
+### 488 [cf1/c10/c1005_03.sb]
+<p>Thank you, Goku! Stop by Jingle Village if you have time!<k><p>We'll give you a big welcome!<k>
+### 489 [cf1/c10/c1006_00.sb]
+<p>That's weird... The Dragon Radar said the signal came from here...<k>
+### 490 [cf1/c10/c1006_00.sb]
+<p>...Maybe it's at the bottom of the sea.<k>
+### 491 [cf1/c10/c1006_00.sb]
+<p>Oh yeah! Now I remember!<k>
+### 492 [cf1/c10/c1006_00.sb]
+<p>You remember? Remember what?<k>
+### 493 [cf1/c10/c1006_00.sb]
+<p>I fought the Red Ribbon Army a long time ago at the bottom of this sea!<k><p>The Dragon Ball might be down there!<k>
+### 494 [cf1/c10/c1006_00.sb]
+<p>...Go to the bottom, huh... How are we gonna do that...?<k>
+### 495 [cf1/c10/c1006_00.sb]
+<p>We could probably ask Bulma's dad to build us something...<k>
+### 496 [cf1/c10/c1006_00.sb]
+<p>Yeah! Let's go to West City and see!<k>
+### 497 [cf1/c10/c1006_01.sb]
+<p>Well now! Everyone's here! What seems to be the trouble?<k>
+### 498 [cf1/c10/c1006_01.sb]
+<p>Hey, Dr. Briefs! We've been gathering the Dragon Balls!<k>
+### 499 [cf1/c10/c1006_01.sb]
+<p>The Dragon Balls, huh...<k><p>How's the Dragon Radar that Bulma invented? Working well for you?<k>
+### 500 [cf1/c10/c1006_01.sb]
+<p>Yeah! But... We've run into kind of a problem...<k>
+### 501 [cf1/c10/c1006_01.sb]
+<p>...Oh. A problem, huh...<k>
+### 502 [cf1/c10/c1006_01.sb]
+<p>Yeah... The radar is telling us a Dragon Ball is at the bottom of the sea...<k><p>We could go and get it if only we had a submarine...<k>
+### 503 [cf1/c10/c1006_01.sb]
+<p>Oh, I see!<k><p>...In that case, I'll lend you one of our new capsule subs!<k>
+### 504 [cf1/c10/c1006_01.sb]
+<p>With one of these, you'll be at the bottom of the sea in no time!<k>
+### 505 [cf1/c10/c1006_01.sb]
+<p>Thanks! We'll take it!<k>
+### 506 [cf1/c10/c1006_02.sb]
+<p>Heh heh heh... I haven't had a snack in a while!<k>
+### 507 [cf1/c10/c1006_02.sb]
+<p>Hey! I know you!<k>
+### 508 [cf1/c10/c1006_02.sb]
+<p>You know me??<k><p>Heh heh... I've become famous!<k>
+### 509 [cf1/c10/c1006_02.sb]
+<p>You're a squid, right?<k>
+### 510 [cf1/c10/c1006_02.sb]
+<p>Octopus!!<k>
+### 511 [cf1/c10/c1006_02.sb]
+<p>...Weird... I feel like I've done this once before...<k><p>But enough! I was asked by an army to protect a treasure here!<k>
+### 512 [cf1/c10/c1006_02.sb]
+<p>That's it!<k><p>Goku! He's protecting the Dragon Ball!<k>
+### 513 [cf1/c10/c1006_02.sb]
+<p>Hey, you! Hand over that treasure!<k>
+### 514 [cf1/c10/c1006_02.sb]
+<p>You're starting to get on my nerves...<k><p>I'm so hungry, I think I'll have you guys for lunch!<k>
+### 515 [cf1/c10/c1006_03.sb]
+<p>S-Sorry! I lied about wanting to eat you for lunch...<k>
+### 516 [cf1/c10/c1006_03.sb]
+<p>All right! We got the Five-Star Ball!<k><p>...... Although, it sure is strange this fortress is still alive and kicking...<k>
+### 517 [cf1/c10/c1006_03.sb]
+<p>Yeah... Let's just hope the Red Ribbon Army<n>isn't planning anything crazy...<k>
+### 518 [cf1/c10/c1007_00.sb]
+<p>It sure is hot! Are you sure there's a Dragon Ball here?<k>
+### 519 [cf1/c10/c1007_00.sb]
+<p>The Dragon Radar shows a signal around this area! There's gotta be one here!<k>
+### 520 [cf1/c10/c1007_00.sb]
+<p>Hmph! Why not try doing something before you doubt...<k><p>This is why we still haven't gathered all the Dragon Balls yet...<k>
+### 521 [cf1/c10/c1007_01.sb]
+<p>?! Th-That's a Sand Eagle!<k><p>We've really done it now!<k>
+### 522 [cf1/c10/c1007_02.sb]
+<p>The Sand Eagle is running away!<k>
+### 523 [cf1/c10/c1007_02.sb]
+<p>He's pretty loyal to his friends... but he'll be back soon. Let's grab the Six-Star Ball while we can!<k>
+### 524 [cf1/c10/c1007_02.sb]
+<p>I feel bad for what we did...<k>
+### 525 [cf1/c10/c1007_02.sb]
+<p>Yeah... Let's hope he's not hurt too badly...<k>
+### 526 [cf1/c10/c1008_00.sb]
+<p>All right! Just one more Dragon Ball to go!<k>
+### 527 [cf1/c10/c1008_00.sb]
+<p>We're doing better than I thought we would!<k>
+### 528 [cf1/c10/c1008_00.sb]
+<p>...Better? If it wasn't for us, you probably wouldn't have gotten one.<k>
+### 529 [cf1/c10/c1008_00.sb]
+<p>...!<k>
+### 530 [cf1/c10/c1008_00.sb]
+<p>Come on, guys... We've only got one more to go! Let's go get it!<k>
+### 531 [cf1/c10/c1008_00.sb]
+<p>I promised Baba I'd return to the other side by now!<k><p>But before I do, I gotta stop by the Kame House!<k>
+### 532 [cf1/c10/c1008_00.sb]
+<p>Oh... I guess Master Roshi is probably wondering about us too...<k><p>All right, let's make a stop at the Kame House!<k>
+### 533 [cf1/c10/c1008_01.sb]
+<p>...I see... So only one more Dragon Ball to go, huh...?<k>
+### 534 [cf1/c10/c1008_01.sb]
+<p>That's right, but... I gotta return to the other side soon!<k>
+### 535 [cf1/c10/c1008_01.sb]
+<p>I'd like to be able to keep you here until all the Dragon Balls are found.<k><p>Or even until you fight off the Saiyans...<k><p>But even King Kai's power won't be able to allow that...<k>
+### 536 [cf1/c10/c1008_01.sb]
+<p>Don't worry, Gohan!<k><p>I'll be training at King Kai's place and be back in half a year stronger than ever!<k>
+### 537 [cf1/c10/c1008_01.sb]
+<p>...OK...<k>
+### 538 [cf1/c10/c1008_01.sb]
+<p>...Well, I'm ready...<k>
+### 539 [cf1/c10/c1008_01.sb]
+<p>Well then, we're off...<k>
+### 540 [cf1/c10/c1008_01.sb]
+<p>Good luck with the last Dragon Ball everyone!<k>
+### 541 [cf1/c10/c1008_01.sb]
+<p>Hoy hoy hoy! Hoy sa sa!<k>
+### 542 [cf1/c10/c1008_02.sb]
+<p>...Well, let's go get that last Dragon Ball...<k>
+### 543 [cf1/c10/c1008_02.sb]
+<p>Wait a second... I'll check the Dragon Radar!<k>
+### 544 [cf1/c10/c1008_02.sb]
+<p>What's up, Krillin?<k>
+### 545 [cf1/c10/c1008_02.sb]
+<p>The Dragon Ball is getting closer to us!<k>
+### 546 [cf1/c10/c1008_02.sb]
+<p>How?!<k>
+### 547 [cf1/c10/c1008_02.sb]
+<p>Getting closer? ...To us?<k>
+### 548 [cf1/c10/c1008_02.sb]
+<p>I'll take those Dragon Balls, thank you very much!<k>
+### 549 [cf1/c10/c1008_02.sb]
+<p>Hey! Aren't you...?!<k>
+### 550 [cf1/c10/c1008_02.sb]
+<p>Hello, boys! You've embarrassed me enough in the past!<k><p>Now I can add your Dragon Balls to mine to make seven!<k>
+### 551 [cf1/c10/c1008_02.sb]
+<p>Shu! Mai! We're going back to my new Pilaf Castle to call forth Shenron!<k>
+### 552 [cf1/c10/c1008_02.sb]
+<p>That's great, sir! Now you'll be able to realize your long time dream of world domination!<k>
+### 553 [cf1/c10/c1008_02.sb]
+<p>Once you have control of the world, you'll then be popular with the girls...<k>
+### 554 [cf1/c10/c1008_02.sb]
+<p>G-Girls?! Stop, you're embarrassing me...!<k>
+### 555 [cf1/c10/c1008_02.sb]
+<p>Sir! We have the Dragon Balls, so we should leave as soon as possible!<k>
+### 556 [cf1/c10/c1008_02.sb]
+<p>Oh, yeah!<k><p>Wah hah hah! See you suckers!<k>
+### 557 [cf1/c10/c1008_02.sb]
+<p>Oh, man! I can't believe them...!<k>
+### 558 [cf1/c10/c1008_02.sb]
+<p>How can we let them do that?! Let's go after them now!<k>
+### 559 [cf1/c10/c1008_02.sb]
+<p>OK... Well, he did say something about his new castle...<k>
+### 560 [cf1/c10/c1009_00.sb]
+<p>What the...?<k>
+### 561 [cf1/c10/c1009_00.sb]
+<p>These guys haven't made any progress...<k>
+### 562 [cf1/c10/c1009_00.sb]
+<p>I don't know how we let such fools take the Dragon Balls from us... Let's hurry up and get them back!<k>
+### 563 [cf1/c10/c1009_01.sb]
+<p>...What is this place...?<k>
+### 564 [cf1/c10/c1009_01.sb]
+<p>Looks like... some kind of playground...<k>
+### 565 [cf1/c10/c1009_01.sb]
+<p>What's wrong, Krillin?<k>
+### 566 [cf1/c10/c1009_01.sb]
+<p>Something's coming!<k>
+### 567 [cf1/c10/c1009_01.sb]
+<p>...Whew.<k>
+### 568 [cf1/c10/c1009_01.sb]
+<p>No time to relax just yet!<k>
+### 569 [cf1/c10/c1009_02.sb]
+<p>...What was that?<k>
+### 570 [cf1/c10/c1009_02.sb]
+<p>...Probably something to slow us down...<k><p>We gotta catch up to them before they summon Shenron!<k>
+### 571 [cf1/c10/c1010_00.sb]
+<p>Now you've done it. You've just signed your own death warrant!<k><p>I think I'll kill you first now. Ready to die?<k>
+### 572 [cf1/c10/c1010_00.sb]
+<p>Chiaotzu... This match is for you...<k><p>I'm gonna join you after this... I don't wanna leave you alone.<k>
+### 573 [cf1/c10/c1010_00.sb]
+<p>Sir! What shall we do once we have control of the world?!<k>
+### 574 [cf1/c10/c1010_00.sb]
+<p>We'll become popular with the ladies, of course...! Gee hee hee!<k>
+### 575 [cf1/c10/c1010_00.sb]
+<p>Emperor Pilaf...?<k>
+### 576 [cf1/c10/c1010_00.sb]
+<p>*Cough cough...* We'll contribute loads of money to all of the poor children in the world, of course!<k>
+### 577 [cf1/c10/c1010_00.sb]
+<p>Um, sir? That doesn't seem very evil...<k>
+### 578 [cf1/c10/c1010_00.sb]
+<p>...<k><p>Shut up! First things first, we're taking over the world! Are you ready?!<k>
+### 579 [cf1/c10/c1010_00.sb]
+<p>Yes, sir!<k>
+### 580 [cf1/c10/c1010_00.sb]
+<p>Good! Come forth...<k>
+### 581 [cf1/c10/c1010_00.sb]
+<p>We're here to take back the Dragon Balls!<k>
+### 582 [cf1/c10/c1010_00.sb]
+<p>You impudent fools! I'm going to tear you limb from limb!<k>
+### 583 [cf1/c10/c1010_01.sb]
+<p>Looks like he's out cold...<k>
+### 584 [cf1/c10/c1010_01.sb]
+<p>One... Two... Three... OK! We've got all seven!<k>
+### 585 [cf1/c10/c1010_01.sb]
+<p>Let's take them back to Master Roshi!<k>
+### 586 [cf1/c10/c1010_01.sb]
+<p>All right... So, what should we do with these guys?<k>
+### 587 [cf1/c10/c1010_01.sb]
+<p>We'll leave them... We've seen the extent of their evil deeds...<k>
+### 588 [cf1/c10/c1010_01.sb]
+<p>(He calls that evil...?!?!)<k>
+### 589 [cf1/c10/c1010_02.sb]
+<p>Hey! You did it!<k><p>This is all of them, isn't it?!<k>
+### 590 [cf1/c10/c1010_02.sb]
+<p>Yes. Now we have everything ready for when we wish back Goku...<k>
+### 591 [cf1/c10/c1010_02.sb]
+<p>...We're going to return to training...<k><p>We've lost precious time... There's still a lot of work to be done with the time left...<k>
+### 592 [cf1/c10/c1010_02.sb]
+<p>Are you taking Gohan with you?<k>
+### 593 [cf1/c10/c1010_02.sb]
+<p>Of course.<k><p>None of you could give him the training needed to unlock his real power...<k>
+### 594 [cf1/c10/c1010_02.sb]
+<p>...Although it depends on him...<k>
+### 595 [cf1/c10/c1010_02.sb]
+<p>...I'll go with you to train, Piccolo!<k>
+### 596 [cf1/c10/c1010_02.sb]
+<p>Well, that's that...<k><p>Now that it's settled, enough of this standing around!<k><p>Let's go, Gohan!<k>
+### 597 [cf1/c10/c1010_02.sb]
+<p>...What will all of you do?<k>
+### 598 [cf1/c10/c1010_02.sb]
+<p>We're also still in the middle of training... We'll return to Kami's Lookout and pick up where we left off!<k>
+### 599 [cf1/c10/c1010_02.sb]
+<p>All right. We're counting on you!<k>
+### 600 [cf1/c10/c1010_02.sb]
+<p>We know!<k>

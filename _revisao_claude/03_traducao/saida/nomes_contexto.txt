@@ -1,0 +1,185 @@
+===== Saiyan\b
+===== Dragon Ball
+   cf1/c16/c1610_05.sb:8 (x2) | <p><c=#ffff00>Dragon Ball Z<n><c>Attack of the Saiyans<n>-EQUIPE- || EN: 
+   cf_mes_MENU:124:us (x1) | Os dados de Dragon Ball Z: Attack of<n>the Saiyans estão corrom || EN: 
+===== \bKami\b(?!-)
+   cf1/c09/c0901_01.sb:29 (x1) | <p>Hmm.<k><p>Eu ouvi isso, Kami da Terra.<n>Talvez eu te mande para o<n || EN: 
+   cf1/c10/c1001_00.sb:30 (x1) | <p>Bem-vindos!<n>Como foi o treino com o Kami?<k> || EN: 
+===== (?<!Sr\. )\bPopo
+   btl_acc_mes:196:us (x1) | Turbante do Popo || EN: 
+===== Tsuru
+   cf1/c03/c0301_00.sb:15 (x1) | <p>Mestre Kame... Eu traí o espírito da Escola Tsuru...<k><p>Em troca, aprendi a usar as art || EN: 
+===== Canhão
+   btl_mes_BLAST:138:us (x1) | Super Canhão de Sopro || EN: 
+   btl_mes_BLAST:143:us (x1) | Canhão Blaster || EN: 
+   cf_mes_COMBO:6:us (x1) | Canhão Demoníaco || EN: 
+===== Detector
+   btl_acc_mes:222:us (x1) | Brinco Detector || EN: 
+===== Yajiroba
+   cf1/c08/c0803_02.sb:15 (x1) | cê é o cara que estava<n>na Torre Karin!<n>Hmm... Yajiroba, né?<k> || EN: 
+===== Gangue do Coelho|Grupo do Coelho|Coelho
+   cf1/c02/c0201_02.sb:15 (x1) | s, Yamcha! Eu tentei chegar ao esconderijo, mas o Coelho Monstro está enlouquecido!<k><p>Ele tra || EN: 
+   cf1/c02/c0201_02.sb:16 (x1) | <p>O Coelho Monstro?! Eu achava que o Goku tinha ma || EN: 
+   cf1/c02/c0202_00.sb:15 (x3) | Coelho Monstro || EN: 
+   cf1/c02/c0202_00.sb:16 (x1) | ento, aqui será a base de operações da minha nova Gangue do Coelho.<k> || EN: 
+   cf1/c02/c0202_00.sb:17 (x1) | <p>Você vai reabrir a Gangue do Coelho?!<k> || EN: 
+   cf1/c02/c0203_00.sb:28 (x1) | <p>Mandou bem, Yamcha!<k><p>O Coelho Monstro era tão perigoso, e você nocaut || EN: 
+   cf_mes_QUEST:3:us (x1) | O Coelho Monstro voltou! Persiga-o<n>até o \1P3e || EN: 
+   use_item_mes:144:us (x1) | Joia Coelho Monstro || EN: 
+   character_name:53:us (x1) | Soldado Coelho 1 || EN: 
+   character_name:54:us (x1) | Guarda Coelho 1 || EN: 
+   character_name:55:us (x1) | Coelho Sobrev. 1 || EN: 
+   character_name:56:us (x1) | Soldado Coelho 2 || EN: 
+   character_name:57:us (x1) | Guarda Coelho 2 || EN: 
+   character_name:58:us (x1) | Coelho Sobrev. 2 || EN: 
+===== (?<!Vovó )Uranai
+   cf1/c00/c0003_00.sb:20 (x1) | <p>Isso! Minha irmã Uranai me deu isto há muito tempo...<k><p>Mas  || EN: 
+   cf1/c08/c0803_02.sb:30 (x1) |  saber os detalhes,<n>aquela velha chamada Vovó<n>Uranai vai aparecer por aí,<n>então perguntem  || EN: 
+   cf1/c10/c1001_00.sb:36 (x1) | >mas dizem que é forte!<k><p>Passem no Palácio da Uranai<n>antes de começar a busca...<k> || EN: 
+===== (?<!Mestre )\bKame\b(?! House)
+   cf/worldmap.sb:8 (x2) | Casa do Kame || EN: 
+   cf0/kam/kam01_00.sb:69 (x6) | <p>Certo! De volta para a Casa do Kame, então.<k> || EN: 
+   cf1/c05/c0507_00.sb:8 (x1) | -come-fogo e o mel em mãos, voltou para a Casa do Kame.<k><p>Lá ele reencontrou Chichi para vi || EN: 
+   cf1/c07/c0701_00.sb:26 (x1) | <p>É melhor voltarmos para a Casa do Kame, por enquanto.<k> || EN: 
+   cf1/c08/c0802_03.sb:10 (x1) | de verdade...<k><p>Tenho que voltar pra<n>Casa do Kame...<k> || EN: 
+   cf1/c08/c0802_05.sb:10 (x1) | <p>Pronto!<n>Hora de voltar pra<n>Casa do Kame.<k> || EN: 
+   cf1/c08/c0803_00.sb:15 (x1) | <p>Faz tempo que eles não vão<n>todos à Casa do Kame...<k><p>Devem ter perdido a noção<n>do  || EN: 
+   cf1/c08/c0803_01.sb:20 (x1) | Kuririn e Kame || EN: 
+   cf1/c10/c1008_00.sb:23 (x1) | ><p>Mas, antes disso, tenho que passar na Casa do Kame!<k> || EN: 
+   cf1/c10/c1008_00.sb:24 (x1) | ...<k><p>Tá bom, vamos dar uma passada na Casa do Kame!<k> || EN: 
+   cf1/c15/c1501_00.sb:11 (x1) | <p>Voltem pra Casa do Kame agora, vocês dois!<k> || EN: 
+   cf1/c15/c1502_01.sb:9 (x1) | <p>A Casa do Kame está logo ali. Aguenta firme, Gohan!<k> || EN: 
+   cf_mes_QUEST:18:us (x1) | mem misterioso vai direto<n>para... a \1P3Casa do Kame\1Pn?! || EN: 
+   cf_mes_QUEST:31:us (x1) | Todos reunidos! Volte ao Mestre<n>Kame na \1P3Casa do Kame\1Pn. || EN: 
+   cf_mes_QUEST:31:us (x1) | s reunidos! Volte ao Mestre<n>Kame na \1P3Casa do Kame\1Pn. || EN: 
+===== (?<!Senhor )Kaioh
+   cf1/c09/c0903_02.sb:20 (x1) |  um treino especial...<n>Então, qual de vocês é o Kaioh?<k> || EN: 
+   cf1/c09/c0905_02.sb:16 (x1) | <p>...!<n>Não sabia que o Kaioh era mulher!<k><p>E bonita, ainda!<k> || EN: 
+   cf1/c09/c0907_00.sb:11 (x1) | p>Desse jeito vou levar um ano<n>só pra chegar no Kaioh...<k> || EN: 
+   cf1/c09/c0907_01.sb:17 (x1) | <p>Aquele... deve ser o Kaioh...<n>Não parece,<n>mas deve ser bem for || EN: 
+   cf1/c09/c0907_01.sb:35 (x1) | <p>Rá rá... <n>Bem que um macaco ser o Kaioh<n>parecia estranho...<k> || EN: 
+   cf1/c09/c0907_01.sb:47 (x1) | rá rá!!<n>Agora eu entendi!<n>O senhor é hilário, Kaioh!<k><p>Nunca ouvi nada tão<n>engraçado n || EN: 
+   cf1/c09/c0907_02.sb:8 (x1) | <n>pela Estrada da Serpente e<n>enfim encontrou o Kaioh.<k><p>Começou o seu duro treino<n>sob u || EN: 
+   cf1/c09/c0908_01.sb:10 (x1) | ima vez, é bom treinar.<k><p>Quer que eu peça pro Kaioh te<n>ensinar umas coisinhas?<k> || EN: 
+   cf_mes_QUEST:49:us (x1) | Raditz caiu! Volte ao Senhor<n>Kaioh para seguir o treino. || EN: 
+===== (?<!Senhor )Enma
+   cf0/for/for01_00.sb:15 (x5) | <p>A Árvore do Enma cresce e brota folhas.<k> || EN: 
+   cf0/hel/hel01_00.sb:37 (x1) | <p>É uma Árvore do Enma. Dá frutas parecidas com pêssegos que p || EN: 
+   cf0/kos/kos01_00.sb:34 (x1) | <p>Primeiro você tem que reviver cinco Árvores do Enma. Aí o caminho para a árvore dos espírit || EN: 
+   cf1/c09/c0903_02.sb:10 (x1) | sa que é?<n>Tentando pegar a fruta da<n>Árvore do Enma...<k> || EN: 
+   cf1/c09/c0907_03.sb:24 (x1) | <p>Parece que tem problemas na <n>Floresta do Enma...<k> || EN: 
+   cf1/c09/c0907_03.sb:25 (x1) | <p>...Floresta do Enma?<k><p>O Mez e o Goz me disseram que a<n || EN: 
+   cf1/c09/c0907_03.sb:25 (x1) | ez e o Goz me disseram que a<n>fruta da Árvore do Enma é a<n>favorita do Senhor Enma...<k> || EN: 
+   cf1/c09/c0907_03.sb:27 (x1) |  ajudou antes...<k><p>Beleza!<n>Vou à Floresta do Enma dar um<n>jeito em quem está causando<n> || EN: 
+   cf1/c09/c0907_03.sb:51 (x1) | k><p>Entre nele e você vai<n>parar na Floresta do Enma!<k> || EN: 
+   cf1/c09/c0908_00.sb:15 (x1) | am dois!<k><p>Com o poder da fruta da<n>Árvore do Enma, vou superar<n>o próprio Senhor Enma!!< || EN: 
+   cf1/c13/c1301_00.sb:18 (x1) | u te ensino...<k><p>...Primeiro, vá à Floresta do Enma e me traga o Cristal Espiritual!<k> || EN: 
+   cf1/c13/c1301_00.sb:19 (x1) | <p>A Floresta do Enma de antes?<k> || EN: 
+   cf1/c13/c1301_00.sb:20 (x1) | que o Raditz fez?<k><p>Ele derrubou uma Árvore do Enma e bloqueou o caminho até a árvore onde  || EN: 
+   cf1/c13/c1301_00.sb:25 (x1) | ><p>Tem certeza de que isso vai fazer a Árvore do Enma voltar ao normal?<k> || EN: 
+   cf_mes_QUEST:48:us (x1) | A \1P3Floresta de Enma\1Pn foi depre-<n>dada! Salve o bosque! || EN: 
+   cf_mes_QUEST:71:us (x1) | Reviva a \1P3Árvore do Enma\1Pn para<n>ganhar o Cristal Espiritual! || EN: 
+   cf_mes_LOC:8:us (x1) | Floresta de Enma || EN: 
+   cf_mes_LOC:9:us (x1) | Dentro da Fl. de Enma || EN: 
+   key_item_mes:45:us (x1) | Água que revive árvores de Enma. Muito<n>nutritiva. Não pergunte como é || EN: 
+   key_item_mes:47:us (x1) | O cristal espiritual de uma árvore de<n>Enma, dado pelo Montgomery. || EN: 
+===== (?<!Mestre )Karin
+   cf/worldmap.sb:36 (x2) | Terra Sagrada de Karin || EN: 
+   cf0/kam/kam01_00.sb:110 (x7) | <p>Vocês são incríveis... Subir a Torre Karin tantas vezes assim.<k> || EN: 
+   cf0/kam/kam01_00.sb:113 (x7) | <p>A Torre Karin fica logo ali na frente.<k> || EN: 
+   cf0/kam/kam01_00.sb:124 (x7) | Dá para chegar ao Kami-Sama pela Terra Sagrada de Karin. Continuem se esforçando!<k> || EN: 
+   cf0/skr/skr01_00.sb:18 (x1) | zem que um gato muito legal mora no topo da Torre Karin!<k><p>Um dia vou subir lá e pegar ele!< || EN: 
+   cf0/skr/skr01_00.sb:19 (x1) | trelas cadentes também assustaram o gato da Torre Karin?<k> || EN: 
+   cf0/skr/skr02_00.sb:49 (x1) |  tremor da explosão na Cidade do Leste.<n>A Torre Karin balançou demais.<k> || EN: 
+   cf0/skr/skr02_00.sb:50 (x1) | <p>Nesta aldeia fica a Torre Karin, uma construção tão alta que dizem que  || EN: 
+   cf0/skr/skr02_00.sb:55 (x1) | <p>Sabia? A Torre Karin balançou um montão! Fiquei com medo de  || EN: 
+   cf0/skr/skr02_00.sb:57 (x1) | <p>Uau! A Torre Karin é tão alta!<k> || EN: 
+   cf0/skr/skr04_00.sb:12 (x1) | <p>Esta é a Terra Sagrada de Karin.<k><p>Um grupo se reuniu aqui e formou  || EN: 
+   cf0/skr/skr05_00.sb:12 (x1) | bemos visitas com frequência. Se acha que a Torre Karin é ponto turístico, está enganado.<k> || EN: 
+   cf1/c08/c0803_02.sb:15 (x1) | <p>Ei!<k><p>Você é o cara que estava<n>na Torre Karin!<n>Hmm... Yajiroba, né?<k> || EN: 
+   cf1/c08/c0803_02.sb:20 (x1) | <p>Hã?<n>Pra Torre Karin?<n>Por quê?<k> || EN: 
+   cf1/c08/c0804_00.sb:16 (x1) | eu, você, Yamcha e Chaos<n>temos que ir pra Torre Karin.<k> || EN: 
+   cf1/c08/c0804_00.sb:19 (x1) | <p>...Torre Karin?<k> || EN: 
+   cf1/c08/c0805_01.sb:30 (x1) | <p>Podíamos ir direto pra Torre Karin agora...<k><p>Mas talvez seja uma boa p || EN: 
+   cf1/c08/c0805_03.sb:16 (x1) | r o Mestre Karin...<k><p>Hã... Eu já subi a Torre Karin antes...<k><p>Mas não tinha ninguém aqu || EN: 
+   cf1/c08/c0805_03.sb:35 (x1) | <p>Logo adiante fica a Torre Karin. Agora, vão...<k> || EN: 
+   cf_mes_QUEST:32:us (x1) | templo de Kami-Sama!<n>Primeira parada: \1P3Torre Karin\1Pn. || EN: 
+   cf_mes_LOC:19:us (x1) | Torre Karin || EN: 
+   use_item_mes:58:us (x1) | Remédio Karin || EN: 
+   pt_eqp_mes:4:us (x1) | Cantil do Karin || EN: 
+   pt_eqp_mes:22:us (x1) | Cajado do Karin || EN: 
+===== Princesa(?! Serpente)
+   cf/world_01.sb:13 (x1) | Mansão da Princesa || EN: 
+   character_name:69:us (x1) | Guarda da Princesa || EN: 
+===== Oozaru|Ozaru
+   cf1/c15/c1502_00.sb:12 (x1) | <p>Só me resta virar Oozaru e esmagá-lo!<k><p>Heh heh heh... Logo e || EN: 
+   cf1/c15/c1502_02.sb:26 (x1) | tar um segredinho...<k><p>Quando um Saiyajin vira Oozaru, o poder dele fica dez vezes maior!<k> || EN: 
+   cf1/c15/c1506_00.sb:25 (x1) | <p>Um Oozaru...? Ou vai ou racha...!<k> || EN: 
+   cf1/c15/c1506_00.sb:31 (x1) | <p>Quando o Goku virou Oozaru, ele perdeu toda a razão! Será que o Go || EN: 
+   character_name:222:us (x1) | Vegeta Oozaru || EN: 
+===== Saibam[ae]n
+   cf1/c14/c1402_01.sb:24 (x1) | <p>Ei, Nappa. Devem ter sobrado uns seis Saibamen.<k><p>Tire eles daí.<k> || EN: 
+   cf1/c14/c1402_01.sb:31 (x1) | <p>Este solo deve dar bons Saibamen.<k> || EN: 
+   cf1/c14/c1402_02.sb:28 (x1) | ...<k><p>Que tal? Uma luta de um contra um com os Saibamen!<k><p>Podemos fazer disso um jogo!<k> || EN: 
+   cf1/c14/c1402_02.sb:34 (x1) | Ele vai se surpreender com a força de verdade dos Saibamen!<k> || EN: 
+   cf1/c14/c1403_00.sb:25 (x1) | <p>M-mas o quê...?! O nível de poder dos Saibamen devia ser 1200!<k><p>Eles deviam ser tã || EN: 
+   cf1/c14/c1403_00.sb:34 (x1) | va deixá-lo continuar. Ele ia perder.<k><p>Aquele Saibaman não levou o inimigo a sério.<k><p>Eu ma || EN: 
+   cf1/c14/c1403_00.sb:49 (x1) | <p>Mostrem a ele do que os Saibamen são feitos de verdade!<k> || EN: 
+   cf1/c14/c1403_01.sb:30 (x1) | <p>Esses Saibamen são patéticos!<k><p>Pra que usar um gol || EN: 
+   cf_mes_QUEST:76:us (x1) | Yamcha deu a vida contra os<n>Saibamen. A batalha começa! || EN: 
+===== Chaos
+   cf0/bud/bud01_00.sb:30 (x24) | Chaos || EN: 
+   cf0/god/god01_00.sb:9 (x4) | <p>Para onde o Chaos foi sozinho? Talvez a Vovó Uranai saiba || EN: 
+   cf0/god/god01_00.sb:19 (x4) | <p>Parece que o Chaos está no campo de treinamento do Mestre  || EN: 
+   cf0/god/god01_00.sb:22 (x4) | <p>Aquele vagabundo do Chaos fugiu sem mim. Que ingrato!<k> || EN: 
+   cf1/c03/c0301_00.sb:32 (x1) | <p>Chaos!<k><p>Esta vai ser uma viagem perigosa. || EN: 
+   cf1/c03/c0302_01.sb:18 (x2) | <p>Chaos!!<k> || EN: 
+   cf1/c03/c0302_02.sb:30 (x1) | <p>Chaos!<k><p>É isso!<k><p>Eu tenho que protege || EN: 
+   cf1/c03/c0302_02.sb:30 (x1) | >Chaos!<k><p>É isso!<k><p>Eu tenho que proteger o Chaos... ele, que me quer bem como a um irmão || EN: 
+   cf1/c03/c0303_00.sb:24 (x2) | <p>Chaos!<k> || EN: 
+   cf1/c03/c0303_00.sb:28 (x1) | <p>Chaos! Você está bem?!<k> || EN: 
+   cf1/c08/c0803_02.sb:19 (x1) | teceu.<k><p>Por isso quer que você, o<n>Yamcha, o Chaos e o fulano<n>venham agora mesmo!<k> || EN: 
+   cf1/c08/c0804_00.sb:16 (x1) | do Mestre Kame.<k><p>Disse que eu, você, Yamcha e Chaos<n>temos que ir pra Torre Karin.<k> || EN: 
+   cf1/c08/c0804_02.sb:45 (x1) | <p>O que foi, Chaos?<k> || EN: 
+   cf1/c08/c0806_03.sb:43 (x1) | >...E assim...<k><p>Kuririn, Yamcha, Tenshinhan e Chaos<n>começaram seu rigoroso treino<n>com o || EN: 
+   cf1/c10/c1010_00.sb:13 (x2) | <p>Chaos... Esta luta é por você...<k><p>Vou me  || EN: 
+   cf1/c12/c1201_00.sb:10 (x1) | <p>Ei...<n>Vocês sabem onde está o Chaos?<k> || EN: 
+   cf1/c12/c1201_00.sb:13 (x1) | <p>O Chaos?<k><p>Acho que ele não teria saído do T || EN: 
+   cf1/c12/c1201_00.sb:25 (x1) | <p>Parece que o Chaos não está em lugar nenhum...<k> || EN: 
+   cf1/c12/c1201_00.sb:30 (x1) | por ele! O treino fica suspenso só até acharmos o Chaos.<k> || EN: 
+   cf1/c12/c1202_00.sb:16 (x1) | <p>Não sabemos pra onde o Chaos foi!<k><p>Achamos que a senhora podia n || EN: 
+   cf1/c12/c1202_00.sb:27 (x1) | <p>O que o Chaos estaria fazendo num lugar desses?!<k> || EN: 
+   cf1/c12/c1203_00.sb:16 (x1) | <p>(Chaos... Onde você está?)<k> || EN: 
+   cf1/c12/c1204_00.sb:25 (x1) | <p>Está dizendo que, por isso, não só feriria o Chaos...<k><p>Como também insultaria o própri || EN: 
+   cf1/c14/c1401_01.sb:16 (x1) | is Kis fortes!<k><p>Talvez sejam o Tenshinhan e o Chaos. Ou o Piccolo e o filho do Goku...<k> || EN: 
+   cf1/c14/c1401_01.sb:31 (x1) | <p>Chaos! Fique aqui!<k> || EN: 
+   cf1/c14/c1402_02.sb:13 (x1) | <p>Tenshinhan! Chaos!<k> || EN: 
+   cf1/c14/c1404_01.sb:13 (x1) | <p>Chaos?! Cadê você?! Ele foi pego pela explosã || EN: 
+   cf1/c14/c1404_01.sb:27 (x1) | <p>O que você está tentando fazer, Chaos?! Sai daí! FUJA!<k> || EN: 
+   cf1/c14/c1404_01.sb:34 (x1) | <p>Não, Chaos! Não faça isso!<k> || EN: 
+   cf1/c14/c1404_03.sb:22 (x1) | ><p>Ele não tem nem um arranhão! Não é justo... O Chaos deu a vida!<k> || EN: 
+   cf1/c14/c1404_03.sb:23 (x1) | <p>O Chaos já foi revivido pelas Esferas do Dragão || EN: 
+   cf1/c14/c1408_03.sb:25 (x1) | <p>Esta é pelo Chaos!<k> || EN: 
+   cf1/c16/c1604_00.sb:26 (x1) | sa brutal...<k><p>Agora só falta achar o corpo do Chaos... mas...?!<k> || EN: 
+   cf_mes_QUEST:26:us (x1) | Kami-Sama treina lutadores! Ache<n>Tenshinhan, Chaos e Yamcha. || EN: 
+   cf_mes_QUEST:30:us (x1) | Tenshinhan e Chaos juntos de novo!<n>Yamcha deve estar na  || EN: 
+   cf_mes_QUEST:69:us (x1) | O Chaos sumiu... Vá à \1P3Vovó\1Pn<n>para desco || EN: 
+   cf_mes_QUEST:70:us (x1) | O Chaos está no \1P3campo de treino<n>do Mutait || EN: 
+===== Red Ribbon|\bRR\b
+   cf0/skr/skr02_00.sb:54 (x1) |  foi atacada por um grupo que se chamava Exército Red Ribbon.<k> || EN: 
+   cf1/c10/c1002_03.sb:13 (x1) | <p>Aquele símbolo...<n>É o Exército Red Ribbon!<k> || EN: 
+   cf1/c10/c1006_00.sb:20 (x1) | <p>Eu lutei com o Exército Red Ribbon no fundo deste mar há muito tempo!<k><p || EN: 
+   cf1/c10/c1006_03.sb:15 (x1) | <p>É... Tomara que o Exército Red Ribbon<n>não esteja tramando nenhuma loucura.. || EN: 
+   character_name:18:us (x1) | Agente Red Ribbon || EN: 
+   character_name:20:us (x1) | Mecha Red Ribbon || EN: 
+   character_name:22:us (x1) | Robô da Tundra RR || EN: 
+   character_name:23:us (x1) | Desertor da RR || EN: 
+   character_name:24:us (x1) | Sobrevivente RR || EN: 
+   character_name:25:us (x1) | Médico Red Ribbon || EN: 
+   character_name:27:us (x1) | Soldado de Elite RR || EN: 
+   character_name:28:us (x1) | Soldado do Norte RR || EN: 
+   character_name:29:us (x1) | Ex-Sargento RR || EN: 
+   character_name:30:us (x1) | Ex-1° Sargento RR || EN: 
+   character_name:116:us (x1) | Desertor Red Ribbon || EN: 
+   character_name:117:us (x1) | Espião Red Ribbon || EN: 
+   character_name:209:us (x1) | Robô de Força RR || EN: 

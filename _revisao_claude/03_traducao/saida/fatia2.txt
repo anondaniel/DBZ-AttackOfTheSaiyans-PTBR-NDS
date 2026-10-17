@@ -1,0 +1,2226 @@
+### 756 [cf0/wst/wst01_00.sb:22] (x1)
+EN: <p>T-they got East City...is this place next?!<k><p>I'm so scared...! What am I gonna do?! I'm really, really scared!<k>
+PT: <p>E-eles acabaram com a Cidade do Leste... será que aqui é o próximo?!<k><p>Que medo...! O que eu vou fazer?! Estou com muito, muito medo!<k>
+### 757 [cf0/wst/wst01_00.sb:23] (x1)
+EN: <p>I'm a lady from the city, you know! I'm not like you country bumpkins!<k>
+PT: <p>Eu sou uma moça da cidade, viu! Não sou que nem vocês, caipiras!<k>
+### 758 [cf0/wst/wst01_00.sb:24] (x1)
+EN: <p>Hey, those are some weird clothes you got, man! You from the sticks, or what?<k>
+PT: <p>Ei, que roupa esquisita, hein, cara! Você é do mato, é?<k>
+### 759 [cf0/wst/wst01_00.sb:25] (x1)
+EN: <p>The frosted glass prevents you from looking inside.<k>
+PT: <p>O vidro fosco não deixa ver o lado de dentro.<k>
+### 760 [cf0/wst/wst01_00.sb:26] (x1)
+EN: <p>A note is written on the end of the car: <d>No Graffiti!<d><k>
+PT: <p>Há um aviso escrito na traseira do carro: <d>Proibido Pichar!<d><k>
+### 761 [cf0/wst/wst02_00.sb:23] (x1)
+EN: <p>I lost so much weight, and now look... I'm heartbroken.<k><p>It's no good... the pizza killed me. That and the potato chips too, I guess.<k>
+PT: <p>Emagreci tanto e agora olha só... Estou arrasado.<k><p>Não adianta... a pizza acabou comigo. A pizza e as batatinhas também, acho.<k>
+### 762 [cf0/wst/wst02_00.sb:24] (x1)
+EN: <p>M-man, I've been walking a while... I'm giving it everything I got!<k><p>I musta lost a lot of weight by this point, huh? Now it's okay to start eating pizza again, right?<k>
+PT: <p>N-nossa, já andei um bocado... Estou dando tudo de mim!<k><p>Já devo ter emagrecido um monte, né? Agora dá pra voltar a comer pizza, não dá?<k>
+### 763 [cf0/wst/wst02_00.sb:25] (x1)
+EN: <p>I-I'm so hot... I thought I'd go walk in heavy clothes to jump-start my metabolism...<k>
+PT: <p>E-estou com tanto calor... Achei que andar com roupa pesada ia acelerar o meu metabolismo...<k>
+### 764 [cf0/wst/wst02_00.sb:26] (x1)
+EN: <p>Press the X Button for the top row line, Y Button for the middle line, and B Button for the bottom line, right when the enemy attacks to execute an Active Guard.<k><p>If you get it right, you'll earn more resistance against Poison and things. It's worth trying out.<k>
+PT: <p>Aperte o Botão X para a linha de cima, o Botão Y para a do meio e o Botão B para a de baixo, bem na hora do ataque inimigo, para fazer uma Defesa Ativa.<k><p>Se acertar, você ganha mais resistência contra Veneno e outras coisas. Vale a pena tentar.<k>
+### 765 [cf0/wst/wst02_00.sb:27] (x1)
+EN: <p>Whisper whisper whisper!<k>
+PT: <p>Cochicho cochicho cochicho!<k>
+### 766 [cf0/wst/wst02_00.sb:28] (x1)
+EN: <p>Whisper whisper whisper! Whisper whisper whisper whisper!<k>
+PT: <p>Cochicho cochicho cochicho! Cochicho cochicho cochicho cochicho!<k>
+### 767 [cf0/wst/wst02_00.sb:29] (x1)
+EN: <p>A spy! A spy!<k>
+PT: <p>Um espião! Um espião!<k>
+### 768 [cf0/wst/wst02_00.sb:30] (x1)
+EN: <p>You heard about the East City explosion? I bet the villains in this house were behind it!<k><p>I pretty sure that's got to be it! I'm positive!<k>
+PT: <p>Ficou sabendo da explosão da Cidade do Leste? Aposto que os vilões desta casa estão por trás disso!<k><p>Tenho quase certeza de que é isso! Certeza absoluta!<k>
+### 769 [cf0/wst/wst02_00.sb:31] (x1)
+EN: <p>What a weird house! I bet some villain lives in there! It's gotta be packed with bad guys!<k>
+PT: <p>Que casa esquisita! Aposto que mora algum vilão aí! Deve estar cheia de bandidos!<k>
+### 770 [cf0/wst/wst02_00.sb:32] (x1)
+EN: <p>This house is suspicious, if you ask me! I hear weird animal sounds out of it all day!<k>
+PT: <p>Se quer saber, esta casa é suspeita! Ouço barulhos estranhos de bicho vindo dela o dia inteiro!<k>
+### 771 [cf0/wst/wst02_00.sb:33] (x1)
+EN: <p>Boy, it sure is hard to stop emitting carbon dioxide. I just can't do it!<k>
+PT: <p>Nossa, como é difícil parar de emitir gás carbônico. Não consigo de jeito nenhum!<k>
+### 772 [cf0/wst/wst02_00.sb:34] (x1)
+EN: <p>I'm sick of going out on drives! We need to think more about the environment now!<k><p>We need to stop emitting carbon dioxide, and stuff like that!<k>
+PT: <p>Cansei de sair pra passear de carro! Agora temos que pensar mais no meio ambiente!<k><p>Temos que parar de emitir gás carbônico e coisas assim!<k>
+### 773 [cf0/wst/wst02_00.sb:35] (x1)
+EN: <p>I'm bored... I wish someone would take me on a drive or something.<k>
+PT: <p>Que tédio... Queria que alguém me levasse pra passear de carro.<k>
+### 774 [cf0/wst/wst02_00.sb:36] (x1)
+EN: <p>I heard there was a terrorist attack on East City. Places like these, though... they're way safer.<k>
+PT: <p>Ouvi dizer que teve um ataque terrorista na Cidade do Leste. Mas lugares como este... são bem mais seguros.<k>
+### 775 [cf0/wst/wst02_00.sb:37] (x1)
+EN: <p>There's someone in Old City who just loves carrots.<k><p>If you've got one, why don't you pay him a visit?<k>
+PT: <p>Tem alguém na Cidade Velha que adora cenouras.<k><p>Se você tiver alguma, por que não faz uma visita a ele?<k>
+### 776 [cf0/wst/wst02_00.sb:38] (x1)
+EN: <p>Old City is just down those stairs. It's not very safe there, so be careful.<k>
+PT: <p>A Cidade Velha fica logo descendo aquela escada. Não é muito segura, então tome cuidado.<k>
+### 777 [cf0/wst/wst02_00.sb:39] (x1)
+EN: <p>Rrrroww! Ffft!<k>
+PT: <p>Rrrrrau! Ffft!<k>
+### 778 [cf0/wst/wst02_00.sb:40] (x1)
+EN: <p>Reeowww!<k>
+PT: <p>Rrrrriau!<k>
+### 779 [cf0/wst/wst02_00.sb:41] (x1)
+EN: <p>Maoww...<k>
+PT: <p>Miaau...<k>
+### 780 [cf0/wst/wst02_00.sb:42] (x1)
+EN: <p>Um, what's the sound that regular dogs make?<k><p>Was it <d>Dog! Dog dog dog dog!<d><k><p>I'm pretty sure that was it.<k>
+PT: <p>Hã, qual é o som que os cachorros normais fazem?<k><p>Era <d>Cão! Cão cão cão cão!<d><k><p>Tenho quase certeza de que era isso.<k>
+### 781 [cf0/wst/wst02_00.sb:43] (x1)
+EN: <p>Moff! Moff!<k>
+PT: <p>Uof! Uof!<k>
+### 782 [cf0/wst/wst02_00.sb:44] (x1)
+EN: <p>Wurfle!<k>
+PT: <p>Auff!<k>
+### 783 [cf0/wst/wst02_00.sb:45] (x1)
+EN: <p>It's not very nice to go peeping into people's homes.<k>
+PT: <p>Não é muito educado ficar espiando a casa dos outros.<k>
+### 784 [cf0/wst/wst02_00.sb:46] (x1)
+EN: <p>A sign on the door reads <d>Coro.<d><k><p>It must be a doghouse.<k>
+PT: <p>Uma placa na porta diz <d>Coro.<d><k><p>Deve ser uma casinha de cachorro.<k>
+### 785 [cf0/wst/wst03_00.sb:20] (x1)
+EN: <p>I can't take it anymore! My eyes are spinning! I feel so... blorrff!<k>
+PT: <p>Não aguento mais! Estou vendo tudo girar! Estou me sentindo... blérrgh!<k>
+### 786 [cf0/wst/wst03_00.sb:21] (x1)
+EN: <p>Oh man... it's all over... I can't control myself anymore...<k>
+PT: <p>Ai, ai... acabou tudo... não consigo mais me controlar...<k>
+### 787 [cf0/wst/wst03_00.sb:22] (x1)
+EN: <p>I'm sure envious of these kids... heh heh.<k>
+PT: <p>Que inveja dessas crianças... heh heh.<k>
+### 788 [cf0/wst/wst03_00.sb:23] (x1)
+EN: <p>How many laps have we done by now, anyway?<k>
+PT: <p>Quantas voltas a gente já deu, afinal?<k>
+### 789 [cf0/wst/wst03_00.sb:24] (x1)
+EN: <p>Around we go!<k>
+PT: <p>Lá vamos nós!<k>
+### 790 [cf0/wst/wst03_00.sb:25] (x1)
+EN: <p>Yaaahhh! I'm running!<k>
+PT: <p>Iaaaah! Estou correndo!<k>
+### 791 [cf0/wst/wst03_00.sb:26] (x1)
+EN: <p>How many times have we gotten dizzy and fallen over by now, anyway?<k>
+PT: <p>Quantas vezes a gente já ficou tonto e caiu, afinal?<k>
+### 792 [cf0/wst/wst03_00.sb:27] (x1)
+EN: <p>Where'll we stop? I dunno!<k>
+PT: <p>Onde a gente vai parar? Sei lá!<k>
+### 793 [cf0/wst/wst03_00.sb:28] (x1)
+EN: <p>Whoaa! I'm dizzy!<k>
+PT: <p>Uaaa! Que tontura!<k>
+### 794 [cf0/wst/wst03_00.sb:29] (x1)
+EN: <p>It's Lait-Lait! Would you like some coffee?<k><p>Um... is that Lait-Lait something you put in the coffee?<k><p>Oh, ewwwww! I don't even want to know what it is!<k>
+PT: <p>É o Lait-Lait! Aceita um café?<k><p>Hã... esse Lait-Lait é algo que se põe no café?<k><p>Ai, que nojooo! Nem quero saber o que é!<k>
+### 795 [cf0/wst/wst03_00.sb:30] (x1)
+EN: <p>Maybe the maid thing didn't work out, but this next will for sure! It's Lait-Lait Coffee!<k><p>Um, I have no idea what that means...<k><p>Besides, that sounds like the name of a panda or something.<k>
+PT: <p>Talvez a ideia das empregadas não tenha dado certo, mas esta vai dar com certeza! É o Café Lait-Lait!<k><p>Hã, não faço ideia do que isso quer dizer...<k><p>Além disso, parece nome de panda.<k>
+### 796 [cf0/wst/wst03_00.sb:31] (x1)
+EN: <p>Just quit it, okay? You have no business sense!<k><p>I do too! There's gonna be a maid cafe next! It's gonna happen, I swear!<k>
+PT: <p>Desiste, tá? Você não tem tino pra negócios!<k><p>Tenho sim! O próximo vai ser um café de empregadas! Vai acontecer, eu juro!<k>
+### 797 [cf0/wst/wst03_00.sb:32] (x1)
+EN: <p>I saw these huge shooting stars headed eastward!<k><p>Those must be what blew up East City! That's got to be it!<k>
+PT: <p>Vi umas estrelas cadentes enormes indo pro leste!<k><p>Foram elas que explodiram a Cidade do Leste! Só pode ser isso!<k>
+### 798 [cf0/wst/wst03_00.sb:33] (x1)
+EN: <p>Boy, am I busy. I've got no time to clean, even. I wish someone could do it for me.<k>
+PT: <p>Nossa, como estou ocupado. Não tenho tempo nem pra limpar. Queria que alguém fizesse isso por mim.<k>
+### 799 [cf0/wst/wst03_00.sb:34] (x1)
+EN: <p>What? Hey, you're free, aren't you? Could you pick up some of this garbage?<k>
+PT: <p>O quê? Ei, você está livre, não está? Pode recolher um pouco deste lixo?<k>
+### 800 [cf0/wst/wst03_00.sb:36] (x2)
+EN: <p>Norrww...<k>
+PT: <p>Nhaaau...<k>
+### 801 [cf0/wst/wst03_00.sb:38] (x1)
+EN: <p>We're hearing rumors about East City, too. It all smells pretty fishy to us!<k>
+PT: <p>Também estamos ouvindo boatos sobre a Cidade do Leste. Pra nós, tem coisa estranha nessa história!<k>
+### 802 [cf0/wst/wst03_00.sb:39] (x1)
+EN: <p>People better start noticing soon. That guy is just gonna pop sooner or later.<k>
+PT: <p>É bom o pessoal começar a perceber logo. Aquele cara vai explodir mais cedo ou mais tarde.<k>
+### 803 [cf0/wst/wst03_00.sb:40] (x1)
+EN: <p>That guy's so weird... always going on about this crazy stuff. I can just tell he's trouble.<k>
+PT: <p>Aquele cara é tão esquisito... sempre falando essas maluquices. Dá pra ver que ele é encrenca.<k>
+### 804 [cf0/wst/wst03_00.sb:44] (x1)
+EN: <p>Ahh... carrots... wonderful, wonderful carrots...<k>
+PT: <p>Ahh... cenouras... maravilhosas, maravilhosas cenouras...<k>
+### 805 [cf0/wst/wst03_00.sb:45] (x1)
+EN: <p>Carrots... you have any carrots?<k>
+PT: <p>Cenouras... você tem cenouras?<k>
+### 806 [cf0/wst/wst03_00.sb:46] (x1)
+EN: <p>I just love carrots... All the world's a paradise as long as I have carrots...<k><p>If you find any carrots, please bring them back to me...<k><p>I've got some great stuff for you... I'm serious here...<k>
+PT: <p>Eu simplesmente adoro cenouras... O mundo todo é um paraíso se eu tiver cenouras...<k><p>Se encontrar cenouras, por favor, traga pra mim...<k><p>Tenho umas coisas ótimas pra você... Estou falando sério...<k>
+### 807 [cf0/wst/wst03_00.sb:47] (x1)
+EN: <p>Give him all the carrots you have?<k>
+PT: <p>Dar a ele todas as cenouras que você tem?<k>
+### 808 [cf0/wst/wst03_00.sb:48] (x1)
+EN: <p>This makes %d carrots you've given me in all.<k>
+PT: <p>Com estas, você já me deu %d cenouras no total.<k>
+### 809 [cf0/wst/wst03_00.sb:49] (x1)
+EN: <p>Ah...! You brought carrots for me. You can have this in exchange. Thanks for coming through for me.<k>
+PT: <p>Ah...! Você trouxe cenouras pra mim. Pode ficar com isto em troca. Obrigado por me ajudar.<k>
+### 810 [cf0/wst/wst03_00.sb:50] (x1)
+EN: <p>A hundred carrots! You've given me over a hundred carrots!<k><p>Ahh...how wonderful... You've got to take this... It's a token of my gratitude...<k>
+PT: <p>Cem cenouras! Você já me deu mais de cem cenouras!<k><p>Ahh... que maravilha... Você tem que ficar com isto... É um sinal da minha gratidão...<k>
+### 811 [cf0/wst/wst03_00.sb:51] (x1)
+EN: <p>Whoa... Five hundred!<k><p>500 carrots...! You've given me 500 of them!<k><p>I just don't know what to say... Take this, okay? It's a token of my thanks.<k>
+PT: <p>Uau... Quinhentas!<k><p>500 cenouras...! Você me deu 500 cenouras!<k><p>Nem sei o que dizer... Pegue isto, tá? É um sinal do meu agradecimento.<k>
+### 812 [cf0/wst/wst03_00.sb:52] (x1)
+EN: <p>I can't believe it...! I just can't!<k><p>You've given me 1000 carrots! A full thousand!<k><p>Isn't it beautiful? You're so wonderful to me... Thank you so much...!<k><p>This is the greatest gift I can give you... Thank you! Oh, thank you!<k>
+PT: <p>Não acredito...! Não acredito mesmo!<k><p>Você me deu 1000 cenouras! Mil inteirinhas!<k><p>Não é lindo? Você é tão bom pra mim... Muito obrigado...!<k><p>Este é o maior presente que posso te dar... Obrigado! Ai, obrigado!<k>
+### 813 [cf0/wst/wst03_00.sb:53] (x1)
+EN: <p>Um... could I ask you for 1000 carrots? Would that be too hard...?<k><p>If you can get those, I'll give you the key to a certain place...<k><p>A place where a legendary item lies in rest, waiting to be found. You curious yet...?<k>
+PT: <p>Hã... posso te pedir 1000 cenouras? Seria difícil demais...?<k><p>Se conseguir, te dou a chave de um certo lugar...<k><p>Um lugar onde repousa um item lendário, esperando ser encontrado. Ficou curioso...?<k>
+### 814 [cf0/wst/wst03_00.sb:54] (x1)
+EN: <p>I really want 500 carrots... Get me those, and you'll get an item that'll make you richer.<k>
+PT: <p>Eu queria muito 500 cenouras... Consiga pra mim e você ganha um item que vai te deixar mais rico.<k>
+### 815 [cf0/wst/wst03_00.sb:55] (x1)
+EN: <p>You know... I'd really like to have at least 100 of these...<k><p>Get me those, and I'll give you an item that makes it easier to run from enemies...<k>
+PT: <p>Sabe... eu queria ter pelo menos 100 delas...<k><p>Consiga pra mim e te dou um item que facilita fugir dos inimigos...<k>
+### 816 [cf0/wst/wst03_00.sb:56] (x1)
+EN: <p>Carrots... I can't live without carrots...<k>
+PT: <p>Cenouras... não vivo sem cenouras...<k>
+### 817 [cf0/wst/wst03_00.sb:57] (x1)
+EN: <p>Hey... do you have any carrots...?<k>
+PT: <p>Ei... você tem cenouras...?<k>
+### 818 [cf0/wst/wst03_00.sb:58] (x1)
+EN: <p>Oh... that's a shame...<k>
+PT: <p>Ah... que pena...<k>
+### 819 [cf0/wst/wst03_00.sb:59] (x1)
+EN: <p>The door is boarded shut. It must have gone out of business.<k>
+PT: <p>A porta está pregada com tábuas. Deve ter fechado as portas.<k>
+### 820 [cf0/wst/wst03_00.sb:60] (x1)
+EN: <p>You can hear voices whispering inside...<k><p><d>Accuracy<d> is pretty important... I guess you need to land attacks for them to mean anything, huh?<k>
+PT: <p>Dá pra ouvir vozes cochichando lá dentro...<k><p>A <d>Precisão<d> é bem importante... Os ataques só valem alguma coisa se acertarem, né?<k>
+### 821 [cf0/wst/wst03_00.sb:61] (x1)
+EN: <p><d>Carrot Storehouse<d><k>
+PT: <p><d>Depósito de Cenouras<d><k>
+### 822 [cf0/wst/wst03_00.sb:62] (x1)
+EN: <p>A sickly-sweet smell emanates from the other side of the door.<k>
+PT: <p>Um cheiro enjoativo de doce vem do outro lado da porta.<k>
+### 823 [cf0/wst/wst04_00.sb:55] (x1)
+EN: <p>Oh! Perfect! I was just thinking about giving this to you.<k>
+PT: <p>Oh! Perfeito! Eu estava mesmo pensando em te dar isto.<k>
+### 824 [cf0/wst/wst04_00.sb:56] (x1)
+EN: <p>You now have more capsule shortcuts!<k>
+PT: <p>Agora você tem mais atalhos de cápsula!<k>
+### 825 [cf0/wst/wst04_00.sb:57] (x1)
+EN: <p>Take care of it, okay?<k>
+PT: <p>Cuide bem dele, tá?<k>
+### 826 [cf0/wst/wst04_00.sb:58] (x1)
+EN: <p>Ooh, here's the newlywed now! Congratulations! I'm so jealous!<k>
+PT: <p>Olha só o recém-casado! Parabéns! Que inveja!<k>
+### 827 [cf0/wst/wst04_00.sb:59] (x1)
+EN: <p>Who coulda guessed Goku would get married, huh? What a crazy world this is!<k>
+PT: <p>Quem diria que o Goku ia casar, hein? Que mundo maluco!<k>
+### 828 [cf0/wst/wst04_00.sb:60] (x1)
+EN: <p>The Earth's in a life-or-death struggle right now, and nobody even has a clue...<k><p>Sure feels weird, doesn't it?<k>
+PT: <p>A Terra está numa luta de vida ou morte agora, e ninguém faz ideia...<k><p>É estranho, não é?<k>
+### 829 [cf0/wst/wst04_00.sb:61] (x1)
+EN: <p>Don't you think the owner ought to say hi to us? We've been living here a while now.<k><p>Well, yeah! I think it's about time he did!<k>
+PT: <p>Você não acha que o dono devia vir cumprimentar a gente? Já moramos aqui faz um tempo.<k><p>Pois é! Acho que já está na hora!<k>
+### 830 [cf0/wst/wst04_00.sb:62] (x1)
+EN: <p>Ahh, life is so easy in here! You think we can take this car, too?<k><p>Oh, of course! Look at how many they've got! Let's hop in!<k>
+PT: <p>Ahh, que vida boa aqui dentro! Será que a gente pode pegar este carro também?<k><p>Ah, claro! Olha quantos eles têm! Vamos subir!<k>
+### 831 [cf0/wst/wst04_00.sb:63] (x1)
+EN: <p>This house is huge! We could live here, and nobody'd ever notice!<k><p>Oh, totally! You wanna do it? Yeah, let's do it!<k>
+PT: <p>Esta casa é enorme! Dava pra gente morar aqui e ninguém ia perceber!<k><p>Ah, com certeza! Quer fazer isso? É, vamos nessa!<k>
+### 832 [cf0/wst/wst04_00.sb:64] (x1)
+EN: <p>Welcome, guest.<k><p>What, do you want to leave?<k><p>Do I look like your servant? Forget it.<k>
+PT: <p>Bem-vindo, visitante.<k><p>O quê, quer sair?<k><p>Por acaso eu pareço seu empregado? Esqueça.<k>
+### 833 [cf0/wst/wst04_00.sb:65] (x1)
+EN: <p>Welcome, guest.<k><p>What are you here for? If you do not have a problem to discuss, do not bother me.<k>
+PT: <p>Bem-vindo, visitante.<k><p>O que deseja? Se não tiver um problema a tratar, não me incomode.<k>
+### 834 [cf0/wst/wst04_00.sb:66] (x1)
+EN: <p>Welcome. Are you a guest?<k><p>State your business now.<k>
+PT: <p>Bem-vindo. É um visitante?<k><p>Diga logo o que deseja.<k>
+### 835 [cf0/wst/wst04_00.sb:67] (x1)
+EN: <p><d>The first automobile developed by Capsule Corporation.<d><k><p><d>Its charming design has earned it a legion of fans even today.<d><k>
+PT: <p><d>O primeiro automóvel desenvolvido pela Corporação Cápsula.<d><k><p><d>O design charmoso conquistou uma legião de fãs até hoje.<d><k>
+### 836 [cf0/wst/wst04_00.sb:68] (x1)
+EN: <p><d>The first mass-produced anti-gravity scooter, the result of a lifelong dream.<d><k>
+PT: <p><d>A primeira moto antigravidade produzida em série, fruto do sonho de uma vida inteira.<d><k>
+### 837 [cf0/wst/wst04_00.sb:69] (x1)
+EN: <p><d>The latest light airplane, capable of vertical takeoff and landing. Anyone can pilot it.<d><k>
+PT: <p><d>O mais novo avião leve, com decolagem e pouso verticais. Qualquer um consegue pilotar.<d><k>
+### 838 [cf0/wst/wst05_00.sb:42] (x1)
+EN: <p>Boy, East City is in bad shape! I don't know any details, but it's in real bad shape!<k><p>If it's anything like how I am without any makeup, then it must be simply horrible!<k>
+PT: <p>Nossa, a Cidade do Leste está em péssimo estado! Não sei os detalhes, mas está feia a coisa!<k><p>Se for parecido comigo sem maquiagem, então deve estar simplesmente horrível!<k>
+### 839 [cf0/wst/wst05_00.sb:43] (x1)
+EN: <p>Bulma never comes back home these days.<k><p>Maybe she's become a delinquent! I bet that's it! Maybe I should join her in a gang or something!<k>
+PT: <p>A Bulma nunca mais volta pra casa.<k><p>Talvez ela tenha virado delinquente! Aposto que é isso! Talvez eu devesse entrar numa gangue com ela!<k>
+### 840 [cf0/wst/wst05_00.sb:44] (x1)
+EN: <p>Well, nice to see you again! You're looking wonderful these days!<k><p>You people never bother seeing me. Honestly! I get lonely, you know!<k>
+PT: <p>Ora, que bom te ver de novo! Você está com uma aparência ótima!<k><p>Vocês nunca vêm me visitar. Francamente! Eu fico sozinha, sabia?<k>
+### 841 [cf0/wst/wst05_00.sb:45] (x1)
+EN: <p>Well! You're a handsome one, aren't you?<k><p>Nice to meet you! I'm Bulma's mother!<k>
+PT: <p>Ora! Que rapaz bonito, hein?<k><p>Muito prazer! Eu sou a mãe da Bulma!<k>
+### 842 [cf0/wst/wst05_00.sb:47] (x1)
+EN: <p>Boy, I'm getting tired... Guess I'll have to sleep it off.<k>
+PT: <p>Nossa, estou ficando cansado... Acho que vou ter que dormir pra passar.<k>
+### 843 [cf0/wst/wst05_00.sb:48] (x1)
+EN: <p>Ahhh, it's so warm... It's like heaven in here!<k>
+PT: <p>Ahhh, que quentinho... Parece o paraíso aqui dentro!<k>
+### 844 [cf0/wst/wst05_00.sb:49] (x1)
+EN: <p>Whoa!<k><p>Hey, I'm not a criminal or anything! I'm just shacking up here for a bit!<k>
+PT: <p>Opa!<k><p>Ei, eu não sou bandido nem nada! Só estou me abrigando aqui um pouquinho!<k>
+### 845 [cf0/wst/wst05_00.sb:50] (x1)
+EN: <p>I swear, I'm not a criminal! Don't worry about me!<k>
+PT: <p>Juro que não sou bandido! Não se preocupe comigo!<k>
+### 846 [cf0/wst/wst05_00.sb:53] (x1)
+EN: <p>Nyu nyu nyuuuu...<k>
+PT: <p>Nhu nhu nhuuuu...<k>
+### 847 [cf0/wst/wst05_00.sb:54] (x1)
+EN: <p>Nghahh!<k>
+PT: <p>Nhaah!<k>
+### 848 [cf0/wst/wst05_00.sb:55] (x1)
+EN: <p>Mreowwhh!<k>
+PT: <p>Mrraaau!<k>
+### 849 [cf0/wst/wst05_00.sb:56] (x1)
+EN: <p>Myah?!<k>
+PT: <p>Miá?!<k>
+### 850 [cf0/wst/wst05_00.sb:57] (x1)
+EN: <p>......<k><p>......<k><p>Do you really care that much about me?<k>
+PT: <p>......<k><p>......<k><p>Você se importa tanto assim comigo?<k>
+### 851 [cf0/wst/wst05_00.sb:58] (x1)
+EN: <p>......<k><p>......<k><p>You just don't give up, do you?<k>
+PT: <p>......<k><p>......<k><p>Você não desiste mesmo, né?<k>
+### 852 [cf0/wst/wst05_00.sb:59] (x1)
+EN: <p>......<k><p>......<k><p>I'm sleeping. Quit bothering me.<k>
+PT: <p>......<k><p>......<k><p>Estou dormindo. Pare de me incomodar.<k>
+### 853 [cf0/wst/wst05_00.sb:61] (x1)
+EN: <p>Mrowh!<k>
+PT: <p>Mrau!<k>
+### 854 [cf0/wst/wst05_00.sb:63] (x1)
+EN: <p>Woffle! Woffle!<k>
+PT: <p>Uófi! Uófi!<k>
+### 855 [cf0/wst/wst05_00.sb:64] (x1)
+EN: <p>My concern now lies with my companions that live in East City...<k><p>I am safe simply because I happened to be here. It is nothing but pure, simple luck.<k><p>What can I do for all of them? That is all I can think about, every day...<k>
+PT: <p>A minha preocupação agora é com os meus companheiros que vivem na Cidade do Leste...<k><p>Estou a salvo só porque por acaso estava aqui. Foi pura e simples sorte.<k><p>O que posso fazer por todos eles? É só nisso que consigo pensar, todos os dias...<k>
+### 856 [cf0/wst/wst05_00.sb:65] (x1)
+EN: <p>Everyone here is basking in their good fortune as if they were entitled to it.<k><p>A single stroke of luck, and they could have been on the other side of this window.<k><p>When I think about that, I can't help but feel awkward...<k>
+PT: <p>Todos aqui aproveitam a boa sorte como se tivessem direito a ela.<k><p>Um simples golpe de azar, e poderiam estar do outro lado desta janela.<k><p>Quando penso nisso, não consigo deixar de me sentir constrangido...<k>
+### 857 [cf0/wst/wst05_00.sb:66] (x1)
+EN: <p>The place we are in right now is a safe, clean, and comfortable environment.<k><p>I am unable to hide the joy I feel to be free from hunger and permitted to run free.<k><p>Wahoooo!!<k>
+PT: <p>O lugar onde estamos agora é um ambiente seguro, limpo e confortável.<k><p>Não consigo esconder a alegria de estar livre da fome e poder correr à vontade.<k><p>Uhuuuuu!!<k>
+### 858 [cf0/wst/wst05_00.sb:67] (x1)
+EN: <p>Caw caw!<k>
+PT: <p>Cróc cróc!<k>
+### 859 [cf0/wst/wst05_00.sb:68] (x1)
+EN: <p>Coo coo coo!<k>
+PT: <p>Ru ru ru!<k>
+### 860 [cf0/wst/wst05_00.sb:69] (x1)
+EN: <p>Cheep cheep!<k>
+PT: <p>Piu piu!<k>
+### 861 [cf0/wst/wst05_00.sb:70] (x1)
+EN: <p>Some skills cannot be learned right off the bat... Try to experiment a little.<k>
+PT: <p>Algumas técnicas não dá pra aprender de cara... Tente experimentar um pouco.<k>
+### 862 [cf0/wst/wst05_00.sb:71] (x1)
+EN: <p>The West City skyline is laid out beyond the window.<k>
+PT: <p>A paisagem da Cidade do Oeste se estende além da janela.<k>
+### 863 [cf0/wst/wst06_00.sb:71] (x1)
+EN: <p>They found an alien spaceship in East City, didn't they? Man, I'd love to see it!<k>
+PT: <p>Acharam uma nave alienígena na Cidade do Leste, não foi? Nossa, eu adoraria ver!<k>
+### 864 [cf0/wst/wst06_00.sb:72] (x1)
+EN: <p>It's always nothing but men in your group. Why don'tcha hang out with girls a little more, huh?<k>
+PT: <p>O seu grupo é sempre só de homens. Por que não anda mais com garotas, hein?<k>
+### 865 [cf0/wst/wst06_00.sb:73] (x1)
+EN: <p>Hey! You doing okay? I'm fit as a fiddle! Ha ha ha!<k>
+PT: <p>Ei! Tudo bem com você? Eu estou em plena forma! Rá rá rá!<k>
+### 866 [cf0/wst/wst06_00.sb:74] (x1)
+EN: <p>Ah, a visitor! What would you like to see? My private dirty book stash is right here!<k>
+PT: <p>Ah, uma visita! O que gostaria de ver? A minha coleção particular de revistinhas picantes está bem aqui!<k>
+### 867 [cf0/wst/wst06_00.sb:75] (x1)
+EN: <p>One bolt's screwed in, two go missing...<k><p>Two bolts are screwed in, four go missing...<k><p>I think I'm gonna have a screw loose myself before too long.<k>
+PT: <p>Aperto um parafuso, somem dois...<k><p>Aperto dois parafusos, somem quatro...<k><p>Acho que daqui a pouco quem vai ficar com um parafuso a menos sou eu.<k>
+### 868 [cf0/wst/wst06_00.sb:76] (x1)
+EN: <p>I'm not done yet...! I can do this!<k><p>All I gotta do is follow the steps in this manual!<k><p>I can do it! I can change myself! Yes I can!<k>
+PT: <p>Ainda não acabou...! Eu consigo!<k><p>É só seguir os passos deste manual!<k><p>Eu consigo! Eu consigo mudar! Consigo sim!<k>
+### 869 [cf0/wst/wst06_00.sb:77] (x1)
+EN: <p>So this connects to this... and that connects to over there...<k><p>Dahh, I don't get this at all! How does this thing work?!<k>
+PT: <p>Então isto liga nisto... e aquilo liga lá...<k><p>Ahh, não entendo nada! Como essa coisa funciona?!<k>
+### 870 [cf0/wst/wst06_00.sb:78] (x1)
+EN: <p>Nnnnyuuu...<k>
+PT: <p>Nnnnhuuu...<k>
+### 871 [cf0/wst/wst06_00.sb:79] (x1)
+EN: <p>Mew mew!<k>
+PT: <p>Miau miau!<k>
+### 872 [cf0/wst/wst06_00.sb:80] (x1)
+EN: <p>Mmmyuuu...<k>
+PT: <p>Mmmhuuu...<k>
+### 873 [cf0/wst/wst06_00.sb:81] (x1)
+EN: <p>An airplane? A submarine? A spaceship? This could be anything, really.<k>
+PT: <p>Um avião? Um submarino? Uma nave espacial? Isto pode ser qualquer coisa, na verdade.<k>
+### 874 [cf0/wst/wst06_00.sb:82] (x1)
+EN: <p>The cluttered bookshelf is filled with nothing but dirty books.<k>
+PT: <p>A estante bagunçada está cheia de nada além de revistinhas picantes.<k>
+### 875 [cf0/wst/wst06_00.sb:83] (x1)
+EN: <p>A model made of rigid clay. This must be how they finalize their designs.<k>
+PT: <p>Uma maquete de argila rígida. Deve ser assim que eles finalizam os projetos.<k>
+### 876 [cf0/wst/wst06_00.sb:84] (x1)
+EN: <p>Someone is halfway done building an airplane model on this desk. There's parts everywhere.<k>
+PT: <p>Alguém deixou uma maquete de avião pela metade nesta mesa. Tem peças por todo lado.<k>
+### 877 [cf0/yun/yun01_01.sb:18] (x1)
+EN: <p>A bizarre-looking object sits here.<k>
+PT: <p>Há um objeto de aparência bizarra aqui.<k>
+### 878 [cf0/yun/yun02_00.sb:15] (x1)
+EN: <p>Your way is blocked by a gigantic clump of ice.<k>
+PT: <p>Um bloco de gelo gigantesco bloqueia o caminho.<k>
+### 879 [cf1/c00/c0000_99.sb:23] (x2)
+EN: Shenron
+PT: Shenlong
+### 880 [cf1/c00/c0000_99.sb:24] (x1)
+EN: <p>I will grant you a single wish. What do you desire?<k>
+PT: <p>Eu realizarei um único desejo. O que vocês desejam?<k>
+### 881 [cf1/c00/c0000_99.sb:25] (x1)
+EN: Lots of experience points
+PT: Muitos pontos de experiência
+### 882 [cf1/c00/c0000_99.sb:26] (x1)
+EN: Tons of AP
+PT: Uma montanha de AP
+### 883 [cf1/c00/c0000_99.sb:27] (x1)
+EN: Make me filthy rich
+PT: Me deixe podre de rico
+### 884 [cf1/c00/c0000_99.sb:28] (x1)
+EN: A really awesome item
+PT: Um item realmente incrível
+### 885 [cf1/c00/c0000_99.sb:29] (x1)
+EN: To go somewhere new
+PT: Ir a um lugar novo
+### 886 [cf1/c00/c0000_99.sb:30] (x1)
+EN: To fight the ultimate enemy
+PT: Enfrentar o inimigo supremo
+### 887 [cf1/c00/c0000_99.sb:31] (x1)
+EN: <p>Your wish is granted. Farewell.<k>
+PT: <p>Seu desejo foi realizado. Adeus.<k>
+### 888 [cf1/c00/c0000_99.sb:33] (x1)
+EN: <p>Very well. Allow me to raise your experience.<k>
+PT: <p>Muito bem. Permitam-me aumentar sua experiência.<k>
+### 889 [cf1/c00/c0000_99.sb:34] (x1)
+EN: Obtained <c=#8BEFD4>experience<c>!
+PT: Ganhou <c=#8BEFD4>experiência<c>!
+### 890 [cf1/c00/c0000_99.sb:35] (x1)
+EN: <p>Very well. I shall grant you the power to enhance your skills.<k>
+PT: <p>Muito bem. Eu lhes concederei o poder de aprimorar suas técnicas.<k>
+### 891 [cf1/c00/c0000_99.sb:36] (x1)
+EN: Obtained <c=#8BEFD4>AP<c>!
+PT: Ganhou <c=#8BEFD4>AP<c>!
+### 892 [cf1/c00/c0000_99.sb:37] (x1)
+EN: <p>Very well. I shall grant you vast riches.<k>
+PT: <p>Muito bem. Eu lhes concederei grandes riquezas.<k>
+### 893 [cf1/c00/c0000_99.sb:38] (x1)
+EN: Obtained <c=#8BEFD4>Zeni<c>!
+PT: Ganhou <c=#8BEFD4>Zeni<c>!
+### 894 [cf1/c00/c0000_99.sb:39] (x1)
+EN: <p>Very well. I shall grant you this.<k>
+PT: <p>Muito bem. Eu lhes concederei isto.<k>
+### 895 [cf1/c00/c0000_99.sb:40] (x1)
+EN: <p>At the location of the dragon-shaped rock, I have opened a portal to another dimension.<k><p>Cross it, and you will fight an enemy whose strength is beyond anything you have encountered.<k>
+PT: <p>No local da rocha em forma de dragão, abri um portal para outra dimensão.<k><p>Atravessem-no e enfrentarão um inimigo com uma força além de tudo o que já viram.<k>
+### 896 [cf1/c00/c0001_00.sb:10] (x1)
+EN: <p>Come on, everyone!<n>Master Roshi's waiting for you!<k><p>We're done packing the food and everything! Get down out of there and let's get moving!<k>
+PT: <p>Vamos, pessoal!<n>O Mestre Kame está esperando!<k><p>A comida e tudo mais já estão embalados! Desçam daí e vamos andando!<k>
+### 897 [cf1/c00/c0001_00.sb:14] (x1)
+EN: <p>Snoorrrre...<k>
+PT: <p>Rooonc...<k>
+### 898 [cf1/c00/c0001_00.sb:16] (x1)
+EN: <p>Zzz... Goku... thanks for reviving me...<k><p>At the next World Martial Arts Tournament... I swear I'm gonna... zzz...<k>
+PT: <p>Zzz... Goku... obrigado por me reviver...<k><p>No próximo Torneio de Artes Marciais... eu juro que vou... zzz...<k>
+### 899 [cf1/c00/c0001_00.sb:17] (x1)
+EN: <p>Krillin! Helloooo?<k>
+PT: <p>Kuririn! Alôôô?<k>
+### 900 [cf1/c00/c0001_00.sb:20] (x1)
+EN: <p>...!!!<n>Oh! Hey, Launch!<n>Good morning!<k>
+PT: <p>...!!!<n>Ah! Oi, Lunch!<n>Bom dia!<k>
+### 901 [cf1/c00/c0001_00.sb:21] (x1)
+EN: <p>Ahh... ahhh... ahhhh-choooo!!<k>
+PT: <p>Ah... ahhh... ahhhh-tchiiim!!<k>
+### 902 [cf1/c00/c0001_00.sb:22] (x1)
+EN: <p>Brrr! Sure is a cold one today, huh?<k>
+PT: <p>Brrr! Está frio hoje, hein?<k>
+### 903 [cf1/c00/c0001_00.sb:23] (x1)
+EN: <p>Yeah... it certainly...<n>ahh... ahhhhh...<k>
+PT: <p>É... está mesmo...<n>ahh... ahhhhh...<k>
+### 904 [cf1/c00/c0001_00.sb:25] (x1)
+EN: <p>Ahh-chooo!!!!!<k>
+PT: <p>Ahh-tchiiim!!!!!<k>
+### 905 [cf1/c00/c0001_00.sb:26] (x1)
+EN: <p>Listen up, you freaks! How much longer you gonna be sleeping, huh?!<k><p>You wanna keep the turtle hermit waitin' all day?! Get your lazy butts outta bed NOW!<k>
+PT: <p>Escutem aqui, seus esquisitos! Até quando vocês vão ficar dormindo, hein?!<k><p>Querem deixar o velho da tartaruga esperando o dia inteiro?! Tirem essas bundas preguiçosas da cama AGORA!<k>
+### 906 [cf1/c00/c0001_00.sb:27] (x1)
+EN: <p>Y-yeah... sure...<k>
+PT: <p>C-certo... tá bom...<k>
+### 907 [cf1/c00/c0001_99.sb:9] (x1)
+EN: <p>Long ago, deep in the mountains, thousands of miles away from any city...<k><p>It is here where our amazing, astounding, and altogether astonishing story begins.<k><p>After his ferocious battle against King Piccolo, Goku met with Kami...<k><p>Together, they successfully resurrected Shenron, the eternal dragon.<k><p>He revived all of his friends who had lost their lives against King Piccolo.<k><p>With that task done, Goku dedicated himself to training under Kami's watchful eye...<k>
+PT: <p>Há muito tempo, no fundo das montanhas, a milhares de quilômetros de qualquer cidade...<k><p>É aqui que começa a nossa incrível, espantosa e absolutamente assombrosa história.<k><p>Depois da feroz batalha contra Piccolo Daimaoh, Goku encontrou Kami-Sama...<k><p>Juntos, eles conseguiram ressuscitar Shenlong, o dragão eterno.<k><p>Goku reviveu todos os amigos que haviam perdido a vida lutando contra Piccolo Daimaoh.<k><p>Com essa tarefa cumprida, Goku passou a treinar sob o olhar atento de Kami-Sama...<k>
+### 908 [cf1/c00/c0002_00.sb:10] (x1)
+EN: <p>Ho ho ho!<n>Glad to see you all here!<k>
+PT: <p>Ho ho ho!<n>Que bom ver todos vocês aqui!<k>
+### 909 [cf1/c00/c0002_00.sb:13] (x1)
+EN: <p>...So what's the deal, anyway? What'd you wake us up so early for?<k>
+PT: <p>...Afinal, qual é a história? Por que o senhor acordou a gente tão cedo?<k>
+### 910 [cf1/c00/c0002_00.sb:14] (x1)
+EN: <p>Well, I thought I'd give you your final exam before you graduated from my training!<k>
+PT: <p>Bem, pensei em aplicar o exame final antes de vocês se formarem no meu treinamento!<k>
+### 911 [cf1/c00/c0002_00.sb:17] (x1)
+EN: <p>The final exam?!<k>
+PT: <p>O exame final?!<k>
+### 912 [cf1/c00/c0002_00.sb:18] (x1)
+EN: <p>Yes... indeed.<k>
+PT: <p>Sim... exatamente.<k>
+### 913 [cf1/c00/c0002_00.sb:21] (x1)
+EN: <p>You say that, Master, but we're still so inexperienced...<k><p>There's so much more for us to learn from you!<k>
+PT: <p>O senhor diz isso, Mestre, mas nós ainda somos tão inexperientes...<k><p>Ainda temos tanto para aprender com o senhor!<k>
+### 914 [cf1/c00/c0002_00.sb:22] (x1)
+EN: <p>Oh, don't be silly...<k><p>All of you are far more powerful than me by now. That much is plain to see!<k>
+PT: <p>Ora, deixem de bobagem...<k><p>Vocês todos já são muito mais fortes que eu. Isso está na cara!<k>
+### 915 [cf1/c00/c0002_00.sb:23] (x1)
+EN: <p>Thus, the training I am about to assign will likely be the last you undertake under my watch.<k>
+PT: <p>Por isso, o treinamento que vou passar agora provavelmente será o último sob a minha supervisão.<k>
+### 916 [cf1/c00/c0002_00.sb:25] (x1)
+EN: <p>...So, what would you like us to do, Master?<k>
+PT: <p>...E então, o que o senhor quer que a gente faça, Mestre?<k>
+### 917 [cf1/c00/c0002_00.sb:26] (x1)
+EN: <p>South of here, you'll find a small island...<k>
+PT: <p>Ao sul daqui, vocês vão encontrar uma pequena ilha...<k>
+### 918 [cf1/c00/c0002_00.sb:27] (x1)
+EN: <p>Oh! You mean the place where you had me and Goku make those milk deliveries?<k>
+PT: <p>Ah! O lugar onde o senhor mandava eu e o Goku entregarem leite?<k>
+### 919 [cf1/c00/c0002_00.sb:28] (x1)
+EN: <p>Yep!<k><p>There's a cave on that island, and deep inside you should find a little crystal ball!<k><p>Your mission is to find that crystal ball and bring it back here!<k>
+PT: <p>Isso mesmo!<k><p>Há uma caverna nessa ilha, e bem lá no fundo vocês devem achar uma pequena bola de cristal!<k><p>A missão de vocês é encontrar essa bola de cristal e trazê-la para cá!<k>
+### 920 [cf1/c00/c0002_00.sb:29] (x1)
+EN: <p>Y-yes, Master!<k>
+PT: <p>S-sim, Mestre!<k>
+### 921 [cf1/c00/c0002_00.sb:30] (x1)
+EN: <p>...Of course, I'm not going to be cruel to you.<k><p>You'll find a few useful items in all of your inventories, free of charge!<k><p>Press the Start Button and pick an item type to use during battles!<k>
+PT: <p>...Claro, não vou ser cruel com vocês.<k><p>Vocês vão encontrar alguns itens úteis no inventário, de graça!<k><p>Aperte o Botão Start e escolha um tipo de item para usar nas batalhas!<k>
+### 922 [cf1/c00/c0002_01.sb:10] (x1)
+EN: <p>Ho ho ho! There's three of you against me...<k><p>Go ahead, take me on all at once!<k>
+PT: <p>Ho ho ho! Três de vocês contra mim...<k><p>Vamos, venham todos de uma vez!<k>
+### 923 [cf1/c00/c0002_01.sb:12] (x1)
+EN: <p>Hmm? What's the matter?<k><p>You can't beat me without using your special moves and the Active Guard!<k>
+PT: <p>Hmm? O que foi?<k><p>Vocês não vão me vencer sem usar seus golpes especiais e a Defesa Ativa!<k>
+### 924 [cf1/c00/c0002_01.sb:14] (x1)
+EN: <p>Nnngh... not bad...<k>
+PT: <p>Nnngh... nada mal...<k>
+### 925 [cf1/c00/c0002_01.sb:15] (x1)
+EN: <p>Whoa!<k><p>Hey! You guys need to be kinder to the elderly!<k>
+PT: <p>Uau!<k><p>Ei! Vocês precisam ser mais gentis com os idosos!<k>
+### 926 [cf1/c00/c0002_01.sb:25] (x1)
+EN: <p>Hey, look! Isn't this the crystal ball Master Roshi was talking about?!<k>
+PT: <p>Ei, olhem! Esta não é a bola de cristal de que o Mestre Kame falou?!<k>
+### 927 [cf1/c00/c0002_01.sb:27] (x1)
+EN: <p>Who are you?<n>Who dares trespass in this sacred cave?<k>
+PT: <p>Quem são vocês?<n>Quem ousa invadir esta caverna sagrada?<k>
+### 928 [cf1/c00/c0002_01.sb:28] (x1)
+EN: <p>!!!<n>Who're YOU, huh?! Lemme see your face!<k>
+PT: <p>!!!<n>Quem é VOCÊ, hein?! Mostra a cara!<k>
+### 929 [cf1/c00/c0002_01.sb:29] (x1)
+EN: <p>How dare you attempt to make off with the cave's treasure! Do you want to die?!<k>
+PT: <p>Como ousam tentar levar o tesouro da caverna! Querem morrer?!<k>
+### 930 [cf1/c00/c0002_01.sb:30] (x1)
+EN: <p>You! You're Jackie Chun!!<k>
+PT: <p>Você! Você é o Jackie Chun!!<k>
+### 931 [cf1/c00/c0002_01.sb:34] (x1)
+EN: <p>Ahhh... if it isn't the kids from the tournament! What're you doing here?!<k>
+PT: <p>Ahhh... se não são os garotos do torneio! O que fazem aqui?!<k>
+### 932 [cf1/c00/c0002_01.sb:35] (x1)
+EN: <p>We're here on orders from Master Roshi to bring back this crystal ball.<k>
+PT: <p>Viemos por ordem do Mestre Kame para levar esta bola de cristal.<k>
+### 933 [cf1/c00/c0002_01.sb:36] (x1)
+EN: <p>Well, well... That hermit, eh?<k><p>Then let me test you to see if you're worthy of the crystal ball!<k>
+PT: <p>Ora, ora... Aquele eremita, é?<k><p>Então vou testar vocês para ver se merecem a bola de cristal!<k>
+### 934 [cf1/c00/c0002_02.sb:10] (x1)
+EN: <p>Heh heh heh!<n>You are most certainly talented enough, yes!<k><p>What a joy it was to have a match with you!<k>
+PT: <p>Hê hê hê!<n>Vocês têm talento de sobra, sem dúvida!<k><p>Foi uma alegria lutar com vocês!<k>
+### 935 [cf1/c00/c0002_02.sb:13] (x1)
+EN: <p>Hey! Wait a sec!<k>
+PT: <p>Ei! Espera aí!<k>
+### 936 [cf1/c00/c0002_02.sb:16] (x1)
+EN: <p>Say... you don't think Jackie Chun might be...<k>
+PT: <p>Diz aí... você não acha que o Jackie Chun pode ser...<k>
+### 937 [cf1/c00/c0003_00.sb:10] (x1)
+EN: <p>(Owww... Man, they didn't go easy on me at all... They've really become strong...)<k>
+PT: <p>(Aiii... Puxa, eles não pegaram nada leve comigo... Ficaram fortes mesmo...)<k>
+### 938 [cf1/c00/c0003_00.sb:13] (x1)
+EN: <p>Master Roshi! We're back with the crystal ball!<k><p>...Huh? Hey, what happened to you?<k>
+PT: <p>Mestre Kame! Voltamos com a bola de cristal!<k><p>...Hã? Ei, o que aconteceu com o senhor?<k>
+### 939 [cf1/c00/c0003_00.sb:15] (x1)
+EN: <p>Oh, this...? I just had a bit of an intense training session. You're, uh, back early!<k>
+PT: <p>Ah, isto...? Só tive uma sessão de treino meio intensa. Vocês, hã, voltaram cedo!<k>
+### 940 [cf1/c00/c0003_00.sb:16] (x1)
+EN: <p>Yes... this most certainly is the fortune teller's crystal ball I left on the island!<k>
+PT: <p>Sim... esta é mesmo a bola de cristal de vidente que deixei na ilha!<k>
+### 941 [cf1/c00/c0003_00.sb:19] (x1)
+EN: <p>...fortune teller?<k>
+PT: <p>...de vidente?<k>
+### 942 [cf1/c00/c0003_00.sb:20] (x1)
+EN: <p>Yep! My sister Baba gave this to me way back when...<k><p>But once I decided to live here, I haven't had a single reason to use it!<k>
+PT: <p>Isso! Minha irmã Uranai me deu isto há muito tempo...<k><p>Mas desde que decidi morar aqui, não tive um único motivo para usá-la!<k>
+### 943 [cf1/c00/c0003_00.sb:21] (x1)
+EN: <p>What did you use it for, Master?<k>
+PT: <p>Para que o senhor usava, Mestre?<k>
+### 944 [cf1/c00/c0003_00.sb:22] (x1)
+EN: <p>This? Well, when I'm at a loss and I'm not sure what to do next...<k><p>I peer into this crystal ball and find out! Pretty amazing, huh?<k>
+PT: <p>Isto? Bem, quando fico sem saber o que fazer em seguida...<k><p>Olho dentro desta bola de cristal e descubro! Incrível, né?<k>
+### 945 [cf1/c00/c0003_00.sb:23] (x1)
+EN: <p>I figured it would come in handy as you continue your training...<k><p>So it's all yours now. Go ahead, take it.<k>
+PT: <p>Achei que ela seria útil enquanto vocês continuam treinando...<k><p>Então agora ela é de vocês. Vamos, podem levar.<k>
+### 946 [cf1/c00/c0004_00.sb:10] (x1)
+EN: <p>I'll sure miss you guys, but if you're going to grow as martial artists...<k><p>You need to go out and see the world for yourselves!<k><p>Each of you will have to train on your own, reaching for ever greater heights!<k>
+PT: <p>Vou sentir saudade de vocês, mas se querem crescer como lutadores...<k><p>Precisam sair e ver o mundo com os próprios olhos!<k><p>Cada um vai ter que treinar por conta própria, buscando alturas cada vez maiores!<k>
+### 947 [cf1/c00/c0004_00.sb:13] (x1)
+EN: <p>Yes, Master! I promise I'll return!<k>
+PT: <p>Sim, Mestre! Prometo que vou voltar!<k>
+### 948 [cf1/c00/c0004_00.sb:14] (x1)
+EN: <p>I can't wait to see you all at the next World Martial Arts Tournament!<k>
+PT: <p>Mal posso esperar para ver todos vocês no próximo Torneio de Artes Marciais!<k>
+### 949 [cf1/c01/c0101_00.sb:10] (x1)
+EN: <p>East City, huh...? Sure brings back memories... I think I'll go check out the Temple.<k>
+PT: <p>Cidade do Leste, é...? Quantas lembranças... Acho que vou dar uma olhada no Templo.<k>
+### 950 [cf1/c01/c0101_00.sb:11] (x1)
+EN: <p>Wait a sec...<k>
+PT: <p>Espera aí...<k>
+### 951 [cf1/c01/c0101_00.sb:12] (x1)
+EN: <p>I guess we were kind of rough on my old training partners at the last tournament, huh?<k>
+PT: <p>Acho que a gente pegou meio pesado com os meus antigos colegas de treino no último torneio, né?<k>
+### 952 [cf1/c01/c0101_00.sb:13] (x1)
+EN: <p>Oh, well... I'm sure they've forgiven me by now! Let's see what they're up to!<k>
+PT: <p>Ah, bom... Com certeza eles já me perdoaram! Vamos ver o que estão fazendo!<k>
+### 953 [cf1/c01/c0102_00.sb:11] (x1)
+EN: <p>Master!<n>What on earth happened here?!<k>
+PT: <p>Mestre!<n>O que foi que aconteceu aqui?!<k>
+### 954 [cf1/c01/c0102_00.sb:13] (x1)
+EN: <p>Errr... ghhh...<n>Who are you...?<k>
+PT: <p>Errr... ghhh...<n>Quem é você...?<k>
+### 955 [cf1/c01/c0102_00.sb:14] (x1)
+EN: <p>It's me, Master! Krillin!<k>
+PT: <p>Sou eu, Mestre! O Kuririn!<k>
+### 956 [cf1/c01/c0102_00.sb:15] (x1)
+EN: <p>Oh... ohhhh! Weren't you training under Master Roshi?<k>
+PT: <p>Oh... ohhhh! Você não estava treinando com o Mestre Kame?<k>
+### 957 [cf1/c01/c0102_00.sb:16] (x1)
+EN: <p>Y-yes, Master! Now I'm on a journey to test the skills I've learned.<k><p>I stopped by to say hello for the first time in a while...<k><p>But what happened, Master?<k>
+PT: <p>S-sim, Mestre! Agora estou numa jornada para testar o que aprendi.<k><p>Passei para dar um oi depois de tanto tempo...<k><p>Mas o que aconteceu, Mestre?<k>
+### 958 [cf1/c01/c0102_00.sb:17] (x1)
+EN: <p>K-koff...<k><p>A warrior appeared out of nowhere...<k><p>I heard a voice say <d>I'm taking your dojo down!<d>, and the next thing I knew, this happened!<k>
+PT: <p>C-cof...<k><p>Um lutador apareceu do nada...<k><p>Ouvi uma voz dizer <d>Vou acabar com o seu dojo!<d>, e quando dei por mim, isto tinha acontecido!<k>
+### 959 [cf1/c01/c0102_00.sb:18] (x1)
+EN: <p>...T-take your dojo down?!<k>
+PT: <p>...A-acabar com o dojo?!<k>
+### 960 [cf1/c01/c0102_00.sb:19] (x1)
+EN: <p>Y-yes... As you know, our temple has a distaste for needless battle...<k><p>Your fellow students refused to fight him without any good reason, at first...<k><p>But look at what's happened to us!<k>
+PT: <p>S-sim... Como você sabe, o nosso templo repudia lutas sem necessidade...<k><p>No começo, seus colegas se recusaram a lutar sem um bom motivo...<k><p>Mas veja o que aconteceu conosco!<k>
+### 961 [cf1/c01/c0102_00.sb:20] (x1)
+EN: <p>Oof!<n>This is terrible...<k>
+PT: <p>Puxa!<n>Que coisa terrível...<k>
+### 962 [cf1/c01/c0102_00.sb:21] (x1)
+EN: <p>Master! Where did the fighter run off to?<k>
+PT: <p>Mestre! Para onde o lutador fugiu?<k>
+### 963 [cf1/c01/c0102_00.sb:22] (x1)
+EN: <p>...Krillin, have you gone mad?!<k><p>Y-you aren't actually thinking about pursuing the fighter, are you?<k>
+PT: <p>...Kuririn, você enlouqueceu?!<k><p>V-você não está pensando em ir atrás do lutador, está?<k>
+### 964 [cf1/c01/c0102_00.sb:24] (x1)
+EN: <p>I sure am! I'm gonna track 'em down and get your revenge, Master!<k>
+PT: <p>Estou sim! Vou encontrar esse sujeito e vingar o senhor, Mestre!<k>
+### 965 [cf1/c01/c0102_00.sb:25] (x1)
+EN: <p>S-stop saying that! You see what happened to my students...<k><p>If you faced that fiend all by yourself... Koff koff koff!<k>
+PT: <p>P-pare com isso! Você viu o que aconteceu com os meus alunos...<k><p>Se enfrentar esse demônio sozinho... Cof cof cof!<k>
+### 966 [cf1/c01/c0102_00.sb:26] (x1)
+EN: <p>I'm not the fighter I used to be, Master!<k>
+PT: <p>Eu não sou mais o lutador que eu era, Mestre!<k>
+### 967 [cf1/c01/c0102_00.sb:27] (x1)
+EN: <p>No...? Well, if you insist upon it, I'm not going to stop you.<k><p>The scoundrel disappeared into the bamboo thicket up ahead...<k>
+PT: <p>Não...? Bem, se você insiste, não vou impedi-lo.<k><p>O canalha sumiu no bambuzal logo à frente...<k>
+### 968 [cf1/c01/c0102_00.sb:28] (x1)
+EN: <p>...But please be careful! Don't let the fighter's appearance fool you...<k><p>Nothing is as it seems...<k>
+PT: <p>...Mas, por favor, tome cuidado! Não se deixe enganar pela aparência do lutador...<k><p>Nada é o que parece...<k>
+### 969 [cf1/c01/c0102_00.sb:29] (x1)
+EN: <p>Master... you have nothing to worry about.<k><p>By the honor of Orin Temple, I swear I will defeat this attacker!<k>
+PT: <p>Mestre... o senhor não precisa se preocupar.<k><p>Pela honra do Templo Orin, juro que vou derrotar esse agressor!<k>
+### 970 [cf1/c01/c0102_01.sb:11] (x1)
+EN: <p>W-wait!<k>
+PT: <p>E-espera!<k>
+### 971 [cf1/c01/c0102_01.sb:13] (x1)
+EN: <p>Nnnngh! You not know when to quit! I hate people who not know when to quit!<k>
+PT: <p>Nnnngh! Você não sabe quando parar! Eu odeia gente que não sabe quando parar!<k>
+### 972 [cf1/c01/c0102_01.sb:14] (x1)
+EN: <p>A, a woman?!<k>
+PT: <p>U-uma mulher?!<k>
+### 973 [cf1/c01/c0102_01.sb:15] (x1)
+EN: <p>Eeeee! What is so wrong about being a woman?<k>
+PT: <p>Iiiih! Que problema tem ser mulher?<k>
+### 974 [cf1/c01/c0102_01.sb:16] (x1)
+EN: <p>Did you really attack Orin Temple?!<k>
+PT: <p>Foi você mesmo que atacou o Templo Orin?!<k>
+### 975 [cf1/c01/c0102_01.sb:17] (x1)
+EN: <p>Maybe I did, maybe I didn't! What you do if I did, huh?<k>
+PT: <p>Talvez sim, talvez não! Se eu fez, você faz o quê, hein?<k>
+### 976 [cf1/c01/c0102_01.sb:18] (x1)
+EN: <p>...Well, what do you think?! I'll uphold the honor of Orin...<k><p>And defeat you where you stand!<k>
+PT: <p>...Ora, o que você acha?! Vou defender a honra do Orin...<k><p>E te derrotar aqui mesmo!<k>
+### 977 [cf1/c01/c0102_01.sb:19] (x1)
+EN: <p>I bet you would!<k><p>If people find out I destroyed Orin, you never live down the shame...<k><p>You fighters are not good as you say you are...<k>
+PT: <p>Aposto que sim!<k><p>Se o povo descobrir que eu destruiu o Orin, vocês nunca esquece a vergonha...<k><p>Vocês lutador não é tão bom como diz que é...<k>
+### 978 [cf1/c01/c0102_01.sb:20] (x1)
+EN: <p>Why, you...!<k>
+PT: <p>Ora, sua...!<k>
+### 979 [cf1/c01/c0102_01.sb:21] (x1)
+EN: <p>Hee hee! So you want to hit woman, huh?<k>
+PT: <p>Hi hi! Então você quer bater em mulher, é?<k>
+### 980 [cf1/c01/c0102_01.sb:22] (x1)
+EN: <p>I... ugh...<n>I guess I shouldn't...<k>
+PT: <p>Eu... argh...<n>Acho que não devia...<k>
+### 981 [cf1/c01/c0102_01.sb:23] (x1)
+EN: <p>Ha ha! Gotcha! You Orin people so easy to manipulate!<k><p>Here I come!<n>Ai-yahh!!<k>
+PT: <p>Ha ha! Te peguei! Gente do Orin é tão fácil de enganar!<k><p>Lá vou eu!<n>Ai-yaaah!!<k>
+### 982 [cf1/c01/c0103_00.sb:10] (x1)
+EN: <p>...What's wrong?<n>Done already?<k>
+PT: <p>...O que foi?<n>Já acabou?<k>
+### 983 [cf1/c01/c0103_00.sb:12] (x1)
+EN: <p>I... I sorry! I surrender...<k>
+PT: <p>Eu... eu desculpa! Eu me rende...<k>
+### 984 [cf1/c01/c0103_00.sb:13] (x1)
+EN: <p>All right... get up.<k>
+PT: <p>Tudo bem... levanta.<k>
+### 985 [cf1/c01/c0103_00.sb:14] (x1)
+EN: <p>...You a kind man. You going easy on me, too...<k>
+PT: <p>...Você homem bondoso. Você também pegou leve comigo...<k>
+### 986 [cf1/c01/c0103_00.sb:16] (x1)
+EN: <p>Why you do that?<k>
+PT: <p>Por que você faz isso?<k>
+### 987 [cf1/c01/c0103_00.sb:17] (x1)
+EN: <p>I couldn't go all-out on a woman... But why did you attack our dojo in the first place?<k>
+PT: <p>Eu não conseguiria lutar com tudo contra uma mulher... Mas, afinal, por que você atacou o nosso dojo?<k>
+### 988 [cf1/c01/c0103_00.sb:19] (x1)
+EN: <p>Well, if you don't wanna say why, you don't have to, but...<k>
+PT: <p>Bom, se você não quiser contar, não precisa, mas...<k>
+### 989 [cf1/c01/c0103_00.sb:20] (x1)
+EN: <p>...I want people to recognize me.<k>
+PT: <p>...Eu quer que as pessoas me reconhece.<k>
+### 990 [cf1/c01/c0103_00.sb:22] (x1)
+EN: <p>I have sister...<k><p>She beautiful, and a talented fighter too. She not have my accent, either.<k>
+PT: <p>Eu tem irmã...<k><p>Ela bonita, e lutadora talentosa também. Ela não tem meu sotaque, também.<k>
+### 991 [cf1/c01/c0103_00.sb:23] (x1)
+EN: <p>Ever since I young, people always compare me to her... I hate it.<k><p>My father only care about her... She so much better than me.<k><p>So I run away from home, because I show her one day.<k><p>I thought my dad would recognize me if I polish my skills and beat my sister's strength.<k><p>But no good... There so many people out there stronger than me.<k>
+PT: <p>Desde pequena, o povo sempre me compara com ela... Eu odeia isso.<k><p>Meu pai só liga para ela... Ela muito melhor que eu.<k><p>Então eu fugiu de casa, porque um dia eu mostra para ela.<k><p>Eu achava que meu pai ia me reconhecer se eu treinasse e superasse a força da minha irmã.<k><p>Mas não adianta... Tem muita gente por aí mais forte que eu.<k>
+### 992 [cf1/c01/c0103_00.sb:24] (x2)
+EN: <p>Oh...<k>
+PT: <p>Ah...<k>
+### 993 [cf1/c01/c0103_00.sb:25] (x1)
+EN: <p>You so strong, you probably not understand how I feel...<k>
+PT: <p>Você tão forte, você não deve entender o que eu sente...<k>
+### 994 [cf1/c01/c0103_00.sb:26] (x1)
+EN: <p>Oh, no, I totally do.<k><p>My fellow students always used to pick on me for being a wimp, so...<k><p>I wound up leaving Orin Temple because I couldn't stand it anymore.<k>
+PT: <p>Ah, não, eu entendo totalmente.<k><p>Meus colegas viviam implicando comigo por eu ser um fracote, então...<k><p>Acabei saindo do Templo Orin porque não aguentava mais.<k>
+### 995 [cf1/c01/c0103_00.sb:27] (x1)
+EN: <p>...Really?<k>
+PT: <p>...Verdade?<k>
+### 996 [cf1/c01/c0103_00.sb:28] (x1)
+EN: <p>Uh-huh. I poured that shame into my training, and that's what made me grow!<k><p>Of course, I've still got a while to go, but...<k>
+PT: <p>Aham. Eu joguei essa vergonha no treinamento, e foi isso que me fez crescer!<k><p>Claro que ainda tenho muito chão pela frente, mas...<k>
+### 997 [cf1/c01/c0103_00.sb:29] (x1)
+EN: <p>So I think I understand where you're coming from, okay?<k><p>You could've picked a better method to prove yourself with, though...<k>
+PT: <p>Então acho que entendo o seu lado, tá?<k><p>Mas você podia ter escolhido um jeito melhor de provar seu valor...<k>
+### 998 [cf1/c01/c0103_00.sb:30] (x1)
+EN: <p>Anyway, let's get out of this forest! You're gonna keep training, right?<k>
+PT: <p>Enfim, vamos sair desta floresta! Você vai continuar treinando, né?<k>
+### 999 [cf1/c01/c0103_00.sb:31] (x1)
+EN: <p>...You forgive me?<k>
+PT: <p>...Você me perdoa?<k>
+### 1000 [cf1/c01/c0103_00.sb:32] (x1)
+EN: <p>Once you get stronger, let's have a rematch!<k>
+PT: <p>Quando você ficar mais forte, a gente faz uma revanche!<k>
+### 1001 [cf1/c01/c0103_00.sb:33] (x1)
+EN: <p>......Okay, boy!<k><p>I gonna get you back for this next time!<k>
+PT: <p>......Tá bom, garoto!<k><p>Da próxima vez eu vai te dar o troco!<k>
+### 1002 [cf1/c01/c0103_00.sb:34] (x1)
+EN: <p>...I gonna get stronger than ever!<k>
+PT: <p>...Eu vai ficar mais forte que nunca!<k>
+### 1003 [cf1/c01/c0103_00.sb:35] (x1)
+EN: <p>Heh heh... I guess I better get home myself.<k>
+PT: <p>Hê hê... Acho que é melhor eu voltar também.<k>
+### 1004 [cf1/c01/c0103_01.sb:10] (x1)
+EN: <p>Master!<k>
+PT: <p>Mestre!<k>
+### 1005 [cf1/c01/c0103_01.sb:12] (x1)
+EN: <p>Oh! Krillin...!<k>
+PT: <p>Oh! Kuririn...!<k>
+### 1006 [cf1/c01/c0103_01.sb:13] (x1)
+EN: <p>I got this back for you!<k>
+PT: <p>Recuperei isto para o senhor!<k>
+### 1007 [cf1/c01/c0103_01.sb:14] (x1)
+EN: <p>Orin Temple's sign! Y-you couldn't have...<k>
+PT: <p>A placa do Templo Orin! V-você não pode ter...<k>
+### 1008 [cf1/c01/c0103_01.sb:15] (x4)
+EN: <p>Heh heh heh...<k>
+PT: <p>Hê hê hê...<k>
+### 1009 [cf1/c01/c0103_01.sb:16] (x1)
+EN: <p>So you really did it...<k><p>You used to be such a wimp, but look how you've grown...<k><p>Master Roshi's training has been a tremendous experience for you, no doubt...<k>
+PT: <p>Então você conseguiu mesmo...<k><p>Você era um fracote, mas veja como cresceu...<k><p>O treinamento do Mestre Kame foi uma experiência e tanto para você, sem dúvida...<k>
+### 1010 [cf1/c01/c0103_01.sb:18] (x1)
+EN: <p>I guess Orin Temple wasn't good enough to take advantage of your talents...<k>
+PT: <p>Acho que o Templo Orin não estava à altura do seu talento...<k>
+### 1011 [cf1/c01/c0103_01.sb:19] (x1)
+EN: <p>Oh, no! Not at all, Master!<k><p>I couldn't have handled Master Roshi's training without the time I spent here in Orin!<k>
+PT: <p>Ah, não! De jeito nenhum, Mestre!<k><p>Eu não teria aguentado o treinamento do Mestre Kame sem o tempo que passei aqui no Orin!<k>
+### 1012 [cf1/c01/c0103_01.sb:20] (x1)
+EN: <p>...Ho ho ho! Ah, what a splendid fighter you've become.<k>
+PT: <p>...Ho ho ho! Ah, que lutador esplêndido você se tornou.<k>
+### 1013 [cf1/c01/c0103_01.sb:21] (x1)
+EN: <p>Well, I should probably get going... It was wonderful to see you again, Master.<k>
+PT: <p>Bom, acho que já vou indo... Foi ótimo rever o senhor, Mestre.<k>
+### 1014 [cf1/c01/c0103_01.sb:22] (x1)
+EN: <p>...Now, now, there's no need to be in such a hurry!<k><p>You haven't visited Orin in ages! Why not stay the night? I'm sure you have all kinds of stories.<k>
+PT: <p>...Calma, calma, não precisa ter tanta pressa!<k><p>Faz séculos que você não visita o Orin! Por que não passa a noite? Com certeza tem muitas histórias para contar.<k>
+### 1015 [cf1/c01/c0103_01.sb:23] (x1)
+EN: <p>Y-yes... well...<k>
+PT: <p>S-sim... bem...<k>
+### 1016 [cf1/c01/c0103_01.sb:24] (x1)
+EN: <p>Worried about your old bullies, aren't you?<k>
+PT: <p>Preocupado com os seus antigos valentões, não é?<k>
+### 1017 [cf1/c01/c0103_01.sb:25] (x1)
+EN: <p>N-no, but...<k>
+PT: <p>N-não, mas...<k>
+### 1018 [cf1/c01/c0103_01.sb:26] (x1)
+EN: <p>Well, it's settled then!<k>
+PT: <p>Então está decidido!<k>
+### 1019 [cf1/c01/c0103_01.sb:27] (x1)
+EN: Pupil A
+PT: Aluno A
+### 1020 [cf1/c01/c0103_01.sb:28] (x1)
+EN: <p>You're leaving already?!<k>
+PT: <p>Você já vai embora?!<k>
+### 1021 [cf1/c01/c0103_01.sb:29] (x1)
+EN: Pupil B
+PT: Aluno B
+### 1022 [cf1/c01/c0103_01.sb:30] (x1)
+EN: <p>Man, I could hardly recognize you!<k>
+PT: <p>Cara, eu mal te reconheci!<k>
+### 1023 [cf1/c01/c0103_01.sb:31] (x1)
+EN: Pupil C
+PT: Aluno C
+### 1024 [cf1/c01/c0103_01.sb:32] (x1)
+EN: <p>Hey, teach me some Turtle skills next time you come back!<k>
+PT: <p>Ei, me ensina umas técnicas da Tartaruga quando voltar!<k>
+### 1025 [cf1/c01/c0103_01.sb:33] (x1)
+EN: Pupil D
+PT: Aluno D
+### 1026 [cf1/c01/c0103_01.sb:34] (x1)
+EN: <p>Just you wait! I'm gonna be way stronger than you next time we meet!<k>
+PT: <p>Espera só! Da próxima vez que a gente se encontrar, vou estar muito mais forte que você!<k>
+### 1027 [cf1/c01/c0103_01.sb:35] (x1)
+EN: <p>...Are you really leaving?<k>
+PT: <p>...Vai mesmo embora?<k>
+### 1028 [cf1/c01/c0103_01.sb:36] (x1)
+EN: <p>Yes, Master...<k><p>There are countless people out there stronger than myself.<k><p>If I can challenge them to battle, I'm sure it will help me grow as a fighter.<k>
+PT: <p>Sim, Mestre...<k><p>Há muita gente por aí mais forte do que eu.<k><p>Se eu puder desafiá-los, tenho certeza de que vou crescer como lutador.<k>
+### 1029 [cf1/c01/c0103_01.sb:37] (x1)
+EN: <p>I will miss you...<k>
+PT: <p>Vou sentir sua falta...<k>
+### 1030 [cf1/c01/c0103_01.sb:38] (x1)
+EN: <p>Master!<k><p>Once I'm stronger, I promise I'll come back to visit!<k><p>See you then, all right?<k>
+PT: <p>Mestre!<k><p>Quando eu estiver mais forte, prometo que volto para visitar!<k><p>Até lá, tá bom?<k>
+### 1031 [cf1/c01/c0103_01.sb:40] (x1)
+EN: <p>(Just you wait, Goku!)<k><p>(I'm gonna grow, and grow... and someday, I just know I'm gonna beat you!)<k>
+PT: <p>(Espera só, Goku!)<k><p>(Vou crescer, e crescer... e um dia, eu sei que vou te vencer!)<k>
+### 1032 [cf1/c02/c0201_00.sb:10] (x1)
+EN: <p>Well, he said I needed more training... but what should I do, exactly?<k>
+PT: <p>Bom, ele disse que eu precisava treinar mais... mas o que exatamente eu devo fazer?<k>
+### 1033 [cf1/c02/c0201_00.sb:13] (x1)
+EN: <p>...Yamcha?<k><p>You've been training for ages now... Why don't you stay here and rest up a little?<k>
+PT: <p>...Yamcha?<k><p>Você está treinando há séculos... Por que não fica aqui e descansa um pouco?<k>
+### 1034 [cf1/c02/c0201_00.sb:14] (x1)
+EN: <p>I'd like to, but Krillin said he'd go back to Orin Temple to train, so...<k><p>If I let up now, I'll wind up falling way behind him and everyone else.<k>
+PT: <p>Bem que eu queria, mas o Kuririn disse que ia voltar ao Templo Orin para treinar, então...<k><p>Se eu relaxar agora, vou acabar ficando muito atrás dele e de todo mundo.<k>
+### 1035 [cf1/c02/c0201_00.sb:15] (x1)
+EN: <p>You think so? Hmmm...<k><p>Oh, I know!<k>
+PT: <p>Você acha? Hmmm...<k><p>Ah, já sei!<k>
+### 1036 [cf1/c02/c0201_00.sb:16] (x13)
+EN: <p>Yeah?<k>
+PT: <p>Hã?<k>
+### 1037 [cf1/c02/c0201_00.sb:17] (x1)
+EN: <p>If Krillin went back to Orin, what do you think about going back to our old hideout?<k><p>That'd be the perfect spot to pick up your training!<k>
+PT: <p>Se o Kuririn voltou para o Orin, que tal a gente voltar para o nosso antigo esconderijo?<k><p>Seria o lugar perfeito para retomar o seu treinamento!<k>
+### 1038 [cf1/c02/c0201_00.sb:18] (x1)
+EN: <p>Oh, yeah! Man, I haven't been there in ages, too!<k><p>Sparring with my old bandit buddies sounds like a great idea!<k>
+PT: <p>Ah, é mesmo! Cara, faz séculos que eu não vou lá!<k><p>Treinar com os meus velhos parceiros de bandidagem parece uma ótima ideia!<k>
+### 1039 [cf1/c02/c0201_00.sb:19] (x1)
+EN: <p>Hooraaaay!<k><p>In that case, I'll go run over there now and clean up the place for you!<k>
+PT: <p>Ebaaaa!<k><p>Então eu vou correndo na frente para arrumar o lugar para você!<k>
+### 1040 [cf1/c02/c0201_00.sb:20] (x1)
+EN: <p>...Cool. Thanks!<k><p>(This'll be so sweet! I think I'll head off myself!)<k>
+PT: <p>...Legal. Valeu!<k><p>(Isso vai ser demais! Acho que eu também já vou indo!)<k>
+### 1041 [cf1/c02/c0201_01.sb:10] (x1)
+EN: <p>Boy, does this bring me back!<k><p>It really feels like I'm back home now!<k>
+PT: <p>Puxa, que saudade disto!<k><p>Parece mesmo que eu voltei para casa!<k>
+### 1042 [cf1/c02/c0201_01.sb:11] (x1)
+EN: <p>...?<n>Sure is quiet... I've got kind of a bad feeling about this.<k>
+PT: <p>...?<n>Está quieto demais... Estou com um mau pressentimento.<k>
+### 1043 [cf1/c02/c0201_01.sb:12] (x17)
+EN: <p>Huh?!<k>
+PT: <p>Hã?!<k>
+### 1044 [cf1/c02/c0201_01.sb:13] (x1)
+EN: <p>What is that...?<k>
+PT: <p>O que é aquilo...?<k>
+### 1045 [cf1/c02/c0201_02.sb:11] (x1)
+EN: <p>...Who's this guy?<k>
+PT: <p>...Quem é esse aí?<k>
+### 1046 [cf1/c02/c0201_02.sb:12] (x1)
+EN: <p>...!!<k><p>Puar! What the heck happened here?!<k>
+PT: <p>...!!<k><p>Puar! Que diabos aconteceu aqui?!<k>
+### 1047 [cf1/c02/c0201_02.sb:15] (x1)
+EN: <p>We've got big trouble, Yamcha! I tried getting to the hideout, but Monster Carrot is going crazy!<k><p>He turned all our old bandit friends into carrots, one by one!<k>
+PT: <p>Estamos encrencados, Yamcha! Eu tentei chegar ao esconderijo, mas o Coelho Monstro está enlouquecido!<k><p>Ele transformou todos os nossos antigos amigos bandidos em cenoura, um por um!<k>
+### 1048 [cf1/c02/c0201_02.sb:16] (x1)
+EN: <p>Monster Carrot?! I thought Goku took him up to the moon...<k>
+PT: <p>O Coelho Monstro?! Eu achava que o Goku tinha mandado ele para a lua...<k>
+### 1049 [cf1/c02/c0201_02.sb:17] (x1)
+EN: <p>He did!<k><p>I don't know why, but he's back here again. I disguised myself as a carrot to get out of trouble!<k>
+PT: <p>E mandou!<k><p>Não sei como, mas ele voltou. Eu me disfarcei de cenoura para escapar!<k>
+### 1050 [cf1/c02/c0201_02.sb:18] (x1)
+EN: <p>...Gehh! That guy never gives up, I swear!<k>
+PT: <p>...Argh! Esse cara não desiste nunca, juro!<k>
+### 1051 [cf1/c02/c0201_02.sb:19] (x1)
+EN: <p>Yamcha... he's headed for your hideout!<k>
+PT: <p>Yamcha... ele está indo para o seu esconderijo!<k>
+### 1052 [cf1/c02/c0201_02.sb:20] (x1)
+EN: <p>Really?!<k><p>...Looks like I'm going to have to teach him another lesson.<k><p>Puar, could you go on ahead and see what he's up to?<k>
+PT: <p>Sério?!<k><p>...Parece que vou ter que dar outra lição nele.<k><p>Puar, você pode ir na frente e ver o que ele está aprontando?<k>
+### 1053 [cf1/c02/c0201_02.sb:21] (x1)
+EN: <p>Sure thing! Leave it to me!<k>
+PT: <p>Pode deixar! Deixa comigo!<k>
+### 1054 [cf1/c02/c0202_00.sb:10] (x1)
+EN: <p>Yamcha! Over here!<k>
+PT: <p>Yamcha! Aqui!<k>
+### 1055 [cf1/c02/c0202_00.sb:13] (x1)
+EN: <p>Heh heh!<k><p>I never would've imagined seeing you here. I don't remember inviting you to my house.<k>
+PT: <p>Rê rê!<k><p>Nunca imaginei te ver aqui. Não me lembro de ter te convidado para a minha casa.<k>
+### 1056 [cf1/c02/c0202_00.sb:15] (x3)
+EN: Monster Carrot
+PT: Coelho Monstro
+### 1057 [cf1/c02/c0202_00.sb:16] (x1)
+EN: <p>Ho ho ho... we meet again, eh?<k><p>As of this moment, this shall be the base of operations for my brand-new Rabbit Gang.<k>
+PT: <p>Ho ho ho... nos encontramos de novo, é?<k><p>A partir deste momento, aqui será a base de operações da minha nova Gangue do Coelho.<k>
+### 1058 [cf1/c02/c0202_00.sb:17] (x1)
+EN: <p>You're starting up the Rabbit Gang again?!<k>
+PT: <p>Você vai reabrir a Gangue do Coelho?!<k>
+### 1059 [cf1/c02/c0202_00.sb:18] (x1)
+EN: <p>I sure am. And let me tell you, after that brat shot me to the moon...<k><p>It took me a lot of time and effort to make it back here. It was really annoying.<k>
+PT: <p>Vou sim. E vou te contar: depois que aquele pirralho me mandou para a lua...<k><p>Levei muito tempo e esforço para voltar. Foi irritante demais.<k>
+### 1060 [cf1/c02/c0202_00.sb:19] (x1)
+EN: <p>Brat...? You mean Goku?<k>
+PT: <p>Pirralho...? Você quer dizer o Goku?<k>
+### 1061 [cf1/c02/c0202_00.sb:20] (x1)
+EN: <p>Ho ho ho ho ho... That was his name, yeah.<k><p>The experience did wonders for my fighting skills, though.<k><p>I won't be the embarrassment I was in the past, I warn you.<k>
+PT: <p>Ho ho ho ho ho... Era esse o nome dele, sim.<k><p>Mas a experiência fez maravilhas pelas minhas habilidades de luta.<k><p>Eu não vou passar a vergonha de antes, fique avisado.<k>
+### 1062 [cf1/c02/c0202_00.sb:21] (x1)
+EN: <p>...Geh.<k>
+PT: <p>...Tsc.<k>
+### 1063 [cf1/c02/c0202_00.sb:22] (x1)
+EN: <p>Yamcha, be careful!<k>
+PT: <p>Yamcha, cuidado!<k>
+### 1064 [cf1/c02/c0202_00.sb:23] (x1)
+EN: <p>This is a shabby place, isn't it?<k><p>Oh well, I suppose I can live with it...<k><p>This is just a foothold, a starting point. It doesn't need to be spotless.<k>
+PT: <p>Isto aqui é um chiqueiro, não é?<k><p>Enfim, acho que dá para aguentar...<k><p>É só um ponto de apoio, um começo. Não precisa estar impecável.<k>
+### 1065 [cf1/c02/c0202_00.sb:24] (x1)
+EN: <p>Grrr! You're gonna pay for that...!<k>
+PT: <p>Grrr! Você vai pagar por isso...!<k>
+### 1066 [cf1/c02/c0202_00.sb:25] (x1)
+EN: <p>Hmmm? Oh, did you want to fight me?<k><p>All right, then... Come get some!<k>
+PT: <p>Hmmm? Ah, você quer lutar comigo?<k><p>Muito bem, então... Pode vir!<k>
+### 1067 [cf1/c02/c0203_00.sb:10] (x1)
+EN: <p>Eee! Ahhhhhh...!<n>P-please, forgive me!!<k>
+PT: <p>Iii! Ahhhhhh...!<n>P-por favor, me perdoe!!<k>
+### 1068 [cf1/c02/c0203_00.sb:13] (x1)
+EN: <p>Heh heh... I thought you said you'd improved?<k>
+PT: <p>Rê rê... Você não disse que tinha melhorado?<k>
+### 1069 [cf1/c02/c0203_00.sb:14] (x1)
+EN: <p>Oh, no no no no!<k><p>Compared to you, I, I... ohhhh...<k>
+PT: <p>Ah, não, não, não, não!<k><p>Comparado a você, eu, eu... ohhhh...<k>
+### 1070 [cf1/c02/c0203_00.sb:15] (x1)
+EN: <p>You called my hideout <d>shabby,<d> didn't you?<k>
+PT: <p>Você chamou o meu esconderijo de <d>chiqueiro<d>, não chamou?<k>
+### 1071 [cf1/c02/c0203_00.sb:16] (x1)
+EN: <p>Oh, no, I...<k><p>I, I meant to say that your hair was looking a bit shaggy...<k>
+PT: <p>Ah, não, eu...<k><p>Eu, eu quis dizer que ele é bem... cheiroso...<k>
+### 1072 [cf1/c02/c0203_00.sb:17] (x1)
+EN: <p>...Ah, whatever. I hope you're ready for this... I won't be as kind as Goku was.<k>
+PT: <p>...Ah, tanto faz. Espero que esteja preparado... Não vou ser bonzinho como o Goku.<k>
+### 1073 [cf1/c02/c0203_00.sb:18] (x1)
+EN: <p>Hah!!!<k>
+PT: <p>Rá!!!<k>
+### 1074 [cf1/c02/c0203_00.sb:19] (x1)
+EN: <p>Gah! I'll do anything! Anything you want! Please forgive me!<k>
+PT: <p>Aaah! Eu faço qualquer coisa! O que você quiser! Por favor, me perdoe!<k>
+### 1075 [cf1/c02/c0203_00.sb:20] (x1)
+EN: <p>Anything, you say?<k>
+PT: <p>Qualquer coisa, é?<k>
+### 1076 [cf1/c02/c0203_00.sb:21] (x1)
+EN: <p>Y-yes, yes! Please, tell me anything you need!<k>
+PT: <p>S-sim, sim! Por favor, é só pedir!<k>
+### 1077 [cf1/c02/c0203_00.sb:22] (x1)
+EN: <p>Hmm... well, for starters, how about you make this shabby place spotless for me?<k>
+PT: <p>Hmm... bom, para começar, que tal deixar este chiqueiro brilhando para mim?<k>
+### 1078 [cf1/c02/c0203_00.sb:23] (x1)
+EN: <p>Whaaaaaaaat?!<k>
+PT: <p>Quêêêêê?!<k>
+### 1079 [cf1/c02/c0203_00.sb:24] (x1)
+EN: <p>What, don't you like to clean?<k>
+PT: <p>Que foi, não gosta de fazer faxina?<k>
+### 1080 [cf1/c02/c0203_00.sb:25] (x1)
+EN: <p>O-of course I do!! I'll do it, I'll do it! Eh heh heh heh heh...<k>
+PT: <p>C-claro que gosto!! Eu faço, eu faço! Ê rê rê rê rê...<k>
+### 1081 [cf1/c02/c0203_00.sb:28] (x1)
+EN: <p>Great job, Yamcha!<k><p>Monster Carrot was so dangerous, but you knocked him out, just like that!<k>
+PT: <p>Mandou bem, Yamcha!<k><p>O Coelho Monstro era tão perigoso, e você nocauteou ele assim, num piscar de olhos!<k>
+### 1082 [cf1/c02/c0203_00.sb:29] (x1)
+EN: <p>You think I'm that strong?<k>
+PT: <p>Você acha que eu sou tão forte assim?<k>
+### 1083 [cf1/c02/c0203_00.sb:30] (x1)
+EN: <p>Oh, absolutely!<k><p>I bet that you could even beat Goku by now, Yamcha!<k>
+PT: <p>Com certeza!<k><p>Aposto que agora você venceria até o Goku, Yamcha!<k>
+### 1084 [cf1/c02/c0203_00.sb:31] (x1)
+EN: <p>Ah, don't be stupid! That guy's doing some kinda crazy training right now with Kami!<k><p>That bunny weirdo's a total wuss compared to that!<k><p>I've got to find some tougher training... I need to get stronger!<k>
+PT: <p>Ah, deixa de besteira! Aquele cara está fazendo um treinamento maluco com o Kami-Sama!<k><p>Perto disso, aquele coelho esquisito é um fracote!<k><p>Eu preciso achar um treino mais pesado... Tenho que ficar mais forte!<k>
+### 1085 [cf1/c02/c0203_00.sb:34] (x1)
+EN: <p>Yes, Yamcha!<k>
+PT: <p>Sim, Yamcha!<k>
+### 1086 [cf1/c02/c0203_00.sb:35] (x1)
+EN: <p>Starting tomorrow, my training plan's gonna be more intense than ever before!<k><p>You think you can help me out?!<k>
+PT: <p>A partir de amanhã, o meu treinamento vai ser mais puxado do que nunca!<k><p>Você topa me ajudar?!<k>
+### 1087 [cf1/c02/c0203_00.sb:36] (x1)
+EN: <p>Y-you got it!<k>
+PT: <p>C-com certeza!<k>
+### 1088 [cf1/c03/c0301_00.sb:10] (x1)
+EN: <p>...Mmm? What's the matter? Thought you were going off to train?<k>
+PT: <p>...Hmm? O que foi? Você não ia sair para treinar?<k>
+### 1089 [cf1/c03/c0301_00.sb:14] (x1)
+EN: <p>You're troubled, aren't you...?<k>
+PT: <p>Você está preocupado, não está...?<k>
+### 1090 [cf1/c03/c0301_00.sb:15] (x1)
+EN: <p>Master Roshi... I have betrayed the Crane spirit...<k><p>In its place, I have learned how to wield my martial arts in ways I never imagined before...<k><p>Something I owe entirely to your words, Master.<k><p>But I am afraid my training has left me at... an impasse.<k>
+PT: <p>Mestre Kame... Eu traí o espírito da Escola Tsuru...<k><p>Em troca, aprendi a usar as artes marciais de um jeito que eu nunca tinha imaginado...<k><p>E devo isso inteiramente às suas palavras, Mestre.<k><p>Mas temo que o meu treinamento tenha chegado a... um impasse.<k>
+### 1091 [cf1/c03/c0301_00.sb:16] (x1)
+EN: <p>An impasse, you say...?<k>
+PT: <p>Um impasse, você diz...?<k>
+### 1092 [cf1/c03/c0301_00.sb:17] (x1)
+EN: <p>...Yes, Master. Once, I thought martial arts was a tool to dominate others.<k><p>But the skills I've learned from you are something entirely different.<k><p>There is warmth... and kindness to them.<k><p>And I... I'm not sure which view is the correct one to have any longer.<k>
+PT: <p>...Sim, Mestre. Antes, eu achava que as artes marciais eram uma ferramenta para dominar os outros.<k><p>Mas o que aprendi com o senhor é algo completamente diferente.<k><p>Há calor... e bondade nelas.<k><p>E eu... já não sei qual das duas visões é a certa.<k>
+### 1093 [cf1/c03/c0301_00.sb:18] (x1)
+EN: <p>Until I figure this out, no matter how strong I get, I will never attain Goku's strength.<k><p>And I can certainly forget about ever surpassing him...<k>
+PT: <p>Enquanto não resolver isso, não importa o quanto eu fique forte, nunca vou alcançar a força do Goku.<k><p>E posso esquecer a ideia de um dia superá-lo...<k>
+### 1094 [cf1/c03/c0301_00.sb:19] (x1)
+EN: <p>...Are you familiar with the Divine Crossing?<k>
+PT: <p>...Você conhece a Travessia Divina?<k>
+### 1095 [cf1/c03/c0301_00.sb:20] (x1)
+EN: <p>The Divine Crossing...?<k>
+PT: <p>A Travessia Divina...?<k>
+### 1096 [cf1/c03/c0301_00.sb:21] (x1)
+EN: <p>Yes. Once, there was an evil spirit who settled in the northern mountains...<k><p>It summoned every kind of disaster to the land, tormenting the people who lived there.<k><p>Master Mutaito heard of this one day, and so he traveled to the land alone...<k><p>And he used a special technique to contain the evil force.<k>
+PT: <p>Sim. Certa vez, um espírito maligno se instalou nas montanhas do norte...<k><p>Ele trouxe todo tipo de desgraça àquela terra, atormentando quem vivia lá.<k><p>Um dia, o Mestre Mutaito soube disso e viajou para lá sozinho...<k><p>E usou uma técnica especial para aprisionar a força maligna.<k>
+### 1097 [cf1/c03/c0301_00.sb:22] (x1)
+EN: <p>Contain...?<k>
+PT: <p>Aprisionar...?<k>
+### 1098 [cf1/c03/c0301_00.sb:23] (x1)
+EN: <p>Indeed...<k><p>And the polished form of that skill, I trust you already know very well...<k><p>It's none other than the Evil Containment Wave!<k>
+PT: <p>Exatamente...<k><p>E a forma aperfeiçoada dessa técnica, acredito que você já conhece muito bem...<k><p>Nada menos que o Mafuba!<k>
+### 1099 [cf1/c03/c0301_00.sb:24] (x1)
+EN: <p>Are you saying I'll find the correct path if I visit there?<k>
+PT: <p>O senhor quer dizer que eu vou encontrar o caminho certo se for até lá?<k>
+### 1100 [cf1/c03/c0301_00.sb:25] (x1)
+EN: <p>Ho ho ho... That would depend entirely on you, Tien.<k><p>They say that Mutaito's pure soul rests in those lands...<k><p>A man of your ability would certainly be able to find something of value there.<k>
+PT: <p>Ho ho ho... Isso depende inteiramente de você, Tenshinhan.<k><p>Dizem que a alma pura do Mutaito repousa naquelas terras...<k><p>Um homem com a sua capacidade certamente encontraria algo de valor lá.<k>
+### 1101 [cf1/c03/c0301_00.sb:28] (x1)
+EN: <p>(Tien...)<k>
+PT: <p>(Tenshinhan...)<k>
+### 1102 [cf1/c03/c0301_00.sb:29] (x1)
+EN: <p>Understood... I'll pay a visit to the Divine Crossing.<k><p>I don't know what I'll find there, but I'm ready to test my powers in Mutaito's resting place!<k>
+PT: <p>Entendido... Vou visitar a Travessia Divina.<k><p>Não sei o que vou encontrar lá, mas estou pronto para testar o meu poder no lugar onde o Mutaito repousa!<k>
+### 1103 [cf1/c03/c0301_00.sb:30] (x1)
+EN: <p>Okay... No matter what awaits you in that land, it's the destiny that has been ordained for you.<k><p>Don't fight it! Purify your heart and accept whatever comes...<k>
+PT: <p>Muito bem... O que quer que o espere naquela terra, é o destino que foi traçado para você.<k><p>Não lute contra ele! Purifique o coração e aceite o que vier...<k>
+### 1104 [cf1/c03/c0301_00.sb:31] (x1)
+EN: <p>I'm gonna come with you, Tien!<k>
+PT: <p>Eu vou com você, Tenshinhan!<k>
+### 1105 [cf1/c03/c0301_00.sb:32] (x1)
+EN: <p>Chiaotzu!<k><p>This is going to be a dangerous journey. I think it'd be better for you to stay here.<k>
+PT: <p>Chaos!<k><p>Esta vai ser uma viagem perigosa. Acho melhor você ficar aqui.<k>
+### 1106 [cf1/c03/c0301_00.sb:33] (x1)
+EN: <p>I can't leave you alone when you're so troubled, Tien!<k><p>I... I want to help you any way I can!<k>
+PT: <p>Não posso te deixar sozinho quando você está tão preocupado, Tenshinhan!<k><p>Eu... eu quero te ajudar de qualquer jeito!<k>
+### 1107 [cf1/c03/c0301_00.sb:34] (x1)
+EN: <p>......Well... if you're prepared for whatever we'll face there, you can come with me.<k>
+PT: <p>......Bom... se você estiver preparado para o que vamos enfrentar, pode vir comigo.<k>
+### 1108 [cf1/c03/c0301_01.sb:13] (x1)
+EN: <p>Tien... what could this be?<k>
+PT: <p>Tenshinhan... o que será isto?<k>
+### 1109 [cf1/c03/c0301_01.sb:15] (x1)
+EN: <p>O seeker of power...<k>
+PT: <p>Ó buscador de poder...<k>
+### 1110 [cf1/c03/c0301_01.sb:18] (x1)
+EN: <p>O seeker of power, unlock my seal...<k><p>you shall be blessed with untold powers...<k>
+PT: <p>Ó buscador de poder, quebre o meu selo...<k><p>e você receberá poderes incalculáveis...<k>
+### 1111 [cf1/c03/c0301_01.sb:19] (x1)
+EN: <p>W-who're you?!<k>
+PT: <p>Q-quem é você?!<k>
+### 1112 [cf1/c03/c0301_01.sb:20] (x1)
+EN: <p>...I sleep deep inside this land.<k>
+PT: <p>...Eu durmo nas profundezas desta terra.<k>
+### 1113 [cf1/c03/c0301_01.sb:21] (x1)
+EN: <p>Tien... do you think this is the spirit that Mutaito fought with and sealed?<k>
+PT: <p>Tenshinhan... você acha que esse é o espírito que o Mutaito enfrentou e selou?<k>
+### 1114 [cf1/c03/c0301_01.sb:22] (x1)
+EN: <p>...I don't know.<k>
+PT: <p>...Não sei.<k>
+### 1115 [cf1/c03/c0301_01.sb:23] (x1)
+EN: <p>But he said to unlock his seal...<k>
+PT: <p>Mas ele disse para quebrar o selo...<k>
+### 1116 [cf1/c03/c0301_01.sb:24] (x1)
+EN: <p>...N-no! Tien, don't go!<k>
+PT: <p>...N-não! Tenshinhan, não vai!<k>
+### 1117 [cf1/c03/c0302_00.sb:12] (x1)
+EN: <p>Welcome, welcome, o seeker of power. What is it that you wish for?<k>
+PT: <p>Bem-vindo, bem-vindo, ó buscador de poder. O que é que você deseja?<k>
+### 1118 [cf1/c03/c0302_00.sb:13] (x1)
+EN: <p>...I want power! The power to surpass Goku!!<k>
+PT: <p>...Eu quero poder! O poder de superar o Goku!!<k>
+### 1119 [cf1/c03/c0302_00.sb:14] (x1)
+EN: <p>Then come, release me...<k>
+PT: <p>Então venha, liberte-me...<k>
+### 1120 [cf1/c03/c0302_00.sb:18] (x1)
+EN: <p>Tien! You can't break that seal!<k><p>If you break it, you'll just be the same as any other murderer!<k>
+PT: <p>Tenshinhan! Você não pode quebrar esse selo!<k><p>Se quebrar, você vai ser igual a qualquer outro assassino!<k>
+### 1121 [cf1/c03/c0302_01.sb:10] (x1)
+EN: <p>...Finally, my seal is removed...<k>
+PT: <p>...Enfim, o meu selo foi removido...<k>
+### 1122 [cf1/c03/c0302_01.sb:13] (x1)
+EN: <p>We have a promise... Let me have my power!<k>
+PT: <p>Nós temos um trato... Me dê o meu poder!<k>
+### 1123 [cf1/c03/c0302_01.sb:14] (x1)
+EN: <p>Heh heh heh...you fool.<k><p>What makes you think I would ever grant my powers to a mere human?<k><p>I'll use that kid over there as a vessel... I'll take his body and conquer the world!<k>
+PT: <p>Hê hê hê... seu tolo.<k><p>O que te faz pensar que eu daria os meus poderes a um mero humano?<k><p>Vou usar aquele garoto como receptáculo... Vou tomar o corpo dele e conquistar o mundo!<k>
+### 1124 [cf1/c03/c0302_01.sb:18] (x2)
+EN: <p>Chiaotzu!!<k>
+PT: <p>Chaos!!<k>
+### 1125 [cf1/c03/c0302_01.sb:20] (x1)
+EN: <p>How dare you!<k>
+PT: <p>Como ousa!<k>
+### 1126 [cf1/c03/c0302_02.sb:10] (x1)
+EN: <p>W-why?! Why aren't I hitting with anything?!<k>
+PT: <p>P-por quê?! Por que eu não acerto nada?!<k>
+### 1127 [cf1/c03/c0302_02.sb:13] (x1)
+EN: <p>You stupid fool...tricked by his spiritual magic!<k>
+PT: <p>Seu tolo... enganado pela magia espiritual dele!<k>
+### 1128 [cf1/c03/c0302_02.sb:14] (x1)
+EN: <p>...Who's that?!<k>
+PT: <p>...Quem está aí?!<k>
+### 1129 [cf1/c03/c0302_02.sb:15] (x1)
+EN: <p>Look at my seal... You've ruined it!<k>
+PT: <p>Veja o meu selo... Você o destruiu!<k>
+### 1130 [cf1/c03/c0302_02.sb:16] (x1)
+EN: <p>...Your seal?!<k><p>...M-M-Master Mutaito?! Oh, Master, I'm so sorry!<k><p>I was greedy, and now I'm paying dearly for it...<k>
+PT: <p>...O seu selo?!<k><p>...M-M-Mestre Mutaito?! Ah, Mestre, me perdoe!<k><p>Eu fui ganancioso, e agora estou pagando caro por isso...<k>
+### 1131 [cf1/c03/c0302_02.sb:18] (x1)
+EN: <p>This spirit takes advantage of the weakness in people's hearts...<k><p>Normally I would punish you for this, but... hmm...<k><p>I know. Perhaps I could call it even if you sealed this spirit again...<k>
+PT: <p>Este espírito se aproveita da fraqueza no coração das pessoas...<k><p>Normalmente eu te castigaria por isso, mas... hmm...<k><p>Já sei. Talvez eu considere tudo resolvido se você selar este espírito de novo...<k>
+### 1132 [cf1/c03/c0302_02.sb:19] (x1)
+EN: <p>But he just moves too quickly for me, sir!<k><p>I could hardly even take him on in combat, much less seal him away...<k>
+PT: <p>Mas ele é rápido demais para mim, senhor!<k><p>Mal consigo enfrentá-lo em combate, quanto mais selá-lo...<k>
+### 1133 [cf1/c03/c0302_02.sb:20] (x1)
+EN: <p>Ho ho ho! It appears you have yet to understand the true meaning of your martial arts.<k>
+PT: <p>Ho ho ho! Parece que você ainda não entendeu o verdadeiro sentido das suas artes marciais.<k>
+### 1134 [cf1/c03/c0302_02.sb:21] (x1)
+EN: <p>The true meaning...?<k>
+PT: <p>O verdadeiro sentido...?<k>
+### 1135 [cf1/c03/c0302_02.sb:22] (x1)
+EN: <p>Indeed... Is there anything in your life you want to protect?<k>
+PT: <p>Exatamente... Existe algo na sua vida que você queira proteger?<k>
+### 1136 [cf1/c03/c0302_02.sb:23] (x1)
+EN: <p>Protect...?<k>
+PT: <p>Proteger...?<k>
+### 1137 [cf1/c03/c0302_02.sb:24] (x1)
+EN: <p>Yes.<k><p>If martial arts can be used to hurt someone, it can also be used to protect them!<k><p>I contained this spirit in order to protect the people that live in this land!<k>
+PT: <p>Sim.<k><p>Se as artes marciais podem ser usadas para ferir alguém, também podem ser usadas para protegê-lo!<k><p>Eu aprisionei este espírito para proteger as pessoas que vivem nesta terra!<k>
+### 1138 [cf1/c03/c0302_02.sb:25] (x1)
+EN: <p>...to protect someone...<k>
+PT: <p>...proteger alguém...<k>
+### 1139 [cf1/c03/c0302_02.sb:29] (x1)
+EN: <p>(Tien... Please don't stray off the path any longer...)<k>
+PT: <p>(Tenshinhan... Por favor, não se desvie mais do caminho...)<k>
+### 1140 [cf1/c03/c0302_02.sb:30] (x1)
+EN: <p>Chiaotzu!<k><p>That's it!<k><p>I've got to protect Chiaotzu... the one who cherishes me like a brother!<k>
+PT: <p>Chaos!<k><p>É isso!<k><p>Eu tenho que proteger o Chaos... ele, que me quer bem como a um irmão!<k>
+### 1141 [cf1/c03/c0302_02.sb:31] (x1)
+EN: <p>Ho ho ho.<k><p>Well, if you know what must be protected, now you must find the skills that only you possess...<k>
+PT: <p>Ho ho ho.<k><p>Bem, se você sabe o que precisa proteger, agora deve encontrar as técnicas que só você tem...<k>
+### 1142 [cf1/c03/c0302_02.sb:32] (x1)
+EN: <p>The skills that only I possess?!<k>
+PT: <p>As técnicas que só eu tenho?!<k>
+### 1143 [cf1/c03/c0302_02.sb:33] (x1)
+EN: <p>Yes... You have three eyes, and your movements are quick and nimble.<k><p>With that in hand, perhaps you could read that spirit's next move before it acts...<k>
+PT: <p>Sim... Você tem três olhos, e os seus movimentos são rápidos e ágeis.<k><p>Com isso, talvez você consiga ler o próximo movimento daquele espírito antes que ele aja...<k>
+### 1144 [cf1/c03/c0302_02.sb:35] (x1)
+EN: <p>...! You're right!<k><p>I could watch him from four different viewpoints... then there won't be any blind spots!<k><p>I've gotta try this out! It's all or nothing!<k>
+PT: <p>...! O senhor tem razão!<k><p>Se eu o observar de quatro pontos de vista diferentes... não vai haver pontos cegos!<k><p>Tenho que tentar! É tudo ou nada!<k>
+### 1145 [cf1/c03/c0302_02.sb:36] (x1)
+EN: <p>Learned Multi Form Attack!<k>
+PT: <p>Aprendeu o Ataque Multiforma!<k>
+### 1146 [cf1/c03/c0303_00.sb:10] (x1)
+EN: <p>Well done, Tien...<k>
+PT: <p>Muito bem, Tenshinhan...<k>
+### 1147 [cf1/c03/c0303_00.sb:13] (x1)
+EN: <p>...Master Mutaito?!<k>
+PT: <p>...Mestre Mutaito?!<k>
+### 1148 [cf1/c03/c0303_00.sb:14] (x1)
+EN: <p>Do you think you understand what I have told you?<k>
+PT: <p>Você acha que entendeu o que eu lhe disse?<k>
+### 1149 [cf1/c03/c0303_00.sb:15] (x1)
+EN: <p>...Yes, Master. Martial arts is not for harming people...<k><p>It is a tool to protect others, as well.<k>
+PT: <p>...Sim, Mestre. As artes marciais não servem para ferir pessoas...<k><p>Também são uma ferramenta para proteger os outros.<k>
+### 1150 [cf1/c03/c0303_00.sb:16] (x1)
+EN: <p>Yes...<k><p>I see you are worthy enough now to use the skill I have invented.<k>
+PT: <p>Sim...<k><p>Vejo que agora você é digno de usar a técnica que eu criei.<k>
+### 1151 [cf1/c03/c0303_00.sb:17] (x1)
+EN: <p>The skill... you invented?<k>
+PT: <p>A técnica... que o senhor criou?<k>
+### 1152 [cf1/c03/c0303_00.sb:18] (x1)
+EN: <p>Indeed. I'm sure you're aware of it by now.<k>
+PT: <p>Exatamente. Tenho certeza de que você já sabe qual é.<k>
+### 1153 [cf1/c03/c0303_00.sb:19] (x1)
+EN: <p>The Evil Containment Wave...? But I couldn't...<k>
+PT: <p>O Mafuba...? Mas eu não conseguiria...<k>
+### 1154 [cf1/c03/c0303_00.sb:20] (x1)
+EN: <p>Hah hah hah! You may use this skill in any way you wish...<k><p>I look forward to seeing how you grow, my lad.<k>
+PT: <p>Rá rá rá! Pode usar esta técnica como quiser...<k><p>Estou ansioso para ver você crescer, meu rapaz.<k>
+### 1155 [cf1/c03/c0303_00.sb:21] (x1)
+EN: <p>Learned Evil Containment Wave!<k>
+PT: <p>Aprendeu o Mafuba!<k>
+### 1156 [cf1/c03/c0303_00.sb:24] (x2)
+EN: <p>Chiaotzu!<k>
+PT: <p>Chaos!<k>
+### 1157 [cf1/c03/c0303_00.sb:28] (x1)
+EN: <p>Chiaotzu! You all right?!<k>
+PT: <p>Chaos! Você está bem?!<k>
+### 1158 [cf1/c03/c0303_00.sb:29] (x1)
+EN: <p>...Tien! Where am I...?<k><p>............<k>
+PT: <p>...Tenshinhan! Onde eu estou...?<k><p>............<k>
+### 1159 [cf1/c03/c0303_00.sb:30] (x1)
+EN: <p>...!! Tien!<k><p>What about you, Tien? Are you okay?!<k>
+PT: <p>...!! Tenshinhan!<k><p>E você, Tenshinhan? Está tudo bem?!<k>
+### 1160 [cf1/c03/c0303_00.sb:31] (x1)
+EN: <p>...Yeah. Sorry to make you worry...<k>
+PT: <p>...Estou. Desculpe te deixar preocupado...<k>
+### 1161 [cf1/c03/c0303_00.sb:32] (x1)
+EN: <p>Heh heh... I knew you'd come to help me, Tien.<k>
+PT: <p>Hê hê... Eu sabia que você viria me ajudar, Tenshinhan.<k>
+### 1162 [cf1/c03/c0303_00.sb:33] (x1)
+EN: <p>Well, yeah... Why wouldn't I?<k>
+PT: <p>Bom, é claro... Por que eu não viria?<k>
+### 1163 [cf1/c03/c0303_01.sb:10] (x1)
+EN: <p>...Very interesting. So that's what happened there...<k>
+PT: <p>...Muito interessante. Então foi isso que aconteceu lá...<k>
+### 1164 [cf1/c03/c0303_01.sb:11] (x1)
+EN: <p>Do you think you've learned the true meaning of your martial arts, then?<k>
+PT: <p>E então, você acha que aprendeu o verdadeiro sentido das suas artes marciais?<k>
+### 1165 [cf1/c03/c0303_01.sb:14] (x1)
+EN: <p>...No, Master.<k>
+PT: <p>...Não, Mestre.<k>
+### 1166 [cf1/c03/c0303_01.sb:15] (x4)
+EN: <p>W-wha?!<k>
+PT: <p>Q-quê?!<k>
+### 1167 [cf1/c03/c0303_01.sb:16] (x1)
+EN: <p>What I have learned is that there are some things in my life that I absolutely must protect.<k>
+PT: <p>O que eu aprendi é que existem coisas na minha vida que eu preciso proteger de qualquer jeito.<k>
+### 1168 [cf1/c03/c0303_01.sb:17] (x1)
+EN: <p>Mmm... I see...<k>
+PT: <p>Hmm... Entendo...<k>
+### 1169 [cf1/c03/c0303_01.sb:18] (x1)
+EN: <p>I also think I understand where Goku's true strength lies...<k>
+PT: <p>Também acho que entendi onde está a verdadeira força do Goku...<k>
+### 1170 [cf1/c03/c0303_01.sb:19] (x1)
+EN: <p>So have you gotten rid of your doubts?<k>
+PT: <p>Então você se livrou das suas dúvidas?<k>
+### 1171 [cf1/c03/c0303_01.sb:20] (x1)
+EN: <p>...Yes, Master. I wish to master my skills to protect those I hold dear.<k><p>While I do so, I want to continue searching for the true meaning of martial arts.<k>
+PT: <p>...Sim, Mestre. Quero dominar as minhas técnicas para proteger quem eu amo.<k><p>Enquanto isso, quero continuar buscando o verdadeiro sentido das artes marciais.<k>
+### 1172 [cf1/c03/c0303_01.sb:21] (x1)
+EN: <p>Think you'll ever find it?<k>
+PT: <p>Acha que vai encontrá-lo um dia?<k>
+### 1173 [cf1/c03/c0303_01.sb:22] (x1)
+EN: <p>...I don't know if I will or not.<k><p>But if I keep doing everything I can to strive for that goal...<k><p>I think that'll be what leads me to become truly strong like Goku...<k>
+PT: <p>...Não sei se vou ou não.<k><p>Mas, se eu continuar fazendo tudo o que posso para chegar lá...<k><p>Acho que é isso que vai me tornar forte de verdade, como o Goku...<k>
+### 1174 [cf1/c03/c0303_01.sb:23] (x1)
+EN: <p>You've grown, Tien...<k><p>Now, it's time to explore the outside world and train to your heart's content!<k>
+PT: <p>Você cresceu, Tenshinhan...<k><p>Agora, é hora de explorar o mundo lá fora e treinar o quanto quiser!<k>
+### 1175 [cf1/c03/c0303_01.sb:24] (x1)
+EN: <p>Yes, Master!<k>
+PT: <p>Sim, Mestre!<k>
+### 1176 [cf1/c03/c0303_01.sb:26] (x1)
+EN: <p>(Listen up, Goku! I think I've finally taken a step toward your strength.)<k><p>(I'm going to be a different man when we meet again!)<k>
+PT: <p>(Escute, Goku! Acho que finalmente dei um passo rumo à sua força.)<k><p>(Quando nos encontrarmos de novo, eu vou ser outro homem!)<k>
+### 1177 [cf1/c04/c0401_00.sb:8] (x1)
+EN: <p>Three years later...<k>
+PT: <p>Três anos depois...<k>
+### 1178 [cf1/c04/c0401_00.sb:16] (x1)
+EN: <p>They sure are taking their time...<k>
+PT: <p>Eles estão demorando, hein...<k>
+### 1179 [cf1/c04/c0401_00.sb:17] (x1)
+EN: <p>Hey, look who's here!<k>
+PT: <p>Ei, olha quem chegou!<k>
+### 1180 [cf1/c04/c0401_00.sb:20] (x1)
+EN: <p>Eeeeee! Oh, wow, I haven't seen either of you in forever!<k>
+PT: <p>Iiiiiii! Nossa, faz um tempão que eu não vejo vocês dois!<k>
+### 1181 [cf1/c04/c0401_00.sb:21] (x1)
+EN: <p>Hey, Bulma!<k>
+PT: <p>Oi, Bulma!<k>
+### 1182 [cf1/c04/c0401_00.sb:22] (x1)
+EN: <p>So where is everyone? They still aren't here yet?<k>
+PT: <p>Cadê todo mundo? Ainda não chegaram?<k>
+### 1183 [cf1/c04/c0401_00.sb:23] (x1)
+EN: <p>Oooh, my my! I'm surrounded by women! What a shock to the ol' ticker!<k>
+PT: <p>Ooh, minha nossa! Cercado de mulheres! O meu velho coração não aguenta!<k>
+### 1184 [cf1/c04/c0401_00.sb:24] (x1)
+EN: <p>Keep your hands off me, you old coot!<k>
+PT: <p>Tira a mão de mim, seu velho tarado!<k>
+### 1185 [cf1/c04/c0401_00.sb:25] (x1)
+EN: <p>Oof... You could stand to be a bit more polite...<k>
+PT: <p>Ai... Você podia ser um pouquinho mais educada...<k>
+### 1186 [cf1/c04/c0401_00.sb:26] (x1)
+EN: <p>Look who's talking!<k>
+PT: <p>Olha só quem fala!<k>
+### 1187 [cf1/c04/c0401_00.sb:27] (x1)
+EN: <p>Um, speaking of which, weren't you together with Yamcha? What happened with him?<k>
+PT: <p>Hã, falando nisso, você não estava com o Yamcha? O que houve com ele?<k>
+### 1188 [cf1/c04/c0401_00.sb:30] (x1)
+EN: <p>That guy? Oh, he ran off on us practically the moment we arrived at West City.<k>
+PT: <p>Aquele lá? Ah, ele deu no pé praticamente assim que chegamos à Cidade do Oeste.<k>
+### 1189 [cf1/c04/c0401_00.sb:33] (x1)
+EN: <p>He's off on a solo training journey...<k>
+PT: <p>Ele saiu numa jornada de treinamento sozinho...<k>
+### 1190 [cf1/c04/c0401_00.sb:34] (x1)
+EN: <p>...and he left me behind, of course.<k>
+PT: <p>...e me deixou para trás, é claro.<k>
+### 1191 [cf1/c04/c0401_00.sb:35] (x1)
+EN: <p>Ho ho ho... Yamcha too, eh? Krillin went off saying the same thing, y'know...<k><p>Goku had a major influence on them three years ago, there's no doubt about that.<k>
+PT: <p>Ho ho ho... O Yamcha também, é? O Kuririn saiu dizendo a mesma coisa, sabe...<k><p>O Goku mexeu muito com eles três anos atrás, não há dúvida.<k>
+### 1192 [cf1/c04/c0401_00.sb:38] (x1)
+EN: <p>Yo!<k>
+PT: <p>E aí!<k>
+### 1193 [cf1/c04/c0401_00.sb:39] (x1)
+EN: <p>Do you know this man?<k>
+PT: <p>Você conhece esse homem?<k>
+### 1194 [cf1/c04/c0401_00.sb:40] (x2)
+EN: <p>No...<k>
+PT: <p>Não...<k>
+### 1195 [cf1/c04/c0401_00.sb:41] (x1)
+EN: <p>Hey, old man! Glad to see you alive again!<k><p>You're all lookin' great, too!<k>
+PT: <p>Ei, velhinho! Que bom te ver vivo ainda!<k><p>Vocês todos estão ótimos também!<k>
+### 1196 [cf1/c04/c0401_00.sb:42] (x1)
+EN: <p>So where are Krillin, and Yamcha, and Tien, huh?<k><p>They already go off to fight their preliminary matches?<k>
+PT: <p>Cadê o Kuririn, o Yamcha e o Tenshinhan, hein?<k><p>Já foram para as lutas das eliminatórias?<k>
+### 1197 [cf1/c04/c0401_00.sb:43] (x1)
+EN: <p>Wait...<k>
+PT: <p>Espera...<k>
+### 1198 [cf1/c04/c0401_00.sb:44] (x1)
+EN: <p>...No way...<k>
+PT: <p>...Não pode ser...<k>
+### 1199 [cf1/c04/c0401_00.sb:45] (x1)
+EN: <p>It... it's Goku...<k>
+PT: <p>É... é o Goku...<k>
+### 1200 [cf1/c04/c0401_00.sb:46] (x1)
+EN: Oolong & Puar
+PT: Oolong e Puar
+### 1201 [cf1/c04/c0401_00.sb:49] (x1)
+EN: <p>Huh? Well, who the heck did you think I was?<k>
+PT: <p>Hã? Ué, quem vocês acharam que eu era?<k>
+### 1202 [cf1/c04/c0401_00.sb:50] (x1)
+EN: <p>Oh, good! The rain's finally letting up a little!<k>
+PT: <p>Ah, que bom! A chuva finalmente está diminuindo!<k>
+### 1203 [cf1/c04/c0401_00.sb:51] (x1)
+EN: <p>Y-you're kidding...! Are you really Goku?<k>
+PT: <p>V-você está brincando...! Você é mesmo o Goku?<k>
+### 1204 [cf1/c04/c0401_00.sb:52] (x1)
+EN: <p>What? You can't recognize me just because I've got this on my head?<k><p>Here, lemme take it off. See?<k>
+PT: <p>Quê? Vocês não me reconhecem só porque estou com isto na cabeça?<k><p>Pronto, deixa eu tirar. Viram?<k>
+### 1205 [cf1/c04/c0401_00.sb:53] (x1)
+EN: <p>There! You guys convinced now?<k>
+PT: <p>Pronto! Convencidos agora?<k>
+### 1206 [cf1/c04/c0401_00.sb:54] (x1)
+EN: <p>There's something that's bothering me, though... Did all of you guys shrink, or what?<k>
+PT: <p>Mas tem uma coisa me incomodando... Vocês todos encolheram, foi?<k>
+### 1207 [cf1/c04/c0401_00.sb:55] (x1)
+EN: <p>You... you've grown, Goku...<k>
+PT: <p>Você... você cresceu, Goku...<k>
+### 1208 [cf1/c04/c0401_00.sb:56] (x1)
+EN: <p>Oh, yeah... Guess I picked up a few inches, huh?<k>
+PT: <p>Ah, é... Acho que espichei uns centímetros, né?<k>
+### 1209 [cf1/c04/c0401_00.sb:57] (x1)
+EN: <p>Hey, Bulma, your lips are all red. Are you sick or something?<k>
+PT: <p>Ei, Bulma, a sua boca está toda vermelha. Você está doente?<k>
+### 1210 [cf1/c04/c0401_00.sb:58] (x1)
+EN: <p>It's called lipstick!<k>
+PT: <p>Isso se chama batom!<k>
+### 1211 [cf1/c04/c0401_00.sb:59] (x1)
+EN: <p>Now this... this really is a shock to my ol' ticker.<k>
+PT: <p>Agora sim... isto sim o meu velho coração não aguenta.<k>
+### 1212 [cf1/c04/c0401_01.sb:10] (x1)
+EN: <p>Hey! We all ran into each other on the way back!<k>
+PT: <p>Ei! A gente se encontrou no caminho!<k>
+### 1213 [cf1/c04/c0401_01.sb:13] (x1)
+EN: <p>It is good to see you again, Master Roshi.<k>
+PT: <p>É bom revê-lo, Mestre Kame.<k>
+### 1214 [cf1/c04/c0401_01.sb:16] (x1)
+EN: <p>Hmm... he's not responding much.<k>
+PT: <p>Hmm... ele não está reagindo muito.<k>
+### 1215 [cf1/c04/c0401_01.sb:17] (x1)
+EN: <p>Oh, he's just surprised to see how much we've changed!<k><p>Take a look, Master Roshi! See how much I've grown? Ha ha ha ha!<k>
+PT: <p>Ah, ele só está surpreso de ver o quanto a gente mudou!<k><p>Olha só, Mestre Kame! Viu como eu cresci? Rá rá rá rá!<k>
+### 1216 [cf1/c04/c0401_01.sb:20] (x1)
+EN: <p>You look great, Krillin!<k>
+PT: <p>Você está ótimo, Kuririn!<k>
+### 1217 [cf1/c04/c0401_01.sb:22] (x1)
+EN: <p>Guess the gang's all here now!<k>
+PT: <p>Parece que agora a turma está toda aqui!<k>
+### 1218 [cf1/c04/c0401_01.sb:24] (x1)
+EN: <p>Yep!<k>
+PT: <p>Isso aí!<k>
+### 1219 [cf1/c04/c0401_01.sb:25] (x1)
+EN: <p>Gokuuuu!! You bum! I've been dying to see you!<k><p>I didn't even get a chance to thank you! Sheesh!<k>
+PT: <p>Gokuuuu!! Seu malandro! Eu estava louco para te ver!<k><p>Nem tive a chance de te agradecer! Puxa!<k>
+### 1220 [cf1/c04/c0401_01.sb:26] (x1)
+EN: <p>That... that's Goku?<k>
+PT: <p>Esse... esse é o Goku?<k>
+### 1221 [cf1/c04/c0401_01.sb:27] (x1)
+EN: <p>I guess so...<k>
+PT: <p>Parece que sim...<k>
+### 1222 [cf1/c04/c0401_02.sb:8] (x1)
+EN: <p>Soon after, the curtain rose on the 23rd World Martial Arts Tournament...<k>
+PT: <p>Pouco depois, as cortinas se abriram para o 23° Torneio de Artes Marciais...<k>
+### 1223 [cf1/c04/c0401_02.sb:11] (x1)
+EN: <p>Making the most of their grueling training, Goku, Krillin, Yamcha and Tien all joined in...<k><p>The group fought with all their might in hopes of nabbing the world championship.<k>
+PT: <p>Colocando à prova o seu treinamento puxado, Goku, Kuririn, Yamcha e Tenshinhan entraram na disputa...<k><p>O grupo lutou com todas as forças na esperança de conquistar o título mundial.<k>
+### 1224 [cf1/c04/c0401_02.sb:15] (x1)
+EN: <p>After a series of pitched battles...<k><p>The tournament's main bracket was filled out with the names of the strongest in the land.<k>
+PT: <p>Depois de uma série de lutas acirradas...<k><p>A chave principal do torneio foi preenchida com os nomes dos mais fortes do mundo.<k>
+### 1225 [cf1/c04/c0401_02.sb:18] (x1)
+EN: <p>Among them was <d>Piccolo Jr.<d>, the reborn form of King Piccolo...<k>
+PT: <p>Entre eles estava <d>Piccolo Jr.<d>, a reencarnação de Piccolo Daimaoh...<k>
+### 1226 [cf1/c04/c0401_02.sb:19] (x1)
+EN: <p>Piccolo Jr. was intent on defeating Goku in the tournament and conquering the world.<k>
+PT: <p>Piccolo Jr. estava decidido a derrotar Goku no torneio e conquistar o mundo.<k>
+### 1227 [cf1/c04/c0401_02.sb:26] (x1)
+EN: <p>The level of talent in this tournament was unprecedented.<k><p>Kami himself joined in to put a stop to Piccolo Jr., but even he was no match for Piccolo Jr.'s might.<k>
+PT: <p>O nível dos lutadores neste torneio era inédito.<k><p>O próprio Kami-Sama entrou na disputa para deter Piccolo Jr., mas nem ele foi páreo para o seu poder.<k>
+### 1228 [cf1/c04/c0401_02.sb:29] (x1)
+EN: <p>And so the final match arrived, with Goku and Piccolo Jr. making a fateful rendezvous...<k>
+PT: <p>E assim chegou a luta final, com Goku e Piccolo Jr. frente a frente num encontro decisivo...<k>
+### 1229 [cf1/c04/c0401_03.sb:10] (x1)
+EN: <p>Who's that new guy? He's a monster!<k><p>I'm guessing he's probably a demon, but he's stronger than anything out there.<k>
+PT: <p>Quem é esse cara novo? Ele é um monstro!<k><p>Eu aposto que ele é um demônio, mas é mais forte que qualquer coisa por aí.<k>
+### 1230 [cf1/c04/c0401_03.sb:13] (x1)
+EN: <p>I know who he is... That's King Piccolo.<k>
+PT: <p>Eu sei quem ele é... É o Piccolo Daimaoh.<k>
+### 1231 [cf1/c04/c0401_03.sb:14] (x1)
+EN: <p>W-whaaaat?!<k>
+PT: <p>Q-quêêêê?!<k>
+### 1232 [cf1/c04/c0401_03.sb:15] (x1)
+EN: <p>Y-you're kidding!!<k><p>You completely pulverized Piccolo! That can't be him!<k>
+PT: <p>V-você está brincando!!<k><p>Você acabou com o Piccolo! Não pode ser ele!<k>
+### 1233 [cf1/c04/c0401_03.sb:16] (x1)
+EN: <p>Yeah... yeah, I beat him.<k>
+PT: <p>É... é, eu venci ele.<k>
+### 1234 [cf1/c04/c0401_03.sb:19] (x1)
+EN: <p>W-what?!<k><p>So Goku's the mystery man who saved the world from the Demon King? I can't believe it!<k>
+PT: <p>Q-quê?!<k><p>Então o Goku é o homem misterioso que salvou o mundo do Rei Demônio? Não acredito!<k>
+### 1235 [cf1/c04/c0401_03.sb:20] (x1)
+EN: <p>Kami told me that Piccolo spat out one more egg before dying...<k><p>That egg contained every bit of Piccolo's life force...<k><p>So the fighter born out of that egg pretty much is Piccolo.<k>
+PT: <p>O Kami-Sama me contou que o Piccolo cuspiu mais um ovo antes de morrer...<k><p>Aquele ovo continha toda a força vital do Piccolo...<k><p>Então o lutador que nasceu desse ovo é praticamente o próprio Piccolo.<k>
+### 1236 [cf1/c04/c0401_03.sb:21] (x1)
+EN: <p>Even worse... this Piccolo is way, way stronger than the old one!<k>
+PT: <p>E o pior... este Piccolo é muito, mas muito mais forte que o antigo!<k>
+### 1237 [cf1/c04/c0401_03.sb:24] (x1)
+EN: <p>I... I never even dreamed this would be King Piccolo. This is going to be bad...<k>
+PT: <p>Eu... eu nunca imaginei que fosse o Piccolo Daimaoh. Isso vai ser terrível...<k>
+### 1238 [cf1/c04/c0401_03.sb:27] (x1)
+EN: <p>But didn't you just see Hero get hit by an Evil Containment Wave...?<k>
+PT: <p>Mas vocês não acabaram de ver o Shen levar um Mafuba...?<k>
+### 1239 [cf1/c04/c0401_03.sb:28] (x1)
+EN: <p>Yeah... This guy that looked like Piccolo was sucked out of his body and into that jar.<k>
+PT: <p>É... Um cara parecido com o Piccolo foi sugado para fora do corpo dele e para dentro daquele pote.<k>
+### 1240 [cf1/c04/c0401_03.sb:29] (x1)
+EN: <p>That wasn't Piccolo... He was borrowing a human body so he could fight against him.<k>
+PT: <p>Aquele não era o Piccolo... Ele estava usando um corpo humano emprestado para lutar contra ele.<k>
+### 1241 [cf1/c04/c0401_03.sb:30] (x1)
+EN: <p>It was Kami. He just looks like Piccolo.<k>
+PT: <p>Era o Kami-Sama. Ele só é parecido com o Piccolo.<k>
+### 1242 [cf1/c04/c0401_03.sb:31] (x1)
+EN: <p>K-Kami?!<k>
+PT: <p>K-Kami-Sama?!<k>
+### 1243 [cf1/c04/c0401_03.sb:32] (x1)
+EN: <p>Piccolo and Kami used to be the same person.<k><p>He discarded his evil side to become Kami... and the remainder became Piccolo.<k><p>If one of them is ever killed, the other will die as well.<k>
+PT: <p>O Piccolo e o Kami-Sama eram a mesma pessoa.<k><p>Ele expulsou o seu lado maligno para se tornar Kami-Sama... e o que sobrou virou o Piccolo.<k><p>Se um deles morrer, o outro morre também.<k>
+### 1244 [cf1/c04/c0401_03.sb:33] (x1)
+EN: <p>Oh... I see... it makes sense.<k><p>That explains the Evil Containment Wave. That would banish one of them without killing him.<k>
+PT: <p>Ah... entendi... faz sentido.<k><p>Isso explica o Mafuba. Ele tiraria um deles de cena sem matá-lo.<k>
+### 1245 [cf1/c04/c0401_03.sb:34] (x1)
+EN: <p>That wave sucked Kami into that jar... Is there any way to get him out of there?<k>
+PT: <p>Aquela onda sugou o Kami-Sama para dentro do pote... Tem algum jeito de tirá-lo de lá?<k>
+### 1246 [cf1/c04/c0401_03.sb:35] (x1)
+EN: <p>We just need to get the lid open... but Piccolo swallowed the jar whole.<k>
+PT: <p>É só abrir a tampa... mas o Piccolo engoliu o pote inteiro.<k>
+### 1247 [cf1/c04/c0401_03.sb:38] (x1)
+EN: <p>W-what're we gonna do...?!<k><p>His... his strength is just staggering. Not even Kami could beat him!<k>
+PT: <p>O-o que a gente vai fazer...?!<k><p>A... a força dele é assombrosa. Nem o Kami-Sama conseguiu vencê-lo!<k>
+### 1248 [cf1/c04/c0401_03.sb:39] (x1)
+EN: <p>Y-you're right...<k><p>I have to admit, we couldn't take him on even if we all ganged up at once...<k>
+PT: <p>V-você tem razão...<k><p>Tenho que admitir, não daríamos conta dele nem se atacássemos todos juntos...<k>
+### 1249 [cf1/c04/c0401_03.sb:40] (x1)
+EN: <p>I... I guess Goku's our only hope again. I hate to say it, but that's how it is...<k>
+PT: <p>Eu... acho que o Goku é a nossa única esperança de novo. Odeio dizer isso, mas é assim que é...<k>
+### 1250 [cf1/c04/c0401_03.sb:41] (x1)
+EN: <p>Yeah... I'll see what I can do.<k>
+PT: <p>É... vou ver o que eu posso fazer.<k>
+### 1251 [cf1/c04/c0401_03.sb:42] (x1)
+EN: <p>I'm afraid we need you, Goku. Without the Evil Containment Wave, you're our only chance...<k><p>I'm sure Piccolo came to face you here in this tournament because he's fearful of your skill.<k>
+PT: <p>Receio que precisamos de você, Goku. Sem o Mafuba, você é a nossa única chance...<k><p>Tenho certeza de que o Piccolo veio te enfrentar neste torneio porque teme a sua habilidade.<k>
+### 1252 [cf1/c04/c0401_03.sb:45] (x1)
+EN: <p>Yeah. I bet you're right.<k>
+PT: <p>É. Aposto que você tem razão.<k>
+### 1253 [cf1/c04/c0401_03.sb:47] (x1)
+EN: <p>Goku is nothing more than an obstacle to me right now...<k><p>A much tougher one than Kami, no doubt. That guy obviously let up on his training.<k>
+PT: <p>O Goku agora não passa de um obstáculo para mim...<k><p>Bem mais duro que o Kami-Sama, sem dúvida. Aquele ali obviamente descuidou do treino.<k>
+### 1254 [cf1/c04/c0401_03.sb:48] (x1)
+EN: <p>Heh heh heh... I'm gonna take you down for good this time!<k><p>The Piccolo you're about to face is nothing like the one you fought three years ago!<k>
+PT: <p>Hê hê hê... Desta vez eu vou acabar com você de vez!<k><p>O Piccolo que você vai enfrentar não tem nada a ver com o que você enfrentou três anos atrás!<k>
+### 1255 [cf1/c04/c0401_03.sb:49] (x1)
+EN: <p>Well, I'm not the same guy I was, either!<k>
+PT: <p>Bom, eu também não sou mais o mesmo!<k>
+### 1256 [cf1/c04/c0401_03.sb:50] (x1)
+EN: <p>Heh heh heh. Talk all you want, it won't matter.<k><p>Once I erase you, this world will be mine!<k><p>A beautiful, demonic world awaits!<k>
+PT: <p>Hê hê hê. Fale o quanto quiser, não vai adiantar.<k><p>Assim que eu acabar com você, este mundo será meu!<k><p>Um belo mundo demoníaco me aguarda!<k>
+### 1257 [cf1/c04/c0401_03.sb:51] (x1)
+EN: <p>Ha ha ha ha ha hah!!<k>
+PT: <p>Ha ha ha ha ha há!!<k>
+### 1258 [cf1/c04/c0401_04.sb:10] (x2)
+EN: <p>Heh... Why are you holding back?<k><p>Trying to size me up, or what?<k>
+PT: <p>Hê... Por que você está se segurando?<k><p>Está me medindo, é?<k>
+### 1259 [cf1/c04/c0401_04.sb:13] (x2)
+EN: <p>You're doing the same thing...<k>
+PT: <p>Você está fazendo a mesma coisa...<k>
+### 1260 [cf1/c04/c0401_04.sb:14] (x2)
+EN: <p>Heh heh heh... Oh, I've got a lot to show you.<k>
+PT: <p>Hê hê hê... Ah, eu tenho muita coisa para te mostrar.<k>
+### 1261 [cf1/c04/c0401_04.sb:15] (x2)
+EN: <p>You're in for a world of hurt!<k>
+PT: <p>Você vai sofrer muito!<k>
+### 1262 [cf1/c04/c0401_04.sb:16] (x2)
+EN: <p>Heh heh heh... I know you're pretty much as evil as they come...<k>
+PT: <p>Hê hê hê... Eu sei que você é praticamente a maldade em pessoa...<k>
+### 1263 [cf1/c04/c0401_04.sb:17] (x2)
+EN: <p>But fighting against someone as talented as you is making me so excited!<k>
+PT: <p>Mas lutar contra alguém tão talentoso quanto você está me deixando empolgado!<k>
+### 1264 [cf1/c04/c0401_04.sb:18] (x2)
+EN: <p>Ha ha ha... You won't be giving me that nonsense once I'm done with you!<k>
+PT: <p>Ha ha ha... Você não vai falar essas besteiras quando eu acabar com você!<k>
+### 1265 [cf1/c04/c0401_04.sb:19] (x2)
+EN: <p>Maybe not...<k>
+PT: <p>Talvez não...<k>
+### 1266 [cf1/c04/c0401_04.sb:22] (x2)
+EN: <p>Y-you call that <d>sizing each other up<d>?!<k>
+PT: <p>V-vocês chamam isso de <d>se medir<d>?!<k>
+### 1267 [cf1/c04/c0401_04.sb:25] (x2)
+EN: <p>I... I can't believe them...<k>
+PT: <p>Eu... eu não acredito nesses dois...<k>
+### 1268 [cf1/c04/c0401_04.sb:26] (x2)
+EN: <p>Just try to find an opening. C'mon, I dare you.<k>
+PT: <p>Tente achar uma brecha. Vamos, eu te desafio.<k>
+### 1269 [cf1/c04/c0401_04.sb:27] (x2)
+EN: <p>Okay! Time to go all out!<k>
+PT: <p>Certo! Hora de ir com tudo!<k>
+### 1270 [cf1/c04/c0401_04.sb:29] (x2)
+EN: <p>Huff... huff...<k><p>Y-you're gonna pay for this! How could I let you chase me to the edge like this?<k><p>Prepare to face the full brunt of King Piccolo's final attack!<k>
+PT: <p>Huff... huff...<k><p>V-você vai pagar por isso! Como eu deixei você me encurralar desse jeito?<k><p>Prepare-se para o golpe final de Piccolo Daimaoh com toda a força!<k>
+### 1271 [cf1/c04/c0401_04.sb:32] (x2)
+EN: <p>Get away! Get away!<k><p>Everyone, you have to get out of here, right now!<k>
+PT: <p>Saiam! Saiam daqui!<k><p>Todo mundo, vocês têm que sair daqui agora mesmo!<k>
+### 1272 [cf1/c04/c0401_04.sb:33] (x2)
+EN: <p>(I can't believe he has that much Ki left! I've never felt anything so strong!)<k><p>(H-he's putting everything he's got into this move!)<k>
+PT: <p>(Não acredito que ele ainda tem tanto Ki! Nunca senti nada tão forte!)<k><p>(E-ele está colocando tudo o que tem nesse golpe!)<k>
+### 1273 [cf1/c04/c0401_04.sb:36] (x2)
+EN: <p>What're you gonna do, Goku?!<k>
+PT: <p>O que você vai fazer, Goku?!<k>
+### 1274 [cf1/c04/c0401_04.sb:37] (x2)
+EN: <p>I can take it! I'll show him!<k>
+PT: <p>Eu aguento! Vou mostrar para ele!<k>
+### 1275 [cf1/c04/c0401_04.sb:40] (x2)
+EN: <p>Don't be stupid! Why do you have to be so stubborn?!<k><p>This isn't even a match anymore! It's life or death!<k><p>You've got to come with us! We need to get out of here!<k>
+PT: <p>Deixe de tolice! Por que você tem que ser tão teimoso?!<k><p>Isto não é mais uma luta! É vida ou morte!<k><p>Venha com a gente! Precisamos sair daqui!<k>
+### 1276 [cf1/c04/c0401_04.sb:42] (x2)
+EN: <p>DIIIE!!!!<k>
+PT: <p>MORRAAAA!!!!<k>
+### 1277 [cf1/c04/c0401_04.sb:50] (x1)
+EN: <p>Ladies and gentlemen, the moment is here! The final match is about to begin!<k><p>Who will be the greatest fighter in the world? Goku, or Piccolo Jr.?<k><p>Fighters, you may enter!<k>
+PT: <p>Senhoras e senhores, chegou a hora! A luta final vai começar!<k><p>Quem será o maior lutador do mundo? Goku ou Piccolo Jr.?<k><p>Lutadores, podem entrar!<k>
+### 1278 [cf1/c04/c0401_04.sb:51] (x1)
+EN: <p>You won't be away from your friends for long.<k><p>Once I kill you, I'll be sure to send the rest of 'em your way, too!<k>
+PT: <p>Você não vai ficar longe dos seus amigos por muito tempo.<k><p>Assim que eu te matar, vou fazer questão de mandar o resto deles atrás de você!<k>
+### 1279 [cf1/c04/c0401_04.sb:54] (x1)
+EN: <p>G-Goku...! You gotta win this! I know you got it in you!<k>
+PT: <p>G-Goku...! Você tem que vencer! Eu sei que você consegue!<k>
+### 1280 [cf1/c04/c0401_04.sb:55] (x1)
+EN: <p>Maybe, but I've never fought this guy before... I don't have too much confidence.<k>
+PT: <p>Pode ser, mas eu nunca lutei com esse cara antes... Não estou muito confiante.<k>
+### 1281 [cf1/c04/c0401_04.sb:56] (x1)
+EN: <p>Oh, no...<k>
+PT: <p>Ah, não...<k>
+### 1282 [cf1/c04/c0401_04.sb:57] (x1)
+EN: <p>Hang in there, Goku! Don't get killed! I don't want to be a widow already!<k>
+PT: <p>Aguenta firme, Goku! Não vá morrer! Eu não quero ficar viúva tão cedo!<k>
+### 1283 [cf1/c04/c0401_04.sb:58] (x1)
+EN: <p>Guess I'll give it a shot!<k>
+PT: <p>Acho que vou tentar!<k>
+### 1284 [cf1/c04/c0401_04.sb:59] (x1)
+EN: <p>The arena is heating up now, folks!<k><p>Both fighters are among the most capable that ever lived! This is going to be one killer match!<k>
+PT: <p>A arena está pegando fogo, pessoal!<k><p>Os dois lutadores estão entre os mais capazes que já existiram! Vai ser uma luta de arrasar!<k>
+### 1285 [cf1/c04/c0401_04.sb:60] (x1)
+EN: <p>Pfft. The announcer doesn't know the half of it.<k><p>The fate of the whole world is riding on this match...<k>
+PT: <p>Pff. O locutor não faz ideia.<k><p>O destino do mundo inteiro depende desta luta...<k>
+### 1286 [cf1/c04/c0401_04.sb:61] (x1)
+EN: <p>The 23rd World Martial Arts Tournament is almost over!<k><p>Who will take the top prize and reign supreme?!<k>
+PT: <p>O 23° Torneio de Artes Marciais está chegando ao fim!<k><p>Quem vai levar o prêmio máximo e reinar absoluto?!<k>
+### 1287 [cf1/c04/c0401_04.sb:63] (x1)
+EN: <p>Ready for what?<k>
+PT: <p>Pronto para quê?<k>
+### 1288 [cf1/c04/c0401_04.sb:64] (x1)
+EN: <p>What do you think...?<k>
+PT: <p>O que você acha...?<k>
+### 1289 [cf1/c04/c0401_04.sb:65] (x1)
+EN: <p>For your death, of course!<k>
+PT: <p>Para a sua morte, é claro!<k>
+### 1290 [cf1/c04/c0401_04.sb:66] (x1)
+EN: <p>The final match of the tournament begins... now!!<k>
+PT: <p>A luta final do torneio começa... agora!!<k>
+### 1291 [cf1/c04/c0402_00.sb:12] (x3)
+EN: <p>You killed King Piccolo... and now he will get his revenge!<k>
+PT: <p>Você matou Piccolo Daimaoh... e agora ele terá a sua vingança!<k>
+### 1292 [cf1/c04/c0402_00.sb:18] (x3)
+EN: <p>He... he still has some power left!<k>
+PT: <p>Ele... ele ainda tem algum poder sobrando!<k>
+### 1293 [cf1/c04/c0402_00.sb:21] (x3)
+EN: <p>......<k><p>Hey! Tien! You have to kill me!<k><p>That's the only way he's ever going to die!<k>
+PT: <p>......<k><p>Ei! Tenshinhan! Você tem que me matar!<k><p>É o único jeito de ele morrer!<k>
+### 1294 [cf1/c04/c0402_00.sb:24] (x3)
+EN: <p>Wha?!<k>
+PT: <p>Quê?!<k>
+### 1295 [cf1/c04/c0402_00.sb:25] (x3)
+EN: <p>Do it! Hurry, before it's too late!<k><p>I can't kill myself! This is the only way we can save Goku!<k><p>It will be fine! You can summon Shenron and wish me back to life later!<k>
+PT: <p>Faça! Rápido, antes que seja tarde!<k><p>Eu não posso me matar! É o único jeito de salvar o Goku!<k><p>Vai dar tudo certo! Depois vocês podem chamar o Shenlong e pedir para eu reviver!<k>
+### 1296 [cf1/c04/c0402_00.sb:26] (x3)
+EN: <p>...W-well, okay...<k>
+PT: <p>...B-bom, está bem...<k>
+### 1297 [cf1/c04/c0402_00.sb:28] (x3)
+EN: <p>Stop! Don't do that!<k>
+PT: <p>Pare! Não faça isso!<k>
+### 1298 [cf1/c04/c0402_00.sb:30] (x3)
+EN: <p>I... I'm going... to win this!<k>
+PT: <p>Eu... eu vou... vencer esta luta!<k>
+### 1299 [cf1/c04/c0402_00.sb:33] (x1)
+EN: <p>It... it's over...<k>
+PT: <p>A... acabou...<k>
+### 1300 [cf1/c04/c0402_00.sb:35] (x4)
+EN: <p>What?!<k>
+PT: <p>O quê?!<k>
+### 1301 [cf1/c04/c0402_00.sb:36] (x1)
+EN: <p>Heh... Guess I managed to hold out...<k>
+PT: <p>Hê... Parece que eu consegui aguentar...<k>
+### 1302 [cf1/c04/c0402_00.sb:37] (x1)
+EN: <p>N-no... no way... That's impossible...<k>
+PT: <p>N-não... não pode... Isso é impossível...<k>
+### 1303 [cf1/c04/c0402_00.sb:38] (x1)
+EN: <p>He's alive! Goku's still alive!!<k>
+PT: <p>Ele está vivo! O Goku ainda está vivo!!<k>
+### 1304 [cf1/c04/c0402_00.sb:39] (x1)
+EN: <p>That was awesome, Goku!<k>
+PT: <p>Isso foi incrível, Goku!<k>
+### 1305 [cf1/c04/c0402_00.sb:40] (x1)
+EN: <p>He took the full force of that explosion, and he's still in perfect fighting shape!<k>
+PT: <p>Ele levou aquela explosão em cheio e ainda está em perfeitas condições de lutar!<k>
+### 1306 [cf1/c04/c0402_00.sb:41] (x1)
+EN: <p>There's no way you can win this...!<k><p>I know you used all your remaining Ki force on that blast.<k>
+PT: <p>Você não tem como vencer...!<k><p>Eu sei que você usou todo o Ki que restava naquele ataque.<k>
+### 1307 [cf1/c04/c0402_00.sb:43] (x1)
+EN: <p>This championship's all mine!<k>
+PT: <p>Este título é todo meu!<k>
+### 1308 [cf1/c04/c0402_00.sb:45] (x1)
+EN: <p>W-wait! What're you doing?!<k>
+PT: <p>E-espera! O que você está fazendo?!<k>
+### 1309 [cf1/c04/c0402_00.sb:46] (x1)
+EN: <p>Ready...<k>
+PT: <p>Preparar...<k>
+### 1310 [cf1/c04/c0402_00.sb:47] (x1)
+EN: <p>Go!!<k>
+PT: <p>Vai!!<k>
+### 1311 [cf1/c04/c0402_01.sb:12] (x1)
+EN: <p>Hey, uh... referee? He... he's out of the ring, right?<k>
+PT: <p>Ei, hã... juiz? Ele... ele saiu do ringue, não saiu?<k>
+### 1312 [cf1/c04/c0402_01.sb:15] (x1)
+EN: <p>Huh...?!<k>
+PT: <p>Hã...?!<k>
+### 1313 [cf1/c04/c0402_01.sb:16] (x1)
+EN: <p>You know... the match? I... won it, right?<k>
+PT: <p>Sabe... a luta? Eu... ganhei, né?<k>
+### 1314 [cf1/c04/c0402_01.sb:17] (x1)
+EN: <p>Oh... oh, right! Yes, it's a ring-out!<k>
+PT: <p>Ah... ah, é mesmo! Sim, ele caiu fora do ringue!<k>
+### 1315 [cf1/c04/c0402_01.sb:18] (x1)
+EN: <p>Goku is the victor!!<k><p>Goku is the champion of the World Martial Arts Tournament!!<k>
+PT: <p>O Goku é o vencedor!!<k><p>O Goku é o campeão do Torneio de Artes Marciais!!<k>
+### 1316 [cf1/c04/c0402_01.sb:19] (x1)
+EN: <p>Whew... I did it...!<k>
+PT: <p>Ufa... consegui...!<k>
+### 1317 [cf1/c04/c0402_01.sb:22] (x1)
+EN: <p>Hooraaaaayy!! You did it! You won, Goku!!<k>
+PT: <p>Ebaaaaaa!! Você conseguiu! Você venceu, Goku!!<k>
+### 1318 [cf1/c04/c0402_01.sb:26] (x1)
+EN: <p>You did it! I can't believe it! That was so awesome!!<k>
+PT: <p>Você conseguiu! Não acredito! Foi demais!!<k>
+### 1319 [cf1/c04/c0402_01.sb:27] (x1)
+EN: <p>Heh heh... I'm finally champion...<k>
+PT: <p>Hê hê... Finalmente sou campeão...<k>
+### 1320 [cf1/c04/c0402_01.sb:30] (x1)
+EN: <p>Whew... we're safe. I guess it's over, huh?<k>
+PT: <p>Ufa... estamos salvos. Acho que acabou, né?<k>
+### 1321 [cf1/c04/c0402_01.sb:31] (x1)
+EN: <p>Oof...<k>
+PT: <p>Ai...<k>
+### 1322 [cf1/c04/c0402_01.sb:32] (x1)
+EN: <p>Y-you all right?! Goku!<k>
+PT: <p>V-você está bem?! Goku!<k>
+### 1323 [cf1/c04/c0402_01.sb:33] (x1)
+EN: <p>N-no... no, not really.<k>
+PT: <p>N-não... não muito.<k>
+### 1324 [cf1/c04/c0402_01.sb:36] (x1)
+EN: <p>Let's get you to the hospital!<k>
+PT: <p>Vamos te levar para o hospital!<k>
+### 1325 [cf1/c04/c0402_01.sb:37] (x1)
+EN: <p>No worries! I've got a Senzu Bean right here!<k>
+PT: <p>Não se preocupem! Tenho uma Semente dos Deuses bem aqui!<k>
+### 1326 [cf1/c04/c0402_01.sb:38] (x1)
+EN: <p>Ah...! Yajirobe! W-what're you doing here...?<k>
+PT: <p>Ah...! Yajirobe! O-o que você está fazendo aqui...?<k>
+### 1327 [cf1/c04/c0402_01.sb:39] (x1)
+EN: <p>Oh, just here checking things out.<k>
+PT: <p>Ah, só vim dar uma olhada.<k>
+### 1328 [cf1/c04/c0402_01.sb:40] (x1)
+EN: <p>Here, eat up!<k>
+PT: <p>Toma, come!<k>
+### 1329 [cf1/c04/c0402_01.sb:41] (x1)
+EN: <p>Ngh... thank you...<k>
+PT: <p>Ngh... obrigado...<k>
+### 1330 [cf1/c04/c0402_01.sb:45] (x1)
+EN: <p>All right!!<k><p>I won the World Martial Arts Tournament! Yaaahooooo!!<k>
+PT: <p>Isso aí!!<k><p>Eu ganhei o Torneio de Artes Marciais! Uhuuuuuu!!<k>
+### 1331 [cf1/c04/c0402_02.sb:16] (x3)
+EN: <p>Oh, no!<k>
+PT: <p>Ah, não!<k>
+### 1332 [cf1/c04/c0402_02.sb:21] (x1)
+EN: <p>Goku! What're you doing?<k>
+PT: <p>Goku! O que você está fazendo?<k>
+### 1333 [cf1/c04/c0402_02.sb:22] (x1)
+EN: <p>What were you thinking, Kami? Why did you do something like that?<k>
+PT: <p>O que o senhor tinha na cabeça, Kami-Sama? Por que fez uma coisa dessas?<k>
+### 1334 [cf1/c04/c0402_02.sb:23] (x1)
+EN: <p>Ngh...! He... he is still alive!<k><p>You have to kill him, Goku! He can't be left alive!<k><p>If he lives, history will repeat itself over and over again!<k>
+PT: <p>Ngh...! Ele... ele ainda está vivo!<k><p>Você tem que matá-lo, Goku! Ele não pode ficar vivo!<k><p>Se ele viver, a história vai se repetir de novo e de novo!<k>
+### 1335 [cf1/c04/c0402_02.sb:24] (x1)
+EN: <p>Well, if that happens, I'll just beat him again!<k><p>If I kill Piccolo, then you're gonna die too!<k>
+PT: <p>Bom, se isso acontecer, eu venço ele de novo!<k><p>Se eu matar o Piccolo, o senhor também vai morrer!<k>
+### 1336 [cf1/c04/c0402_02.sb:25] (x1)
+EN: <p>I told you, just wish me back to life with Shenron!<k>
+PT: <p>Já disse, é só me reviver com o Shenlong!<k>
+### 1337 [cf1/c04/c0402_02.sb:28] (x1)
+EN: <p>H-he's right, Goku... That's the only way.<k>
+PT: <p>E-ele tem razão, Goku... É o único jeito.<k>
+### 1338 [cf1/c04/c0402_02.sb:29] (x1)
+EN: <p>You're not supposed to lie to me like that, Kami.<k>
+PT: <p>O senhor não devia mentir para mim desse jeito, Kami-Sama.<k>
+### 1339 [cf1/c04/c0402_02.sb:31] (x1)
+EN: <p>Aren't you the one who made Shenron and the Dragon Balls in the first place?<k><p>If you die, won't they just up and disappear or something?<k>
+PT: <p>Não foi o senhor que criou o Shenlong e as Esferas do Dragão?<k><p>Se o senhor morrer, elas não vão simplesmente sumir?<k>
+### 1340 [cf1/c04/c0402_02.sb:32] (x1)
+EN: <p>Gah...<k>
+PT: <p>Ugh...<k>
+### 1341 [cf1/c04/c0402_02.sb:35] (x1)
+EN: <p>Is... is that true?!<k>
+PT: <p>Isso... isso é verdade?!<k>
+### 1342 [cf1/c04/c0402_02.sb:36] (x1)
+EN: <p>I... I should have left my post long ago...<k><p>I created the evil Piccolo... His power exceeded that of the gods themselves.<k><p>I don't have any right to be where I am right now... I deserve to die.<k>
+PT: <p>Eu... eu devia ter deixado o meu posto há muito tempo...<k><p>Eu criei o maligno Piccolo... O poder dele superou o dos próprios deuses.<k><p>Não tenho o direito de estar onde estou... Eu mereço morrer.<k>
+### 1343 [cf1/c04/c0402_02.sb:37] (x1)
+EN: <p>But you're the one who can guide the world back to peace.<k><p>If it wasn't for your Dragon Balls, neither Goku nor any of us would be here today.<k>
+PT: <p>Mas é o senhor quem pode guiar o mundo de volta à paz.<k><p>Se não fossem as suas Esferas do Dragão, nem o Goku nem nenhum de nós estaria aqui hoje.<k>
+### 1344 [cf1/c04/c0402_02.sb:38] (x1)
+EN: <p>A single Dragon Ball kicked off this adventure...and that's all it took to save the world.<k>
+PT: <p>Uma única Esfera do Dragão deu início a esta aventura... e isso bastou para salvar o mundo.<k>
+### 1345 [cf1/c04/c0402_03.sb:13] (x1)
+EN: <p>Goku... You've been blessed with a wonderful teacher.<k>
+PT: <p>Goku... Você teve a sorte de ter um mestre maravilhoso.<k>
+### 1346 [cf1/c04/c0402_03.sb:16] (x1)
+EN: <p>I sure have! He's kind of a pervert, though!<k>
+PT: <p>Tive mesmo! Mas ele é meio tarado!<k>
+### 1347 [cf1/c04/c0402_03.sb:19] (x1)
+EN: <p>Oh, I... I simply taught him the basics, that's all.<k><p>It was you, and Korin, who raised him to be the man he is today.<k>
+PT: <p>Ah, eu... eu só ensinei o básico, só isso.<k><p>Foram o senhor e o Mestre Karin que o transformaram no homem que ele é hoje.<k>
+### 1348 [cf1/c04/c0402_03.sb:20] (x1)
+EN: <p>Hahh!!<k>
+PT: <p>Haah!!<k>
+### 1349 [cf1/c04/c0402_03.sb:22] (x1)
+EN: <p>Heh heh heh...<k><p>Yes... I'd say that the outfit with the Turtle mark befits you the most.<k>
+PT: <p>Hê hê hê...<k><p>Sim... Eu diria que a roupa com o símbolo da Tartaruga é a que fica melhor em você.<k>
+### 1350 [cf1/c04/c0402_03.sb:23] (x1)
+EN: <p>Thanks!<k>
+PT: <p>Obrigado!<k>
+### 1351 [cf1/c04/c0402_03.sb:24] (x1)
+EN: <p>Yajirobe! You got another Senzu Bean?<k>
+PT: <p>Yajirobe! Você tem mais uma Semente dos Deuses?<k>
+### 1352 [cf1/c04/c0402_03.sb:27] (x1)
+EN: <p>Huh? What, isn't one enough for you?<k>
+PT: <p>Hã? Quê, uma não é suficiente para você?<k>
+### 1353 [cf1/c04/c0402_03.sb:28] (x1)
+EN: <p>Here you go!<k>
+PT: <p>Toma aqui!<k>
+### 1354 [cf1/c04/c0402_03.sb:29] (x1)
+EN: <p>Here, eat this. You need to get better.<k>
+PT: <p>Toma, come isto. Você precisa se recuperar.<k>
+### 1355 [cf1/c04/c0402_03.sb:33] (x1)
+EN: <p>W-what're you doing?!<k>
+PT: <p>O-o que você está fazendo?!<k>
+### 1356 [cf1/c04/c0402_03.sb:41] (x1)
+EN: <p>Y-you idiot! What are you thinking?!<k>
+PT: <p>S-seu idiota! O que você tem na cabeça?!<k>
+### 1357 [cf1/c04/c0402_03.sb:42] (x1)
+EN: <p>If you died right now, you'd take Kami along with you.<k><p>Besides, I'm gonna need someone to be my rival.<k>
+PT: <p>Se você morresse agora, levaria o Kami-Sama junto.<k><p>Além disso, eu vou precisar de alguém para ser o meu rival.<k>
+### 1358 [cf1/c04/c0402_03.sb:43] (x1)
+EN: <p>Heh heh heh... That kindness is going to kill you someday. I warned you about that.<k><p>I'll give you today's match...<k><p>But just you wait. One of these days I'll beat you and conquer the world!<k>
+PT: <p>Hê hê hê... Essa bondade ainda vai te matar um dia. Eu te avisei.<k><p>Hoje eu deixo a luta com você...<k><p>Mas me aguarde. Um dia desses eu vou te derrotar e conquistar o mundo!<k>
+### 1359 [cf1/c04/c0402_03.sb:44] (x1)
+EN: <p>See? See?! Why didn't you seal him away, huh?!<k>
+PT: <p>Viu? Viu?! Por que você não o prendeu, hein?!<k>
+### 1360 [cf1/c04/c0402_03.sb:45] (x1)
+EN: <p>Ahhhh ha ha hah! I hope you're looking forward to the day we meet again!<k>
+PT: <p>Ahhhh ha ha há! Espero que você esteja ansioso pelo dia em que nos encontraremos de novo!<k>
+### 1361 [cf1/c04/c0402_03.sb:46] (x1)
+EN: <p>(Train hard, Piccolo... I need you to be stronger!)<k><p>(And when we meet again... I'm still going to be one step ahead of you!)<k>
+PT: <p>(Treine duro, Piccolo... Preciso que você fique mais forte!)<k><p>(E quando a gente se encontrar de novo... eu ainda vou estar um passo à sua frente!)<k>
+### 1362 [cf1/c04/c0402_04.sb:13] (x1)
+EN: <p>Oh, thank heavens! Thank heavens you're still alive!<k>
+PT: <p>Ah, graças aos céus! Graças aos céus você está vivo!<k>
+### 1363 [cf1/c04/c0402_04.sb:16] (x1)
+EN: <p>Agh! W-what're you doing, Chi-Chi?!<k><p>Get off of me! Knock it off!<k>
+PT: <p>Ai! O-o que você está fazendo, Chichi?!<k><p>Sai de cima de mim! Para com isso!<k>
+### 1364 [cf1/c04/c0402_04.sb:19] (x1)
+EN: <p>Ohhh! I almost forgot! You're a newlywed now, Goku!<k>
+PT: <p>Ohhh! Quase me esqueci! Você é um recém-casado agora, Goku!<k>
+### 1365 [cf1/c04/c0402_04.sb:22] (x1)
+EN: <p>Goku... would you like to become Kami in place of me?<k><p>You are more than qualified for the job. The two of you could live in my lookout together...<k>
+PT: <p>Goku... você gostaria de se tornar o Kami-Sama no meu lugar?<k><p>Você está mais do que qualificado. Vocês dois poderiam viver juntos no meu templo...<k>
+### 1366 [cf1/c04/c0402_04.sb:23] (x1)
+EN: <p>Huh? Me?!<k><p>Y-you gotta be kidding me!<k><p>I'd die if I had to do that! That's soooo boring!<k><p>I'm never gonna take that job! No way, no how!<k>
+PT: <p>Hã? Eu?!<k><p>V-você só pode estar brincando!<k><p>Eu ia morrer se tivesse que fazer isso! É muuuuito chato!<k><p>Eu nunca vou aceitar esse trabalho! De jeito nenhum!<k>
+### 1367 [cf1/c04/c0402_04.sb:24] (x1)
+EN: <p>But Goku, you can become the new Kami! You can have my powers!<k><p>There's no one else in the world who could possibly succeed me!<k>
+PT: <p>Mas, Goku, você pode ser o novo Kami-Sama! Pode ter os meus poderes!<k><p>Não há mais ninguém no mundo capaz de me suceder!<k>
+### 1368 [cf1/c04/c0402_04.sb:25] (x1)
+EN: <p>Thpbbt!<k>
+PT: <p>Blééé!<k>
+### 1369 [cf1/c04/c0402_04.sb:26] (x2)
+EN: <p>Flying Nimbus!!<k>
+PT: <p>Nuvem Voadora!!<k>
+### 1370 [cf1/c04/c0402_04.sb:27] (x1)
+EN: <p>See you, guys! Bye for now!<k>
+PT: <p>Até mais, pessoal! Tchau!<k>
+### 1371 [cf1/c04/c0402_04.sb:29] (x2)
+EN: <p>Up we go!!<k>
+PT: <p>Lá vamos nós!!<k>
+### 1372 [cf1/c04/c0402_04.sb:31] (x1)
+EN: <p>Oh, this isn't the end... If anything, it's the beginning!<k>
+PT: <p>Ah, isto não é o fim... Na verdade, é só o começo!<k>
+### 1373 [cf1/c05/c0501_00.sb:9] (x1)
+EN: <p>...Chi-Chi? Is this the right way to your old man's castle?<k>
+PT: <p>...Chichi? É por aqui o castelo do seu velho?<k>
+### 1374 [cf1/c05/c0501_00.sb:11] (x1)
+EN: <p>Goku, he's my father, not an <d>old man.<d> For that matter, he's your father, too.<k>
+PT: <p>Goku, ele é o meu pai, não um <d>velho.<d> Aliás, ele também é seu pai.<k>
+### 1375 [cf1/c05/c0501_00.sb:12] (x1)
+EN: <p>Huh? Why's that?<k>
+PT: <p>Hã? Como assim?<k>
+### 1376 [cf1/c05/c0501_00.sb:13] (x1)
+EN: <p>Your father-in-law, at least once we get married!<k>
+PT: <p>Seu sogro, pelo menos depois que a gente se casar!<k>
+### 1377 [cf1/c05/c0501_00.sb:14] (x1)
+EN: <p>Whoa! Man, the Ox-King's gonna be my dad, huh?!<k><p>That's... weird.<k>
+PT: <p>Uau! Nossa, o Cutelo vai ser meu pai, é?!<k><p>Que... estranho.<k>
+### 1378 [cf1/c05/c0501_00.sb:18] (x1)
+EN: <p>I have to admit, though, I'm impressed. I never thought you'd get this strong.<k><p>No wonder I figured you'd be the perfect husband.<k>
+PT: <p>Mas tenho que admitir, estou impressionada. Nunca pensei que você ficaria tão forte.<k><p>Não é à toa que achei que você seria o marido perfeito.<k>
+### 1379 [cf1/c05/c0501_00.sb:19] (x1)
+EN: <p>Ugh, you still don't remember me? I'm Chi-Chi! Daughter of the Ox-King!<k>
+PT: <p>Aff, você ainda não se lembra de mim? Eu sou a Chichi! Filha do Cutelo!<k>
+### 1380 [cf1/c05/c0501_00.sb:21] (x2)
+EN: <p>Chi-Chi!!<k>
+PT: <p>Chichi!!<k>
+### 1381 [cf1/c05/c0501_00.sb:22] (x1)
+EN: <p>Aaaaagh! Now I remember!<k><p>Oh, man, I really said it, too! I told you I'd marry you!<k>
+PT: <p>Aaaaah! Agora eu lembrei!<k><p>Puxa, eu disse mesmo! Eu disse que ia me casar com você!<k>
+### 1382 [cf1/c05/c0501_00.sb:23] (x1)
+EN: <p>Whew, finally...<k>
+PT: <p>Ufa, finalmente...<k>
+### 1383 [cf1/c05/c0501_00.sb:24] (x1)
+EN: <p>(Now it makes sense...)<k><p>(I thought that a <d>wife<d> was some kinda food or something.)<k><p>(Ah, well... a promise is a promise!)<k>
+PT: <p>(Agora faz sentido...)<k><p>(Eu achava que <d>esposa<d> era algum tipo de comida.)<k><p>(Ah, bom... promessa é promessa!)<k>
+### 1384 [cf1/c05/c0501_00.sb:25] (x1)
+EN: <p>Okay, let's get married!<k>
+PT: <p>Tá bom, vamos casar!<k>
+### 1385 [cf1/c05/c0501_00.sb:26] (x1)
+EN: <p>Hee hee! You got it!<k>
+PT: <p>Hi hi! Combinado!<k>
+### 1386 [cf1/c05/c0501_00.sb:28] (x1)
+EN: <p>...Boy, getting married sure sounds crazy.<k>
+PT: <p>...Puxa, casar parece mesmo uma loucura.<k>
+### 1387 [cf1/c05/c0501_00.sb:29] (x1)
+EN: <p>Ah! There's the castle!<k>
+PT: <p>Ah! Lá está o castelo!<k>
+### 1388 [cf1/c05/c0501_01.sb:10] (x1)
+EN: <p>By the way, Goku, I think it'd be best if we held a marriage ceremony soon...<k>
+PT: <p>Aliás, Goku, acho que seria melhor fazermos a cerimônia de casamento logo...<k>
+### 1389 [cf1/c05/c0501_01.sb:13] (x1)
+EN: <p>...Huh?<k>
+PT: <p>...Hã?<k>
+### 1390 [cf1/c05/c0501_01.sb:14] (x1)
+EN: <p>Yes. A ceremony worthy of the greatest son-in-law a king could ever hope for.<k>
+PT: <p>Isso. Uma cerimônia à altura do melhor genro que um rei poderia sonhar.<k>
+### 1391 [cf1/c05/c0501_01.sb:17] (x1)
+EN: <p>Oh, we don't need one! It'd be so embarrassing! Right, Goku?<k>
+PT: <p>Ah, não precisa! Seria tão vergonhoso! Né, Goku?<k>
+### 1392 [cf1/c05/c0501_01.sb:18] (x1)
+EN: <p>Huh? I don't really care either way, but...<k>
+PT: <p>Hã? Para mim tanto faz, mas...<k>
+### 1393 [cf1/c05/c0501_01.sb:19] (x1)
+EN: <p>Chi-Chi... there's something I'd like to show you.<k>
+PT: <p>Chichi... tem uma coisa que eu queria te mostrar.<k>
+### 1394 [cf1/c05/c0501_01.sb:20] (x1)
+EN: <p>...Oh?<k>
+PT: <p>...Ué?<k>
+### 1395 [cf1/c05/c0501_02.sb:10] (x1)
+EN: <p>What're you looking for, Daddy?<k>
+PT: <p>O que o senhor está procurando, papai?<k>
+### 1396 [cf1/c05/c0501_02.sb:13] (x1)
+EN: <p>Ah, here it is! Here, take a look!<k>
+PT: <p>Ah, aqui está! Olhe só!<k>
+### 1397 [cf1/c05/c0501_02.sb:14] (x1)
+EN: <p>Huh? What's that, Daddy?!<k>
+PT: <p>Hã? O que é isso, papai?!<k>
+### 1398 [cf1/c05/c0501_02.sb:17] (x1)
+EN: <p>Wooowwwww!!<k>
+PT: <p>Uaaaaau!!<k>
+### 1399 [cf1/c05/c0501_02.sb:20] (x2)
+EN: <p>Mmm?<k>
+PT: <p>Hm?<k>
+### 1400 [cf1/c05/c0501_02.sb:21] (x1)
+EN: <p>It's so pretty, Daddy!<k>
+PT: <p>É tão lindo, papai!<k>
+### 1401 [cf1/c05/c0501_02.sb:22] (x1)
+EN: <p>It's a wedding dress. Your mother wore this when we got married.<k>
+PT: <p>É um vestido de noiva. Sua mãe usou quando nos casamos.<k>
+### 1402 [cf1/c05/c0501_02.sb:23] (x1)
+EN: <p>Mommy, huh...?<k>
+PT: <p>A mamãe, é...?<k>
+### 1403 [cf1/c05/c0501_02.sb:24] (x1)
+EN: <p>I keep it here as something to remember the ol' lady by.<k>
+PT: <p>Guardo aqui como lembrança da minha velha.<k>
+### 1404 [cf1/c05/c0501_02.sb:25] (x1)
+EN: <p>One of my mother's heirlooms...<k>
+PT: <p>Uma herança da minha mãe...<k>
+### 1405 [cf1/c05/c0501_02.sb:26] (x1)
+EN: <p>Chi-Chi... I'd like you to put this on during the big day for me.<k>
+PT: <p>Chichi... eu gostaria que você usasse isto no grande dia.<k>
+### 1406 [cf1/c05/c0501_02.sb:27] (x1)
+EN: <p>Oh, Daddy! We've just got to have a ceremony now!<k><p>I can't wait to put this wedding dress on for myself...<k><p>Let's do it! Right now! I'm ready anytime!! ...Huh? Goku!!<k>
+PT: <p>Ah, papai! Agora a gente tem que fazer a cerimônia!<k><p>Mal posso esperar para usar este vestido de noiva...<k><p>Vamos fazer! Agora mesmo! Estou pronta a qualquer hora!! ...Hã? Goku!!<k>
+### 1407 [cf1/c05/c0501_02.sb:28] (x1)
+EN: <p>Uh... Chi-Chi? Do you really have to wear that dress to get married?<k>
+PT: <p>Hã... Chichi? Você precisa mesmo usar esse vestido para casar?<k>
+### 1408 [cf1/c05/c0501_02.sb:29] (x1)
+EN: <p>Sure do!<k>
+PT: <p>Preciso sim!<k>
+### 1409 [cf1/c05/c0501_02.sb:30] (x1)
+EN: <p>There's no need for haste here, Chi-Chi.<k><p>We'll need the villagers' support if we want to set up the greatest wedding ceremony in the land!<k>
+PT: <p>Não há pressa, Chichi.<k><p>Vamos precisar da ajuda do povo da vila se quisermos a maior cerimônia de casamento do mundo!<k>
+### 1410 [cf1/c05/c0501_02.sb:31] (x1)
+EN: <p>Okay, Daddy!<k>
+PT: <p>Tá bom, papai!<k>
+### 1411 [cf1/c05/c0501_03.sb:11] (x1)
+EN: <p><d>Ladies and gentlemen... uh... Thank you for, er, coming...<d><k><p><d>Er, I mean, for taking time out of your busy schedules...to, uh, make it to our wedding.<d><k>
+PT: <p><d>Senhoras e senhores... hã... Obrigado por, é, virem...<d><k><p><d>Quer dizer, por tirarem um tempo das suas agendas cheias... para, hã, vir ao nosso casamento.<d><k>
+### 1412 [cf1/c05/c0501_03.sb:12] (x1)
+EN: <p>Ha hah! Perfect! My wedding speech is gonna be great! Now we just need good weather!<k>
+PT: <p>Rá rá! Perfeito! O meu discurso de casamento vai ser ótimo! Agora só falta o tempo bom!<k>
+### 1413 [cf1/c05/c0501_03.sb:13] (x1)
+EN: <p>...Whoa! An earthquake!<k>
+PT: <p>...Uau! Um terremoto!<k>
+### 1414 [cf1/c05/c0501_03.sb:16] (x1)
+EN: <p>Goku! I left my wedding dress in Daddy's room!<k>
+PT: <p>Goku! Eu deixei o meu vestido de noiva no quarto do papai!<k>
+### 1415 [cf1/c05/c0501_03.sb:17] (x1)
+EN: <p>Chi-Chi!<k>
+PT: <p>Chichi!<k>
+### 1416 [cf1/c05/c0501_03.sb:19] (x1)
+EN: <p>I'll take care of the dress, Goku!<k><p>You get Chi-Chi out of here for me!<k>
+PT: <p>Eu cuido do vestido, Goku!<k><p>Você tira a Chichi daqui para mim!<k>
+### 1417 [cf1/c05/c0501_03.sb:20] (x2)
+EN: <p>Daddy!!<k>
+PT: <p>Papai!!<k>
+### 1418 [cf1/c05/c0501_03.sb:24] (x3)
+EN: <p>Got it!<k>
+PT: <p>Entendido!<k>
+### 1419 [cf1/c05/c0501_03.sb:25] (x1)
+EN: <p>Whoa! Man, it's so hot! I can't get any closer!<k>
+PT: <p>Uau! Nossa, que calor! Não consigo chegar mais perto!<k>
+### 1420 [cf1/c05/c0501_03.sb:26] (x1)
+EN: <p>Ox-King...<k>
+PT: <p>Cutelo...<k>
+### 1421 [cf1/c05/c0501_04.sb:10] (x1)
+EN: <p>Chi-Chi! You okay?<k>
+PT: <p>Chichi! Você está bem?<k>
+### 1422 [cf1/c05/c0501_04.sb:13] (x1)
+EN: <p>Goku! Use your Kamehameha to put out the flames!<k>
+PT: <p>Goku! Use o seu Kamehameha para apagar o fogo!<k>
+### 1423 [cf1/c05/c0501_04.sb:18] (x1)
+EN: <p>Wait! On second thought, don't, Goku!<k>
+PT: <p>Espera! Pensando bem, não faça isso, Goku!<k>
+### 1424 [cf1/c05/c0501_04.sb:19] (x1)
+EN: <p>Why not?<k>
+PT: <p>Por que não?<k>
+### 1425 [cf1/c05/c0501_04.sb:20] (x1)
+EN: <p>You'll blow the whole castle apart! Just like Master Roshi did before!<k>
+PT: <p>Você vai explodir o castelo inteiro! Igual o Mestre Kame fez antes!<k>
+### 1426 [cf1/c05/c0501_04.sb:22] (x1)
+EN: <p>Don't worry, okay? I'll make it just strong enough to put out the fire!<k>
+PT: <p>Não se preocupe, tá? Vou usar só a força para apagar o fogo!<k>
+### 1427 [cf1/c05/c0501_04.sb:25] (x1)
+EN: <p>Man... what a blaze...<k>
+PT: <p>Puxa... que incêndio...<k>
+### 1428 [cf1/c05/c0501_04.sb:27] (x1)
+EN: <p>Wait, I know! Flying Nimbus!!<k>
+PT: <p>Espera, já sei! Nuvem Voadora!!<k>
+### 1429 [cf1/c05/c0501_04.sb:28] (x1)
+EN: <p>Chi-Chi! You wait here, okay? I'll save him!<k>
+PT: <p>Chichi! Espera aqui, tá? Eu vou salvar ele!<k>
+### 1430 [cf1/c05/c0502_00.sb:10] (x1)
+EN: <p>Oh, man...! This isn't any ordinary fire!<k>
+PT: <p>Puxa...! Isto não é um fogo comum!<k>
+### 1431 [cf1/c05/c0502_00.sb:12] (x1)
+EN: <p>Ox-King!!<k>
+PT: <p>Cutelo!!<k>
+### 1432 [cf1/c05/c0502_00.sb:13] (x1)
+EN: <p>...Huh? Oh! Goku!<k>
+PT: <p>...Hã? Ah! Goku!<k>
+### 1433 [cf1/c05/c0502_00.sb:15] (x1)
+EN: <p>Ox-King! You okay?<k>
+PT: <p>Cutelo! Você está bem?<k>
+### 1434 [cf1/c05/c0502_00.sb:16] (x1)
+EN: <p>Goku! The Bansho Fan's the only thing that'll put these flames out!<k>
+PT: <p>Goku! Só o Leque Bashô consegue apagar estas chamas!<k>
+### 1435 [cf1/c05/c0502_00.sb:17] (x1)
+EN: <p>Huh? The Bansho Fan...?<k>
+PT: <p>Hã? O Leque Bashô...?<k>
+### 1436 [cf1/c05/c0502_00.sb:21] (x1)
+EN: <p>Yeah! It's the greatest fan in the world!<k><p>Wave it once for a massive gust of wind... Wave it twice for clouds, and three times for rain!<k>
+PT: <p>Isso! É o maior leque do mundo!<k><p>Abane uma vez e vem uma ventania... Duas vezes, nuvens, e três vezes, chuva!<k>
+### 1437 [cf1/c05/c0502_00.sb:23] (x1)
+EN: <p>But Master Roshi threw it away! He was using it as a pot holder, and it got all dirty!<k>
+PT: <p>Mas o Mestre Kame jogou fora! Ele usava de pegador de panela e ficou todo sujo!<k>
+### 1438 [cf1/c05/c0502_00.sb:24] (x1)
+EN: <p>I don't care, Goku! You've got to find that Bansho Fan for me! Pleeeease!<k>
+PT: <p>Não importa, Goku! Você tem que achar o Leque Bashô para mim! Por favooor!<k>
+### 1439 [cf1/c05/c0502_00.sb:27] (x1)
+EN: <p>...But where could it be? I have no idea!<k>
+PT: <p>...Mas onde será que ele está? Não faço ideia!<k>
+### 1440 [cf1/c05/c0502_00.sb:28] (x1)
+EN: <p>...Wait. Who do I go to when I'm stuck like this?<k>
+PT: <p>...Espera. A quem eu recorro quando fico perdido assim?<k>
+### 1441 [cf1/c05/c0502_00.sb:29] (x1)
+EN: <p>That's it! Fortuneteller Baba!!<k><p>Chi-Chi! I'm gonna go visit Baba, okay?<k>
+PT: <p>É isso! A Vovó Uranai!!<k><p>Chichi! Vou visitar a Vovó, tá?<k>
+### 1442 [cf1/c05/c0502_01.sb:10] (x1)
+EN: <p>Ahh-choo!! Hoihoihoi!<k>
+PT: <p>Atchim!! Ai, ai, ai!<k>
+### 1443 [cf1/c05/c0502_01.sb:13] (x1)
+EN: <p>Hey, uh, Baba...? Could you tell me where the Bansho Fan is?<k>
+PT: <p>Ei, hã, Vovó...? Pode me dizer onde está o Leque Bashô?<k>
+### 1444 [cf1/c05/c0502_01.sb:14] (x1)
+EN: <p>Ahh-choo!! Great, I've caught my first cold in 200 years...<k><p>Ohh, I hardly feel like moving... Ahh-choo!!<k>
+PT: <p>Atchim!! Ótimo, peguei o meu primeiro resfriado em 200 anos...<k><p>Ai, nem tenho vontade de me mexer... Atchim!!<k>
+### 1445 [cf1/c05/c0502_01.sb:19] (x1)
+EN: <p>Do you see anything?<k>
+PT: <p>Está vendo alguma coisa?<k>
+### 1446 [cf1/c05/c0502_01.sb:20] (x1)
+EN: <p>I don't know where the Bansho Fan is...<k><p>But it appears Fire Mountain's eruption has something to do with the Magical Furnace.<k>
+PT: <p>Não sei onde está o Leque Bashô...<k><p>Mas parece que a erupção da Montanha de Fogo tem a ver com a Fornalha Mágica.<k>
+### 1447 [cf1/c05/c0502_01.sb:21] (x1)
+EN: <p>...The what?<k>
+PT: <p>...Com o quê?<k>
+### 1448 [cf1/c05/c0502_01.sb:22] (x1)
+EN: <p>Yep! There's a furnace that lies under Fire Mountain, you see...<k><p>The flames from it are what you see spouting out of the mountain right now!<k><p>I can't see anything else... You'll have to go check out the furnace for yourself.<k>
+PT: <p>Isso! Existe uma fornalha embaixo da Montanha de Fogo, sabe...<k><p>As chamas dela são o que você vê saindo da montanha agora!<k><p>Não consigo ver mais nada... Você vai ter que ir ver a fornalha pessoalmente.<k>
+### 1449 [cf1/c05/c0502_01.sb:23] (x1)
+EN: <p>Really? Well, okay! So how can I get to it?<k>
+PT: <p>Sério? Bom, tá! E como eu chego lá?<k>
+### 1450 [cf1/c05/c0502_01.sb:24] (x1)
+EN: <p>I heard there was a path leading to the furnace from Mt. Five Element...<k><p>It's being protected by a very, very important person. Her name's Annin!<k><p>Perhaps she might be able to tell you what's going on here.<k>
+PT: <p>Ouvi dizer que há um caminho até a fornalha saindo da Montanha dos Cinco Elementos...<k><p>Ele é protegido por uma pessoa muito, muito importante. O nome dela é Annin!<k><p>Talvez ela saiba explicar o que está acontecendo.<k>
+### 1451 [cf1/c05/c0502_01.sb:25] (x1)
+EN: <p>Mt. Five Element, right? Thanks a lot!<k>
+PT: <p>Montanha dos Cinco Elementos, né? Valeu!<k>
+### 1452 [cf1/c05/c0502_02.sb:10] (x1)
+EN: <p>Wow... this is the Magical Furnace?<k><p>Man, it's huge!<k>
+PT: <p>Uau... esta é a Fornalha Mágica?<k><p>Puxa, é enorme!<k>
+### 1453 [cf1/c05/c0502_02.sb:11] (x1)
+EN: <p>Annin! You there?!<k>
+PT: <p>Annin! Você está aí?!<k>
+### 1454 [cf1/c05/c0502_02.sb:14] (x1)
+EN: <p>...Who on earth would you be?<k><p>How am I supposed to sleep with all this racket?<k>
+PT: <p>...E quem seria você?<k><p>Como eu vou dormir com todo esse barulho?<k>
+### 1455 [cf1/c05/c0502_02.sb:15] (x1)
+EN: <p>Are you Annin?<k>
+PT: <p>Você é a Annin?<k>
+### 1456 [cf1/c05/c0502_02.sb:16] (x1)
+EN: <p>Annin... I haven't heard anyone call me by that in a while.<k>
+PT: <p>Annin... Faz tempo que ninguém me chama assim.<k>
+### 1457 [cf1/c05/c0502_02.sb:17] (x1)
+EN: <p>But yes... yes, I am Annin!<k>
+PT: <p>Mas sim... sim, eu sou a Annin!<k>
+### 1458 [cf1/c05/c0502_02.sb:18] (x1)
+EN: <p>Listen, there's something I need you to do! Put out the furnace's fire for me!<k>
+PT: <p>Escuta, preciso que você faça uma coisa! Apague o fogo da fornalha para mim!<k>
+### 1459 [cf1/c05/c0502_02.sb:19] (x1)
+EN: <p>Whaaaaaat?! You want me to quell the flames?<k>
+PT: <p>Quêêêê?! Você quer que eu apague as chamas?<k>
+### 1460 [cf1/c05/c0502_02.sb:22] (x1)
+EN: <p>Daddy's surrounded by the furnace's fire! He's trapped!<k>
+PT: <p>O papai está cercado pelo fogo da fornalha! Ele está preso!<k>
+### 1461 [cf1/c05/c0502_02.sb:23] (x1)
+EN: <p>Daddy...?<k><p>Who're you, anyway?<k>
+PT: <p>Papai...?<k><p>E quem é você, afinal?<k>
+### 1462 [cf1/c05/c0502_02.sb:24] (x1)
+EN: <p>My name's Chi-Chi, daughter of the Ox-King...<k>
+PT: <p>O meu nome é Chichi, filha do Cutelo...<k>
+### 1463 [cf1/c05/c0502_02.sb:25] (x1)
+EN: <p>...The Ox-King lives on Fire Mountain?<k><p>Hmm... that's the mountain behind this one, isn't it?<k><p>That must mean there's a hole or something at the bottom of the furnace.<k>
+PT: <p>...O Cutelo mora na Montanha de Fogo?<k><p>Hmm... é a montanha atrás desta, não é?<k><p>Isso quer dizer que tem um furo ou algo assim no fundo da fornalha.<k>
+### 1464 [cf1/c05/c0502_03.sb:33] (x1)
+EN: <p>Please! You've got to put out the fire!<k>
+PT: <p>Por favor! Você tem que apagar o fogo!<k>
+### 1465 [cf1/c05/c0502_03.sb:36] (x1)
+EN: <p>I can't do that.<k>
+PT: <p>Não posso fazer isso.<k>
+### 1466 [cf1/c05/c0502_03.sb:37] (x2)
+EN: <p>Why not?!<k>
+PT: <p>Por que não?!<k>
+### 1467 [cf1/c05/c0502_03.sb:38] (x1)
+EN: <p>Shutting the furnace down would cause chaos both here and in the Other World. Do you want that?<k>
+PT: <p>Desligar a fornalha causaria um caos aqui e no Outro Mundo. É isso que vocês querem?<k>
+### 1468 [cf1/c05/c0502_03.sb:39] (x1)
+EN: <p>It'd certainly be interesting, to say the least, but...<k>
+PT: <p>Seria no mínimo interessante, mas...<k>
+### 1469 [cf1/c05/c0502_03.sb:42] (x1)
+EN: <p>It'd cause chaos...?<k>
+PT: <p>Causaria um caos...?<k>
+### 1470 [cf1/c05/c0502_03.sb:43] (x1)
+EN: <p>Please! We need to put out the furnace before it's too late!<k>
+PT: <p>Por favor! Precisamos apagar a fornalha antes que seja tarde!<k>
+### 1471 [cf1/c05/c0502_03.sb:44] (x1)
+EN: <p>...You want to see the world messed up that much, do you?<k>
+PT: <p>...Vocês querem tanto assim ver o mundo virado de cabeça para baixo, é?<k>
+### 1472 [cf1/c05/c0502_03.sb:45] (x1)
+EN: <p>If that fire isn't put out, the Ox-King's gonna burn to death!<k>
+PT: <p>Se aquele fogo não for apagado, o Cutelo vai morrer queimado!<k>
+### 1473 [cf1/c05/c0502_03.sb:46] (x1)
+EN: <p>Come on, you need to help! Save my father for me!<k>
+PT: <p>Vamos, você tem que ajudar! Salve o meu pai!<k>
+### 1474 [cf1/c05/c0502_03.sb:47] (x1)
+EN: <p>So you want to plunge the world into turmoil in order to save a single man's life?<k>
+PT: <p>Então você quer mergulhar o mundo no caos para salvar a vida de um único homem?<k>
+### 1475 [cf1/c05/c0502_03.sb:48] (x1)
+EN: <p>I... I don't know, okay?!<k><p>Just tell me how to shut off the furnace already!<k>
+PT: <p>Eu... eu não sei, tá?!<k><p>Só me diga logo como desligar a fornalha!<k>
+### 1476 [cf1/c05/c0502_03.sb:49] (x1)
+EN: <p>Heavens! You certainly have a lot of spunk, at least!<k><p>You wanna shut the furnace down? Just turn that knob over there all the way down!<k><p>That'll put it out for sure, I guarantee!<k>
+PT: <p>Céus! Pelo menos coragem não te falta!<k><p>Quer desligar a fornalha? É só girar aquele botão ali até o fim!<k><p>Isso vai apagá-la, eu garanto!<k>
+### 1477 [cf1/c05/c0502_03.sb:50] (x1)
+EN: <p>Before that, though, let me test you to see how serious you really are!<k>
+PT: <p>Mas antes, deixe-me testar vocês para ver o quanto estão falando sério!<k>
+### 1478 [cf1/c05/c0503_00.sb:13] (x1)
+EN: <p>Look up, above the pot!<k><p>Do you see all the steam rising up from it?<k>
+PT: <p>Olhe para cima, acima do caldeirão!<k><p>Está vendo todo aquele vapor subindo?<k>
+### 1479 [cf1/c05/c0503_00.sb:14] (x1)
+EN: <p>Yeah.<k>
+PT: <p>Estou.<k>
+### 1480 [cf1/c05/c0503_00.sb:15] (x1)
+EN: <p>That steam turns into fog and settles at the top of the mountain!<k><p>And that's where the problem lies here, Goku!<k>
+PT: <p>Esse vapor vira névoa e se assenta no alto da montanha!<k><p>E é aí que está o problema, Goku!<k>
+### 1481 [cf1/c05/c0503_00.sb:16] (x1)
+EN: <p>What...? The fog?<k>
+PT: <p>Quê...? A névoa?<k>
+### 1482 [cf1/c05/c0503_00.sb:17] (x1)
+EN: <p>Uh-huh.<k><p>If the furnace shuts down, that fog's gonna disappear, too!<k>
+PT: <p>Aham.<k><p>Se a fornalha for desligada, aquela névoa também vai sumir!<k>
+### 1483 [cf1/c05/c0503_00.sb:18] (x1)
+EN: <p>So what?<k>
+PT: <p>E daí?<k>
+### 1484 [cf1/c05/c0503_00.sb:19] (x1)
+EN: <p>That fog's actually the portal between this and the Other World!<k><p>Everyone that dies in this world goes through that fog to the Other World...<k><p>And people in the Other World can come back through at times to see their kids and so on.<k>
+PT: <p>Aquela névoa é, na verdade, o portal entre este mundo e o Outro Mundo!<k><p>Todos que morrem neste mundo passam por ela até o Outro Mundo...<k><p>E quem está no Outro Mundo às vezes volta por ela para ver os filhos e tal.<k>
+### 1485 [cf1/c05/c0503_00.sb:23] (x1)
+EN: <p>But with the furnace off, the fog's going to lift...<k><p>The souls of the dead or visiting won't be able to make it to the Other World anymore.<k><p>The world will be filled with wandering, vengeful souls!<k><p>It'd plunge the entire world into a panic! Don't you see?<k>
+PT: <p>Mas com a fornalha desligada, a névoa vai se dissipar...<k><p>As almas dos mortos, ou das visitas, não vão mais conseguir chegar ao Outro Mundo.<k><p>O mundo vai se encher de almas errantes e vingativas!<k><p>O mundo inteiro entraria em pânico! Entendem?<k>
+### 1486 [cf1/c05/c0503_01.sb:10] (x1)
+EN: <p>Well, why don't we just turn the furnace off for a little bit, Annin?<k><p>Just enough to keep the steam from going completely away?<k>
+PT: <p>Bom, e se a gente desligar a fornalha só um pouquinho, Annin?<k><p>Só o bastante para o vapor não sumir de vez?<k>
+### 1487 [cf1/c05/c0503_01.sb:13] (x1)
+EN: <p>Sorry, no dice!<k>
+PT: <p>Sinto muito, nada feito!<k>
+### 1488 [cf1/c05/c0503_01.sb:15] (x1)
+EN: <p>Once the furnace is extinguished, it takes over 2000 years to start it up again!<k><p>It'll be a dark, dark era for those millennia... Does that sound like something you want?<k>
+PT: <p>Depois que a fornalha apaga, leva mais de 2000 anos para acendê-la de novo!<k><p>Seriam milênios de trevas... Parece algo que vocês querem?<k>
+### 1489 [cf1/c05/c0503_01.sb:16] (x1)
+EN: <p>Well, how can we keep the flames from shooting out from the furnace?<k>
+PT: <p>Bom, e como a gente impede que as chamas saiam da fornalha?<k>
+### 1490 [cf1/c05/c0503_01.sb:17] (x1)
+EN: <p>C'mon, you gotta help us! There has to be some way!<k>
+PT: <p>Vamos, você tem que ajudar a gente! Tem que haver algum jeito!<k>
+### 1491 [cf1/c05/c0503_01.sb:18] (x1)
+EN: <p>Well... there is one method.<k><p>Have you ever seen one of these before?<k>
+PT: <p>Bem... existe um método.<k><p>Já viram uma coisa destas?<k>
+### 1492 [cf1/c05/c0503_01.sb:21] (x1)
+EN: <p>...Whoa! The Bansho Fan!<k><p>Wow, lady, you had it the whole time!<k>
+PT: <p>...Uau! O Leque Bashô!<k><p>Nossa, moça, ele estava com você o tempo todo!<k>
+### 1493 [cf1/c05/c0503_01.sb:22] (x1)
+EN: <p>Um... <d>lady,<d> you say?<k><p>Listen, kid, who do you think I am, anyway?<k><p>I am Annin, the great overseer. I have guarded this furnace for thousands of years!<k>
+PT: <p>Hã... <d>moça,<d> você disse?<k><p>Escute, garoto, quem você pensa que eu sou?<k><p>Eu sou Annin, a grande guardiã. Protejo esta fornalha há milhares de anos!<k>
+### 1494 [cf1/c05/c0503_01.sb:23] (x1)
+EN: <p>Whoa! Thousands of years?!<k><p>Man... you aren't a lady, you're an old grandma!<k>
+PT: <p>Uau! Milhares de anos?!<k><p>Puxa... você não é uma moça, é uma velhinha!<k>
+### 1495 [cf1/c05/c0503_01.sb:24] (x1)
+EN: <p>...You little brat!! There are some things better left unsaid, you know!<k>
+PT: <p>...Seu pirralho!! Tem coisas que é melhor não dizer, sabia?!<k>
+### 1496 [cf1/c05/c0503_01.sb:27] (x1)
+EN: <p>What? You wanna fight me again, or what?<k>
+PT: <p>Quê? Quer lutar comigo de novo, é?<k>
+### 1497 [cf1/c05/c0503_01.sb:28] (x1)
+EN: <p>Hee hee hee... Oh, I'm already fully aware of your skill by this point, thanks.<k>
+PT: <p>Hi hi hi... Ah, eu já conheço muito bem a sua força, obrigada.<k>

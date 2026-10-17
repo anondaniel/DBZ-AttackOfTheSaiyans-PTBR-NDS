@@ -1,0 +1,32 @@
+ACHADOS - FATIA 4 (entradas 2195 a 3068, 874 entradas lidas)
+Formato: nº | arquivo:índice | trecho atual | sugestão | gravidade | motivo
+
+2513 | cf1/c09/c0903_02.sb:21 | "qual de vocês é o Kaioh?" | "qual de vocês é o Senhor Kaioh?" | MÉDIO | nome fora do glossário (falta "Senhor"); a resposta seguinte (2514/2515) já usa "Senhor Kaioh"
+2590 | cf1/c09/c0905_02.sb:16 | "Não sabia que o Kaioh era mulher!" | "Não sabia que o Senhor Kaioh era mulher!" | MÉDIO | nome fora do glossário (falta "Senhor")
+2618 | cf1/c09/c0907_00.sb:11 | "só pra chegar no Kaioh..." | "só pra chegar no Senhor Kaioh..." | MÉDIO | nome fora do glossário (falta "Senhor")
+2626 | cf1/c09/c0907_01.sb:17 | "Aquele... deve ser o Kaioh..." | "Aquele... deve ser o Senhor Kaioh..." | MÉDIO | nome fora do glossário (falta "Senhor")
+2641 | cf1/c09/c0907_01.sb:35 | "Bem que um macaco ser o Kaioh" | "Bem que um macaco ser o Senhor Kaioh" | MÉDIO | nome fora do glossário (falta "Senhor")
+2653 | cf1/c09/c0907_01.sb:47 | "O senhor é hilário, Kaioh!" | "O senhor é hilário, Senhor Kaioh!" (ou "Você é hilário, Senhor Kaioh!") | MÉDIO | nome fora do glossário; vocativo sem "Senhor" logo depois de "O senhor"
+2676 | cf1/c09/c0907_02.sb:8 | "enfim encontrou o Kaioh." | "enfim encontrou o Senhor Kaioh." | MÉDIO | nome fora do glossário na narração
+2732 | cf1/c09/c0908_01.sb:10 | "Quer que eu peça pro Kaioh te ensinar" | "Quer que eu peça pro Senhor Kaioh te ensinar" | MÉDIO | nome fora do glossário (falta "Senhor")
+2762 | cf1/c10/c1001_00.sb:30 | "Como foi o treino com o Kami?" | "Como foi o treino com o Kami-Sama?" | MÉDIO | nome fora do glossário (falta "-Sama"); no resto da fatia aparece sempre "Kami-Sama"
+2768 | cf1/c10/c1001_00.sb:36 | "Passem no Palácio da Uranai" | "Passem no Palácio da Vovó Uranai" | MÉDIO | nome fora do glossário; em 2777 aparece "Palácio da Vovó Uranai"
+2449 | cf1/c09/c0901_01.sb:29 | "Eu ouvi isso, Kami da Terra." | "Eu ouvi isso, Kami-Sama da Terra." | BAIXO | grafia de nome diferente do glossário (pode ficar assim se for intencional, já que o Enma é superior a ele)
+2457 | cf1/c09/c0901_01.sb:38 | "Pode ser que não dê<n>para vencer..." | "O resultado pode ser<n>imprevisível..." | MÉDIO | "too close to call" quer dizer resultado incerto, não derrota provável; o sentido ficou mais pessimista
+2704 | cf1/c09/c0907_03.sb:26 | "Soube que você chegou aqui e está<n>implorando pra você ir dar<n>uma mão pra ele!" | "Ele soube que você chegou e não<n>para de implorar pra você ir<n>dar uma mão pra ele!" | MÉDIO | sujeito oculto ambíguo: dá para ler como se fosse o Goku quem implora; "você... pra você" fica redundante
+2724 | cf1/c09/c0907_03.sb:51 | "pra vocês!<k><p>Entre nele e você vai<n>parar na Floresta do Enma!" | "pra vocês!<k><p>Entrem nele e vocês vão<n>parar na Floresta do Enma!" | MÉDIO | troca de plural para singular na mesma fala (ele se dirige aos três)
+2771 | cf1/c10/c1001_00.sb:43 | "E quem liga pro que vocês estavam?" | "E quem liga pro que vocês estavam fazendo?" | MÉDIO | frase truncada, falta o verbo (calque de "what you've been")
+2972 | cf1/c10/c1008_02.sb:27 | "com as suas Esferas do Dragão e as minhas, somo sete!" | "juntando as suas Esferas do Dragão com as minhas, terei as sete!" | MÉDIO | "somo sete" (1ª pessoa de somar) fica errado/estranho; o sentido é "dá sete"/"tenho as sete"
+2225 | cf1/c08/c0804_00.sb:35 | "A Lunch foi procurá-lo depois daqui, na Planície Holly..." | "A Lunch foi procurá-lo além daqui, na Planície Holly..." | BAIXO | "depois daqui" é calque de "beyond here", soa estranho
+2460 | cf1/c09/c0901_01.sb:41 | "é a<n>nossa outra única esperança..." | "é a<n>nossa única outra esperança..." | BAIXO | ordem dos adjetivos invertida, soa estranho
+2471 | cf1/c09/c0902_00.sb:21 | "Dizem que tem uns 1 milhão<n>de quilômetros." | "Dizem que tem cerca de um<n>milhão de quilômetros." | BAIXO | "uns" (plural) com "1 milhão" não combina
+2489 | cf1/c09/c0903_00.sb:14 | "O que você acha que eu faço?" | "O que você acha que eu tô fazendo?" | BAIXO | "faço" passa a ideia de profissão; o EN fala da ação do momento
+2668 | cf1/c09/c0907_01.sb:63 | "Eu iria, mas é estranho." | "Até queria, mas é estranho." | BAIXO | calque de "I would but"
+2815 | cf1/c10/c1002_03.sb:10 | "Pai!" | "Papai!" | BAIXO | o Gohan chama o Goku de "Papai" no resto da fatia (2785, 2787, 2841, 2848)
+2817 | cf1/c10/c1002_03.sb:16 | "os<n>restos do exército" | "os<n>remanescentes do exército" | BAIXO | "restos" soa como sobras/lixo; "remnants" pede "remanescentes"
+2818 | cf1/c10/c1002_03.sb:19 | "o mundo<n>vai estar encrencado!" | "o mundo<n>vai correr perigo!" | BAIXO | calque de "the world's gonna be in trouble"
+3038 | cf1/c11/c1103_00.sb:13 | "Buááááá!" | "Aaaaahhh!" | BAIXO | é um grito de queda (3039 "Ai, isso doeu"); "Buááá" é onomatopeia de choro e muda o sentido
+3054 | cf1/c11/c1103_04.sb:16 | "Você ainda não fugiu?" | "Você ainda não saiu daqui?" | BAIXO | o robô quer dizer "sair das ruínas" (3056 "Você devia ter saído"); "fugiu" dá a entender que ele fugiu do treino
+
+IMPRESSÃO GERAL: tradução de boa qualidade, natural e coloquial na medida certa, com o glossário quase todo respeitado (Kuririn, Tenshinhan, Chaos, Lunch, Mestre Karin, Sementes dos Deuses, Estrada da Serpente, Senhor Enma, Número 8, Saiyajins). Não achei inglês sobrando, erro de ortografia nem código de controle quebrado. O ponto mais repetido é "Kaioh" sem "Senhor" (8 vezes, quase todas na fala do Goku no capítulo 9), além de "Kami" e "Uranai" incompletos uma vez cada. Afora isso, só deslizes pontuais de sentido ou concordância. As piadas do Senhor Kaioh foram bem adaptadas.
+Entradas lidas: 874 (### 2195 a ### 3068).

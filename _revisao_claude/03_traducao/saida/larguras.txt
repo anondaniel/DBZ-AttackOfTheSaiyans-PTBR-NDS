@@ -1,0 +1,65 @@
+== 1. PAGINAS DE FALA (modelo: quebra automatica em 196 px na fonte pequena; <n> forca quebra) ==
+-- paginas com mais de 3 linhas e mais linhas que o original: 0
+-- linhas com <n> mais largas que 196px (o jogo requebra ou corta): 8
+  cf1/c12/c1201_00.sb:14 247px | 'Estou procurando por ele desde cedo e ainda não achei...'
+  cf1/c12/c1201_00.sb:13 243px | 'Acho que ele não teria saído do Templo de Kami-Sama...'
+  cf1/c02/c0201_01.sb:11 240px | 'Está quieto demais... Estou com um mau pressentimento.'
+  cf0/skr/skr02_00.sb:49 218px | 'Sentimos o tremor da explosão na Cidade do Leste.'
+  cf0/est/est07_00.sb:15 216px | 'Agora você destrói objetos que piscam em branco!'
+  cf0/est/est07_00.sb:16 211px | 'Agora você destrói todos os objetos quebráveis!'
+  cf1/c09/c0903_03.sb:14 205px | 'Eu sou o ogro mais forte depois do Senhor Enma!'
+  cf0/god/god01_00.sb:23 201px | 'Aqueles caras fugiram para o Castelo do Pilaf.'
+
+== 2. ROTULOS DE FALANTE (1o argumento de Msg) ==
+maior rotulo original: 81 px Fortuneteller Baba
+    77px x14 'Princesa Serpente'
+    67px x1 'Piccolo e Gohan'
+    66px x12 'Coelho Monstro'
+    63px x1 'Bulma e Kuririn'
+    63px x1 'Cutelo e Chichi'
+    63px x1 'Kuririn e Gohan'
+    59px x1 'Oolong e Puar'
+    59px x1 'Kuririn e Kame'
+    59px x6 'Polvo Gigante'
+    58px x3 'General White'
+    56px x1 'Goku e Bulma'
+    54px x110 'Senhor Kaioh'
+    53px x280 'Mestre Kame'
+    53px x46 'Mestre Karin'
+    52px x40 'Senhor Enma'
+    52px x4 'Mestre Shen'
+    51px x61 'Vovó Uranai'
+    50px x10 'Montgomery'
+    49px x7 'Jackie Chun'
+    48px x193 'Tenshinhan'
+    45px x77 'Kami-Sama'
+    45px x3 'Fazendeiro'
+    43px x68 'Tartaruga'
+    43px x16 '\x83s\x83b\x83R\x83\x8d'
+    41px x25 'Dr. Briefs'
+
+== 3. TABELAS: texto PT mais largo que o maior original do mesmo grupo (tabela, coluna, com/sem <n>) ==
+total 0
+
+== 4. character_name (US): os 20 nomes mais largos (fonte pequena) ==
+maior nome original: 92 px
+  90px US:character_name:94:us 'Fantasma Patrulheiro'
+  90px US:character_name:113:us 'Atirador da Montanha'
+  88px US:character_name:98:us 'Habitante Demoníaco'
+  88px US:character_name:160:us 'Aprendiz da Floresta'
+  88px US:character_name:119:us 'Brutamontes do Ermo'
+  88px US:character_name:112:us 'Guardião da Floresta'
+  87px US:character_name:105:us 'Batedora do Deserto'
+  86px US:character_name:28:us 'Soldado do Norte RR'
+  86px US:character_name:143:us 'Capanga da Caverna'
+  86px US:character_name:121:us 'Brutamontes Glacial'
+  86px US:character_name:110:us 'Arruaceiro do Bambu'
+  85px US:character_name:34:us 'Rainha dos Bandidos'
+  85px US:character_name:116:us 'Desertor Red Ribbon'
+  84px US:character_name:141:us 'Vampiro Sanguinário'
+  83px US:character_name:65:us 'Aspirante a Lutador'
+  83px US:character_name:40:us 'Raposa Chantagista'
+  83px US:character_name:215:us 'Robô Fusão do Pilaf'
+  83px US:character_name:156:us 'Descendente Antigo'
+  83px US:character_name:111:us 'Mercenário da Neve'
+  82px US:character_name:27:us 'Soldado de Elite RR'

@@ -1,0 +1,438 @@
+74 | Winged Dragon | Robô Alado RR | Mecha Patrulheiro
+75 | Violent Dragon | Robô de Assalto RR | Mecha de Combate
+76 | Snow Dragon | Robô Ártico RR | Lanceiro Nômade
+80 | Giant Snake | Serva da Princesa | Lutador Errante
+81 | Mansion Snake | Guarda da Mansão | Guarda da Mansão
+82 | Poisonous Snake | Serva Venenosa | Robô Sentinela
+95 | Ostrich Chicken | Batedor Saiyajin | Batedor do Ermo
+96 | Sand Dodo | Batedor do Deserto | Batedora do Deserto
+97 | Dododo | Elite Saiyajin | Mercenário de Elite
+98 | Firebird | Aviador Red Ribbon | Piloto Renegado
+99 | Blue Hawk | Aviador Azul RR | Piloto Mercenário
+100 | Dark Condor | Aviador Sombrio RR | Piloto Veterano
+101 | Tiger | Soldado Saiyajin | Arruaceiro do Bambu
+102 | Snow Tiger | Soldado Glacial | Mercenário da Neve
+103 | Dimensional Tiger | Soldado Dimensional | Guardião da Floresta
+104 | Wolf | Saibaman | Atirador da Montanha
+105 | White Wolf | Saibaman Glacial | Guerreira do Gelo
+106 | Red Wolf | Saibaman Rubro | Atirador Veterano
+107 | Stray Dog | Desertor Red Ribbon | Ex-Soldado RR
+108 | Red Ribbon Spy Dog | Espião Red Ribbon | Espião Red Ribbon
+109 | Super Watchdog | Sentinela Red Ribbon | Guarda do Castelo
+110 | Wild Boar | Brutamontes Saiyajin | Brutamontes do Ermo
+111 | Champion Boar | Brutamontes Campeão | Lutador Veterano
+112 | Snow Boar | Brutamontes Glacial | Brutamontes Glacial
+113 | Hungry Bear | Saibaman Faminto | Saqueador do Ermo
+114 | Snow Bear | Saibaman das Neves | Bandida Glacial
+115 | Strong Bear | Saibaman Feroz | Instrutor Rival
+116 | Dangerous Panda | Saibaman do Bambu | Discípulo Rebelde
+117 | Snow Panda | Saibaman da Nevasca | Guardião Peregrino
+118 | Ultimate Pandaman | Saibaman Supremo | Capitão da Guarda
+119 | Giant Fish | Robô Pirata | Robô Mergulhador
+120 | Wild Fish | Robô Pirata Selvagem | Robô da Caverna
+121 | Sand Fish | Robô Pirata das Areias | Robô das Areias
+131 | Giant Bat | Vampiro | Vampiro Jovem
+132 | Vampire Bat | Vampiro Sanguinário | Vampiro Sanguinário
+133 | King Bat | Rei Vampiro | Vampiro Ancião
+134 | Big Club | Capanga | Capanga da Caverna
+135 | Giant Crab | Capanga Gigante | Capanga da Fonte
+136 | Dark Crab | Capanga Sombrio | Capanga Sombrio
+149 | Tumble Bug | Recruta Red Ribbon | Ladrão do Deserto
+150 | Fire Caterpillar | Recruta Incendiário | Xamã do Vulcão
+151 | Caterpillar | Recruta Veterano | Aprendiz da Floresta
+155 | Roundworm | Saibaman Escavador | Batedor Escavador
+156 | Dark Firefly | Saibaman Noturno | Lutador Noturno
+157 | Poison Sandbug | Saibaman Venenoso | Batedor Venenoso
+161 | Roundworm Larva | Broto Escavador | Recruta Escavadora
+162 | Firefly Larva | Broto Noturno | Aprendiz Noturna
+163 | Sandbug Larva | Broto Venenoso | Batedora Venenosa
+texto | <p>How pathetic... The Demon King Piccolo's final moments... | <p>Que patético... Os últimos momentos do Rei Demônio Piccol | <p>Que patético... Os últimos momentos do Piccolo Daimaoh...
+texto | <p>W-what?!<k><p>So Goku's the mystery man who saved the wor | <p>Q-quê?!<k><p>Então o Goku é o homem misterioso que salvou | <p>Q-quê?!<k><p>Então o Goku é o homem misterioso que salvou
+texto | <p>I think you're right. The demon king of the past wouldn't | <p>Acho que o senhor tem razão. O Rei Demônio do passado não | <p>Acho que o senhor tem razão. O Piccolo Daimaoh do passado
+texto | <p>...I'm Goku!<k><p>I came for special training...<n>So, wh | <p>...Eu sou o Goku!<k><p>Vim para um treino especial...<n>E | <p>...Eu sou o Goku!<k><p>Vim para um treino especial...<n>E
+texto | <p>...!<n>I didn't know King Kai was a girl!<k><p>And cute,  | <p>...!<n>Não sabia que o Kaioh era mulher!<k><p>E bonita, a | <p>...!<n>Não sabia que o Senhor Kaioh era mulher!<k><p>E bo
+texto | <p>I'm beat...<k><p>How much longer is this<n>gonna last...? | <p>Tô morto de cansado...<k><p>Quanto tempo mais isso<n>vai  | <p>Tô morto de cansado...<k><p>Quanto tempo mais isso<n>vai 
+texto | <p>That... must be King Kai...<n>He doesn't look it,<n>but h | <p>Aquele... deve ser o Kaioh...<n>Não parece,<n>mas deve se | <p>Aquele... deve ser o Senhor Kaioh...<n>Não parece,<n>mas 
+texto | <p>Hah hah... <n>I thought a monkey being King Kai<n>seemed  | <p>Rá rá... <n>Bem que um macaco ser o Kaioh<n>parecia estra | <p>Rá rá... <n>Bem que um macaco ser o<n>Senhor Kaioh pareci
+texto | <p>Ah hah hah hah hah!!<n>I get it now!<n>You're hilarious,  | <p>Rá rá rá rá rá!!<n>Agora eu entendi!<n>O senhor é hilário | <p>Rá rá rá rá rá!!<n>Agora eu entendi!<n>Que hilário, Senho
+texto | <p>Goku has made the long journey<n>along Snake Way and has  | <p>O Goku fez a longa viagem<n>pela Estrada da Serpente e<n> | <p>O Goku fez a longa viagem<n>pela Estrada da Serpente e<n>
+texto | <p>How do you like that?!<n>You sorry now?<k><p>You might wa | <p>Que tal essa?!<n>Arrependido agora?<k><p>Da próxima vez,  | <p>Que tal essa?!<n>Arrependido agora?<k><p>Da próxima vez, 
+texto | <p>Welcome back!<n>How did the training with Kami go?<k> | <p>Bem-vindos!<n>Como foi o treino com o Kami?<k> | <p>Bem-vindos!<n>Como foi o treino com o Kami-Sama?<k>
+texto | <p>Right.<n>I don't know who it is,<n>but I hear he's strong | <p>Isso.<n>Não sei quem é,<n>mas dizem que é forte!<k><p>Pas | <p>Isso.<n>Não sei quem é,<n>mas dizem que é forte!<k><p>Pas
+texto | Krillin & Roshi | Kuririn e Kame | Kuririn e M. Kame
+texto | <p>Listen up, everyone! Thanks for coming to celebrate my ma | <p>Atenção, todos! Obrigado por virem celebrar o meu casamen | <p>Atenção, todos! Obrigada por virem celebrar o meu casamen
+texto | <p>Who cares what you've been?<k><p>Try telling that to the  | <p>E quem liga pro que vocês estavam?<k><p>Vão dizer isso pr | <p>E quem liga pro que vocês andaram fazendo?<k><p>Vão dizer
+texto | <p>But listen, Goku. This is a technique that borrows a smal | <p>Mas escute, Goku. Esta técnica pega emprestada um pouco d | <p>Mas escute, Goku. Esta técnica pega emprestado um pouco d
+texto | <p>Heh heh... The character written on it is mine, though.<k | <p>Heh heh... Mas o símbolo escrito nela é o meu.<k> | <p>Heh heh... Mas o símbolo escrito nelas é o meu.<k>
+texto | <p>...Yes, Master. Once, I thought martial arts was a tool t | <p>...Sim, Mestre. Antes, eu achava que as artes marciais er | <p>...Sim, Mestre. Antes, eu achava que as artes marciais er
+texto | <p>Hey, old man! Glad to see you alive again!<k><p>You're al | <p>Ei, velhinho! Que bom te ver vivo ainda!<k><p>Vocês todos | <p>Ei, velhinho! Que bom te ver vivo de novo!<k><p>Vocês tod
+texto | <p>Don't worry, okay? I'll make it just strong enough to put | <p>Não se preocupe, tá? Vou usar só a força para apagar o fo | <p>Não se preocupe, tá? Vou usar só a força necessária para 
+texto | <p>Don't make me laugh!<k><p>I can't believe that's all you' | <p>Não me façam rir!<k><p>Não acredito que é só isso que voc | <p>Não me façam rir!<k><p>Não acredito que é só isso que voc
+texto | <p>Once I team up with you to beat him and those two friends | <p>Depois que eu me juntar a você para vencê-lo e aqueles do | <p>Depois que eu me juntar a você para vencer ele e aqueles 
+texto | <p>I'm honestly astounded you actually found an egg from tha | <p>Sinceramente, estou pasma que vocês acharam mesmo um ovo  | <p>Sinceramente, estou pasma de vocês terem achado mesmo um 
+texto | <p>Hey, how about we do this, lady?<k><p>If we can get your  | <p>Ei, que tal assim, senhora?<k><p>Se a gente recuperar o s | <p>Ei, que tal assim, senhora?<k><p>Se a gente recuperar o s
+texto | <p>He... He...<n>He told me to tell you not<n>to worry about | <p>Ele... Ele...<n>Ele pediu pra eu dizer<n>pra não se preoc | <p>Ele... Ele...<n>Ele pediu pra eu dizer pra<n>você não se 
+texto | <p>Kami says he's gonna train ya.<n>Same for me.<k> | <p>O Kami-Sama vai treinar vocês.<n>E eu também.<k> | <p>O Kami-Sama vai treinar vocês.<n>E a mim também.<k>
+texto | <p>Earth has certainly found a lot of<n>trouble this time... | <p>Desta vez a Terra arranjou<n>problemas sérios...<k><p>Pod | <p>Desta vez a Terra arranjou<n>problemas sérios...<k><p>O r
+texto | <p>...That's right.<k><p>Normally, King Yemma would go in<n> | <p>...Isso mesmo.<k><p>Normalmente, o Senhor Enma iria<n>até | <p>...Isso mesmo.<k><p>Normalmente, o Senhor Enma iria<n>até
+texto | <p>Quit complaining and get going!!<k><p>I made a warp point | <p>Pare de reclamar e vá logo!!<k><p>Fiz um ponto de teletra | <p>Pare de reclamar e vá logo!!<k><p>Fiz um ponto de teletra
+texto | <p>Hello, boys! You've embarrassed me enough in the past!<k> | <p>Olá, garotos! Vocês já me humilharam demais no passado!<k | <p>Olá, garotos! Vocês já me humilharam demais no passado!<k
+texto | <p>Thanks for everything, King Kai. If I die again, I'll be  | <p>Obrigado por tudo, Senhor Kaioh. Se eu morrer de novo, ve | <p>Obrigado por tudo, Senhor Kaioh. Se eu morrer de novo, ve
+texto | <p>There's no way...!<k> | <p>Não tem jeito...!<k> | <p>Não pode ser...!<k>
+texto | <p>You have already caught every monster.<k><p>Great work! I | <p>Você já capturou todos os monstros.<k><p>Excelente trabal | <p>Vocês já capturaram todos os monstros.<k><p>Excelente tra
+texto | <p>You've already caught every kind of monster there is.<k>< | <p>Você já capturou todo tipo de monstro que existe.<k><p>Es | <p>Vocês já capturaram todo tipo de monstro que existe.<k><p
+texto | <p>Did you think Speed just determines who attacks first in  | <p>Achou que a Velocidade só define quem ataca primeiro na b | <p>Achou que a Velocidade só define quem ataca primeiro na b
+texto | <p>That planet Earth seems to have nothing but terrible thin | <p>Esse planeta Terra parece que só passa por coisas terríve | <p>Esse planeta Terra parece que só passa por coisas terríve
+texto | <p>Yep! My sister Baba gave this to me way back when...<k><p | <p>Isso! Minha irmã Uranai me deu isto há muito tempo...<k>< | <p>Isso! Minha irmã Uranai me deu esta bola há muito tempo..
+texto | <p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you | <p>Sua Rajada de Ki agora está no nível <c=#FF3C3C>2<c>! <n> | <p>Sua Rajada de Ki agora está no nível <c=#FF3C3C>2<c>! <n>
+texto | <p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you | <p>Sua Rajada de Ki agora está no nível <c=#FF3C3C>3<c>! <n> | <p>Sua Rajada de Ki agora está no nível <c=#FF3C3C>3<c>! <n>
+texto | <p>Those guys escaped to Pilaf's Castle.<n>After them! Hurry | <p>Aqueles caras fugiram para o Castelo do Pilaf.<n>Atrás de | <p>Aqueles caras fugiram pro Castelo do Pilaf.<n>Atrás deles
+texto | <p>Use <c=#8BEFD4>Bubbles' thing<c>?<k> | <p>Usar <c=#8BEFD4>Coisa do Bubbles<c>?<k> | <p>Usar a <c=#8BEFD4>Coisa do Bubbles<c>?<k>
+texto | <p>...Hey big bro! There's some strange folks over there...< | <p>...Ei, maninho! Tem uns tipos estranhos ali...<k> | <p>...Ei, mano! Tem uns tipos estranhos ali...<k>
+texto | <p>Good thinking, big bro!<k> | <p>Boa ideia, maninho!<k> | <p>Boa ideia, mano!<k>
+texto | <p>Waaahhhh!<k> | <p>Buááááá!<k> | <p>Aaaaahhh!<k>
+texto | <p>They say it is about 600,000<n>miles long.<k> | <p>Dizem que tem uns 1 milhão<n>de quilômetros.<k> | <p>Dizem que tem cerca de um<n>milhão de quilômetros.<k>
+texto | <p>!<n>Dad!<n>There's some strange men<n>wandering around... | <p>!<n>Pai!<n>Tem uns homens estranhos<n>andando por aí...<k | <p>!<n>Papai!<n>Tem uns homens estranhos<n>andando por aí...
+texto | <p>Quit acting so stupid, Kakarot.<k><p>When we Saiyans see  | <p>Deixe de ser idiota, Kakarotto.<k><p>Quando nós, Saiyajin | <p>Pare de se fazer de burro, Kakarotto.<k><p>Quando nós, Sa
+texto | <p>When you raise your Skill parameter, you can fire off bea | <p>Quando você aumenta o atributo Técnica, dá pra soltar rai | <p>Quando você aumenta o atributo Técnica, dá pra soltar ond
+texto | <p>I am King Kai, the one who taught Goku the ways of the Sp | <p>Sou o Senhor Kaioh, quem ensinou a Genki Dama ao Goku.<k> | <p>Sou o Senhor Kaioh, aquele que ensinou a Genki Dama ao Go
+texto | <p>Well, I got what Bulma asked for...<k><p>Next up is Goku' | <p>Bom, já peguei o que a Bulma pediu...<k><p>Agora é a casa | <p>Bom, já peguei o que a Bulma pediu...<k><p>Agora é a casa
+texto | <p>You're not exactly sure what this device is used for.<k> | <p>Você não tem certeza de para que serve este aparelho.<k> | <p>Você não sabe bem para que serve este aparelho.<k>
+texto | <p>A firm mat is laid out on the floor. The fuzz on it sugge | <p>Há um tapete firme estendido no chão. Pelos pelos, deve s | <p>Há um tapete firme estendido no chão. Pela pelagem, deve 
+texto | <p>The door is boarded shut. It must have gone out of busine | <p>A porta está pregada com tábuas. Deve ter fechado as port | <p>A porta está pregada com tábuas. Deve ter falido.<k>
+texto | <p>See? See?! Why didn't you seal him away, huh?!<k> | <p>Viu? Viu?! Por que você não o prendeu, hein?!<k> | <p>Viu? Viu?! Por que você não o selou, hein?!<k>
+texto | <p>Look up, above the pot!<k><p>Do you see all the steam ris | <p>Olhe para cima, acima do caldeirão!<k><p>Está vendo todo  | <p>Olhe lá em cima, sobre o caldeirão!<k><p>Está vendo todo 
+texto | <p>Robbery, murder, speeding, extortion, pickpocketing, dine | <p>Roubo, assassinato, excesso de velocidade, extorsão, bate | <p>Roubo, assassinato, excesso de velocidade, extorsão, furt
+texto | <p>I've had enough!<k><p>So what if I was born on some other | <p>Para mim chega!<k><p>E daí que eu nasci em outro planeta  | <p>Para mim chega!<k><p>E daí que eu nasci em outro planeta 
+texto | <p>Okay, I'm all set... You ready to go?<k> | <p>Pronto, está tudo pronto... Preparado?<k> | <p>Certo, está tudo pronto... Preparado?<k>
+texto | <p>Heh. If we can get this guy, it'll be your turn next.<k> | <p>Hê. Se pegarmos este sujeito, a próxima vez vai ser a sua | <p>Hê. Se pegarmos este sujeito, o próximo vai ser você.<k>
+texto | <p>You're nothing like I am... I'm a first-class warrior!<k> | <p>Você não é nada como eu... Eu sou um guerreiro de primeir | <p>Você não é nada parecido comigo... Eu sou um guerreiro de
+texto | <p>What do ya think I'm doing?<n>King Yemma asked me to clea | <p>O que você acha que eu faço?<n>O Senhor Enma me pediu pra | <p>O que acha que eu tô fazendo?<n>O Senhor Enma me pediu pr
+texto | <p>I would but it's weird.<n>It's so hard to move here.<n>My | <p>Eu iria, mas é estranho.<n>É difícil se mexer aqui.<n>O m | <p>Até queria, mas é estranho.<n>É difícil se mexer aqui.<n>
+texto | <p>There's a secret medicine needed to bring the fever down. | <p>Existe um remédio secreto que é preciso para baixar a feb | <p>Existe um remédio secreto que é preciso para baixar a feb
+texto | <p>I heard in Jingle Village how<n>remnants of the army have | <p>Ouvi na Vila Jingle que os<n>restos do exército andam<n>p | <p>Ouvi na Vila Jingle que os<n>remanescentes do exército<n>
+texto | <p>If they get a hold of the<n>Dragon Balls, the world's gon | <p>Se eles pegarem as<n>Esferas do Dragão, o mundo<n>vai est | <p>Se eles pegarem as<n>Esferas do Dragão, o mundo<n>vai cor
+texto | <p>Oh, Gohan? What has happened? Have you not run away yet?< | <p>Oh, Gohan? O que aconteceu? Você ainda não fugiu?<k> | <p>Oh, Gohan? O que aconteceu? Você ainda não saiu daqui?<k>
+texto | <p>To get even with you!<k><p>You had become too strong at t | <p>Pra me vingar de você!<k><p>Você ficou forte demais no úl | <p>Pra me vingar de você!<k><p>Você ficou forte demais no úl
+texto | <p>That's what I'm talking about!<k><p>I must shut that high | <p>É disso que eu estou falando!<k><p>Tenho que calar essa s | <p>É disso que eu estou falando!<k><p>Tenho que calar essa s
+texto | <p>It's the middle of the day and it's dark out!<k> | <p>É meio-dia e está escuro lá fora!<k> | <p>É pleno dia e está escuro lá fora!<k>
+texto | <p>There we go...<k> | <p>Lá vamos nós...<k> | <p>Pronto...<k>
+texto | <p>You go! And don't hold back anything.<k><p>Got it?<k> | <p>Vá você! E não segure nada.<k><p>Entendeu?<k> | <p>Vá você! E não se contenha.<k><p>Entendeu?<k>
+texto | <p>There was no use in letting him continue. He would have l | <p>Não adiantava deixá-lo continuar. Ele ia perder.<k><p>Aqu | <p>Não adiantava deixá-lo continuar. Ele ia perder.<k><p>Aqu
+texto | <p>You guys better not hold back this time!<k> | <p>É bom vocês não segurarem nada desta vez!<k> | <p>É bom vocês não pegarem leve desta vez!<k>
+texto | <p>Yeah. But let me fight them alone.<k><p>You two step back | <p>É. Mas deixa eu lutar com eles sozinho.<k><p>Vocês dois s | <p>É. Mas deixa eu lutar com eles sozinho.<k><p>Vocês dois s
+texto | <p>Enough! You don't have what it takes to finish this! I'll | <p>Chega! Você não tem o que é preciso pra acabar com isso!  | <p>Chega! Você não tem capacidade pra acabar com isso! Eu cu
+texto | <p>You're smiling... Have you given up the fight?!<k><p>Or d | <p>Você está sorrindo... Desistiu da luta?!<k><p>Ou ainda te | <p>Você está sorrindo... Desistiu da luta?!<k><p>Ou ainda te
+texto | <p>Nngh... man... he's tough...<k> | <p>Nngh... nossa... ele é duro...<k> | <p>Nngh... nossa... ele é duro na queda...<k>
+texto | <p>Saiyans are tested at birth on their potential as warrior | <p>Os Saiyajins são testados ao nascer quanto ao potencial c | <p>Os Saiyajins são testados ao nascer quanto ao potencial c
+texto | <p>However, it's time to end this, Kakarot!<k><p>Even if you | <p>Mas está na hora de acabar com isso, Kakarotto!<k><p>Mesm | <p>Mas está na hora de acabar com isso, Kakarotto!<k><p>Mesm
+texto | <p>A... Spirit Bomb... It holds a bit of the energy from...  | <p>Uma... Genki Dama... Ela tem um pouco da energia de... to | <p>Uma... Genki Dama... Ela tem um pouco da energia de... to
+texto | <p>This is a Yemma tree. It bears peach-like fruit that look | <p>É uma Árvore do Enma. Dá frutas parecidas com pêssegos qu | <p>É uma Árvore do Enma. Dá frutas parecidas com pêssegos, c
+texto | <p>Chiaotzu?<k><p>I don't think he would have left Kami's Lo | <p>O Chaos?<k><p>Acho que ele não teria saído do Templo de K | <p>O Chaos?<k><p>Acho que ele não saiu do Templo<n>de Kami-S
+texto | <p>A statue of Mutaito, teacher of Master Roshi and Master S | <p>Aqui fica uma estátua de Mutaito, mestre do Mestre Kame e | <p>Aqui fica uma estátua do Mestre Mutaito, mestre do Mestre
+texto | Demon King Seal | Selo do Rei Demônio | Selo do Daimaoh
+texto | Popo's Turban | Turbante do Popo | Turbante do Sr. Popo
+texto | The \1P3Yemma Forest\1Pn has been vandal-<n>ized! Save the w | A \1P3Floresta de Enma\1Pn foi depre-<n>dada! Salve o bosque | A \1P3Floresta do Enma\1Pn foi depre-<n>dada! Salve o bosque
+texto | Yemma Forest | Floresta de Enma | Floresta do Enma
+texto | Inside Yemma Forest | Dentro da Fl. de Enma | Dentro da Fl. do Enma
+texto | Water to revive Yemma trees. Very<n>nutritious. Don't ask ho | Água que revive árvores de Enma. Muito<n>nutritiva. Não perg | Água que revive Árvores do Enma. Muito<n>nutritiva. Não perg
+texto | The spirit crystal from an Yemma tree,<n>obtained from Montg | O cristal espiritual de uma árvore de<n>Enma, dado pelo Mont | O Cristal Espiritual de uma Árvore<n>do Enma, dado pelo Mont
+texto | Get the Precision Circuit from<n>\1P3Capsule Corp\1Pn and gi | Pegue o Circuito de Precisão na<n>\1P3Corp. Cápsula\1Pn e le | Pegue o Circuito de Precisão na<n>\1P3Corporação Cápsula\1Pn
+texto | Tien and Chiaotzu are reunited!<n>Yamcha should be on \1P3Mt | Tenshinhan e Chaos juntos de novo!<n>Yamcha deve estar na \1 | Tenshinhan e Chaos juntos de novo!<n>Yamcha deve estar na \1
+texto | Mt. Frappe Cave | Caverna do Mt. Frappe | Caverna do Monte Frappe
+texto | Sometimes enemy attacks will give you<n>status ailments. The | Às vezes os ataques inimigos causam<n>efeitos de estado. São | Às vezes os ataques inimigos causam<n>efeitos de estado. São
+texto | Panic Recovery | Cura Pânico | Cura Confusão
+texto | Sneak attack rate UP! | Chance de emboscada AUMENTOU! | Mais chance de ataque surpresa!
+texto | Raises speed and chance of being sneak-<n>attacked. \1P3Stan | Mais velocidade e mais emboscadas<n>inimigas. \1P3Reserva:\1 | Mais velocidade e mais ataques<n>surpresa inimigos. \1P3Rese
+texto | Chain Up | Corrente+ | Encadeamento+
+texto | Increases chance of launching a chain | Aumenta a chance de corrente | Aumenta a chance de encadear
+texto | Raises chance of launching chains by 3% | Aumenta a chance de corrente em 3% | Aumenta a chance de encadear em 3%
+texto | Raises chance of launching chains by 5% | Aumenta a chance de corrente em 5% | Aumenta a chance de encadear em 5%
+texto | Raises chance of launching chains by 8% | Aumenta a chance de corrente em 8% | Aumenta a chance de encadear em 8%
+texto | Consumes Ki to make a normal attack a <n>chain attack | Gasta Ki para virar o ataque normal <n>um ataque em corrente | Gasta Ki para transformar o ataque <n>normal em ataque encad
+texto | \1P1Skill Req'd:\1Pn%s Lv%d | \1P1Requer:\1Pn%s Nv%d | \1P1Requer:\1Pn%s LV%d
+texto | \1P1Attack  \1Pn: Attack enemies<n>\1P1Item    \1Pn: Use an  | \1P1Atacar  \1Pn: Ataca os inimigos<n>\1P1Item    \1Pn: Usa  | \1P1Atacar  \1Pn: Ataca os inimigos<n>\1P1Item    \1Pn: Usa 
+texto | <i> stolen. | <i> roubado. | Item roubado: <i>.
+texto | Party's Ki fully refilled. | Ki do grupo todo restaurado. | Ki do grupo no máximo.
+texto | <t>'s HP/Ki fully refilled. | HP/Ki de <t> todo restaurado. | HP/Ki de <t> no máximo.
+texto | \1P3Accessories\1Pn, found in shops and<n>dungeons, can be e | \1P3Acessórios\1Pn, de lojas e<n>masmorras, dá para equipá-l | Equipe \1P3Acessórios\1Pn, de lojas e<n>masmorras, para aume
+texto | Resetting backup memory.<n>Press the A Button to begin. | Reiniciando a memória.<n>Aperte o Botão A para começar. | Apagando os dados salvos.<n>Aperte o Botão A para começar.
+texto | Resetting... | Reiniciando... | Apagando...
+texto | Memory reset failed. Please turn off<n>the power and reinser | Falha ao reiniciar. Desligue o<n>console e recoloque o cartã | Falha ao apagar. Desligue o<n>console e recoloque o cartão.
+texto | I am a traveling merchant, available<n>anywhere the world's  | Sou um mercador viajante, onde<n>quer que os artistas marcia | Sou um mercador viajante e vou<n>aonde os artistas marciais 
+texto | This sun-like burst of light does more<n>than just make your | Esta explosão de luz faz mais<n>do que só lacrimejar os olho | Esta explosão de luz faz mais<n>do que só fazer lacrimejar o
+texto | Phoenix Tail Feather | Pena Cauda Fênix | Pena de Fênix
+texto | Can be sold for lots of money | Pode ser vendida por bom dinheiro | Vale um bom dinheiro na venda
+texto | Turns defeated enemies into carrots. No Zeni<n>can be obtain | Vira inimigos vencidos em cenoura. Sem<n>Zeni. \1P3Reserva:\ | Transforma inimigos vencidos em<n>cenouras. Sem Zeni. \1P3Re
+texto | Korin's Medicine | Remédio Karin | Remédio do Karin
+texto | Counter Bracelet | Pulseira Revide | Pulseira do Revide
+texto | Fully refills one ally's HP and Ki | Recupera todo HP e Ki de um aliado | Recupera todo o HP e o Ki de um aliado
+texto | Fully refills one ally's HP and Ki<n>(Reduces Rage Gauge to  | Recupera todo HP e Ki de um aliado<n>(Zera a Fúria) | Recupera todo o HP e o Ki de um aliado<n>(Zera a Fúria)
+texto | Fully refills all allies' HP and Ki<n>(Reduces Rage Gauge to | Recupera todo HP e Ki de todos<n>(Zera a Fúria) | Recupera todo o HP e o Ki de todos<n>(Zera a Fúria)
+texto | Chance of avoiding all damage<n>with an Active Guard | Chance de anular todo dano<n>com a Defesa Ativa | Chance de anular todo o dano<n>com a Defesa Ativa
+texto | Can't use in Kaio-ken mode. | Não dá no modo Kaioken. | Não dá para usar no Kaioken.
+texto | Item drops changed! | Itens deixados mudaram! | Itens dos inimigos mudaram!
+texto | Enemy item drop rate UP! | Itens dos inimigos AUMENTARAM! | Chance de itens AUMENTOU!
+texto | A rage-driven body attack | Um ataque de corpo movido pela raiva | Um ataque corporal movido pela raiva
+texto | Gohan is found! But training isn't<n>over yet! Get the devil | Achou o Gohan! Mas o treino não<n>acabou! Pegue o bracelete  | Achou o Gohan! Mas o treino não<n>acabou! Pegue o Bracelete 
+texto | Goku joins! Use the Dragon Rader to find <n>where the Dragon | Goku entrou! Use o Radar do Dragão para<n>achar onde estão a | Goku entrou! Use o Radar do Dragão<n>para achar onde estão a
+texto | Dragon Ball search in a submarine!<n> What awaits in the dee | Busca de Esfera de submarino!<n> O que espera no fundo do ma | Busca por Esfera num submarino!<n> O que espera no fundo do 
+texto | Devil's Toilet (Basement Right) | Vaso do Diabo (Porão Direito) | Vaso do Diabo (Porão Dir.)
+texto | Princess Snake's Room | Quarto da Pr. Serpente | Quarto da Princ. Serpente
+texto | Very well. How many would you like? | Muito bem. Quantos gostaria? | Muito bem. Quantos vai querer?
+texto | Welcome! You're our first customer<n>in a while! Have a look | Bem-vindo! Você é o primeiro<n>cliente em tempos! Dê uma olh | Bem-vindo! Você é o primeiro<n>cliente há tempos! Dê uma olh
+texto | Thank you much. You're my first<n>customer in a while. I'd l | Muito obrigado. Você é o primeiro<n>cliente em tempos. Adora | Muito obrigado. Você é o primeiro<n>cliente há tempos. Adora
+texto | Welcome! We have new items in... How<n>would you like to pre | Bem-vindo! Chegaram itens... Como<n>gostaria de se preparar  | Bem-vindo! Temos novidades... Como<n>gostaria de se preparar
+texto | One of the Turtle school's secret moves.<n>Burn your foe to  | Um golpe secreto da Tartaruga.<n>Torre o inimigo! | Um golpe secreto da Escola Tartaruga.<n>Torre o inimigo!
+texto | Raises all parameters for several turns | Aumenta tudo por vários turnos | Aumenta todos os atributos por vários turnos
+texto | Extends effect of timed items | Prolonga os itens temporários | Prolonga o efeito dos itens temporários
+texto | Bamboo Forest | (nova) | Floresta de Bambu
+texto | <p>The Orin Temple was under attack...but I heard the attack | (nova) | <p>O Templo Orin foi atacado... mas ouvi dizer que o agresso
+texto | <p>I'm so bored...guess my dad's still flirting with the gir | (nova) | <p>Que tédio... o meu pai ainda deve estar paquerando as moç
+texto | <p>Well...I guess I wouldn't mind having a drink, anyway.<k> | (nova) | <p>Bom... acho que um drinque eu até aceitaria.<k>
+texto | <p>Ugh...so bored. I just feel so run down unless I'm watchi | (nova) | <p>Argh... que tédio. Fico desanimado se não estiver vendo a
+texto | <p>Zzz...zzz... Huh?!<k> | (nova) | <p>Zzz... zzz... Hã?!<k>
+texto | <p>I can't find my husband...and now I'm starting to get sle | (nova) | <p>Não acho o meu marido... e agora estou ficando com sono.<
+texto | <p>Look, whadaya want from me?! I don't have anything intere | (nova) | <p>Olha, o que você quer de mim?! Não tenho nada interessant
+texto | <p>What a shock...our temple, and our homeland, gone.<k> | (nova) | <p>Que choque... o nosso templo e a nossa terra natal, destr
+texto | <p>We happened to be here at the time, so we're safe...but I | (nova) | <p>Por acaso estávamos aqui na hora, então estamos a salvo..
+texto | <p>Do you want...to return to Earth?<k> | (nova) | <p>Você quer... voltar para a Terra?<k>
+texto | <p>The forest is being ravaged!<k><p>You must save the fores | (nova) | <p>A floresta está sendo devastada!<k><p>Você tem que salvar
+texto | <p>Goz is the top sumo wrestler in hell! There's no way you  | (nova) | <p>O Goz é o maior lutador de sumô do Inferno! Não tem como 
+texto | <p>What should we have for dinner tonight...? I know! Let's  | (nova) | <p>O que vamos jantar hoje...? Já sei! Vamos no chinês do ku
+texto | <p>Hmm...what's up with that shop? It's huge...what could th | (nova) | <p>Hmm... o que é aquela loja? É enorme... o que será que ve
+texto | <p>Hmm...radishes are cheap today. Guess I could make a pot  | (nova) | <p>Hmm... o rabanete está barato hoje. Acho que dá pra fazer
+texto | <p>The aliens from that ship are<n>the ones behind this carn | (nova) | <p>Os alienígenas daquela nave são<n>os culpados por esta ca
+texto | <p>Yo! Hey, it's me! Long time no see!<k><p>I kinda forgot t | (nova) | <p>E aí! Oi, sou eu! Quanto tempo!<k><p>Acabei esquecendo de
+texto | <p>Your ki blast level goes up as you keep training, after c | (nova) | <p>O nível da sua Rajada de Ki sobe conforme você treina, de
+texto | <p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can | (nova) | <p>Sua Rajada de Ki agora está no nível <c=#FF3C3C>2<c>! <n>
+texto | <p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can | (nova) | <p>Sua Rajada de Ki agora está no nível <c=#FF3C3C>3<c>! <n>
+texto | <p>Those guys escaped into the new Pilaf's Castle. After the | (nova) | <p>Aqueles caras fugiram pro novo Castelo do Pilaf. Atrás de
+texto | <p>I'm counting on you. You're the only ones who can actuall | (nova) | <p>Conto com vocês. Vocês são os únicos que podem mesmo enfr
+texto | <p>You've caught a total of %d monsters so far.<k> | (nova) | <p>Até agora vocês capturaram %d monstros no total.<k>
+texto | <p>Man...you're killer strong...<k> | (nova) | <p>Nossa... você é forte demais...<k>
+texto | <p>The jar smells like alcohol. There's probably wine inside | (nova) | <p>O pote tem cheiro de álcool. Deve ter vinho dentro.<k>
+texto | <p>Man, that must be one killer alien...blowing up an entire | (nova) | <p>Nossa, deve ser um alienígena e tanto... explodindo uma c
+texto | <p>This is an Yemma tree. It bears peach-like fruit that loo | (nova) | <p>É uma Árvore do Enma. Dá frutas parecidas com pêssegos, c
+texto | <p>My child's fever just won't go down. Not even the doctors | (nova) | <p>A febre do meu filho não baixa de jeito nenhum. Nem os mé
+texto | <p>My granddaughter's such a tomboy...let her go outside, an | (nova) | <p>A minha neta é tão moleca... deixo ela sair e ela nunca m
+texto | <p>Hey! Did you hear the news about East City?! What is goin | (nova) | <p>Ei! Ficou sabendo da Cidade do Leste?! O que está acontec
+texto | <p>Crackle...creak...!<k> | (nova) | <p>Crec... nhéc...!<k>
+texto | <p>Creak...crack...!<k> | (nova) | <p>Nhéc... crec...!<k>
+texto | <p>It's the High Resolution Circuit, okay? I got it at my pl | (nova) | <p>É o Circuito de Precisão, tá? Está lá em casa, na Cidade 
+texto | <p>This must be the High Resolution Circuit Bulma was talkin | (nova) | <p>Este deve ser o Circuito de Precisão de que a Bulma falou
+texto | <p>I need the Hermit Spring Water that flows in the cave ins | (nova) | <p>Preciso da Água da Fonte do Eremita que corre na caverna 
+texto | <p>You can get to Kami's place via the sacred land of Korin. | (nova) | <p>Dá para chegar ao Kami-Sama pela Terra Sagrada de Karin. 
+texto | <p>Our era is over...it is time for you younger people to st | (nova) | <p>A nossa era acabou... está na hora de vocês, os mais jove
+texto | <p>Lets hurry and go find Eighter!<k> | (nova) | <p>Vamos logo achar o Número 8!<k>
+texto | <p>Wine bottles and snack food are strewn across the table.< | (nova) | <p>Garrafas de vinho e salgadinhos estão espalhados pela mes
+texto | <p>Whoahh! T-this is Yamcha's place!<k><p>I'm protecting his | (nova) | <p>Uaaah! E-esta é a casa do Yamcha!<k><p>Estou protegendo a
+texto | <p>A portrait of Pilaf...not very flattering.<k> | (nova) | <p>Um retrato do Pilaf... nada lisonjeiro.<k>
+texto | <p>Cards and an Othello board lie here, abandoned in the mid | (nova) | <p>Cartas e um tabuleiro de Othello estão largados aqui, aba
+texto | <p>Rrrrr...*whine*<k> | (nova) | <p>Rrrrr... *cainn*<k>
+texto | <p>Rrrrr...Ruff! Ruff ruff!<k> | (nova) | <p>Rrrrr... Au! Au au!<k>
+texto | <p>Hey...is what happened to East City gonna happen to the r | (nova) | <p>Ei... o que aconteceu com a Cidade do Leste vai acontecer
+texto | <p>Did you think Speed just determined who attacks first in  | (nova) | <p>Achou que a Velocidade só define quem ataca primeiro na b
+texto | <p>This is the sacred land of Korin.<k><p>A group has gather | (nova) | <p>Esta é a Terra Sagrada de Karin.<k><p>Um grupo se reuniu 
+texto | <p>There is Princess Snake's chair...but no Princess Snake.< | (nova) | <p>Ali está a cadeira da Princesa Serpente... mas nada da Pr
+texto | <p>Whew! What a surprise. Good thing they weren't too tough. | (nova) | <p>Ufa! Que susto. Ainda bem que eles não eram muito fortes.
+texto | <p>See that flashing rock? Go up to it, and you can use a ki | (nova) | <p>Está vendo aquela pedra piscando? Chegue perto dela e use
+texto | <p>When your power is full, the ki meter will light up.<k> | (nova) | <p>Quando o seu poder estiver no máximo, o medidor de Ki vai
+texto | <p>Release the B Button, and you'll launch a ki blast!<k> | (nova) | <p>Solte o Botão B e você vai disparar uma Rajada de Ki!<k>
+texto | <p>That felt good, huh? You can use ki blasts to break the o | (nova) | <p>Foi bom, né? Você pode usar Rajadas de Ki para quebrar os
+texto | <p>Now you got it! That gas is no problem now, huh?<k><p><d> | (nova) | <p>Agora sim! Aquele gás não é mais problema, né?<k><p><d>Re
+texto | <p>Ah, a visitor...heh heh heh. Please, come right in.<k> | (nova) | <p>Ah, uma visita... heh heh heh. Por favor, pode entrar.<k>
+texto | <p>Zzz...zzz...<k><p>Gahh!!<k> | (nova) | <p>Zzz... zzz...<k><p>Aaah!!<k>
+texto | <p>Soooo...slloooowwww... Meeeewwwwww...<k> | (nova) | <p>Tããão... leeeentooo... Miaaaauuuu...<k>
+texto | <p>So...slow... Me...ow...<k> | (nova) | <p>Tão... lento... Mi... au...<k>
+texto | <p>Earth is dangerous enough as is...now someone's actively  | (nova) | <p>A Terra já é perigosa o bastante... e agora alguém está t
+texto | <p>Oh, man...I let myself go wild. I bought a new capsule wi | (nova) | <p>Ai, ai... Me empolguei. Comprei uma cápsula nova sem a pe
+texto | <p>Are you using the accessories you have? There are some re | (nova) | <p>Você está usando os acessórios que tem? Tem uns muito bon
+texto | <p>Wow...before I realized it, I wrote all over this thing.  | (nova) | <p>Nossa... quando vi, já tinha rabiscado essa coisa toda. E
+texto | <p><d>No...parking!<d> There! That'll be perfect!<k><p>Oh, w | (nova) | <p><d>Proibido... estacionar!<d> Pronto! Ficou perfeito!<k><
+texto | <p>I hate it when people park their cars here...think I'll d | (nova) | <p>Odeio quando estacionam carro aqui... acho que vou pichar
+texto | <p>I lost so much weight, and now look... I'm heartbroken.<k | (nova) | <p>Emagreci tanto e agora olha só... Estou arrasado.<k><p>Nã
+texto | <p>Press the X Button for the top row line, Y Button for the | (nova) | <p>Aperte o Botão X para a linha de cima, o Botão Y para a d
+texto | <p>I heard there was a terrorist attack on East City. Places | (nova) | <p>Ouvi dizer que teve um ataque terrorista na Cidade do Les
+texto | <p>Old City is just up those stairs. It's not very safe in t | (nova) | <p>A Cidade Velha fica logo subindo aquela escada. Não é mui
+texto | <p>I can't take it anymore! My eyes are spinning! I feel so. | (nova) | <p>Não aguento mais! Estou vendo tudo girar! Estou me sentin
+texto | <p>Oh man...it's all over... I can't control myself anymore. | (nova) | <p>Ai, ai... acabou tudo... não consigo mais me controlar...
+texto | <p>I'm sure envious of these kids...heh heh.<k> | (nova) | <p>Que inveja dessas crianças... heh heh.<k>
+texto | <p>It's Lait-Lait! Would you like some coffee?<k><p>Um...is  | (nova) | <p>É o Lait-Lait! Aceita um café?<k><p>Hã... esse Lait-Lait 
+texto | <p>That guy's so weird...always going on about this crazy st | (nova) | <p>Aquele cara é tão esquisito... sempre falando essas maluq
+texto | <p>Ahh...carrots...wonderful, wonderful carrots...<k> | (nova) | <p>Ahh... cenouras... maravilhosas, maravilhosas cenouras...
+texto | <p>Carrots...you have any carrots?<k> | (nova) | <p>Cenouras... você tem cenouras?<k>
+texto | <p>Um...could I ask you for 1000 carrots? Would that be too  | (nova) | <p>Hã... posso te pedir 1000 cenouras? Seria difícil demais.
+texto | <p>Hey...do you have any carrots...?<k> | (nova) | <p>Ei... você tem cenouras...?<k>
+texto | <p>Oh...that's a shame...<k> | (nova) | <p>Ah... que pena...<k>
+texto | <p>So this connects to this...and that connects to over ther | (nova) | <p>Então isto liga nisto... e aquilo liga lá...<k><p>Ahh, nã
+texto | <p>Long ago, deep in the mountains, thousands of miles away  | (nova) | <p>Há muito tempo, no fundo das montanhas, a milhares de qui
+texto | <p>...Of course, I'm not going to be cruel to you.<k><p>You' | (nova) | <p>...Claro, não vou ser cruel com vocês.<k><p>Vocês vão enc
+texto | <p>Hey, look! Hey, is this the crystal ball Master Roshi was | (nova) | <p>Ei, olhem! Ei, esta é a bola de cristal de que o Mestre K
+texto | <p>Yes... this most certainly is the fortuneteller's crystal | (nova) | <p>Sim... esta é mesmo a bola de cristal de vidente que deix
+texto | <p>...Fortuneteller?<k> | (nova) | <p>...de vidente?<k>
+texto | <p>Ever since I young, people always compare me to her... I  | (nova) | <p>Desde pequena, o povo sempre me compara com ela... Eu ode
+texto | <p>... ... Well...if you're prepared for whatever we'll face | (nova) | <p>......Bom... se você estiver preparado para o que vamos e
+texto | <p>Learned Multi-Form Attack!<k> | (nova) | <p>Aprendeu o Ataque Multiforma!<k>
+texto | <p>The level of talent in this tournament was unprecedented. | (nova) | <p>O nível dos lutadores neste torneio era inédito.<k><p>O p
+texto | <p>Y-you're kidding!!<k><p>You completely pulverized<n>the D | (nova) | <p>V-você está brincando!!<k><p>Você acabou com o<n>Piccolo 
+texto | <p>Kami told me that King Piccolo<n>spat out one more egg be | (nova) | <p>O Kami-Sama disse que o Piccolo<n>Daimaoh cuspiu outro ov
+texto | <p>King Piccolo and Kami used to<n>be the same person.<k><p> | (nova) | <p>O Piccolo Daimaoh e o Kami-Sama<n>eram a mesma pessoa.<k>
+texto | <p>Heh heh heh. Talk all you want; it won't matter.<k><p>Onc | (nova) | <p>Hê hê hê. Fale o quanto quiser, não vai adiantar.<k><p>As
+texto | <p>Hang in there, Goku! Don't get killed! I don't want to be | (nova) | <p>Aguenta firme, Goku! Não vá morrer! Eu não quero ficar vi
+texto | <p>N-no ...no way... That's impossible...<k> | (nova) | <p>N-não... não pode... Isso é impossível...<k>
+texto | <p>But yes.. .yes, I am Annin!<k> | (nova) | <p>Mas sim... sim, eu sou a Annin!<k>
+texto | <p>You can now view your S-Combos via the Crystal Ball in th | (nova) | <p>Agora você pode ver os seus S-Combos pela Bola de Cristal
+texto | <p>...Uh, wait. Emperor Pilaf?<k><p>Am I going it alone here | (nova) | <p>...Hã, espera. Imperador Pilaf?<k><p>Eu vou nessa sozinho
+texto | <p>He'll do anything -- anything -- for money!<k> | (nova) | <p>Ele faz qualquer coisa... qualquer coisa... por dinheiro!
+texto | <p>And so Goku, bird's egg and honey in hand, made his way b | (nova) | <p>E assim Goku, com o ovo do pássaro e o mel em mãos, volto
+texto | <p>Here you go! The honey, and the egg!<k> | (nova) | <p>Aqui está! O mel e o ovo!<k>
+texto | <p>I gotta go inside the furnace?!<k><p>Oh, man! It's gotta  | (nova) | <p>Eu tenho que entrar na fornalha?!<k><p>Puxa! Deve estar u
+texto | <p>I did.<k><p>There's no way you two could beat him. I'll c | (nova) | <p>Dei.<k><p>Vocês dois não teriam como vencê-lo. Vou junto 
+texto | <p>Don't be stupid!<k><p>My strength is on a completely diff | (nova) | <p>Não seja tolo!<k><p>A minha força está numa categoria com
+texto | <p>...I'm seeing a Dragon Ball deep in the wilds.<k><p>That  | (nova) | <p>...Estou vendo uma Esfera do Dragão no fundo do ermo.<k><
+texto | <p>You could say that...<k><p>But it takes a lot of time to  | (nova) | <p>Pode-se dizer que sim...<k><p>Mas leva muito tempo para r
+texto | <p>All right! This is gonna be fun!<k><p>I'll go hold him of | (nova) | <p>Beleza! Isso vai ser divertido!<k><p>Eu seguro ele para v
+texto | <p>Ergh...!! No...noooooo!!!<k> | (nova) | <p>Ergh...!! Não... nãããããão!!!<k>
+texto | <p>Wow... I knew you were strong, but....<k> | (nova) | <p>Nossa... Eu sabia que você era forte, mas...<k>
+texto | <p>Yes. I imagine the next time they see use will be the las | (nova) | <p>Sim. Imagino que a próxima vez que forem reunidas será a 
+texto | <p>I could fix that machine that<n>Goku's brother was using  | (nova) | <p>Eu consertaria a máquina que<n>o irmão do Goku usava se e
+texto | <p>Yeah.<n>Do you think you could bring me<n>back a <d>high  | (nova) | <p>Isso.<n>Pode me trazer um<n><d>Circuito de Precisão<d><n>
+texto | <p>A <d>high resolution circuit<d>?<n>...OK.<n>I'll make a s | (nova) | <p>Um <d>Circuito de Precisão<d>?<n>...Tá bom.<n>Então vou d
+texto | <p>I made the characters on this<n>thing easier to read.<k>< | (nova) | <p>Deixei as letras desta coisa<n>mais fáceis de ler.<k><p>V
+texto | <p>I just... Well... I thought maybe I'd be of some help to  | (nova) | <p>Eu só... Bom... Achei que talvez eu pudesse te ajudar, só
+texto | <p>Whatdya think?! Of course I'll go!<k> | (nova) | <p>O que você acha?! Claro que eu vou!<k>
+texto | <p>...Oh, no... Was just thinking about how far you've all c | (nova) | <p>...Ah, não... Só estava pensando em como vocês evoluíram.
+texto | <p>What's that?! Lying won't get you any where!!<k> | (nova) | <p>O quê?! Mentir não vai levar vocês a lugar nenhum!!<k>
+texto | <p>?!?!<n>How could you!<k> | (nova) | <p>?!?!<n>Como pôde!<k>
+texto | <p>In another part of the world,<n>Gohan had successfully li | (nova) | <p>Em outra parte do mundo,<n>Gohan tinha sobrevivido a seis
+texto | <p>!!<k><p>It feels like that green man's ki!<n>It's been si | (nova) | <p>!!<k><p>Parece o Ki daquele homem verde!<n>Já se passaram
+texto | <p>All right, now!<n>Everyone stay in line and<n>keep moving | (nova) | <p>Muito bem!<n>Todos em fila e<n>andando!<k><p>Ei, vocês aí
+texto | <p>...Huh?<n>That's smells good!!<k> | (nova) | <p>...Hã?<n>Que cheiro bom!!<k>
+texto | <p>Of course we're not!<n>Where do you think this is?!<k> | (nova) | <p>Claro que não!<n>Onde você acha que estamos?!<k>
+texto | <p>Huh?<n>Princess Snake<k> | (nova) | <p>Hã?<n>Princesa Serpente<k>
+texto | <p>...Yemma Forest?<k><p>Mez and Goz told me that the fruit< | (nova) | <p>...Floresta do Enma?<k><p>O Mez e o Goz me disseram que a
+texto | <p>...Stop me?<k><p>You were barely able to take me<n>down b | (nova) | <p>...Me impedir?<k><p>Da outra vez, vocês mal me<n>venceram
+texto | <p>Puar and Bulma are on their way<n>ahead of you.<k><p>Get  | (nova) | <p>O Puar e a Bulma já foram<n>na frente.<k><p>Peguem o Rada
+texto | <p>Here's the dragon radar!<k><p>Now we're all set to go fin | (nova) | <p>Aqui está o Radar do Dragão!<k><p>Agora estamos prontos p
+texto | <p>Man, this ice is hard...!<n>Even ki won't crack it!<k> | (nova) | <p>Nossa, esse gelo é duro...!<n>Nem o Ki racha ele!<k>
+texto | <p>You know it? Good!<k><p>There's ice there that we<n>can't | (nova) | <p>Conhece? Ótimo!<k><p>Tem um gelo lá que a gente<n>não con
+texto | <p>The dragon radar shows Dragon Balls in two places!<k> | (nova) | <p>O Radar do Dragão mostra Esferas em dois lugares!<k>
+texto | <p>The two star ball...<n>It's broken...<k> | (nova) | <p>A Esfera de 2 Estrelas...<n>Está quebrada...<k>
+texto | <p>Maybe the two signals the dragon radar<n>picked up was... | (nova) | <p>Talvez os dois sinais que o Radar<n>captou fossem...<k>
+texto | <p>If it's broken,<n>will we not be able to wish<n>dad back? | (nova) | <p>Se ela está quebrada,<n>não vai dar pra reviver<n>o papai
+texto | <p>Don't worry, Gohan!<n>Your dad has a plan!<k> | (nova) | <p>Não se preocupe, Gohan!<n>O papai tem um plano!<k>
+texto | <p>Yup.<k><p>Come on everyone,<n>there's one more place.<k>< | (nova) | <p>Aham.<k><p>Vamos, pessoal,<n>ainda tem mais um lugar.<k><
+texto | <p>So what's the plan you said<n>you had, dad?<k> | (nova) | <p>E qual é o plano que você<n>disse que tinha, papai?<k>
+texto | <p>By the way... Where's the Dragon Ball?<k> | (nova) | <p>Aliás... cadê a Esfera do Dragão?<k>
+texto | <p>That's weird... The dragon radar said the signal came fro | (nova) | <p>Que estranho... O Radar do Dragão disse que o sinal vinha
+texto | <p>The Dragon Balls, huh...<k><p>How's the dragon radar that | (nova) | <p>As Esferas do Dragão, é...<k><p>E o Radar do Dragão que a
+texto | <p>All right! We got the five star ball!<k><p>...... Althoug | (nova) | <p>Beleza! Pegamos a Esfera de 5 Estrelas!<k><p>...... Mas é
+texto | <p>Yeah... Let's just hope the Red Ribbon Army aren't planni | (nova) | <p>É... Tomara que o Exército Red Ribbon não esteja tramando
+texto | <p>The dragon radar shows a signal around this area! There's | (nova) | <p>O Radar do Dragão mostra um sinal por aqui! Tem que ter u
+texto | <p>! The Sand Eagle is running away!<k> | (nova) | <p>! A Águia da Areia está fugindo!<k>
+texto | <p>He's pretty loyal to his friends... But he'll be back soo | (nova) | <p>Ela é bem fiel aos amigos... mas logo vai voltar. Vamos p
+texto | <p>Wait a second... I'll check the dragon radar!<k> | (nova) | <p>Espera aí... Vou olhar o Radar do Dragão!<k>
+texto | <p>Are you taking Gohan with you?<k? | (nova) | <p>Vai levar o Gohan com você?<k?
+texto | <p>All right, follow me! We're heading south east to Nemuria | (nova) | <p>Muito bem, venha comigo! Vamos para o sudeste, às Ruínas 
+texto | <p>Wow! It's the Nemuria Ruins...<k><p>This is where I ran a | (nova) | <p>Nossa! São as Ruínas de Nemuria...<k><p>Foi pra cá que eu
+texto | <p>! Hey! Mr. Robot! You're all right!<k><p>It's me! Gohan!< | (nova) | <p>! Ei! Senhor Robô! Você está bem!<k><p>Sou eu! O Gohan!<k
+texto | <p>I'd like to see just how strong you've become... But I do | (nova) | <p>Eu queria ver o quanto você ficou forte... mas não gosto 
+texto | <p>Hah! Just keep on talkin' like that!<k><p>Go get 'em exca | (nova) | <p>Rá! Continua falando assim!<k><p>Pega eles, robô escavado
+texto | <p>I don't feel his ki anywhere nearby... Try talking to Kam | (nova) | <p>Não sinto o Ki dele em lugar nenhum por perto... Tente fa
+texto | <p>!<n>That's what I'm talking about!<k><p>I must shut that  | (nova) | <p>!<n>É disso que eu estou falando!<k><p>Tenho que calar es
+texto | <p>Oh well!<k><p>I need hurry up so I can learn the Spirit B | (nova) | <p>Deixa pra lá!<k><p>Tenho que me apressar pra aprender a G
+texto | <p>! Elder??<k> | (nova) | <p>! Ancião??<k>
+texto | <p>*Cough cough*<k><p>Each time you complete the training I  | (nova) | <p>*Cof cof*<k><p>Cada vez que você completa um treino que e
+texto | <P>! (Looks like Goku is about  to be revived...)<k> | (nova) | <P>! (Parece que o Goku está prestes a ser revivido...)<k>
+texto | <p>Their ki is unbelievable...<k> | (nova) | <p>O Ki deles é inacreditável...<k>
+texto | <p>! They've started to move!<k> | (nova) | <p>! Eles começaram a se mover!<k>
+texto | <p>They're heading towards two other strong kis!<k><p>Maybe  | (nova) | <p>Estão indo na direção de outros dois Kis fortes!<k><p>Tal
+texto | <p>The cause of the large earthquake is completely unknown!< | (nova) | <p>A causa do grande terremoto é completamente desconhecida!
+texto | <p>Okay! Let's head in the direction of their ki!<k> | (nova) | <p>Certo! Vamos na direção do Ki deles!<k>
+texto | <p>So, those are the Saiyans?<k><p>I can feel their ki. It's | (nova) | <p>Então aqueles são os Saiyajins?<k><p>Dá pra sentir o Ki d
+texto | <p>I had no idea...<k><p>I'm an alien... I knew I was differ | (nova) | <p>Eu não fazia ideia...<k><p>Eu sou um alienígena... Sabia 
+texto | <p>What's...that...?<k> | (nova) | <p>O que... é isso...?<k>
+texto | <p>U...Ugh! The ground is shaking!<k> | (nova) | <p>A... Argh! O chão está tremendo!<k>
+texto | <p>He'll be here! My dad'll be here, you'll see!<k><p>He'll  | (nova) | <p>Ele vem! O meu pai vai vir, vocês vão ver!<k><p>Ele vai a
+texto | <p>There's a lot of huge ki all in one place! Over there!<k> | (nova) | <p>Tem um monte de Ki enorme num lugar só! Ali!<k>
+texto | <p>W-what?! This ki!<k><p>There's a massive ki force coming  | (nova) | <p>O-o quê?! Esse Ki!<k><p>Tem um Ki enorme vindo direto pra
+texto | <p>Don't die, Piccolo! My dad'll be here soon!<k><p>Please.. | (nova) | <p>Não morra, Piccolo! O meu pai já vai chegar!<k><p>Por fav
+texto | <p>Looks like my time has come... I suppose Goku didn't make | (nova) | <p>Parece que chegou a minha hora... Pelo jeito o Goku não c
+texto | <p>The ki disappeared!<k> | (nova) | <p>O Ki sumiu!<k>
+texto | <p>G-Goku's son...?! His ki is...huge!<k> | (nova) | <p>O-o filho do Goku...?! O Ki dele é... enorme!<k>
+texto | <p>Krillin, you've really improved. I can tell from your ki. | (nova) | <p>Kuririn, você melhorou muito. Dá pra ver pelo seu Ki...<k
+texto | <p>His ki is incredible...<k><p>Greater than any enemy I've  | (nova) | <p>O Ki dele é incrível...<k><p>Maior que o de qualquer inim
+texto | <p>What the?! I sense a huge ki... And it's getting bigger.. | (nova) | <p>Mas o quê?! Estou sentindo um Ki enorme... E está aumenta
+texto | <p>Oh, no! I've got to do something...anything!<k> | (nova) | <p>Ah, não! Tenho que fazer alguma coisa... qualquer coisa!<
+texto | <p>(Goku's ki is almost all gone!<k><p>This isn't good! He's | (nova) | <p>(O Ki do Goku está quase acabando!<k><p>Isso é ruim! Ele 
+texto | <p>! This brat grew his tail back...!<k> | (nova) | <p>! A cauda desse pirralho cresceu de novo...!<k>
+texto | <p>Hah...hah... Hah hah! Hah hah hah haaaah!<k> | (nova) | <p>Rá... rá... Rá rá! Rá rá rá ráááá!<k>
+texto | <p>Oh...no...<k> | (nova) | <p>Ah... não...<k>
+texto | <p>I can only feel the ki of four of them... No, five...<k>< | (nova) | <p>Só consigo sentir o Ki de quatro deles... Não, cinco...<k
+texto | <p>Ngh...Gah...<k> | (nova) | <p>Ngh... Argh...<k>
+texto | Refills a little ki with each turn | (nova) | Recupera um pouco de Ki por turno
+texto | Refills some ki with each turn | (nova) | Recupera algum Ki por turno
+texto | Raises rate of HP regeneration;<n>refills a little ki | (nova) | Aumenta a regeneração de HP;<n>recupera um pouco de Ki
+texto | Absorbs @36Ki damage landed on enemies<n>and refills a littl | (nova) | Absorve dano de @36Ki dos inimigos<n>e recupera um pouco do 
+texto | HP and KI recovery items heal the whole<n>party evenly. | (nova) | Itens de HP e KI curam o grupo todo<n>por igual
+texto | Sometimes allows you to use items<n>without consuming them | (nova) | Chance de usar itens<n>sem gastá-los
+texto | Consumes Ki to make a normal attack a <n>chain attack. | (nova) | Gasta Ki para transformar o ataque <n>normal em ataque encad
+texto | Raises all Abilities except HP and ki | (nova) | Aumenta atributos, exceto HP e Ki
+texto | Raises resistance to ki attacks | (nova) | Aumenta a resistência a ataques de Ki
+texto | Fires energy blasts at all enemies. | (nova) | Dispara energia em todos os inimigos
+texto | A strong energy blast<n>Attacking enemies with ki from your  | (nova) | Uma rajada de energia forte<n>Ataca com o Ki das mãos
+texto | Pierces enemies with ki from your finger<n>Guard disabled (f | (nova) | Perfura o inimigo com Ki do dedo<n>Sem defesa (por turnos) a
+texto | Surround your enemy with ki force<n>Launch it all at once to | (nova) | Cerca o inimigo com Ki e dispara<n>tudo de uma vez para expl
+texto | <t>'s ki refilled. | (nova) | Ki de <t> restaurado.
+texto | <t>'s ki fully refilled. | (nova) | Ki de <t> totalmente restaurado.
+texto | Party's ki refilled. | (nova) | Ki do grupo restaurado.
+texto | Party's ki fully refilled. | (nova) | Ki do grupo no máximo.
+texto | <t>'s HP/ki refilled. | (nova) | HP/Ki de <t> restaurados.
+texto | <t>'s HP/ki fully refilled. | (nova) | HP/Ki de <t> no máximo.
+texto | Party's HP/ki refilled. | (nova) | HP/Ki do grupo restaurados.
+texto | Party's HP/ki fully refilled. | (nova) | HP/Ki do grupo no máximo.
+texto | HP/ki switched. | (nova) | HP/Ki trocados.
+texto | Not enough ki. | (nova) | Ki insuficiente.
+texto | @35 Melee type<n>@36 Ki Blast type<n>@37 Fire type<n>@39 Thu | (nova) | @35 Corpo a corpo<n>@36 Rajada de Ki<n>@37 Fogo<n>@39 Raio<n
+texto | Press the correct Button just before the<n>enemy attacks to  | (nova) | Aperte o Botão certo logo antes do<n>ataque inimigo para red
+texto | The Button to press depends on where your<n>character is. Fr | (nova) | O botão depende da posição do seu<n>personagem. De cima: ape
+texto | These combos are launched when party<n>members \1P1whose Rag | (nova) | Estes combos saem quando membros do<n>grupo \1P1com o Medido
+texto | \1P1Attack  \1Pn: Attack enemies<n>\1P1Item    \1Pn: Use an  | (nova) | \1P1Atacar  \1Pn: Ataca os inimigos<n>\1P1Item    \1Pn: Usa 
+texto | A full-power Ki-blast combo. Show off<n>the power of friends | (nova) | Um combo de Rajada de Ki total.<n>Mostre o poder da amizade!
+texto | Devil's Toilet (Entrance) | (nova) | Vaso do Diabo (Entrada)
+texto | Devil's Toilet (Basement L) | (nova) | Vaso do Diabo: Porão Esq.
+texto | Devil's Toilet (Basement R) | (nova) | Vaso do Diabo: Porão Dir.
+texto | The save data could not be accessed. <n>Please turn off the  | (nova) | Não foi possível acessar os dados.<n>Desligue o console e<n>
+texto | Saving... | (nova) | Salvando...
+texto | Memory reset failed. Please turn off the<n>power and reinser | (nova) | Falha ao apagar. Desligue o<n>console e recoloque o cartão.
+texto | Data write failed. Please turn off the<n>power and reinsert  | (nova) | Falha ao gravar. Desligue o<n>console e recoloque o cartão.
+texto | The Dragon Ball Z: Attack of the Saiyans<n>data is corrupted | (nova) | Os dados de Dragon Ball Z: Attack of<n>the Saiyans estão cor
+texto | Select skill type. You can use AP to<n>learn or upgrade skil | (nova) | Escolha o tipo de técnica. Use AP para<n>aprender ou melhora
+texto | Owned | (nova) | Quantidade
+texto | Saving. Please do not turn off the<n>system or remove the DS | (nova) | Salvando. Não desligue o console<n>nem retire o cartão de jo
+texto | Orin Temple was attacked! Track the<n>culprit in the \1P3Bam | (nova) | O Templo Orin foi atacado! Ache o<n>culpado na \1P3Floresta 
+texto | The frozen hyacinth is<n>beyond the gate! Find it! | (nova) | O Jacinto Congelado está<n>além do portão! Ache-o!
+texto | Now bring the frozen hyacinth<n>back to \1P3Jingle Village\1 | (nova) | Agora leve o Jacinto Congelado<n>de volta à \1P3Vila Jingle\
+texto | The Senzu plants are in trouble? Get<n>water for them at \1P | (nova) | As plantas das Sementes estão mal!<n>Pegue água na \1P3Fonte
+texto | Monster Carrot is back! Chase him<n>down to the \1P3Hideout\ | (nova) | O Coelho Monstro voltou! Persiga-o<n>até o \1P3esconderijo\1
+texto | The \1P3Yemma forest\1Pn has been vandal-<n>ized! Save the w | (nova) | A \1P3Floresta do Enma\1Pn foi depre-<n>dada! Salve o bosque
+texto | Tien is headed for the \1P3Divine\1Pn<n>\1P3Crossing\1Pn, re | (nova) | Tenshinhan vai para a \1P3Travessia\1Pn<n>\1P3Divina\1Pn, on
+texto | Before the Dragon Balls, visit<n>\1P3Baba's\1Pn to meet your | (nova) | Antes das Esferas, vá à<n>\1P3Vovó\1Pn conhecer seu \42ajuda
+texto | The World Martial Arts Tournament is<n>here! First up, the \ | (nova) | Chegou o Torneio de Artes<n>Marciais! Primeiro, as \1P3elimi
+texto | A Dragon Ball is hidden in the<n>\1P3desert\1Pn. Track it do | (nova) | Há uma Esfera escondida no<n>\1P3Deserto\1Pn. Encontre-a!
+texto | Piccolo told you to get the<n>Devil's Bracelet back! | (nova) | O Piccolo mandou recuperar o<n>Bracelete do Diabo!
+texto | Goku and Chi-Chi get married! The<n>ceremony's at the Ox-Kin | (nova) | Goku e Chichi vão se casar! A<n>festa é no palácio do Cutelo
+texto | \24P3Welcome!<n>\24P3You can use @19\24P3 \1P3Zeni\1Pn (mone | (nova) | \24P3Bem-vindo!<n>\24P3Use o seu@19\24P3 \1P3Zeni\1Pn (dinhe
+texto | A mysterious crystal, related to the one<n>Fortuneteller Bab | (nova) | Um cristal misterioso, ligado ao que a<n>Vovó Uranai tem.
+texto | Makes Tien's Evil Containment Wave more<n>powerful. \1P3Stan | (nova) | Fortalece o Mafuba do Tenshinhan.<n>\1P3Reserva:\1Pn 100% de
+texto | Makes Tien's Evil Containment Wave much<n>more powerful. \1P | (nova) | Fortalece muito o Mafuba do<n>Tenshinhan. \1P3Reserva:\1Pn 1
+texto | Turns defeated enemies into carrots. No Zeni<n>can be obtain | (nova) | Transforma inimigos vencidos em<n>cenouras. Sem Zeni. \1P3Re
+texto | Raises poison resistance; makes gas<n>floors safe. \1P3Stand | (nova) | Resist. a Veneno; anda em chão de<n>gás. \1P3Reserva:\1Pn 50
+texto | Raises thunder defense; makes electric<n>floors safe. \1P3St | (nova) | Resist. a Raio; anda em chão<n>elétrico. \1P3Reserva:\1Pn 50
+texto | Raises poison/lightning/fire/ice<n>resistance. \1P3Standby:\ | (nova) | Resist. a Veneno/Raio/Fogo/Gelo.<n>\1P3Reserva:\1Pn 50% de e
+texto | Occasionally poisons enemies at start<n>of battle. \1P3Stand | (nova) | Às vezes envenena inimigos no início<n>da luta. \1P3Reserva:
+texto | Raises the maximum size of the Ki-blast<n>meter on the field | (nova) | Aumenta o medidor de Rajada de Ki<n>no mapa
+texto | Lets you evade the next attack with good chance | (nova) | Boa chance de esquivar o próximo ataque
+texto | Can be sold for lots of money. | (nova) | Vale um bom dinheiro na venda
+texto | Raises chance of critical attack for<n>several turns | (nova) | Aumenta a chance de crítico<n> por vários turnos

@@ -1,0 +1,18 @@
+EN n tabelas 35 35 | tabelas com bytes diferentes: ['enemy_param', 'character_name'] | tamanho 119572 -> 120052
+   enemy_param: tamanho 16432->16432 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x2ce slots 64
+   character_name: tamanho 5616->6096 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x3a slots 64
+US n tabelas 35 35 | tabelas com bytes diferentes: ['enemy_param', 'character_name'] | tamanho 120420 -> 120900
+   enemy_param: tamanho 16432->16432 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x2ce slots 64
+   character_name: tamanho 5616->6096 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x3a slots 64
+FR n tabelas 35 35 | tabelas com bytes diferentes: ['enemy_param', 'character_name'] | tamanho 112932 -> 113412
+   enemy_param: tamanho 16432->16432 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x2ce slots 64
+   character_name: tamanho 4736->5216 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x3a slots 64
+SP n tabelas 35 35 | tabelas com bytes diferentes: ['enemy_param', 'character_name'] | tamanho 108036 -> 108516
+   enemy_param: tamanho 16432->16432 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x2ce slots 64
+   character_name: tamanho 4496->4976 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x3a slots 64
+GR n tabelas 35 35 | tabelas com bytes diferentes: ['enemy_param', 'character_name'] | tamanho 108308 -> 108804
+   enemy_param: tamanho 16432->16432 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x2ce slots 64
+   character_name: tamanho 4576->5072 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x3a slots 64
+IT n tabelas 35 35 | tabelas com bytes diferentes: ['enemy_param', 'character_name'] | tamanho 107428 -> 107924
+   enemy_param: tamanho 16432->16432 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x2ce slots 64
+   character_name: tamanho 4544->5040 | cabecalho difere em [] ([]) | colunas/hash difere 0 bytes | hash_off 0x3a slots 64

@@ -1,0 +1,114 @@
+### 0 [cf1/c02/c0201_00.sb]
+<p>Well, he said I needed more training... but what should I do, exactly?<k>
+### 1 [cf1/c02/c0201_00.sb]
+<p>...Yamcha?<k><p>You've been training for ages now... Why don't you stay here and rest up a little?<k>
+### 2 [cf1/c02/c0201_00.sb]
+<p>I'd like to, but Krillin said he'd go back to Orin Temple to train, so...<k><p>If I let up now, I'll wind up falling way behind him and everyone else.<k>
+### 3 [cf1/c02/c0201_00.sb]
+<p>You think so? Hmmm...<k><p>Oh, I know!<k>
+### 4 [cf1/c02/c0201_00.sb]
+<p>Yeah?<k>
+### 5 [cf1/c02/c0201_00.sb]
+<p>If Krillin went back to Orin, what do you think about going back to our old hideout?<k><p>That'd be the perfect spot to pick up your training!<k>
+### 6 [cf1/c02/c0201_00.sb]
+<p>Oh, yeah! Man, I haven't been there in ages, too!<k><p>Sparring with my old bandit buddies sounds like a great idea!<k>
+### 7 [cf1/c02/c0201_00.sb]
+<p>Hooraaaay!<k><p>In that case, I'll go run over there now and clean up the place for you!<k>
+### 8 [cf1/c02/c0201_00.sb]
+<p>...Cool. Thanks!<k><p>(This'll be so sweet! I think I'll head off myself!)<k>
+### 9 [cf1/c02/c0201_01.sb]
+<p>Boy, does this bring me back!<k><p>It really feels like I'm back home now!<k>
+### 10 [cf1/c02/c0201_01.sb]
+<p>...?<n>Sure is quiet... I've got kind of a bad feeling about this.<k>
+### 11 [cf1/c02/c0201_01.sb]
+<p>Huh?!<k>
+### 12 [cf1/c02/c0201_01.sb]
+<p>What is that...?<k>
+### 13 [cf1/c02/c0201_02.sb]
+<p>...Who's this guy?<k>
+### 14 [cf1/c02/c0201_02.sb]
+<p>...!!<k><p>Puar! What the heck happened here?!<k>
+### 15 [cf1/c02/c0201_02.sb]
+<p>We've got big trouble, Yamcha! I tried getting to the hideout, but Monster Carrot is going crazy!<k><p>He turned all our old bandit friends into carrots, one by one!<k>
+### 16 [cf1/c02/c0201_02.sb]
+<p>Monster Carrot?! I thought Goku took him up to the moon...<k>
+### 17 [cf1/c02/c0201_02.sb]
+<p>He did!<k><p>I don't know why, but he's back here again. I disguised myself as a carrot to get out of trouble!<k>
+### 18 [cf1/c02/c0201_02.sb]
+<p>...Gehh! That guy never gives up, I swear!<k>
+### 19 [cf1/c02/c0201_02.sb]
+<p>Yamcha... he's headed for your hideout!<k>
+### 20 [cf1/c02/c0201_02.sb]
+<p>Really?!<k><p>...Looks like I'm going to have to teach him another lesson.<k><p>Puar, could you go on ahead and see what he's up to?<k>
+### 21 [cf1/c02/c0201_02.sb]
+<p>Sure thing! Leave it to me!<k>
+### 22 [cf1/c02/c0202_00.sb]
+<p>Yamcha! Over here!<k>
+### 23 [cf1/c02/c0202_00.sb]
+<p>Heh heh!<k><p>I never would've imagined seeing you here. I don't remember inviting you to my house.<k>
+### 24 [cf1/c02/c0202_00.sb]
+<p>Ho ho ho... we meet again, eh?<k><p>As of this moment, this shall be the base of operations for my brand-new Rabbit Gang.<k>
+### 25 [cf1/c02/c0202_00.sb]
+<p>You're starting up the Rabbit Gang again?!<k>
+### 26 [cf1/c02/c0202_00.sb]
+<p>I sure am. And let me tell you, after that brat shot me to the moon...<k><p>It took me a lot of time and effort to make it back here. It was really annoying.<k>
+### 27 [cf1/c02/c0202_00.sb]
+<p>Brat...? You mean Goku?<k>
+### 28 [cf1/c02/c0202_00.sb]
+<p>Ho ho ho ho ho... That was his name, yeah.<k><p>The experience did wonders for my fighting skills, though.<k><p>I won't be the embarrassment I was in the past, I warn you.<k>
+### 29 [cf1/c02/c0202_00.sb]
+<p>...Geh.<k>
+### 30 [cf1/c02/c0202_00.sb]
+<p>Yamcha, be careful!<k>
+### 31 [cf1/c02/c0202_00.sb]
+<p>This is a shabby place, isn't it?<k><p>Oh well, I suppose I can live with it...<k><p>This is just a foothold, a starting point. It doesn't need to be spotless.<k>
+### 32 [cf1/c02/c0202_00.sb]
+<p>Grrr! You're gonna pay for that...!<k>
+### 33 [cf1/c02/c0202_00.sb]
+<p>Hmmm? Oh, did you want to fight me?<k><p>All right, then... Come get some!<k>
+### 34 [cf1/c02/c0203_00.sb]
+<p>Eee! Ahhhhhh...!<n>P-please, forgive me!!<k>
+### 35 [cf1/c02/c0203_00.sb]
+<p>Heh heh... I thought you said you'd improved?<k>
+### 36 [cf1/c02/c0203_00.sb]
+<p>Oh, no no no no!<k><p>Compared to you, I, I... ohhhh...<k>
+### 37 [cf1/c02/c0203_00.sb]
+<p>You called my hideout <d>shabby,<d> didn't you?<k>
+### 38 [cf1/c02/c0203_00.sb]
+<p>Oh, no, I...<k><p>I, I meant to say that your hair was looking a bit shaggy...<k>
+### 39 [cf1/c02/c0203_00.sb]
+<p>...Ah, whatever. I hope you're ready for this... I won't be as kind as Goku was.<k>
+### 40 [cf1/c02/c0203_00.sb]
+<p>Hah!!!<k>
+### 41 [cf1/c02/c0203_00.sb]
+<p>Gah! I'll do anything! Anything you want! Please forgive me!<k>
+### 42 [cf1/c02/c0203_00.sb]
+<p>Anything, you say?<k>
+### 43 [cf1/c02/c0203_00.sb]
+<p>Y-yes, yes! Please, tell me anything you need!<k>
+### 44 [cf1/c02/c0203_00.sb]
+<p>Hmm... well, for starters, how about you make this shabby place spotless for me?<k>
+### 45 [cf1/c02/c0203_00.sb]
+<p>Whaaaaaaaat?!<k>
+### 46 [cf1/c02/c0203_00.sb]
+<p>What, don't you like to clean?<k>
+### 47 [cf1/c02/c0203_00.sb]
+<p>O-of course I do!! I'll do it, I'll do it! Eh heh heh heh heh...<k>
+### 48 [cf1/c02/c0203_00.sb]
+<p>Great job, Yamcha!<k><p>Monster Carrot was so dangerous, but you knocked him out, just like that!<k>
+### 49 [cf1/c02/c0203_00.sb]
+<p>You think I'm that strong?<k>
+### 50 [cf1/c02/c0203_00.sb]
+<p>Oh, absolutely!<k><p>I bet that you could even beat Goku by now, Yamcha!<k>
+### 51 [cf1/c02/c0203_00.sb]
+<p>Ah, don't be stupid! That guy's doing some kinda crazy training right now with Kami!<k><p>That bunny weirdo's a total wuss compared to that!<k><p>I've got to find some tougher training... I need to get stronger!<k>
+### 52 [cf1/c02/c0203_00.sb]
+<p>Yamcha...<k>
+### 53 [cf1/c02/c0203_00.sb]
+<p>Puar!!<k>
+### 54 [cf1/c02/c0203_00.sb]
+<p>Yes, Yamcha!<k>
+### 55 [cf1/c02/c0203_00.sb]
+<p>Starting tomorrow, my training plan's gonna be more intense than ever before!<k><p>You think you can help me out?!<k>
+### 56 [cf1/c02/c0203_00.sb]
+<p>Y-you got it!<k>

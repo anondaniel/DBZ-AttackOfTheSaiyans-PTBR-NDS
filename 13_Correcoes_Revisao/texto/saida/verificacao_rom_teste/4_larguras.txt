@@ -1,0 +1,30 @@
+erros: 0; avisos: 8
+== PAGINAS E LINHAS DE FALA (quebra em 196 px na fonte pequena) ==
+aviso script/EN/cf0/skr/skr02_00.sb:49: linha manual com 218px (> 196, mas o original tinha 245px): 'Sentimos o tremor da explosão na Cidade do Leste.'
+aviso script/EN/cf1/c02/c0201_01.sb:11: linha manual com 240px (> 196, mas o original tinha 241px): 'Está quieto demais... Estou com um mau pressentimento.'
+aviso script/EN/cf1/c09/c0903_03.sb:14: linha manual com 205px (> 196, mas o original tinha 217px): 'Eu sou o ogro mais forte depois do Senhor Enma!'
+aviso script/EN/cf1/c12/c1201_00.sb:14: linha manual com 247px (> 196, mas o original tinha 280px): 'Estou procurando por ele desde cedo e ainda não achei...'
+
+== ROTULOS DE QUEM FALA ==
+maior rotulo original: 81 px
+    77px x8 'Princesa Serpente'
+    72px x2 'Kuririn e M. Kame'
+    67px x2 'Piccolo e Gohan'
+    66px x4 'Coelho Monstro'
+    63px x2 'Cutelo e Chichi'
+    63px x2 'Bulma e Kuririn'
+    63px x2 'Kuririn e Gohan'
+    59px x2 'Oolong e Puar'
+    59px x4 'Polvo Gigante'
+    58px x4 'General White'
+    56px x2 'Goku e Bulma'
+    54px x38 'Senhor Kaioh'
+    53px x158 'Mestre Kame'
+    53px x28 'Mestre Karin'
+    52px x18 'Senhor Enma'
+
+== TABELAS: largura x maior original do grupo (lingua, tabela, coluna, com/sem <n>, nome/descricao) ==
+aviso US:character_name:120:us: largura peq 92/92 gr 111/106 acima do maior original do grupo (+5 px; nome de inimigo, tolerancia de 5 px) | 'Brutamontes Campeão'
+aviso US:character_name:130:us: largura peq 95/92 gr 110/106 acima do maior original do grupo (+4 px; nome de inimigo, tolerancia de 5 px) | 'Robô Pirata das Areias'
+aviso EN:character_name:120:en: largura peq 92/92 gr 111/106 acima do maior original do grupo (+5 px; nome de inimigo, tolerancia de 5 px) | 'Brutamontes Campeão'
+aviso EN:character_name:130:en: largura peq 95/92 gr 110/106 acima do maior original do grupo (+4 px; nome de inimigo, tolerancia de 5 px) | 'Robô Pirata das Areias'

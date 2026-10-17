@@ -1,0 +1,838 @@
+== 1. COBERTURA DA FONTE ==
+latin0.fnt caracteres >=0x80 usados: [81][86][87][89]°ÀÁÂÃÉÊÍÓÔàáâãçéêíóôõú
+latin0.fnt sem glifo (listra/vazio): []
+latin1.fnt caracteres >=0x80 usados: [81][86][87][89]°ÀÁÂÃÉÊÍÓÔàáâãçéêíóôõú
+latin1.fnt sem glifo (listra/vazio): []
+
+== 2. MARCACOES (EN x PT) ==
+
+== 3. PALAVRAS EM INGLES DENTRO DO PT ==
+cf0/bam/bam02_00.sb:17 me |  As aparências enganam... ele me pegou de jeito... 
+cf0/bud/bud01_00.sb:14 me |  Claro. Deixem-me orgulhoso! 
+cf0/bud/bud01_00.sb:38 me |  espírito está firme... Não há nada que me assuste... 
+cf0/bud/bud01_00.sb:46 me |  O Tenshinhan me contou a história. Vou torcer por você 
+cf0/bud/bud01_00.sb:108 me | eu num instante no último torneio! Você me dá nojo! 
+cf0/bud/bud01_00.sb:112 me |  pra saber da Cidade do Leste! Parem de me perguntar isso, gente! 
+cf0/bud/bud02_00.sb:104 me | sto não é circo coisa nenhuma, é? Estão me enganando? 
+cf0/bud/bud02_00.sb:113 me |  Nunca me paqueraram tanto. É assim que é o amor?
+cf0/bud/bud02_00.sb:127 me |  Só estou me escondendo um pouquinho. Não conte pra 
+cf0/bud/bud02_00.sb:133 use | ta é a saída. Se quiser entrar, volte e use a entrada da direita. 
+cf0/bud/bud04_00.sb:86 me | fermaria. Não faça nenhuma besteira que me obrigue a fazer hora extra, tá? 
+cf0/bud/bud05_00.sb:107 me |  Kuririn! Eu imploro, me treine! Quero ficar mais forte! 
+cf0/est/est02_00.sb:43 me | Orin!  Ah, para de mentir! Você só quer me assustar de novo! 
+cf0/est/est04_00.sb:34 me | Ei, já arrumou namorada? Tem alguém pra me apresentar? 
+cf0/fur/fur01_00.sb:34 me |  Acho que eu também tenho que começar a me cuidar! 
+cf0/god/god01_00.sb:57 me | aí, Kuririn! Se estiver em apuros, é só me chamar. Chego rapidinho! 
+cf0/god/god03_00.sb:20 me |  Ah. Vocês têm monstros.  Deixem-me ver... 
+cf0/gok/gok03_00.sb:16 me | rigo e tudo, mas tenho medo de a Chichi me matar primeiro... 
+cf0/hii/hii03_00.sb:13 Me |  Ainda estou com sono! Me deixa dormir mais um pouquinho! 
+cf0/jin/jin01_00.sb:45 me |  A minha amada me espera no pé daquela montanha mais alta
+cf0/jin/jin02_00.sb:15 me | plosão na Cidade do Leste. Que medo que me dá... 
+cf0/jin/jin02_00.sb:19 me | nunca!  Pedi pra minha filha mais velha me ajudar, mas não faço ideia de onde ela 
+cf0/jin/jin03_00.sb:32 me | mundo está em perigo! Preciso fumar pra me acalmar...!  Aaaaah, cadê o meu cachimb
+cf0/jin/jin04_00.sb:35 me | Leste. Isso, mais as estrelas cadentes, me preocupa muito. 
+cf0/jin/jin04_00.sb:41 Me | sto que tem algum vilão por trás disso. Me dá tanta raiva! 
+cf0/kam/kam01_00.sb:17 me |  Eu me lembro do Mestre Kame visitando aquela 
+cf0/kam/kam01_00.sb:27 me |  Estão me chamando... Preciso ir. 
+cf0/kam/kam01_00.sb:58 me | tar à Chichi que o Goku morreu...? Isso me deixa com o coração pesado... 
+cf0/kam/kam01_00.sb:134 me |  Deixem-me explicar o que significa esta marca aqu
+cf0/kar/kar03_00.sb:40 me | vantarem para proteger a Terra.  Deixem-me dar uma coisinha para ajudar. 
+cf0/pao/pao04_00.sb:26 me | ntrusos, e eu... eu não vou deixar você me vencer! 
+cf0/skr/skr01_00.sb:26 me | ! Você! Continuo treinando pra você não me vencer! Hi-iaah! 
+cf0/skr/skr02_00.sb:51 me |  O Bora me disse pra ter calma, mas não consigo...
+cf0/skr/skr06_00.sb:11 for |  o quanto quiser, mas, se o coração não for igualmente firme...  Não vai conseguir 
+cf0/skr/skr06_00.sb:11 for | firme...  Não vai conseguir agir quando for preciso. É um equilíbrio difícil. 
+cf0/tut/tut01_00.sb:16 Continue | s você enfrentar, mais forte vai ficar! Continue assim e a gente vai ficar tão forte qua
+cf0/tut/tut01_00.sb:19 use | ela pedra piscando? Chegue perto dela e use uma Rajada de Ki para destruí-la. 
+cf0/tut/tut02_00.sb:49 use | r ela normalmente te machucaria...  Mas use uma cápsula na tela de baixo e escolha 
+cf0/wst/wst01_00.sb:15 Me |  Ai, ai... Me empolguei. Comprei uma cápsula nova sem
+cf0/wst/wst02_00.sb:35 me |  Que tédio... Queria que alguém me levasse pra passear de carro. 
+cf0/wst/wst03_00.sb:20 me | nto mais! Estou vendo tudo girar! Estou me sentindo... blérrgh! 
+cf0/wst/wst03_00.sb:21 me | , ai... acabou tudo... não consigo mais me controlar... 
+cf0/wst/wst03_00.sb:48 me |  Com estas, você já me deu   cenouras no total. 
+cf0/wst/wst03_00.sb:49 me | e ficar com isto em troca. Obrigado por me ajudar. 
+cf0/wst/wst03_00.sb:50 me |  Cem cenouras! Você já me deu mais de cem cenouras!  Ahh... que m
+cf0/wst/wst03_00.sb:51 me | u... Quinhentas!  500 cenouras...! Você me deu 500 cenouras!  Nem sei o que dizer.
+cf0/wst/wst03_00.sb:52 me |  acredito...! Não acredito mesmo!  Você me deu 1000 cenouras! Mil inteirinhas!  Nã
+cf0/wst/wst04_00.sb:65 me |  Se não tiver um problema a tratar, não me incomode. 
+cf0/wst/wst05_00.sb:42 for | os detalhes, mas está feia a coisa!  Se for parecido comigo sem maquiagem, então de
+cf0/wst/wst05_00.sb:44 me | m uma aparência ótima!  Vocês nunca vêm me visitar. Francamente! Eu fico sozinha, 
+cf0/wst/wst05_00.sb:49 me | , eu não sou bandido nem nada! Só estou me abrigando aqui um pouquinho! 
+cf0/wst/wst05_00.sb:59 me | ......  ......  Estou dormindo. Pare de me incomodar. 
+cf0/wst/wst05_00.sb:65 me | ando penso nisso, não consigo deixar de me sentir constrangido... 
+cf1/c00/c0000_99.sb:27 Me | Me deixe podre de rico
+cf1/c00/c0000_99.sb:33 me |  Muito bem. Permitam-me aumentar sua experiência. 
+cf1/c00/c0001_00.sb:16 me |  Zzz... Goku... obrigado por me reviver...  No próximo Torneio de Artes
+cf1/c00/c0002_01.sb:12 me |  Hmm? O que foi?  Vocês não vão me vencer sem usar seus golpes especiais e
+cf1/c00/c0003_00.sb:20 me |  Isso! Minha irmã Uranai me deu isto há muito tempo...  Mas desde q
+cf1/c01/c0101_00.sb:13 me |  Ah, bom... Com certeza eles já me perdoaram! Vamos ver o que estão fazend
+cf1/c01/c0103_00.sb:12 me |  Eu... eu desculpa! Eu me rende... 
+cf1/c01/c0103_00.sb:20 me |  ...Eu quer que as pessoas me reconhece. 
+cf1/c01/c0103_00.sb:23 me |  Desde pequena, o povo sempre me compara com ela... Eu odeia isso.  Meu 
+cf1/c01/c0103_00.sb:23 me | tra para ela.  Eu achava que meu pai ia me reconhecer se eu treinasse e superasse 
+cf1/c01/c0103_00.sb:28 me | vergonha no treinamento, e foi isso que me fez crescer!  Claro que ainda tenho mui
+cf1/c01/c0103_00.sb:31 me |  ...Você me perdoa? 
+cf1/c01/c0103_01.sb:32 me |  Ei, me ensina umas técnicas da Tartaruga quand
+cf1/c02/c0201_02.sb:17 me | ndou!  Não sei como, mas ele voltou. Eu me disfarcei de cenoura para escapar! 
+cf1/c02/c0202_00.sb:13 me | Rê rê!  Nunca imaginei te ver aqui. Não me lembro de ter te convidado para a minha
+cf1/c02/c0202_00.sb:18 me | u te contar: depois que aquele pirralho me mandou para a lua...  Levei muito tempo
+cf1/c02/c0203_00.sb:10 me |  Iii! Ahhhhhh...! P-por favor, me perdoe!! 
+cf1/c02/c0203_00.sb:19 me | er coisa! O que você quiser! Por favor, me perdoe! 
+cf1/c02/c0203_00.sb:35 me | er mais puxado do que nunca!  Você topa me ajudar?! 
+cf1/c03/c0301_00.sb:24 for | que eu vou encontrar o caminho certo se for até lá? 
+cf1/c03/c0302_00.sb:14 me |  Então venha, liberte-me... 
+cf1/c03/c0302_01.sb:13 Me |  Nós temos um trato... Me dê o meu poder! 
+cf1/c03/c0302_02.sb:16 me | ?!  ...M-M-Mestre Mutaito?! Ah, Mestre, me perdoe!  Eu fui ganancioso, e agora est
+cf1/c03/c0302_02.sb:30 me |  tenho que proteger o Chaos... ele, que me quer bem como a um irmão! 
+cf1/c03/c0303_00.sb:32 me |  Hê hê... Eu sabia que você viria me ajudar, Tenshinhan. 
+cf1/c03/c0303_01.sb:22 me | a chegar lá...  Acho que é isso que vai me tornar forte de verdade, como o Goku...
+cf1/c04/c0401_00.sb:34 me |  ...e me deixou para trás, é claro. 
+cf1/c04/c0401_00.sb:52 me |  Quê? Vocês não me reconhecem só porque estou com isto na 
+cf1/c04/c0401_00.sb:54 me |  Mas tem uma coisa me incomodando... Vocês todos encolheram, 
+cf1/c04/c0401_03.sb:20 me |  O Kami-Sama me contou que o Piccolo cuspiu mais um ovo
+cf1/c04/c0401_03.sb:50 me | undo será meu!  Um belo mundo demoníaco me aguarda! 
+cf1/c04/c0401_04.sb:10 me | . Por que você está se segurando?  Está me medindo, é? 
+cf1/c04/c0401_04.sb:17 me | a alguém tão talentoso quanto você está me deixando empolgado! 
+cf1/c04/c0401_04.sb:29 me | vai pagar por isso! Como eu deixei você me encurralar desse jeito?  Prepare-se par
+cf1/c04/c0402_00.sb:21 me |  ......  Ei! Tenshinhan! Você tem que me matar!  É o único jeito de ele morrer! 
+cf1/c04/c0402_00.sb:25 me | do, antes que seja tarde!  Eu não posso me matar! É o único jeito de salvar o Goku
+cf1/c04/c0402_02.sb:25 me |  Já disse, é só me reviver com o Shenlong! 
+cf1/c04/c0402_03.sb:43 me |   Hoje eu deixo a luta com você...  Mas me aguarde. Um dia desses eu vou te derrot
+cf1/c04/c0402_04.sb:19 me |  Ohhh! Quase me esqueci! Você é um recém-casado agora, 
+cf1/c04/c0402_04.sb:24 me |   Não há mais ninguém no mundo capaz de me suceder! 
+cf1/c05/c0501_00.sb:22 me |   Puxa, eu disse mesmo! Eu disse que ia me casar com você! 
+cf1/c05/c0501_04.sb:13 Use |  Goku! Use o seu Kamehameha para apagar o fogo! 
+cf1/c05/c0502_01.sb:13 me |  Ei, hã, Vovó...? Pode me dizer onde está o Leque Bashô? 
+cf1/c05/c0502_01.sb:14 me | m 200 anos...  Ai, nem tenho vontade de me mexer... Atchim!! 
+cf1/c05/c0502_02.sb:16 me |  Annin... Faz tempo que ninguém me chama assim. 
+cf1/c05/c0502_03.sb:45 for |  Se aquele fogo não for apagado, o Cutelo vai morrer queimado! 
+cf1/c05/c0502_03.sb:48 me |  Eu... eu não sei, tá?!  Só me diga logo como desligar a fornalha! 
+cf1/c05/c0502_03.sb:50 me |  Mas antes, deixe-me testar vocês para ver o quanto estão fa
+cf1/c05/c0503_00.sb:17 for |  Aham.  Se a fornalha for desligada, aquela névoa também vai sumi
+cf1/c05/c0504_00.sb:30 Me | ou deixar você ficar com toda a glória! Me leva junto também, Goku! 
+cf1/c05/c0505_00.sb:10 me |  Se dá valor à sua vida, me dê esse ovo!  Quando queremos alguma co
+cf1/c05/c0508_01.sb:9 me | m celebrar o meu casamento!  Ahhh, isso me deixa tão feliz! 
+cf1/c06/c0602_00.sb:25 me | ira.  Agora é a minha vez, não é? Deixe-me mostrar um golpe de verdade... 
+cf1/c06/c0602_00.sb:29 me | estava tremendo tanto que nem conseguia me mexer! 
+cf1/c06/c0603_00.sb:17 me | ão uns ingratos! Não custava nada virem me visitar mais... 
+cf1/c06/c0603_00.sb:20 me |  Ora! Não precisava...  Você não podia me dar algo mais... pessoal? 
+cf1/c06/c0603_00.sb:24 me | ta? Como é que eu vou saber, hein?  Ele me aprontou vezes demais, então nem avisei
+cf1/c06/c0604_00.sb:29 me |  Hê hê hê... Já me reconheceu? 
+cf1/c06/c0604_00.sb:32 me |  Pode parar de me chamar de Kaka-sei-lá-o-quê, tá? O meu 
+cf1/c06/c0604_00.sb:34 me |  ...Bati sim, na verdade!  Não me lembro de nada, mas foi quando eu era b
+cf1/c06/c0604_00.sb:39 me |  Goku... isso me lembra uma história que o seu avô me co
+cf1/c06/c0604_00.sb:39 me | so me lembra uma história que o seu avô me contou uma vez.  Um dia ele achou um be
+cf1/c06/c0604_00.sb:42 Me |  O-olha, quem é você, afinal?! Me diga! 
+cf1/c06/c0604_00.sb:48 me | rar ele assim já estou com medo.  Nunca me senti assim antes. 
+cf1/c06/c0604_00.sb:59 me | erado! Você sabe disso!  ...Espere. Não me diga... O seu rabo! O que aconteceu com
+cf1/c06/c0604_00.sb:62 me |  planeta e tenho outro nome e tal?  Não me importa nem se você é meu irmão. Isso n
+cf1/c06/c0604_00.sb:66 me | ! Enquanto eu viver, juro que nunca vou me juntar a vocês! 
+cf1/c06/c0604_00.sb:69 me |  Não tente me enganar, Kakarotto.  Aquele rabo é toda
+cf1/c06/c0604_00.sb:90 me |  E nem pense em me desafiar!  Os seus poderes incompletos 
+cf1/c06/c0605_00.sb:35 me |  Acho que sim... mas por que você quer me ajudar de repente? 
+cf1/c06/c0605_00.sb:36 me |  Não me entenda mal... Não sou nenhum defensor 
+cf1/c06/c0605_00.sb:36 me |  sou nenhum defensor da liberdade.  Não me importa o que acontece com o seu filho.
+cf1/c06/c0605_00.sb:37 me |  Depois que eu me juntar a você para vencê-lo e aqueles d
+cf1/c06/c0605_00.sb:40 me | isamos ser pacientes, Goku.  A ideia de me aliar a você me dá náuseas, mas vou ter
+cf1/c06/c0605_00.sb:40 me | ntes, Goku.  A ideia de me aliar a você me dá náuseas, mas vou ter que aguentar. 
+cf1/c06/c0605_00.sb:41 Me |  Ei, Bulma! Me empresta o seu radar? 
+cf1/c06/c0605_04.sb:20 me | ... esta coisa deve estar quebrada. Não me assuste assim! 
+cf1/c06/c0607_00.sb:10 me |  ...Ah, sim.  Deixem-me contar uma coisa antes de vocês morrere
+cf1/c06/c0607_00.sb:26 me |  Ha ha ha ha há!  Não me venha com essa!  Você não tem como salv
+cf1/c06/c0607_00.sb:32 me | da!  Vai ser mais fácil para os dois se me deixarem matá-los agora! 
+cf1/c06/c0607_00.sb:62 me | a, ora. Então você era o outro, é? Como me encontraram? 
+cf1/c06/c0607_00.sb:70 me | ou mesmo que vocês dois juntos poderiam me vencer, achou? 
+cf1/c06/c0607_00.sb:79 me |  Não me façam rir!  Não acredito que é só isso 
+cf1/c06/c0608_00.sb:30 me | lém disso, foi você que estava tentando me matar agora há pouco! Não tente se safa
+cf1/c06/c0608_00.sb:45 me | aaah rá rá!  Muito bem, sua vez! Vamos, me acerte! Qual é o problema? Solte outro 
+cf1/c06/c0608_01.sb:35 me |  não? Porque ele é só uma criança?  Não me venha com mentiras! O nível de poder de
+cf1/c06/c0608_01.sb:42 Me | daquele pirralho roubou o meu poder...  Me solte, Kakarotto! Não percebe que o ata
+cf1/c06/c0608_01.sb:46 me |  Não vou me segurar por você, Goku...  Vocês dois m
+cf1/c06/c0608_01.sb:48 Me |  Me solte!! Isto... isto é tudo culpa minha
+cf1/c06/c0608_01.sb:49 me |  Você não me engana com essa duas vezes! 
+cf1/c06/c0608_02.sb:20 me | olhos...  E talvez eu peça para eles... me ressuscitarem com essas... suas esferas
+cf1/c06/c0608_03.sb:19 me |  O Gohan está desmaiado, mas me parece bem. 
+cf1/c06/c0608_99.sb:26 me | lém disso, foi você que estava tentando me matar agora há pouco! Não me venha com 
+cf1/c06/c0608_99.sb:26 me | a tentando me matar agora há pouco! Não me venha com mentiras! 
+cf1/c06/c0609_00.sb:20 me |  Essas Esferas do Dragão me intrigam... Ele disse que elas realizam
+cf1/c07/c0701_00.sb:30 me | curem as esferas o quanto quiserem. Não me importa.  Nem o Kami-Sama tem o poder d
+cf1/c07/c0704_00.sb:18 me |  Ah, não...! Por favor! Não me deixa aqui! 
+cf1/c07/c0704_00.sb:27 me |  Espera! Tô com medo! Não me deixa aqui!! 
+cf1/c07/c0704_01.sb:16 me |  O que me convenceu foi ver o que aconteceu com a
+cf1/c07/c0705_01.sb:18 Me |  Pirralho idiota. Me fazendo perder todo esse tempo com ele.
+cf1/c07/c0705_03.sb:23 Me | lua foi mesmo a coisa certa a fazer...  Me dá medo só de pensar no que aconteceria
+cf1/c08/c0801_01.sb:17 me |  Que ótimo... Nem me lembre... 
+cf1/c08/c0801_01.sb:26 me |  Isso. Pode me trazer um  Circuito de Precisão  quando
+cf1/c08/c0803_04.sb:14 me |  Quem liga pro Goku! Eu me preocupo é com o Gohan!  Meu pobre Goha
+cf1/c08/c0804_00.sb:25 Me |  Kuririn, não entendi nada...  Me conte o que houve, mas mais devagar ago
+cf1/c08/c0804_00.sb:30 me |  ...Bom, a Lunch anda me seguindo ultimamente... 
+cf1/c08/c0804_00.sb:31 me |  A-a Lunch?! Não me diga... Ela ainda anda atrás de você, é
+cf1/c08/c0804_01.sb:17 Me | ver!  Nem te conto o sufoco que passei! Me perdi procurando aquela tal flor Jacint
+cf1/c08/c0804_01.sb:23 me | ão vim até aqui à toa, sabia?  Se ficar me tratando como estorvo, vai se ver comig
+cf1/c08/c0804_01.sb:25 me | cupado comigo? Então para de frescura e me leva junto...  A... A...  Atchim!!! 
+cf1/c08/c0804_03.sb:19 me |  Hunf! Eu sei me cuidar. 
+cf1/c08/c0805_01.sb:21 me |  não!!  Não depois do vexame que o Goku me fez passar no último Torneio de Artes M
+cf1/c08/c0806_03.sb:14 me |  ...Vejamos...  Ahh! Que água boa vocês me trouxeram... 
+cf1/c08/c0807_00.sb:13 me |  Parece que tem alguém me observando... 
+cf1/c08/c0807_00.sb:16 me |  passaram seis meses, será que ele veio me buscar? 
+cf1/c08/c0807_02.sb:13 me |  !!  É o homem verde! Sabia que vinha me salvar!! 
+cf1/c08/c0808_01.sb:21 me |  ...Eu tenho que me segurar em você?? 
+cf1/c08/c0808_01.sb:23 me |  Não, espera! Se me deixar aqui, eu morro! 
+cf1/c08/c0808_01.sb:27 Me |  ...Me chame como quiser... 
+cf1/c09/c0901_01.sb:30 me |  Ah, perdoe-me, por favor! Não achei que fosse ouvir..
+cf1/c09/c0902_00.sb:32 me | ar o Mestre Kame pra esperar um ano pra me reviver! 
+cf1/c09/c0903_00.sb:14 me | ue você acha que eu faço? O Senhor Enma me pediu pra limpar a estrada. 
+cf1/c09/c0903_04.sb:15 Me |  Sério? Me conta! 
+cf1/c09/c0903_04.sb:20 Me |  Me conta!! Por favor!! 
+cf1/c09/c0903_04.sb:23 me |  Eu vou sair correndo...  Se conseguir me pegar, eu te conto da passagem secreta.
+cf1/c09/c0904_01.sb:14 me |  Ei, me dá uma fruta daquela árvore... 
+cf1/c09/c0904_01.sb:22 Me |  Agora, promessa é promessa. Me mostra a saída! 
+cf1/c09/c0904_01.sb:23 me |  Não vale, me pegou desprevenido! Só mais uma vez... 
+cf1/c09/c0905_02.sb:33 me |  que vive aqui há 1500 anos!  Como ousa me envergonhar desse jeito?  Você não vai 
+cf1/c09/c0907_01.sb:39 me | ......  Você devia estar tão nervoso de me conhecer que nem ouviu... 
+cf1/c09/c0907_01.sb:49 me |  Agora o senhor me treina? 
+cf1/c09/c0907_01.sb:50 me | se passar no meu teste...  Se conseguir me fazer rir, aceito treinar você! 
+cf1/c09/c0907_01.sb:52 me | m que ser muito engraçado pra conseguir me fazer rir! 
+cf1/c09/c0907_01.sb:62 me |  Certo. Tente me atacar. Vamos ver do que é capaz. 
+cf1/c09/c0907_02.sb:14 me |  para dominá-la...  Queria que o senhor me treinasse até eles chegarem. 
+cf1/c09/c0907_02.sb:26 me |  Isso mesmo. Ou seja, você tem que me superar.  Se não superar, não há espera
+cf1/c09/c0907_03.sb:25 me |  ...Floresta do Enma?  O Mez e o Goz me disseram que a fruta da Árvore do Enma 
+cf1/c09/c0907_03.sb:27 me |  Ah... Bom, ele me ajudou antes...  Beleza! Vou à Floresta
+cf1/c09/c0908_00.sb:15 Me |  ...Me impedir?  Da outra vez, vocês mal me ve
+cf1/c09/c0908_00.sb:15 me | ...Me impedir?  Da outra vez, vocês mal me venceram, e eram dois!  Com o poder da 
+cf1/c09/c0908_02.sb:21 me | tinha mandado avisar todo mundo pra não me reviver por um ano... 
+cf1/c09/c0908_02.sb:25 me | o adianta treinar um ano se não puderem me reviver! 
+cf1/c10/c1001_00.sb:46 me |  Bom, não vim pra me misturar com idiotas como vocês...  Vim
+cf1/c10/c1001_00.sb:48 me |  Eu já disse, não vou me misturar com vocês, cabeças-duras...  V
+cf1/c10/c1001_00.sb:49 for |  Bom, seja qual for o motivo, é bom ter ajuda...  Primeira 
+cf1/c10/c1003_00.sb:19 me |  ...Maligna? Isso me cai muito bem... 
+cf1/c10/c1004_00.sb:17 me |  Heh heh heh.  O Senhor Kaioh me deixou ajudar a procurar as Esferas! 
+cf1/c10/c1005_03.sb:22 me |  Você me deixou preocupada! Mas... que bom que v
+cf1/c10/c1005_03.sb:27 me | o tempo!  Você continua pequeno como eu me lembrava... 
+cf1/c10/c1005_03.sb:38 me |  Você me salvou de novo...  Eu é que devia agrad
+cf1/c10/c1006_02.sb:13 Me |  Me conhece??  Heh heh... Fiquei famoso! 
+cf1/c10/c1006_02.sb:16 me | r isso antes...  Mas chega! Um exército me pediu pra proteger um tesouro aqui! 
+cf1/c10/c1006_02.sb:21 me |  Vocês estão começando a me irritar...  Estou com tanta fome que ac
+cf1/c10/c1008_02.sb:27 me |  Olá, garotos! Vocês já me humilharam demais no passado!  Agora, c
+cf1/c10/c1010_00.sb:13 me |  Chaos... Esta luta é por você...  Vou me juntar a você depois disto... Não quero
+cf1/c11/c1101_00.sb:21 me | s de Nemuria...  Foi lá que aquele robô me salvou quando eu me perdi, meio ano atr
+cf1/c11/c1101_00.sb:21 me |  lá que aquele robô me salvou quando eu me perdi, meio ano atrás...  Depois ele fi
+cf1/c11/c1103_01.sb:12 me |  Tomara que o robô que me salvou ainda esteja bem... 
+cf1/c11/c1103_04.sb:14 me |  ...m... mm... Hm? Quem me despertou...? 
+cf1/c11/c1103_04.sb:17 me |  Já faz meio ano que eu me perdi aqui!  ...Que bom que você está b
+cf1/c11/c1103_04.sb:17 me | ha sido esmagado pelas ruínas depois de me salvar! 
+cf1/c11/c1105_00.sb:11 me |  Oba! Você veio me salvar, né?! 
+cf1/c11/c1105_01.sb:28 me |  Acham que são malvados, é? Não me façam rir!  Eu vou mostrar o que é o ma
+cf1/c11/c1105_03.sb:18 me |  Mas...  O papai me disse que você não é tão mau quanto o P
+cf1/c12/c1204_00.sb:13 me |  Não me diga que já esqueceu a minha voz. 
+cf1/c12/c1204_00.sb:22 me |  Pra me vingar de você!  Você ficou forte demai
+cf1/c12/c1206_00.sb:34 me |  Vocês todos me superaram há muito tempo.  O Sr. Popo e
+cf1/c13/c1301_00.sb:15 me |  Tá! ...E o que o senhor vai me ensinar agora? 
+cf1/c13/c1301_00.sb:18 me | .  ...Primeiro, vá à Floresta do Enma e me traga o Cristal Espiritual! 
+cf1/c13/c1301_00.sb:26 me | e abrir...  Vá falar com o Montgomery e me traga o Cristal Espiritual! 
+cf1/c13/c1301_00.sb:32 me | algo que nem eu mesmo consegui...  Você me impressiona, Goku...  Mas peço que não 
+cf1/c13/c1303_00.sb:14 me |  Deixa pra lá!  Tenho que me apressar pra aprender a Genki Dama com 
+cf1/c13/c1303_00.sb:29 me |  O Senhor Kaioh me mandou achar o Cristal Espiritual! 
+cf1/c13/c1303_00.sb:35 me |  Então por que será que o Senhor Kaioh me mandou buscar um... 
+cf1/c13/c1304_00.sb:14 me | Espiritual que o senhor pediu!  Por que me fez ir buscar? O ancião disse que era s
+cf1/c13/c1304_00.sb:16 Me |  Vamos, Senhor Kaioh! Me ensina logo a Genki Dama! 
+cf1/c13/c1304_00.sb:33 use | planeta que está tentando proteger.  Só use se for preciso! 
+cf1/c13/c1304_00.sb:33 for |  que está tentando proteger.  Só use se for preciso! 
+cf1/c13/c1304_00.sb:39 me |  O senhor não pode me mandar pra Terra com um dos seus truque
+cf1/c13/c1304_00.sb:42 me |  Não precisa me lembrar! Eu também tenho direito de err
+cf1/c13/c1304_00.sb:47 me | me... Mestre Kame, sou eu, o Goku. Está me ouvindo?) 
+cf1/c13/c1305_00.sb:13 me |  (Ótimo! O senhor me ouviu! Ainda estou no Outro Mundo.  Est
+cf1/c13/c1305_00.sb:17 me |  pressa, mas podem invocar o Shenlong e me reviver agora?  Os Saiyajins chegam à T
+cf1/c13/c1305_00.sb:19 me |  (Rápido, Mestre Kame! Vou me atrasar um pouco.  Prometo que vou faze
+cf1/c13/c1306_00.sb:15 me |  Uau! Estou me sentindo bem mais leve! 
+cf1/c13/c1306_00.sb:18 me |  ...Ora, me desculpe... 
+cf1/c13/c1307_00.sb:35 me |  não é hora de brincadeira! É melhor eu me apressar! 
+cf1/c14/c1401_03.sb:22 me | uí um pouco desde a última vez que você me viu. 
+cf1/c14/c1402_00.sb:38 me |  Heh... Obrigado.  Vocês me ajudaram a entender quem eram os meus a
+cf1/c14/c1403_99.sb:10 Me |  ...Energia... ...Me deem um pouco da sua energia... 
+cf1/c14/c1404_00.sb:21 me |  Heh heh... Vou me divertir com vocês. 
+cf1/c14/c1404_02.sb:11 me |  É melhor eu me apressar! 
+cf1/c14/c1404_03.sb:24 me | pra visitar aquele ratinho! Depois você me agradece! 
+cf1/c14/c1405_00.sb:46 me |  Rápido... Resta-me pouco tempo...  A morte se aproxima cad
+cf1/c14/c1405_00.sb:47 me |  Kami-Sama... Não me diga que... 
+cf1/c14/c1405_01.sb:19 me |  O-o que foi, Vegeta...?! Por que me parou? 
+cf1/c14/c1405_01.sb:41 me |  D-desculpa... Desculpa, Vegeta...  Eu me empolguei... um pouco... 
+cf1/c14/c1406_01.sb:23 for |  em uns quatro minutos...  E, seja quem for, o nível de poder é de uns 5000! 
+cf1/c14/c1406_01.sb:31 Me |  Você? Me segurar? 
+cf1/c14/c1406_01.sb:32 me |  Seu pirralho idiota! Não me faça rir! 
+cf1/c14/c1407_00.sb:20 me |  Piccolo... Por que você me... salvou...? 
+cf1/c14/c1408_01.sb:23 me |  O Piccolo morreu me protegendo... 
+cf1/c14/c1408_03.sb:23 me |  Heh... heh heh heh... Acha que já me entendeu todinho, é?!  Quero ver como v
+cf1/c14/c1409_00.sb:38 me |  um guerreiro de classe baixa como você me fazer de bobo!! 
+cf1/c14/c1410_00.sb:14 Me |  V-Vegeta... Me ajude! 
+cf1/c14/c1410_00.sb:19 me |  Não precisa me agradecer... 
+cf1/c15/c1501_02.sb:13 me |  começou a lutar a sério ainda...  E já me supera em velocidade e em técnica. 
+cf1/c15/c1501_02.sb:16 me |  (Mas mesmo assim... Isso está me deixando tão empolgado! Não ligo pro pe
+cf1/c15/c1501_02.sb:26 me | ão tem como um Saiyajin de classe baixa me derrotar! 
+cf1/c15/c1501_99.sb:23 me | i-Sama aqui.  O Kami-Sama não ia querer me ver deprimido.  Vocês também deviam olh
+cf1/c15/c1502_00.sb:12 me |  Só me resta virar Oozaru e esmagá-lo!  Heh he
+cf1/c15/c1502_00.sb:13 me | a...  ...Mas nunca pensei que teria que me transformar pra vencê-lo!  Que vergonha
+cf1/c15/c1502_00.sb:21 me | ma pra vencer... Tomara que dê tempo de me concentrar...!) 
+cf1/c15/c1502_00.sb:27 for |  diferentes no universo, mas, seja qual for o tamanho, só a lua cheia chega aos 17 
+cf1/c15/c1502_02.sb:29 Me |  (Me perdoe, Vovô Gohan... Esse cara é forte
+cf1/c15/c1503_00.sb:10 me |  Que ótimo... Ele me... derrotou de vez...  Não achei que el
+cf1/c15/c1503_00.sb:25 me |  Não tem nada que eu possa fazer... Não me odeie, Goku... 
+cf1/c15/c1503_02.sb:12 me |  Haaaah rá rá rá!  Foi um erro você me desafiar desde o começo! 
+cf1/c15/c1504_00.sb:10 me | o arrebentado... Eu... não consigo mais me mexer...  V-você tem que lutar por mim.
+cf1/c15/c1504_00.sb:15 me | -não...  Eu... eu também... mal consigo me mexer... 
+cf1/c15/c1504_00.sb:20 me |  Você me deu bastante trabalho pra um lixo desse
+cf1/c15/c1504_01.sb:41 me | e você disse?!  O que você disse que ia me dar?! 
+cf1/c15/c1505_00.sb:36 Me |  Vocês, humanos...  Me fizeram gastar quase todo o meu poder..
+cf1/c15/c1505_00.sb:37 me |  Agora me façam o favor de morrer! 
+cf1/c15/c1506_00.sb:43 me |  Eu... eu não consigo me mexer...! 
+cf1/c16/c1602_00.sb:28 me |  Não! Não consigo me mexer! 
+cf1/c16/c1602_00.sb:35 me | o consigo falar muito alto...  Kuririn, me faz um favor... Deixa ele ir...  Por fa
+cf1/c16/c1602_00.sb:39 me | ar, mas...  Ver ele prestes a morrer... me fez pensar...) 
+cf1/c16/c1602_00.sb:43 me |  (Mas... Lá no fundo... Isso me deixou empolgado...  Igual com o Piccol
+cf1/c16/c1602_00.sb:45 Me | má decisão, mas... Por favor, Kuririn!  Me dá a chance de lutar com ele sozinho!) 
+cf1/c16/c1604_00.sb:32 me |  Tudo bem, eu dirijo. Já me acalmei... 
+cf1/c16/c1610_05.sb:8 Attack |   Dragon Ball Z  Attack of the Saiyans -EQUIPE-
+cf1/c16/c1610_05.sb:8 of |   Dragon Ball Z  Attack of the Saiyans -EQUIPE-
+cf1/c16/c1610_05.sb:8 the |   Dragon Ball Z  Attack of the Saiyans -EQUIPE-
+btl_mes_TUT:7:us use | Se houver membros na reserva, use o comando  Trocar  para trocar os aliad
+btl_mes_TUT:27:us Use | ogo, estas técnicas são poderosíssimas. Use-as  quando o Medidor de Fúria estiver c
+btl_mes_TUT:31:us Use | sar itens no Torneio de Artes Marciais. Use a Defesa Ativa para receber o mínimo de
+cf_mes_TUT:1:us Use |  Bem-vindo!  Use o seu    Zeni  (dinheiro)  para  compra
+cf_mes_MENU:13:us for | pido concluído. Ele será apagado quando for carregado.
+cf_mes_MENU:38:us Use | Use AP para aprender técnicas
+cf_mes_MENU:52:us Use | Escolha o tipo de técnica. Use AP para aprender ou melhorar técnicas.
+cf_mes_MENU:59:us Use | Use   AP para aprender
+cf_mes_MENU:60:us Use | Use   AP para melhorar
+cf_mes_MENU:124:us Attack | Os dados de Dragon Ball Z: Attack of the Saiyans estão corrompidos e serã
+cf_mes_MENU:124:us of | Os dados de Dragon Ball Z: Attack of the Saiyans estão corrompidos e serão a
+cf_mes_MENU:124:us the | Os dados de Dragon Ball Z: Attack of the Saiyans estão corrompidos e serão apaga
+cf_mes_QUEST:51:us Use | Goku entrou! Use o Radar do Dragão para achar onde estão
+cf_mes_SHOP:26:us me | ue vai vender? Tenho certeza de que vai me dar coisas ótimas.
+cf_mes_SHOP:50:us me | O que vai vender? Não me interesso por lixo.
+cf_mes_SHOP:58:us me | Vai me dar a sua coleção?
+cf_mes_SHOP:60:us me | Compro com prazer. Quantos vai me passar?
+cf_mes_SHOP:65:us Me | Qual você quer? Me avise se quiser comprar alguma coisa.
+cf_mes_SHOP:66:us Me | O que quer que eu compre? Me diga o que está vendendo.
+cf_mes_COMBO:20:us for | ara cima do inimigo: soco, chute, o que for preciso!
+use_item_mes:175:us Use | Use para ganhar 1500 AP
+contagem: [('me', 274), ('oh', 22), ('use', 15), ('item', 15), ('for', 12), ('menu', 4), ('attack', 2), ('of', 2), ('the', 2), ('continue', 1)]
+
+== 4. FRANCES ==
+
+== 5. NOMES E TERMOS (contagem de variantes, por ocorrencia de texto unico) ==
+Kuririn            {'Kuririn': 225}
+Tenshinhan         {'Tenshinhan': 172}
+Chaos/Chaozu       {'Chaos': 72}
+Mestre Kame        {'Mestre Kame': 133, 'Kame': 20}
+Kaioh              {'Senhor Kaioh': 87, 'Kaioh': 8}
+Kami-Sama          {'Kami-Sama': 135, 'Kami': 2}
+Popo               {'Sr. Popo': 86, 'Popo': 1}
+Karin              {'Karin': 43, 'Mestre Karin': 32}
+Enma               {'Senhor Enma': 32, 'Enma': 24}
+Uranai             {'Vovó Uranai': 52, 'Uranai': 2}
+Cutelo             {'Cutelo': 38}
+Chichi             {'Chichi': 107}
+Lunch              {'Lunch': 48}
+Saiyajin           {'Saiyajin': 91, 'Saiyan': 3}
+Kakarotto          {'Kakarotto': 64}
+Oozaru             {'Oozaru': 5}
+Saibaman           {'Saibamen': 8, 'Saibaman': 1}
+Esferas            {'Esferas do Dragão': 131, 'Esfera do Dragão': 30, 'Esfera': 24, 'Esferas': 11, 'Dragon Ball': 3}
+Shenlong           {'Shenlong': 17}
+Semente            {'Sementes dos Deuses': 10, 'Semente dos Deuses': 3}
+Nuvem              {'Nuvem Voadora': 7}
+Red Ribbon         {'Red Ribbon': 9, 'RR': 8}
+Coelho             {'Coelho Monstro': 8, 'Gangue do Coelho': 2}
+Serpente           {'Princesa Serpente': 15, 'Princesa': 2}
+Piccolo Daimaoh    {'Piccolo Daimaoh': 10}
+Namek              {'namekuseijin': 10, 'Namekusei': 5}
+Numero 8           {'Número 8': 27}
+Shen               {'Mestre Shen': 3, 'Tsuru': 1}
+Torneio            {'Torneio de Artes Marciais': 23, 'Torneio': 3}
+Kamehameha         {'Kamehameha': 5}
+Genki Dama         {'Genki Dama': 24}
+Makankosappo       {'Makankosappo': 3, 'Canhão': 3}
+Kaioken            {'Kaioken': 9}
+Scouter            {'Scouter': 2, 'Detector': 1}
+Kami-Sama templo   {'Templo de Kami-Sama': 3}
+Yajirobe           {'Yajirobe': 16, 'Yajiroba': 1}
+Mestre Mutaito     {'Mutaito': 22}
+Jackie Chun        {'Jackie Chun': 2}
+Bastao             {'Bastão Mágico': 2}
+Kienzan            {'Kienzan': 3}
+Taiyoken           {'Taiyoken': 4}
+
+== 6. PADROES DE ORTOGRAFIA/GRAMATICA ==
+-- sem acento
+   cf/las05_battle_event.sb:25 | A vida do seu filho patético acaba aqui! 
+   cf0/bam/bam02_00.sb:14 |  Muito obrigado! 
+   cf0/bud/bud01_00.sb:34 |  Participantes, obrigado pela paciência.  Estamos prontos p
+   cf0/bud/bud01_00.sb:98 | morar. Por que tem tanta gente por aqui? 
+   cf0/bud/bud01_00.sb:101 |  Este lugar está virando ponto turístico, a me
+   cf0/bud/bud01_00.sb:104 |  Nossa, como faz calor aqui. Mal consigo aguentar. 
+   cf0/bud/bud01_00.sb:113 | stá tão longe! Não adianta esperar aqui! 
+   cf0/bud/bud02_00.sb:107 |  Nossa, há quantos anos eu estou aqui...? 
+   cf0/bud/bud02_00.sb:111 |  Uhuu! Acho que vou morar aqui de agora em diante! 
+   cf0/bud/bud02_00.sb:124 | antas grandes lutas já aconteceram aqui... 
+   cf0/bud/bud02_00.sb:132 |  Por aqui dá pra sair.  Hã? Você já sabia? B
+   cf0/bud/bud02_00.sb:139 |  Aqui é um beco sem saída, tá?! 
+   cf0/bud/bud03_01.sb:11 |  Os tempos andam difíceis por aqui. Podiam pelo menos deixar um pouco
+   cf0/bud/bud05_00.sb:101 | ! Você é incrível! O seu nome está aqui! 
+   cf0/bud/bud05_00.sb:111 |  Por acaso estávamos aqui na hora, então estamos a salvo... 
+   cf0/bud/bud05_00.sb:113 | tá tudo bem?  Viemos todos treinar aqui, no centro do mundo das artes marc
+   cf0/bud/bud05_00.sb:114 | todos do Templo Orin. Afinal, este lugar é praticamente o lar das artes mar
+   cf0/bud/bud05_00.sb:118 | ... Sinto que quase poderia dormir aqui mesmo. 
+   cf0/enm/enm02_00.sb:11 |  Hum? Você ainda está aqui?  O Senhor Kaioh fica do outro lad
+   cf0/enm/enm02_00.sb:26 |  Não volte mais aqui! 
+   cf0/est/est04_00.sb:36 |  Que bom te ver aqui! Todo mundo está treinando pesado 
+   cf0/est/est06_00.sb:14 |  Não sei o que tem aqui dentro. Tome cuidado. 
+   cf0/fur/fur01_00.sb:26 |  O Leque Bashô? Já disse, não está aqui. Já disse.  Aliás, nem acredito qu
+   cf0/god/god01_00.sb:40 |  Tem certeza? Isto aqui é bem perigoso, então tome cuidado
+   cf0/god/god03_00.sb:25 |  monstros!  Tomem. Como prometido, aqui está a recompensa. 
+   cf0/god/god03_00.sb:27 |  monstros!  Tomem. Como prometido, aqui está a recompensa. 
+   cf0/god/god03_00.sb:29 |  monstros!  Tomem. Como prometido, aqui está a recompensa. 
+   cf0/god/god03_00.sb:31 | e existem!  Tomem. Como prometido, aqui está a recompensa. 
+   cf0/god/god03_00.sb:36 | a e o Sr. Popo devem dormir juntos aqui. 
+   cf0/hel/hel02_00.sb:12 | e dizer...!  Ah, não, Tamao! Justo aqui!  ...Aaaaaah!!  O-o quê? O que foi
+   cf0/hii/hii03_00.sb:29 | n? O que será que eu estou fazendo aqui? 
+   cf0/jin/jin01_00.sb:56 |  Oh! É você! Ei, obrigada de novo por tudo!  O Número 8 está
+   cf0/jin/jin02_00.sb:13 | estrela cadente pode cair em você! Aqui dentro é bem mais seguro! 
+   cf0/jin/jin02_00.sb:20 |  Ei, pessoal! Obrigado por tudo!  Aqueles dois estão mais
+   cf0/jin/jin03_00.sb:37 | de aventura enfeita a mesa. Alguém aqui deve gostar deles. 
+   cf0/jin/jin04_00.sb:38 |  Oh, céus! Muito obrigada por toda a ajuda.  O Número 8 tamb
+   cf0/jin/jin04_00.sb:42 | lvo. Graças a vocês.  Muito, muito obrigado. 
+   cf0/kam/kam01_00.sb:18 | lgo sobre não querer deixar aquilo aqui, senão ia perder como perdeu o Leq
+   cf0/kam/kam01_00.sb:72 | r na Vila Jingle.  Ele escolheu um lugar bem gelado para treinar. 
+   cf0/kam/kam01_00.sb:134 | xplicar o que significa esta marca aqui. 
+   cf0/kar/kar01_00.sb:12 | osso. Parece que ninguém a usa por aqui. 
+   cf0/krd/krd03_00.sb:32 |  Aqui fica uma estátua de Mutaito, mestr
+   cf0/nem/nem03_00.sb:20 | e tem uma bateria reserva em algum lugar das ruínas? 
+   cf0/nem/nem03_00.sb:23 | ocê não tem mais motivo para estar aqui. Siga em frente e busque o seu fut
+   cf0/pao/pao04_00.sb:27 |  Vou ficar torcendo aqui mesmo! Aguentem firme, pessoal! 
+   cf0/pao/pao04_00.sb:34 |  Uma espada grande está largada aqui. 
+   cf0/pir/pir07_00.sb:18 |  Tem algum tipo de botão aqui. Apertar? 
+   cf0/pir/pir10_00.sb:31 |  uma mesa de pingue-pongue montada aqui. 
+   cf0/pir/pir10_00.sb:32 | rtas e um tabuleiro estão largados aqui, abandonados no meio da partida. 
+   cf0/pir/pir10_00.sb:33 |  escultura de dragão. O dono deste lugar deve gostar de dragões. 
+   cf0/pir/pir10_00.sb:34 | e parecem caros estão enfileirados aqui. 
+   cf0/skr/skr01_00.sb:16 |  Obrigado por virem. Somos o povo que guarda
+   cf0/skr/skr02_00.sb:59 | ente do rio dentro da caverna é um lugar sagrado. Ninguém pode chegar perto
+   cf0/skr/skr04_00.sb:12 | rada de Karin.  Um grupo se reuniu aqui e formou uma aldeia, seguindo as c
+   cf0/tut/tut01_00.sb:14 |  Hmm? Tem alguma coisa aqui perto... 
+   cf0/ura/ura02_00.sb:17 |  Estou deitado aqui esse tempo todo, então estou começ
+   cf0/ura/ura02_00.sb:20 |  tonto. Quando é que eu vou ganhar aqui? 
+   cf0/wst/wst01_00.sb:21 |  Odeio quando estacionam carro aqui... acho que vou pichar ele. 
+   cf0/wst/wst01_00.sb:22 |  com a Cidade do Leste... será que aqui é o próximo?!  Que medo...! O que 
+   cf0/wst/wst03_00.sb:49 | mim. Pode ficar com isto em troca. Obrigado por me ajudar. 
+   cf0/wst/wst03_00.sb:52 | o? Você é tão bom pra mim... Muito obrigado...!  Este é o maior presente que p
+   cf0/wst/wst03_00.sb:52 | maior presente que posso te dar... Obrigado! Ai, obrigado! 
+   cf0/wst/wst03_00.sb:52 |  que posso te dar... Obrigado! Ai, obrigado! 
+   cf0/wst/wst03_00.sb:53 | seguir, te dou a chave de um certo lugar...  Um lugar onde repousa um item 
+   cf0/wst/wst03_00.sb:53 | u a chave de um certo lugar...  Um lugar onde repousa um item lendário, esp
+   cf0/wst/wst04_00.sb:61 | r cumprimentar a gente? Já moramos aqui faz um tempo.  Pois é! Acho que já
+   cf0/wst/wst04_00.sb:62 |  Ahh, que vida boa aqui dentro! Será que a gente pode pega
+   cf0/wst/wst04_00.sb:63 | asa é enorme! Dava pra gente morar aqui e ninguém ia perceber!  Ah, com ce
+   cf0/wst/wst05_00.sb:48 |  que quentinho... Parece o paraíso aqui dentro! 
+   cf0/wst/wst05_00.sb:49 | do nem nada! Só estou me abrigando aqui um pouquinho! 
+   cf0/wst/wst05_00.sb:64 | a salvo só porque por acaso estava aqui. Foi pura e simples sorte.  O que 
+   cf0/wst/wst05_00.sb:65 |  Todos aqui aproveitam a boa sorte como se tiv
+   cf0/wst/wst05_00.sb:66 |  O lugar onde estamos agora é um ambiente s
+   cf0/wst/wst06_00.sb:74 | r de revistinhas picantes está bem aqui! 
+   cf0/yun/yun01_01.sb:18 |  Há um objeto de aparência bizarra aqui. 
+   cf1/c00/c0000_99.sb:29 | Ir a um lugar novo
+   cf1/c00/c0001_00.sb:16 |  Zzz... Goku... obrigado por me reviver...  No próximo Torn
+   cf1/c00/c0001_00.sb:26 |  Escutem aqui, seus esquisitos! Até quando vocês
+   cf1/c00/c0001_99.sb:9 | ilômetros de qualquer cidade...  É aqui que começa a nossa incrível, espan
+   cf1/c00/c0002_00.sb:10 |  Ho ho ho! Que bom ver todos vocês aqui! 
+   total 306
+-- acento indevido
+   total 0
+-- mal/mau
+   total 0
+-- a gente + vamos
+   total 0
+-- agente/derrepente/concerteza
+   total 0
+-- há/a tempo
+   cf0/bud/bud02_00.sb:128 |  Faz anos que não vejo o meu marido. Talvez seja
+   total 1
+-- crase suspeita
+   total 0
+-- por que/porque
+   cf1/c06/c0608_01.sb:35 |  Por que não? Porque ele é só uma criança?  Não me venh
+   total 1
+-- mais/mas
+   cf1/c01/c0102_00.sb:26 |  Eu não sou mais o lutador que eu era, Mestre! 
+   total 1
+-- onde/aonde
+   total 0
+-- seje/menas
+   total 0
+-- pra mim fazer
+   total 0
+-- hífen pós-reforma
+   cf0/ura/ura01_00.sb:10 | ?  Que tipo de ondas? Bom, sei lá! Micro-ondas? Ondas cósmicas?  ...Ai, não, toma
+   btl_acc_mes:207:us | Permite contra-atacar o inimigo (Pouca chance)
+   btl_acc_mes:209:us | Permite contra-atacar o inimigo (Muita chance)
+   btl_acc_mes:225:us | Chance de contra-atacar com a Defesa Ativa
+   total 4
+-- minúscula após ponto
+   cf0/bam/bam02_00.sb:15 |  Ai... isso doeu... 
+   cf0/bam/bam02_00.sb:17 |  As aparências enganam... ele me pegou de jeito... 
+   cf0/bam/bam02_00.sb:19 |  Argh... o que está acontecendo...? 
+   cf0/bam/bam02_00.sb:22 |  O Templo Orin foi atacado... mas ouvi dizer que o agressor foi de
+   cf0/bud/bud01_00.sb:111 |  Que tédio... o meu pai ainda deve estar paquerand
+   cf0/bud/bud02_00.sb:104 |  Espera... isto não é circo coisa nenhuma, é? E
+   cf0/bud/bud02_00.sb:114 |  Bom... acho que um drinque eu até aceitaria
+   cf0/bud/bud02_00.sb:120 |  Argh... que tédio. Fico desanimado se não es
+   cf0/bud/bud02_00.sb:126 |  Zzz... zzz... Hã?! 
+   cf0/bud/bud02_00.sb:129 |  Não acho o meu marido... e agora estou ficando com sono. 
+   cf0/bud/bud02_00.sb:137 |   Arf! Arf arf! Arf arf barf barf... ai, errei! 
+   cf0/bud/bud05_00.sb:104 |  Que choque... o nosso templo e a nossa terra natal
+   cf0/bud/bud05_00.sb:111 | ui na hora, então estamos a salvo... mas temo pelos que não estavam. 
+   cf0/enm/enm01_00.sb:13 |  Você quer... voltar para a Terra? 
+   cf0/est/est01_00.sb:35 | amos no chinês do kung fu!  Vamos... o quê? Vou fingir que não ouvi isso.
+   cf0/est/est02_00.sb:40 |  Hmm... o que é aquela loja? É enorme... o q
+   cf0/est/est02_00.sb:40 | ... o que é aquela loja? É enorme... o que será que vendem? 
+   cf0/est/est02_00.sb:44 |  Hmm... o rabanete está barato hoje. Acho qu
+   cf0/est/est06_00.sb:11 | responsáveis por esta carnificina... ou é o que dizem. 
+   cf0/god/god03_00.sb:18 |  que encontrarem pelo mundo.  Hmm... mas só capturar não tem muita graça.
+   cf0/gog/gog08_00.sb:10 |  Nossa... você é forte demais... 
+   cf0/gok/gok03_00.sb:13 | a, deve ser um alienígena e tanto... explodindo uma cidade inteira desse 
+   cf0/jin/jin02_00.sb:16 |  A minha neta é tão moleca... deixo ela sair e ela nunca mais volt
+   cf0/kai/kai01_00.sb:56 |  Crec... nhéc...! 
+   cf0/kai/kai04_00.sb:15 |  Nhéc... crec...! 
+   cf0/kam/kam01_00.sb:62 |  P-por favor... não importa o que aconteça, tomem cu
+   cf0/kam/kam01_00.sb:85 |  Ei... o garoto tem rabo. 
+   cf0/kar/kar03_00.sb:40 |  A nossa era acabou... está na hora de vocês, os mais joven
+   cf0/nem/nem03_00.sb:20 |  Hã... parece que a bateria desse homem-rob
+   cf0/pao/pao04_00.sb:26 | ndo a casa dele de intrusos, e eu... eu não vou deixar você me vencer! 
+   cf0/pir/pir02_00.sb:15 |  Um retrato do Pilaf... nada lisonjeiro. 
+   cf0/skr/skr02_00.sb:60 |  Ei... o que aconteceu com a Cidade do Lest
+   cf0/sna/sna06_00.sb:13 | tá a cadeira da Princesa Serpente... mas nada da Princesa Serpente. 
+   cf0/spi/spi08_00.sb:12 | minha...  Será que ele quis dizer... o Goku?!!  É melhor eu ir ao Mestre 
+   cf0/ura/ura01_00.sb:14 |  Ah, uma visita... heh heh heh. Por favor, pode entrar.
+   cf0/ura/ura02_00.sb:16 |  Zzz... zzz...  Aaah!! 
+   cf0/ura/ura02_00.sb:23 |  Tããão... leeeentooo... Miaaaauuuu... 
+   cf0/ura/ura02_00.sb:24 |  Tão... lento... Mi... au... 
+   cf0/ura/ura02_00.sb:24 |  Tão... lento... Mi... au... 
+   cf0/ura/ura03_00.sb:87 |  A Terra já é perigosa o bastante... e agora alguém está tentando destruí
+   cf0/wst/wst01_00.sb:19 |  Nossa... quando vi, já tinha rabiscado essa c
+   cf0/wst/wst01_00.sb:20 |   Proibido... estacionar!  Pronto! Ficou perfeito!
+   cf0/wst/wst01_00.sb:20 | onto! Ficou perfeito!  Ah, espera... melhor escrever  Você está atrapalha
+   cf0/wst/wst01_00.sb:21 | deio quando estacionam carro aqui... acho que vou pichar ele. 
+   cf0/wst/wst01_00.sb:22 | es acabaram com a Cidade do Leste... será que aqui é o próximo?!  Que med
+   cf0/wst/wst02_00.sb:23 | ó... Estou arrasado.  Não adianta... a pizza acabou comigo. A pizza e as 
+   cf0/wst/wst02_00.sb:36 | e do Leste. Mas lugares como este... são bem mais seguros. 
+   cf0/wst/wst03_00.sb:20 | ndo tudo girar! Estou me sentindo... blérrgh! 
+   cf0/wst/wst03_00.sb:21 |  Ai, ai... acabou tudo... não consigo mais me c
+   cf0/wst/wst03_00.sb:21 |  Ai, ai... acabou tudo... não consigo mais me controlar... 
+   cf0/wst/wst03_00.sb:22 |  Que inveja dessas crianças... heh heh. 
+   cf0/wst/wst03_00.sb:29 |  o Lait-Lait! Aceita um café?  Hã... esse Lait-Lait é algo que se põe no 
+   cf0/wst/wst03_00.sb:40 |  Aquele cara é tão esquisito... sempre falando essas maluquices. Dá 
+   cf0/wst/wst03_00.sb:44 |  Ahh... cenouras... maravilhosas, maravilhos
+   cf0/wst/wst03_00.sb:44 |  Ahh... cenouras... maravilhosas, maravilhosas cenouras.
+   cf0/wst/wst03_00.sb:45 |  Cenouras... você tem cenouras? 
+   cf0/wst/wst03_00.sb:50 | me deu mais de cem cenouras!  Ahh... que maravilha... Você tem que ficar 
+   cf0/wst/wst03_00.sb:53 |  Hã... posso te pedir 1000 cenouras? Seria 
+   cf0/wst/wst03_00.sb:55 |  Sabe... eu queria ter pelo menos 100 delas..
+   cf0/wst/wst03_00.sb:56 |  Cenouras... não vivo sem cenouras... 
+   cf0/wst/wst03_00.sb:57 |  Ei... você tem cenouras...? 
+   cf0/wst/wst03_00.sb:58 |  Ah... que pena... 
+   cf0/wst/wst06_00.sb:77 |  Então isto liga nisto... e aquilo liga lá...  Ahh, não entend
+   cf1/c00/c0001_00.sb:16 |  Zzz... Goku... obrigado por me reviver...  No próxi
+   cf1/c00/c0001_00.sb:16 | próximo Torneio de Artes Marciais... eu juro que vou... zzz... 
+   cf1/c00/c0001_00.sb:16 | Artes Marciais... eu juro que vou... zzz... 
+   cf1/c00/c0001_00.sb:21 |  Ah... ahhh... ahhhh-tchiiim!! 
+   cf1/c00/c0001_00.sb:21 |  Ah... ahhh... ahhhh-tchiiim!! 
+   cf1/c00/c0001_00.sb:23 |  É... está mesmo... ahh... ahhhhh... 
+   cf1/c00/c0001_00.sb:23 |  É... está mesmo... ahh... ahhhhh... 
+   cf1/c00/c0001_00.sb:23 |  É... está mesmo... ahh... ahhhhh... 
+   cf1/c00/c0001_00.sb:27 |  C-certo... tá bom... 
+   cf1/c00/c0002_00.sb:18 |  Sim... exatamente. 
+   cf1/c00/c0002_01.sb:14 |  Nnngh... nada mal... 
+   cf1/c00/c0002_01.sb:34 |  Ahhh... se não são os garotos do torneio! O 
+   cf1/c00/c0002_02.sb:16 |  Diz aí... você não acha que o Jackie Chun pode
+   cf1/c00/c0003_00.sb:16 |  Sim... esta é mesmo a bola de cristal de vi
+   cf1/c01/c0102_00.sb:13 |  Errr... ghhh... Quem é você...? 
+   cf1/c01/c0102_00.sb:15 |  Oh... ohhhh! Você não estava treinando com
+   cf1/c01/c0102_00.sb:29 |  Mestre... o senhor não precisa se preocupar.  
+   total 433
+-- espaço antes de pontuação
+   cf/las05_battle_event.sb:26 |  !!  PEGUEI ELE!!! 
+   cf0/bud/bud03_00.sb:9 | rça há de pagar por isso mais tarde . 
+   cf0/est/est02_00.sb:45 |  Ei, sabe o que são  técnicas ? Dizem que ajuda muito conhecer!  E
+   cf0/est/est07_00.sb:15 | Rajada de Ki agora está no nível  2 !  Agora você destrói objetos que pi
+   cf0/est/est07_00.sb:16 | Rajada de Ki agora está no nível  3 !  Agora você destrói todos os objet
+   cf0/for/for01_00.sb:16 |  Usar  Coisa do Bubbles ? 
+   cf0/hii/hii03_00.sb:20 |  sei o que quer dizer  perdidamente , mas... 
+   cf0/kam/kam01_00.sb:135 |  Isto é o que chamamos de  Ponto CC . 
+   cf0/kos/kos01_00.sb:34 | o, ou as fadas vão ficar  enfadadas ! Rá! 
+   cf0/tut/tut02_00.sb:49 | e baixo e escolha a  Máscara de Gás , e não vai ter problema.  Ande um p
+   cf0/tut/tut02_00.sb:51 | ê tem que equipar a  Máscara de Gás , senão vai morrer!  Escolha Cápsula
+   cf0/ura/ura03_00.sb:92 |  Recebeu  5000 Zeni ! 
+   cf1/c00/c0000_99.sb:34 | Ganhou  experiência !
+   cf1/c00/c0000_99.sb:36 | Ganhou  AP !
+   cf1/c00/c0000_99.sb:38 | Ganhou  Zeni !
+   cf1/c00/c0002_01.sb:28 |  !!! Quem é VOCÊ, hein?! Mostra a car
+   cf1/c01/c0102_00.sb:17 | z dizer  Vou acabar com o seu dojo! , e quando dei por mim, isto tinha a
+   cf1/c02/c0203_00.sb:15 | mou o meu esconderijo de  chiqueiro , não chamou? 
+   cf1/c04/c0401_02.sb:18 |  Entre eles estava  Piccolo Jr. , a reencarnação de Piccolo Daimaoh.
+   cf1/c04/c0401_04.sb:22 |  V-vocês chamam isso de  se medir ?! 
+   cf1/c06/c0602_00.sb:12 |  !!!  D-de onde vem esse poder?! É in
+   cf1/c06/c0602_00.sb:26 |  !!!  Sinto outro poder por perto! É 
+   cf1/c06/c0604_00.sb:28 |  !!!  U... um rabo!  Esse cara tem ra
+   cf1/c06/c0607_00.sb:58 |  !!  Não acredito! Eles estão mesmo a
+   cf1/c07/c0701_00.sb:18 |  ?!  Ei, falando nisso... como o irmã
+   cf1/c07/c0702_00.sb:13 | Cof! Cof, cof...  Uff, uff, uff...  ?! 
+   cf1/c08/c0801_01.sb:24 | eu tivesse um  Circuito de Precisão .  Deve ter um lá em casa, na Cidade
+   cf1/c08/c0801_01.sb:27 |  Um  Circuito de Precisão ? ...Tá bom. Então vou dar uma passa
+   cf1/c08/c0804_01.sb:27 |  !!  Todo mundo aqui... O que está ac
+   cf1/c08/c0806_03.sb:39 |  !! Esqueci completamente de você! 
+   cf1/c08/c0806_03.sb:40 |  ?!?! Como pôde?! 
+   cf1/c08/c0807_00.sb:15 |  !! Não, espera, tem alguém ali! 
+   cf1/c08/c0807_00.sb:16 |  !!  Parece o Ki daquele homem verde!
+   cf1/c08/c0807_02.sb:13 |  !!  É o homem verde! Sabia que vinha
+   cf1/c08/c0808_01.sb:17 |  !!  ...Se não acharmos todas, não va
+   cf1/c09/c0908_00.sb:13 |  ?! ...Kakarotto?  Achei que uma hora
+   cf1/c09/c0908_02.sb:21 |  !! Vovó Uranai!! O que a senhora faz
+   cf1/c10/c1002_01.sb:20 | estão  As Chamas da Fornalha Mágica . Podem levar! 
+   cf1/c10/c1002_03.sb:10 |  ! Pai! Tem uns homens estranhos anda
+   cf1/c10/c1003_02.sb:10 |  ! O quê?! 
+   cf1/c10/c1003_03.sb:10 |  ! ...Esse cara de novo!  Vamos derru
+   cf1/c10/c1007_01.sb:13 |  ?! A-aquilo é uma Águia da Areia!  A
+   cf1/c11/c1104_01.sb:11 |  ! Areia movediça?! 
+   cf1/c12/c1206_00.sb:31 |  ? ...Algo engraçado? 
+   cf1/c14/c1401_00.sb:64 |  !  Achei! Dois níveis de poder altos
+   cf1/c14/c1401_03.sb:10 |  !  O quê?! Tem alguém vindo de outra
+   cf1/c14/c1402_00.sb:29 |  ?! ...um namekuseijin...? 
+   cf1/c14/c1406_01.sb:26 |  ! E-e as Esferas do Dragão?! 
+   cf1/c14/c1408_02.sb:22 |  ?! Vai lutar com eles sozinho?!  Nem
+   cf1/c14/c1409_00.sb:29 |  ! Ah, não! Tenho que salvar eles! 
+   cf1/c15/c1501_00.sb:23 |  Como assim,  revivermos eles ?  O Piccolo e o Kami-Sama morreram.
+   cf1/c15/c1502_00.sb:14 |  ? Que estranho...  A lua já devia te
+   cf1/c15/c1503_02.sb:25 |  ?! Tem alguém aí! Onde está? 
+   cf1/c15/c1504_00.sb:17 |  !! Nnngh!  Argh! Cof... cof... 
+   cf1/c15/c1505_00.sb:48 |  ?! O quê?! 
+   cf1/c16/c1601_00.sb:23 |  Como assim,  provavelmente ?!  Provavelmente  não basta! 
+   cf1/c16/c1605_00.sb:31 |  ?! Sério? 
+   cf1/c16/c1605_00.sb:32 | nha.  Chamaram ele de  namekuseijin . Parece que o Piccolo e o Kami-Sama
+   cf1/c16/c1606_00.sb:8 |   Onde fica esse planeta  Namekusei ?  Será que eles vão mesmo achar nov
+   btl_mes_SYS:33:us | Recuperou  .
+   btl_mes_ITM:0:us | Usou  .
+   btl_mes_ITM:1:us |   usou   em  .
+   btl_mes_TUT:3:us |  Atacar   : Ataca os inimigos  Item     : Usa 
+   btl_mes_TUT:3:us | car   : Ataca os inimigos  Item     : Usa um item  Técnica  : Usa Ki num
+   btl_mes_TUT:3:us | s  Item     : Usa um item  Técnica  : Usa Ki numa técnica  Defender : De
+   btl_mes_TUT:3:us | ca  : Usa Ki numa técnica  Defender : Defende e reduz o dano
+   btl_mes_TUT:5:us | oria das lutas com o comando  Fugir . Se falhar, o personagem não poderá
+   btl_mes_TUT:9:us | tordoamento, Congelamento e Cenoura .
+   btl_mes_TUT:19:us | do seu personagem. De cima: aperte  ,   ou  . Tente apertar logo antes d
+   btl_mes_TUT:19:us | ersonagem. De cima: aperte  ,   ou  . Tente apertar logo antes de levar 
+   btl_mes_TUT:27:us | do o Medidor de Fúria estiver cheio .
+   btl_mes_TUT:41:us |  Piccolo  aprendeu  Makankosappo .
+   cf_mes_TUT:1:us | r o que não precisa por  mais  Zeni .
+   cf_mes_TUT:5:us |  Acessórios , de lojas e masmorras, dá para equi
+   cf_mes_MENU:0:us | Obteve    !
+   cf_mes_MENU:90:us | Obteve        !
+   cf_mes_MENU:91:us | Obteve anotação do S-Combo    !
+   cf_mes_QUEST:0:us | Kuririn volta ao  Templo Orin , seu antigo lar.
+   cf_mes_QUEST:1:us | che o culpado na  Floresta de Bambu !
+   cf_mes_QUEST:2:us | Problemas na  Montanha Paozu . O que são todas essas cenouras?
+   total 102
+-- sem espaço após vírgula
+   total 0
+-- pontuação duplicada
+   cf0/hel/hel02_00.sb:12 | T-T-Tamako! E-eu preciso te dizer...!  Ah, não, Tamao! Justo aqui!  ...A
+   cf0/jin/jin03_00.sb:32 | igo! Preciso fumar pra me acalmar...!  Aaaaah, cadê o meu cachimbo?! Ai,
+   cf0/kai/kai01_00.sb:56 |  Crec... nhéc...! 
+   cf0/kai/kai04_00.sb:15 |  Nhéc... crec...! 
+   cf0/pao/pao06_00.sb:34 |  Kakarotto...! 
+   cf0/ura/ura03_00.sb:104 | ccolo... Muito bem.  Nnnnnnnnnngh...!  Kaaaaahhh!!! 
+   cf0/ura/ura03_00.sb:109 | amcha... Muito bem.  Nnnnnnnnnngh...!  Kaaaaahhh!!! 
+   cf0/ura/ura03_00.sb:114 | inhan... Muito bem.  Nnnnnnnnnngh...!  Kaaaaahhh!!! 
+   cf0/wst/wst01_00.sb:22 |  que aqui é o próximo?!  Que medo...! O que eu vou fazer?! Estou com mui
+   cf0/wst/wst03_00.sb:49 |  Ah...! Você trouxe cenouras pra mim. Pode
+   cf0/wst/wst03_00.sb:51 |  Uau... Quinhentas!  500 cenouras...! Você me deu 500 cenouras!  Nem sei
+   cf0/wst/wst03_00.sb:52 |  Não acredito...! Não acredito mesmo!  Você me deu 1
+   cf0/wst/wst03_00.sb:52 | tão bom pra mim... Muito obrigado...!  Este é o maior presente que posso
+   cf0/wst/wst06_00.sb:76 |  Ainda não acabou...! Eu consigo!  É só seguir os passos
+   cf1/c00/c0001_00.sb:20 |  ...!!! Ah! Oi, Lunch! Bom dia! 
+   cf1/c01/c0102_01.sb:20 |  Ora, sua...! 
+   cf1/c01/c0103_01.sb:12 |  Oh! Kuririn...! 
+   cf1/c02/c0201_02.sb:12 |  ...!!  Puar! Que diabos aconteceu aqui?
+   cf1/c02/c0202_00.sb:24 |  Grrr! Você vai pagar por isso...! 
+   cf1/c02/c0203_00.sb:10 |  Iii! Ahhhhhh...! P-por favor, me perdoe!! 
+   cf1/c03/c0302_02.sb:35 |  ...! O senhor tem razão!  Se eu o obser
+   cf1/c03/c0303_00.sb:30 |  ...!! Tenshinhan!  E você, Tenshinhan? 
+   cf1/c04/c0401_00.sb:51 |  V-você está brincando...! Você é mesmo o Goku? 
+   cf1/c04/c0401_02.sb:26 | ou na disputa para deter Piccolo Jr., mas nem ele foi páreo para o seu p
+   cf1/c04/c0401_04.sb:54 |  G-Goku...! Você tem que vencer! Eu sei que vo
+   cf1/c04/c0402_00.sb:41 |  Você não tem como vencer...!  Eu sei que você usou todo o Ki qu
+   cf1/c04/c0402_01.sb:19 |  Ufa... consegui...! 
+   cf1/c04/c0402_01.sb:38 |  Ah...! Yajirobe! O-o que você está fazend
+   cf1/c04/c0402_02.sb:23 |  Ngh...! Ele... ele ainda está vivo!  Você 
+   cf1/c05/c0502_00.sb:10 |  Puxa...! Isto não é um fogo comum! 
+   cf1/c05/c0507_02.sb:10 |  Puxa...! Onde é que ele está?! 
+   cf1/c06/c0602_00.sb:12 | o pode ser o Goku, pode?  Ah, não...! 
+   cf1/c06/c0602_00.sb:22 |  (Esse cara...! Ele é poderoso demais!)  Haahh!! 
+   cf1/c06/c0602_00.sb:28 |  Para lá...! Distância, 12.909...  Este é grand
+   cf1/c06/c0604_00.sb:27 |  Você...!! 
+   cf1/c06/c0604_00.sb:28 | U... um rabo!  Esse cara tem rabo...! 
+   cf1/c06/c0604_00.sb:61 |  acontecendo! Seu idiota completo...!  Não é à toa que você até fez amiz
+   cf1/c06/c0607_00.sb:60 | alvez não esteja quebrado, afinal...!)  (Mas... mas tem que haver alguma
+   cf1/c06/c0607_00.sb:77 |  (O do Kakarotto subiu para 416...!)  Ah rá rá rá rá! Vocês chamam iss
+   cf1/c06/c0608_00.sb:25 | a guarda. Agora peguei o seu rabo...! 
+   cf1/c06/c0608_00.sb:38 |  Ugh! Seu... seu tolo...!! 
+   cf1/c06/c0608_00.sb:46 |  Grrhhh...! E-ele desviaria de novo... 
+   cf1/c06/c0608_01.sb:29 |  Ah! P-papai...! 
+   cf1/c06/c0608_01.sb:34 |  E-espera...! Para... você não pode fazer isso! 
+   cf1/c06/c0608_01.sb:45 | co jeito que temos de te derrotar...! 
+   cf1/c06/c0608_01.sb:55 |  Ergh...!! Não... nãããããão!!! 
+   cf1/c06/c0608_01.sb:56 |  Hê hê...! 
+   cf1/c06/c0609_00.sb:25 |  Hmmm...! Não é má ideia! 
+   cf1/c07/c0702_00.sb:19 |  ...! O papai...? 
+   cf1/c07/c0702_00.sb:24 | ... mas eu não posso simplesmente...! 
+   cf1/c07/c0704_00.sb:18 |  Ah, não...! Por favor! Não me deixa aqui! 
+   cf1/c07/c0704_00.sb:20 |  Mas... mas eu...! 
+   cf1/c07/c0705_01.sb:14 |  Bom, lá vai...! 
+   cf1/c07/c0705_02.sb:20 |  O quê?! Não pode ser...! 
+   cf1/c08/c0803_01.sb:24 | is fáceis de ler.  Vejamos... 139...! Este número é o nível de poder do 
+   cf1/c08/c0803_01.sb:34 |  ...Esse deve ser o Yamcha...! 
+   cf1/c08/c0803_01.sb:35 |  Minha nossa...! ...329!  Uau... Quem é esse? 
+   cf1/c08/c0803_01.sb:38 | tão o Gohan deve estar lá com ele...! 
+   cf1/c08/c0803_03.sb:18 |  Não é ele...! 
+   cf1/c08/c0804_00.sb:13 |  ...! É você, Kuririn?! Que bom te ver! 
+   cf1/c08/c0805_03.sb:20 |  Upa, abaixe a sua arma...! 
+   cf1/c09/c0901_01.sb:22 |  Goku...! Cuidado para não ser grosseiro! 
+   cf1/c09/c0901_01.sb:30 |  favor! Não achei que fosse ouvir...!  Que audição excelente o senhor te
+   cf1/c09/c0904_02.sb:21 |  Aquele sem-vergonha...! 
+   cf1/c09/c0904_03.sb:15 |  Aaah! S-Senhor Enma...! 
+   cf1/c09/c0905_00.sb:10 |  Hã? Aquilo é...! 
+   cf1/c09/c0905_02.sb:16 |  ...! Não sabia que o Kaioh era mulher! 
+   cf1/c09/c0905_02.sb:26 |  O quê? V-você não faria isso...! Espere, por favor... 
+   cf1/c09/c0907_01.sb:11 |  Argh...!! Q-que lugar é esse...? 
+   cf1/c09/c0907_01.sb:12 | stou sendo esmagado contra o chão...!  O meu corpo parece de chumbo!! 
+   cf1/c09/c0907_01.sb:22 |  Uh... Uh-uh! Ah-ah...! I-isso é bem difícil!  Senhor Kaio
+   cf1/c09/c0907_01.sb:24 |  Uh-uh...! Uh-uh-ah...!! 
+   cf1/c09/c0907_01.sb:24 |  Uh-uh...! Uh-uh-ah...!! 
+   cf1/c09/c0907_01.sb:56 | .  Rá! Rá rá!! Rá rá rá!!!  Hi hi...! 
+   cf1/c09/c0907_01.sb:72 |  (Vejam só...! Ele pulou tão alto mesmo com dez v
+   cf1/c09/c0908_01.sb:13 |  ...! Seu...!! 
+   cf1/c09/c0908_01.sb:13 |  ...! Seu...!! 
+   cf1/c10/c1002_00.sb:10 |  Nossa, esse gelo é duro...! Nem o Ki racha ele! 
+   cf1/c10/c1004_00.sb:20 |  Minha nossa...! A Esfera do Dragão partiu ao meio!
+   cf1/c10/c1005_03.sb:18 |  Por favor...! 
+   total 139
+-- letra repetida 3x (não interjeição)
+   cf0/bud/bud02_00.sb:126 |  Zzz... zzz... Hã?! 
+   cf0/bud/bud02_00.sb:126 |  Zzz... zzz... Hã?! 
+   cf0/est/est06_00.sb:17 |  Cainnn... 
+   cf0/hii/hii03_00.sb:14 |  Nnngh... Que calor. A minha cabeça está 
+   cf0/jin/jin01_00.sb:49 | , Suno!  Mas ainda não desistimos! Nnnngh! 
+   cf0/jin/jin01_00.sb:50 | Ainda não podemos perder pra você! Nnnngh! 
+   cf0/ura/ura02_00.sb:16 |  Zzz... zzz...  Aaah!! 
+   cf0/ura/ura02_00.sb:16 |  Zzz... zzz...  Aaah!! 
+   cf0/ura/ura03_00.sb:104 |  Ah, sim, o Piccolo... Muito bem.  Nnnnnnnnnngh...!  Kaaaaahhh!!! 
+   cf0/ura/ura03_00.sb:109 |  Ah, sim, o Yamcha... Muito bem.  Nnnnnnnnnngh...!  Kaaaaahhh!!! 
+   cf0/ura/ura03_00.sb:114 | , sim, o Tenshinhan... Muito bem.  Nnnnnnnnnngh...!  Kaaaaahhh!!! 
+   cf0/wst/wst02_00.sb:39 |  Rrrrrau! Ffft! 
+   cf0/wst/wst06_00.sb:78 |  Nnnnhuuu... 
+   cf0/wst/wst06_00.sb:80 |  Mmmhuuu... 
+   cf1/c00/c0001_00.sb:16 |  Zzz... Goku... obrigado por me reviver
+   cf1/c00/c0001_00.sb:16 | tes Marciais... eu juro que vou... zzz... 
+   cf1/c00/c0002_01.sb:14 |  Nnngh... nada mal... 
+   cf1/c01/c0102_01.sb:13 |  Nnnngh! Você não sabe quando parar! Eu od
+   cf1/c02/c0201_00.sb:15 |  Você acha? Hmmm...  Ah, já sei! 
+   cf1/c02/c0202_00.sb:25 |  Hmmm? Ah, você quer lutar comigo?  Muit
+   cf1/c06/c0609_00.sb:25 |  Hmmm...! Não é má ideia! 
+   cf1/c10/c1005_03.sb:13 |  Nnnngh... 
+   cf1/c15/c1504_00.sb:17 |  !! Nnngh!  Argh! Cof... cof... 
+   total 23
+-- palavra repetida
+   cf/las05_battle_event.sb:25 |  Haaahh rá rá rá! Está vendo isto, Kakarotto?!  
+   cf0/bud/bud01_00.sb:63 |  Heh heh heh... Com você fora do caminho, d
+   cf0/bud/bud01_00.sb:63 | itar a vida enquanto ainda a tem!  Rá rá rá rá! 
+   cf0/bud/bud01_00.sb:63 |  vida enquanto ainda a tem!  Rá rá rá rá! 
+   cf0/bud/bud02_00.sb:134 |  Au au au au! 
+   cf0/bud/bud02_00.sb:134 |  Au au au au! 
+   cf0/bud/bud02_00.sb:137 | ante pra dizer, tá?!  ......  Arf! Arf arf! Arf arf barf barf... ai, errei! 
+   cf0/bud/bud02_00.sb:137 | dizer, tá?!  ......  Arf! Arf arf! Arf arf barf barf... ai, errei! 
+   cf0/bud/bud02_00.sb:137 | á?!  ......  Arf! Arf arf! Arf arf barf barf... ai, errei! 
+   cf0/bud/bud03_01.sb:13 |  Miau miau. 
+   cf0/est/est03_00.sb:41 |  Turbo de velocidade, ligado!!  Miau miau miau miau miau!! 
+   cf0/est/est03_00.sb:41 | de velocidade, ligado!!  Miau miau miau miau miau!! 
+   cf0/god/god03_00.sb:28 |  Oh oh oh! Vocês capturaram mais de 120 m
+   cf0/jin/jin01_00.sb:52 |  Au au! 
+   cf0/jin/jin01_00.sb:53 |  Uf uf! 
+   cf0/kar/kar01_00.sb:15 | um tapete firme estendido no chão. Pelos pelos, deve ser do Mestre Karin. 
+   cf0/kos/kos02_00.sb:40 |  Uh uh! Uuuuuh! 
+   cf0/kos/kos02_00.sb:41 |  Uh uh! Uh uh uh! 
+   cf0/kos/kos02_00.sb:41 |  Uh uh! Uh uh uh! 
+   cf0/kos/kos02_00.sb:42 |  Uh uh! Uuuuuh uh uh! 
+   cf0/kos/kos02_00.sb:42 |  Uh uh! Uuuuuh uh uh! 
+   cf0/kos/kos02_00.sb:43 |  Uh uh! Uh uh uh uh uh! 
+   cf0/kos/kos02_00.sb:43 |  Uh uh! Uh uh uh uh uh! 
+   cf0/kos/kos02_00.sb:43 |  Uh uh! Uh uh uh uh uh! 
+   cf0/kos/kos02_00.sb:44 |  Uh uh! Uh! 
+   cf0/kos/kos02_00.sb:46 |  Uuuh uh uh! 
+   cf0/skr/skr01_00.sb:22 |  Rrrrr... Au! Au au! 
+   cf0/ura/ura01_00.sb:14 |  Ah, uma visita... heh heh heh. Por favor, pode entrar. 
+   cf0/ura/ura02_00.sb:18 |  Ai ai ai ai... 
+   cf0/ura/ura02_00.sb:18 |  Ai ai ai ai... 
+   cf0/wst/wst02_00.sb:27 |  Cochicho cochicho cochicho! 
+   cf0/wst/wst02_00.sb:28 |  Cochicho cochicho cochicho! Cochicho cochicho cochic
+   cf0/wst/wst02_00.sb:28 |  Cochicho cochicho cochicho! Cochicho cochicho cochicho cochicho! 
+   cf0/wst/wst02_00.sb:28 | chicho cochicho! Cochicho cochicho cochicho cochicho! 
+   cf0/wst/wst02_00.sb:42 | achorros normais fazem?  Era  Cão! Cão cão cão cão!   Tenho quase certeza de 
+   cf0/wst/wst02_00.sb:42 |  normais fazem?  Era  Cão! Cão cão cão cão!   Tenho quase certeza de que era 
+   cf0/wst/wst03_00.sb:22 |  Que inveja dessas crianças... heh heh. 
+   cf0/wst/wst05_00.sb:53 |  Nhu nhu nhuuuu... 
+   cf0/wst/wst05_00.sb:67 |  Cróc cróc! 
+   cf0/wst/wst05_00.sb:68 |  Ru ru ru! 
+   cf0/wst/wst05_00.sb:69 |  Piu piu! 
+   cf0/wst/wst06_00.sb:73 | com você? Eu estou em plena forma! Rá rá rá! 
+   cf0/wst/wst06_00.sb:79 |  Miau miau! 
+   cf1/c00/c0002_00.sb:10 |  Ho ho ho! Que bom ver todos vocês aqui! 
+   cf1/c00/c0002_01.sb:10 |  Ho ho ho! Três de vocês contra mim...  V
+   cf1/c00/c0002_02.sb:10 |  Hê hê hê! Vocês têm talento de sobra, se
+   cf1/c01/c0102_00.sb:25 |  enfrentar esse demônio sozinho... Cof cof cof! 
+   cf1/c01/c0102_01.sb:21 |  Hi hi! Então você quer bater em mulher, 
+   cf1/c01/c0102_01.sb:23 |  Ha ha! Te peguei! Gente do Orin é tão fá
+   cf1/c01/c0103_00.sb:35 |  Hê hê... Acho que é melhor eu voltar tam
+   cf1/c01/c0103_01.sb:15 |  Hê hê hê... 
+   cf1/c01/c0103_01.sb:20 |  ...Ho ho ho! Ah, que lutador esplêndido voc
+   cf1/c02/c0202_00.sb:13 |  Rê rê!  Nunca imaginei te ver aqui. Não 
+   cf1/c02/c0202_00.sb:16 |  Ho ho ho... nos encontramos de novo, é? 
+   cf1/c02/c0202_00.sb:20 |  Ho ho ho ho ho... Era esse o nome dele, 
+   cf1/c02/c0202_00.sb:20 |  Ho ho ho ho ho... Era esse o nome dele, sim.  
+   cf1/c02/c0203_00.sb:13 |  Rê rê... Você não disse que tinha melhor
+   cf1/c02/c0203_00.sb:25 | ro que gosto!! Eu faço, eu faço! Ê rê rê rê rê... 
+   cf1/c02/c0203_00.sb:25 |  gosto!! Eu faço, eu faço! Ê rê rê rê rê... 
+   cf1/c03/c0301_00.sb:25 |  Ho ho ho... Isso depende inteiramente de
+   cf1/c03/c0302_01.sb:14 |  Hê hê hê... seu tolo.  O que te faz pens
+   cf1/c03/c0302_02.sb:20 |  Ho ho ho! Parece que você ainda não ente
+   cf1/c03/c0302_02.sb:31 |  Ho ho ho.  Bem, se você sabe o que preci
+   cf1/c03/c0303_00.sb:20 |  Rá rá rá! Pode usar esta técnica como qu
+   cf1/c03/c0303_00.sb:32 |  Hê hê... Eu sabia que você viria me ajud
+   cf1/c04/c0401_00.sb:35 |  Ho ho ho... O Yamcha também, é? O Kuriri
+   cf1/c04/c0401_01.sb:17 | , Mestre Kame! Viu como eu cresci? Rá rá rá rá! 
+   cf1/c04/c0401_01.sb:17 | re Kame! Viu como eu cresci? Rá rá rá rá! 
+   cf1/c04/c0401_03.sb:48 |  Hê hê hê... Desta vez eu vou acabar com 
+   cf1/c04/c0401_03.sb:50 |  Hê hê hê. Fale o quanto quiser, não vai 
+   cf1/c04/c0401_03.sb:51 |  Ha ha ha ha ha há!! 
+   cf1/c04/c0401_03.sb:51 |  Ha ha ha ha ha há!! 
+   cf1/c04/c0401_04.sb:14 |  Hê hê hê... Ah, eu tenho muita coisa par
+   cf1/c04/c0401_04.sb:16 |  Hê hê hê... Eu sei que você é praticamen
+   cf1/c04/c0401_04.sb:18 |  Ha ha ha... Você não vai falar essas bes
+   cf1/c04/c0402_01.sb:27 |  Hê hê... Finalmente sou campeão... 
+   cf1/c04/c0402_03.sb:22 |  Hê hê hê...  Sim... Eu diria que a roupa
+   cf1/c04/c0402_03.sb:43 |  Hê hê hê... Essa bondade ainda vai te ma
+   cf1/c04/c0402_03.sb:45 |  Ahhhh ha ha há! Espero que você esteja ansioso
+   cf1/c05/c0501_00.sb:26 |  Hi hi! Combinado! 
+   total 227
+
+== 7. TU x VOCE ==
+
+== 8. PONTUACAO FINAL DIFERENTE (pagina a pagina) ==
+total 0

@@ -1,0 +1,35 @@
+[
+ {
+  "tipo": "bdat",
+  "lang": "US",
+  "tabela": "cf_mes_MENU",
+  "linha": 120,
+  "coluna": "us",
+  "antes": "Apagando os dados salvos.<n>Aperte o Botão A para começar.",
+  "depois": "Preparando a memória de salvamento.<n>Aperte o Botão A para começar.",
+  "motivo": "texto aprovado para a 13.1: a tela aparece no primeiro boot (save vazio) e prepara a memória de salvamento; \"Apagando os dados salvos\" dava a entender perda de progresso",
+  "chave_en": "Resetting backup memory.<n>Press the A Button to begin."
+ },
+ {
+  "tipo": "bdat",
+  "lang": "EN",
+  "tabela": "cf_mes_MENU",
+  "linha": 120,
+  "coluna": "en",
+  "antes": "Apagando os dados salvos.<n>Aperte o Botão A para começar.",
+  "depois": "Preparando a memória de salvamento.<n>Aperte o Botão A para começar.",
+  "motivo": "texto aprovado para a 13.1: a tela aparece no primeiro boot (save vazio) e prepara a memória de salvamento; \"Apagando os dados salvos\" dava a entender perda de progresso",
+  "chave_en": "Resetting backup memory.<n>Press the A Button to begin."
+ },
+ {
+  "tipo": "bdat",
+  "lang": "US",
+  "tabela": "cf_mes_MENU",
+  "linha": 121,
+  "coluna": "us",
+  "antes": "Apagando...",
+  "depois": "Preparando...",
+  "motivo": "texto aprovado para a 13.1b: indicador que aparece logo depois de apertar A na tela \"Preparando a memória de salvamento\" (estado 20 da rotina de boot 0x0204E4A8, mensagem 122 = linha 121, enquanto a memória de salvamento é formatada); a chave só existe no bdat US (no EN a linha 121 é \"Saving...\") e só é usada nesse ponto do boot",
+  "chave_en": "Resetting..."
+ }
+]

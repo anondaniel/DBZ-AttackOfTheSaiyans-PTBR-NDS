@@ -1,0 +1,63 @@
+
+=== EN: tabelas com diferenca rc1->coe: {'enemy_param': {'file': 33, 'palno': 50, 'atk1': 26, 'atk2': 26, 'atk3': 27, 'atk4': 22, 'size': 7, 'shadow': 9}, 'character_name': {'en': 46}}
+
+=== US: tabelas com diferenca rc1->coe: {'enemy_param': {'file': 33, 'palno': 50, 'atk1': 26, 'atk2': 26, 'atk3': 27, 'atk4': 22, 'size': 7, 'shadow': 9}, 'character_name': {'us': 46}}
+
+=== FR: tabelas com diferenca rc1->coe: {'enemy_param': {'file': 33, 'palno': 50, 'atk1': 26, 'atk2': 26, 'atk3': 27, 'atk4': 22, 'size': 7, 'shadow': 9}, 'character_name': {'fr': 46}}
+
+=== SP: tabelas com diferenca rc1->coe: {'enemy_param': {'file': 33, 'palno': 50, 'atk1': 26, 'atk2': 26, 'atk3': 27, 'atk4': 22, 'size': 7, 'shadow': 9}, 'character_name': {'sp': 46}}
+
+=== GR: tabelas com diferenca rc1->coe: {'enemy_param': {'file': 33, 'palno': 50, 'atk1': 26, 'atk2': 26, 'atk3': 27, 'atk4': 22, 'size': 7, 'shadow': 9}, 'character_name': {'gr': 46}}
+
+=== IT: tabelas com diferenca rc1->coe: {'enemy_param': {'file': 33, 'palno': 50, 'atk1': 26, 'atk2': 26, 'atk3': 27, 'atk4': 22, 'size': 7, 'shadow': 9}, 'character_name': {'it': 46}}
+
+enemy_param colunas: [('name', 0, 0), ('name_id', 2, 0), ('file', 7, 2), ('palno', 1, 4), ('size', 1, 5), ('shadow', 1, 6), ('power', 3, 7), ('zeni', 3, 11), ('exp', 3, 15), ('ap', 2, 19), ('item1', 2, 21), ('item2', 2, 23), ('item3', 2, 25), ('item4', 2, 27), ('atk1', 1, 29), ('atk2', 1, 30), ('atk3', 1, 31), ('atk4', 1, 32), ('atk1_pow', 5, 33), ('atk2_pow', 5, 35), ('atk3_pow', 5, 37), ('atk4_pow', 5, 39), ('lv', 1, 41), ('hp', 3, 42), ('mp', 3, 46), ('str', 2, 50), ('def', 2, 52), ('rec', 2, 54), ('tec', 2, 56), ('agi', 2, 58), ('luc', 2, 60), ('sleep', 4, 62), ('bind', 4, 63), ('poison', 4, 64), ('dark', 4, 65), ('stan', 4, 66), ('panic', 4, 67), ('freez', 4, 68), ('dead', 4, 69), ('carrot', 4, 70), ('physics', 4, 71), ('slash', 4, 72), ('blast', 4, 73), ('atr_fire', 4, 74), ('atr_thunder', 4, 75), ('atr_ice', 4, 76), ('list', 1, 77)] tam_linha 80 linhas 173
+tabelas: {'enemy_param': (173, 80), 'boss_param': (55, 88), 'Use_Item': (128, 24), 'Btl_Acc': (128, 20), 'Pt_Eqp': (48, 16), 'Key_Item': (108, 12), 'player_param': (8, 48), 'skill_combo': (17, 12), 'skill_goku': (7, 76), 'skill_gohan': (7, 76), 'skill_pikkoro': (7, 76), 'skill_kuririn': (7, 76), 'skill_tenshin': (7, 76), 'skill_yamcha': (7, 76), 'passive_goku': (8, 36), 'passive_gohan': (8, 36), 'passive_pikkoro': (8, 36), 'passive_kuririn': (8, 36), 'passive_tenshin': (8, 36), 'passive_yamcha': (8, 36), 'btl_mes_SYS': (100, 4), 'btl_mes_ITM': (100, 4), 'btl_mes_BLAST': (145, 4), 'btl_mes_TUT': (50, 4), 'cf_mes_TUT': (16, 4), 'cf_mes_MENU': (128, 4), 'cf_mes_QUEST': (100, 8), 'cf_mes_LOC': (99, 4), 'cf_mes_SHOP': (160, 4), 'cf_mes_COMBO': (40, 4), 'use_item_mes': (256, 4), 'btl_acc_mes': (256, 4), 'pt_eqp_mes': (96, 4), 'key_item_mes': (216, 4), 'character_name': (237, 4)}
+EN enemy_param colunas alteradas: ['atk1', 'atk2', 'atk3', 'atk4', 'file', 'palno', 'shadow', 'size'] igual EN: True
+US enemy_param colunas alteradas: ['atk1', 'atk2', 'atk3', 'atk4', 'file', 'palno', 'shadow', 'size'] igual EN: True
+FR enemy_param colunas alteradas: ['atk1', 'atk2', 'atk3', 'atk4', 'file', 'palno', 'shadow', 'size'] igual EN: True
+SP enemy_param colunas alteradas: ['atk1', 'atk2', 'atk3', 'atk4', 'file', 'palno', 'shadow', 'size'] igual EN: True
+GR enemy_param colunas alteradas: ['atk1', 'atk2', 'atk3', 'atk4', 'file', 'palno', 'shadow', 'size'] igual EN: True
+IT enemy_param colunas alteradas: ['atk1', 'atk2', 'atk3', 'atk4', 'file', 'palno', 'shadow', 'size'] igual EN: True
+
+[atk1] 26 linhas alteradas. Ex.: [(2, 50, 30), (3, 50, 40), (4, 50, 40), (76, 30, 40), (80, 40, 50), (95, 19, 40), (96, 19, 40), (97, 19, 30)]
+
+[atk2] 26 linhas alteradas. Ex.: [(2, 40, 20), (76, 30, 40), (82, 30, 15), (95, 18, 20), (96, 18, 15), (97, 18, 20), (101, 18, 30), (102, 18, 30)]
+
+[atk3] 27 linhas alteradas. Ex.: [(2, 10, 30), (3, 20, 30), (4, 20, 30), (80, 30, 20), (82, 0, 40), (95, 18, 40), (96, 18, 40), (97, 18, 30)]
+
+[atk4] 22 linhas alteradas. Ex.: [(2, 0, 20), (76, 20, 0), (82, 30, 5), (95, 45, 0), (96, 45, 5), (97, 45, 20), (101, 45, 0), (102, 45, 20)]
+
+[file] 33 linhas alteradas. Ex.: [(1, 'ene001_01', 'ene062_01'), (2, 'ene001_01', 'ene062_01'), (3, 'ene001_01', 'ene053_01'), (4, 'ene001_01', 'ene053_01'), (76, 'ene004_01', 'ene027_01'), (80, 'ene022_01', 'ene021_01'), (82, 'ene022_01', 'ene014_01'), (95, 'ene200_01', 'ene012_01')]
+
+[palno] 50 linhas alteradas. Ex.: [(1, 1, 3), (2, 2, 4), (74, 0, 3), (75, 1, 4), (76, 2, 3), (80, 0, 3), (81, 2, 3), (82, 2, 3)]
+
+[shadow] 9 linhas alteradas. Ex.: [(76, 2, 1), (95, 1, 0), (96, 1, 0), (97, 1, 0), (101, 1, 0), (103, 1, 0), (110, 1, 0), (111, 1, 0)]
+
+[size] 7 linhas alteradas. Ex.: [(76, 2, 1), (95, 1, 0), (96, 1, 0), (97, 1, 0), (101, 1, 0), (103, 1, 0), (111, 1, 0)]
+
+orig->coe enemy_param colunas alteradas: {'file': 52, 'palno': 50, 'atk1': 38, 'atk2': 35, 'atk3': 37, 'atk4': 31, 'size': 28, 'shadow': 43}
+orig->rc1 enemy_param colunas alteradas: {'file': 48, 'atk1': 43, 'atk2': 38, 'atk3': 38, 'atk4': 28, 'shadow': 39, 'palno': 21, 'size': 24}
+
+=== .chr: cabecalho e trecho apos as paletas
+ btl/ene/ene002_01.chr: paletas 3->6 | antigas preservadas True | resto igual True | cab 644348520203b603 -> 644348520206b603 | +96 bytes
+ btl/ene/ene003_01.chr: paletas 3->6 | antigas preservadas True | resto igual True | cab 6443485202033a06 -> 6443485202063a06 | +96 bytes
+ btl/ene/ene004_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 6443485202036f07 -> 6443485202056f07 | +64 bytes
+ btl/ene/ene005_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 6443485202036001 -> 6443485202056001 | +64 bytes
+ btl/ene/ene006_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 644348520203c101 -> 644348520205c101 | +64 bytes
+ btl/ene/ene008_01.chr: paletas 3->6 | antigas preservadas True | resto igual True | cab 644348520203b902 -> 644348520206b902 | +96 bytes
+ btl/ene/ene010_01.chr: paletas 3->4 | antigas preservadas True | resto igual True | cab 6443485202037a04 -> 6443485202047a04 | +32 bytes
+ btl/ene/ene012_01.chr: paletas 3->8 | antigas preservadas True | resto igual True | cab 644348520203ac02 -> 644348520208ac02 | +160 bytes
+ btl/ene/ene013_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 644348520203e901 -> 644348520205e901 | +64 bytes
+ btl/ene/ene014_01.chr: paletas 3->8 | antigas preservadas True | resto igual True | cab 6443485202030002 -> 6443485202080002 | +160 bytes
+ btl/ene/ene016_01.chr: paletas 3->6 | antigas preservadas True | resto igual True | cab 6443485202036301 -> 6443485202066301 | +96 bytes
+ btl/ene/ene017_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 6443485202039101 -> 6443485202059101 | +64 bytes
+ btl/ene/ene020_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 6443485202031101 -> 6443485202051101 | +64 bytes
+ btl/ene/ene021_01.chr: paletas 3->7 | antigas preservadas True | resto igual True | cab 6443485202036101 -> 6443485202076101 | +128 bytes
+ btl/ene/ene022_01.chr: paletas 3->4 | antigas preservadas True | resto igual True | cab 644348520203d601 -> 644348520204d601 | +32 bytes
+ btl/ene/ene023_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 644348520203b400 -> 644348520205b400 | +64 bytes
+ btl/ene/ene026_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 6443485202038702 -> 6443485202058702 | +64 bytes
+ btl/ene/ene027_01.chr: paletas 3->4 | antigas preservadas True | resto igual True | cab 6443485202032004 -> 6443485202042004 | +32 bytes
+ btl/ene/ene045_01.chr: paletas 3->6 | antigas preservadas True | resto igual True | cab 644348520203e704 -> 644348520206e704 | +96 bytes
+ btl/ene/ene053_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 6443485202038e01 -> 6443485202058e01 | +64 bytes
+ btl/ene/ene062_01.chr: paletas 3->5 | antigas preservadas True | resto igual True | cab 6443485202032701 -> 6443485202052701 | +64 bytes

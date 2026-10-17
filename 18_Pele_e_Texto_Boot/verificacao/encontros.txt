@@ -1,0 +1,46 @@
+# Encontros e coerência dos inimigos (refaz a revisão 02 + checagens novas)
+OK    2143 chamadas SetEnemyParty, todas com 15 argumentos
+OK    grupos idênticos ao original (byte a byte nos argumentos)
+scripts com grupos: 183; grupos distintos: 270
+OK    IDs válidos (2..228, linhas com nome) em slots e lista de tipos []
+OK    nenhum grupo sem inimigo real
+grupos com sprite de slot fora da lista de tipos (pré-carga), métrica estrita (só IDs reais): original 6, rc.1 6, etapa 12 51, nova 6
+   mesma contagem pela métrica da revisão 02 (conta o marcador 1 como Saibaman ene001_01): original 37, rc.1 14, etapa 12 82, nova 37
+OK    pré-carga (métrica estrita): igual à rc.1 e ao original
+OK    os grupos que sobram são os mesmos do jogo original
+   mapas (nova): ['est07_00', 'est08_00', 'est09_00']
+   métrica B, mapas (nova): ['c0602_00', 'c0607_00', 'c0804_02', 'c1007_01', 'c1204_00', 'dbg02_00', 'enm01_00', 'est07_00', 'est08_00', 'est09_00', 'gyu01_00', 'gyu02_00', 'hii01_00', 'hii02_00', 'hii03_00', 'hii04_00', 'mut01_00', 'mut02_00', 'mut03_00', 'mut04_00', 'mut05_00', 'mut06_00', 'mut07_00', 'snd01_00', 'snd02_00', 'snd03_00', 'snd04_00', 'snd05_00', 'spi01_00', 'spi02_00', 'spi03_00', 'spi04_00', 'spi06_00', 'spi07_00']
+grupos de evento (arg12=41) com o ID 2: 48 em ['c1402_02', 'c1402_98', 'c1402_99', 'c1403_00', 'c1403_01', 'c1403_98', 'c1403_99', 'c1404_00', 'c1404_03', 'c1406_01', 'c1407_00', 'c1408_03', 'c1409_00', 'nap01_00', 'nap02_00', 'nap03_00']
+OK    ID 2 (linha 1) = 'J. Sai' com sprite ene001_01, linha idêntica ao original
+OK    linha 1 (J. Sai) = rc.1 = original
+OK    linha 2 (C. Sai) = rc.1 = original
+OK    linha 3 (K. Sai) = rc.1 = original
+OK    linha 4 (T. Sai) = rc.1 = original
+OK    enemy_param US = EN
+OK    enemy_param FR = EN
+OK    enemy_param SP = EN
+OK    enemy_param GR = EN
+OK    enemy_param IT = EN
+OK    eneEff.bin (efeito dos golpes por linha) idêntico ao original
+linhas usadas em encontros: 151
+OK    sprites/paletas/animações válidas e todo slot com peso tem animação e golpe definido []
+   (comparação) orig: slots com peso e sem golpe no eneEff: 0 []
+   (comparação) rc1: slots com peso e sem golpe no eneEff: 12 [(80, 3), (99, 4), (100, 4), (101, 4), (110, 4), (112, 3), (118, 2), (119, 4), (120, 2), (121, 3), (131, 3), (149, 3)]
+   (comparação) coe: slots com peso e sem golpe no eneEff: 18 [(2, 4), (80, 3), (99, 4), (100, 4), (105, 4), (109, 4), (110, 4), (112, 3), (114, 4), (116, 3), (117, 4), (118, 2), (119, 4), (120, 2), (121, 3), (131, 3), (149, 3), (157, 4)]
+slots de INVOCAÇÃO com peso > 0 (linha, slot, ID invocado): [(35, 3, 168), (36, 3, 169), (37, 3, 170), (104, 1, 105), (105, 1, 106), (106, 1, 107), (155, 3, 162), (156, 3, 163), (157, 3, 164)]
+OK    todas as invocações apontam para linhas válidas
+OK    em todo grupo com invocador, o invocado está na lista de tipos (pré-carga) ou é o próprio []
+invocações nas linhas trocadas: [(104, 1, 105, 'Atirador da Montanha'), (105, 1, 106, 'Guerreira do Gelo'), (106, 1, 107, 'Atirador Veterano'), (155, 3, 162, 'Recruta Escavadora'), (156, 3, 163, 'Aprendiz Noturna'), (157, 3, 164, 'Batedora Venenosa')]
+OK    cada linha usada tem aparência (arquivo, paleta) própria []
+OK    nenhum mapa com mesma cara e nome diferente (ou vice-versa) []
+menores distâncias de paleta entre variantes do mesmo sprite no mesmo mapa (nova): [(109, 'c0506_02', 24, 105), (109, 'c0804_02', 24, 105), (109, 'enm01_00', 24, 105), (109, 'fur02_00', 24, 105), (109, 'fur03_00', 24, 105), (109, 'fur04_00', 24, 105), (109, 'gyu01_00', 24, 105), (109, 'gyu02_00', 24, 105)]
+OK    todas >= 100 (no jogo original a menor é 103)
+   par da revisão (2, 168): sprites diferentes agora (ene001_01 × ene062_01)
+   par da revisão (95, 104): distância 162
+   par da revisão (111, 57): distância 183
+   par da revisão (97, 106): distância 122
+linhas de tamanho 2 em grupos com >1 inimigo: {(5, 'Robô Corsário'): 9}
+OK    nenhuma linha trocada de tamanho 2 em grupo com mais de um inimigo
+OK    nenhuma troca com nome de Saiyajin/Saibaman/broto/pirata
+OK    nomes de inimigo únicos []
+palavras mais repetidas nos nomes trocados: [('Robô', 4), ('Lutador', 3), ('Guarda', 3), ('Batedor', 3), ('Ermo', 3), ('Mercenário', 3), ('Piloto', 3), ('Veterano', 3)]

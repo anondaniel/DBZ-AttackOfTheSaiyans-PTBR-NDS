@@ -1,0 +1,62 @@
+# Lista de inclusão: tudo fica fora, a não ser o que está liberado abaixo.
+/*
+!/.gitignore
+!/README.md
+
+# Documentação, projeto recuperado (scripts e tradução) e etapas
+!/06_Documentacao/
+!/11_Projeto_Recuperado/
+!/12_Coerencia_Historia/
+!/13_Correcoes_Revisao/
+!/14_Investigacao_IHBP/
+!/18_Pele_e_Texto_Boot/
+!/_revisao_claude/
+
+# Fora sempre: ROMs, patches (vão na aba Releases), saves, binários e lixo
+*.nds
+*.zip
+*.rar
+*.7z
+*.bps
+*.ips
+*.sav
+*.dsv
+*.srm
+*.bin
+*.exe
+*.dll
+*.nro
+*.nsp
+*.toml
+__pycache__/
+*.pyc
+Thumbs.db
+
+# Revisões: só relatórios e scripts (capturas, saves de teste e emulador ficam fora)
+/_revisao_claude/**/*.png
+/_revisao_claude/**/*.gif
+/_revisao_claude/**/evidencias/
+/_revisao_claude/**/capturas/
+/_revisao_claude/**/rom/
+
+# Folhas de trabalho grandes
+/13_Correcoes_Revisao/trabalho/
+
+# Não incluídos de propósito (ver README):
+#   00_Original, 01_ROM, 10_Auditoria_Inimigos  ROMs comerciais
+#   07_Teste_Audio_PC, 08_Audio_Switch, 09_Save_Atalho  emulador, saves e ferramentas de terceiros
+#   15_Previas_MUGEN, 16_Analise_Androides, 17_Fontes_16bits  material de terceiros (pacotes MUGEN, fontes)
+
+# Mídia antiga (cores da 13, antes da correção de pele); a atual está em 18
+/13_Correcoes_Revisao/midia/
+/18_Pele_e_Texto_Boot/versoes/
+
+# Texto completo extraído do jogo (original e tradução, 16 MB cada): gerado pelos scripts, não versionar
+/_revisao_claude/03_traducao/saida/textos_*.json
+/_revisao_claude/03_traducao/saida/pt_unicos.*
+# Investigação sobre o hack de terceiros (IHBP): fica fora do repositório
+/14_Investigacao_IHBP/
+
+# Historico git proprio do projeto recuperado (renomeado de .git para o conteudo entrar aqui)
+/11_Projeto_Recuperado/.git_projeto_recuperado/
+*.pkl

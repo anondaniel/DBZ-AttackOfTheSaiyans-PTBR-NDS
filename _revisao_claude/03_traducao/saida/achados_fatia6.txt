@@ -1,0 +1,64 @@
+nº | id | trecho atual | sugestão | ALTO/MÉDIO/BAIXO | motivo curto
+3897 | cf1/c15/c1506_00.sb:35 | "Não tem jeito...!" | "Não pode ser...!" | MÉDIO | EN "There's no way...!" é descrença (Vegeta diante do Oozaru), não "não há solução"
+4091 | btl_mes_SYS:8 | "<i> roubado." | "Roubaram: <i>." (ou "Item roubado: <i>") | MÉDIO | particípio masculino fixo quebra com itens femininos (Semente, Bebida, Cápsula...)
+4096 | btl_mes_SYS:13 | "Não dá no modo Kaioken." | "Não dá para usar no Kaioken." | BAIXO | frase truncada, falta o verbo
+4124 | btl_mes_SYS:58 | "Chance de emboscada AUMENTOU!" | "Chance de ataque surpresa AUMENTOU!" | MÉDIO | "Sneak attack" virou "Ataque surpresa" em 4084/4126/5139 e "emboscada" aqui e em 5133; padronizar
+4125 | btl_mes_SYS:59 | "Chance de 1° ataque AUMENTOU!" | "Chance de 1º ataque AUMENTOU!" | BAIXO | usa sinal de grau (°) em vez do ordinal (º); o mesmo em 5244 "Ex-1° Sargento" e 5352–5354 "N°3/7/9" (se a fonte não tiver º, ignorar)
+4121 | btl_mes_SYS:55 | "Itens deixados mudaram!" | "Os itens dos inimigos mudaram!" | BAIXO | "itens deixados" soa estranho
+4139 | btl_mes_SYS:73 / btl_mes_TUT:9 | "Escuridão" (4139, 4730, 4993) x "Escuro" (4323: "Sono, Paralisia, Veneno, Escuro, ...") | "Escuridão" também no tutorial | MÉDIO | o mesmo status tem dois nomes
+4155 | btl_mes_ITM:22 | "Ki do grupo todo restaurado." | "Ki do grupo totalmente restaurado." | MÉDIO | "todo" fica ambíguo (grupo todo x Ki todo); EN é "fully"
+4157 | btl_mes_ITM:30 | "HP/Ki de <t> todo restaurado." | "HP/Ki de <t> totalmente restaurados." | MÉDIO | concordância: em 4156 o mesmo sujeito está no plural ("restaurados")
+4190 | btl_mes_ITM:66 | "Itens dos inimigos AUMENTARAM!" | "Chance de itens AUMENTOU!" | BAIXO | EN fala da taxa de drop; a frase sugere que os inimigos ganharam itens
+4213 | btl_mes_BLAST:18-19 (+ btl_acc_mes:97-101, 201) | "Corrente+" / "chance de corrente" / "um ataque em corrente" | "Encadeamento+" / "chance de encadear" (ou "Sequência") | MÉDIO | "chain" = encadear golpes; "corrente" lê-se como a corrente de metal
+4245 | btl_mes_BLAST:59 | "Fúria" (golpe Anger) | "Raiva" | BAIXO | colide com o nome curto do Medidor de Fúria ("Fúria de <f> subiu"); "Joia da Raiva" já usa Raiva
+4252 | btl_mes_BLAST:66 | "Um ataque de corpo movido pela raiva" | "Um ataque corporal movido pela raiva" | BAIXO | "ataque de corpo" não é natural
+4317 | btl_mes_TUT:3 x btl_mes_SYS:48 / SYS:14 | tutorial: comando "\1P1Técnica"; menu de batalha: "Especial" ("Nenhum Especial aprendido") | igualar ao nome real do comando no menu (Especial ou Técnica) | MÉDIO | o tutorial cita um comando com nome diferente do que aparece na tela (o EN também diverge: Skill x Super)
+4348 | cf_mes_TUT:5 | "\1P3Acessórios\1Pn, de lojas e<n>masmorras, dá para equipá-los<n>para aumentar os atributos." | "Os \1P3Acessórios\1Pn, achados em lojas e<n>masmorras, podem ser equipados<n>para aumentar os atributos." | MÉDIO | anacoluto: o sujeito fica solto e a frase não se fecha
+4349 | cf_mes_TUT:6 | "O Que Tem" | "Produtos" / "Mercadorias" | BAIXO | título pouco natural
+4373 | cf_mes_MENU:25 | "Refazer" | "Tentar de Novo" | BAIXO | "Try Again" depois de derrota; "Refazer" soa como refazer uma ação
+4383 | cf_mes_MENU:38 | "Use AP para aprender técnicas" | "Use AP para aprender/melhorar técnicas" | BAIXO | perdeu o "upgrade"
+4427 | cf_mes_MENU:107 | "\1P1Requer:\1Pn%s Nv%d" | "\1P1Requer:\1Pn%s Lv%d" | MÉDIO | LV deveria ser mantido; aqui virou "Nv" (confirmar se o resto do jogo mostra LV)
+4436 | cf_mes_MENU:120 | "Reiniciando a memória." | "Formatando a memória de backup." (ou "Apagando os dados salvos.") | MÉDIO | "reset" aqui é apagar/formatar; "reiniciar" sugere reiniciar o console. O mesmo em 4437/4438 ("Reiniciando..." / "Falha ao reiniciar")
+4001 | cf1/c16/c1605_00.sb:32 / :34 | "namekuseijin" / "namekuseijins" (minúscula) | "Namekuseijin" / "Namekuseijins" | BAIXO | no mesmo texto "Saiyajin(s)" vem com maiúscula; padronizar os nomes de raça
+4455 | cf_mes_QUEST:13 | "A Hakkake, que vive no Monte Frappe,<n>parece que coleta o mel." | "Parece que a Hakkake, que vive perto<n>do Monte Frappe, coleta o mel." | BAIXO | anacoluto; o EN diz "near"
+4467 | cf_mes_QUEST:25 | "Corp. Cápsula" | "Corporação Cápsula" | MÉDIO | variação do nome do glossário (se for por espaço, aceitar a abreviação)
+4472 | cf_mes_QUEST:30 | "Mont. Paozu" | "Montanha Paozu" (como em 4444) | BAIXO | variação de grafia do nome
+4475 | cf_mes_QUEST:33 / key_item_mes:17 | "As plantas das Sementes estão mal!" / "Faz crescer os pés de Semente." | "Os pés de Semente dos Deuses estão mal!" / "...os pés de Semente dos Deuses." | MÉDIO | Senzu truncado para "Semente"; nome fora do glossário
+4493 | cf_mes_QUEST:51 | "Goku entrou!" | "Goku entrou no grupo!" | BAIXO | ambíguo (entrou onde?)
+4501 | cf_mes_QUEST:59 | "Busca de Esfera de submarino!" | "Busca por Esfera num submarino!" | BAIXO | regência e frase pouco natural
+4510 | cf_mes_QUEST:68 | "Pegue o bracelete do diabo!" | "Pegue o Bracelete do Diabo!" | BAIXO | é nome de item (maiúsculas em 4506 e 5214)
+4524 | cf_mes_LOC:1-2 | "Vaso do Diabo (Porão Esq.)" x "Vaso do Diabo (Porão Direito)" | "(Porão Esq.)" / "(Porão Dir.)" | BAIXO | abreviação inconsistente entre pares
+4530 | cf_mes_LOC:10 | "Caverna do Mt. Frappe" | "Caverna do Monte Frappe" | MÉDIO | "Mt." é abreviação inglesa; em 4455/4569/4570 está "Monte Frappe"
+4547 | cf_mes_LOC:40-41 | "Casa da Princ. Serpente" x "Quarto da Pr. Serpente" | mesma abreviação nos dois (ex.: "Princ.") | BAIXO | abreviação inconsistente do nome do glossário
+4594 | cf_mes_SHOP:32 | "Sou um mercador viajante, onde<n>quer que os artistas marciais do<n>mundo precisem de mim." | "Sou um mercador viajante e vou<n>aonde os artistas marciais do<n>mundo precisarem de mim." | MÉDIO | frase truncada, falta o verbo principal ("available")
+4597 | cf_mes_SHOP:35 | "Muito bem. Quantos gostaria?" | "Muito bem. Quantos vai querer?" | BAIXO | "gostaria" pede complemento ("de levar")
+4599 | cf_mes_SHOP:40 / SHOP:69 (4617) | "o primeiro cliente em tempos" | "o primeiro cliente em muito tempo" | BAIXO | "em tempos" não é natural
+4614 | cf_mes_SHOP:64 | "Impressiona que chegou<n>a este lugar frio." | "Estou impressionado que tenha<n>chegado a este lugar frio." | BAIXO | construção estranha
+4626 | cf_mes_SHOP:96 | "Bem-vindo! Chegaram itens..." | "Bem-vindo! Chegaram itens novos..." | BAIXO | perdeu o "new", frase incompleta
+4657 | cf_mes_COMBO:27 | "faz mais do que só lacrimejar os olhos..." | "faz mais do que só fazer os olhos lacrimejarem..." | MÉDIO | regência: "lacrimejar" é intransitivo
+4662 | cf_mes_COMBO:32 | "Um golpe secreto da Tartaruga." | "Um golpe secreto da Escola Tartaruga." | BAIXO | "da Tartaruga" sozinho fica vago
+4665 | cf_mes_COMBO:35 | "Um combo de Rajada de Ki total." | "Um combo de rajadas de Ki com força total." | BAIXO | "total" fica mal ligado
+4706 | use_item_mes:41/49/53, btl_acc_mes:223 | "Recupera todo HP e Ki" / "anular todo dano" | "Recupera todo o HP e o Ki" / "anular todo o dano" | BAIXO | "todo" sem artigo = "qualquer"; em 4680 está certo ("todo o HP")
+4720 | use_item_mes:56 | "Super Semente" | "Super Semente dos Deuses" (se couber) | BAIXO | nome do glossário truncado
+4722 | use_item_mes:58 | "Remédio Karin" | "Remédio do Karin" | BAIXO | falta preposição (cf. "Cantil do Karin", "Cajado do Karin")
+4726 | use_item_mes:62 | "Pena Cauda Fênix" | "Pena da Cauda de Fênix" | MÉDIO | faltam preposições; agramatical
+4738 | use_item_mes:74 | "Cura Pânico" (descrição: "Cura um aliado de Confusão") | "Cura Confusão" | MÉDIO | status se chama Confusão no jogo todo; "Pânico" não existe como status
+4761 | use_item_mes:97 | "Aumenta tudo por vários turnos" | "Aumenta todos os atributos por vários turnos" | BAIXO | vago demais
+4808 | use_item_mes:144 | "Joia Coelho Monstro" | "Joia do Coelho Monstro" | BAIXO | falta preposição
+4859 | use_item_mes:197 (x6) | "Pode ser vendida por bom dinheiro" | "Vale um bom dinheiro na venda" | MÉDIO | texto compartilhado por Sucata/Opala/Ametista/Esmeralda (fem.) e Rubi/Diamante (masc.): "vendida" erra o gênero nos masculinos
+4998 | btl_acc_mes:134 | "Pulseira Antitontura" | "Pulseira do Atordoamento" | BAIXO | o par é "Anel do Atordoamento"; status se chama Atordoamento
+5052 | btl_acc_mes:191 | "Prolonga os itens temporários" | "Prolonga o efeito dos itens temporários" | BAIXO | perdeu "effect"
+5057 | btl_acc_mes:196 | "Turbante do Popo" | "Turbante do Sr. Popo" | MÉDIO | glossário: Mr. Popo → Sr. Popo
+5061 | btl_acc_mes:201 | "Gasta Ki para virar o ataque normal <n>um ataque em corrente" | "Gasta Ki para transformar o ataque normal <n>em ataque encadeado" | MÉDIO | regência ("virar X em Y"/falta "em") + "corrente" (ver 4213)
+5065 | btl_acc_mes:206 | "Pulseira Revide" | "Pulseira do Revide" | BAIXO | falta preposição
+5107 | pt_eqp_mes:15 | "Vira inimigos vencidos em cenoura." | "Transforma inimigos vencidos em cenouras." | MÉDIO | regência ("virar ... em") e número
+5138 | pt_eqp_mes:46 / :70 | "Olhos Divinos" / "Roupa Divina" x "Capa de Kami-Sama", "Juízo de Kami-Sama" | "Olhos de Kami-Sama" / "Roupa de Kami-Sama" | BAIXO | itens "Kami's ..." com nomes em padrões diferentes
+5160 | pt_eqp_mes:68 | "Bênção Shenlong" | "Bênção de Shenlong" | BAIXO | falta preposição (cf. "Escama de Shenlong", "Unha de Shenlong")
+5238 | character_name:23 x 116 | "Desertor da RR" x "Desertor Red Ribbon" | diferenciar mais (ex.: "Desertor Red Ribbon" → "Fugitivo Red Ribbon") | BAIXO | dois inimigos diferentes com quase o mesmo nome e grafia da RR inconsistente
+5369 | character_name:172 x 166 | "Batedora Venenosa" x "Batedor Venenoso" | ex.: "Recruta Venenosa" (no padrão das larvas: Recruta Escavador, Aprendiz Noturno) | BAIXO | nomes quase iguais em inimigos diferentes; pode confundir
+3868 | cf1/c15/c1505_00.sb:36 | "ser deixado assim por um lixo como vocês" | "ser posto nesse estado por lixos como vocês" | BAIXO | "ser deixado assim" fica estranho
+3951 | cf1/c16/c1603_00.sb:28 | "Acho que quem precisa de preocupação é o Goku..." | "Acho que você devia se preocupar é com o Goku..." | BAIXO | construção pouco natural
+4017 | cf1/c16/c1610_05.sb (créditos) | cargos ora como função ("Gerência de Localização", "Coordenação de Marketing", "Edição de Vídeo"), ora como pessoa ("Produtor Executivo", "Gerente Sênior de RP"); "Gerente Sênior de Marketing" perdeu "Product" | escolher um padrão só | BAIXO | estilo misto nos cargos
+
+IMPRESSÃO GERAL: a fatia está boa. O diálogo final (cap. 15–16) é natural e fiel e segue o glossário (Kuririn, Kami-Sama, Mestre Karin, Genki Dama, Esferas do Dragão, Namekusei); não achei inglês sobrando nem erro grave de sentido. Os problemas se concentram nas tabelas: nomes de status/termos usados de forma inconsistente (Escuro/Escuridão, emboscada/ataque surpresa, Pânico/Confusão, Técnica/Especial, "Corrente" para chain, Nv x LV), concordâncias em textos de item compartilhados (vendida, roubado), algumas preposições faltando em nomes de item e umas poucas frases truncadas. Nos character_name, os nomes renomeados estão coerentes em gênero; Tenshinhan está com os glifos estreitos (aparece como "T\x89\x81s\x86i\x81\x86\x87\x81"), como esperado.
+Entradas lidas: 1528 (nº 3864 a 5391), arquivo lido até o fim (4584 linhas).

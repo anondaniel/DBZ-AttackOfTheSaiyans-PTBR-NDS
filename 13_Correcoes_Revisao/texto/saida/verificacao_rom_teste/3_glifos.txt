@@ -1,0 +1,2 @@
+caracteres >= 0x80 usados: [81][86][87][89]°ÀÁÂÃÉÊÍÓÔàáâãçéêíóôõú
+sem glifo em latin0/latin1: []

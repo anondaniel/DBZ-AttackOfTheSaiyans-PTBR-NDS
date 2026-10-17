@@ -1,0 +1,344 @@
+{
+ "0": {
+  "original": "<p>Well, he said I needed more training... but what should I do, exactly?<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:10"
+  ]
+ },
+ "1": {
+  "original": "<p>...Yamcha?<k><p>You've been training for ages now... Why don't you stay here and rest up a little?<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:13"
+  ]
+ },
+ "2": {
+  "original": "<p>I'd like to, but Krillin said he'd go back to Orin Temple to train, so...<k><p>If I let up now, I'll wind up falling way behind him and everyone else.<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:14"
+  ]
+ },
+ "3": {
+  "original": "<p>You think so? Hmmm...<k><p>Oh, I know!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:15"
+  ]
+ },
+ "4": {
+  "original": "<p>Yeah?<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:16"
+  ]
+ },
+ "5": {
+  "original": "<p>If Krillin went back to Orin, what do you think about going back to our old hideout?<k><p>That'd be the perfect spot to pick up your training!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:17"
+  ]
+ },
+ "6": {
+  "original": "<p>Oh, yeah! Man, I haven't been there in ages, too!<k><p>Sparring with my old bandit buddies sounds like a great idea!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:18"
+  ]
+ },
+ "7": {
+  "original": "<p>Hooraaaay!<k><p>In that case, I'll go run over there now and clean up the place for you!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:19"
+  ]
+ },
+ "8": {
+  "original": "<p>...Cool. Thanks!<k><p>(This'll be so sweet! I think I'll head off myself!)<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_00.sb:20"
+  ]
+ },
+ "9": {
+  "original": "<p>Boy, does this bring me back!<k><p>It really feels like I'm back home now!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_01.sb:10"
+  ]
+ },
+ "10": {
+  "original": "<p>...?<n>Sure is quiet... I've got kind of a bad feeling about this.<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_01.sb:11"
+  ]
+ },
+ "11": {
+  "original": "<p>Huh?!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_01.sb:12"
+  ]
+ },
+ "12": {
+  "original": "<p>What is that...?<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_01.sb:13"
+  ]
+ },
+ "13": {
+  "original": "<p>...Who's this guy?<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:11"
+  ]
+ },
+ "14": {
+  "original": "<p>...!!<k><p>Puar! What the heck happened here?!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:12"
+  ]
+ },
+ "15": {
+  "original": "<p>We've got big trouble, Yamcha! I tried getting to the hideout, but Monster Carrot is going crazy!<k><p>He turned all our old bandit friends into carrots, one by one!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:15"
+  ]
+ },
+ "16": {
+  "original": "<p>Monster Carrot?! I thought Goku took him up to the moon...<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:16"
+  ]
+ },
+ "17": {
+  "original": "<p>He did!<k><p>I don't know why, but he's back here again. I disguised myself as a carrot to get out of trouble!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:17"
+  ]
+ },
+ "18": {
+  "original": "<p>...Gehh! That guy never gives up, I swear!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:18"
+  ]
+ },
+ "19": {
+  "original": "<p>Yamcha... he's headed for your hideout!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:19"
+  ]
+ },
+ "20": {
+  "original": "<p>Really?!<k><p>...Looks like I'm going to have to teach him another lesson.<k><p>Puar, could you go on ahead and see what he's up to?<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:20"
+  ]
+ },
+ "21": {
+  "original": "<p>Sure thing! Leave it to me!<k>",
+  "ids": [
+   "sb:cf1/c02/c0201_02.sb:21"
+  ]
+ },
+ "22": {
+  "original": "<p>Yamcha! Over here!<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:10"
+  ]
+ },
+ "23": {
+  "original": "<p>Heh heh!<k><p>I never would've imagined seeing you here. I don't remember inviting you to my house.<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:13"
+  ]
+ },
+ "24": {
+  "original": "<p>Ho ho ho... we meet again, eh?<k><p>As of this moment, this shall be the base of operations for my brand-new Rabbit Gang.<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:16"
+  ]
+ },
+ "25": {
+  "original": "<p>You're starting up the Rabbit Gang again?!<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:17"
+  ]
+ },
+ "26": {
+  "original": "<p>I sure am. And let me tell you, after that brat shot me to the moon...<k><p>It took me a lot of time and effort to make it back here. It was really annoying.<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:18"
+  ]
+ },
+ "27": {
+  "original": "<p>Brat...? You mean Goku?<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:19"
+  ]
+ },
+ "28": {
+  "original": "<p>Ho ho ho ho ho... That was his name, yeah.<k><p>The experience did wonders for my fighting skills, though.<k><p>I won't be the embarrassment I was in the past, I warn you.<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:20"
+  ]
+ },
+ "29": {
+  "original": "<p>...Geh.<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:21"
+  ]
+ },
+ "30": {
+  "original": "<p>Yamcha, be careful!<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:22"
+  ]
+ },
+ "31": {
+  "original": "<p>This is a shabby place, isn't it?<k><p>Oh well, I suppose I can live with it...<k><p>This is just a foothold, a starting point. It doesn't need to be spotless.<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:23"
+  ]
+ },
+ "32": {
+  "original": "<p>Grrr! You're gonna pay for that...!<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:24"
+  ]
+ },
+ "33": {
+  "original": "<p>Hmmm? Oh, did you want to fight me?<k><p>All right, then... Come get some!<k>",
+  "ids": [
+   "sb:cf1/c02/c0202_00.sb:25"
+  ]
+ },
+ "34": {
+  "original": "<p>Eee! Ahhhhhh...!<n>P-please, forgive me!!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:10"
+  ]
+ },
+ "35": {
+  "original": "<p>Heh heh... I thought you said you'd improved?<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:13"
+  ]
+ },
+ "36": {
+  "original": "<p>Oh, no no no no!<k><p>Compared to you, I, I... ohhhh...<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:14"
+  ]
+ },
+ "37": {
+  "original": "<p>You called my hideout <d>shabby,<d> didn't you?<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:15"
+  ]
+ },
+ "38": {
+  "original": "<p>Oh, no, I...<k><p>I, I meant to say that your hair was looking a bit shaggy...<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:16"
+  ]
+ },
+ "39": {
+  "original": "<p>...Ah, whatever. I hope you're ready for this... I won't be as kind as Goku was.<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:17"
+  ]
+ },
+ "40": {
+  "original": "<p>Hah!!!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:18"
+  ]
+ },
+ "41": {
+  "original": "<p>Gah! I'll do anything! Anything you want! Please forgive me!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:19"
+  ]
+ },
+ "42": {
+  "original": "<p>Anything, you say?<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:20"
+  ]
+ },
+ "43": {
+  "original": "<p>Y-yes, yes! Please, tell me anything you need!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:21"
+  ]
+ },
+ "44": {
+  "original": "<p>Hmm... well, for starters, how about you make this shabby place spotless for me?<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:22"
+  ]
+ },
+ "45": {
+  "original": "<p>Whaaaaaaaat?!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:23"
+  ]
+ },
+ "46": {
+  "original": "<p>What, don't you like to clean?<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:24"
+  ]
+ },
+ "47": {
+  "original": "<p>O-of course I do!! I'll do it, I'll do it! Eh heh heh heh heh...<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:25"
+  ]
+ },
+ "48": {
+  "original": "<p>Great job, Yamcha!<k><p>Monster Carrot was so dangerous, but you knocked him out, just like that!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:28"
+  ]
+ },
+ "49": {
+  "original": "<p>You think I'm that strong?<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:29"
+  ]
+ },
+ "50": {
+  "original": "<p>Oh, absolutely!<k><p>I bet that you could even beat Goku by now, Yamcha!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:30"
+  ]
+ },
+ "51": {
+  "original": "<p>Ah, don't be stupid! That guy's doing some kinda crazy training right now with Kami!<k><p>That bunny weirdo's a total wuss compared to that!<k><p>I've got to find some tougher training... I need to get stronger!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:31"
+  ]
+ },
+ "52": {
+  "original": "<p>Yamcha...<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:32"
+  ]
+ },
+ "53": {
+  "original": "<p>Puar!!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:33"
+  ]
+ },
+ "54": {
+  "original": "<p>Yes, Yamcha!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:34"
+  ]
+ },
+ "55": {
+  "original": "<p>Starting tomorrow, my training plan's gonna be more intense than ever before!<k><p>You think you can help me out?!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:35"
+  ]
+ },
+ "56": {
+  "original": "<p>Y-you got it!<k>",
+  "ids": [
+   "sb:cf1/c02/c0203_00.sb:36"
+  ]
+ }
+}

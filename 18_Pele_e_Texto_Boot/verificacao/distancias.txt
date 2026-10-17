@@ -1,0 +1,29 @@
+# Distancias de paleta: ROM 13 -> ROM 13.1
+
+mapa_verificar: menor na 13 = 109, menor na 13.1 = 109 (limite 100) -> OK
+   5 menores (13.1): [(109, (24, 105)), (113, (15, 108)), (114, (44, 45)), (122, (97, 106)), (124, (60, 81))]
+mapa_build: menor na 13 = 109, menor na 13.1 = 109 (limite 100) -> OK
+   5 menores (13.1): [(109, (24, 105)), (113, (15, 108)), (114, (44, 45)), (122, (97, 106)), (124, (60, 81))]
+global: menor na 13 = 82, menor na 13.1 = 85 (limite 80) -> OK
+   5 menores (13.1): [(85, (33, 157)), (91, (43, 109)), (96, (102, 112)), (100, (39, 96)), (101, (46, 136))]
+
+por linha corrigida (menor distancia, linha vizinha): 13 -> 13.1
+   80  mapa_verificar: (None, None) -> (None, None)  |  mapa_build: (None, None) -> (None, None)  |  global: (168, 101) -> (105, 101)
+   95  mapa_verificar: (193, 104) -> (162, 104)  |  mapa_build: (193, 104) -> (162, 104)  |  global: (193, 104) -> (162, 104)
+  101  mapa_verificar: (286, 58) -> (237, 58)  |  mapa_build: (286, 58) -> (237, 58)  |  global: (166, 56) -> (105, 56)
+  103  mapa_verificar: (None, None) -> (None, None)  |  mapa_build: (None, None) -> (None, None)  |  global: (283, 117) -> (262, 150)
+  104  mapa_verificar: (193, 95) -> (162, 95)  |  mapa_build: (193, 95) -> (162, 95)  |  global: (158, 32) -> (132, 32)
+  106  mapa_verificar: (169, 97) -> (122, 97)  |  mapa_build: (169, 97) -> (122, 97)  |  global: (169, 97) -> (122, 97)
+  111  mapa_verificar: (244, 57) -> (183, 57)  |  mapa_build: (244, 57) -> (183, 57)  |  global: (203, 80) -> (117, 101)
+  114  mapa_verificar: (324, 24) -> (301, 24)  |  mapa_build: (324, 24) -> (301, 24)  |  global: (274, 161) -> (243, 161)
+  115  mapa_verificar: (269, 111) -> (235, 111)  |  mapa_build: (269, 111) -> (235, 111)  |  global: (269, 111) -> (227, 56)
+  116  mapa_verificar: (288, 53) -> (187, 53)  |  mapa_build: (288, 53) -> (187, 53)  |  global: (136, 156) -> (116, 156)
+  117  mapa_verificar: (None, None) -> (None, None)  |  mapa_build: (None, None) -> (None, None)  |  global: (277, 150) -> (262, 150)
+  136  mapa_verificar: (None, None) -> (None, None)  |  mapa_build: (None, None) -> (None, None)  |  global: (159, 46) -> (101, 46)
+  149  mapa_verificar: (None, None) -> (None, None)  |  mapa_build: (None, None) -> (None, None)  |  global: (322, 109) -> (219, 109)
+  156  mapa_verificar: (314, 54) -> (229, 54)  |  mapa_build: (314, 54) -> (229, 54)  |  global: (136, 116) -> (116, 116)
+  157  mapa_verificar: (None, None) -> (None, None)  |  mapa_build: (None, None) -> (None, None)  |  global: (82, 33) -> (85, 33)
+  161  mapa_verificar: (None, None) -> (None, None)  |  mapa_build: (None, None) -> (None, None)  |  global: (274, 114) -> (196, 23)
+  163  mapa_verificar: (231, 39) -> (216, 39)  |  mapa_build: (231, 39) -> (216, 39)  |  global: (175, 40) -> (154, 40)
+
+FALHAS: []

@@ -1,0 +1,2736 @@
+### 0 [btl_mes_SYS]
+First attack!
+### 1 [btl_mes_SYS]
+Sneak attack!
+### 2 [btl_mes_SYS]
+Not enough Ki.
+### 3 [btl_mes_SYS]
+Failed to escape...
+### 4 [btl_mes_SYS]
+Cannot escape this battle!
+### 5 [btl_mes_SYS]
+No one came...
+### 6 [btl_mes_SYS]
+No one to switch to.
+### 7 [btl_mes_SYS]
+<f> fled.
+### 8 [btl_mes_SYS]
+<i> stolen.
+### 9 [btl_mes_SYS]
+<f> watches on.
+### 10 [btl_mes_SYS]
+Cannot use Scouter.
+### 11 [btl_mes_SYS]
+Rage Gauge not full.
+### 12 [btl_mes_SYS]
+You have no items.
+### 13 [btl_mes_SYS]
+Can't use in Kaio-ken mode.
+### 14 [btl_mes_SYS]
+No Supers learned.
+### 15 [btl_mes_SYS]
+<t> was revived.
+### 16 [btl_mes_SYS]
+<t> appeared.
+### 17 [btl_mes_SYS]
+<f>'s Attack rose.
+### 18 [btl_mes_SYS]
+<f>'s Defense rose.
+### 19 [btl_mes_SYS]
+<f>'s Accuracy rose.
+### 20 [btl_mes_SYS]
+<f>'s Evade rose.
+### 21 [btl_mes_SYS]
+<f>'s Speed rose.
+### 22 [btl_mes_SYS]
+<f>'s Rage Gauge rose.
+### 23 [btl_mes_SYS]
+<f>'s Attack fell.
+### 24 [btl_mes_SYS]
+<f>'s Defense fell.
+### 25 [btl_mes_SYS]
+<f>'s Accuracy fell.
+### 26 [btl_mes_SYS]
+<f>'s Evade fell.
+### 27 [btl_mes_SYS]
+<f>'s Speed fell.
+### 28 [btl_mes_SYS]
+<f>'s Rage Gauge fell.
+### 29 [btl_mes_SYS]
+Took back <i>.
+### 30 [btl_mes_SYS]
+All
+### 31 [btl_mes_SYS]
+Item
+### 32 [btl_mes_SYS]
+Attack
+### 33 [btl_mes_SYS]
+Defend
+### 34 [btl_mes_SYS]
+Super
+### 35 [btl_mes_SYS]
+Ultimate
+### 36 [btl_mes_SYS]
+Switch
+### 37 [btl_mes_SYS]
+Run
+### 38 [btl_mes_SYS]
+Scouter
+### 39 [btl_mes_SYS]
+Containment Wave Power UP!
+### 40 [btl_mes_SYS]
+Item drops changed!
+### 41 [btl_mes_SYS]
+Rage gauge drops more slowly!
+### 42 [btl_mes_SYS]
+Rage gauge never falls!
+### 43 [btl_mes_SYS]
+Sneak attack rate UP!
+### 44 [btl_mes_SYS]
+First attack rate UP!
+### 45 [btl_mes_SYS]
+No sneak attacks!
+### 46 [btl_mes_SYS]
+Sparking Combo power UP!
+### 47 [btl_mes_SYS]
+Escape chance UP!
+### 48 [btl_mes_SYS]
+AP earned by standby members UP!
+### 49 [btl_mes_SYS]
+Zeni earned UP!
+### 50 [btl_mes_SYS]
+Item drop rate UP!
+### 51 [btl_mes_SYS]
+Rare item drop rate UP!
+### 52 [btl_mes_SYS]
+Poison resistance UP!
+### 53 [btl_mes_SYS]
+Thunder resistance UP!
+### 54 [btl_mes_SYS]
+Fire resistance UP!
+### 55 [btl_mes_SYS]
+Ice resistance UP!
+### 56 [btl_mes_SYS]
+Elemental resistance UP!
+### 57 [btl_mes_SYS]
+Poison on all enemies!
+### 58 [btl_mes_SYS]
+Darkness on all enemies!
+### 59 [btl_mes_SYS]
+Sleep on all enemies!
+### 60 [btl_mes_SYS]
+Paralysis on all enemies!
+### 61 [btl_mes_SYS]
+Freeze on all enemies!
+### 62 [btl_mes_SYS]
+HP refilled at end of battle!
+### 63 [btl_mes_SYS]
+Ki refilled at end of battle!
+### 64 [btl_mes_ITM]
+Used <i>.
+### 65 [btl_mes_ITM]
+<f> used <i> on <t>.
+### 66 [btl_mes_ITM]
+testTESTtest
+### 67 [btl_mes_ITM]
+Nothing happened.
+### 68 [btl_mes_ITM]
+<t> was healed.
+### 69 [btl_mes_ITM]
+<t> was fully healed.
+### 70 [btl_mes_ITM]
+Party healed.
+### 71 [btl_mes_ITM]
+Party fully healed.
+### 72 [btl_mes_ITM]
+<t>'s Ki refilled.
+### 73 [btl_mes_ITM]
+<t>'s Ki fully refilled.
+### 74 [btl_mes_ITM]
+Party's Ki refilled.
+### 75 [btl_mes_ITM]
+Party's Ki fully refilled.
+### 76 [btl_mes_ITM]
+<t>'s HP/Ki refilled.
+### 77 [btl_mes_ITM]
+<t>'s HP/Ki fully refilled.
+### 78 [btl_mes_ITM]
+Party's HP/Ki refilled.
+### 79 [btl_mes_ITM]
+Party's HP/Ki fully refilled.
+### 80 [btl_mes_ITM]
+<t>'s status restored.
+### 81 [btl_mes_ITM]
+Party's status restored.
+### 82 [btl_mes_ITM]
+HP/Ki switched.
+### 83 [btl_mes_ITM]
+Party's status recovered.
+### 84 [btl_mes_ITM]
+<t> recovered.
+### 85 [btl_mes_ITM]
+All downed fighters recovered.
+### 86 [btl_mes_ITM]
+<t> woke up.
+### 87 [btl_mes_ITM]
+<t> no longer paralyzed.
+### 88 [btl_mes_ITM]
+<t> no longer poisoned.
+### 89 [btl_mes_ITM]
+<t> no longer blind.
+### 90 [btl_mes_ITM]
+<t> no longer stunned.
+### 91 [btl_mes_ITM]
+<t> no longer confused.
+### 92 [btl_mes_ITM]
+<t> no longer frozen.
+### 93 [btl_mes_ITM]
+<t> free of ailments.
+### 94 [btl_mes_ITM]
+Party free of ailments.
+### 95 [btl_mes_ITM]
+<t>'s Rage Gauge rose.
+### 96 [btl_mes_ITM]
+<t>'s Rage Gauge at max.
+### 97 [btl_mes_ITM]
+<t>'s Attack rose.
+### 98 [btl_mes_ITM]
+<t>'s Defense rose.
+### 99 [btl_mes_ITM]
+<t>'s Accuracy rose.
+### 100 [btl_mes_ITM]
+<t>'s Evade rose.
+### 101 [btl_mes_ITM]
+<t>'s Speed rose.
+### 102 [btl_mes_ITM]
+All of <t>'s abilities rose.
+### 103 [btl_mes_ITM]
+<t>'s critical rate rose.
+### 104 [btl_mes_ITM]
+<t>'s Attack fell.
+### 105 [btl_mes_ITM]
+<t>'s Defense fell.
+### 106 [btl_mes_ITM]
+<t>'s Accuracy fell.
+### 107 [btl_mes_ITM]
+<t>'s Evade fell.
+### 108 [btl_mes_ITM]
+EXP earned in this battle UP!
+### 109 [btl_mes_ITM]
+Zeni earned in this battle UP!
+### 110 [btl_mes_ITM]
+Enemy item drop rate UP!
+### 111 [btl_mes_ITM]
+<t> is invincible.
+### 112 [btl_mes_ITM]
+<t> resistant to ailments.
+### 113 [btl_mes_ITM]
+<t>'s senses sharpened.
+### 114 [btl_mes_ITM]
+<t> bursts with power.
+### 115 [btl_mes_BLAST]
+HP Up
+### 116 [btl_mes_BLAST]
+Raises maximum HP
+### 117 [btl_mes_BLAST]
+Ki Up
+### 118 [btl_mes_BLAST]
+Raises maximum Ki
+### 119 [btl_mes_BLAST]
+Attack Up
+### 120 [btl_mes_BLAST]
+Raises Attack
+### 121 [btl_mes_BLAST]
+Defense Up
+### 122 [btl_mes_BLAST]
+Raises Defense
+### 123 [btl_mes_BLAST]
+Accuracy Up
+### 124 [btl_mes_BLAST]
+Raises Accuracy
+### 125 [btl_mes_BLAST]
+Dodge Up
+### 126 [btl_mes_BLAST]
+Raises Dodge
+### 127 [btl_mes_BLAST]
+Speed Up
+### 128 [btl_mes_BLAST]
+Raises movement speed
+### 129 [btl_mes_BLAST]
+Auto-heal Up
+### 130 [btl_mes_BLAST]
+Raises the amount of HP you heal<n>automatically
+### 131 [btl_mes_BLAST]
+Critical Up
+### 132 [btl_mes_BLAST]
+Increases chance of critical attack
+### 133 [btl_mes_BLAST]
+Chain Up
+### 134 [btl_mes_BLAST]
+Increases chance of launching a chain
+### 135 [btl_mes_BLAST]
+Rage Gauge Up
+### 136 [btl_mes_BLAST]
+Makes your Rage Gauge fill up faster
+### 137 [btl_mes_BLAST]
+All Abilities Up
+### 138 [btl_mes_BLAST]
+Raises all Abilities except HP and Ki
+### 139 [btl_mes_BLAST]
+Resistance Up
+### 140 [btl_mes_BLAST]
+Raises resistance against fire,<n>thunder, and ice
+### 141 [btl_mes_BLAST]
+Ailment Resist Up
+### 142 [btl_mes_BLAST]
+Makes you more resistant to status<n>ailments
+### 143 [btl_mes_BLAST]
+Item Effect Up
+### 144 [btl_mes_BLAST]
+Enhances the effect of the items<n>you use
+### 145 [btl_mes_BLAST]
+Item Drop Up
+### 146 [btl_mes_BLAST]
+Makes enemies drop items more often
+### 147 [btl_mes_BLAST]
+Ki Blast Resist Up
+### 148 [btl_mes_BLAST]
+Raises resistance to Ki attacks
+### 149 [btl_mes_BLAST]
+Combination
+### 150 [btl_mes_BLAST]
+A quick, nimble combo attack
+### 151 [btl_mes_BLAST]
+Meteor Combination
+### 152 [btl_mes_BLAST]
+A punishing combo attack
+### 153 [btl_mes_BLAST]
+Kamehameha
+### 154 [btl_mes_BLAST]
+Turtle Style Energy Wave Attack <n>The world-famous \42Kamehameha\42
+### 155 [btl_mes_BLAST]
+Energy Wave Combo
+### 156 [btl_mes_BLAST]
+Fires energy blasts at all enemies
+### 157 [btl_mes_BLAST]
+After-image Technique
+### 158 [btl_mes_BLAST]
+Gives you a large Evade boost for<n>several turns
+### 159 [btl_mes_BLAST]
+Kaio-ken
+### 160 [btl_mes_BLAST]
+Doubles all attributes for several turns<n>Decreases HP after effect expires
+### 161 [btl_mes_BLAST]
+Spirit Bomb
+### 162 [btl_mes_BLAST]
+An ultimate attack using everyone's spirit<n>Guard disabled until it's executed
+### 163 [btl_mes_BLAST]
+Rush
+### 164 [btl_mes_BLAST]
+Masenko
+### 165 [btl_mes_BLAST]
+An energy blast skill perfected by Piccolo
+### 166 [btl_mes_BLAST]
+Energy Blast Barrage
+### 167 [btl_mes_BLAST]
+Anger
+### 168 [btl_mes_BLAST]
+Expands the Rage Gauge and boosts your<n>attack for several turns
+### 169 [btl_mes_BLAST]
+Icarus
+### 170 [btl_mes_BLAST]
+Icarus appears to heal HP of all allies.
+### 171 [btl_mes_BLAST]
+Burst Rush
+### 172 [btl_mes_BLAST]
+A fierce combo attack driven by anger
+### 173 [btl_mes_BLAST]
+Miracle Full Force
+### 174 [btl_mes_BLAST]
+A rage-driven body attack
+### 175 [btl_mes_BLAST]
+Evil Assault
+### 176 [btl_mes_BLAST]
+A combo attack the way only Piccolo<n>could do it
+### 177 [btl_mes_BLAST]
+Destructive Wave
+### 178 [btl_mes_BLAST]
+A normal energy blast
+### 179 [btl_mes_BLAST]
+Light Grenade
+### 180 [btl_mes_BLAST]
+A strong energy blast<n>Attacking enemies with Ki from your hands
+### 181 [btl_mes_BLAST]
+Super Explosive Wave
+### 182 [btl_mes_BLAST]
+Launches an explosive energy wave around<n>your body, damaging all enemies
+### 183 [btl_mes_BLAST]
+Regeneration
+### 184 [btl_mes_BLAST]
+Refills your HP
+### 185 [btl_mes_BLAST]
+Special Beam Cannon
+### 186 [btl_mes_BLAST]
+Pierces enemies with Ki from your finger<n>Guard is disabled (for several turns) until it's executed
+### 187 [btl_mes_BLAST]
+Hellzone Grenade
+### 188 [btl_mes_BLAST]
+Surround your enemy with Ki force<n>Launch it all at once to explode the enemy
+### 189 [btl_mes_BLAST]
+Rengeki
+### 190 [btl_mes_BLAST]
+A combo attack that strikes the enemy<n>when his guard is down
+### 191 [btl_mes_BLAST]
+Destructo Disk
+### 192 [btl_mes_BLAST]
+An energy attack that slices right through<n>enemies
+### 193 [btl_mes_BLAST]
+Scatter Energy Wave
+### 194 [btl_mes_BLAST]
+Scatters compressed energy waves from the sky<n> damaging all enemies
+### 195 [btl_mes_BLAST]
+Solar Flare
+### 196 [btl_mes_BLAST]
+Dazzles enemies with a bright light.<n>Gives you a good chance to escape
+### 197 [btl_mes_BLAST]
+Chain Destructo-disc Barrage
+### 198 [btl_mes_BLAST]
+Fires a barrage of Destructo Disks at<n>all enemies
+### 199 [btl_mes_BLAST]
+Y-Yajirobe?!
+### 200 [btl_mes_BLAST]
+Yajirobe heals all allies, and his sword<n>disables all enemies from fighting.
+### 201 [btl_mes_BLAST]
+Fierce Attack
+### 202 [btl_mes_BLAST]
+A combo attack that plows over your<n>enemies
+### 203 [btl_mes_BLAST]
+Tri-Beam
+### 204 [btl_mes_BLAST]
+A strong energy blast that consumes HP
+### 205 [btl_mes_BLAST]
+Multi-Form Attack
+### 206 [btl_mes_BLAST]
+Divides you into four fighters and<n>launches energy waves
+### 207 [btl_mes_BLAST]
+Dazzle enemies with bright light <n>Chance of causing Darkness on<n>all enemies
+### 208 [btl_mes_BLAST]
+Evil Containment Wave
+### 209 [btl_mes_BLAST]
+Seals enemies into a rice cooker<n>Higher chance of success on weakened enemies
+### 210 [btl_mes_BLAST]
+Neo Tri-Beam
+### 211 [btl_mes_BLAST]
+Fires a barrage of Tri-Beams. Consumes<n>a large amount of HP
+### 212 [btl_mes_BLAST]
+Final Solar Flare
+### 213 [btl_mes_BLAST]
+Nobody can imitate this \42real\42 solar flare<n>Darkness and then big damages on all enemies 
+### 214 [btl_mes_BLAST]
+Wolf Hurricane
+### 215 [btl_mes_BLAST]
+A somewhat needlessly flashy combo move
+### 216 [btl_mes_BLAST]
+Wolf Fang Fist
+### 217 [btl_mes_BLAST]
+Yamcha's favorite strong combo attack
+### 218 [btl_mes_BLAST]
+Spirit Ball
+### 219 [btl_mes_BLAST]
+Attacks several times with a set of<n>energy balls
+### 220 [btl_mes_BLAST]
+Perfect Moves
+### 221 [btl_mes_BLAST]
+Allows you to always hit with your<n>attacks for several turns
+### 222 [btl_mes_BLAST]
+Neo Wolf Fang Fist
+### 223 [btl_mes_BLAST]
+A more powerful Wolf Fang Fist<n>A punishing combo attack
+### 224 [btl_mes_BLAST]
+Super Spirit Ball
+### 225 [btl_mes_BLAST]
+Attacks all enemies with powerful<n>Spirit Balls multiple several times
+### 226 [btl_mes_BLAST]
+Energy Blast
+### 227 [btl_mes_BLAST]
+2x Energy Blast
+### 228 [btl_mes_BLAST]
+Max Energy Blast
+### 229 [btl_mes_BLAST]
+Move it!!
+### 230 [btl_mes_BLAST]
+Kngh!
+### 231 [btl_mes_BLAST]
+Kaghh!
+### 232 [btl_mes_BLAST]
+I am Vegeta!
+### 233 [btl_mes_BLAST]
+Zrahh!
+### 234 [btl_mes_BLAST]
+Galick Gun
+### 235 [btl_mes_BLAST]
+Super Breath Cannon
+### 236 [btl_mes_BLAST]
+Turtle Style Last Resort
+### 237 [btl_mes_BLAST]
+Max Kamehameha
+### 238 [btl_mes_BLAST]
+Gigantic Blow
+### 239 [btl_mes_BLAST]
+Blaster Cannon
+### 240 [btl_mes_BLAST]
+Blaster Burst
+### 241 [btl_mes_TUT]
+\4AA\1P3Encounters
+### 242 [btl_mes_TUT]
+You will run into enemies during your<n>travels. Battle ends when you defeat them;<n>lose, and the game is over. Always keep<n>an eye on your party's HP levels.
+### 243 [btl_mes_TUT]
+\4AA\1P3Basic Commands
+### 244 [btl_mes_TUT]
+\1P1Attack  \1Pn: Attack enemies<n>\1P1Item    \1Pn: Use an item<n>\1P1Skill   \1Pn: Use Ki to launch a skill<n>\1P1Defend  \1Pn: Defend and reduce damage taken
+### 245 [btl_mes_TUT]
+\4AA\1P3Running
+### 246 [btl_mes_TUT]
+You can run from most battles by selecting<n>the \1P1Run\1Pn command. If it fails, the<n>character will be unable to do anything for<n>one turn.
+### 247 [btl_mes_TUT]
+\4AA\1P3Switching
+### 248 [btl_mes_TUT]
+If you have party members on standby, use<n>the \1P1Switch\1Pn command to change allies in and<n>out of battle.
+### 249 [btl_mes_TUT]
+\4AA\1P3Status Ailments
+### 250 [btl_mes_TUT]
+Sometimes enemy attacks will give you<n>status ailments. There are 8 types:<n>\1P1Sleep, Paralyze, Poison, Dark, Confuse, Stun,<n>\1P1Freeze, and Carrot\1Pn.
+### 251 [btl_mes_TUT]
+Status ailments may cost you several turns<n>or damage you gradually over time. It's<n>tough to fight with them, so fix them with<n>items as soon as possible.
+### 252 [btl_mes_TUT]
+\4AA\1P3Attack Types
+### 253 [btl_mes_TUT]
+There are several kinds of attacks you can<n>unleash. If one attack doesn't seem to<n>work, try another attack method, such as<n>a skill or item.<n>
+### 254 [btl_mes_TUT]
+@35 Melee type<n>@36 Ki type<n>@37 Fire type<n>@39 Thunder type<n>@38 Ice type<n>
+### 255 [btl_mes_TUT]
+\4AA\1P3Active Guards (1)
+### 256 [btl_mes_TUT]
+Press the Button just before the enemy <n>attacks to reduce damage. Watch for the<n>icon above your character's head -- that's<n>your chance.
+### 257 [btl_mes_TUT]
+\4AA\1P3Active Guards (2)
+### 258 [btl_mes_TUT]
+The button to press depends on where your<n>character is. From the top, press \4Pd,<n>\4Pf, or \4Pb. Try to press it just before<n>you take the attack.
+### 259 [btl_mes_TUT]
+\4AA\1P3Rage Gauge
+### 260 [btl_mes_TUT]
+This gauge goes up when you attack, or are<n>attacked by enemies. When it's full, you<n>can launch Ultimate Skills or Sparking<n>Combos.
+### 261 [btl_mes_TUT]
+\4AA\1P3Sparking Combos
+### 262 [btl_mes_TUT]
+These combos are launched when party<n>members \1P1whose Rage Gauge is maxed out\1Pn<n>attack the same enemy with certain<n>special moves.
+### 263 [btl_mes_TUT]
+These S-Combos let you deal more damage<n>than what would normally be possible.<n>There are many ways to combine these<n>moves, so try to experiment a little.
+### 264 [btl_mes_TUT]
+\4AA\1P3Ultimate Skills
+### 265 [btl_mes_TUT]
+These skills, learned as you play through<n>the game, are extremely powerful. You can<n>unleash them \1P1when your Rage Gauge is full\1Pn.
+### 266 [btl_mes_TUT]
+Some skills require several turns to<n>unleash. Get the timing right, and you'll<n>be able to smash your enemies!
+### 267 [btl_mes_TUT]
+\4AA\1P3World Tournament
+### 268 [btl_mes_TUT]
+You cannot use items during the World<n>Martial Arts Tournament. Use Active Guard<n>instead to keep damage as low as possible.
+### 269 [btl_mes_TUT]
+\1P3Skill Acquired
+### 270 [btl_mes_TUT]
+\1P3Piccolo\1Pn learned \1P1Special Beam Cannon\1Pn.
+### 271 [cf_mes_TUT]
+\4AA\1P3Shops
+### 272 [cf_mes_TUT]
+\24P3Welcome!<n>\24P3You can use@19\24P3 \1P3Zeni\1Pn (money)\1Pn to<N>\24P3buy a variety of items, as well<n>\24P3as sell stuff you don't need<n>\24P3for extra \1P3Zeni\1Pn.
+### 273 [cf_mes_TUT]
+\4AA\1P3Item Types
+### 274 [cf_mes_TUT]
+You can buy the following types<n>of items at the shop. Press<n>\240\4pi \4Pk\24P3 to switch menus.<n>@00\24P3\1P3Tools<n>@13\24P3\1P3Accessories<n>@14\24P3\1P3Capsules<n>
+### 275 [cf_mes_TUT]
+\4AA\1P3Accessories
+### 276 [cf_mes_TUT]
+\1P3Accessories\1Pn, found in shops and<n>dungeons, can be equipped on<n>characters to power up their<n>abilities. If you find one, try<n>it out and see what happens!
+### 277 [cf_mes_TUT]
+\4AA\1P3What's Available
+### 278 [cf_mes_TUT]
+Different towns sell different<n>merchandise, so make sure you<n>visit the shop whenever you get<n>to a new town.
+### 279 [cf_mes_MENU]
+Obtained<n><c=#8BEFD4>%s<c>!
+### 280 [cf_mes_MENU]
+Yes
+### 281 [cf_mes_MENU]
+No
+### 282 [cf_mes_MENU]
+* Caution *<n>This will delete any quicksave data.<n>Continue anyway?
+### 283 [cf_mes_MENU]
+Select Data to Load
+### 284 [cf_mes_MENU]
+Quicksave data available.<n>Continue your game?
+### 285 [cf_mes_MENU]
+Data corrupted
+### 286 [cf_mes_MENU]
+Empty
+### 287 [cf_mes_MENU]
+Overwrite this file?
+### 288 [cf_mes_MENU]
+Saving. Don't turn off the power.
+### 289 [cf_mes_MENU]
+Save and leave the game?
+### 290 [cf_mes_MENU]
+The game will return to the title screen.
+### 291 [cf_mes_MENU]
+Quicksaving...
+### 292 [cf_mes_MENU]
+Quicksave complete. It will be deleted<n>when you load it next.
+### 293 [cf_mes_MENU]
+Save your progress?
+### 294 [cf_mes_MENU]
+Are you sure you want to continue<n>without saving?
+### 295 [cf_mes_MENU]
+Quicksave data corrupt. Deleting.
+### 296 [cf_mes_MENU]
+Save Complete
+### 297 [cf_mes_MENU]
+Skip
+### 298 [cf_mes_MENU]
+OK
+### 299 [cf_mes_MENU]
+Back
+### 300 [cf_mes_MENU]
+Sort
+### 301 [cf_mes_MENU]
+Drop
+### 302 [cf_mes_MENU]
+Remove
+### 303 [cf_mes_MENU]
+Menu
+### 304 [cf_mes_MENU]
+Try Again
+### 305 [cf_mes_MENU]
+Buy
+### 306 [cf_mes_MENU]
+Sell
+### 307 [cf_mes_MENU]
+Items
+### 308 [cf_mes_MENU]
+Skills
+### 309 [cf_mes_MENU]
+Equip
+### 310 [cf_mes_MENU]
+Crystal Ball
+### 311 [cf_mes_MENU]
+Status
+### 312 [cf_mes_MENU]
+Options
+### 313 [cf_mes_MENU]
+Capsules
+### 314 [cf_mes_MENU]
+View Items and their usage 
+### 315 [cf_mes_MENU]
+Use AP to learn/upgrade skills
+### 316 [cf_mes_MENU]
+Change the party's equipment
+### 317 [cf_mes_MENU]
+View goals, enemy info, etc.
+### 318 [cf_mes_MENU]
+View your party's skills
+### 319 [cf_mes_MENU]
+Adjust the game's options
+### 320 [cf_mes_MENU]
+Change the battle lineup
+### 321 [cf_mes_MENU]
+Change capsule shortcuts
+### 322 [cf_mes_MENU]
+Quicksave
+### 323 [cf_mes_MENU]
+Save
+### 324 [cf_mes_MENU]
+Can not learn skills yet!
+### 325 [cf_mes_MENU]
+Ultimate Skills
+### 326 [cf_mes_MENU]
+Abilities
+### 327 [cf_mes_MENU]
+Select Skill type. You can use AP to<n>learn or upgrade Skills.
+### 328 [cf_mes_MENU]
+S-Combo<n>Guide
+### 329 [cf_mes_MENU]
+Next Goal
+### 330 [cf_mes_MENU]
+Enemy Info
+### 331 [cf_mes_MENU]
+Power
+### 332 [cf_mes_MENU]
+- - -
+### 333 [cf_mes_MENU]
+Use %s AP to earn this skill
+### 334 [cf_mes_MENU]
+Use %s AP to upgrade this skill
+### 335 [cf_mes_MENU]
+Assign your bonus points to your parameters.
+### 336 [cf_mes_MENU]
+Is this what you want?
+### 337 [cf_mes_MENU]
+Cannot assign any more points here.
+### 338 [cf_mes_MENU]
+Equip %s
+### 339 [cf_mes_MENU]
+No. Owned
+### 340 [cf_mes_MENU]
+Zeni @19
+### 341 [cf_mes_MENU]
+Total@19
+### 342 [cf_mes_MENU]
+NO DATA
+### 343 [cf_mes_MENU]
+Message Speed
+### 344 [cf_mes_MENU]
+The speed of conversation messages
+### 345 [cf_mes_MENU]
+Slow
+### 346 [cf_mes_MENU]
+Normal
+### 347 [cf_mes_MENU]
+Fast
+### 348 [cf_mes_MENU]
+Sound
+### 349 [cf_mes_MENU]
+Choose between stereo or mono
+### 350 [cf_mes_MENU]
+Mono
+### 351 [cf_mes_MENU]
+Stereo
+### 352 [cf_mes_MENU]
+Language Select
+### 353 [cf_mes_MENU]
+Language Select description text
+### 354 [cf_mes_MENU]
+English
+### 355 [cf_mes_MENU]
+French
+### 356 [cf_mes_MENU]
+German
+### 357 [cf_mes_MENU]
+Italian
+### 358 [cf_mes_MENU]
+Spanish
+### 359 [cf_mes_MENU]
+<p>Sniff... <w=30><n>Sniff...<w=60><p>Looks like there are <c=#c0c0f0>%d<c><n>treasures left to find here.<w=120>
+### 360 [cf_mes_MENU]
+Obtained <c=#c0c0f0>%d<c> <c=#c0c0f0>%s<c>(s)!
+### 361 [cf_mes_MENU]
+Obtained memo for S-Combo<n><c=#c0c0f0>%s<c>!
+### 362 [cf_mes_MENU]
+Cannot carry any more.<n>Returned to chest.
+### 363 [cf_mes_MENU]
+Drop the chosen item?
+### 364 [cf_mes_MENU]
+Buy the chosen item?
+### 365 [cf_mes_MENU]
+Sell the chosen item?
+### 366 [cf_mes_MENU]
+Ffwd
+### 367 [cf_mes_MENU]
+Next
+### 368 [cf_mes_MENU]
+Select
+### 369 [cf_mes_MENU]
+Capsule help display
+### 370 [cf_mes_MENU]
+\1P1Skill Req'd:\1Pn%s Lv%d
+### 371 [cf_mes_MENU]
+Ki cost
+### 372 [cf_mes_MENU]
+Force
+### 373 [cf_mes_MENU]
+Accuracy
+### 374 [cf_mes_MENU]
+Effect
+### 375 [cf_mes_MENU]
+Recover
+### 376 [cf_mes_MENU]
+Escape
+### 377 [cf_mes_MENU]
+Success
+### 378 [cf_mes_MENU]
+The save data could not be accessed.<n>Please turn off the power and<n>reinsert the DS Game Card.
+### 379 [cf_mes_MENU]
+Resetting backup memory.<n>Press the A Button to begin.
+### 380 [cf_mes_MENU]
+Resetting...
+### 381 [cf_mes_MENU]
+Memory reset failed. Please turn off<n>the power and reinsert the card.
+### 382 [cf_mes_MENU]
+Data write failed. Please turn off the<n>power and reinsert the card.
+### 383 [cf_mes_MENU]
+The Dragon Ball Z: Attack of the Saiyans<n>data is corrupted and will be deleted.<n>Press A Button to continue. 
+### 384 [cf_mes_MENU]
+Combos
+### 385 [cf_mes_MENU]
+Ki blasts
+### 386 [cf_mes_QUEST]
+Krillin returns to \1P3Orin Temple\1Pn, his<n>old stomping grounds.
+### 387 [cf_mes_QUEST]
+Orin Temple was attacked! Track down the<n>culprit in \1P3Bump Forest\1Pn!
+### 388 [cf_mes_QUEST]
+There's trouble on \1P3Mt. Paozu\1Pn. What<n>are all these carrots about?
+### 389 [cf_mes_QUEST]
+Monster Carrot is back! Chase him<n>down to the \1P3hideout\1Pn!
+### 390 [cf_mes_QUEST]
+Tien is headed for the \1P3Divine<n>\1P3Crossing\1Pn, resting place of Mutaito.
+### 391 [cf_mes_QUEST]
+The World Martial Arts Tournament is<n>here! First up, the prelims.
+### 392 [cf_mes_QUEST]
+The Tournament is in turmoil! Who<n>is this strange new fighter?
+### 393 [cf_mes_QUEST]
+Piccolo has returned! All hopes ride<n>on Goku in the final match!
+### 394 [cf_mes_QUEST]
+Goku and Chi-Chi get married! The<n>ceremony's at the \1P3Ox-King's palace!\1P3
+### 395 [cf_mes_QUEST]
+Head to \1P3Fortuneteller Baba's palace\1Pn<n>in search of the Bansho Fan.
+### 396 [cf_mes_QUEST]
+Hurry to \1P3Mt. Five Element\1Pn to find the<n>furnace that caused the fire!
+### 397 [cf_mes_QUEST]
+You need honey to patch the hole.<n>Master Roshi may know where it is.
+### 398 [cf_mes_QUEST]
+Find an eggshell from the fire-eater<n>bird that lives on \1P3Kiwi Volcano\1Pn.
+### 399 [cf_mes_QUEST]
+Hakkake, who lives near \1P3Mt. Frappe\1Pn,<n>apparently collects the honey.
+### 400 [cf_mes_QUEST]
+The honey has been stolen! Follow<n>the gang of three up \1P3Mt. Frappe\1Pn!
+### 401 [cf_mes_QUEST]
+Pilaf and his gang are behind this!<n>Chase them down!
+### 402 [cf_mes_QUEST]
+You got the honey! Now find the egg-<n>shell and visit Annin!
+### 403 [cf_mes_QUEST]
+Where is the hole in the furnace?<n>Part the flames and find it!
+### 404 [cf_mes_QUEST]
+A mysterious man is headed straight<n>for... \1P3Kame House\1Pn?!
+### 405 [cf_mes_QUEST]
+Goku has a son... and boy, is<n>he spoiled!
+### 406 [cf_mes_QUEST]
+Gohan's been kidnapped! And the<n>kidnapper is... Goku's brother?!
+### 407 [cf_mes_QUEST]
+Goku and Piccolo team up and head<n>for the \1P3Spinach Wastes\1Pn.
+### 408 [cf_mes_QUEST]
+All alone in the wilderness... Go<n>see Piccolo, who's waiting up ahead.
+### 409 [cf_mes_QUEST]
+Gohan's survival training begins!<n>Stay alive for six months!
+### 410 [cf_mes_QUEST]
+Goku is dead, Gohan taken away...<n>Krillin needs to tell Chi-Chi.
+### 411 [cf_mes_QUEST]
+Get the Precision Circuit from<n>\1P3Capsule Corp\1Pn and give it to Bulma.
+### 412 [cf_mes_QUEST]
+Kami is training fighters! Track<n>down Tien, Chiaotzu and Yamcha.
+### 413 [cf_mes_QUEST]
+Where is \1P3Holly Plain\1Pn? Find Launch,<n>who was out finding medicine!
+### 414 [cf_mes_QUEST]
+Launch is found beyond a gate! Find<n>the Frozen Hyacinth!
+### 415 [cf_mes_QUEST]
+Now bring the Frozen Hyacinth<n>back to \1P3Jingle Village\1Pn.
+### 416 [cf_mes_QUEST]
+Tien and Chiaotzu are reunited!<n>Yamcha should be on \1P3Mt. Paozu\1Pn.
+### 417 [cf_mes_QUEST]
+Everyone's here! Report back to<n>Master Roshi at \1P3Kame House\1Pn.
+### 418 [cf_mes_QUEST]
+Off to Kami's temple! First stop:<n>\1P3Korin Tower\1Pn.
+### 419 [cf_mes_QUEST]
+The Senzu plants are in trouble! Get<n>water for them at \1P3Hermit's Spring\1Pn.
+### 420 [cf_mes_QUEST]
+Gohan has grown! Whose presence does<n>he feel up ahead?
+### 421 [cf_mes_QUEST]
+Destroy the flower-eating dragon!<n>Gohan's real training begins!
+### 422 [cf_mes_QUEST]
+Is this the Other World? Talk to<n>Kami and King Yemma.
+### 423 [cf_mes_QUEST]
+Training under King Kai! \1P3Snake Way\1Pn<n>is yours to traverse.
+### 424 [cf_mes_QUEST]
+After falling asleep on Snake Way,<n>Goku lands in the \1P3Underworld\1Pn.
+### 425 [cf_mes_QUEST]
+A sumo match with Goz! Win, and<n>you'll get back on Snake Way!
+### 426 [cf_mes_QUEST]
+A game of tag with Mez! Win, and<n>you'll learn about the secret path!
+### 427 [cf_mes_QUEST]
+Chase after Mez!
+### 428 [cf_mes_QUEST]
+Got 'em! Ask Goz and Mez about the<n>secret path.
+### 429 [cf_mes_QUEST]
+What a detour! Hurry on<n>to \1P3Snake Way\1Pn!
+### 430 [cf_mes_QUEST]
+Is this King Kai's place? Let's<n>go inside.
+### 431 [cf_mes_QUEST]
+Princess Snake is angry! Get out<n>of her mansion!
+### 432 [cf_mes_QUEST]
+Another detour! Off to King<n>Kai's place!
+### 433 [cf_mes_QUEST]
+10 G-forces? No problem! Catch<n>the sneaky Bubbles!
+### 434 [cf_mes_QUEST]
+The \1P3Yemma Forest\1Pn has been vandal-<n>ized! Save the woods!
+### 435 [cf_mes_QUEST]
+Raditz is down! Back to King Kai<n>to continue your training.
+### 436 [cf_mes_QUEST]
+Before the Dragon Balls, visit<n>Baba's to meet your \42helper.\42
+### 437 [cf_mes_QUEST]
+Goku joins! Use the Dragon Rader to find <n>where the Dragon Balls are located!
+### 438 [cf_mes_QUEST]
+Melt the ice blocking the way to<n>\1P3Yunzabit Heights\1Pn with the flame!
+### 439 [cf_mes_QUEST]
+You got the fire! Now melt the ice<n>and explore the area beyond.
+### 440 [cf_mes_QUEST]
+The radar points you to the \1P3Devil's<n>Toilet\1Pn... Two Dragon Balls?!
+### 441 [cf_mes_QUEST]
+The two-star ball is in two pieces!<n>Get the other piece.
+### 442 [cf_mes_QUEST]
+Head to \1P3Kami's Temple\1Pn to repair the<n>broken two-star Dragon Ball.
+### 443 [cf_mes_QUEST]
+Find Eighter and the Dragon Ball<n>inside \1P3Muscle Tower\1Pn!
+### 444 [cf_mes_QUEST]
+An underwater Dragon Ball? Visit<n>\1P3West City\1Pn and meet Bulma's father.
+### 445 [cf_mes_QUEST]
+Dragon Ball search in a submarine!<n> What awaits in the deep sea...? 
+### 446 [cf_mes_QUEST]
+A Dragon Ball is hidden in the<n>\1P3Desert\1Pn. Track it down!
+### 447 [cf_mes_QUEST]
+Head to \1P3Pilaf's Castle\1Pn to get<n>your stolen Dragon Balls back!
+### 448 [cf_mes_QUEST]
+You're at the \1P3Castle\1Pn! Now get those<n>Dragon Balls back!
+### 449 [cf_mes_QUEST]
+Gohan's real training begins! Head<n>for the \1P3Nemuria Ruins\1Pn first.
+### 450 [cf_mes_QUEST]
+Piccolo told you to get the Devil's<n>Bracelet inside!
+### 451 [cf_mes_QUEST]
+You ran into the dead robot again.<n>Where's the spare battery?
+### 452 [cf_mes_QUEST]
+Gohan still isn't back... Piccolo<n>is getting anxious.
+### 453 [cf_mes_QUEST]
+Quicksand at the entrance! Hurry<n>inside!
+### 454 [cf_mes_QUEST]
+Gohan is found! But training isn't<n>over yet! Get the devil's bracelet!
+### 455 [cf_mes_QUEST]
+Chiaotzu is gone... Head for \1P3Baba's\1Pn<n>to figure out where he is.
+### 456 [cf_mes_QUEST]
+Chaiotzu is at \1P3Mutaito's training<n>grounds\1Pn! What happened to him?
+### 457 [cf_mes_QUEST]
+Revive the broken \1P3Yemma tree\1Pn to<n>get the Spirit Crystal!
+### 458 [cf_mes_QUEST]
+The tree is revived! Talk with<n>its spirit!
+### 459 [cf_mes_QUEST]
+You got the Spirit Crystal! The<n>Spirit Bomb is yours!
+### 460 [cf_mes_QUEST]
+The Saiyans arrive! Their first<n>target: Piccolo and Gohan!
+### 461 [cf_mes_QUEST]
+Krillin is here! Advance on to face<n>the Saiyans...
+### 462 [cf_mes_QUEST]
+Yamcha sacrificed his life against<n>the Saibamen. The battle begins!
+### 463 [cf_mes_QUEST]
+Where's Goku?! Three hours left<n>to plan against the Saiyans...
+### 464 [cf_mes_QUEST]
+The warriors go down like flies...<n>But Goku's finally here!
+### 465 [cf_mes_QUEST]
+The final battle! Proceed into the<n>\1P3Gizard Wasteland\1Pn. <n>A heated battle beyond the limit.
+### 466 [cf_mes_QUEST]
+Goku vs. Vegeta! This battle will<n>go beyond all limits.
+### 467 [cf_mes_QUEST]
+-
+### 468 [cf_mes_QUEST]
+Character \1PAcolor \1PBchange \1P0test
+### 469 [cf_mes_QUEST]
+#100
+### 470 [cf_mes_LOC]
+Devil's Toilet entr.
+### 471 [cf_mes_LOC]
+Devil's Toilet (Basement Left)
+### 472 [cf_mes_LOC]
+Devil's Toilet (Basement Right)
+### 473 [cf_mes_LOC]
+Orin Temple
+### 474 [cf_mes_LOC]
+East City Ruins
+### 475 [cf_mes_LOC]
+Yemma Forest
+### 476 [cf_mes_LOC]
+Inside Yemma Forest
+### 477 [cf_mes_LOC]
+Mt. Frappe Cave
+### 478 [cf_mes_LOC]
+Sewer
+### 479 [cf_mes_LOC]
+Mt. Five Element
+### 480 [cf_mes_LOC]
+Goku's House
+### 481 [cf_mes_LOC]
+Underworld
+### 482 [cf_mes_LOC]
+Korin Tower
+### 483 [cf_mes_LOC]
+Foot of Kiwi Volcano
+### 484 [cf_mes_LOC]
+Break Wasteland Desert
+### 485 [cf_mes_LOC]
+Gizard Wasteland entr.
+### 486 [cf_mes_LOC]
+Mutaito Training Grounds
+### 487 [cf_mes_LOC]
+Mutaito Grounds (cave)
+### 488 [cf_mes_LOC]
+In Paprika Wasteland
+### 489 [cf_mes_LOC]
+Nemuria Ruins
+### 490 [cf_mes_LOC]
+Inside Nemuria Ruins
+### 491 [cf_mes_LOC]
+Pilaf's Castle 1
+### 492 [cf_mes_LOC]
+Pilaf's Castle 2
+### 493 [cf_mes_LOC]
+Pilaf's Castle Window
+### 494 [cf_mes_LOC]
+Outside Pilaf's Castle
+### 495 [cf_mes_LOC]
+Princess Snake's House
+### 496 [cf_mes_LOC]
+Princess Snake's Room
+### 497 [cf_mes_LOC]
+In Spinach Wastes
+### 498 [cf_mes_LOC]
+Yunzabit Heights Cave
+### 499 [cf_mes_LOC]
+Yunzabit Ice Cave
+### 500 [cf_mes_LOC]
+End of Prologue
+### 501 [cf_mes_LOC]
+End of Chapter 1
+### 502 [cf_mes_LOC]
+End of Chapter 2
+### 503 [cf_mes_LOC]
+End of Chapter 3
+### 504 [cf_mes_LOC]
+End of Chapter 4
+### 505 [cf_mes_LOC]
+End of Chapter 5
+### 506 [cf_mes_LOC]
+End of Chapter 6
+### 507 [cf_mes_LOC]
+End of Chapter 7
+### 508 [cf_mes_LOC]
+End of Chapter 8
+### 509 [cf_mes_LOC]
+End of Chapter 9
+### 510 [cf_mes_LOC]
+End of Chapter 10
+### 511 [cf_mes_LOC]
+End of Chapter 11
+### 512 [cf_mes_LOC]
+End of Chapter 12
+### 513 [cf_mes_LOC]
+End of Chapter 13
+### 514 [cf_mes_LOC]
+End of Chapter 14
+### 515 [cf_mes_LOC]
+End of Chapter 15
+### 516 [cf_mes_LOC]
+Complete Game
+### 517 [cf_mes_LOC]
+Foot of Mt. Frappe
+### 518 [cf_mes_LOC]
+Mt. Frappe Path
+### 519 [cf_mes_LOC]
+In Break Wasteland
+### 520 [cf_mes_LOC]
+Break Wasteland entr.
+### 521 [cf_mes_SHOP]
+Hey! You wanna buy any of the stuff<n>I've collected? I'll wanna get paid<n>money for it, of course!
+### 522 [cf_mes_SHOP]
+I'm proud of this one. Buy as many<n>as you like!
+### 523 [cf_mes_SHOP]
+Huh? You're selling? What am I, a<n>pawnbroker? Well, whatever. What<n>do you want to sell?
+### 524 [cf_mes_SHOP]
+How many are you buying? The more,<n>the better, you know. Always be<n>prepared, and stuff!
+### 525 [cf_mes_SHOP]
+How many are you selling?
+### 526 [cf_mes_SHOP]
+Thanks! It's this sorta give and<n>take that makes the world go 'round,<n>you know?
+### 527 [cf_mes_SHOP]
+Oh, hello. We don't have much here,<n>but feel free to purchase whatever<n>you like.
+### 528 [cf_mes_SHOP]
+What would you like to buy?
+### 529 [cf_mes_SHOP]
+What would you like to sell?
+### 530 [cf_mes_SHOP]
+How many are you buying? 99, right?
+### 531 [cf_mes_SHOP]
+How many are you selling? Hopefully<n>not too much.
+### 532 [cf_mes_SHOP]
+Thank you very much... tee hee.
+### 533 [cf_mes_SHOP]
+Welcome! How would you like to<n>prepare for your battle?
+### 534 [cf_mes_SHOP]
+What are you buying? Try not to buy<n>too much! Heh heh heh...
+### 535 [cf_mes_SHOP]
+What are you selling? I'll take<n>anything you have. Heh heh heh...
+### 536 [cf_mes_SHOP]
+How many are you buying?
+### 537 [cf_mes_SHOP]
+Thank you very much. I look forward<n>to serving you again. Heh heh heh...
+### 538 [cf_mes_SHOP]
+Welcome! I am confident that we have<n>the best selection in the world.
+### 539 [cf_mes_SHOP]
+What're you buying? I am positive<n>you'll want to buy a lot.
+### 540 [cf_mes_SHOP]
+What're you selling? I am positive<n>you'll give me wonderful things.
+### 541 [cf_mes_SHOP]
+Thanks. Why not have a look at some<n>other things? There's no need to be<n>nervous about it.
+### 542 [cf_mes_SHOP]
+I am a traveling merchant, available<n>anywhere the world's martial artists<n>need me.
+### 543 [cf_mes_SHOP]
+What are you looking for?
+### 544 [cf_mes_SHOP]
+What would you like me to buy?
+### 545 [cf_mes_SHOP]
+Very well. How many would you like?
+### 546 [cf_mes_SHOP]
+How many will you be selling?
+### 547 [cf_mes_SHOP]
+Thank you very much. If you need<n>anything, kindly keep this traveling<n>merchant in mind.
+### 548 [cf_mes_SHOP]
+Welcome! You're our first customer<n>in a while! Have a look around!
+### 549 [cf_mes_SHOP]
+I'm proud of everything I sell!<n>Please, buy it all! ...Just kidding!<n>But buy some, anyway!
+### 550 [cf_mes_SHOP]
+What are you selling? I'll buy<n>anything!
+### 551 [cf_mes_SHOP]
+Thank you very much! Please, look<n>around as much as you like!
+### 552 [cf_mes_SHOP]
+Oh, good afternoon. What're you<n>here for? Shopping?
+### 553 [cf_mes_SHOP]
+This is all I got. You buying?
+### 554 [cf_mes_SHOP]
+What're you selling? I'm not<n>interested in garbage.
+### 555 [cf_mes_SHOP]
+How many you need?
+### 556 [cf_mes_SHOP]
+How many you selling?
+### 557 [cf_mes_SHOP]
+Right, thanks... Mm? You need<n>something else?
+### 558 [cf_mes_SHOP]
+Mmm? What do you need? Did you want<n>a piece of my collection?
+### 559 [cf_mes_SHOP]
+No! Stop! Quit staring at my<n>collection like that!
+### 560 [cf_mes_SHOP]
+Are you giving me your collection?
+### 561 [cf_mes_SHOP]
+Ah, that? All right. How many do<n>you want?
+### 562 [cf_mes_SHOP]
+I'd be happy to buy that. How many<n>are you parting with?
+### 563 [cf_mes_SHOP]
+A pleasure doing business with you.
+### 564 [cf_mes_SHOP]
+Oh, hello. I'm impressed you made it<n>to this cold place. Feel free to<n>warm up a little in here.
+### 565 [cf_mes_SHOP]
+Which do you want? Let me know if<n>you'd like to buy anything.
+### 566 [cf_mes_SHOP]
+What would you like me to buy? Let<n>me know what you're selling.
+### 567 [cf_mes_SHOP]
+Thank you much. You're my first<n>customer in a while. I'd love to<n>have you look around a bit more.
+### 568 [cf_mes_SHOP]
+Welcome.
+### 569 [cf_mes_SHOP]
+What will you buy?
+### 570 [cf_mes_SHOP]
+What will you sell?
+### 571 [cf_mes_SHOP]
+Thank you.
+### 572 [cf_mes_SHOP]
+Hey! I got some new stuff in! It<n>wouldn't kill you to have a look!
+### 573 [cf_mes_SHOP]
+Heh heh! I'm proud of this one.<n>Buy as many as you like!
+### 574 [cf_mes_SHOP]
+Oh, hello. I just took in some new<n>inventory that I'd love to show you.
+### 575 [cf_mes_SHOP]
+Thank you very much... tee hee. I<n>hope to continue receiving your<n>business.
+### 576 [cf_mes_SHOP]
+Welcome! We have new items in... How<n>would you like to prepare for your<n>battle?
+### 577 [cf_mes_SHOP]
+Welcome! We have new inventory in.<n>Have a look around.
+### 578 [cf_mes_SHOP]
+I have a wealth of new items in my<n>bag, ready for use by all the<n>martial artists in the world.
+### 579 [cf_mes_SHOP]
+Thank you very much. If you need<n>anything, kindly keep this<n>merchant in mind.
+### 580 [cf_mes_SHOP]
+Welcome! I've gotten in some new<n>stock! Please take a look!
+### 581 [cf_mes_SHOP]
+Oh, good afternoon. What're you<n>here for? Shopping? There's some<n>new stock around, I hear.
+### 582 [cf_mes_SHOP]
+Mmm? What do you need? Did you want<n>a look at the new items in my<n>collection?
+### 583 [cf_mes_SHOP]
+Oh, hello. We just got in a bunch<n>of new stock, so feel free to look<n>around.
+### 584 [cf_mes_COMBO]
+Charging Rush
+### 585 [cf_mes_COMBO]
+Rush Blast
+### 586 [cf_mes_COMBO]
+Hyper Rush
+### 587 [cf_mes_COMBO]
+Hyper Blast
+### 588 [cf_mes_COMBO]
+Saiyan Attack
+### 589 [cf_mes_COMBO]
+Demon Fusion Wave
+### 590 [cf_mes_COMBO]
+Demon Cannon
+### 591 [cf_mes_COMBO]
+Heavenly Sunlight
+### 592 [cf_mes_COMBO]
+Crane Wolf Strike
+### 593 [cf_mes_COMBO]
+Seismic Energy Ray
+### 594 [cf_mes_COMBO]
+Spirit Saucer
+### 595 [cf_mes_COMBO]
+Quad Siege
+### 596 [cf_mes_COMBO]
+Kamehame Fever
+### 597 [cf_mes_COMBO]
+Earthling Strike
+### 598 [cf_mes_COMBO]
+Meteor Impact
+### 599 [cf_mes_COMBO]
+Platonic Energy
+### 600 [cf_mes_COMBO]
+Demon-Wolf-Crane
+### 601 [cf_mes_COMBO]
+Rush at your foe and punch, kick,<n>do whatever it takes to beat him!
+### 602 [cf_mes_COMBO]
+A combination of punches, kicks, and<n>Ki blasts sure to fell any enemy!
+### 603 [cf_mes_COMBO]
+Beat your enemy to the ground with this<n>barrage of punches and kicks!
+### 604 [cf_mes_COMBO]
+Beat the stuffing out of your foe and<n>seal the deal with a massive Ki blast!
+### 605 [cf_mes_COMBO]
+A Goku family tradition. Send your foe<n>into the air, then rush at him!
+### 606 [cf_mes_COMBO]
+A co-op move between demon and Kami<n>pupil. The energy waves are merciless!
+### 607 [cf_mes_COMBO]
+A co-op strategy passed down among the<n>demon race. The Ki blast is the key!
+### 608 [cf_mes_COMBO]
+This sun-like burst of light does more<n>than just make your eyes water...
+### 609 [cf_mes_COMBO]
+The wolf and crane combine for a combo<n>capped off by a devastating Ki blast.
+### 610 [cf_mes_COMBO]
+A combo involving two types of Ki blasts.<n>Sometimes less really is more!
+### 611 [cf_mes_COMBO]
+A wave of Ki attacks. He'll never<n>give up women, will he?
+### 612 [cf_mes_COMBO]
+A quadruple-power attack followed by a<n>devastating demon Ki blast!
+### 613 [cf_mes_COMBO]
+One of the Turtle school's secret moves.<n>Burn your foe to a crisp!
+### 614 [cf_mes_COMBO]
+It's mano-a-mano with this move. Show<n>'em what Earthlings are made of!
+### 615 [cf_mes_COMBO]
+Give your foe a Saiyan combo attack,<n>finishing with a demon Ki blast!
+### 616 [cf_mes_COMBO]
+A full-power Ki-Blast combo. Show off<n>the power of friendship!
+### 617 [cf_mes_COMBO]
+A three-part fusion attack. Close your<n>eyes and let the Ki flow out!
+### 618 [use_item_mes]
+Small Bean
+### 619 [use_item_mes]
+Refills 150 of one ally's HP
+### 620 [use_item_mes]
+Medium Bean
+### 621 [use_item_mes]
+Refills 300 of one ally's HP
+### 622 [use_item_mes]
+Large Bean
+### 623 [use_item_mes]
+Refills 800 of one ally's HP
+### 624 [use_item_mes]
+MAX Bean
+### 625 [use_item_mes]
+Refills 1500 of one ally's HP
+### 626 [use_item_mes]
+HP Drink 30
+### 627 [use_item_mes]
+Refills 30% of one ally's HP
+### 628 [use_item_mes]
+HP Drink 50
+### 629 [use_item_mes]
+Refills 50% of one ally's HP
+### 630 [use_item_mes]
+HP Drink Z
+### 631 [use_item_mes]
+Fully refills one ally's HP
+### 632 [use_item_mes]
+HP Capsule 50
+### 633 [use_item_mes]
+Refills 50% of all allies' HP
+### 634 [use_item_mes]
+HP Capsule Z
+### 635 [use_item_mes]
+Fully refills all allies' HP
+### 636 [use_item_mes]
+Dragon Stone
+### 637 [use_item_mes]
+Refills a little HP of all allies<n>(Only during battle. Can be used repeatedly)
+### 638 [use_item_mes]
+Wilted Carrot
+### 639 [use_item_mes]
+Refills a little HP to one ally<n>(during battle only)
+### 640 [use_item_mes]
+Carrot
+### 641 [use_item_mes]
+Fancy Carrot
+### 642 [use_item_mes]
+Ki Drink 30
+### 643 [use_item_mes]
+Refills 30% of one ally's Ki
+### 644 [use_item_mes]
+Ki Drink 50
+### 645 [use_item_mes]
+Refills 50% of one ally's Ki
+### 646 [use_item_mes]
+Ki Drink Z
+### 647 [use_item_mes]
+Fully refills one ally's Ki
+### 648 [use_item_mes]
+Ki Capsule 50
+### 649 [use_item_mes]
+Refills 50% of all allies' Ki
+### 650 [use_item_mes]
+Ki Capsule Z
+### 651 [use_item_mes]
+Fully refills all allies' Ki
+### 652 [use_item_mes]
+Sacred Jewel
+### 653 [use_item_mes]
+Refills a little Ki of one ally<n>(Only during battle. Can be used repeatedly)
+### 654 [use_item_mes]
+Double Drink 50
+### 655 [use_item_mes]
+Refills 50% of one ally's HP and Ki
+### 656 [use_item_mes]
+Double Drink Z
+### 657 [use_item_mes]
+Fully refills one ally's HP and Ki
+### 658 [use_item_mes]
+Double Capsule 50
+### 659 [use_item_mes]
+Refills 50% of all allies' HP and Ki
+### 660 [use_item_mes]
+Double Capsule Z
+### 661 [use_item_mes]
+Hermit Elixir
+### 662 [use_item_mes]
+Refills some HP and Ki to one ally<n>(Reduces Rage Gauge)
+### 663 [use_item_mes]
+Hermit Medicine
+### 664 [use_item_mes]
+Fully refills one ally's HP and Ki<n>(Reduces Rage Gauge to zero)
+### 665 [use_item_mes]
+Hermit Water
+### 666 [use_item_mes]
+Refills some HP and Ki to all allies<n> (Reduces Rage Gauge)
+### 667 [use_item_mes]
+Hermit Milk
+### 668 [use_item_mes]
+Fully refills all allies' HP and Ki<n>(Reduces Rage Gauge to zero)
+### 669 [use_item_mes]
+Senzu Bean
+### 670 [use_item_mes]
+Refills one ally's HP and Ki to max,<n>reviving him and curing all statuses
+### 671 [use_item_mes]
+Super Senzu Bean
+### 672 [use_item_mes]
+Refills all allies' HP and Ki to max,<n> reviving them and curing all statuses
+### 673 [use_item_mes]
+Korin's Medicine
+### 674 [use_item_mes]
+Swaps your HP and Ki stats
+### 675 [use_item_mes]
+Phoenix Feather
+### 676 [use_item_mes]
+Revives one character with 50% HP
+### 677 [use_item_mes]
+Phoenix Tail Feather
+### 678 [use_item_mes]
+Revives one character with full HP
+### 679 [use_item_mes]
+Poison Recovery
+### 680 [use_item_mes]
+Cures one ally of Poison
+### 681 [use_item_mes]
+Darkness Recovery
+### 682 [use_item_mes]
+Cures one ally of Darkness
+### 683 [use_item_mes]
+Sleep Recovery
+### 684 [use_item_mes]
+Cures one ally of Sleep
+### 685 [use_item_mes]
+Bind Recovery
+### 686 [use_item_mes]
+Cures one ally of Paralysis
+### 687 [use_item_mes]
+Stun Recovery
+### 688 [use_item_mes]
+Cures one ally of Stun
+### 689 [use_item_mes]
+Panic Recovery
+### 690 [use_item_mes]
+Cures one ally of Confusion
+### 691 [use_item_mes]
+Freeze Recovery
+### 692 [use_item_mes]
+Cures one ally of Freeze
+### 693 [use_item_mes]
+Recover Capsule
+### 694 [use_item_mes]
+Cures one ally of all status ailments
+### 695 [use_item_mes]
+All Recover
+### 696 [use_item_mes]
+Cures all allies of all status ailments
+### 697 [use_item_mes]
+Anger Jewel
+### 698 [use_item_mes]
+Fills one ally's Rage Gauge a little
+### 699 [use_item_mes]
+Shenron Scale
+### 700 [use_item_mes]
+Fills one ally's Rage Gauge to max
+### 701 [use_item_mes]
+Attack Water
+### 702 [use_item_mes]
+Raises attack power for several turns
+### 703 [use_item_mes]
+Defense Water
+### 704 [use_item_mes]
+Raises defense power for several turns
+### 705 [use_item_mes]
+Battle Sense
+### 706 [use_item_mes]
+Raises accuracy for several turns
+### 707 [use_item_mes]
+Evasion Secrets
+### 708 [use_item_mes]
+Raises evasion for several turns
+### 709 [use_item_mes]
+Paozu Stone
+### 710 [use_item_mes]
+Raises speed for several turns
+### 711 [use_item_mes]
+Super Sacred Water
+### 712 [use_item_mes]
+Raises all parameters for several turns
+### 713 [use_item_mes]
+Dragonbone Powder
+### 714 [use_item_mes]
+Raises the chance of a critical attack<n> for several turns
+### 715 [use_item_mes]
+Missile
+### 716 [use_item_mes]
+Launches a missile at one enemy
+### 717 [use_item_mes]
+Giant Missile
+### 718 [use_item_mes]
+Launches a large missile at one enemy
+### 719 [use_item_mes]
+Multi-Missile
+### 720 [use_item_mes]
+Fires several missiles at all enemies
+### 721 [use_item_mes]
+Satellite Laser
+### 722 [use_item_mes]
+Attacks all enemies with lasers<n>from the sky
+### 723 [use_item_mes]
+Hot Capsule
+### 724 [use_item_mes]
+Light @37fire damage to one enemy
+### 725 [use_item_mes]
+Burn Capsule
+### 726 [use_item_mes]
+Major @37fire damage to one enemy
+### 727 [use_item_mes]
+Ox-King Flame
+### 728 [use_item_mes]
+Light @37fire damage to all enemies
+### 729 [use_item_mes]
+Annin Flame
+### 730 [use_item_mes]
+Major @37fire damage to all enemies
+### 731 [use_item_mes]
+Electric Capsule
+### 732 [use_item_mes]
+Light @39lightning damage to one enemy
+### 733 [use_item_mes]
+Thunder Capsule
+### 734 [use_item_mes]
+Major @39lightning damage to one enemy
+### 735 [use_item_mes]
+Master Roshi's Anger
+### 736 [use_item_mes]
+Light @39lightning damage to all enemies
+### 737 [use_item_mes]
+Kami's Judgment
+### 738 [use_item_mes]
+Major @39lightning damage to all enemies
+### 739 [use_item_mes]
+Ice Capsule
+### 740 [use_item_mes]
+Light @38ice damage to one enemy
+### 741 [use_item_mes]
+Freeze Capsule
+### 742 [use_item_mes]
+Major @38ice damage to one enemy
+### 743 [use_item_mes]
+Jingle Village Bomb
+### 744 [use_item_mes]
+Light @38ice damage to all enemies
+### 745 [use_item_mes]
+Yunzabit Bomb
+### 746 [use_item_mes]
+Major @38ice damage to all enemies
+### 747 [use_item_mes]
+Sleep Pill
+### 748 [use_item_mes]
+Puts one enemy to sleep
+### 749 [use_item_mes]
+Wolf's Roar
+### 750 [use_item_mes]
+Paralyzes one enemy
+### 751 [use_item_mes]
+Rattlesnake Scale
+### 752 [use_item_mes]
+Poisons one enemy
+### 753 [use_item_mes]
+Spirit Light
+### 754 [use_item_mes]
+Puts one enemy in darkness
+### 755 [use_item_mes]
+Absolute Zero
+### 756 [use_item_mes]
+Freezes one enemy
+### 757 [use_item_mes]
+Demon King Seal
+### 758 [use_item_mes]
+Instantly kills one enemy
+### 759 [use_item_mes]
+Monster Carrot Jewel
+### 760 [use_item_mes]
+Turns one enemy into a carrot
+### 761 [use_item_mes]
+Mystery Jewel
+### 762 [use_item_mes]
+Gives a random status ailment<n>to one enemy
+### 763 [use_item_mes]
+Blunder Card
+### 764 [use_item_mes]
+Reduces attack power of one enemy
+### 765 [use_item_mes]
+Bravado Card
+### 766 [use_item_mes]
+Reduces defense power of one enemy
+### 767 [use_item_mes]
+Defocus Card
+### 768 [use_item_mes]
+Reduces accuracy of one enemy
+### 769 [use_item_mes]
+Inattention Card
+### 770 [use_item_mes]
+Reduces evasion of one enemy
+### 771 [use_item_mes]
+HP Fruit
+### 772 [use_item_mes]
+Raises your maximum HP
+### 773 [use_item_mes]
+Ki Fruit
+### 774 [use_item_mes]
+Raises your maximum Ki
+### 775 [use_item_mes]
+Power Fruit
+### 776 [use_item_mes]
+Raises Power
+### 777 [use_item_mes]
+Defense Fruit
+### 778 [use_item_mes]
+Recovery Fruit
+### 779 [use_item_mes]
+Raises Recovery
+### 780 [use_item_mes]
+Skill Fruit
+### 781 [use_item_mes]
+Raises Skill
+### 782 [use_item_mes]
+Speed Fruit
+### 783 [use_item_mes]
+Raises Speed
+### 784 [use_item_mes]
+Luck Fruit
+### 785 [use_item_mes]
+Raises Luck
+### 786 [use_item_mes]
+Ki-Blast Fruit
+### 787 [use_item_mes]
+Raises the maximum size of the Ki-Blast<n>meter on the field map
+### 788 [use_item_mes]
+Finisher Bean
+### 789 [use_item_mes]
+Use to obtain 1500 AP
+### 790 [use_item_mes]
+Exorcism Water
+### 791 [use_item_mes]
+Lets you walk for a while without<n>encountering enemies
+### 792 [use_item_mes]
+Attract Water
+### 793 [use_item_mes]
+Raises chance of enemy encounter<n>for a while
+### 794 [use_item_mes]
+Smoke Bomb
+### 795 [use_item_mes]
+Lets you escape a battle 100%<n>of the time
+### 796 [use_item_mes]
+EXP Boost
+### 797 [use_item_mes]
+Raises the experience points earned<n>in battle
+### 798 [use_item_mes]
+Zeni Boost
+### 799 [use_item_mes]
+Raises the money earned in battle
+### 800 [use_item_mes]
+Theft Card
+### 801 [use_item_mes]
+Demon Bravery
+### 802 [use_item_mes]
+Makes you invincible until your next turn
+### 803 [use_item_mes]
+Perception Charm
+### 804 [use_item_mes]
+Lets you have a good chance to evade the next attack
+### 805 [use_item_mes]
+Concentration Charm
+### 806 [use_item_mes]
+Boosts attack power greatly<n>until the next turn
+### 807 [use_item_mes]
+Resist Seal
+### 808 [use_item_mes]
+Makes you more resistant to status<n>ailments for several turns
+### 809 [use_item_mes]
+Scrap Iron
+### 810 [use_item_mes]
+Can be sold for lots of money
+### 811 [use_item_mes]
+Opal
+### 812 [use_item_mes]
+Amethyst
+### 813 [use_item_mes]
+Emerald
+### 814 [use_item_mes]
+Ruby
+### 815 [use_item_mes]
+Diamond
+### 816 [btl_acc_mes]
+Energy Ring
+### 817 [btl_acc_mes]
+Raises maximum HP by 100
+### 818 [btl_acc_mes]
+Energy Bracelet
+### 819 [btl_acc_mes]
+Raises maximum HP by 300
+### 820 [btl_acc_mes]
+Energy Necklace
+### 821 [btl_acc_mes]
+Raises maximum HP by 500
+### 822 [btl_acc_mes]
+Ki Ring
+### 823 [btl_acc_mes]
+Raises maximum Ki by 30
+### 824 [btl_acc_mes]
+Ki Bracelet
+### 825 [btl_acc_mes]
+Raises maximum Ki by 50
+### 826 [btl_acc_mes]
+Ki Necklace
+### 827 [btl_acc_mes]
+Raises maximum Ki by 100
+### 828 [btl_acc_mes]
+Power Ring
+### 829 [btl_acc_mes]
+Raises Power by 3
+### 830 [btl_acc_mes]
+Power Bracelet
+### 831 [btl_acc_mes]
+Raises Power by 5
+### 832 [btl_acc_mes]
+Power Necklace
+### 833 [btl_acc_mes]
+Raises Power by 8
+### 834 [btl_acc_mes]
+Defense Ring
+### 835 [btl_acc_mes]
+Raises Defense by 3
+### 836 [btl_acc_mes]
+Defense Bracelet
+### 837 [btl_acc_mes]
+Raises Defense by 5
+### 838 [btl_acc_mes]
+Defense Necklace
+### 839 [btl_acc_mes]
+Raises Defense by 8
+### 840 [btl_acc_mes]
+Recovery Ring
+### 841 [btl_acc_mes]
+Raises Recover by 3
+### 842 [btl_acc_mes]
+Recovery Bracelet
+### 843 [btl_acc_mes]
+Raises Recover by 5
+### 844 [btl_acc_mes]
+Recovery Necklace
+### 845 [btl_acc_mes]
+Raises Recover by 8
+### 846 [btl_acc_mes]
+Skill Ring
+### 847 [btl_acc_mes]
+Raises Skill by 3
+### 848 [btl_acc_mes]
+Skill Bracelet
+### 849 [btl_acc_mes]
+Raises Skill by 5
+### 850 [btl_acc_mes]
+Skill Necklace
+### 851 [btl_acc_mes]
+Raises Skill by 8
+### 852 [btl_acc_mes]
+Agility Ring
+### 853 [btl_acc_mes]
+Raises Speed by 3
+### 854 [btl_acc_mes]
+Agility Bracelet
+### 855 [btl_acc_mes]
+Raises Speed by 5
+### 856 [btl_acc_mes]
+Agility Necklace
+### 857 [btl_acc_mes]
+Raises Speed by 8
+### 858 [btl_acc_mes]
+Luck Ring
+### 859 [btl_acc_mes]
+Raises Luck by 5
+### 860 [btl_acc_mes]
+Luck Bracelet
+### 861 [btl_acc_mes]
+Raises Luck by 10
+### 862 [btl_acc_mes]
+Luck Necklace
+### 863 [btl_acc_mes]
+Raises Luck by 15
+### 864 [btl_acc_mes]
+Full Ring
+### 865 [btl_acc_mes]
+Raises all parameters by 2
+### 866 [btl_acc_mes]
+Full Bracelet
+### 867 [btl_acc_mes]
+Raises all parameters by 4
+### 868 [btl_acc_mes]
+Full Necklace
+### 869 [btl_acc_mes]
+Raises all parameters by 6
+### 870 [btl_acc_mes]
+Fighter's Mark
+### 871 [btl_acc_mes]
+Raises attack power by 5%
+### 872 [btl_acc_mes]
+Fighter's Emblem
+### 873 [btl_acc_mes]
+Raises attack power by 10%
+### 874 [btl_acc_mes]
+Fighter's Crest
+### 875 [btl_acc_mes]
+Raises attack power by 15%
+### 876 [btl_acc_mes]
+Protective Mark
+### 877 [btl_acc_mes]
+Raises defense power by 5%
+### 878 [btl_acc_mes]
+Protective Emblem
+### 879 [btl_acc_mes]
+Raises defense power by 10%
+### 880 [btl_acc_mes]
+Protective Crest
+### 881 [btl_acc_mes]
+Raises defense power by 15%
+### 882 [btl_acc_mes]
+Striker's Mark
+### 883 [btl_acc_mes]
+Raises accuracy by 10%
+### 884 [btl_acc_mes]
+Striker's Emblem
+### 885 [btl_acc_mes]
+Raises accuracy by 15%
+### 886 [btl_acc_mes]
+Striker's Crest
+### 887 [btl_acc_mes]
+Raises accuracy by 20%
+### 888 [btl_acc_mes]
+Evasion Mark
+### 889 [btl_acc_mes]
+Raises evasion by 10%
+### 890 [btl_acc_mes]
+Evasion Emblem
+### 891 [btl_acc_mes]
+Raises evasion by 15%
+### 892 [btl_acc_mes]
+Evasion Crest
+### 893 [btl_acc_mes]
+Raises evasion by 20%
+### 894 [btl_acc_mes]
+Speed Mark
+### 895 [btl_acc_mes]
+Raises speed by 10%
+### 896 [btl_acc_mes]
+Speed Emblem
+### 897 [btl_acc_mes]
+Raises speed by 20%
+### 898 [btl_acc_mes]
+Speed Crest
+### 899 [btl_acc_mes]
+Raises speed by 30%
+### 900 [btl_acc_mes]
+Recovery Mark
+### 901 [btl_acc_mes]
+Raises auto-healing by 10%
+### 902 [btl_acc_mes]
+Recovery Emblem
+### 903 [btl_acc_mes]
+Raises auto-healing by 15%
+### 904 [btl_acc_mes]
+Recovery Crest
+### 905 [btl_acc_mes]
+Raises auto-healing by 20%
+### 906 [btl_acc_mes]
+Fighter's Secret
+### 907 [btl_acc_mes]
+Raises chance of critical hits by 3%
+### 908 [btl_acc_mes]
+Hero's Secret
+### 909 [btl_acc_mes]
+Raises chance of critical hits by 5%
+### 910 [btl_acc_mes]
+Master's Secret
+### 911 [btl_acc_mes]
+Raises chance of critical hits by 8%
+### 912 [btl_acc_mes]
+Fighter's Scheme
+### 913 [btl_acc_mes]
+Raises chance of launching chains by 3%
+### 914 [btl_acc_mes]
+Hero's Scheme
+### 915 [btl_acc_mes]
+Raises chance of launching chains by 5%
+### 916 [btl_acc_mes]
+Master's Scheme
+### 917 [btl_acc_mes]
+Raises chance of launching chains by 8%
+### 918 [btl_acc_mes]
+Rush Ring
+### 919 [btl_acc_mes]
+Raises attack by 15%;<n>lowers defense by 15%
+### 920 [btl_acc_mes]
+Rush Bracelet
+### 921 [btl_acc_mes]
+Raises attack by 20%;<n>lowers defense by 20%
+### 922 [btl_acc_mes]
+Caution Ring
+### 923 [btl_acc_mes]
+Raises defense by 15%;<n>lowers attack by 15%
+### 924 [btl_acc_mes]
+Caution Bracelet
+### 925 [btl_acc_mes]
+Raises defense by 20%;<n>lowers attack by 20%
+### 926 [btl_acc_mes]
+Model Full Moon
+### 927 [btl_acc_mes]
+Boosts all of a Saiyan's powers, but<n>puts him in permanent Confusion mode
+### 928 [btl_acc_mes]
+Saiyan Spirit
+### 929 [btl_acc_mes]
+Raises all of a Saiyan's powers<n>when he is near death
+### 930 [btl_acc_mes]
+Perfume
+### 931 [btl_acc_mes]
+Drastically lowers Yamcha's defense;<n>raises all his other parameters
+### 932 [btl_acc_mes]
+Sleep Ring
+### 933 [btl_acc_mes]
+Makes you resistant to Sleep
+### 934 [btl_acc_mes]
+Sleep Bracelet
+### 935 [btl_acc_mes]
+Makes you impervious to Sleep
+### 936 [btl_acc_mes]
+Paralysis Ring
+### 937 [btl_acc_mes]
+Makes you resistant to Paralysis
+### 938 [btl_acc_mes]
+Paralysis Bracelet
+### 939 [btl_acc_mes]
+Makes you impervious to Paralysis
+### 940 [btl_acc_mes]
+Poison Ring
+### 941 [btl_acc_mes]
+Makes you resistant to Poison
+### 942 [btl_acc_mes]
+Poison Bracelet
+### 943 [btl_acc_mes]
+Makes you impervious to Poison
+### 944 [btl_acc_mes]
+Dark Ring
+### 945 [btl_acc_mes]
+Makes you resistant to Darkness
+### 946 [btl_acc_mes]
+Dark Bracelet
+### 947 [btl_acc_mes]
+Makes you impervious to Darkness
+### 948 [btl_acc_mes]
+Stun Ring
+### 949 [btl_acc_mes]
+Makes you resistant to Stun
+### 950 [btl_acc_mes]
+Stun Bracelet
+### 951 [btl_acc_mes]
+Makes you impervious to Stun
+### 952 [btl_acc_mes]
+Confuse Ring
+### 953 [btl_acc_mes]
+Makes you resistant to Confusion
+### 954 [btl_acc_mes]
+Confuse Bracelet
+### 955 [btl_acc_mes]
+Makes you impervious to Confusion
+### 956 [btl_acc_mes]
+Freeze Ring
+### 957 [btl_acc_mes]
+Makes you resistant to Freezing
+### 958 [btl_acc_mes]
+Freeze Bracelet
+### 959 [btl_acc_mes]
+Makes you impervious to Freezing
+### 960 [btl_acc_mes]
+Evil Containment Stone
+### 961 [btl_acc_mes]
+Gives you a chance to avoid<n>instant-kill attacks
+### 962 [btl_acc_mes]
+Evil Containment Jewel
+### 963 [btl_acc_mes]
+Defense against all instant-kill attacks
+### 964 [btl_acc_mes]
+CHA-LA
+### 965 [btl_acc_mes]
+Makes you more resistant to<n>all status ailments
+### 966 [btl_acc_mes]
+HEAD-CHA-LA
+### 967 [btl_acc_mes]
+Makes you impervious to<n>all status ailments
+### 968 [btl_acc_mes]
+Sleep Knuckle
+### 969 [btl_acc_mes]
+Chance of putting enemies to sleep<n>with each attack
+### 970 [btl_acc_mes]
+Bind Knuckle
+### 971 [btl_acc_mes]
+Chance of paralyzing enemies<n>with each attack
+### 972 [btl_acc_mes]
+Poison Knuckle
+### 973 [btl_acc_mes]
+Chance of poisoning enemies<n>with each attack
+### 974 [btl_acc_mes]
+Blindfold Knuckle
+### 975 [btl_acc_mes]
+Chance of putting enemies in darkness<n>with each attack
+### 976 [btl_acc_mes]
+Stun Knuckle
+### 977 [btl_acc_mes]
+Chance of stunning enemies<n>with each attack
+### 978 [btl_acc_mes]
+Freeze Knuckle
+### 979 [btl_acc_mes]
+Chance of freezing enemies<n>with each attack
+### 980 [btl_acc_mes]
+Demon Seal
+### 981 [btl_acc_mes]
+Chance of killing an enemy instantly<n>with each attack
+### 982 [btl_acc_mes]
+Fire Glove
+### 983 [btl_acc_mes]
+Adds @37fire element to normal attacks
+### 984 [btl_acc_mes]
+Thunder Glove
+### 985 [btl_acc_mes]
+Adds @39Lightning element to normal attacks
+### 986 [btl_acc_mes]
+Ice Glove
+### 987 [btl_acc_mes]
+Adds @38ice element to normal attacks
+### 988 [btl_acc_mes]
+Comfort Ring
+### 989 [btl_acc_mes]
+Refills a little Ki with each turn
+### 990 [btl_acc_mes]
+Comfort Bracelet
+### 991 [btl_acc_mes]
+Refills some Ki with each turn
+### 992 [btl_acc_mes]
+Healing Bracelet
+### 993 [btl_acc_mes]
+Raises the rate of HP regeneration;<n>refills a little Ki
+### 994 [btl_acc_mes]
+Absorb Bracelet
+### 995 [btl_acc_mes]
+Absorbs damage landed on enemies<n>and refills a little HP
+### 996 [btl_acc_mes]
+Psyonic Bracelet
+### 997 [btl_acc_mes]
+Absorbs @36Ki damage from enemies<n>and refills a little of your Ki
+### 998 [btl_acc_mes]
+Meditation Belt
+### 999 [btl_acc_mes]
+Reduces consumed Ki a little
+### 1000 [btl_acc_mes]
+Kami's Cape
+### 1001 [btl_acc_mes]
+Makes all Ki attacks cost 1
+### 1002 [btl_acc_mes]
+Selflessness Belt
+### 1003 [btl_acc_mes]
+Makes some attacks cost zero Ki
+### 1004 [btl_acc_mes]
+Knowledge Belt
+### 1005 [btl_acc_mes]
+Enhances effect of consumable items
+### 1006 [btl_acc_mes]
+Extension Belt
+### 1007 [btl_acc_mes]
+Extends effect of timed items
+### 1008 [btl_acc_mes]
+Range Belt
+### 1009 [btl_acc_mes]
+HP and KI recovery items heal the whole<n>party evenly
+### 1010 [btl_acc_mes]
+Fortune Belt
+### 1011 [btl_acc_mes]
+Gives you a chance to use items<n>without consuming them
+### 1012 [btl_acc_mes]
+Popo's Turban
+### 1013 [btl_acc_mes]
+Raises the experience points you earn
+### 1014 [btl_acc_mes]
+Bushido Spirit
+### 1015 [btl_acc_mes]
+Raises the AP you earn
+### 1016 [btl_acc_mes]
+Consumes Ki to make a normal attack a <n>chain attack
+### 1017 [btl_acc_mes]
+Tension Up
+### 1018 [btl_acc_mes]
+Makes the Rage Gauge fill up faster
+### 1019 [btl_acc_mes]
+Targeting Ring
+### 1020 [btl_acc_mes]
+Makes your attacks hit the enemy<n>100% of the time
+### 1021 [btl_acc_mes]
+Counter Bracelet
+### 1022 [btl_acc_mes]
+Lets you counterattack the enemy<n>(Low chance)
+### 1023 [btl_acc_mes]
+Dragon's Rage
+### 1024 [btl_acc_mes]
+Lets you counterattack the enemy<n>(High chance)
+### 1025 [btl_acc_mes]
+Double-Edged Seal
+### 1026 [btl_acc_mes]
+Raises attack power, but also hurts<n>you with each attack landed
+### 1027 [btl_acc_mes]
+Shenron's Nail
+### 1028 [btl_acc_mes]
+Always gives you the first<n>attack in battle
+### 1029 [btl_acc_mes]
+Confrontation Brace
+### 1030 [btl_acc_mes]
+Makes enemies target you more often
+### 1031 [btl_acc_mes]
+Blessing Belt
+### 1032 [btl_acc_mes]
+Chance of rendering attacks<n>against you ineffective
+### 1033 [btl_acc_mes]
+Attitude Belt
+### 1034 [btl_acc_mes]
+Chance of reviving yourself when<n>you run out of HP
+### 1035 [btl_acc_mes]
+Guard Earring
+### 1036 [btl_acc_mes]
+Reduces damage received during<n>an Active Guard
+### 1037 [btl_acc_mes]
+Detect Earring
+### 1038 [btl_acc_mes]
+Chance of avoiding all damage<n>with an Active Guard
+### 1039 [btl_acc_mes]
+Guard Sense
+### 1040 [btl_acc_mes]
+Chance of counterattack with<n>an Active Guard
+### 1041 [btl_acc_mes]
+One-Hit Earring
+### 1042 [btl_acc_mes]
+Chance of killing weaker enemies<n>immediately
+### 1043 [btl_acc_mes]
+Invigorate Ring
+### 1044 [btl_acc_mes]
+Raises power of @36Ki blasts
+### 1045 [btl_acc_mes]
+High Spirits
+### 1046 [btl_acc_mes]
+Shares your spirit to<n>increase the power of spirit ball<n>(Anyone but Goku can use it)
+### 1047 [btl_acc_mes]
+Broly's Necklace
+### 1048 [btl_acc_mes]
+Proof that Broly is defeated<n> Raises all parameters by 50
+### 1049 [pt_eqp_mes]
+Dragon Radar
+### 1050 [pt_eqp_mes]
+Helps you find Dragon Balls. \1P3Standby:\1Pn No<n>effect. Press \24ON\4P6\24P2 to use.
+### 1051 [pt_eqp_mes]
+Oolong's Nose
+### 1052 [pt_eqp_mes]
+Helps you find treasures in the map.<n>\1P3Standby:\1Pn No effect. Press \24ON\4P6\24P2 to use.
+### 1053 [pt_eqp_mes]
+Korin's Canteen
+### 1054 [pt_eqp_mes]
+Raises the speed your Ki meter refills.<n>\1P3Standby:\1Pn No effect.
+### 1055 [pt_eqp_mes]
+Displays enemy data during battle.<n>\1P3Standby:\1Pn 100% effective.
+### 1056 [pt_eqp_mes]
+Rice Cooker
+### 1057 [pt_eqp_mes]
+Makes Tien's Evil Containment Wave a little<n>more powerful. \1P3Standby:\1Pn 100% effective.
+### 1058 [pt_eqp_mes]
+Better Rice Cooker
+### 1059 [pt_eqp_mes]
+Makes Tien's Containment Wave more<n>powerful. \1P3Standby:\1Pn 100% effective.
+### 1060 [pt_eqp_mes]
+Best Rice Cooker
+### 1061 [pt_eqp_mes]
+Makes Tien's Containment Wave much<n>more powerful. \1P3Standby:\1Pn 100% effective.
+### 1062 [pt_eqp_mes]
+Carrot Glove
+### 1063 [pt_eqp_mes]
+Turns defeated enemies into carrots. No Zeni<n>can be obtained. \1P3Standby:\1P3 No effect.
+### 1064 [pt_eqp_mes]
+Energy Seed
+### 1065 [pt_eqp_mes]
+Refills a little HP after battle.<n>\1P3Standby:\1Pn No effect.
+### 1066 [pt_eqp_mes]
+Ki Seed
+### 1067 [pt_eqp_mes]
+Refills a little Ki after battle.<n>\1P3Standby:\1Pn No effect.
+### 1068 [pt_eqp_mes]
+Chi-Chi's Lunch
+### 1069 [pt_eqp_mes]
+Refills HP as you walk around.<n>\1P3Standby:\1Pn 50% effective.
+### 1070 [pt_eqp_mes]
+Korin's Staff
+### 1071 [pt_eqp_mes]
+Refills Ki as you walk around.<n>\1P3Standby:\1Pn 50% effective.
+### 1072 [pt_eqp_mes]
+Agitator
+### 1073 [pt_eqp_mes]
+Keeps Rage Gauge from falling as much<n>after battle. \1P3Standby:\1Pn No effect.
+### 1074 [pt_eqp_mes]
+Adrenaline
+### 1075 [pt_eqp_mes]
+Keeps Rage Gauge from falling<n>after battle. \1P3Standby:\1Pn No effect.
+### 1076 [pt_eqp_mes]
+Squeaky Boots
+### 1077 [pt_eqp_mes]
+Raises rate of enemy encounter.<n>\1P3Standby:\1Pn No effect.
+### 1078 [pt_eqp_mes]
+Ninja Sandals
+### 1079 [pt_eqp_mes]
+Lowers rate of enemy encounter.<n>\1P3Standby:\1Pn No effect.
+### 1080 [pt_eqp_mes]
+Foe Charm
+### 1081 [pt_eqp_mes]
+Raises chance of encounter with rare<n>enemies. \1P3Standby:\1Pn No effect.
+### 1082 [pt_eqp_mes]
+Foe Challenger
+### 1083 [pt_eqp_mes]
+Makes you encounter strong foes more<n>than weak ones. \1P3Standby:\1Pn No effect.
+### 1084 [pt_eqp_mes]
+Heavy Karate Outfit
+### 1085 [pt_eqp_mes]
+Gives you a little experience as you<n>walk around. \1P3Standby:\1Pn 50% effective.
+### 1086 [pt_eqp_mes]
+Oolong's Wallet
+### 1087 [pt_eqp_mes]
+Gives you a little Zeni as you walk<n>around. \1P3Standby:\1Pn 50% effective.
+### 1088 [pt_eqp_mes]
+Swift Boots
+### 1089 [pt_eqp_mes]
+Raises speed and chance of being sneak-<n>attacked. \1P3Standby:\1Pn No effect.
+### 1090 [pt_eqp_mes]
+Spark Boots
+### 1091 [pt_eqp_mes]
+Makes you move much faster.<n>\1P3Standby:\1Pn No effect.
+### 1092 [pt_eqp_mes]
+Offense Ring
+### 1093 [pt_eqp_mes]
+Raises chance of a first strike in<n>battle. \1P3Standby:\1Pn 50% effective.
+### 1094 [pt_eqp_mes]
+Kami's Eyes
+### 1095 [pt_eqp_mes]
+Keeps enemies from sneak-attacking you.<n>\1P3Standby:\1Pn No effect.
+### 1096 [pt_eqp_mes]
+Combo UP
+### 1097 [pt_eqp_mes]
+Raises Sparking Combo damage.<n>\1P3Standby:\1Pn 50% effective.
+### 1098 [pt_eqp_mes]
+Escape Path
+### 1099 [pt_eqp_mes]
+Raises chance of running from enemies in<n>battle. \1P3Standby:\1Pn No effect.
+### 1100 [pt_eqp_mes]
+Hammock
+### 1101 [pt_eqp_mes]
+Raises AP earned by non-party members.<n>\1P3Standby:\1Pn 100% effective.
+### 1102 [pt_eqp_mes]
+Zeni Rush
+### 1103 [pt_eqp_mes]
+Raises Zeni dropped by enemies after<n>battle. \1P3Standby:\1Pn 50% effective.
+### 1104 [pt_eqp_mes]
+Item Rush
+### 1105 [pt_eqp_mes]
+Raises chance of item drops after<n>battle. \1P3Standby:\1Pn 50% effective.
+### 1106 [pt_eqp_mes]
+Puar's Wallet
+### 1107 [pt_eqp_mes]
+Raises chance of rare item drops after<n>battle. \1P3Standby:\1Pn No effect.
+### 1108 [pt_eqp_mes]
+Gas Mask
+### 1109 [pt_eqp_mes]
+Raises Poison resistance; makes gas<n>floors safe. \1P3Standby:\1Pn 50% effective.
+### 1110 [pt_eqp_mes]
+Rubber Boots
+### 1111 [pt_eqp_mes]
+Raises Thunder defense; makes electric<n>floors safe. \1P3Standby:\1Pn 50% effective.
+### 1112 [pt_eqp_mes]
+Cold Boots
+### 1113 [pt_eqp_mes]
+Raises Fire resistance; makes fire<n>floors safe. \1P3Standby:\1Pn 50% effective.
+### 1114 [pt_eqp_mes]
+Silver Fur
+### 1115 [pt_eqp_mes]
+Raises Ice resistance; makes icy<n>floors safe. \1P3Standby:\1Pn 50% effective.
+### 1116 [pt_eqp_mes]
+Shenron's Blessing
+### 1117 [pt_eqp_mes]
+Makes all damaging floors safe.<n>\1P3Standby:\1Pn No effect.
+### 1118 [pt_eqp_mes]
+Kami's Uniform
+### 1119 [pt_eqp_mes]
+Raises Poison/Lightning/Fire/Ice<n>resistance. \1P3Standby:\1Pn 50% effective.
+### 1120 [pt_eqp_mes]
+Poison Card
+### 1121 [pt_eqp_mes]
+Occasionally poisons enemies at the start<n>of battle. \1P3Standby:\1Pn No effect.
+### 1122 [pt_eqp_mes]
+Darkness Card
+### 1123 [pt_eqp_mes]
+Occasionally blinds enemies at the start<n>of a battle. \1P3Standby:\1Pn No effect.
+### 1124 [pt_eqp_mes]
+Sleep Card
+### 1125 [pt_eqp_mes]
+Occasionally makes enemies sleep at<n>the start of a battle. \1P3Standby:\1Pn No effect.
+### 1126 [pt_eqp_mes]
+Binding Card
+### 1127 [pt_eqp_mes]
+Occasionally paralyzes enemies at start<n>of battle. \1P3Standby:\1Pn No effect.
+### 1128 [pt_eqp_mes]
+Freezing Card
+### 1129 [pt_eqp_mes]
+Occasionally freezes enemies at start<n>of battle. \1P3Standby:\1Pn No effect.
+### 1130 [key_item_mes]
+Fortuneteller's Ball
+### 1131 [key_item_mes]
+A mysterious crystal, somehow related to the one<n>Fortuneteller Baba has.
+### 1132 [key_item_mes]
+Orin Sign
+### 1133 [key_item_mes]
+Orin Temple's sign. You got this<n>back for the temple.
+### 1134 [key_item_mes]
+Eggshell
+### 1135 [key_item_mes]
+The shell from an egg laid by the fire-<n>eater bird on Kiwi Volcano.
+### 1136 [key_item_mes]
+Honey
+### 1137 [key_item_mes]
+Hakkake's favorite. Can also be used<n>as an adhesive.
+### 1138 [key_item_mes]
+Bansho Fan
+### 1139 [key_item_mes]
+An amazing fan that can put out the<n>flames on Fire Mountain.
+### 1140 [key_item_mes]
+Precision Circuit
+### 1141 [key_item_mes]
+A circuit needed to fix the device<n>Goku's brother left behind.
+### 1142 [key_item_mes]
+Snowfield Key
+### 1143 [key_item_mes]
+Required to open the Snowfield gate.
+### 1144 [key_item_mes]
+Frozen Hyacinth
+### 1145 [key_item_mes]
+A flower found on Holly Plain. Used to<n>make fever medication.
+### 1146 [key_item_mes]
+Hermit Spring Water
+### 1147 [key_item_mes]
+Special water taken from Hermit Spring.<n>Required to raise Senzu bean plants.
+### 1148 [key_item_mes]
+Submarine
+### 1149 [key_item_mes]
+Allows you access to certain areas<n>on the world map.
+### 1150 [key_item_mes]
+Furnace Flame
+### 1151 [key_item_mes]
+Allows you to melt any blocks of ice<n>you run into on the map.
+### 1152 [key_item_mes]
+One-Star Ball
+### 1153 [key_item_mes]
+The Dragon Ball with one star.
+### 1154 [key_item_mes]
+Two-Star Ball
+### 1155 [key_item_mes]
+The Dragon Ball with two stars.
+### 1156 [key_item_mes]
+Three-Star Ball
+### 1157 [key_item_mes]
+The Dragon Ball with three stars.
+### 1158 [key_item_mes]
+Four-Star Ball
+### 1159 [key_item_mes]
+The Dragon Ball with four stars.
+### 1160 [key_item_mes]
+Five-Star Ball
+### 1161 [key_item_mes]
+The Dragon Ball with five stars.
+### 1162 [key_item_mes]
+Six-Star Ball
+### 1163 [key_item_mes]
+The Dragon Ball with six stars.
+### 1164 [key_item_mes]
+Seven-Star Ball
+### 1165 [key_item_mes]
+The Dragon Ball with seven stars.
+### 1166 [key_item_mes]
+Dragon Ball Shard
+### 1167 [key_item_mes]
+A piece of the broken two-star<n>Dragon Ball.
+### 1168 [key_item_mes]
+Battery
+### 1169 [key_item_mes]
+Something must run off this battery.
+### 1170 [key_item_mes]
+Devil's Bracelet
+### 1171 [key_item_mes]
+A bracelet imbued with Piccolo's power.
+### 1172 [key_item_mes]
+Bubbles' Thing
+### 1173 [key_item_mes]
+Water to revive Yemma trees. Very<n>nutritious. Don't ask how he makes it.
+### 1174 [key_item_mes]
+Spirit Crystal
+### 1175 [key_item_mes]
+The spirit crystal from an Yemma tree,<n>obtained from Montgomery.
+### 1176 [key_item_mes]
+Empty Capsule
+### 1177 [key_item_mes]
+Increases the number of capsule<n>shortcuts available.
+### 1178 [key_item_mes]
+Sewer Key
+### 1179 [key_item_mes]
+A key for the sewer entrance inside<n>the Martial Arts Temple.
+### 1180 [key_item_mes]
+East City Pass
+### 1181 [key_item_mes]
+Permission for the bearer to enter the<n>most damaged sections of East City.
+### 1182 [character_name]
+Piccolo
+### 1183 [character_name]
+Bubbles
+### 1184 [character_name]
+Gregory
+### 1185 [character_name]
+Saibaman
+### 1186 [character_name]
+J. Sai
+### 1187 [character_name]
+C. Sai
+### 1188 [character_name]
+K. Sai
+### 1189 [character_name]
+T. Sai
+### 1190 [character_name]
+Pirate Robot
+### 1191 [character_name]
+Skull Robot
+### 1192 [character_name]
+Captain Robot
+### 1193 [character_name]
+Red Ribbon Spy
+### 1194 [character_name]
+Hired Rider
+### 1195 [character_name]
+Red Ribbon Mech
+### 1196 [character_name]
+RR Tundra Robot
+### 1197 [character_name]
+RR Deserter
+### 1198 [character_name]
+Red Ribbon Survivor
+### 1199 [character_name]
+Red Ribbon Medic
+### 1200 [character_name]
+RR High Soldier
+### 1201 [character_name]
+RR Northern Soldier
+### 1202 [character_name]
+RR Ex-Sergeant
+### 1203 [character_name]
+RR Ex-Staff Sergeant
+### 1204 [character_name]
+Female Bandit
+### 1205 [character_name]
+Snow Bandit Girl
+### 1206 [character_name]
+Bandit Queen
+### 1207 [character_name]
+Bandit
+### 1208 [character_name]
+Snow Bandit
+### 1209 [character_name]
+Bandit King
+### 1210 [character_name]
+Thief Fox
+### 1211 [character_name]
+Veteran Fox
+### 1212 [character_name]
+Racketeer Fox
+### 1213 [character_name]
+Sniper
+### 1214 [character_name]
+Refugee
+### 1215 [character_name]
+Elite Assassin
+### 1216 [character_name]
+Fugitive
+### 1217 [character_name]
+Piratess
+### 1218 [character_name]
+Female Desert Bandit
+### 1219 [character_name]
+Pirate
+### 1220 [character_name]
+Desert Bandit
+### 1221 [character_name]
+Rabbit Private 1
+### 1222 [character_name]
+Rabbit Elite Guard 1
+### 1223 [character_name]
+Rabbit Survivor 1
+### 1224 [character_name]
+Rabbit Private 2
+### 1225 [character_name]
+Rabbit Elite Guard 2
+### 1226 [character_name]
+Rabbit Survivor 2
+### 1227 [character_name]
+Female Pupil
+### 1228 [character_name]
+Betrayer
+### 1229 [character_name]
+Expelled Pupil
+### 1230 [character_name]
+Pupil
+### 1231 [character_name]
+Would-be Fighter
+### 1232 [character_name]
+Rowdy Fighter
+### 1233 [character_name]
+Instructor
+### 1234 [character_name]
+Princess' Servant
+### 1235 [character_name]
+Princess' Guard
+### 1236 [character_name]
+Weird Girl
+### 1237 [character_name]
+Raider
+### 1238 [character_name]
+Thug
+### 1239 [character_name]
+Grave Robber
+### 1240 [character_name]
+Meadow Wizard
+### 1241 [character_name]
+Spring Guard
+### 1242 [character_name]
+Red Shaman
+### 1243 [character_name]
+Distrustful Man
+### 1244 [character_name]
+Violent Tribesman
+### 1245 [character_name]
+Ruin Guard
+### 1246 [character_name]
+Winged Dragon
+### 1247 [character_name]
+Violent Dragon
+### 1248 [character_name]
+Snow Dragon
+### 1249 [character_name]
+Dinosaur
+### 1250 [character_name]
+Ice Dinosaur
+### 1251 [character_name]
+Fire Dinosaur
+### 1252 [character_name]
+Giant Snake
+### 1253 [character_name]
+Mansion Snake
+### 1254 [character_name]
+Poisonous Snake
+### 1255 [character_name]
+Lantern Ghost
+### 1256 [character_name]
+Ship Ghost
+### 1257 [character_name]
+Patrol Ghost
+### 1258 [character_name]
+Ghost Pot
+### 1259 [character_name]
+Head Ghoul
+### 1260 [character_name]
+Death Sentence
+### 1261 [character_name]
+Demon Denizen
+### 1262 [character_name]
+Demon Noble
+### 1263 [character_name]
+Demon Mystic
+### 1264 [character_name]
+Gogyo Majin
+### 1265 [character_name]
+Ensei Majin
+### 1266 [character_name]
+Ostrich Chicken
+### 1267 [character_name]
+Sand Dodo
+### 1268 [character_name]
+Dododo
+### 1269 [character_name]
+Firebird
+### 1270 [character_name]
+Blue Hawk
+### 1271 [character_name]
+Dark Condor
+### 1272 [character_name]
+Tiger
+### 1273 [character_name]
+Snow Tiger
+### 1274 [character_name]
+Dimensional Tiger
+### 1275 [character_name]
+Wolf
+### 1276 [character_name]
+White Wolf
+### 1277 [character_name]
+Red Wolf
+### 1278 [character_name]
+Stray Dog
+### 1279 [character_name]
+Red Ribbon Spy Dog
+### 1280 [character_name]
+Super Watchdog
+### 1281 [character_name]
+Wild Boar
+### 1282 [character_name]
+Champion Boar
+### 1283 [character_name]
+Snow Boar
+### 1284 [character_name]
+Hungry Bear
+### 1285 [character_name]
+Snow Bear
+### 1286 [character_name]
+Strong Bear
+### 1287 [character_name]
+Dangerous Panda
+### 1288 [character_name]
+Snow Panda
+### 1289 [character_name]
+Ultimate Pandaman
+### 1290 [character_name]
+Giant Fish
+### 1291 [character_name]
+Wild Fish
+### 1292 [character_name]
+Sand Fish
+### 1293 [character_name]
+Wolfman
+### 1294 [character_name]
+Werewolf
+### 1295 [character_name]
+Golden Wolf
+### 1296 [character_name]
+Bloodsucker
+### 1297 [character_name]
+Vampire
+### 1298 [character_name]
+Red Vampire
+### 1299 [character_name]
+Mummy Man
+### 1300 [character_name]
+Mummy
+### 1301 [character_name]
+Burning Mummy
+### 1302 [character_name]
+Giant Bat
+### 1303 [character_name]
+Vampire Bat
+### 1304 [character_name]
+King Bat
+### 1305 [character_name]
+Big Club
+### 1306 [character_name]
+Giant Crab
+### 1307 [character_name]
+Dark Crab
+### 1308 [character_name]
+Fishman
+### 1309 [character_name]
+Man-Fish
+### 1310 [character_name]
+Magman
+### 1311 [character_name]
+Experiment #3
+### 1312 [character_name]
+Experiment #7
+### 1313 [character_name]
+Experiment #9
+### 1314 [character_name]
+Sandman
+### 1315 [character_name]
+Yorgan
+### 1316 [character_name]
+Failed Experiment
+### 1317 [character_name]
+Forest Guard
+### 1318 [character_name]
+Ancient Descendant
+### 1319 [character_name]
+Mad Scientist
+### 1320 [character_name]
+Tumble Bug
+### 1321 [character_name]
+Fire Caterpillar
+### 1322 [character_name]
+Caterpillar
+### 1323 [character_name]
+Dark Giras
+### 1324 [character_name]
+Magmaras
+### 1325 [character_name]
+Dengiras
+### 1326 [character_name]
+Roundworm
+### 1327 [character_name]
+Dark Firefly
+### 1328 [character_name]
+Poison Sandbug
+### 1329 [character_name]
+Roundworm Larva
+### 1330 [character_name]
+Firefly Larva
+### 1331 [character_name]
+Sandbug Larva
+### 1332 [character_name]
+Helper Robot
+### 1333 [character_name]
+Someone's Robot
+### 1334 [character_name]
+Spy Robot
+### 1335 [character_name]
+Monster Carrot
+### 1336 [character_name]
+Evil Flame
+### 1337 [character_name]
+Chiaotzu
+### 1338 [character_name]
+Shu Machine
+### 1339 [character_name]
+Mai Machine
+### 1340 [character_name]
+Demon Flame
+### 1341 [character_name]
+Raditz
+### 1342 [character_name]
+Rival Dinosaur
+### 1343 [character_name]
+Dongiras
+### 1344 [character_name]
+Spring Majin
+### 1345 [character_name]
+Spring Guardian
+### 1346 [character_name]
+Midgiras
+### 1347 [character_name]
+Goz
+### 1348 [character_name]
+Princess Snake
+### 1349 [character_name]
+Raditz's Soul
+### 1350 [character_name]
+Sand Eagle
+### 1351 [character_name]
+Eighter
+### 1352 [character_name]
+General White
+### 1353 [character_name]
+Giant Octopus
+### 1354 [character_name]
+RR Power Robot
+### 1355 [character_name]
+Ladies
+### 1356 [character_name]
+Gentlemen
+### 1357 [character_name]
+Bronze Pinball
+### 1358 [character_name]
+Silver Pinball
+### 1359 [character_name]
+Gold Pinball
+### 1360 [character_name]
+Pilaf Fusion Mech
+### 1361 [character_name]
+Excavated Robot v2
+### 1362 [character_name]
+TPP-EX
+### 1363 [character_name]
+Nappa
+### 1364 [character_name]
+Vegeta
+### 1365 [character_name]
+Giant Ape Vegeta
+### 1366 [character_name]
+Broly
+### 1367 [character_name]
+Pilaf Machine

@@ -1,0 +1,152 @@
+﻿linha;situacao;nome original (EN);nome no jogo (PT-BR);sprite;paleta;nivel;HP
+0;mantido;Saibaman;Saibaman;ene001_01;0;48;1200
+1;mantido;J. Sai;J. Sai;ene001_01;1;52;1500
+2;mantido;C. Sai;C. Sai;ene001_01;2;48;1100
+3;mantido;K. Sai;K. Sai;ene001_01;3;52;1650
+4;mantido;T. Sai;T. Sai;ene001_01;4;52;1550
+5;mantido;Pirate Robot;Robô Corsário;ene002_01;0;35;4000
+6;mantido;Skull Robot;Robô Caveira;ene002_01;1;35;2600
+7;mantido;Captain Robot;Robô Capitão;ene002_01;2;45;6000
+9;mantido;Red Ribbon Spy;Agente Red Ribbon;ene003_01;1;30;2000
+10;mantido;Hired Rider;Motoqueiro;ene003_01;2;43;2900
+11;mantido;Red Ribbon Mech;Mecha Red Ribbon;ene004_01;0;1;300
+13;mantido;RR Tundra Robot;Robô da Tundra RR;ene004_01;2;35;2300
+14;mantido;RR Deserter;Desertor da RR;ene005_01;0;3;50
+15;mantido;Red Ribbon Survivor;Sobrevivente RR;ene005_01;1;30;650
+16;mantido;Red Ribbon Medic;Médico Red Ribbon;ene005_01;2;35;650
+18;mantido;RR High Soldier;Soldado de Elite RR;ene006_01;1;35;730
+19;mantido;RR Northern Soldier;Soldado do Norte RR;ene006_01;2;30;700
+20;mantido;RR Ex-Sergeant;Ex-Sargento RR;ene007_01;0;3;100
+21;mantido;RR Ex-Staff Sergeant;Ex-1° Sargento RR;ene007_01;1;35;800
+23;mantido;Female Bandit;Bandida;ene008_01;0;24;440
+24;mantido;Snow Bandit Girl;Bandida da Neve;ene008_01;1;15;340
+25;mantido;Bandit Queen;Rainha dos Bandidos;ene008_01;2;48;1400
+26;mantido;Bandit;Bandido;ene010_01;0;8;150
+27;mantido;Snow Bandit;Bandido da Neve;ene010_01;1;15;460
+28;mantido;Bandit King;Rei dos Bandidos;ene010_01;2;48;1600
+29;mantido;Thief Fox;Raposa Ladra;ene011_01;0;8;70
+30;mantido;Veteran Fox;Raposa Veterana;ene011_01;1;40;890
+31;mantido;Racketeer Fox;Raposa Chantagista;ene011_01;2;30;630
+32;mantido;Sniper;Atirador;ene012_01;0;43;1340
+33;mantido;Refugee;Refugiado;ene012_01;1;21;520
+34;mantido;Elite Assassin;Assassino de Elite;ene012_01;2;45;1600
+35;mantido;Fugitive;Fugitivo;ene013_01;0;21;580
+38;mantido;Piratess;Corsária;ene014_01;0;35;700
+39;mantido;Female Desert Bandit;Bandida do Deserto;ene014_01;1;30;640
+41;mantido;Pirate;Pirata;ene015_01;0;35;780
+42;mantido;Desert Bandit;Bandido do Deserto;ene015_01;1;30;680
+44;mantido;Rabbit Private 1;Soldado Coelho 1;ene016_01;0;8;60
+45;mantido;Rabbit Elite Guard 1;Guarda Coelho 1;ene016_01;1;8;80
+46;mantido;Rabbit Survivor 1;Coelho Sobrev. 1;ene016_01;2;24;450
+47;mantido;Rabbit Private 2;Soldado Coelho 2;ene016_02;0;8;75
+48;mantido;Rabbit Elite Guard 2;Guarda Coelho 2;ene016_02;1;8;95
+49;mantido;Rabbit Survivor 2;Coelho Sobrev. 2;ene016_02;2;24;520
+51;mantido;Female Pupil;Aluna;ene017_01;1;46;840
+52;mantido;Master;Mestre;ene017_01;2;46;990
+53;mantido;Betrayer;Traidor;ene020_01;0;8;80
+54;mantido;Expelled Pupil;Aluno Expulso;ene020_01;1;46;890
+55;mantido;Pupil;Aluno;ene020_01;2;8;100
+56;mantido;Would-be Fighter;Aspirante a Lutador;ene021_01;0;8;140
+57;mantido;Rowdy Fighter;Lutador Arruaceiro;ene021_01;1;46;1050
+58;mantido;Instructor;Instrutor;ene021_01;2;8;150
+59;mantido;Princess' Servant;Serva Real;ene022_01;0;21;300
+60;mantido;Princess' Guard;Guarda da Princesa;ene022_01;1;21;320
+61;mantido;Weird Girl;Garota Estranha;ene022_01;2;45;1500
+62;mantido;Raider;Saqueador;ene023_01;0;3;90
+63;mantido;Thug;Capanga Brutal;ene023_01;1;24;500
+64;mantido;Grave Robber;Ladrão de Túmulos;ene023_01;2;40;980
+68;mantido;Meadow Wizard;Mago da Campina;ene026_01;0;18;360
+69;mantido;Spring Guard;Guarda da Fonte;ene026_01;1;28;620
+70;mantido;Red Shaman;Xamã Vermelho;ene026_01;2;40;980
+71;mantido;Distrustful Man;Homem Desconfiado;ene027_01;0;18;750
+72;mantido;Violent Tribesman;Tribal Violento;ene027_01;1;24;680
+73;mantido;Ruin Guard;Guarda das Ruínas;ene027_01;2;46;1300
+74;trocado;Winged Dragon;Robô Alado RR;ene004_01;0;30;1800
+75;trocado;Violent Dragon;Robô de Assalto RR;ene004_01;1;43;2300
+76;trocado;Snow Dragon;Robô Ártico RR;ene004_01;2;21;960
+77;mantido;Dinosaur;Dinossauro;ene030_01;0;43;2500
+78;mantido;Ice Dinosaur;Dinossauro de Gelo;ene030_01;1;35;2600
+79;mantido;Fire Dinosaur;Dinossauro de Fogo;ene030_01;2;48;3300
+80;trocado;Giant Snake;Serva da Princesa;ene022_01;0;3;45
+81;trocado;Mansion Snake;Guarda da Mansão;ene022_01;2;21;300
+82;trocado;Poisonous Snake;Serva Venenosa;ene022_01;2;43;820
+83;mantido;Lantern Ghost;Fantasma Lanterna;ene032_01;0;3;45
+84;mantido;Ship Ghost;Fantasma do Navio;ene032_01;1;35;450
+85;mantido;Patrol Ghost;Fantasma Patrulheiro;ene032_01;2;21;160
+86;mantido;Ghost Pot;Pote Fantasma;ene033_01;0;8;25
+87;mantido;Head Ghoul;Carniçal Chefe;ene033_01;1;8;60
+88;mantido;Death Sentence;Sentença de Morte;ene033_01;2;24;180
+89;mantido;Demon Denizen;Habitante Demoníaco;ene034_02;0;8;80
+90;mantido;Demon Noble;Nobre Demoníaco;ene034_02;1;46;900
+91;mantido;Demon Mystic;Místico Demoníaco;ene034_02;2;24;560
+93;mantido;Gogyo Majin;Majin Gogyo;ene035_01;1;8;250
+94;mantido;Ensei Majin;Majin Ensei;ene035_01;2;46;1250
+95;trocado;Ostrich Chicken;Batedor Saiyajin;ene200_01;0;18;380
+96;trocado;Sand Dodo;Batedor do Deserto;ene200_01;1;43;860
+97;trocado;Dododo;Elite Saiyajin;ene200_01;5;80;66
+98;trocado;Firebird;Aviador Red Ribbon;ene003_01;0;48;3050
+99;trocado;Blue Hawk;Aviador Azul RR;ene003_01;1;28;1280
+100;trocado;Dark Condor;Aviador Sombrio RR;ene003_01;2;48;3500
+101;trocado;Tiger;Soldado Saiyajin;ene200_01;8;8;130
+102;trocado;Snow Tiger;Soldado Glacial;ene200_01;7;15;550
+103;trocado;Dimensional Tiger;Soldado Dimensional;ene200_01;6;46;1580
+104;trocado;Wolf;Saibaman;ene001_01;0;8;70
+105;trocado;White Wolf;Saibaman Glacial;ene001_01;1;15;300
+106;trocado;Red Wolf;Saibaman Rubro;ene001_01;10;48;1200
+107;trocado;Stray Dog;Desertor Red Ribbon;ene005_01;0;18;310
+108;trocado;Red Ribbon Spy Dog;Espião Red Ribbon;ene005_01;0;30;600
+109;trocado;Super Watchdog;Sentinela Red Ribbon;ene005_01;2;43;890
+110;trocado;Wild Boar;Brutamontes Saiyajin;ene200_01;4;18;960
+111;trocado;Champion Boar;Brutamontes Campeão;ene200_01;2;46;3200
+112;trocado;Snow Boar;Brutamontes Glacial;ene200_01;3;35;2100
+113;trocado;Hungry Bear;Saibaman Faminto;ene001_01;0;18;880
+114;trocado;Snow Bear;Saibaman das Neves;ene001_01;7;15;720
+115;trocado;Strong Bear;Saibaman Feroz;ene001_01;3;46;3050
+116;trocado;Dangerous Panda;Saibaman do Bambu;ene001_01;0;8;150
+117;trocado;Snow Panda;Saibaman da Nevasca;ene001_01;7;21;920
+118;trocado;Ultimate Pandaman;Saibaman Supremo;ene001_01;3;43;3000
+119;trocado;Giant Fish;Robô Pirata;ene002_01;0;28;1480
+120;trocado;Wild Fish;Robô Pirata Selvagem;ene002_01;0;35;1950
+121;trocado;Sand Fish;Robô Pirata das Areias;ene002_01;2;30;2000
+122;mantido;Wolfman;Homem-Lobo;ene044_01;0;8;160
+123;mantido;Werewolf;Lobisomem;ene044_01;1;40;1060
+124;mantido;Golden Wolf;Lobo Dourado;ene044_01;2;46;1250
+125;mantido;Bloodsucker;Chupa-Sangue;ene045_01;0;40;1030
+126;mantido;Vampire;Drácula;ene045_01;1;46;980
+127;mantido;Red Vampire;Drácula Rubro;ene045_01;2;45;1850
+128;mantido;Mummy Man;Homem-Múmia;ene046_01;0;40;1080
+129;mantido;Mummy;Múmia;ene046_01;1;46;1000
+130;mantido;Burning Mummy;Múmia Flamejante;ene046_01;2;15;260
+131;trocado;Giant Bat;Vampiro;ene045_01;0;8;70
+132;trocado;Vampire Bat;Vampiro Sanguinário;ene045_01;1;24;420
+133;trocado;King Bat;Rei Vampiro;ene045_01;2;40;890
+134;trocado;Big Club;Capanga;ene016_01;0;35;800
+135;trocado;Giant Crab;Capanga Gigante;ene016_01;1;28;650
+136;trocado;Dark Crab;Capanga Sombrio;ene016_01;2;45;2000
+137;mantido;Fishman;Homem-Peixe;ene052_01;0;28;600
+138;mantido;Man-Fish;Peixe-Homem;ene052_01;1;35;680
+139;mantido;Magman;Homem-Magma;ene052_01;2;15;220
+140;mantido;Experiment #3;Experimento N°3;ene053_01;0;45;1480
+141;mantido;Experiment #7;Experimento N°7;ene053_01;1;52;1620
+142;mantido;Experiment #9;Experimento N°9;ene053_01;2;52;1880
+143;mantido;Sandman;Homem-Areia;ene055_01;0;30;700
+144;mantido;Yorgan;Yorgan;ene055_01;1;15;320
+145;mantido;Failed Experiment;Experimento Falho;ene055_01;2;52;2890
+146;mantido;Forest Guard;Guarda da Floresta;ene057_01;0;24;520
+147;mantido;Ancient Descendant;Descendente Antigo;ene057_01;1;46;800
+148;mantido;Mad Scientist;Cientista Louco;ene057_01;2;52;1400
+149;trocado;Tumble Bug;Recruta Red Ribbon;ene006_01;0;3;45
+150;trocado;Fire Caterpillar;Recruta Incendiário;ene006_01;1;15;450
+151;trocado;Caterpillar;Recruta Veterano;ene006_01;2;24;650
+152;mantido;Dark Giras;Giras Sombrio;ene059_02;0;48;2800
+153;mantido;Magmaras;Magmaras;ene059_02;1;15;630
+154;mantido;Dengiras;Dengiras;ene059_02;2;46;2250
+155;trocado;Roundworm;Saibaman Escavador;ene001_01;5;18;450
+156;trocado;Dark Firefly;Saibaman Noturno;ene001_01;8;46;1800
+157;trocado;Poison Sandbug;Saibaman Venenoso;ene001_01;11;30;1400
+161;trocado;Roundworm Larva;Broto Escavador;ene001_01;6;18;200
+162;trocado;Firefly Larva;Broto Noturno;ene001_01;9;46;650
+163;trocado;Sandbug Larva;Broto Venenoso;ene001_01;12;30;450
+167;mantido;Helper Robot;Robô Ajudante;ene062_01;0;21;360
+168;mantido;Someone's Robot;Robô de Alguém;ene062_01;1;52;3600
+169;mantido;Spy Robot;Robô Espião;ene062_01;2;30;980

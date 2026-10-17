@@ -1,0 +1,9 @@
+ROM: _tmp/teste.nds
+original: C:\Projetos\09_Dragon_Ball_Z_Attack_of_the_Saiyans\00_Original\Dragon Ball Z_ Attack of the Saiyans.zip
+correcoes aplicadas: 716 ok / 0 com problema
+marcacoes EN x PT: 0 divergencias em 14439 textos mudados
+glifos: 0 caracteres sem glifo
+larguras/linhas: 0 erros, 8 avisos (ver 4_larguras.txt)
+ingles restante: US 1185 / EN 1185 textos iguais ao original; suspeitos US 0 / EN 0
+tempo: 7 s
+RESULTADO: OK

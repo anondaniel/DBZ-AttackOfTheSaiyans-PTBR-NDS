@@ -1,0 +1,3438 @@
+[
+ {
+  "linha": 74,
+  "animal_original": "Winged Dragon",
+  "nome_rc1": "Robô Alado RR",
+  "nome_etapa12": null,
+  "nome_final": "Mecha Patrulheiro",
+  "modelo": 11,
+  "sprite": "ene004_01",
+  "paleta": 3,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 112,
+  "tamanho": 2,
+  "sombra": 2,
+  "pesos_original": [
+   20,
+   20,
+   40,
+   20
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   20,
+   20,
+   40,
+   20
+  ],
+  "pow": [
+   0,
+   20,
+   0,
+   30
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 10.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x400"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   77,
+   89
+  ],
+  "mapas": [
+   "c0807_01",
+   "c0808_00",
+   "c1007_01",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00",
+   "snd01_00",
+   "snd02_00",
+   "snd03_00",
+   "snd04_00",
+   "snd05_00"
+  ]
+ },
+ {
+  "linha": 75,
+  "animal_original": "Violent Dragon",
+  "nome_rc1": "Robô de Assalto RR",
+  "nome_etapa12": null,
+  "nome_final": "Mecha de Combate",
+  "modelo": 12,
+  "sprite": "ene004_01",
+  "paleta": 4,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 199,
+  "dist_paleta_global": 102,
+  "tamanho": 2,
+  "sombra": 2,
+  "pesos_original": [
+   20,
+   20,
+   40,
+   20
+  ],
+  "pesos_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_final": [
+   20,
+   20,
+   40,
+   20
+  ],
+  "pow": [
+   0,
+   20,
+   0,
+   30
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 10.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x400"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   77,
+   91
+  ],
+  "mapas": [
+   "c0807_01",
+   "c0808_00",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00"
+  ]
+ },
+ {
+  "linha": 76,
+  "animal_original": "Snow Dragon",
+  "nome_rc1": "Robô Ártico RR",
+  "nome_etapa12": null,
+  "nome_final": "Lanceiro Nômade",
+  "modelo": 71,
+  "sprite": "ene027_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=220 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 243,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   20,
+   20,
+   40,
+   20
+  ],
+  "pesos_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_final": [
+   20,
+   40,
+   40,
+   0
+  ],
+  "pow": [
+   0,
+   20,
+   0,
+   30
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 8.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x400"
+   ],
+   []
+  ],
+  "nota_pesos": "slot 4 (20%, pow 30) sem animação no sprite (só 3 golpes) -> slot 2 +20",
+  "mudanca_vs_etapa12": "nome repetido (\"Errante\") e paleta clone do Homem Desconfiado (dist. 1)",
+  "largura_px": [
+   69,
+   83
+  ],
+  "mapas": [
+   "c0804_02",
+   "enm01_00",
+   "gyu01_00",
+   "gyu02_00",
+   "hii01_00",
+   "hii02_00",
+   "hii03_00",
+   "hii04_00"
+  ]
+ },
+ {
+  "linha": 80,
+  "animal_original": "Giant Snake",
+  "nome_rc1": "Serva da Princesa",
+  "nome_etapa12": null,
+  "nome_final": "Lutador Errante",
+  "modelo": 56,
+  "sprite": "ene021_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=200 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 231,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_final": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pow": [
+   20,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 10.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   66,
+   80
+  ],
+  "mapas": [
+   "c0002_01",
+   "c0807_01",
+   "c0808_00",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00",
+   "tut01_00",
+   "tut02_00"
+  ]
+ },
+ {
+  "linha": 81,
+  "animal_original": "Mansion Snake",
+  "nome_rc1": "Guarda da Mansão",
+  "nome_etapa12": null,
+  "nome_final": "Guarda da Mansão",
+  "modelo": 60,
+  "sprite": "ene022_01",
+  "paleta": 3,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 124,
+  "dist_paleta_global": 124,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   30,
+   -30,
+   30,
+   0
+  ],
+  "media_pow_original": 12.0,
+  "media_pow_final": 12.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   76,
+   88
+  ],
+  "mapas": [
+   "c0905_02",
+   "c0905_04",
+   "sna01_00",
+   "sna02_00",
+   "sna03_00",
+   "sna04_00",
+   "sna05_00",
+   "sna06_00",
+   "sna07_00",
+   "sna08_00"
+  ]
+ },
+ {
+  "linha": 82,
+  "animal_original": "Poisonous Snake",
+  "nome_rc1": "Serva Venenosa",
+  "nome_etapa12": null,
+  "nome_final": "Robô Sentinela",
+  "modelo": 167,
+  "sprite": "ene062_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=200 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 269,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "pesos_rc1": [
+   40,
+   30,
+   0,
+   30
+  ],
+  "pesos_final": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "pow": [
+   40,
+   -50,
+   0,
+   30
+  ],
+  "media_pow_original": 2.0,
+  "media_pow_final": 2.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "Castelo do Pilaf: era \"Corsária Venenosa\" (pirata, confundido com a Caverna)",
+  "largura_px": [
+   63,
+   72
+  ],
+  "mapas": [
+   "c1009_01",
+   "c1010_00",
+   "pir02_00",
+   "pir03_00",
+   "pir04_00",
+   "pir05_00",
+   "pir06_00",
+   "pir08_00",
+   "pir09_00"
+  ]
+ },
+ {
+  "linha": 95,
+  "animal_original": "Ostrich Chicken",
+  "nome_rc1": "Batedor Saiyajin",
+  "nome_etapa12": null,
+  "nome_final": "Batedor do Ermo",
+  "modelo": 32,
+  "sprite": "ene012_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=180 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 273,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   60,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 18.0,
+  "media_pow_final": 18.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x100"
+   ],
+   [
+    "0x100"
+   ],
+   [
+    "0x1",
+    "0x2000"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   68,
+   82
+  ],
+  "mapas": [
+   "c0602_00",
+   "c0607_00",
+   "c0807_01",
+   "c0808_00",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00",
+   "spi01_00",
+   "spi02_00",
+   "spi03_00",
+   "spi04_00",
+   "spi06_00",
+   "spi07_00"
+  ]
+ },
+ {
+  "linha": 96,
+  "animal_original": "Sand Dodo",
+  "nome_rc1": "Batedor do Deserto",
+  "nome_etapa12": null,
+  "nome_final": "Batedora do Deserto",
+  "modelo": 39,
+  "sprite": "ene014_01",
+  "paleta": 3,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 100,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   20,
+   20,
+   20,
+   40
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   20,
+   20,
+   20,
+   40
+  ],
+  "pow": [
+   50,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 10.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x100"
+   ],
+   [
+    "0x100"
+   ],
+   [
+    "0x1",
+    "0x2000"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   87,
+   103
+  ],
+  "mapas": [
+   "c0807_01",
+   "c0808_00",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00"
+  ]
+ },
+ {
+  "linha": 97,
+  "animal_original": "Dododo",
+  "nome_rc1": "Elite Saiyajin",
+  "nome_etapa12": null,
+  "nome_final": "Mercenário de Elite",
+  "modelo": 34,
+  "sprite": "ene012_01",
+  "paleta": 4,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 267,
+  "dist_paleta_global": 102,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   10,
+   5,
+   5,
+   80
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   10,
+   5,
+   5,
+   80
+  ],
+  "pow": [
+   75,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 7.5,
+  "media_pow_final": 7.5,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x100"
+   ],
+   [
+    "0x100"
+   ],
+   [
+    "0x1",
+    "0x2000"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   81,
+   93
+  ],
+  "mapas": [
+   "c0602_00",
+   "c0607_00",
+   "c0807_01",
+   "c0808_00",
+   "c1402_02",
+   "c1402_98",
+   "c1402_99",
+   "c1403_00",
+   "c1403_01",
+   "c1403_98",
+   "c1403_99",
+   "c1404_00",
+   "c1404_03",
+   "c1406_01",
+   "c1407_00",
+   "c1408_03",
+   "c1409_00",
+   "c1410_04",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00",
+   "nap01_00",
+   "nap02_00",
+   "nap03_00",
+   "pao05_00",
+   "pao06_00",
+   "pao07_00",
+   "pao08_00",
+   "spi01_00",
+   "spi02_00",
+   "spi03_00",
+   "spi04_00",
+   "spi06_00",
+   "spi07_00"
+  ]
+ },
+ {
+  "linha": 98,
+  "animal_original": "Firebird",
+  "nome_rc1": "Aviador Red Ribbon",
+  "nome_etapa12": null,
+  "nome_final": "Piloto Renegado",
+  "modelo": 8,
+  "sprite": "ene003_01",
+  "paleta": 3,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 121,
+  "tamanho": 2,
+  "sombra": 3,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x4"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   68,
+   79
+  ],
+  "mapas": [
+   "c0202_00",
+   "c1410_04",
+   "pao01_00",
+   "pao02_00",
+   "pao03_00",
+   "pao05_00",
+   "pao06_00",
+   "pao07_00",
+   "pao08_00"
+  ]
+ },
+ {
+  "linha": 99,
+  "animal_original": "Blue Hawk",
+  "nome_rc1": "Aviador Azul RR",
+  "nome_etapa12": null,
+  "nome_final": "Piloto Mercenário",
+  "modelo": 9,
+  "sprite": "ene003_01",
+  "paleta": 4,
+  "origem_paleta": "nova giro=200 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 202,
+  "tamanho": 2,
+  "sombra": 3,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   30,
+   0
+  ],
+  "media_pow_original": 9.0,
+  "media_pow_final": 9.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x4"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   74,
+   85
+  ],
+  "mapas": [
+   "c0806_01",
+   "sen01_00",
+   "sen02_00",
+   "sen03_00",
+   "sen04_00"
+  ]
+ },
+ {
+  "linha": 100,
+  "animal_original": "Dark Condor",
+  "nome_rc1": "Aviador Sombrio RR",
+  "nome_etapa12": null,
+  "nome_final": "Piloto Veterano",
+  "modelo": 10,
+  "sprite": "ene003_01",
+  "paleta": 5,
+  "origem_paleta": "nova giro=220 sat=1.00 val=0.72",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 197,
+  "tamanho": 2,
+  "sombra": 3,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   30,
+   0,
+   40,
+   0
+  ],
+  "media_pow_original": 24.0,
+  "media_pow_final": 24.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x4"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   67,
+   77
+  ],
+  "mapas": [
+   "c1402_02",
+   "c1402_98",
+   "c1402_99",
+   "c1403_00",
+   "c1403_01",
+   "c1403_98",
+   "c1403_99",
+   "c1404_00",
+   "c1404_03",
+   "c1406_01",
+   "c1407_00",
+   "c1408_03",
+   "c1409_00",
+   "c1501_02",
+   "c1502_02",
+   "c1503_02",
+   "c1504_00",
+   "c1504_01",
+   "las02_00",
+   "las03_00",
+   "nap01_00",
+   "nap02_00",
+   "nap03_00"
+  ]
+ },
+ {
+  "linha": 101,
+  "animal_original": "Tiger",
+  "nome_rc1": "Soldado Saiyajin",
+  "nome_etapa12": null,
+  "nome_final": "Arruaceiro do Bambu",
+  "modelo": 56,
+  "sprite": "ene021_01",
+  "paleta": 4,
+  "origem_paleta": "nova giro=100 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 286,
+  "dist_paleta_global": 166,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   86,
+   103
+  ],
+  "mapas": [
+   "bam01_00",
+   "c0102_01"
+  ]
+ },
+ {
+  "linha": 102,
+  "animal_original": "Snow Tiger",
+  "nome_rc1": "Soldado Glacial",
+  "nome_etapa12": null,
+  "nome_final": "Mercenário da Neve",
+  "modelo": 27,
+  "sprite": "ene010_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=200 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 225,
+  "dist_paleta_global": 225,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   40,
+   20,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   40,
+   20,
+   20,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x10"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   83,
+   96
+  ],
+  "mapas": [
+   "c0506_02",
+   "fur02_00",
+   "fur03_00",
+   "fur04_00"
+  ]
+ },
+ {
+  "linha": 103,
+  "animal_original": "Dimensional Tiger",
+  "nome_rc1": "Soldado Dimensional",
+  "nome_etapa12": null,
+  "nome_final": "Guardião da Floresta",
+  "modelo": 69,
+  "sprite": "ene026_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=220 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 332,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x10"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   88,
+   102
+  ],
+  "mapas": [
+   "c0908_00",
+   "c1302_00",
+   "for01_00",
+   "for02_00",
+   "for03_00",
+   "for04_00",
+   "for05_00"
+  ]
+ },
+ {
+  "linha": 104,
+  "animal_original": "Wolf",
+  "nome_rc1": "Saibaman",
+  "nome_etapa12": null,
+  "nome_final": "Atirador da Montanha",
+  "modelo": 32,
+  "sprite": "ene012_01",
+  "paleta": 5,
+  "origem_paleta": "nova giro=80 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 193,
+  "dist_paleta_global": 158,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   20,
+   40,
+   40,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   20,
+   40,
+   40,
+   0
+  ],
+  "pow": [
+   105,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x4000"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   90,
+   106
+  ],
+  "mapas": [
+   "c0202_00",
+   "c0807_01",
+   "c0808_00",
+   "c1410_04",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00",
+   "pao01_00",
+   "pao02_00",
+   "pao03_00",
+   "pao05_00",
+   "pao06_00",
+   "pao07_00",
+   "pao08_00"
+  ]
+ },
+ {
+  "linha": 105,
+  "animal_original": "White Wolf",
+  "nome_rc1": "Saibaman Glacial",
+  "nome_etapa12": null,
+  "nome_final": "Guerreira do Gelo",
+  "modelo": 24,
+  "sprite": "ene008_01",
+  "paleta": 3,
+  "origem_paleta": "tema giro=60 sat=0.65 val=1.08",
+  "dist_paleta_mesmo_mapa": 109,
+  "dist_paleta_global": 109,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   20,
+   40,
+   40,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   20,
+   40,
+   40,
+   0
+  ],
+  "pow": [
+   106,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x4000"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "nome repetido (\"Errante\")",
+  "largura_px": [
+   74,
+   86
+  ],
+  "mapas": [
+   "c0506_02",
+   "c0804_02",
+   "enm01_00",
+   "fur02_00",
+   "fur03_00",
+   "fur04_00",
+   "gyu01_00",
+   "gyu02_00",
+   "hii01_00",
+   "hii02_00",
+   "hii03_00",
+   "hii04_00"
+  ]
+ },
+ {
+  "linha": 106,
+  "animal_original": "Red Wolf",
+  "nome_rc1": "Saibaman Rubro",
+  "nome_etapa12": null,
+  "nome_final": "Atirador Veterano",
+  "modelo": 34,
+  "sprite": "ene012_01",
+  "paleta": 6,
+  "origem_paleta": "nova giro=220 sat=1.00 val=0.72",
+  "dist_paleta_mesmo_mapa": 169,
+  "dist_paleta_global": 169,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   20,
+   30,
+   20,
+   30
+  ],
+  "pesos_rc1": [
+   50,
+   40,
+   10,
+   0
+  ],
+  "pesos_final": [
+   20,
+   30,
+   20,
+   30
+  ],
+  "pow": [
+   107,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x4000"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   76,
+   90
+  ],
+  "mapas": [
+   "c1402_02",
+   "c1402_98",
+   "c1402_99",
+   "c1403_00",
+   "c1403_01",
+   "c1403_98",
+   "c1403_99",
+   "c1404_00",
+   "c1404_03",
+   "c1406_01",
+   "c1407_00",
+   "c1408_03",
+   "c1409_00",
+   "c1410_04",
+   "nap01_00",
+   "nap02_00",
+   "nap03_00",
+   "pao05_00",
+   "pao06_00",
+   "pao07_00",
+   "pao08_00"
+  ]
+ },
+ {
+  "linha": 107,
+  "animal_original": "Stray Dog",
+  "nome_rc1": "Desertor Red Ribbon",
+  "nome_etapa12": null,
+  "nome_final": "Ex-Soldado RR",
+  "modelo": 14,
+  "sprite": "ene005_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=200 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 293,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "pesos_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_final": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "pow": [
+   30,
+   0,
+   10,
+   0
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 10.0,
+  "tipos_golpe": [
+   [],
+   [
+    "0x1"
+   ],
+   [],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "quase igual a \"Desertor da RR\" (linha 14)",
+  "largura_px": [
+   63,
+   70
+  ],
+  "mapas": [
+   "c0602_00",
+   "c0607_00",
+   "c0807_01",
+   "c0808_00",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00",
+   "spi01_00",
+   "spi02_00",
+   "spi03_00",
+   "spi04_00",
+   "spi06_00",
+   "spi07_00"
+  ]
+ },
+ {
+  "linha": 108,
+  "animal_original": "Red Ribbon Spy Dog",
+  "nome_rc1": "Espião Red Ribbon",
+  "nome_etapa12": null,
+  "nome_final": "Espião Red Ribbon",
+  "modelo": 15,
+  "sprite": "ene005_01",
+  "paleta": 4,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 113,
+  "dist_paleta_global": 113,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "pesos_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_final": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "pow": [
+   30,
+   0,
+   10,
+   0
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 10.0,
+  "tipos_golpe": [
+   [],
+   [
+    "0x1"
+   ],
+   [],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   74,
+   86
+  ],
+  "mapas": [
+   "c1002_03",
+   "c1005_00",
+   "c1005_02",
+   "mas02_00",
+   "mas03_00",
+   "mas04_00",
+   "mas05_00",
+   "mas06_00",
+   "mas07_00",
+   "mas08_00",
+   "yun01_00",
+   "yun01_01",
+   "yun01_02",
+   "yun03_00",
+   "yun04_00",
+   "yun05_00"
+  ]
+ },
+ {
+  "linha": 109,
+  "animal_original": "Super Watchdog",
+  "nome_rc1": "Sentinela Red Ribbon",
+  "nome_etapa12": null,
+  "nome_final": "Guarda do Castelo",
+  "modelo": 42,
+  "sprite": "ene015_01",
+  "paleta": 3,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 91,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "pesos_rc1": [
+   30,
+   30,
+   40,
+   0
+  ],
+  "pesos_final": [
+   25,
+   50,
+   25,
+   0
+  ],
+  "pow": [
+   30,
+   0,
+   10,
+   0
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 10.0,
+  "tipos_golpe": [
+   [],
+   [
+    "0x1"
+   ],
+   [],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "Castelo do Pilaf: era \"Sentinela Pirata\" (sprite de corsária); guarda de turbante, como o castelo de estilo árabe",
+  "largura_px": [
+   78,
+   90
+  ],
+  "mapas": [
+   "c1009_01",
+   "c1010_00",
+   "pir02_00",
+   "pir03_00",
+   "pir04_00",
+   "pir05_00",
+   "pir06_00",
+   "pir08_00",
+   "pir09_00"
+  ]
+ },
+ {
+  "linha": 110,
+  "animal_original": "Wild Boar",
+  "nome_rc1": "Brutamontes Saiyajin",
+  "nome_etapa12": null,
+  "nome_final": "Brutamontes do Ermo",
+  "modelo": 26,
+  "sprite": "ene010_01",
+  "paleta": 4,
+  "origem_paleta": "nova giro=220 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 258,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   30,
+   0,
+   30,
+   0
+  ],
+  "media_pow_original": 21.0,
+  "media_pow_final": 21.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "sprite do Fugitivo (golpe 3 = animação de chamar reforço) trocado pelo do Bandido",
+  "largura_px": [
+   88,
+   106
+  ],
+  "mapas": [
+   "c0602_00",
+   "c0607_00",
+   "c0807_01",
+   "c0808_00",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00",
+   "spi01_00",
+   "spi02_00",
+   "spi03_00",
+   "spi04_00",
+   "spi06_00",
+   "spi07_00"
+  ]
+ },
+ {
+  "linha": 111,
+  "animal_original": "Champion Boar",
+  "nome_rc1": "Brutamontes Campeão",
+  "nome_etapa12": null,
+  "nome_final": "Lutador Veterano",
+  "modelo": 57,
+  "sprite": "ene021_01",
+  "paleta": 5,
+  "origem_paleta": "nova giro=260 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 244,
+  "dist_paleta_global": 203,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   40,
+   0,
+   50,
+   30
+  ],
+  "media_pow_original": 28.0,
+  "media_pow_final": 30.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": "slot 4 (20%, pow 30) sem animação no sprite (só 3 golpes) -> slot 1 +20",
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   74,
+   88
+  ],
+  "mapas": [
+   "c1204_00",
+   "mut01_00",
+   "mut02_00",
+   "mut03_00",
+   "mut04_00",
+   "mut05_00",
+   "mut06_00",
+   "mut07_00"
+  ]
+ },
+ {
+  "linha": 112,
+  "animal_original": "Snow Boar",
+  "nome_rc1": "Brutamontes Glacial",
+  "nome_etapa12": null,
+  "nome_final": "Brutamontes Glacial",
+  "modelo": 27,
+  "sprite": "ene010_01",
+  "paleta": 5,
+  "origem_paleta": "tema giro=140 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 96,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "pesos_rc1": [
+   19,
+   18,
+   18,
+   45
+  ],
+  "pesos_final": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "pow": [
+   50,
+   0,
+   0,
+   50
+  ],
+  "media_pow_original": 30.0,
+  "media_pow_final": 30.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "sprite do Fugitivo trocado pelo do Bandido da Neve; slot 3 tinha 35% sem golpe definido",
+  "largura_px": [
+   86,
+   99
+  ],
+  "mapas": [
+   "c1002_03",
+   "yun01_00",
+   "yun01_01",
+   "yun01_02",
+   "yun03_00",
+   "yun04_00",
+   "yun05_00"
+  ]
+ },
+ {
+  "linha": 113,
+  "animal_original": "Hungry Bear",
+  "nome_rc1": "Saibaman Faminto",
+  "nome_etapa12": null,
+  "nome_final": "Saqueador do Ermo",
+  "modelo": 63,
+  "sprite": "ene023_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=200 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 287,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   79,
+   94
+  ],
+  "mapas": [
+   "c0602_00",
+   "c0607_00",
+   "spi01_00",
+   "spi02_00",
+   "spi03_00",
+   "spi04_00",
+   "spi06_00",
+   "spi07_00"
+  ]
+ },
+ {
+  "linha": 114,
+  "animal_original": "Snow Bear",
+  "nome_rc1": "Saibaman das Neves",
+  "nome_etapa12": null,
+  "nome_final": "Bandida Glacial",
+  "modelo": 25,
+  "sprite": "ene008_01",
+  "paleta": 4,
+  "origem_paleta": "tema giro=160 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 324,
+  "dist_paleta_global": 324,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   65,
+   73
+  ],
+  "mapas": [
+   "c0506_02",
+   "fur02_00",
+   "fur03_00",
+   "fur04_00"
+  ]
+ },
+ {
+  "linha": 115,
+  "animal_original": "Strong Bear",
+  "nome_rc1": "Saibaman Feroz",
+  "nome_etapa12": null,
+  "nome_final": "Instrutor Rival",
+  "modelo": 58,
+  "sprite": "ene021_01",
+  "paleta": 6,
+  "origem_paleta": "nova giro=200 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 269,
+  "dist_paleta_global": 269,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   43,
+   29,
+   28,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1",
+    "0x2"
+   ]
+  ],
+  "nota_pesos": "slot 4 (30%, pow 0) sem animação no sprite (só 3 golpes) -> slot 1 +13, slot 2 +9, slot 3 +8",
+  "mudanca_vs_etapa12": "nome repetido (\"Errante\"; e \"Mestre\" já existe no mesmo mapa)",
+  "largura_px": [
+   63,
+   71
+  ],
+  "mapas": [
+   "c1204_00",
+   "c1410_04",
+   "mut01_00",
+   "mut02_00",
+   "mut03_00",
+   "mut04_00",
+   "mut05_00",
+   "mut06_00",
+   "mut07_00",
+   "pao05_00",
+   "pao06_00",
+   "pao07_00",
+   "pao08_00"
+  ]
+ },
+ {
+  "linha": 116,
+  "animal_original": "Dangerous Panda",
+  "nome_rc1": "Saibaman do Bambu",
+  "nome_etapa12": null,
+  "nome_final": "Discípulo Rebelde",
+  "modelo": 53,
+  "sprite": "ene020_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=220 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 288,
+  "dist_paleta_global": 279,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   [],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "quase igual a \"Aluno Expulso\" (linha 54)",
+  "largura_px": [
+   77,
+   86
+  ],
+  "mapas": [
+   "bam01_00",
+   "c0102_01"
+  ]
+ },
+ {
+  "linha": 117,
+  "animal_original": "Snow Panda",
+  "nome_rc1": "Saibaman da Nevasca",
+  "nome_etapa12": null,
+  "nome_final": "Guardião Peregrino",
+  "modelo": 70,
+  "sprite": "ene026_01",
+  "paleta": 4,
+  "origem_paleta": "nova giro=180 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 283,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   50,
+   0
+  ],
+  "media_pow_original": 15.0,
+  "media_pow_final": 15.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   79,
+   94
+  ],
+  "mapas": [
+   "c0804_02",
+   "enm01_00",
+   "gyu01_00",
+   "gyu02_00",
+   "hii01_00",
+   "hii02_00",
+   "hii03_00",
+   "hii04_00"
+  ]
+ },
+ {
+  "linha": 118,
+  "animal_original": "Ultimate Pandaman",
+  "nome_rc1": "Saibaman Supremo",
+  "nome_etapa12": null,
+  "nome_final": "Capitão da Guarda",
+  "modelo": 28,
+  "sprite": "ene010_01",
+  "paleta": 6,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 110,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   40,
+   0,
+   30,
+   30
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   40,
+   0,
+   30,
+   30
+  ],
+  "pow": [
+   0,
+   0,
+   50,
+   0
+  ],
+  "media_pow_original": 15.0,
+  "media_pow_final": 15.0,
+  "tipos_golpe": [
+   [
+    "0x2"
+   ],
+   [],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "Castelo do Pilaf: era \"Corsária Veterana\" (pirata); brutamontes de espada",
+  "largura_px": [
+   76,
+   90
+  ],
+  "mapas": [
+   "c1009_01",
+   "c1010_00",
+   "pir02_00",
+   "pir03_00",
+   "pir04_00",
+   "pir05_00",
+   "pir06_00",
+   "pir08_00",
+   "pir09_00"
+  ]
+ },
+ {
+  "linha": 119,
+  "animal_original": "Giant Fish",
+  "nome_rc1": "Robô Pirata",
+  "nome_etapa12": null,
+  "nome_final": "Robô Mergulhador",
+  "modelo": 5,
+  "sprite": "ene002_01",
+  "paleta": 3,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 218,
+  "tamanho": 2,
+  "sombra": 2,
+  "pesos_original": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_rc1": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pesos_final": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pow": [
+   0,
+   30,
+   0,
+   0
+  ],
+  "media_pow_original": 9.0,
+  "media_pow_final": 9.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x40"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "nome repetido (\"Patrulheiro\" / \"de Patrulha\")",
+  "largura_px": [
+   76,
+   88
+  ],
+  "mapas": [
+   "c0806_01",
+   "sen01_00",
+   "sen02_00",
+   "sen03_00",
+   "sen04_00"
+  ]
+ },
+ {
+  "linha": 120,
+  "animal_original": "Wild Fish",
+  "nome_rc1": "Robô Pirata Selvagem",
+  "nome_etapa12": null,
+  "nome_final": "Robô da Caverna",
+  "modelo": 6,
+  "sprite": "ene002_01",
+  "paleta": 4,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 316,
+  "dist_paleta_global": 178,
+  "tamanho": 2,
+  "sombra": 2,
+  "pesos_original": [
+   50,
+   0,
+   30,
+   20
+  ],
+  "pesos_rc1": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pesos_final": [
+   50,
+   0,
+   30,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   50
+  ],
+  "media_pow_original": 10.0,
+  "media_pow_final": 10.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   71,
+   83
+  ],
+  "mapas": [
+   "c1006_02",
+   "kai01_00",
+   "kai02_00",
+   "kai03_00",
+   "kai04_00",
+   "kai05_00"
+  ]
+ },
+ {
+  "linha": 121,
+  "animal_original": "Sand Fish",
+  "nome_rc1": "Robô Pirata das Areias",
+  "nome_etapa12": null,
+  "nome_final": "Robô das Areias",
+  "modelo": 7,
+  "sprite": "ene002_01",
+  "paleta": 5,
+  "origem_paleta": "nova giro=200 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 303,
+  "tamanho": 2,
+  "sombra": 2,
+  "pesos_original": [
+   40,
+   30,
+   0,
+   30
+  ],
+  "pesos_rc1": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "pesos_final": [
+   40,
+   30,
+   0,
+   30
+  ],
+  "pow": [
+   0,
+   50,
+   0,
+   30
+  ],
+  "media_pow_original": 24.0,
+  "media_pow_final": 24.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x40"
+   ],
+   [],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   67,
+   77
+  ],
+  "mapas": [
+   "c1007_01",
+   "snd01_00",
+   "snd02_00",
+   "snd03_00",
+   "snd04_00",
+   "snd05_00"
+  ]
+ },
+ {
+  "linha": 131,
+  "animal_original": "Giant Bat",
+  "nome_rc1": "Vampiro",
+  "nome_etapa12": null,
+  "nome_final": "Vampiro Jovem",
+  "modelo": 125,
+  "sprite": "ene045_01",
+  "paleta": 3,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 231,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   30,
+   40,
+   0,
+   30
+  ],
+  "pesos_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_final": [
+   30,
+   40,
+   0,
+   30
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x400"
+   ],
+   [
+    "0x1"
+   ],
+   [],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "nome repetido (\"Errante\")",
+  "largura_px": [
+   62,
+   73
+  ],
+  "mapas": [
+   "c0302_01",
+   "c0302_02",
+   "c0502_03",
+   "gog01_00",
+   "gog02_00",
+   "gog03_00",
+   "gog04_00",
+   "gog07_00",
+   "gog08_00",
+   "krd01_00",
+   "krd02_00",
+   "krd03_00"
+  ]
+ },
+ {
+  "linha": 132,
+  "animal_original": "Vampire Bat",
+  "nome_rc1": "Vampiro Sanguinário",
+  "nome_etapa12": null,
+  "nome_final": "Vampiro Sanguinário",
+  "modelo": 126,
+  "sprite": "ene045_01",
+  "paleta": 4,
+  "origem_paleta": "nova giro=120 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 263,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   30,
+   25,
+   25,
+   20
+  ],
+  "pesos_rc1": [
+   20,
+   30,
+   30,
+   20
+  ],
+  "pesos_final": [
+   30,
+   25,
+   25,
+   20
+  ],
+  "pow": [
+   0,
+   30,
+   0,
+   0
+  ],
+  "media_pow_original": 7.5,
+  "media_pow_final": 7.5,
+  "tipos_golpe": [
+   [
+    "0x400"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   84,
+   98
+  ],
+  "mapas": [
+   "c0806_01",
+   "c1410_04",
+   "pao05_00",
+   "pao06_00",
+   "pao07_00",
+   "pao08_00",
+   "sen01_00",
+   "sen02_00",
+   "sen03_00",
+   "sen04_00"
+  ]
+ },
+ {
+  "linha": 133,
+  "animal_original": "King Bat",
+  "nome_rc1": "Rei Vampiro",
+  "nome_etapa12": null,
+  "nome_final": "Vampiro Ancião",
+  "modelo": 127,
+  "sprite": "ene045_01",
+  "paleta": 5,
+  "origem_paleta": "nova giro=240 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 255,
+  "dist_paleta_global": 255,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   30,
+   25,
+   20,
+   25
+  ],
+  "pesos_rc1": [
+   20,
+   30,
+   20,
+   30
+  ],
+  "pesos_final": [
+   30,
+   25,
+   20,
+   25
+  ],
+  "pow": [
+   0,
+   50,
+   0,
+   0
+  ],
+  "media_pow_original": 12.5,
+  "media_pow_final": 12.5,
+  "tipos_golpe": [
+   [
+    "0x400"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   63,
+   74
+  ],
+  "mapas": [
+   "ben02_00",
+   "ben03_00",
+   "ben04_00",
+   "ben05_00",
+   "ben06_00",
+   "ben07_00",
+   "ben08_00",
+   "ben09_00",
+   "ben10_00",
+   "c1003_01",
+   "c1003_03",
+   "c1003_11",
+   "c1003_13",
+   "c1009_01",
+   "c1010_00",
+   "pir02_00",
+   "pir03_00",
+   "pir04_00",
+   "pir05_00",
+   "pir06_00",
+   "pir08_00",
+   "pir09_00"
+  ]
+ },
+ {
+  "linha": 134,
+  "animal_original": "Big Club",
+  "nome_rc1": "Capanga",
+  "nome_etapa12": null,
+  "nome_final": "Capanga da Caverna",
+  "modelo": 44,
+  "sprite": "ene016_01",
+  "paleta": 3,
+  "origem_paleta": "nova giro=180 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 213,
+  "tamanho": 1,
+  "sombra": 0,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x40"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   86,
+   101
+  ],
+  "mapas": [
+   "c1006_02",
+   "kai01_00",
+   "kai02_00",
+   "kai03_00",
+   "kai04_00",
+   "kai05_00"
+  ]
+ },
+ {
+  "linha": 135,
+  "animal_original": "Giant Crab",
+  "nome_rc1": "Capanga Gigante",
+  "nome_etapa12": null,
+  "nome_final": "Capanga da Fonte",
+  "modelo": 45,
+  "sprite": "ene016_01",
+  "paleta": 4,
+  "origem_paleta": "nova giro=240 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 156,
+  "tamanho": 1,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   0,
+   40,
+   30,
+   30
+  ],
+  "pesos_final": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": 0.0,
+  "media_pow_final": 0.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x40"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x40"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   74,
+   88
+  ],
+  "mapas": [
+   "c0806_01",
+   "sen01_00",
+   "sen02_00",
+   "sen03_00",
+   "sen04_00"
+  ]
+ },
+ {
+  "linha": 136,
+  "animal_original": "Dark Crab",
+  "nome_rc1": "Capanga Sombrio",
+  "nome_etapa12": null,
+  "nome_final": "Capanga Sombrio",
+  "modelo": 46,
+  "sprite": "ene016_01",
+  "paleta": 5,
+  "origem_paleta": "tema giro=100 sat=1.00 val=0.72",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 159,
+  "tamanho": 1,
+  "sombra": 0,
+  "pesos_original": [
+   15,
+   15,
+   35,
+   35
+  ],
+  "pesos_rc1": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_final": [
+   15,
+   15,
+   35,
+   35
+  ],
+  "pow": [
+   0,
+   50,
+   0,
+   30
+  ],
+  "media_pow_original": 18.0,
+  "media_pow_final": 18.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x40"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x40"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   70,
+   83
+  ],
+  "mapas": [
+   "ges01_00",
+   "ges02_00"
+  ]
+ },
+ {
+  "linha": 149,
+  "animal_original": "Tumble Bug",
+  "nome_rc1": "Recruta Red Ribbon",
+  "nome_etapa12": null,
+  "nome_final": "Ladrão do Deserto",
+  "modelo": 42,
+  "sprite": "ene015_01",
+  "paleta": 4,
+  "origem_paleta": "nova giro=220 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 322,
+  "tamanho": 1,
+  "sombra": 1,
+  "pesos_original": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   40,
+   40,
+   0,
+   20
+  ],
+  "pow": [
+   -70,
+   0,
+   0,
+   50
+  ],
+  "media_pow_original": -18.0,
+  "media_pow_final": -18.0,
+  "tipos_golpe": [
+   [],
+   [
+    "0x1"
+   ],
+   [],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "sprite de 6 animações não tem o golpe 4 (20% no original); doador com 7 animações",
+  "largura_px": [
+   77,
+   91
+  ],
+  "mapas": [
+   "c0807_01",
+   "c0808_00",
+   "kou01_00",
+   "kou02_00",
+   "kou03_00",
+   "kou04_00",
+   "kou05_00",
+   "kou06_00",
+   "kou08_00",
+   "kou09_00"
+  ]
+ },
+ {
+  "linha": 150,
+  "animal_original": "Fire Caterpillar",
+  "nome_rc1": "Recruta Incendiário",
+  "nome_etapa12": null,
+  "nome_final": "Xamã do Vulcão",
+  "modelo": 70,
+  "sprite": "ene026_01",
+  "paleta": 5,
+  "origem_paleta": "tema giro=20 sat=0.65 val=1.08",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 132,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   -70,
+   0,
+   0,
+   100
+  ],
+  "media_pow_original": -1.0,
+  "media_pow_final": -1.0,
+  "tipos_golpe": [
+   [],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "sprite de 6 animações não tem o golpe 4 (20%, o mais forte); doador com 7 animações",
+  "largura_px": [
+   68,
+   77
+  ],
+  "mapas": [
+   "c0505_00",
+   "kiu02_00",
+   "kiu03_00",
+   "kiu04_00"
+  ]
+ },
+ {
+  "linha": 151,
+  "animal_original": "Caterpillar",
+  "nome_rc1": "Recruta Veterano",
+  "nome_etapa12": null,
+  "nome_final": "Aprendiz da Floresta",
+  "modelo": 50,
+  "sprite": "ene017_01",
+  "paleta": 3,
+  "origem_paleta": "etapa12",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 190,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   50,
+   30,
+   20,
+   0
+  ],
+  "pesos_final": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   -70,
+   0,
+   0,
+   100
+  ],
+  "media_pow_original": -1.0,
+  "media_pow_final": -1.0,
+  "tipos_golpe": [
+   [],
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   88,
+   102
+  ],
+  "mapas": [
+   "c0908_00",
+   "c1302_00",
+   "for01_00",
+   "for02_00",
+   "for03_00",
+   "for04_00",
+   "for05_00"
+  ]
+ },
+ {
+  "linha": 155,
+  "animal_original": "Roundworm",
+  "nome_rc1": "Saibaman Escavador",
+  "nome_etapa12": null,
+  "nome_final": "Batedor Escavador",
+  "modelo": 62,
+  "sprite": "ene023_01",
+  "paleta": 4,
+  "origem_paleta": "nova giro=120 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 332,
+  "dist_paleta_global": 237,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   40,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   30,
+   40,
+   30,
+   0
+  ],
+  "pow": [
+   60,
+   0,
+   162,
+   0
+  ],
+  "media_pow_original": 18.0,
+  "media_pow_final": 18.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x4000"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   80,
+   94
+  ],
+  "mapas": [
+   "c0602_00",
+   "c0607_00",
+   "dbg02_00",
+   "spi01_00",
+   "spi02_00",
+   "spi03_00",
+   "spi04_00",
+   "spi06_00",
+   "spi07_00"
+  ]
+ },
+ {
+  "linha": 156,
+  "animal_original": "Dark Firefly",
+  "nome_rc1": "Saibaman Noturno",
+  "nome_etapa12": null,
+  "nome_final": "Lutador Noturno",
+  "modelo": 54,
+  "sprite": "ene020_01",
+  "paleta": 4,
+  "origem_paleta": "tema giro=220 sat=1.00 val=0.72",
+  "dist_paleta_mesmo_mapa": 314,
+  "dist_paleta_global": 136,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   40,
+   30,
+   30,
+   0
+  ],
+  "pow": [
+   60,
+   0,
+   163,
+   0
+  ],
+  "media_pow_original": 24.0,
+  "media_pow_final": 24.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x4000"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   68,
+   82
+  ],
+  "mapas": [
+   "c1204_00",
+   "mut01_00",
+   "mut02_00",
+   "mut03_00",
+   "mut04_00",
+   "mut05_00",
+   "mut06_00",
+   "mut07_00"
+  ]
+ },
+ {
+  "linha": 157,
+  "animal_original": "Poison Sandbug",
+  "nome_rc1": "Saibaman Venenoso",
+  "nome_etapa12": null,
+  "nome_final": "Batedor Venenoso",
+  "modelo": 33,
+  "sprite": "ene012_01",
+  "paleta": 7,
+  "origem_paleta": "tema giro=300 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 82,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   20,
+   30,
+   50,
+   0
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   20,
+   30,
+   50,
+   0
+  ],
+  "pow": [
+   60,
+   0,
+   164,
+   0
+  ],
+  "media_pow_original": 12.0,
+  "media_pow_final": 12.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x1"
+   ],
+   [
+    "0x4000"
+   ],
+   []
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   77,
+   90
+  ],
+  "mapas": [
+   "c1007_01",
+   "snd01_00",
+   "snd02_00",
+   "snd03_00",
+   "snd04_00",
+   "snd05_00"
+  ]
+ },
+ {
+  "linha": 161,
+  "animal_original": "Roundworm Larva",
+  "nome_rc1": "Broto Escavador",
+  "nome_etapa12": null,
+  "nome_final": "Recruta Escavadora",
+  "modelo": 23,
+  "sprite": "ene008_01",
+  "paleta": 5,
+  "origem_paleta": "nova giro=240 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 999,
+  "dist_paleta_global": 274,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   -30,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": -9.0,
+  "media_pow_final": -9.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x80"
+   ],
+   [
+    "0x800"
+   ],
+   [
+    "0x100"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "gênero: sprite feminino (Bandida)",
+  "largura_px": [
+   85,
+   100
+  ],
+  "mapas": [
+   "c0602_00",
+   "c0607_00",
+   "dbg02_00",
+   "spi01_00",
+   "spi02_00",
+   "spi03_00",
+   "spi04_00",
+   "spi06_00",
+   "spi07_00"
+  ]
+ },
+ {
+  "linha": 162,
+  "animal_original": "Firefly Larva",
+  "nome_rc1": "Broto Noturno",
+  "nome_etapa12": null,
+  "nome_final": "Aprendiz Noturna",
+  "modelo": 51,
+  "sprite": "ene017_01",
+  "paleta": 4,
+  "origem_paleta": "tema giro=200 sat=1.00 val=0.72",
+  "dist_paleta_mesmo_mapa": 274,
+  "dist_paleta_global": 182,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   -30,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": -9.0,
+  "media_pow_final": -9.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x80"
+   ],
+   [
+    "0x800"
+   ],
+   [
+    "0x100"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": "gênero: sprite feminino (Aluna)",
+  "largura_px": [
+   72,
+   86
+  ],
+  "mapas": [
+   "c1204_00",
+   "mut01_00",
+   "mut02_00",
+   "mut03_00",
+   "mut04_00",
+   "mut05_00",
+   "mut06_00",
+   "mut07_00"
+  ]
+ },
+ {
+  "linha": 163,
+  "animal_original": "Sandbug Larva",
+  "nome_rc1": "Broto Venenoso",
+  "nome_etapa12": null,
+  "nome_final": "Batedora Venenosa",
+  "modelo": 40,
+  "sprite": "ene014_01",
+  "paleta": 4,
+  "origem_paleta": "tema giro=260 sat=1.00 val=1.00",
+  "dist_paleta_mesmo_mapa": 231,
+  "dist_paleta_global": 175,
+  "tamanho": 0,
+  "sombra": 0,
+  "pesos_original": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pesos_rc1": [
+   50,
+   50,
+   0,
+   0
+  ],
+  "pesos_final": [
+   30,
+   30,
+   20,
+   20
+  ],
+  "pow": [
+   -30,
+   0,
+   0,
+   0
+  ],
+  "media_pow_original": -9.0,
+  "media_pow_final": -9.0,
+  "tipos_golpe": [
+   [
+    "0x1"
+   ],
+   [
+    "0x80"
+   ],
+   [
+    "0x800"
+   ],
+   [
+    "0x100"
+   ]
+  ],
+  "nota_pesos": null,
+  "mudanca_vs_etapa12": null,
+  "largura_px": [
+   82,
+   96
+  ],
+  "mapas": [
+   "c1007_01",
+   "snd01_00",
+   "snd02_00",
+   "snd03_00",
+   "snd04_00",
+   "snd05_00"
+  ]
+ }
+]

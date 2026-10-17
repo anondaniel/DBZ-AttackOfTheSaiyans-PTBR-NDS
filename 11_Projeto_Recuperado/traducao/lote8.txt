@@ -1,0 +1,566 @@
+### 0 [cf1/c11/c1101_00.sb]
+<p>Hmph...!<k><p>Your father's weakling friends have delayed our training...<k>
+### 1 [cf1/c11/c1101_00.sb]
+<p>Prepare yourself, because from today, we're going to do some actual fighting!<k>
+### 2 [cf1/c11/c1101_00.sb]
+<p>Alright, follow me! We're heading<n>southeast to Nemuria Ruins!<k>
+### 3 [cf1/c11/c1101_00.sb]
+<p>Nemuria Ruins!<k>
+### 4 [cf1/c11/c1101_00.sb]
+<p>You got a problem, Gohan?!<k>
+### 5 [cf1/c11/c1101_00.sb]
+<p>Uh, it's nothing!<k>
+### 6 [cf1/c11/c1101_00.sb]
+<p>...Nemuria Ruins...<k><p>That's where that robot saved me when I got lost half a year ago...<k><p>Then he got buried in the ruins. I wonder if he's OK...<k>
+### 7 [cf1/c11/c1101_00.sb]
+<p>Hey! What are you mumbling about?!<k><p>You're training! No time to waste!<k>
+### 8 [cf1/c11/c1101_00.sb]
+<p>Yes, Piccolo!<k>
+### 9 [cf1/c11/c1102_00.sb]
+<p>...Just ahead is Nemuria Ruins!<k>
+### 10 [cf1/c11/c1102_00.sb]
+<p>Right!<k>
+### 11 [cf1/c11/c1102_00.sb]
+<p>Go and find the Devil's Bracelet that I hid in the deepest parts of the ruins!<k>
+### 12 [cf1/c11/c1102_00.sb]
+<p>Find it... alone?<k>
+### 13 [cf1/c11/c1102_00.sb]
+<p>You still insist on acting like a scared little baby?<k><p>It wouldn't be training if I had to hold your hand, right?!<k>
+### 14 [cf1/c11/c1102_00.sb]
+<p>OK! I'll find the Devil's Bracelet and bring it back!<k>
+### 15 [cf1/c11/c1103_00.sb]
+<p>W-Whoa whoa!<k>
+### 16 [cf1/c11/c1103_00.sb]
+<p>Waaahhhh!<k>
+### 17 [cf1/c11/c1103_01.sb]
+<p>Ouch, that hurt...<k>
+### 18 [cf1/c11/c1103_01.sb]
+<p>Wow! It's the Nemuria Ruins...<k><p>This is where I ran away to from Piccolo's training half a year ago.<k><p>This is about where I started crying...<k>
+### 19 [cf1/c11/c1103_01.sb]
+<p>I hope the robot who saved me is still OK...<k>
+### 20 [cf1/c11/c1103_01.sb]
+<p>I better start Piccolo's training!<k><p>...He said the Devil's Bracelet was in the deepest parts of the ruins...<k>
+### 21 [cf1/c11/c1103_02.sb]
+<p>Hmm... Everywhere I go is a dead end...<k><p>Where could it be?<k>
+### 22 [cf1/c11/c1103_02.sb]
+<p>Hey! Mr. Robot! You're all right!<k><p>It's me! Gohan!<k>
+### 23 [cf1/c11/c1103_02.sb]
+<p>Huh...? Your battery is gone!<k>
+### 24 [cf1/c11/c1103_02.sb]
+<p>If only he had his battery, I could talk to him...<k>
+### 25 [cf1/c11/c1103_02.sb]
+<p>Maybe there's a spare battery somewhere in the ruins!<k>
+### 26 [cf1/c11/c1103_03.sb]
+<p>I found it! A battery just for him!<k>
+### 27 [cf1/c11/c1103_03.sb]
+<p>Now I'll be able to talk to him.<k><p>...He might even know where to find the Devil's Bracelet!<k>
+### 28 [cf1/c11/c1103_04.sb]
+<p>...This should do it!<k>
+### 29 [cf1/c11/c1103_04.sb]
+<p>Mr. Robot! Mr. Robot! Wake up! Come on, wake up!<k>
+### 30 [cf1/c11/c1103_04.sb]
+<p>...m... mm... Hm? Who has awakened me...?<k>
+### 31 [cf1/c11/c1103_04.sb]
+<p>Yahoo! It's me, Mr. Robot! Gohan!<k>
+### 32 [cf1/c11/c1103_04.sb]
+<p>Oh, Gohan? What has happened? Have you not run away yet?<k>
+### 33 [cf1/c11/c1103_04.sb]
+<p>It's been half a year since I was lost in here!<k><p>...I'm glad you were OK!<k><p>I thought you were crushed under the ruins after you saved me!<k>
+### 34 [cf1/c11/c1103_04.sb]
+<p>...I see. So it has been that long...<k><p>...Then why is it that you are here? You should have made it out.<k>
+### 35 [cf1/c11/c1103_04.sb]
+<p>...Well... I got caught in some quicksand...<k><p>Oh, I have to go deep into the ruins and get the Devil's Bracelet!<k><p>Do you know which way to go?<k>
+### 36 [cf1/c11/c1103_04.sb]
+<p>So, in need of help again, I see... There are cave-ins happening all the time, so I do not know the terrain...<k>
+### 37 [cf1/c11/c1103_04.sb]
+<p>I saw a place that looked like I might be able to get through on the way here...<k><p>But there was a big boulder in the way...<k>
+### 38 [cf1/c11/c1103_04.sb]
+<p>...I see. I would move it for you, but...<k><p>As you can see...<k>
+### 39 [cf1/c11/c1103_04.sb]
+<p>Hmm... How am I gonna move it...?<k>
+### 40 [cf1/c11/c1104_00.sb]
+<p>...He's still not back...<k>
+### 41 [cf1/c11/c1104_00.sb]
+<p>This is taking too long! I guess I've got no choice but to see what the problem is...<k>
+### 42 [cf1/c11/c1104_01.sb]
+<p>!<n>Quicksand?!<k>
+### 43 [cf1/c11/c1104_01.sb]
+<p>Looks like I'm stuck...<k>
+### 44 [cf1/c11/c1104_01.sb]
+<p>Yahhh!!<k>
+### 45 [cf1/c11/c1104_01.sb]
+<p>...No problem...<k><p>But I better stay on guard.<k>
+### 46 [cf1/c11/c1104_02.sb]
+<p>The terrain here sure has changed...<k>
+### 47 [cf1/c11/c1104_02.sb]
+<p>If he dies here, then our chances against the Saiyans will plummet!<k><p>I'm probably getting too soft on him, but we'd better join up...<k>
+### 48 [cf1/c11/c1105_00.sb]
+<p>Piccolo!<k>
+### 49 [cf1/c11/c1105_00.sb]
+<p>Yay! You came to save me, right?!<k>
+### 50 [cf1/c11/c1105_00.sb]
+<p>...I can't have you dying on me...<k><p>Did you find the Devil's Bracelet?<k>
+### 51 [cf1/c11/c1105_00.sb]
+<p>...Umm, well...<k>
+### 52 [cf1/c11/c1105_00.sb]
+<p>Heh heh... Guess not, huh?<k>
+### 53 [cf1/c11/c1105_00.sb]
+<p>Fine. I'll back you up from here.<k><p>But in turn you better find that bracelet! Got it?<k>
+### 54 [cf1/c11/c1105_00.sb]
+<p>Mr. Piccolo!<k>
+### 55 [cf1/c11/c1105_00.sb]
+<p>All right.<k>
+### 56 [cf1/c11/c1105_01.sb]
+<p>Mr. Piccolo... What's that...?<k>
+### 57 [cf1/c11/c1105_01.sb]
+<p>Looks like some greedy weaklings have their eye set on treasure...<k>
+### 58 [cf1/c11/c1105_01.sb]
+<p>I can take them...<k>
+### 59 [cf1/c11/c1105_01.sb]
+<p>...Wait.<k>
+### 60 [cf1/c11/c1105_01.sb]
+<p>I'd like to see just how strong you've become... but I don't like the looks of these guys...<k>
+### 61 [cf1/c11/c1105_01.sb]
+<p>...Hey big bro! There's some strange folks over there...<k>
+### 62 [cf1/c11/c1105_01.sb]
+<p>...Huh?!<k><p>Looks like they're after the ruin's treasure just like us. Thieves probably.<k>
+### 63 [cf1/c11/c1105_01.sb]
+<p>Hey, then maybe they have some treasure on them already!<k>
+### 64 [cf1/c11/c1105_01.sb]
+<p>Yeah!<k><p>Let's give them a little scare and relieve them of their goods while we're at it!<k>
+### 65 [cf1/c11/c1105_01.sb]
+<p>Good thinking, big bro!<k>
+### 66 [cf1/c11/c1105_01.sb]
+<p>Hey you!<k><p>So, you after the treasure too?!<k>
+### 67 [cf1/c11/c1105_01.sb]
+<p>We're kinda famous in these parts...<k><p>We won't tell anyone, so...<k><p>If you wanna avoid a beating, hand over your treasure and make for the exit!<k>
+### 68 [cf1/c11/c1105_01.sb]
+<p>You think you're bad guys, eh? Don't make me laugh!<k><p>I'll show you real evil!<k>
+### 69 [cf1/c11/c1105_01.sb]
+<p>Hah! Just keep on talkin' like that!<k><p>Go get 'em, excavation robot!<k>
+### 70 [cf1/c11/c1105_02.sb]
+<p>Mr. Piccolo...<k>
+### 71 [cf1/c11/c1105_02.sb]
+<p>You've gotten stronger...<k>
+### 72 [cf1/c11/c1105_02.sb]
+<p>Mr. Piccolo, you said to them you'd show them <d>real evil<d>...<k><p>But they're the evil ones. I think what you showed them was the <d>power of good<d>...<k>
+### 73 [cf1/c11/c1105_02.sb]
+<p>D-Don't be stupid!<k>
+### 74 [cf1/c11/c1105_02.sb]
+<p>Quit talking nonsense... We found the Devil's Bracelet, so we're getting out of here!<k>
+### 75 [cf1/c11/c1105_03.sb]
+<p>Ouch...<n>That smarts...<k>
+### 76 [cf1/c11/c1105_03.sb]
+<p>Hmm... Looks like you've at least gotten over your cry baby syndrome...<k>
+### 77 [cf1/c11/c1105_03.sb]
+<p>Heh heh...<k>
+### 78 [cf1/c11/c1105_03.sb]
+<p>Hey Piccolo... You and my dad fought in the past, right?<k>
+### 79 [cf1/c11/c1105_03.sb]
+<p>That fight still isn't over... After we defeat the Saiyans your father is next on my list...<k>
+### 80 [cf1/c11/c1105_03.sb]
+<p>But...<k><p>Dad told me that you're not as bad as the Piccolo from the past...<k>
+### 81 [cf1/c11/c1105_03.sb]
+<p>I think he's right... Mom and grandpa were scared of you though...<k>
+### 82 [cf1/c11/c1105_03.sb]
+<p>Enough of your babbling! Go to sleep!<k><p>Tomorrow's training won't be as nice as today's was!<k>
+### 83 [cf1/c11/c1105_03.sb]
+<p>...Little runt...!<k>
+### 84 [cf1/c12/c1201_00.sb]
+<p>Hey...<n>Do you know where Chiaotzu is?<k>
+### 85 [cf1/c12/c1201_00.sb]
+<p>Chiaotzu?<k><p>I don't think he would have left Kami's Lookout...<n>You can't find him?<k>
+### 86 [cf1/c12/c1201_00.sb]
+<p>Yeah...<k><p>I've been looking for him since morning and I still can't find him...<n>Do you know anything, Mr. Popo?<k>
+### 87 [cf1/c12/c1201_00.sb]
+<p>I haven't seen him since last night...<n>I'm worried...<k>
+### 88 [cf1/c12/c1201_00.sb]
+<p>So you haven't seen him either...<k>
+### 89 [cf1/c12/c1201_00.sb]
+<p>I don't feel his Ki anywhere nearby... Try talking to Kami...<k>
+### 90 [cf1/c12/c1201_00.sb]
+<p>Looks like Chiaotzu's no where to be found...<k>
+### 91 [cf1/c12/c1201_00.sb]
+<p>You should try looking for him below.<k>
+### 92 [cf1/c12/c1201_00.sb]
+<p>You mean...leave the lookout?<k>
+### 93 [cf1/c12/c1201_00.sb]
+<p>Yes. Go and see Baba. She may know something.<k>
+### 94 [cf1/c12/c1201_00.sb]
+<p>I understand.<k><p>We'll go below and look for him! Training will only be put on hold until we find him.<k>
+### 95 [cf1/c12/c1201_00.sb]
+<p>Do not worry!<k><p>Going below will be a part of your training. I wouldn't want to train fighters who don't value their comrades.<k>
+### 96 [cf1/c12/c1201_00.sb]
+<p>Thank you, Kami!<k>
+### 97 [cf1/c12/c1202_00.sb]
+<p>What? What?! What are you all doing here?<k>
+### 98 [cf1/c12/c1202_00.sb]
+<p>Well...<k>
+### 99 [cf1/c12/c1202_00.sb]
+<p>We don't know where Chiaotzu has gone!<k><p>We thought maybe you might help us find a clue...<k>
+### 100 [cf1/c12/c1202_00.sb]
+<p>Hmm...<k><p>I guess you boys aren't playing around.<k>
+### 101 [cf1/c12/c1202_00.sb]
+<p>Could you use your power to help us find him?<k>
+### 102 [cf1/c12/c1202_00.sb]
+<p>Easily done! Hoy hoy hoy sa sa!<k>
+### 103 [cf1/c12/c1202_00.sb]
+<p>...Hmmm...<k>
+### 104 [cf1/c12/c1202_00.sb]
+<p>Did you find out anything?!<k>
+### 105 [cf1/c12/c1202_00.sb]
+<p>It seems he's at Master Mutaito's training grounds!<k>
+### 106 [cf1/c12/c1202_00.sb]
+<p>Master Mutaito's training grounds?!<k>
+### 107 [cf1/c12/c1202_00.sb]
+<p>Right! The place where it is said Master Mutaito himself trained.<k>
+### 108 [cf1/c12/c1202_00.sb]
+<p>What would Chiaotzu be doing in a place like that?!<k>
+### 109 [cf1/c12/c1202_00.sb]
+<p>My powers tell me that he didn't go there by his own will.<k>
+### 110 [cf1/c12/c1202_00.sb]
+<p>Not by his own will?!<k>
+### 111 [cf1/c12/c1202_00.sb]
+<p>That's right. Simply put, he was kidnapped! ...I think?<k>
+### 112 [cf1/c12/c1202_00.sb]
+<p>Kidnapped?! By who?!<k>
+### 113 [cf1/c12/c1202_00.sb]
+<p>I don't know. You should go to the training grounds.<k>
+### 114 [cf1/c12/c1203_00.sb]
+<p>This is it.<k>
+### 115 [cf1/c12/c1203_00.sb]
+<p>So this is where Master Mutaito trained. I think I'm getting goose bumps!<k>
+### 116 [cf1/c12/c1203_00.sb]
+<p>(Chiaotzu... Where are you?)<k>
+### 117 [cf1/c12/c1204_00.sb]
+<p>Hah hah hah hah! I've been waiting for you, Tien!<k>
+### 118 [cf1/c12/c1204_00.sb]
+<p>Don't tell me you've forgotten my voice already.<k>
+### 119 [cf1/c12/c1204_00.sb]
+<p>M-Master Shen?!<k>
+### 120 [cf1/c12/c1204_00.sb]
+<p>Heh heh! The traitor has finally shown himself!<k><p>Now where did that other traitor go... Oh, there he is!<k>
+### 121 [cf1/c12/c1204_00.sb]
+<p>Why... Why would you do this?!?!<k>
+### 122 [cf1/c12/c1204_00.sb]
+<p>To get even with you!<k><p>You had become too strong at the last World Tournament, like you said!<k><p>You tore my pride to pieces...<k>
+### 123 [cf1/c12/c1204_00.sb]
+<p>Pride? Pride?! All you cared about was winning! Your fists ignored all decency.<k><p>You had no pride to begin with!<k>
+### 124 [cf1/c12/c1204_00.sb]
+<p>That's what I'm talking about!<k><p>I must shut that high and mighty mouth of yours!<k><p>I brought you here to make you pay for the sorrow you caused my brother<k><p>after you caused him injury beyond recovery!<k>
+### 125 [cf1/c12/c1204_00.sb]
+<p>Are you saying that for that, not only would you hurt Chiaotzu...<k><p>But you would insult Master Mutaito himself?<k>
+### 126 [cf1/c12/c1204_00.sb]
+<p>Hah hah hah!<k><p>I'll make you pay for your conceit in front of my master, Mutaito.<k><p>Prepare yourself, Tien. I've analyzed my brother's battles and put the data into this super robot.<k><p>I'll let TPP-EX take you to the other side!<k>
+### 127 [cf1/c12/c1205_00.sb]
+<p>Tien!<k>
+### 128 [cf1/c12/c1205_00.sb]
+<p>Are you hurt??<k>
+### 129 [cf1/c12/c1205_00.sb]
+<p>Yes... But...<k>
+### 130 [cf1/c12/c1205_00.sb]
+<p>You don't need to say anything.<k>
+### 131 [cf1/c12/c1205_00.sb]
+<p>...But...<k>
+### 132 [cf1/c12/c1205_00.sb]
+<p>We have only one master... And that's Master Roshi!<k>
+### 133 [cf1/c12/c1205_00.sb]
+<p>Tien... What a sad thing to happen...<k>
+### 134 [cf1/c12/c1205_00.sb]
+<p>I know...<k>
+### 135 [cf1/c12/c1206_00.sb]
+<p>I see...<k><p>So he was upset over his brother then...<k><p>But Tien... You should have nothing more to worry about now.<k>
+### 136 [cf1/c12/c1206_00.sb]
+<p>...That's right! No matter how many times you showed him the wrong in his ways he wouldn't learn!<k>
+### 137 [cf1/c12/c1206_00.sb]
+<p>Yes... I know it, but... I still can't help it...<k>
+### 138 [cf1/c12/c1206_00.sb]
+<p>You warned him!<k><p>He'll never show his face around you again!<k>
+### 139 [cf1/c12/c1206_00.sb]
+<p>...Yeah...<k>
+### 140 [cf1/c12/c1206_00.sb]
+<p>Heh heh heh.<k>
+### 141 [cf1/c12/c1206_00.sb]
+<p>?<n>...Is something funny?<k>
+### 142 [cf1/c12/c1206_00.sb]
+<p>I never thought once enemies such as yourselves would have ever formed such a strong bond.<k>
+### 143 [cf1/c12/c1206_00.sb]
+<p>You have all surpassed me long ago.<k><p>Mr. Popo and I have nothing more to teach you.<k><p>I believe it would be best if you returned to the world below to polish your various techniques before the showdown.<k>
+### 144 [cf1/c12/c1206_00.sb]
+<p>I leave the future in your hands.<k>
+### 145 [cf1/c12/c1206_00.sb]
+<p>...Can I take off this heavy clothing now then?<k>
+### 146 [cf1/c13/c1301_00.sb]
+<p>So... How was everything on Earth?<k>
+### 147 [cf1/c13/c1301_00.sb]
+<p>Everyone was doing good!<k><p>I was worried about Piccolo and Gohan, but they seem to be doing fine!<k>
+### 148 [cf1/c13/c1301_00.sb]
+<p>I see, I see... Well then, let's continue the training, shall we?<k>
+### 149 [cf1/c13/c1301_00.sb]
+<p>OK! ...So, what are you going to teach me next?<k>
+### 150 [cf1/c13/c1301_00.sb]
+<p>...The Spirit Bomb!<k>
+### 151 [cf1/c13/c1301_00.sb]
+<p>Spirit Bomb?<k><p>...Sounds powerful! What kind of technique is it?!<k>
+### 152 [cf1/c13/c1301_00.sb]
+<p>If you can complete the task I have for you, I'll teach it to you...<k><p>...First, go to Yemma's Forest and bring me the Spirit Crystal!<k>
+### 153 [cf1/c13/c1301_00.sb]
+<p>Yemma's Forest from before?<k>
+### 154 [cf1/c13/c1301_00.sb]
+<p>Right! A forest sprite should have it!<k><p>...But there's a little problem... You remember how Raditz went on a rampage?<k><p>He downed a Yemma Tree and blocked the road to the tree the sprites live in!<k>
+### 155 [cf1/c13/c1301_00.sb]
+<p>The tree the sprites live in...?<k>
+### 156 [cf1/c13/c1301_00.sb]
+<p>You know Gregory, right?<k><p>That tree is where he used to live!<k><p>The elder Montgomery should have the Spirit Crystal...<k>
+### 157 [cf1/c13/c1301_00.sb]
+<p>...But the road's been blocked. How am I supposed to get there?<k>
+### 158 [cf1/c13/c1301_00.sb]
+<p>Hah hah hah! That's why I have this nutrient!<k><p>It's a secret recipe.<k><p>Bubbles and I make it as a hobby.<k><p>This stuff will help raise any plant...<k>
+### 159 [cf1/c13/c1301_00.sb]
+<p>Oh, man! It reeks!<k><p>Are you sure this'll make that Yemma Tree go back to normal?<k>
+### 160 [cf1/c13/c1301_00.sb]
+<p>Heh heh! I can guarantee it'll work!<k><p>...All right? Raditz broke five trees in all!<k><p>If you heal all five trees, the road to the tree the sprites live in should open...<k><p>Go see Montgomery and bring the Spirit Crystal back to me!<k>
+### 161 [cf1/c13/c1301_00.sb]
+<p>No problem! I'll be back!<k>
+### 162 [cf1/c13/c1301_00.sb]
+<p>And just so you know...<k>
+### 163 [cf1/c13/c1301_00.sb]
+<p>You can use the Kaioken if you want to now!<k>
+### 164 [cf1/c13/c1301_00.sb]
+<p>Yes.<k><p>You did well mastering something not even I myself could not...<k><p>You impress me, Goku...<k><p>However I urge you not to overuse it.<k><p>If you lose control, your own body could be destroyed...<k>
+### 165 [cf1/c13/c1301_00.sb]
+<p>Don't go over two times the power.<k><p>Got it?<k><p>Taking the Kaioken beyond that would be too much for your body...<k><p>Your body won't be able to keep up and the technique will backfire...<k>
+### 166 [cf1/c13/c1301_00.sb]
+<p>Got it, King Kai!<k>
+### 167 [cf1/c13/c1301_00.sb]
+<p>Learned Kaioken!<k>
+### 168 [cf1/c13/c1302_00.sb]
+<p>...So, this is where the sprites live! It's huge!!<k>
+### 169 [cf1/c13/c1302_00.sb]
+<p>I better find the elder...<k>
+### 170 [cf1/c13/c1302_00.sb]
+<p>So, you're after the Spirit Crystal as well...<k>
+### 171 [cf1/c13/c1302_00.sb]
+<p>Raditz?! You're still here? You just won't give up, will you?<k>
+### 172 [cf1/c13/c1302_00.sb]
+<p>You should know better than that!<k><p>If I can get a hold of the Spirit Crystal I'll gain power greater than that of King Yemma himself!<k>
+### 173 [cf1/c13/c1302_00.sb]
+<p>What do you plan to do after that?<k>
+### 174 [cf1/c13/c1302_00.sb]
+<p>What do you think?! I will rule all of Hell!<k>
+### 175 [cf1/c13/c1303_00.sb]
+<p>Gugh...! How... could this happen...<k>
+### 176 [cf1/c13/c1303_00.sb]
+<p>Whew...! How stubborn can you get...<k><p>I wonder if he was telling the truth about the Spirit Crystal being able to make someone more powerful than King Yemma...<k>
+### 177 [cf1/c13/c1303_00.sb]
+<p>Oh well!<k><p>I need to hurry up so I can learn the Spirit Bomb from King Kai...!<k>
+### 178 [cf1/c13/c1303_00.sb]
+<p>What's all the fuss?!<k>
+### 179 [cf1/c13/c1303_00.sb]
+<p>Elder??<k>
+### 180 [cf1/c13/c1303_00.sb]
+Montgomery
+### 181 [cf1/c13/c1303_00.sb]
+<p>Oh! Gregory, is that you??<k><p>Have you been keeping up the hard work under King Kai??<k>
+### 182 [cf1/c13/c1303_00.sb]
+<p>Of course!<k>
+### 183 [cf1/c13/c1303_00.sb]
+<p>What's wrong? I suppose you're not just home to visit...<k>
+### 184 [cf1/c13/c1303_00.sb]
+<p>That's right! I brought a man from Earth with me!<k>
+### 185 [cf1/c13/c1303_00.sb]
+<p>...Earth?<k>
+### 186 [cf1/c13/c1303_00.sb]
+<p>Hi! I'm Goku!<k>
+### 187 [cf1/c13/c1303_00.sb]
+<p>...And what is it this man from Earth wants?<k>
+### 188 [cf1/c13/c1303_00.sb]
+<p>King Kai told me to find the Spirit Crystal!<k>
+### 189 [cf1/c13/c1303_00.sb]
+<p>If that's all you're looking for then take all you need...<k><p>Here!<k>
+### 190 [cf1/c13/c1303_00.sb]
+<p>That was pretty easy...<k><p>Isn't this something really important?<k>
+### 191 [cf1/c13/c1303_00.sb]
+<p>...Important?<k>
+### 192 [cf1/c13/c1303_00.sb]
+<p>Yeah. Raditz said that it would grant power greater than King Yemma...<k>
+### 193 [cf1/c13/c1303_00.sb]
+<p>Wah hah hah! Sounds like Goz and Mez have been up to their old lies again!<k><p>It's just something of a protective charm to us sprites!<k><p>You can find them rolling all over this area!<k>
+### 194 [cf1/c13/c1303_00.sb]
+<p>I wonder why King Kai had me come and get one then...<k>
+### 195 [cf1/c13/c1303_00.sb]
+<p>Hmm...<k><p>Maybe he wanted for us to meet...<k>
+### 196 [cf1/c13/c1303_00.sb]
+<p>I don't really understand it all, but thanks!<k><p>I gotta get back to King Kai's place! Later!<k>
+### 197 [cf1/c13/c1303_00.sb]
+<p>...Elder. Are you sure about giving that Earthling the Spirit Crystal?<k><p>It's supposed to only be given to those as proof of learning the Spirit Bomb...<k>
+### 198 [cf1/c13/c1303_00.sb]
+<p>Just what have you been learning under King Kai??<k>
+### 199 [cf1/c13/c1303_00.sb]
+<p>You saw the pureness in his eyes, didn't you?<k><p>He'll put the Spirit Bomb to good use, I'm sure of it!<k><p>Are you sure you don't want to go after him? Aren't you supposed to still be training?<k>
+### 200 [cf1/c13/c1303_00.sb]
+<p>Yes! I guess I better go!<k>
+### 201 [cf1/c13/c1304_00.sb]
+<p>King Kai!<k>
+### 202 [cf1/c13/c1304_00.sb]
+<p>So, you're back!<k>
+### 203 [cf1/c13/c1304_00.sb]
+<p>Look! I brought the Spirit Crystal you told me to get!<k><p>Why did you make me go after it? The elder said it was just a plain old protective charm!<k>
+### 204 [cf1/c13/c1304_00.sb]
+<p>Yes, well...<k><p>Think about it. I'm sure you've gained some strength in getting it, haven't you?<k>
+### 205 [cf1/c13/c1304_00.sb]
+<p>Come on, King Kai! Hurry up and teach me the Spirit Bomb!<k>
+### 206 [cf1/c13/c1304_00.sb]
+<p>Heh heh. <k><p>Looks like Montgomery has seen just how capable he is.<k>
+### 207 [cf1/c13/c1304_00.sb]
+<p>Hah hah! Don't get so hasty!<k>
+### 208 [cf1/c13/c1304_00.sb]
+<p>I can't wait much longer! There's not much time!<k>
+### 209 [cf1/c13/c1304_00.sb]
+<p>The truth is... You've already attained the Spirit Bomb!<k>
+### 210 [cf1/c13/c1304_00.sb]
+<p>Wh-What? Then what's this Spirit Crystal?!?!<k>
+### 211 [cf1/c13/c1304_00.sb]
+<p>That was like a sort of graduation test.<k><p>Gregory even said you saved him!<k>
+### 212 [cf1/c13/c1304_00.sb]
+<p>I can't believe it. All that work for nothing!<k>
+### 213 [cf1/c13/c1304_00.sb]
+<p>It wasn't for nothing! What do you think you're sayin', Saiyan? Hee hee!<k>
+### 214 [cf1/c13/c1304_00.sb]
+<p>*Cough cough*<k><p>Each time you complete the training I assign to you,<k><p> you gain the means to greater control your Ki!<k>
+### 215 [cf1/c13/c1304_00.sb]
+<p>Really??<k>
+### 216 [cf1/c13/c1304_00.sb]
+<p>By choosing Ultimate Attack during battle, you will be able to use the Spirit Bomb!<k>
+### 217 [cf1/c13/c1304_00.sb]
+<p>All right! So I've gained an Ultimate Attack!<k>
+### 218 [cf1/c13/c1304_00.sb]
+<p>Learned Spirit Bomb!<k>
+### 219 [cf1/c13/c1304_00.sb]
+<p>But listen, Goku. This is a technique that borrows a small amount of energy from things like the grass, trees, humans and animals.<k><p>Eventually the energy from things and the air itself can be gathered and released.<k><p>You can even tap into the massive energy of the sun.<k><p>It will be a Spirit Bomb of enormous power.<k><p>If you make one mistake, you could destroy the very planet that you are trying to protect.<k><p>Only use it if you have to!<k>
+### 220 [cf1/c13/c1304_00.sb]
+<p>OK! Gotcha, King Kai.<k><p>I'll be fine. The Kaioken should be enough!<k>
+### 221 [cf1/c13/c1304_00.sb]
+<p>Well, the day of the decisive battle has come!<k><p>The Saiyans will descend to Earth tomorrow.<k>
+### 222 [cf1/c13/c1304_00.sb]
+<p>Oh no! Tomorrow! I've really done it this time!!<k>
+### 223 [cf1/c13/c1304_00.sb]
+<p>What's wrong, King Kai??<k>
+### 224 [cf1/c13/c1304_00.sb]
+<p>I... I forgot to add in the time it would take you to travel back across Snake Way!<k>
+### 225 [cf1/c13/c1304_00.sb]
+<p>Couldn't you just beam me down to Earth with one of your tricks?<k><p>You mean I have to go back the way I came?!<k><p>It took me half a year to get here!<k>
+### 226 [cf1/c13/c1304_00.sb]
+<p>I'm sure you could make it there in only a couple days now!<k><p>I'll contact Kami and tell him to meet you to take you to Earth!<k>
+### 227 [cf1/c13/c1304_00.sb]
+<p>But that'll be one day too long! Everyone might get killed!<k>
+### 228 [cf1/c13/c1304_00.sb]
+<p>You don't have to remind me! I'm allowed to make mistakes too, aren't I?!<k><p>Now! Hurry up and tell your friends on Earth to wish you back to life!<k>
+### 229 [cf1/c13/c1304_00.sb]
+<p>How do I do that?<k>
+### 230 [cf1/c13/c1304_00.sb]
+<p>Put your hand on my back and you can tell them telepathically!<k>
+### 231 [cf1/c13/c1304_00.sb]
+<p>R-Really??<k><p>Like this?<k>
+### 232 [cf1/c13/c1304_00.sb]
+<p>Hurry up and tell them!<k>
+### 233 [cf1/c13/c1304_00.sb]
+<p>(...M-Master Roshi... Master Roshi, it's me, Goku. Can you hear me?)<k>
+### 234 [cf1/c13/c1305_00.sb]
+<p>Goku! Is that you? Where are you??<k>
+### 235 [cf1/c13/c1305_00.sb]
+<p>(Great! You heard me! I'm still on the other side.<k><p>I'm talking to you telepathically.)<k>
+### 236 [cf1/c13/c1305_00.sb]
+<p>The... other side...<k>
+### 237 [cf1/c13/c1305_00.sb]
+<p>(Did you gather all the Dragon Balls?)<k>
+### 238 [cf1/c13/c1305_00.sb]
+<p>Yes, we already did!<k><p>We did it all together... To bring you back...<k>
+### 239 [cf1/c13/c1305_00.sb]
+<p>(Thanks.<k><p>Sorry to be in such a rush, but could you summon Shenron and wish me back to life now?<k><p>The Saiyans will arrive on Earth tomorrow!)<k>
+### 240 [cf1/c13/c1305_00.sb]
+<p>What?! They'll be here already?!<k><p>That's a month earlier than I expected!<k>
+### 241 [cf1/c13/c1305_00.sb]
+<p>(Hurry, Master Roshi! I'm gonna be a little late.<k><p>I promise I'll do what I can!)<k>
+### 242 [cf1/c13/c1305_00.sb]
+<p>All right, Goku! By the way...<k><p>I heard you've been training there. How has it come along?<k>
+### 243 [cf1/c13/c1305_00.sb]
+<p>(Great!)<k>
+### 244 [cf1/c13/c1305_00.sb]
+UmiGame
+### 245 [cf1/c13/c1305_00.sb]
+<p>Is...he OK in there? I can hear him mumbling...<k>
+### 246 [cf1/c13/c1305_00.sb]
+<p>I wonder if he's just lost it...<k>
+### 247 [cf1/c13/c1305_00.sb]
+<p>Hey, everyone! Get the Dragon Balls together right away!<k>
+### 248 [cf1/c13/c1306_00.sb]
+<p>That was cool, King Kai! I actually got through!<k>
+### 249 [cf1/c13/c1306_00.sb]
+<p>Heh heh... Of course you did.<k><p>Now, while we wait for them to revive you, I'll do something about those tattered clothes...<k>
+### 250 [cf1/c13/c1306_00.sb]
+<p>There!<k>
+### 251 [cf1/c13/c1306_00.sb]
+<p>Wow! I feel a whole lot lighter!<k>
+### 252 [cf1/c13/c1306_00.sb]
+<p>They aren't just light. That's strong material.<k><p>Light attacks will bounce right off.<k>
+### 253 [cf1/c13/c1306_00.sb]
+<p>Thanks, King Kai! Oh, good! The symbol of the turtle is still there!<k><p>I was worried I was gonna end up with the stupid looking symbol on your clothes!<k>
+### 254 [cf1/c13/c1306_00.sb]
+<p>...Well excuse me...<k>
+### 255 [cf1/c13/c1306_00.sb]
+<p>I wish they'd hurry up!<k>
+### 256 [cf1/c13/c1306_00.sb]
+<p>The symbol on the back is the number one fashion point!<k>
+### 257 [cf1/c13/c1306_00.sb]
+<p>Make your wish! I will grant any wish, but only one!<k>
+### 258 [cf1/c13/c1306_00.sb]
+<p>Hey! Umm...<k><p>Could you maybe beat up the Saiyans and save the Earth? Would that wish be OK...?<k>
+### 259 [cf1/c13/c1306_00.sb]
+<p>What are you saying! You want to just forget about Goku being dead?!<k>
+### 260 [cf1/c13/c1306_00.sb]
+<p>No!<k><p>We could just bring him back the next time... Why not?<k>
+### 261 [cf1/c13/c1306_00.sb]
+<p>I can not grant that wish.<k><p>Kami is my creator. I can not grant wishes that exceed Kami's power.<k>
+### 262 [cf1/c13/c1306_00.sb]
+<p>Then I wish for you to bring Goku back to life!<k>
+### 263 [cf1/c13/c1306_00.sb]
+<p>A simple matter.<k>
+### 264 [cf1/c13/c1307_00.sb]
+<p>It's the middle of the day and it's dark out!<k>
+### 265 [cf1/c13/c1307_00.sb]
+<P>(Looks like Goku is about  to be revived...)<k>
+### 266 [cf1/c13/c1307_00.sb]
+<p>That means that the Saiyans are coming sooner than I thought!<k>
+### 267 [cf1/c13/c1307_00.sb]
+<p>Good!<k><p>The halo's gone! You're back to life! Now, hurry!<k>
+### 268 [cf1/c13/c1307_00.sb]
+<p>OK, King Kai!<k>
+### 269 [cf1/c13/c1307_00.sb]
+<p>Now remember, your enemy is evil and stronger than you can imagine!<k><p>You can't let your guard down even for a moment! Don't think you can be brought back to life again!<k>
+### 270 [cf1/c13/c1307_00.sb]
+<p>I'll be all right! I can only be brought back to life once with the Dragon Balls!<k><p>I'll give it all I've got!<k>
+### 271 [cf1/c13/c1307_00.sb]
+<p>Thanks for everything, King Kai. If I die again, I'll be sure to visit!<k>
+### 272 [cf1/c13/c1307_00.sb]
+<p>There seems to be no limit to his strength...<k><p>And his heart is as clear as crystal...<k><p>Who would have thought someone like him existed in the lower world.<k><p>Although he didn't have much of a sense of humor...<k><p>I'll have to instruct him on that the next time...<k>
+### 273 [cf1/c13/c1307_00.sb]
+<p>This is great! I feel so light! Like my whole body's made out of cotton!<k>
+### 274 [cf1/c13/c1307_00.sb]
+<p>This is no time to be fooling around though! I better hurry!<k>
+### 275 [cf1/c13/c1307_00.sb]
+<p>And so, at 11:43AM the next day, the Earth was invaded by two Saiyans!<k>
+### 276 [cf1/c13/c1308_00.sb]
+<p>Wha... What happened? What's going on...?<k>
+### 277 [cf1/c13/c1308_00.sb]
+<p>That was scary...<k>
+### 278 [cf1/c13/c1308_00.sb]
+<p>Looks like something... fell from the sky...<k>
+### 279 [cf1/c13/c1308_00.sb]
+<p>I knew it...! That round thing fell from the sky!<k>
+### 280 [cf1/c13/c1308_00.sb]
+<p>There's one over here, too!<k>
+### 281 [cf1/c13/c1308_00.sb]
+<p>L-Look! Someone came out of it!!<k>
+### 282 [cf1/c13/c1308_00.sb]
+<p>Whew...<k>

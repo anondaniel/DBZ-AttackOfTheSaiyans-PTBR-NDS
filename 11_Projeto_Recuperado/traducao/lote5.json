@@ -1,0 +1,3816 @@
+{
+ "0": {
+  "original": "<p>...Chi-Chi? Is this the right way to your old man's castle?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:9"
+  ]
+ },
+ "1": {
+  "original": "<p>Goku, he's my father, not an <d>old man.<d> For that matter, he's your father, too.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:11"
+  ]
+ },
+ "2": {
+  "original": "<p>Huh? Why's that?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:12"
+  ]
+ },
+ "3": {
+  "original": "<p>Your father-in-law, at least once we get married!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:13"
+  ]
+ },
+ "4": {
+  "original": "<p>Whoa! Man, the Ox-King's gonna be my dad, huh?!<k><p>That's... weird.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:14"
+  ]
+ },
+ "5": {
+  "original": "<p>I have to admit, though, I'm impressed. I never thought you'd get this strong.<k><p>No wonder I figured you'd be the perfect husband.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:18"
+  ]
+ },
+ "6": {
+  "original": "<p>Ugh, you still don't remember me? I'm Chi-Chi! Daughter of the Ox-King!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:19"
+  ]
+ },
+ "7": {
+  "original": "<p>Chi-Chi!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:21"
+  ]
+ },
+ "8": {
+  "original": "<p>Aaaaagh! Now I remember!<k><p>Oh, man, I really said it, too! I told you I'd marry you!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:22"
+  ]
+ },
+ "9": {
+  "original": "<p>Whew, finally...<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:23"
+  ]
+ },
+ "10": {
+  "original": "<p>(Now it makes sense...)<k><p>(I thought that a <d>wife<d> was some kinda food or something.)<k><p>(Ah, well... a promise is a promise!)<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:24"
+  ]
+ },
+ "11": {
+  "original": "<p>Okay, let's get married!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:25"
+  ]
+ },
+ "12": {
+  "original": "<p>Hee hee! You got it!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:26"
+  ]
+ },
+ "13": {
+  "original": "<p>...Boy, getting married sure sounds crazy.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:28"
+  ]
+ },
+ "14": {
+  "original": "<p>Ah! There's the castle!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_00.sb:29"
+  ]
+ },
+ "15": {
+  "original": "<p>By the way, Goku, I think it'd be best if we held a marriage ceremony soon...<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_01.sb:10"
+  ]
+ },
+ "16": {
+  "original": "<p>...Huh?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_01.sb:13"
+  ]
+ },
+ "17": {
+  "original": "<p>Yes. A ceremony worthy of the greatest son-in-law a king could ever hope for.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_01.sb:14"
+  ]
+ },
+ "18": {
+  "original": "<p>Oh, we don't need one! It'd be so embarrassing! Right, Goku?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_01.sb:17"
+  ]
+ },
+ "19": {
+  "original": "<p>Huh? I don't really care either way, but...<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_01.sb:18"
+  ]
+ },
+ "20": {
+  "original": "<p>Chi-Chi... there's something I'd like to show you.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_01.sb:19"
+  ]
+ },
+ "21": {
+  "original": "<p>...Oh?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_01.sb:20"
+  ]
+ },
+ "22": {
+  "original": "<p>What're you looking for, Daddy?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:10"
+  ]
+ },
+ "23": {
+  "original": "<p>Ah, here it is! Here, take a look!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:13"
+  ]
+ },
+ "24": {
+  "original": "<p>Huh? What's that, Daddy?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:14"
+  ]
+ },
+ "25": {
+  "original": "<p>Wooowwwww!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:17"
+  ]
+ },
+ "26": {
+  "original": "<p>Mmm?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:20"
+  ]
+ },
+ "27": {
+  "original": "<p>It's so pretty, Daddy!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:21"
+  ]
+ },
+ "28": {
+  "original": "<p>It's a wedding dress. Your mother wore this when we got married.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:22"
+  ]
+ },
+ "29": {
+  "original": "<p>Mommy, huh...?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:23"
+  ]
+ },
+ "30": {
+  "original": "<p>I keep it here as something to remember the ol' lady by.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:24"
+  ]
+ },
+ "31": {
+  "original": "<p>One of my mother's heirlooms...<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:25"
+  ]
+ },
+ "32": {
+  "original": "<p>Chi-Chi... I'd like you to put this on during the big day for me.<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:26"
+  ]
+ },
+ "33": {
+  "original": "<p>Oh, Daddy! We've just got to have a ceremony now!<k><p>I can't wait to put this wedding dress on for myself...<k><p>Let's do it! Right now! I'm ready anytime!! ...Huh? Goku!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:27"
+  ]
+ },
+ "34": {
+  "original": "<p>Uh... Chi-Chi? Do you really have to wear that dress to get married?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:28"
+  ]
+ },
+ "35": {
+  "original": "<p>Sure do!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:29"
+  ]
+ },
+ "36": {
+  "original": "<p>There's no need for haste here, Chi-Chi.<k><p>We'll need the villagers' support if we want to set up the greatest wedding ceremony in the land!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:30"
+  ]
+ },
+ "37": {
+  "original": "<p>Okay, Daddy!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_02.sb:31"
+  ]
+ },
+ "38": {
+  "original": "<p><d>Ladies and gentlemen... uh... Thank you for, er, coming...<d><k><p><d>Er, I mean, for taking time out of your busy schedules...to, uh, make it to our wedding.<d><k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:11"
+  ]
+ },
+ "39": {
+  "original": "<p>Ha hah! Perfect! My wedding speech is gonna be great! Now we just need good weather!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:12"
+  ]
+ },
+ "40": {
+  "original": "<p>...Whoa! An earthquake!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:13"
+  ]
+ },
+ "41": {
+  "original": "<p>Goku! I left my wedding dress in Daddy's room!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:16"
+  ]
+ },
+ "42": {
+  "original": "<p>Chi-Chi!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:17"
+  ]
+ },
+ "43": {
+  "original": "<p>I'll take care of the dress, Goku!<k><p>You get Chi-Chi out of here for me!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:19"
+  ]
+ },
+ "44": {
+  "original": "<p>Daddy!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:20",
+   "sb:cf1/c06/c0604_00.sb:76"
+  ]
+ },
+ "45": {
+  "original": "<p>Goku!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:21",
+   "sb:cf1/c06/c0603_00.sb:42"
+  ]
+ },
+ "46": {
+  "original": "<p>Got it!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:24",
+   "sb:cf1/c05/c0501_04.sb:14"
+  ]
+ },
+ "47": {
+  "original": "<p>Whoa! Man, it's so hot! I can't get any closer!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:25"
+  ]
+ },
+ "48": {
+  "original": "<p>Ox-King...<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_03.sb:26"
+  ]
+ },
+ "49": {
+  "original": "<p>Chi-Chi! You okay?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:10"
+  ]
+ },
+ "50": {
+  "original": "<p>Goku! Use your Kamehameha to put out the flames!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:13"
+  ]
+ },
+ "51": {
+  "original": "<p>Ka... me... ha... me...!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:16"
+  ]
+ },
+ "52": {
+  "original": "<p>Wait! On second thought, don't, Goku!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:18"
+  ]
+ },
+ "53": {
+  "original": "<p>Why not?<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:19"
+  ]
+ },
+ "54": {
+  "original": "<p>You'll blow the whole castle apart! Just like Master Roshi did before!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:20"
+  ]
+ },
+ "55": {
+  "original": "<p>Goku...<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:21",
+   "sb:cf1/c06/c0608_03.sb:25"
+  ]
+ },
+ "56": {
+  "original": "<p>Don't worry, okay? I'll make it just strong enough to put out the fire!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:22"
+  ]
+ },
+ "57": {
+  "original": "<p>Haaaaaahhh!!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:23"
+  ]
+ },
+ "58": {
+  "original": "<p>G-Goku!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:24"
+  ]
+ },
+ "59": {
+  "original": "<p>Man... what a blaze...<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:25"
+  ]
+ },
+ "60": {
+  "original": "<p>Wait, I know! Flying Nimbus!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:27"
+  ]
+ },
+ "61": {
+  "original": "<p>Chi-Chi! You wait here, okay? I'll save him!<k>",
+  "ids": [
+   "sb:cf1/c05/c0501_04.sb:28"
+  ]
+ },
+ "62": {
+  "original": "<p>Oh, man...! This isn't any ordinary fire!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:10"
+  ]
+ },
+ "63": {
+  "original": "<p>Ox-King!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:12"
+  ]
+ },
+ "64": {
+  "original": "<p>...Huh? Oh! Goku!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:13"
+  ]
+ },
+ "65": {
+  "original": "<p>Ox-King! You okay?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:15"
+  ]
+ },
+ "66": {
+  "original": "<p>Goku! The Bansho Fan's the only thing that'll put these flames out!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:16"
+  ]
+ },
+ "67": {
+  "original": "<p>Huh? The Bansho Fan...?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:17"
+  ]
+ },
+ "68": {
+  "original": "<p>Yeah! It's the greatest fan in the world!<k><p>Wave it once for a massive gust of wind... Wave it twice for clouds, and three times for rain!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:21"
+  ]
+ },
+ "69": {
+  "original": "<p>But Master Roshi threw it away! He was using it as a pot holder, and it got all dirty!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:23"
+  ]
+ },
+ "70": {
+  "original": "<p>I don't care, Goku! You've got to find that Bansho Fan for me! Pleeeease!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:24"
+  ]
+ },
+ "71": {
+  "original": "<p>...But where could it be? I have no idea!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:27"
+  ]
+ },
+ "72": {
+  "original": "<p>...Wait. Who do I go to when I'm stuck like this?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:28"
+  ]
+ },
+ "73": {
+  "original": "<p>That's it! Fortuneteller Baba!!<k><p>Chi-Chi! I'm gonna go visit Baba, okay?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:29"
+  ]
+ },
+ "74": {
+  "original": "<p>Goku!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_00.sb:31"
+  ]
+ },
+ "75": {
+  "original": "<p>Ahh-choo!! Hoihoihoi!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:10"
+  ]
+ },
+ "76": {
+  "original": "<p>Hey, uh, Baba...? Could you tell me where the Bansho Fan is?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:13"
+  ]
+ },
+ "77": {
+  "original": "<p>Ahh-choo!! Great, I've caught my first cold in 200 years...<k><p>Ohh, I hardly feel like moving... Ahh-choo!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:14"
+  ]
+ },
+ "78": {
+  "original": "<p>Hmmmmmm...<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:18"
+  ]
+ },
+ "79": {
+  "original": "<p>Do you see anything?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:19"
+  ]
+ },
+ "80": {
+  "original": "<p>I don't know where the Bansho Fan is...<k><p>But it appears Fire Mountain's eruption has something to do with the Magical Furnace.<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:20"
+  ]
+ },
+ "81": {
+  "original": "<p>...The what?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:21"
+  ]
+ },
+ "82": {
+  "original": "<p>Yep! There's a furnace that lies under Fire Mountain, you see...<k><p>The flames from it are what you see spouting out of the mountain right now!<k><p>I can't see anything else... You'll have to go check out the furnace for yourself.<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:22"
+  ]
+ },
+ "83": {
+  "original": "<p>Really? Well, okay! So how can I get to it?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:23"
+  ]
+ },
+ "84": {
+  "original": "<p>I heard there was a path leading to the furnace from Mt. Five Element...<k><p>It's being protected by a very, very important person. Her name's Annin!<k><p>Perhaps she might be able to tell you what's going on here.<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:24"
+  ]
+ },
+ "85": {
+  "original": "<p>Mt. Five Element, right? Thanks a lot!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_01.sb:25"
+  ]
+ },
+ "86": {
+  "original": "<p>Wow... this is the Magical Furnace?<k><p>Man, it's huge!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:10"
+  ]
+ },
+ "87": {
+  "original": "<p>Annin! You there?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:11"
+  ]
+ },
+ "88": {
+  "original": "<p>...Who on earth would you be?<k><p>How am I supposed to sleep with all this racket?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:14"
+  ]
+ },
+ "89": {
+  "original": "<p>Are you Annin?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:15"
+  ]
+ },
+ "90": {
+  "original": "<p>Annin... I haven't heard anyone call me by that in a while.<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:16"
+  ]
+ },
+ "91": {
+  "original": "<p>But yes... yes, I am Annin!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:17"
+  ]
+ },
+ "92": {
+  "original": "<p>Listen, there's something I need you to do! Put out the furnace's fire for me!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:18"
+  ]
+ },
+ "93": {
+  "original": "<p>Whaaaaaat?! You want me to quell the flames?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:19"
+  ]
+ },
+ "94": {
+  "original": "<p>Daddy's surrounded by the furnace's fire! He's trapped!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:22"
+  ]
+ },
+ "95": {
+  "original": "<p>Daddy...?<k><p>Who're you, anyway?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:23"
+  ]
+ },
+ "96": {
+  "original": "<p>My name's Chi-Chi, daughter of the Ox-King...<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:24"
+  ]
+ },
+ "97": {
+  "original": "<p>...The Ox-King lives on Fire Mountain?<k><p>Hmm... that's the mountain behind this one, isn't it?<k><p>That must mean there's a hole or something at the bottom of the furnace.<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_02.sb:25"
+  ]
+ },
+ "98": {
+  "original": "<p>Please! You've got to put out the fire!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:33"
+  ]
+ },
+ "99": {
+  "original": "<p>I can't do that.<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:36"
+  ]
+ },
+ "100": {
+  "original": "<p>Why not?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:37",
+   "sb:cf1/c05/c0503_01.sb:14"
+  ]
+ },
+ "101": {
+  "original": "<p>Shutting the furnace down would cause chaos both here and in the Other World. Do you want that?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:38"
+  ]
+ },
+ "102": {
+  "original": "<p>It'd certainly be interesting, to say the least, but...<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:39"
+  ]
+ },
+ "103": {
+  "original": "<p>It'd cause chaos...?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:42"
+  ]
+ },
+ "104": {
+  "original": "<p>Please! We need to put out the furnace before it's too late!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:43"
+  ]
+ },
+ "105": {
+  "original": "<p>...You want to see the world messed up that much, do you?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:44"
+  ]
+ },
+ "106": {
+  "original": "<p>If that fire isn't put out, the Ox-King's gonna burn to death!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:45"
+  ]
+ },
+ "107": {
+  "original": "<p>Come on, you need to help! Save my father for me!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:46"
+  ]
+ },
+ "108": {
+  "original": "<p>So you want to plunge the world into turmoil in order to save a single man's life?<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:47"
+  ]
+ },
+ "109": {
+  "original": "<p>I... I don't know, okay?!<k><p>Just tell me how to shut off the furnace already!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:48"
+  ]
+ },
+ "110": {
+  "original": "<p>Heavens! You certainly have a lot of spunk, at least!<k><p>You wanna shut the furnace down? Just turn that knob over there all the way down!<k><p>That'll put it out for sure, I guarantee!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:49"
+  ]
+ },
+ "111": {
+  "original": "<p>Before that, though, let me test you to see how serious you really are!<k>",
+  "ids": [
+   "sb:cf1/c05/c0502_03.sb:50"
+  ]
+ },
+ "112": {
+  "original": "<p>Ngh...!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:10",
+   "sb:cf1/c06/c0608_01.sb:20"
+  ]
+ },
+ "113": {
+  "original": "<p>Look up, above the pot!<k><p>Do you see all the steam rising up from it?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:13"
+  ]
+ },
+ "114": {
+  "original": "<p>Yeah.<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:14"
+  ]
+ },
+ "115": {
+  "original": "<p>That steam turns into fog and settles at the top of the mountain!<k><p>And that's where the problem lies here, Goku!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:15"
+  ]
+ },
+ "116": {
+  "original": "<p>What...? The fog?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:16"
+  ]
+ },
+ "117": {
+  "original": "<p>Uh-huh.<k><p>If the furnace shuts down, that fog's gonna disappear, too!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:17"
+  ]
+ },
+ "118": {
+  "original": "<p>So what?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:18"
+  ]
+ },
+ "119": {
+  "original": "<p>That fog's actually the portal between this and the Other World!<k><p>Everyone that dies in this world goes through that fog to the Other World...<k><p>And people in the Other World can come back through at times to see their kids and so on.<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:19"
+  ]
+ },
+ "120": {
+  "original": "<p>But with the furnace off, the fog's going to lift...<k><p>The souls of the dead or visiting won't be able to make it to the Other World anymore.<k><p>The world will be filled with wandering, vengeful souls!<k><p>It'd plunge the entire world into a panic! Don't you see?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_00.sb:23"
+  ]
+ },
+ "121": {
+  "original": "<p>Well, why don't we just turn the furnace off for a little bit, Annin?<k><p>Just enough to keep the steam from going completely away?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:10"
+  ]
+ },
+ "122": {
+  "original": "<p>Sorry, no dice!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:13"
+  ]
+ },
+ "123": {
+  "original": "<p>Once the furnace is extinguished, it takes over 2000 years to start it up again!<k><p>It'll be a dark, dark era for those millennia... Does that sound like something you want?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:15"
+  ]
+ },
+ "124": {
+  "original": "<p>Well, how can we keep the flames from shooting out from the furnace?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:16"
+  ]
+ },
+ "125": {
+  "original": "<p>C'mon, you gotta help us! There has to be some way!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:17"
+  ]
+ },
+ "126": {
+  "original": "<p>Well... there is one method.<k><p>Have you ever seen one of these before?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:18"
+  ]
+ },
+ "127": {
+  "original": "<p>...Whoa! The Bansho Fan!<k><p>Wow, lady, you had it the whole time!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:21"
+  ]
+ },
+ "128": {
+  "original": "<p>Um... <d>lady,<d> you say?<k><p>Listen, kid, who do you think I am, anyway?<k><p>I am Annin, the great overseer. I have guarded this furnace for thousands of years!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:22"
+  ]
+ },
+ "129": {
+  "original": "<p>Whoa! Thousands of years?!<k><p>Man... you aren't a lady, you're an old grandma!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:23"
+  ]
+ },
+ "130": {
+  "original": "<p>...You little brat!! There are some things better left unsaid, you know!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:24"
+  ]
+ },
+ "131": {
+  "original": "<p>What? You wanna fight me again, or what?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:27"
+  ]
+ },
+ "132": {
+  "original": "<p>Hee hee hee... Oh, I'm already fully aware of your skill by this point, thanks.<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:28"
+  ]
+ },
+ "133": {
+  "original": "<p>Great Annin! Tell us how we can save Daddy already!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_01.sb:29"
+  ]
+ },
+ "134": {
+  "original": "<p>You'll need more than the Bansho Fan to put the furnace out...<k><p>You'll also need something to plug the hole at the bottom of the furnace.<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:10"
+  ]
+ },
+ "135": {
+  "original": "<p>Oh... what, is that it? Well, I'll go fetch whatever you need!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:13"
+  ]
+ },
+ "136": {
+  "original": "<p>I'm afraid what we need is not so easily obtainable...<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:14"
+  ]
+ },
+ "137": {
+  "original": "<p>It's not?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:15"
+  ]
+ },
+ "138": {
+  "original": "<p>So... what is it, then?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:18"
+  ]
+ },
+ "139": {
+  "original": "<p>The bottom of the furnace is made from the shells of the eggs laid by the fire-eater bird!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:19"
+  ]
+ },
+ "140": {
+  "original": "<p>The... the fire-eater bird?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:20"
+  ]
+ },
+ "141": {
+  "original": "<p>That's right. So we'll need a shell to plug the hole with...<k><p>And we'll need honey from an octogonal beehive to hold the shell in place, too.<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:21"
+  ]
+ },
+ "142": {
+  "original": "<p>Wow... so an eggshell and some honey, huh?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:22"
+  ]
+ },
+ "143": {
+  "original": "<p>So where can we find these things, Annin?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:23"
+  ]
+ },
+ "144": {
+  "original": "<p>The fire-eater bird lives on Kiwi Volcano, I think.<k><p>And as for the honey... er...<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:24"
+  ]
+ },
+ "145": {
+  "original": "<p>As for the honey?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:25"
+  ]
+ },
+ "146": {
+  "original": "<p>I've forgotten... I haven't needed any for thousands of years, you see.<k><p>I'd be willing to bet Master Roshi would know, though.<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:26"
+  ]
+ },
+ "147": {
+  "original": "<p>...Oh! You mean the Turtle Hermit?<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:27"
+  ]
+ },
+ "148": {
+  "original": "<p>All right! I'll go off and find that shell and the honey for you!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:28"
+  ]
+ },
+ "149": {
+  "original": "<p>Good! Try to be quick as you can about it!<k><p>We'll need those two things before we can do anything else!<k>",
+  "ids": [
+   "sb:cf1/c05/c0503_02.sb:29"
+  ]
+ },
+ "150": {
+  "original": "<p>Hey! Hey, Turtle Hermit!<k><p>Could you tell me where there's an eight-sided beehive at?<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:10"
+  ]
+ },
+ "151": {
+  "original": "<p>Ah, Goku! What on earth have you been up to?<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:13"
+  ]
+ },
+ "152": {
+  "original": "<p>Ah... I see...<k><p>Well, I heard there's a lady named Hakkake who collects that honey. She lives near Mt. Frappe.<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:14"
+  ]
+ },
+ "153": {
+  "original": "<p>Thanks, pops! Guess that's where I'm going next!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:15"
+  ]
+ },
+ "154": {
+  "original": "<p>Chi-Chi... you better stay here.<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:16"
+  ]
+ },
+ "155": {
+  "original": "<p>Goku?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:19"
+  ]
+ },
+ "156": {
+  "original": "<p>I can't even imagine what kind of danger I'm gonna be facing from here on in...<k><p>I can't afford to have you exposed to all of that.<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:20"
+  ]
+ },
+ "157": {
+  "original": "<p>O-okay... but are you sure you're gonna be okay by yourself, Goku?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:21"
+  ]
+ },
+ "158": {
+  "original": "<p>No problem! I can handle the search, easy!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:22"
+  ]
+ },
+ "159": {
+  "original": "<p>Wait!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:25"
+  ]
+ },
+ "160": {
+  "original": "<p>I heard the whole story, Goku.<k><p>If Chi-Chi's dad is in trouble, there's no way I'm not gonna help, too!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:27"
+  ]
+ },
+ "161": {
+  "original": "<p>...Hey! I'm not gonna let you hog all of the limelight! Take me along too, Goku!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:30"
+  ]
+ },
+ "162": {
+  "original": "<p>Krillin... and Yamcha? Well, sorry, guys, but...<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:31"
+  ]
+ },
+ "163": {
+  "original": "<p>Hold on a minute, Goku. You better not be forgetting about me!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:34"
+  ]
+ },
+ "164": {
+  "original": "<p>Tien...<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:35"
+  ]
+ },
+ "165": {
+  "original": "<p>Right! Let's get moving!<k><p>There isn't a single moment to waste!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:36"
+  ]
+ },
+ "166": {
+  "original": "<p>A fire-eater bird's shell and some honey, eh...? It'll be a cinch with all of us helping!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:37"
+  ]
+ },
+ "167": {
+  "original": "S-Combo Dictionary is now available!",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:38"
+  ]
+ },
+ "168": {
+  "original": "<p>You can now view your S-Combos via the Crystal Ball in the menu!<k><p>This S-Combo dictionary lets you view all of the S-Combo notes you've acquired.<k><p>These notes contain hints on how you can put S-Combos together into bigger combos.<k><p>There are S-Combo notes hidden around the world. Try to find them all!<k>",
+  "ids": [
+   "sb:cf1/c05/c0504_00.sb:39"
+  ]
+ },
+ "169": {
+  "original": "Pilaf",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:9",
+   "sb:cf1/c05/c0505_01.sb:24",
+   "sb:cf1/c05/c0506_01.sb:12",
+   "sb:cf1/c05/c0506_02.sb:12"
+  ]
+ },
+ "170": {
+  "original": "<p>If you value your life, give me that egg!<k><p>When we want something, we get it, and that's that!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:10"
+  ]
+ },
+ "171": {
+  "original": "Shu",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:12",
+   "sb:cf1/c05/c0505_01.sb:12",
+   "sb:cf1/c05/c0506_01.sb:16"
+  ]
+ },
+ "172": {
+  "original": "<p>...Uh, wait. Emperor Pilaf?<k><p>Am I going at it alone here?<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:13"
+  ]
+ },
+ "173": {
+  "original": "<p>Of course you are! Go! Now!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:14"
+  ]
+ },
+ "174": {
+  "original": "<p>Whaaaaaaaaaa?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:15"
+  ]
+ },
+ "175": {
+  "original": "<p>Wow... so this is a fire-eater bird's egg.<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:21"
+  ]
+ },
+ "176": {
+  "original": "<p>Great! Now we just need to take the shell back.<k><p>We better hurry... I'm getting worried about the Ox-King.<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:24"
+  ]
+ },
+ "177": {
+  "original": "<p>Hey! Who're you?<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:26"
+  ]
+ },
+ "178": {
+  "original": "<p>The rightful owners of that egg!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:27"
+  ]
+ },
+ "179": {
+  "original": "Mai",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:29",
+   "sb:cf1/c05/c0505_01.sb:9",
+   "sb:cf1/c05/c0506_01.sb:19",
+   "sb:cf1/c05/c0506_02.sb:9"
+  ]
+ },
+ "180": {
+  "original": "<p>I'm honestly astounded you actually found an egg from that bird...<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:30"
+  ]
+ },
+ "181": {
+  "original": "<p>Sorry, pal, but we're taking that sucker, shell and all!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:31"
+  ]
+ },
+ "182": {
+  "original": "<p>Huh...? Hey, it's you!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:32"
+  ]
+ },
+ "183": {
+  "original": "<p>Quit messing with us! We're never gonna let you have it!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:33"
+  ]
+ },
+ "184": {
+  "original": "<p>There's someone you oughta meet before you start going off like that!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:34"
+  ]
+ },
+ "185": {
+  "original": "<p>A man feared in every corner of the dark underworld!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:35"
+  ]
+ },
+ "186": {
+  "original": "<p>Robbery, murder, speeding, extortion, pickpocketing, dine 'n dash...<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:36"
+  ]
+ },
+ "187": {
+  "original": "<p>He'll do anything... anything... for money!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:37"
+  ]
+ },
+ "188": {
+  "original": "<p>His name...? None other than Emperor Pilaf!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:40"
+  ]
+ },
+ "189": {
+  "original": "<p>Gahh hah hah hah hah!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:41"
+  ]
+ },
+ "190": {
+  "original": "<p>Oh great, it's him...<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:42"
+  ]
+ },
+ "191": {
+  "original": "<p>Huh? You know him?<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:45"
+  ]
+ },
+ "192": {
+  "original": "<p>Well, look at this! What a fine egg I see here!<k><p>It's the only one of its kind in the world! I could sell it for 100 million Zeni, easy!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:46"
+  ]
+ },
+ "193": {
+  "original": "<p>And with that kind of cash, my dreams of world conquest will finally become reality!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:47"
+  ]
+ },
+ "194": {
+  "original": "<p>Ah ha ha ha hah!<k><p>This egg is mine! All mine!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_00.sb:48"
+  ]
+ },
+ "195": {
+  "original": "<p>Hmm... hey, have I seen you somewhere before?<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:10"
+  ]
+ },
+ "196": {
+  "original": "<p>Yeah... I was just thinking that myself.<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:13"
+  ]
+ },
+ "197": {
+  "original": "<p>Wait a minute. Isn't your name...??<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:14"
+  ]
+ },
+ "198": {
+  "original": "<p>Who, me...? Goku's the name, guys!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:17"
+  ]
+ },
+ "199": {
+  "original": "<p>...Goku?<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:18"
+  ]
+ },
+ "200": {
+  "original": "<p>Goku, huh...<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:19"
+  ]
+ },
+ "201": {
+  "original": "<p>Goku?!?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:21"
+  ]
+ },
+ "202": {
+  "original": "<p>...Ahhhh!! Help us!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:22"
+  ]
+ },
+ "203": {
+  "original": "<p>Whoa, wait a sec... I think I just remembered!<k><p>Y-y-you're... G-Goku!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:25"
+  ]
+ },
+ "204": {
+  "original": "<p>Oh, no no noooooo!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:26"
+  ]
+ },
+ "205": {
+  "original": "<p>Emperor Pilaf!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:27"
+  ]
+ },
+ "206": {
+  "original": "<p>Guess we won't be seeing them again. Time to go home!<k>",
+  "ids": [
+   "sb:cf1/c05/c0505_01.sb:28"
+  ]
+ },
+ "207": {
+  "original": "<p>What brings you to this frigid place, my friends?<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:10"
+  ]
+ },
+ "208": {
+  "original": "<p>Gah! Forget about us! What are you doing in a place like this, old lady?<k><p>We're looking for someone named Hakkake! She's supposed to live somewhere around here.<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:13"
+  ]
+ },
+ "209": {
+  "original": "<p>Oh...? And what will you do once you meet her?<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:14"
+  ]
+ },
+ "210": {
+  "original": "<p>Well, it's kind of a long story...<k><p>But the gist of it is that we want a little bit of the honey she has!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:15"
+  ]
+ },
+ "211": {
+  "original": "<p>...Gah! You rabble are after my honey as well, are you?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:16"
+  ]
+ },
+ "212": {
+  "original": "<p><d>My<d> honey...? Wait, so you're Hakkake?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:17"
+  ]
+ },
+ "213": {
+  "original": "<p>I most certainly am... But guess what, guys! There ain't no honey left!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:19"
+  ]
+ },
+ "214": {
+  "original": "<p>No honey...?<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:20"
+  ]
+ },
+ "215": {
+  "original": "<p>I love eating shaved ice with honey on top... I get the ice right here on Mt. Frappe.<k><p>But these three weirdos came earlier and stole all of my honey!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:21"
+  ]
+ },
+ "216": {
+  "original": "<p>Three of 'em, you say...?<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:22"
+  ]
+ },
+ "217": {
+  "original": "<p>Hey, how about we do this, lady?<k><p>If we can get your honey back, would you mind giving us just a little?<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:23"
+  ]
+ },
+ "218": {
+  "original": "<p>Get my honey back...? Well, I'd be happy to, if you can find it.<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:24"
+  ]
+ },
+ "219": {
+  "original": "<p>Great! Thanks a lot, lady! We'll have it back here in a flash!<k><p>So where did those three guys go?<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:25"
+  ]
+ },
+ "220": {
+  "original": "<p>They were climbing up Mt. Frappe last I saw them!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_00.sb:26"
+  ]
+ },
+ "221": {
+  "original": "<p>Hey! Hey, hold it, guys!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_01.sb:10"
+  ]
+ },
+ "222": {
+  "original": "<p>Mmm? Who the heck are you?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_01.sb:13"
+  ]
+ },
+ "223": {
+  "original": "<p>You stole some honey from Hakkake, didn't you? I'm here to get it back!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_01.sb:14"
+  ]
+ },
+ "224": {
+  "original": "<p>...Emperor Pilaf?<k><p>I think they're after the legendary sweet honey we stole!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_01.sb:17"
+  ]
+ },
+ "225": {
+  "original": "<p>If we get our honey stolen back from us...<k><p>We can forget about selling it for the cash we need to conquer the world!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_01.sb:20"
+  ]
+ },
+ "226": {
+  "original": "<p>Wha...? Well, that's no good!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_01.sb:21"
+  ]
+ },
+ "227": {
+  "original": "<p>Ha hah!<k><p>You want that honey? Well, come right on up here and get it! Thpbbt!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_01.sb:22"
+  ]
+ },
+ "228": {
+  "original": "<p>H-huh...? Emperor Pilaf?<k><p>...Just me, by myself?<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_02.sb:10"
+  ]
+ },
+ "229": {
+  "original": "<p>You got it! I'm counting on you, Mai!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_02.sb:13"
+  ]
+ },
+ "230": {
+  "original": "<p>Whaaa?! But that's crazy!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_02.sb:14"
+  ]
+ },
+ "231": {
+  "original": "<p>There are so many enemies out there! Do we have any kind of strategy, Emperor?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_02.sb:15"
+  ]
+ },
+ "232": {
+  "original": "<p>...Nope!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_02.sb:17"
+  ]
+ },
+ "233": {
+  "original": "<p>Whaaaaa?! What am I supposed to do?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_02.sb:18"
+  ]
+ },
+ "234": {
+  "original": "<p>...Hah! Gimme our honey back!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_02.sb:24"
+  ]
+ },
+ "235": {
+  "original": "<p>Ugghh! You guys don't know when to give up!<k><p>Shu! Mai! Get them!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_02.sb:26"
+  ]
+ },
+ "236": {
+  "original": "<p>Gee whiz, guys...<k><p>We could've avoided all this if you had just handed it over.<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_03.sb:10"
+  ]
+ },
+ "237": {
+  "original": "<p>Hey! Hello!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_03.sb:13"
+  ]
+ },
+ "238": {
+  "original": "<p>Oh! Hakkake!<k><p>We got the honey back for you, ma'am!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_03.sb:14"
+  ]
+ },
+ "239": {
+  "original": "<p>Really? Oh, my! Thank you so much!<k><p>I made you a promise. Here's a bit of honey for you!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_03.sb:15"
+  ]
+ },
+ "240": {
+  "original": "<p>Thanks! I appreciate it a bunch!<k>",
+  "ids": [
+   "sb:cf1/c05/c0506_03.sb:16"
+  ]
+ },
+ "241": {
+  "original": "<p>And so Goku, with the fire-eater bird's eggshell and honey in hand, made his way back to Kame House.<k><p>There he regrouped with Chi-Chi to pay another visit to Annin and the furnace...<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:8"
+  ]
+ },
+ "242": {
+  "original": "<p>Here you go! The honey, and the eggshell!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:12"
+  ]
+ },
+ "243": {
+  "original": "<p>Impressive! It didn't take you much time, either!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:15"
+  ]
+ },
+ "244": {
+  "original": "<p>Now we can plug the hole in the furnace, right?<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:16"
+  ]
+ },
+ "245": {
+  "original": "<p>Not so fast, kid!<k><p>There's only a one-in-a-million chance that it'll even work, I'm afraid...<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:17"
+  ]
+ },
+ "246": {
+  "original": "<p>One in a million?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:18"
+  ]
+ },
+ "247": {
+  "original": "<p>...And if you mess up, you'll be dead for sure!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:19"
+  ]
+ },
+ "248": {
+  "original": "<p>Well, I'm still giving it a shot! What do I have to do?<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:20"
+  ]
+ },
+ "249": {
+  "original": "<p>Hmm... if anyone can do it, it's got to be you, Goku.<k><p>I'll lift up the pot a little bit, so you'll go into the furnace and plug the hole in the meantime.<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:21"
+  ]
+ },
+ "250": {
+  "original": "<p>I gotta go inside the furnace?!<k><p>Oh, man! It's gotta be scorching in there, right?<k><p>I dunno about this anymore...<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:22"
+  ]
+ },
+ "251": {
+  "original": "<p>Well, that's where the Bansho Fan comes in!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:23"
+  ]
+ },
+ "252": {
+  "original": "<p>Listen, Goku...<k><p>If you flap the fan once, you'll part the flames with the wind and make a path for yourself!<k><p>Follow that path down to the bottom, and you'll be able to patch up the furnace.<k><p>It'll be dangerous, Goku... you willing to risk your life for it?<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:24"
+  ]
+ },
+ "253": {
+  "original": "<p>I'm ready to try!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_00.sb:25"
+  ]
+ },
+ "254": {
+  "original": "<p>Goku...<k><p>There are flames raging all across the furnace... The hole's probably deep inside, too!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_01.sb:9"
+  ]
+ },
+ "255": {
+  "original": "<p>...Got it! I'll dive in as far as I can go!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_01.sb:12"
+  ]
+ },
+ "256": {
+  "original": "<p>Go then, Goku! There isn't a moment to lose!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_01.sb:13"
+  ]
+ },
+ "257": {
+  "original": "<p>Oh, man...! Where the heck is it?!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_02.sb:10"
+  ]
+ },
+ "258": {
+  "original": "<p>...Ah! There it is!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_02.sb:11"
+  ]
+ },
+ "259": {
+  "original": "<p>That oughta do it.<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_02.sb:12"
+  ]
+ },
+ "260": {
+  "original": "<p>I better get back before I burn up!<k>",
+  "ids": [
+   "sb:cf1/c05/c0507_02.sb:13"
+  ]
+ },
+ "261": {
+  "original": "<p>Gokuuuuu! Oh, Goku, I'm so glad you made it in time!<k><p>I thought you were a goner for sure...<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_00.sb:10"
+  ]
+ },
+ "262": {
+  "original": "<p>This ought to make the fire go away in the castle, right?<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_00.sb:11"
+  ]
+ },
+ "263": {
+  "original": "<p>It should!<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_00.sb:14"
+  ]
+ },
+ "264": {
+  "original": "<p>Thank you, Goku!<k><p>Sorry for the trouble, Chi-Chi... As overseer of the furnace, I formally apologize!<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_00.sb:17"
+  ]
+ },
+ "265": {
+  "original": "<p>Thanks to Goku's bold efforts, the fire in the Ox-King's castle was extinguished.<k><p>With that, Goku and Chi-Chi were able to hold their marriage ceremony.<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_00.sb:19"
+  ]
+ },
+ "266": {
+  "original": "<p>Listen up, everyone! Thanks for coming to celebrate my marriage!<k><p>Ohhh, this makes me so happy!<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:9"
+  ]
+ },
+ "267": {
+  "original": "<p>...Wow, Chi-Chi, you're beautiful.<k><p>You're an even match for your mother, in fact!<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:11"
+  ]
+ },
+ "268": {
+  "original": "<p>Thanks again for the wedding dress, Daddy!<k><p>I'll never forget this moment...<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:12"
+  ]
+ },
+ "269": {
+  "original": "<p>Take good care of her for me, Goku.<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:13"
+  ]
+ },
+ "270": {
+  "original": "<p>Sure...<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:15"
+  ]
+ },
+ "271": {
+  "original": "<p>With their ceremony over, what could be waiting for Goku and Chi-Chi ahead? Happiness, or...?<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:16"
+  ]
+ },
+ "272": {
+  "original": "<p>How about I tell your fortunes, instead?<k><p>Hoihoihoi!!<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:19"
+  ]
+ },
+ "273": {
+  "original": "<p>Let's see... Ahhhh!<k><p>Oooh, this is troubling indeed...<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:20"
+  ]
+ },
+ "274": {
+  "original": "<p>And so the story skips forward five years...<k>",
+  "ids": [
+   "sb:cf1/c05/c0508_01.sb:22"
+  ]
+ },
+ "275": {
+  "original": "<p>W-w-whoa! What was that?! A meteor? A UFO?<k>",
+  "ids": [
+   "sb:cf1/c06/c0601_00.sb:10"
+  ]
+ },
+ "276": {
+  "original": "<p>The inhabitants of this planet are still alive... Curse you, Kakarot.<k>",
+  "ids": [
+   "sb:cf1/c06/c0601_00.sb:16"
+  ]
+ },
+ "277": {
+  "original": "<p>W-w-whoaa!! W-who the heck are you?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0601_00.sb:17"
+  ]
+ },
+ "278": {
+  "original": "<p>Power level... only 5, huh? Piece of garbage.<k>",
+  "ids": [
+   "sb:cf1/c06/c0601_00.sb:18"
+  ]
+ },
+ "279": {
+  "original": "<p>G-get away from me! I, I, I'll kill you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0601_00.sb:19"
+  ]
+ },
+ "280": {
+  "original": "<p>Pfft. Such a pathetic species.<k>",
+  "ids": [
+   "sb:cf1/c06/c0601_00.sb:20"
+  ]
+ },
+ "281": {
+  "original": "<p>Hmm?<k><p>There's someone far more powerful nearby... range, 4800. Is that Kakarot?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0601_00.sb:21"
+  ]
+ },
+ "282": {
+  "original": "<p>!!!<k><p>W-where did this power come from?! It's intense, and it's coming right this way!<k><p>It couldn't be Goku, could it?<k><p>Oh, no...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:12"
+  ]
+ },
+ "283": {
+  "original": "<p>Gah... you're not Kakarot.<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:15"
+  ]
+ },
+ "284": {
+  "original": "<p>And who are you? You got  a problem with me?<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:16"
+  ]
+ },
+ "285": {
+  "original": "<p>I don't need to deal with the likes of you.<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:17"
+  ]
+ },
+ "286": {
+  "original": "<p>So what're you here for?! You in that much of a hurry to die?<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:18"
+  ]
+ },
+ "287": {
+  "original": "<p>Heh heh heh... that's a big mouth you've got there.<k><p>Hmm... power level 322, eh? Quite a range of humans live here, I see.<k><p>But you're still no match for me...<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:19"
+  ]
+ },
+ "288": {
+  "original": "<p>What?!<k><p>Do you have any idea who you're talking to, you freak?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:20"
+  ]
+ },
+ "289": {
+  "original": "<p>Can't say I do.<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:21"
+  ]
+ },
+ "290": {
+  "original": "<p>(This guy...! He's so powerful!)<k><p>Haahh!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:22"
+  ]
+ },
+ "291": {
+  "original": "<p>What a worthless move... All it did was kick up some dust.<k><p>Now it's my turn, huh? Let me show you a real move...<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:25"
+  ]
+ },
+ "292": {
+  "original": "<p>!!!<k><p>I sense another power nearby! It's massive!<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:26"
+  ]
+ },
+ "293": {
+  "original": "<p>That way...! Range, 12,909...<k><p>This one's big... the biggest power source on the planet! It must be Kakarot!<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:28"
+  ]
+ },
+ "294": {
+  "original": "<p>Huff huff...<k><p>It... it can't be! I... I was shaking so much, I couldn't even move!<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:29"
+  ]
+ },
+ "295": {
+  "original": "<p>Kakarot! Have you thrown away your pride as a Saiyan, the great warrior race in the universe?<k>",
+  "ids": [
+   "sb:cf1/c06/c0602_00.sb:32"
+  ]
+ },
+ "296": {
+  "original": "<p>Hey! Long time no see!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:10"
+  ]
+ },
+ "297": {
+  "original": "<p>Well, well!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:13"
+  ]
+ },
+ "298": {
+  "original": "<p>Hello there, Bulma!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:16"
+  ]
+ },
+ "299": {
+  "original": "<p>My goodness, it's been ages! Ages!<k><p>I tell you, you kids are so ungrateful! It wouldn't kill you to come visit more often...<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:17"
+  ]
+ },
+ "300": {
+  "original": "<p>Here you are! Just a little gift, some of your favorite meat buns.<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:19"
+  ]
+ },
+ "301": {
+  "original": "<p>Oh, my! You really shouldn't have...<k><p>Couldn't you have just let me have something more... personal?<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:20"
+  ]
+ },
+ "302": {
+  "original": "<p>Ngh... you never did have much of a sense of humor.<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:21"
+  ]
+ },
+ "303": {
+  "original": "<p>And you never had much in the way of dignity, you creep!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:22"
+  ]
+ },
+ "304": {
+  "original": "<p>By the way, Bulma, do you know where Yamcha is?<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:23"
+  ]
+ },
+ "305": {
+  "original": "<p>What? Yamcha? That idiot? How should I know, huh?<k><p>He crossed me one too many times, so I didn't tell him we were all meeting here today!<k><p>We can party it up just fine without him, okay?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:24"
+  ]
+ },
+ "306": {
+  "original": "<p>You two certainly seem to enjoy arguing a great deal...<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:25"
+  ]
+ },
+ "307": {
+  "original": "<p>Wait a minute... What about Launch, though? Where's she?<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:26"
+  ]
+ },
+ "308": {
+  "original": "<p>She ran off somewhere. She's been chasing after Tien for five years now.<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:27"
+  ]
+ },
+ "309": {
+  "original": "<p>Look, there's Master Roshi's house!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:30"
+  ]
+ },
+ "310": {
+  "original": "<p>Right, here we are!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:36"
+  ]
+ },
+ "311": {
+  "original": "<p>Yahoo!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:37"
+  ]
+ },
+ "312": {
+  "original": "<p>That's Goku's voice!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:40"
+  ]
+ },
+ "313": {
+  "original": "<p>Hey!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:41"
+  ]
+ },
+ "314": {
+  "original": "<p>Hey, Goku!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:43"
+  ]
+ },
+ "315": {
+  "original": "<p>Hmm? Who's the kid with you?<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:44"
+  ]
+ },
+ "316": {
+  "original": "<p>You start a babysitting service or something?<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:45"
+  ]
+ },
+ "317": {
+  "original": "<p>He's my son.<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:46"
+  ]
+ },
+ "318": {
+  "original": "<p>Whaaaaaaattt?!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:47"
+  ]
+ },
+ "319": {
+  "original": "<p>Y-your son, Goku?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:48"
+  ]
+ },
+ "320": {
+  "original": "<p>Well, yeah. What's so weird about that? Come on, son, say hello to everyone.<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:49"
+  ]
+ },
+ "321": {
+  "original": "<p>Uh... h-hello.<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:52"
+  ]
+ },
+ "322": {
+  "original": "<p>Well, er... hello to you, too.<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:53"
+  ]
+ },
+ "323": {
+  "original": "<p>His name is Gohan.<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:54"
+  ]
+ },
+ "324": {
+  "original": "<p>Gohan?! My, you named him after your late grandfather!<k>",
+  "ids": [
+   "sb:cf1/c06/c0603_00.sb:55"
+  ]
+ },
+ "325": {
+  "original": "<p>Huh? What is it, Goku?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:13"
+  ]
+ },
+ "326": {
+  "original": "<p>There's something coming this way! I don't know what, but it's something big!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:14"
+  ]
+ },
+ "327": {
+  "original": "<p>Wha? What kind of something?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:15"
+  ]
+ },
+ "328": {
+  "original": "<p>W-wow... I can feel this huge, intense power! What the heck could this be?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:16"
+  ]
+ },
+ "329": {
+  "original": "<p>Here it comes!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:17"
+  ]
+ },
+ "330": {
+  "original": "<p>Ahhh!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:18"
+  ]
+ },
+ "331": {
+  "original": "<p>Heh heh heh... you've grown, Kakarot, but I still recognized you right off.<k><p>You look just like father, after all...<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:21"
+  ]
+ },
+ "332": {
+  "original": "<p>Uh... who is this guy? What's he talking about?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:23"
+  ]
+ },
+ "333": {
+  "original": "<p>Kakarot! What is wrong with you? Just look at this planet!<k><p>Your mission was to eradicate humanity! Why have you wasted so much time?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:24"
+  ]
+ },
+ "334": {
+  "original": "<p>Listen, I don't know who you are, but you better get out of here, now!<k><p>Sheesh... I wish people wouldn't start drinking so early in the day.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:25"
+  ]
+ },
+ "335": {
+  "original": "<p>Krillin! Stay away from him!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:26"
+  ]
+ },
+ "336": {
+  "original": "<p>You...!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:27"
+  ]
+ },
+ "337": {
+  "original": "<p>!!!<k><p>A... a tail!<k><p>This guy's got a tail...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:28"
+  ]
+ },
+ "338": {
+  "original": "<p>Heh heh heh... Have you recognized me yet?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:29"
+  ]
+ },
+ "339": {
+  "original": "<p>Recognized you...?! What're you talking about?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:30"
+  ]
+ },
+ "340": {
+  "original": "<p>Are you kidding me, Kakarot? Have you forgotten absolutely everything?!<k><p>Hey, did you take a blow to the head or something?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:31"
+  ]
+ },
+ "341": {
+  "original": "<p>You can stop calling me Kaka-whatever anytime, you know! My name's Goku!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:32"
+  ]
+ },
+ "342": {
+  "original": "<p>Answer me! Did you get hit in the head when you were young, or not?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:33"
+  ]
+ },
+ "343": {
+  "original": "<p>...I did, actually!<k><p>I don't remember any of it, but it happened when I was really young. I still have a scar from it.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:34"
+  ]
+ },
+ "344": {
+  "original": "<p>Dahh! I knew it...<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:35"
+  ]
+ },
+ "345": {
+  "original": "<p>But what's that got to do with anything?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:36"
+  ]
+ },
+ "346": {
+  "original": "<p>Goku... this reminds me of a story your grandfather told me once.<k><p>He found a baby with a tail one day. The kid had a bad temper and kept causing trouble...<k><p>Drove the man crazy most of the time, no doubt about that.<k><p>One day, the boy fell in the valley and landed on his head. It was a wonder he survived...<k><p>But the baby was so powerful that he recovered without any permanent injury.<k><p>What's more, his bad temper went away, and he became a good, kind child.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:39"
+  ]
+ },
+ "347": {
+  "original": "<p>Was... was that me?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:40"
+  ]
+ },
+ "348": {
+  "original": "<p>Hmm...<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:41"
+  ]
+ },
+ "349": {
+  "original": "<p>L-look, who are you anyway?! Tell me!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:42"
+  ]
+ },
+ "350": {
+  "original": "<p>I can't believe you forgot everything... but oh well. I'll make you remember right now.<k><p>You've got a lot of work ahead of you, after all...<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:43"
+  ]
+ },
+ "351": {
+  "original": "<p>Nnngh... ugh...<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:44"
+  ]
+ },
+ "352": {
+  "original": "<p>Are you okay, Krillin?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:45"
+  ]
+ },
+ "353": {
+  "original": "<p>Y-yeah... I think so.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:46"
+  ]
+ },
+ "354": {
+  "original": "<p>Be careful, Goku... this isn't any normal fighter.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:47"
+  ]
+ },
+ "355": {
+  "original": "<p>No... doesn't look like it.<k><p>Just facing him down like this is scaring me, to be honest.<k><p>I've never felt this way before.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:48"
+  ]
+ },
+ "356": {
+  "original": "<p>Right! First off, you weren't born on this planet, Kakarot!<k><p>Your birthplace is Planet Vegeta! You are a Saiyan, the proudest warrior race in the universe!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:49"
+  ]
+ },
+ "357": {
+  "original": "<p>W-w-what...?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:50"
+  ]
+ },
+ "358": {
+  "original": "<p>And I... I am your brother, Raditz!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:51"
+  ]
+ },
+ "359": {
+  "original": "<p>Y-y-you're his brother?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:52"
+  ]
+ },
+ "360": {
+  "original": "<p>Enough of your nonsense! You're lying!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:53"
+  ]
+ },
+ "361": {
+  "original": "<p>Y-yeah! If Goku's a space alien, then what's he doing here on Earth?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:54"
+  ]
+ },
+ "362": {
+  "original": "<p>Heh heh heh... the answer's simple, really.<k><p>Kakarot was sent here to destroy the human species that lives on this planet!<k><p>We Saiyans are a race of warriors...<k><p>We search for suitable planets, eradicate everyone that lives on them...<k><p>And when we're done, we sell the planets to alien races at an enormous profit.<k><p>We send adult Saiyans to planets with strong native species living on them...<k><p>But with low-level planets like these, we send babies instead, like yourself.<k><p>Luckily, this planet has a moon...<k><p>With that, you could wipe out the humans here in just a few years.<k><p>Once you get around to remembering your orders, that is!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:56"
+  ]
+ },
+ "363": {
+  "original": "<p>Oh, man... if that's true, then you guys are terrible.<k><p>It's all just so crazy... You make Piccolo seem like a saint by comparison.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:57"
+  ]
+ },
+ "364": {
+  "original": "<p>...Wait. Why is having a moon a good thing?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:58"
+  ]
+ },
+ "365": {
+  "original": "<p>Quit acting so stupid, Kakarot...<k><p>When we Saiyans see a full moon, our full latent abilities are unlocked! You know that!<k><p>...Wait. Don't tell me... Your tail! What happened to your tail?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:59"
+  ]
+ },
+ "366": {
+  "original": "<p>Oh, that thing got cut off ages ago!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:60"
+  ]
+ },
+ "367": {
+  "original": "<p>This can't be happening! You blithering idiot...!<k><p>No wonder you've actually made friends with the natives!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:61"
+  ]
+ },
+ "368": {
+  "original": "<p>I've had enough!<k><p>So what if I was born on some other planet and have a different name and stuff?<k><p>I don't even care if you are my brother. That doesn't matter to me anymore!<k><p>Krillin's right... you Saiyans are the absolute worst!!<k><p>My name's Goku, and this is my home! So get going, or else!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:62"
+  ]
+ },
+ "369": {
+  "original": "<p>Heh heh heh... I'm afraid I can't do that for you.<k><p>We Saiyans were never a very large race, but now it's even worse...<k><p>You see, Planet Vegeta is gone... It exploded after colliding with a giant meteor.<k><p>Nearly all the Saiyans were vaporized in an instant... our mother and father, too.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:63"
+  ]
+ },
+ "370": {
+  "original": "<p>There are only four Saiyans left in the universe, and you're one of them!<k><p>Me and another one were saved because we were busy invading another planet.<k><p>The third was sent off to a new world as a baby, just like you... He was lucky.<k><p>Earlier, we found the most amazing planet. We could sell it for a huge pile of money!<k><p>But it'll be hard to clean it up with just three of us...<k><p>That's when we remembered that you were still kicking around, Kakarot.<k><p>You still don't have your full powers quite yet...<k><p>But with all four of us working as a team, we should be able to manage well enough.<k><p>You have to open your eyes, Kakarot! It'll be fun! Let your Saiyan blood go wild!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:65"
+  ]
+ },
+ "371": {
+  "original": "<p>You're insane! As long as I live, I swear I'll never join you guys!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:66"
+  ]
+ },
+ "372": {
+  "original": "<p>Heh... I see.<k><p>Say, I couldn't help but notice... is that your kid standing behind you?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:67"
+  ]
+ },
+ "373": {
+  "original": "<p>No, it's not!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:68"
+  ]
+ },
+ "374": {
+  "original": "<p>Don't try to fool me, Kakarot.<k><p>That tail is all the evidence I need. He's got Saiyan blood in him.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:69"
+  ]
+ },
+ "375": {
+  "original": "<p>Well, so what?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:70"
+  ]
+ },
+ "376": {
+  "original": "<p>Since you're not being very cooperative with me...<k><p>I was thinking about maybe borrowing your boy for a bit instead.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:71"
+  ]
+ },
+ "377": {
+  "original": "<p>I dare you to take one step closer to me! I'll send you outta here in a heap!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:72"
+  ]
+ },
+ "378": {
+  "original": "<p>Gah...!! Ngh... grhhh...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:73"
+  ]
+ },
+ "379": {
+  "original": "<p>Whoa there.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:77"
+  ]
+ },
+ "380": {
+  "original": "<p>Waaahhh! Waaaahhhh!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:78"
+  ]
+ },
+ "381": {
+  "original": "<p>Kakarot... your kid's in our hands now.<k><p>If you want to get him back alive, you better start listening to your brother.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:79"
+  ]
+ },
+ "382": {
+  "original": "<p>Goku... downed on one hit...<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:80"
+  ]
+ },
+ "383": {
+  "original": "<p>I'll give you one day. That's how long you have to make your decision.<k><p>Not that you have any choice besides joining us, of course... I'll need some evidence, too.<k><p>Nothing very fancy, mind you...<k><p>Just kill 100 or so people and pile their bodies here by this time tomorrow.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:81"
+  ]
+ },
+ "384": {
+  "original": "<p>Got that? I'll be looking forward to seeing you tomorrow.<k><p>This is my nephew, after all...<k><p>I'd prefer if I didn't have to kill him. Heh heh heh...<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:82"
+  ]
+ },
+ "385": {
+  "original": "<p>T-that's not fair! You can't use a child like that!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:83"
+  ]
+ },
+ "386": {
+  "original": "<p>H-he's right! Besides, how could Goku find it in him to kill anybody?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:84"
+  ]
+ },
+ "387": {
+  "original": "<p>Fair enough... If you don't mind him dying, then don't worry about the bodies.<k><p>Either way, the people on this planet are doomed.<k><p>Once we're finished capturing our current planet, this one's going to be our next target!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:85"
+  ]
+ },
+ "388": {
+  "original": "<p>W-what...?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:86"
+  ]
+ },
+ "389": {
+  "original": "<p>Heh heh heh...<k><p>Three Saiyans are all it'll take to exterminate everyone on Earth within a month.<k><p>So whether Kakarot passes his little test or not, it's all the same in the end.<k><p>Got that, Kakarot?!<k><p>Fight me all you want! Joining me is your only choice!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:87"
+  ]
+ },
+ "390": {
+  "original": "<p>And don't even think about defying me, either!<k><p>Your incomplete powers are no match whatsoever for your big brother!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:90"
+  ]
+ },
+ "391": {
+  "original": "<p>Waaaaahhhh!! Daddy!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:91"
+  ]
+ },
+ "392": {
+  "original": "<p>G-Gohan!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:92"
+  ]
+ },
+ "393": {
+  "original": "<p>Well, see you later! Tomorrow's sure gonna be fun! Ah ha ha ha ha hah!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:93"
+  ]
+ },
+ "394": {
+  "original": "<p>I... I'm sorry... There wasn't a thing I could do against him.<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:94"
+  ]
+ },
+ "395": {
+  "original": "<p>F-Flying Nimbus!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:95"
+  ]
+ },
+ "396": {
+  "original": "<p>Hold it, Goku! It's too reckless! We need to think things over first!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:96"
+  ]
+ },
+ "397": {
+  "original": "<p>Y-you can't go! He's going to kill you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:99"
+  ]
+ },
+ "398": {
+  "original": "<p>Do you seriously think you can beat him right now?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:100"
+  ]
+ },
+ "399": {
+  "original": "<p>Ugh... Darn it! What am I supposed to do?<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:101"
+  ]
+ },
+ "400": {
+  "original": "<p>Think... think...<k>",
+  "ids": [
+   "sb:cf1/c06/c0604_00.sb:102"
+  ]
+ },
+ "401": {
+  "original": "<p>Here he is! It's got to be him! Look at how fast he's going!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:10"
+  ]
+ },
+ "402": {
+  "original": "<p>Where is he planning to go...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:13"
+  ]
+ },
+ "403": {
+  "original": "<p>He stopped! Phew... he's still on Earth! He hasn't gone off into outer space yet!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:15"
+  ]
+ },
+ "404": {
+  "original": "<p>All right! Well, here goes... It's do-or-die time!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:18"
+  ]
+ },
+ "405": {
+  "original": "<p>I... I guess so! We might have a chance at this, after all!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:21"
+  ]
+ },
+ "406": {
+  "original": "<p>(Not much of one, but...)<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:22"
+  ]
+ },
+ "407": {
+  "original": "<p>If we're all doomed either way, might as well do as much as we can before doomsday arrives!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:23"
+  ]
+ },
+ "408": {
+  "original": "<p>You people don't stand a chance! None of you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:25"
+  ]
+ },
+ "409": {
+  "original": "<p>Piccolo...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:28"
+  ]
+ },
+ "410": {
+  "original": "<p>W-what're you doing here...?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:29"
+  ]
+ },
+ "411": {
+  "original": "<p>I was following him.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:32"
+  ]
+ },
+ "412": {
+  "original": "<p>So you already ran into him?<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:33"
+  ]
+ },
+ "413": {
+  "original": "<p>I did.<k><p>There's no way you two could beat him. I'll come along with you.<k><p>You know as well as I do just how strong he is...<k><p>Neither of us could face him down by ourselves.<k><p>But with the two of us together... there's a small chance of victory!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:34"
+  ]
+ },
+ "414": {
+  "original": "<p>I guess so... but what's making you want to help me all of a sudden?<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:35"
+  ]
+ },
+ "415": {
+  "original": "<p>Don't get the wrong idea... I'm not some kind of freedom fighter or anything.<k><p>I don't care what happens to your kid... That guy's just in the way of my world domination plans!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:36"
+  ]
+ },
+ "416": {
+  "original": "<p>Once I team up with you to beat him and those two friends of his...<k><p>You're next on my list, Goku.<k><p>I'll beat you down, and this time the world will be mine for sure!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:37"
+  ]
+ },
+ "417": {
+  "original": "<p>Not if I can help it...<k><p>Until then, though, I think teaming up is a great idea.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:38"
+  ]
+ },
+ "418": {
+  "original": "<p>In fact, I guess it's pretty much the only way.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:39"
+  ]
+ },
+ "419": {
+  "original": "<p>Exactly... we need to be patient here, Goku.<k><p>The idea of partnering with you is enough to make me puke, but I've got to put up with it.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:40"
+  ]
+ },
+ "420": {
+  "original": "<p>Hey, Bulma! Can I borrow your radar?<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:41"
+  ]
+ },
+ "421": {
+  "original": "<p>Huh? Oh, sure!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:42"
+  ]
+ },
+ "422": {
+  "original": "<p>Think you can keep up with my Flying Nimbus?<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:43"
+  ]
+ },
+ "423": {
+  "original": "<p>Don't be stupid!<k><p>My strength is in a completely different class than your silly magic tricks.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:44"
+  ]
+ },
+ "424": {
+  "original": "<p>I... I'm not sure how to feel about this.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:45"
+  ]
+ },
+ "425": {
+  "original": "<p>Heh heh... well...<k><p>I have to say, I never imagined this pair-up in my wildest dreams.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:46"
+  ]
+ },
+ "426": {
+  "original": "<p>I doubt there's been a stronger tag team in the history of the world!<k><p>We might just have a chance at this one after all!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:47"
+  ]
+ },
+ "427": {
+  "original": "<p>This is gonna be one heck of a bout, I'm sure of that!<k><p>Bulma! You remember the spot your radar indicated? Let's all go check it out for ourselves!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_00.sb:48"
+  ]
+ },
+ "428": {
+  "original": "<p>Looks like he's going north at supersonic speed!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_01.sb:11"
+  ]
+ },
+ "429": {
+  "original": "<p>Hmph. Probably headed for the Spinach Wastes. That's where I first met him.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_01.sb:14"
+  ]
+ },
+ "430": {
+  "original": "<p>...I'm seeing a Dragon Ball deep in the wastes.<k><p>That must mean Gohan's somewhere in there, too.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_02.sb:10"
+  ]
+ },
+ "431": {
+  "original": "<p>So, what's our plan?<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_02.sb:13"
+  ]
+ },
+ "432": {
+  "original": "<p>We gotta go in and get Gohan back. <n>That's the only way.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_02.sb:14"
+  ]
+ },
+ "433": {
+  "original": "<p>...Heh heh. I never thought I'd be fighting with you quite like this.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_02.sb:15"
+  ]
+ },
+ "434": {
+  "original": "<p>!!!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_03.sb:10"
+  ]
+ },
+ "435": {
+  "original": "<p>What is it?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_03.sb:13"
+  ]
+ },
+ "436": {
+  "original": "<p>The Dragon Radar's going crazy right here!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_03.sb:14"
+  ]
+ },
+ "437": {
+  "original": "<p>Right! Time to charge in!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_03.sb:15"
+  ]
+ },
+ "438": {
+  "original": "<p>Waaaaahhhh! Waaaaahhh!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:10"
+  ]
+ },
+ "439": {
+  "original": "<p>Shut up, you brat! Gah, how long are you going to keep crying?!<k><p>You bear the blood of the noble Saiyan race! Saiyans are not... crybabies!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:13"
+  ]
+ },
+ "440": {
+  "original": "<p>Get in there!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:14"
+  ]
+ },
+ "441": {
+  "original": "<p>Right... guess I'll go hunt for some food.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:15"
+  ]
+ },
+ "442": {
+  "original": "<p>Hmm?<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:16"
+  ]
+ },
+ "443": {
+  "original": "<p>Weird... a warning signal.<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:17"
+  ]
+ },
+ "444": {
+  "original": "<p>Power level 710?! It's right nearby, too! Where is it?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:18"
+  ]
+ },
+ "445": {
+  "original": "<p>What?! It's from that stupid brat!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:19"
+  ]
+ },
+ "446": {
+  "original": "<p>Gah... this thing's got to be broken. Don't scare me like that!<k>",
+  "ids": [
+   "sb:cf1/c06/c0605_04.sb:20"
+  ]
+ },
+ "447": {
+  "original": "<p>We're getting close! We should probably touch down and hide pretty soon.<k>",
+  "ids": [
+   "sb:cf1/c06/c0606_00.sb:9"
+  ]
+ },
+ "448": {
+  "original": "<p>No, Goku! We need to keep going!<k>",
+  "ids": [
+   "sb:cf1/c06/c0606_00.sb:11"
+  ]
+ },
+ "449": {
+  "original": "<p>The guy's got some weird device that can measure our location and power levels!<k>",
+  "ids": [
+   "sb:cf1/c06/c0606_00.sb:13"
+  ]
+ },
+ "450": {
+  "original": "<p>So... so you think he knows we're close?<k>",
+  "ids": [
+   "sb:cf1/c06/c0606_00.sb:14"
+  ]
+ },
+ "451": {
+  "original": "<p>I'm positive of it!<k>",
+  "ids": [
+   "sb:cf1/c06/c0606_00.sb:15"
+  ]
+ },
+ "452": {
+  "original": "<p>Hmm... I guess a full-frontal attack's our only choice, then!<k>",
+  "ids": [
+   "sb:cf1/c06/c0606_00.sb:16"
+  ]
+ },
+ "453": {
+  "original": "<p>...Ah, yes.<k><p>Let me tell you something before all of you die.<k><p>The other two surviving Saiyans are even more powerful than I am.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:10"
+  ]
+ },
+ "454": {
+  "original": "<p>Ugh... no...<k><p>Two more Saiyans... and they're even stronger...<k><p>W-what are we gonna do...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:14"
+  ]
+ },
+ "455": {
+  "original": "<p>Oh, brother...<k><p>I wish I didn't have to hear that.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:17"
+  ]
+ },
+ "456": {
+  "original": "<p>I bet you're excited, Goku.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:18"
+  ]
+ },
+ "457": {
+  "original": "<p>Heh heh... sorry.<k><p>Not this time, I'm sure not.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:19"
+  ]
+ },
+ "458": {
+  "original": "<p>I'm so scared, I'm shaking...<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:20"
+  ]
+ },
+ "459": {
+  "original": "<p>But who cares about that! Where's my son?!<k><p>Where have you hidden him?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:21"
+  ]
+ },
+ "460": {
+  "original": "<p>I didn't hide him anywhere.<k><p>He wouldn't stop whining, so I just put him away for a bit.<k><p>You see that hole behind you?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:22"
+  ]
+ },
+ "461": {
+  "original": "<p>He's in there. Still alive, too, I think...<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:23"
+  ]
+ },
+ "462": {
+  "original": "<p>In there...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:24"
+  ]
+ },
+ "463": {
+  "original": "<p>Hang on, Gohan!<k><p>Daddy's gonna come help you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:25"
+  ]
+ },
+ "464": {
+  "original": "<p>Ha ha ha ha hah!<k><p>Don't give me that!<k><p>There's no way you could possibly save him!<k><p>After all...<k><p>You're going to die before you even have a chance!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:26"
+  ]
+ },
+ "465": {
+  "original": "<p>Ha ha ha ha hah!<k><p>Looks like you're just about at death's door!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:28"
+  ]
+ },
+ "466": {
+  "original": "<p>Goku...<k><p>You have any kind of amazing new skill you could use right now?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:29"
+  ]
+ },
+ "467": {
+  "original": "<p>Heh heh... sorry.<k><p>I gotta admit, I've got nothing.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:30"
+  ]
+ },
+ "468": {
+  "original": "<p>Geh... When did you get so lazy...?<k><p>I treated my training seriously... and it's gotten me all kinds of new techniques.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:31"
+  ]
+ },
+ "469": {
+  "original": "<p>Ha ha ha hah! What're you fools going on about?!<k><p>Discuss your strategy all you want! It's worthless!<k><p>It'll be easier for both of you if you just let me kill you now!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:32"
+  ]
+ },
+ "470": {
+  "original": "<p>Wait...<k><p>So you've got some kind of amazing new technique, then?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:33"
+  ]
+ },
+ "471": {
+  "original": "<p>You could say that...<k><p>But it takes a lot of time to gather the necessary Ki.<k><p>You'll need to fight him and divert his attention until I'm ready to go.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:34"
+  ]
+ },
+ "472": {
+  "original": "<p>Got it... But do you think it'll hurt him?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:35"
+  ]
+ },
+ "473": {
+  "original": "<p>It should. If it doesn't, then we've got nothing left.<k><p>Geh... I wanted to save this move for when I killed you, though.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:36"
+  ]
+ },
+ "474": {
+  "original": "<p>But you're gonna save my life with it instead, huh?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:37"
+  ]
+ },
+ "475": {
+  "original": "<p>Heh. If we can get this guy, it'll be your turn next.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:38"
+  ]
+ },
+ "476": {
+  "original": "<p>Ha ha ha...<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:39"
+  ]
+ },
+ "477": {
+  "original": "<p>Heh heh... This isn't a laughing matter, Goku.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:40"
+  ]
+ },
+ "478": {
+  "original": "<p>You're laughing at me...?<k><p>Defiant as always, are you?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:41"
+  ]
+ },
+ "479": {
+  "original": "<p>All right! This is gonna be fun!<k><p>I'll go hold 'em off for you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:42"
+  ]
+ },
+ "480": {
+  "original": "<p>Don't give him a single inch!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:43"
+  ]
+ },
+ "481": {
+  "original": "<p>Not again!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:52"
+  ]
+ },
+ "482": {
+  "original": "<p>Power level 710... Ahhh, I knew this thing was broken!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:53"
+  ]
+ },
+ "483": {
+  "original": "<p>Hang on, here's another target...<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:54"
+  ]
+ },
+ "484": {
+  "original": "<p>It's coming this way!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:55"
+  ]
+ },
+ "485": {
+  "original": "<p>There's one... no, two of them! Power levels 322 and 334! That'd make one of them Kakarot.<k><p>There's no way he should be here, though! He knows full well that he has zero chance of winning...<k><p>Besides, how could he even know where I am right now...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:56"
+  ]
+ },
+ "486": {
+  "original": "<p>Oh, brother... this thing's completely useless.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:57"
+  ]
+ },
+ "487": {
+  "original": "<p>!!<k><p>You're kidding me! They're actually here!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:58"
+  ]
+ },
+ "488": {
+  "original": "<p>(Maybe it's not broken after all...!)<k><p>(But... but there has to be some reason for this!)<k><p>(How could a kid like that have a power level of 710? That's ludicrous!)<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:60"
+  ]
+ },
+ "489": {
+  "original": "<p>Well, well. So you were the other one, huh? How did you find me?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:62"
+  ]
+ },
+ "490": {
+  "original": "<p>As if I'd tell you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:63"
+  ]
+ },
+ "491": {
+  "original": "<p>Heh. Whatever. Let's try a different question, then.<k><p>What are you two here for?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:64"
+  ]
+ },
+ "492": {
+  "original": "<p>Why do you think?! We're here to get my kid back!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:65"
+  ]
+ },
+ "493": {
+  "original": "<p>So you refuse to join your only kin, your fellow Saiyans?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:66"
+  ]
+ },
+ "494": {
+  "original": "<p>That's what I told you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:67"
+  ]
+ },
+ "495": {
+  "original": "<p>You're going to go against the wishes of your own brother?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:68"
+  ]
+ },
+ "496": {
+  "original": "<p>I don't have any brother!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:69"
+  ]
+ },
+ "497": {
+  "original": "<p>Kakarot... I thought you were a smarter man than that.<k><p>I can't believe you're such an idiot... What an enormous disappointment.<k><p>You didn't actually think that the two of you together could beat me, did you?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:70"
+  ]
+ },
+ "498": {
+  "original": "<p>I've had enough of your yapping.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:71"
+  ]
+ },
+ "499": {
+  "original": "<p>Piccolo... were you training with weights on, too?<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:72"
+  ]
+ },
+ "500": {
+  "original": "<p>Yep. Just like you.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:73"
+  ]
+ },
+ "501": {
+  "original": "<p>My body hasn't felt this light in ages.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:74"
+  ]
+ },
+ "502": {
+  "original": "<p>(What?! His power level's gone up to 408!)<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:75"
+  ]
+ },
+ "503": {
+  "original": "<p>Wow... guess you've been training pretty seriously.<k><p>I'm sure glad I have you on my side for now.<k><p>This ought to make the fight a little easier to deal with.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:76"
+  ]
+ },
+ "504": {
+  "original": "<p>(Kakarot's up to 416...!)<k><p>Ah ha ha ha hah! You call that strong?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:77"
+  ]
+ },
+ "505": {
+  "original": "<p>Don't make me laugh!<k><p>I can't believe that's all you've got for me! You people are in way, way over your heads!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:79"
+  ]
+ },
+ "506": {
+  "original": "<p>Winning the battle isn't just about strength... We've got a plan, you know.<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:80"
+  ]
+ },
+ "507": {
+  "original": "<p>Yeah, yeah... I've heard it all before.<k><p>Listen up, Kakarot: As of right now, I'm not gonna even try to be friendly with you.<k><p>You'd be nothing but a drag on all of us, that much I'm sure of...<k><p>You're an embarrassment to our entire race! Prepare to die!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0607_00.sb:81"
+  ]
+ },
+ "508": {
+  "original": "<p>He... he dodged it! I can't believe it. He's so fast...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:11"
+  ]
+ },
+ "509": {
+  "original": "<p>That blast pierced right through my armor...<k><p>That's one impressive move. If I took the full force of it, I'd be down for sure.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:14"
+  ]
+ },
+ "510": {
+  "original": "<p>...If I can't hit with it, it's worthless.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:15"
+  ]
+ },
+ "511": {
+  "original": "<p>You're gonna pay for that... I promise you will! I'm through playing around here.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:16",
+   "sb:cf1/c06/c0608_99.sb:10"
+  ]
+ },
+ "512": {
+  "original": "<p>Oh, no...it's all over!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:17"
+  ]
+ },
+ "513": {
+  "original": "<p>I'll vaporize you in an instant!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:18",
+   "sb:cf1/c06/c0608_99.sb:14"
+  ]
+ },
+ "514": {
+  "original": "<p>Dieeee!!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:19",
+   "sb:cf1/c06/c0608_99.sb:15"
+  ]
+ },
+ "515": {
+  "original": "<p>Agh... nnnngh...!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:21",
+   "sb:cf1/c06/c0608_99.sb:17"
+  ]
+ },
+ "516": {
+  "original": "<p>You... you let your guard down. I've got your tail now...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:25",
+   "sb:cf1/c06/c0608_99.sb:21"
+  ]
+ },
+ "517": {
+  "original": "<p>You... how did you do that...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:26",
+   "sb:cf1/c06/c0608_99.sb:22"
+  ]
+ },
+ "518": {
+  "original": "<p>Now, Piccolo! Do that thing you did before!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:27",
+   "sb:cf1/c06/c0608_99.sb:23"
+  ]
+ },
+ "519": {
+  "original": "<p>Oh... uh, right!<k><p>Nice work, Goku! You better hold on tight to that tail!<k><p>I can unleash that move one more time, but that's it!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:28",
+   "sb:cf1/c06/c0608_99.sb:24"
+  ]
+ },
+ "520": {
+  "original": "<p>K-Kakarot... you're going to kill the only brother you have in the world?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:29",
+   "sb:cf1/c06/c0608_99.sb:25"
+  ]
+ },
+ "521": {
+  "original": "<p>Shut up! I told you, I don't have any brother! Not one as horrible as you are!<k><p>Besides, you're the one who was trying to kill me earlier! Don't try to talk your way out of this!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:30"
+  ]
+ },
+ "522": {
+  "original": "<p>I... I give up!<k><p>I've had a change of heart... I promise I'll leave the planet peacefully.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:31",
+   "sb:cf1/c06/c0608_99.sb:27"
+  ]
+ },
+ "523": {
+  "original": "<p>Don't let him fool you, Goku!<k><p>He's just trying to cover his hide! You know he'd never do anything like that!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:32",
+   "sb:cf1/c06/c0608_99.sb:28"
+  ]
+ },
+ "524": {
+  "original": "<p>P-please... believe me, my brother! I've been so terrible all this time...<k><p>But... but I swear I'll keep my promise.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:33",
+   "sb:cf1/c06/c0608_99.sb:29"
+  ]
+ },
+ "525": {
+  "original": "<p>Don't let go of his tail! He's trying to trick you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:34",
+   "sb:cf1/c06/c0608_99.sb:31"
+  ]
+ },
+ "526": {
+  "original": "<p>I... I'm begging you, Kakarot! Believe in me!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:35",
+   "sb:cf1/c06/c0608_99.sb:32"
+  ]
+ },
+ "527": {
+  "original": "<p>Goku!!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:36",
+   "sb:cf1/c06/c0608_99.sb:33"
+  ]
+ },
+ "528": {
+  "original": "<p>Ngh!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:37",
+   "sb:cf1/c06/c0608_99.sb:34"
+  ]
+ },
+ "529": {
+  "original": "<p>Ugh! You... you fool...!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:38",
+   "sb:cf1/c06/c0608_99.sb:35"
+  ]
+ },
+ "530": {
+  "original": "<p>Haaaaah hah hah! Perfect!<k><p>It's rare to run into someone as stupid as you, Kakarot!<k><p>I can't believe you fell for that! You'll never be a real warrior, that's for sure!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:39",
+   "sb:cf1/c06/c0608_99.sb:36"
+  ]
+ },
+ "531": {
+  "original": "<p>You...you dirty...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:40"
+  ]
+ },
+ "532": {
+  "original": "<p>You're nothing like I am... I'm a first-class warrior!<k><p>I can kill people without even a moment of hesitation!<k><p>Care to see a little sample? Hmm?<k><p>Hyah!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:41",
+   "sb:cf1/c06/c0608_99.sb:38"
+  ]
+ },
+ "533": {
+  "original": "<p>Gaaahhh!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:42",
+   "sb:cf1/c06/c0608_99.sb:39"
+  ]
+ },
+ "534": {
+  "original": "<p>Hah! Yah! Suffer! Your death is near!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:43",
+   "sb:cf1/c06/c0608_99.sb:40"
+  ]
+ },
+ "535": {
+  "original": "<p>Grh... gah...!! Aaahhh!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:44",
+   "sb:cf1/c06/c0608_99.sb:41"
+  ]
+ },
+ "536": {
+  "original": "<p>Haaaah hah hah!<k><p>Okay, your turn! Come on, lay one on me! What's the problem? Give me another one of those blasts!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:45",
+   "sb:cf1/c06/c0608_99.sb:42"
+  ]
+ },
+ "537": {
+  "original": "<p>Grrhhh...! H-he'd just dodge it again...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:46",
+   "sb:cf1/c06/c0608_99.sb:43"
+  ]
+ },
+ "538": {
+  "original": "<p>Yaaaahhhh! Nngh... rrghh...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:47",
+   "sb:cf1/c06/c0608_99.sb:44"
+  ]
+ },
+ "539": {
+  "original": "<p>...?! What the...?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_00.sb:48",
+   "sb:cf1/c06/c0608_99.sb:45"
+  ]
+ },
+ "540": {
+  "original": "<p>*sniff*<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:10"
+  ]
+ },
+ "541": {
+  "original": "<p>G-Goku's... son?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:13"
+  ]
+ },
+ "542": {
+  "original": "<p>Gohan...?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:16"
+  ]
+ },
+ "543": {
+  "original": "<p>What... what is this?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:19"
+  ]
+ },
+ "544": {
+  "original": "<p>G-get away, Gohan! Get away!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:21"
+  ]
+ },
+ "545": {
+  "original": "<p>P-power level... 1307?!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:22"
+  ]
+ },
+ "546": {
+  "original": "<p>LEAVE MY DADDY ALONE!!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:23"
+  ]
+ },
+ "547": {
+  "original": "<p>Waaaaaaaahhhh!!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:24"
+  ]
+ },
+ "548": {
+  "original": "<p>Whoa!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:26"
+  ]
+ },
+ "549": {
+  "original": "<p>Grnhh...!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:27"
+  ]
+ },
+ "550": {
+  "original": "<p>......Gohan.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:28"
+  ]
+ },
+ "551": {
+  "original": "<p>Oh! D-Daddy...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:29"
+  ]
+ },
+ "552": {
+  "original": "<p>Gohan... wow...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:30"
+  ]
+ },
+ "553": {
+  "original": "<p>W-what is that kid...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:31"
+  ]
+ },
+ "554": {
+  "original": "<p>Gohan, you need to get out of here!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:32"
+  ]
+ },
+ "555": {
+  "original": "<p>N-now his power level's back down to 1... It swings wildly depending on his emotions.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:33"
+  ]
+ },
+ "556": {
+  "original": "<p>W-wait...! Stop it... you can't do that!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:34"
+  ]
+ },
+ "557": {
+  "original": "<p>Why not? Because he's just a kid?<k><p>Don't give me those lies! This brat's power level is higher than yours!<k><p>I'm going to kill him before he learns how to control his powers correctly!<k><p>Don't worry... you'll get to see him soon enough, over in the Other World!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:35"
+  ]
+ },
+ "558": {
+  "original": "<p>You... you monster! How could you still have so much power?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:36"
+  ]
+ },
+ "559": {
+  "original": "<p>Piccolo! Give me that move one more time!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:37"
+  ]
+ },
+ "560": {
+  "original": "<p>Got it! I've got it prepared already!<k><p>It's gonna take some time, though! Why didn't you grab on to his tail?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:38"
+  ]
+ },
+ "561": {
+  "original": "<p>He... he can just rip that tail off anytime he wants!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:39"
+  ]
+ },
+ "562": {
+  "original": "<p>Gah! You knew...?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:40"
+  ]
+ },
+ "563": {
+  "original": "<p>C-come on! Hurry it up!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:41"
+  ]
+ },
+ "564": {
+  "original": "<p>C-curse youuuu!! That brat's attack robbed me of my power...<k><p>Let me go, Kakarot! Don't you realize his attack will hurt you too, you fool?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:42"
+  ]
+ },
+ "565": {
+  "original": "<p>Heh heh... I'm gonna die right along with you!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:43"
+  ]
+ },
+ "566": {
+  "original": "<p>W-what?! Have you gone crazy?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:44"
+  ]
+ },
+ "567": {
+  "original": "<p>This... this is the only way we have of defeating you...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:45"
+  ]
+ },
+ "568": {
+  "original": "<p>I'm not gonna hold back for you, Goku...<k><p>Both of you dying together is the best ending I could possibly hope for!<k><p>(Geh... not that it'd be much of a permanent solution, though.)<k><p>(I'm sure your friends would just resurrect you with the Dragon Balls before long...)<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:46"
+  ]
+ },
+ "569": {
+  "original": "<p>Are... are you ready yet?! My ribs are breaking here... Just do it already!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:47"
+  ]
+ },
+ "570": {
+  "original": "<p>Let me go!! This... this is all my fault! I swear I won't come to this planet ever again!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:48"
+  ]
+ },
+ "571": {
+  "original": "<p>You aren't fooling me with that line twice!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:49"
+  ]
+ },
+ "572": {
+  "original": "<p>Okay, I'm all set... You ready to go?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:50"
+  ]
+ },
+ "573": {
+  "original": "<p>Do it!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:51"
+  ]
+ },
+ "574": {
+  "original": "<p>Special Beam Cannon!!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:52"
+  ]
+ },
+ "575": {
+  "original": "<p>Ergh...!! No... noooooo!!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:55"
+  ]
+ },
+ "576": {
+  "original": "<p>Heh heh...!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_01.sb:56"
+  ]
+ },
+ "577": {
+  "original": "<p>Curse you all... how could I have... let you beat me...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:10"
+  ]
+ },
+ "578": {
+  "original": "<p>You got what you deserved.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:13"
+  ]
+ },
+ "579": {
+  "original": "<p>Heh... heh heh heh...<k><p>I never thought... Kakarot would sacrifice his own life...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:14"
+  ]
+ },
+ "580": {
+  "original": "<p>You idiot. Goku can come back to life anytime he wants.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:15"
+  ]
+ },
+ "581": {
+  "original": "<p>This planet has something called Dragon Balls... They're very useful things.<k><p>Make a wish to them, and you can do anything... even raise the dead.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:17"
+  ]
+ },
+ "582": {
+  "original": "<p>Heh... heh heh... You do realize that this is all being recorded?<k><p>The entire battle... is being broadcasted to my two friends, far away in space...<k><p>Once they realize I've been defeated... they'll come here for you...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:18"
+  ]
+ },
+ "583": {
+  "original": "<p>Y-you Earthlings are such fools...<k><p>They will come and eradicate humanity in the blink of an eye...<k><p>And maybe I'll have them... resurrect me with those... magical balls of yours...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:20"
+  ]
+ },
+ "584": {
+  "original": "<p>W-when... are they gonna come here...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:23"
+  ]
+ },
+ "585": {
+  "original": "<p>One year... that's all it'll take them... heh heh heh...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:24"
+  ]
+ },
+ "586": {
+  "original": "<p>One year... They'll be even stronger, and there's two of them...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:25"
+  ]
+ },
+ "587": {
+  "original": "<p>You'll have no chance to win... I'm sure of it this time.<k><p>Hope... hope you enjoy the year's time you have left... heh heh heh...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:26"
+  ]
+ },
+ "588": {
+  "original": "<p>Hee hee hee... a pretty short-lived victory, huh...?<k><p>You humans are nothing more than annoying flies...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:27"
+  ]
+ },
+ "589": {
+  "original": "<p>Hrahhh!!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:28"
+  ]
+ },
+ "590": {
+  "original": "<p>That oughta put you to rest. It's what you deserve for all that trash talk...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:29"
+  ]
+ },
+ "591": {
+  "original": "<p>Ahh!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:33"
+  ]
+ },
+ "592": {
+  "original": "<p>I see someone!<k><p>Over there! There's a few people lying on the ground! Who's that standing up...?!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:36"
+  ]
+ },
+ "593": {
+  "original": "<p>It's Piccolo!!<k><p>W-what on earth has happened here...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_02.sb:39"
+  ]
+ },
+ "594": {
+  "original": "<p>Hmm... I see...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:10"
+  ]
+ },
+ "595": {
+  "original": "<p>And then you came here.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:13"
+  ]
+ },
+ "596": {
+  "original": "<p>Goku! Come on, Goku!<k><p>You can't just die like this! Come on, hang in there!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:16"
+  ]
+ },
+ "597": {
+  "original": "<p>Gohan's unconscious, but he looks all right to me.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:19"
+  ]
+ },
+ "598": {
+  "original": "<p>Whew... Thank heavens. Now Chi-Chi won't yell at me...<k><p>K-Krillin... it's... it's not much fun to die, is it...?<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:22"
+  ]
+ },
+ "599": {
+  "original": "<p>I... I guess not. Don't worry, though. We'll resurrect you as fast as we can.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:23"
+  ]
+ },
+ "600": {
+  "original": "<p>Heh heh... thanks...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:24"
+  ]
+ },
+ "601": {
+  "original": "<p>Agh!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:26"
+  ]
+ },
+ "602": {
+  "original": "<p>He disappeared!!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:27"
+  ]
+ },
+ "603": {
+  "original": "<p>Hmm... must be the work of Kami.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:28"
+  ]
+ },
+ "604": {
+  "original": "<p>He's the only one who could do something like that.<k><p>That little sneak... He's probably got some stupid plan for Goku up his sleeve again.<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_03.sb:30"
+  ]
+ },
+ "605": {
+  "original": "<p>Oh, no... it's all over!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_99.sb:13"
+  ]
+ },
+ "606": {
+  "original": "<p>Shut up! I told you, I don't have any brother! Not one as horrible as you are!<k><p>Besides, you're the one who was trying to kill me earlier! Don't give me your lies!<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_99.sb:26"
+  ]
+ },
+ "607": {
+  "original": "<p>You... you dirty...<k>",
+  "ids": [
+   "sb:cf1/c06/c0608_99.sb:37"
+  ]
+ },
+ "608": {
+  "original": "<p>Yo! Hey, it's me! Long time no see!<k><p>I kinda forgot to tell you about Ki-Blasts, so let me give you the whole story on them.<k><p>If something breakable is flashing orange, you can break it right away...<k><p>But if it's flashing white, your Ki-Blast needs to be level 2. If black, then you'll need level 3!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:9"
+  ]
+ },
+ "609": {
+  "original": "<p>Your Ki-Blast level goes up as you keep training, after certain events occur.<k><p>Best of luck out there!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:10"
+  ]
+ },
+ "610": {
+  "original": "<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:11"
+  ]
+ },
+ "611": {
+  "original": "<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:12"
+  ]
+ },
+ "612": {
+  "original": "<p>Raditz, that moron... he died...<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:16"
+  ]
+ },
+ "613": {
+  "original": "<p>What a loser.<k><p>Getting killed by a bunch of guys whose power level barely broke 1000...<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:18"
+  ]
+ },
+ "614": {
+  "original": "<p>So, now what? Maybe we should save this planet for later...<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:19"
+  ]
+ },
+ "615": {
+  "original": "<p>Those Dragon Balls intrigue me... He said they can make any wish come true.<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:20"
+  ]
+ },
+ "616": {
+  "original": "<p>All right. Let's go!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:21"
+  ]
+ },
+ "617": {
+  "original": "<p>Are you gonna resurrect Raditz?<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:22"
+  ]
+ },
+ "618": {
+  "original": "<p>Are you kidding me? I don't need that worthless bum.<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:23"
+  ]
+ },
+ "619": {
+  "original": "<p>Then how about we wish for eternal youth?<k><p>We could fight on and on, forever. It'd be great.<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:24"
+  ]
+ },
+ "620": {
+  "original": "<p>Hmmm...! Not a bad idea!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:25"
+  ]
+ },
+ "621": {
+  "original": "<p>Still, the power Kakarot's son showed... He far outclasses any Saiyan kid I knew.<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:27"
+  ]
+ },
+ "622": {
+  "original": "<p>You don't think that was some kind of Scouter error?<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:28"
+  ]
+ },
+ "623": {
+  "original": "<p>No. It couldn't have been.<k><p>You saw how Raditz was nearly floored by a single strike from the kid...<k><p>If I had to guess, there must be something about combining the blood of Saiyans...<k><p>...with that of Earthlings. It must unleash some sort of massive new power.<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:29"
+  ]
+ },
+ "624": {
+  "original": "<p>A sort of Super Saiyan, you could say...<k><p>Interesting... if we could create more of those hybrids, then us Saiyans may yet rule again!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:30"
+  ]
+ },
+ "625": {
+  "original": "<p>Don't be stupid! What do you think would happen if more of those guys show up?<k><p>It'd just make our position dangerous. It wouldn't accomplish anything for us.<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:31"
+  ]
+ },
+ "626": {
+  "original": "<p>I suppose you're right... Either way, Earth's inhabitants don't have long to live!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:32"
+  ]
+ },
+ "627": {
+  "original": "<p>Well... I'd say it's time for the first long rest we've had in a while.<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:33"
+  ]
+ },
+ "628": {
+  "original": "<p>I'll see you in a year. This is going to be so much fun!<k>",
+  "ids": [
+   "sb:cf1/c06/c0609_00.sb:34"
+  ]
+ }
+}

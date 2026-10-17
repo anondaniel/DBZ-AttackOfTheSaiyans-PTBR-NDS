@@ -1,0 +1,3 @@
+grupos com IDs so na lista de tipos (args[2:6]) e fora dos slots: 46
+linhas afetadas (linha: n grupos, nome atual): {1: (12, 'Robô de Patrulha'), 140: (3, 'Experimento N°3'), 161: (9, 'Recruta Escavador'), 162: (8, 'Aprendiz Noturno'), 163: (6, 'Batedora Venenosa'), 167: (8, 'Robô Ajudante')}
+conflitos aparencia/nome considerando tipos+slots: 0

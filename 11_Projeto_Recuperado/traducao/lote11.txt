@@ -1,0 +1,1366 @@
+### 0 [cf0/bam/bam01_00.sb]
+<p>I can't let anyone past this point. It's too dangerous.<k>
+### 1 [cf0/bam/bam01_00.sb]
+<p>Dangerrrrr<n>You can't go throoough<k>
+### 2 [cf0/bam/bam02_00.sb]
+<p>The attacker went into the bamboo forest... Please don't get hurt in there...<k>
+### 3 [cf0/bam/bam02_00.sb]
+<p>Thanks a bunch!<k>
+### 4 [cf0/bam/bam02_00.sb]
+<p>Whoa... that hurt...<k>
+### 5 [cf0/bam/bam02_00.sb]
+<p>Great work, Krillin!<k>
+### 6 [cf0/bam/bam02_00.sb]
+<p>The look is deceiving... it got me good...<k>
+### 7 [cf0/bam/bam02_00.sb]
+<p>Man, you sure have gotten stronger.<k>
+### 8 [cf0/bam/bam02_00.sb]
+<p>Ugh... what's going on here...?<k>
+### 9 [cf0/bam/bam02_00.sb]
+<p>She was so beautiful! It's not fair!<k>
+### 10 [cf0/bam/bam02_00.sb]
+<p>I didn't have a chance...<k>
+### 11 [cf0/bam/bam02_00.sb]
+<p>The Orin Temple was under attack... but I heard the attacker got defeated.<k>
+### 12 [cf0/bam/bam02_00.sb]
+<p>I saw someone go to Orin Temple. Someone with hair. Maybe something's happening there.<k>
+### 13 [cf0/bam/bam02_00.sb]
+<p>Hey, you don't have any hair? Poor guy...<k>
+### 14 [cf0/bam/bam02_00.sb]
+<p>Wow, look at all that hair you got! There's no way you'll ever get strong with that!<k>
+### 15 [cf0/bam/bam02_00.sb]
+<p>Hey, why don't you have any hair? You from the temple or something?<k>
+### 16 [cf0/bam/bam02_00.sb]
+<p>I'm glad to hear Orin Temple is safe and sound.<k>
+### 17 [cf0/bam/bam02_00.sb]
+<p>I wonder what happened at Orin Temple. There's been a tremendous commotion from there all day.<k>
+### 18 [cf0/bam/bam02_00.sb]
+<p>It sounds like the temple was under attack!<k>
+### 19 [cf0/bam/bam02_00.sb]
+<p>I heard shouting over toward the temple. What happened over there?<k>
+### 20 [cf0/ben/ben02_00.sb]
+<p>Blue designs are drawn on the ground. There is no response.<k>
+### 21 [cf0/ben/ben02_00.sb]
+<p>Red designs are drawn on the ground at your feet. There is no response.<k>
+### 22 [cf0/bud/bud01_00.sb]
+<p>Attention, all participants in the World Tournament.<k><p>The preliminary matches will begin in a moment. Please report to the fighting arena.<k>
+### 23 [cf0/bud/bud01_00.sb]
+<p>Well, guess we're starting.<k>
+### 24 [cf0/bud/bud01_00.sb]
+<p>I'll see you later, okay?<k>
+### 25 [cf0/bud/bud01_00.sb]
+<p>Certainly. Make me proud!<k>
+### 26 [cf0/bud/bud01_00.sb]
+<p>Did you bring my usual uniform?<k>
+### 27 [cf0/bud/bud01_00.sb]
+<p>Oh, don't be silly.<k><p>You've all proceeded far along your own paths by now.<k><p>There's no need for you to keep wearing the Turtle School uniform for the rest of your lives.<k>
+### 28 [cf0/bud/bud01_00.sb]
+<p>Good luck, everybody!<k>
+### 29 [cf0/bud/bud01_00.sb]
+<p>I can't believe it! I guess Goku's more popular with the ladies than I thought.<k>
+### 30 [cf0/bud/bud01_00.sb]
+<p>Man, that lady's a total flirt!<k>
+### 31 [cf0/bud/bud01_00.sb]
+<p>Give it all you got, Yamcha!<k>
+### 32 [cf0/bud/bud01_00.sb]
+<p>I can't wait to get fighting, Tien!<k>
+### 33 [cf0/bud/bud01_00.sb]
+<p>All right, is everyone ready to kick off the preliminaries?<k>
+### 34 [cf0/bud/bud01_00.sb]
+<p>All participants, thank you for your patience.<k><p>We are ready to begin the preliminary matches for the 23rd World Tournament.<k>
+### 35 [cf0/bud/bud01_00.sb]
+<p>Past here is the main arena.<k>
+### 36 [cf0/bud/bud01_00.sb]
+<p>This battle's all mine!<k><p>Ha! Yah! Hai! Yahhh!<k>
+### 37 [cf0/bud/bud01_00.sb]
+<p>My spirit is willing... There is nothing that can scare me...<k>
+### 38 [cf0/bud/bud01_00.sb]
+<p>I'll teach you a thing or two, you snot-nosed kid!<k>
+### 39 [cf0/bud/bud01_00.sb]
+<p>Looks like I'm not the only lady in the tournament. Ooh, I can't wait!<k>
+### 40 [cf0/bud/bud01_00.sb]
+<p>Oh man, oh man, oh man! I'm so nervous!<k>
+### 41 [cf0/bud/bud01_00.sb]
+<p>This is really exciting. I hope we get some more high-level competition this year.<k>
+### 42 [cf0/bud/bud01_00.sb]
+<p>We're just about ready to start. Don't forget to warm up. Otherwise you'll get cramps!<k>
+### 43 [cf0/bud/bud01_00.sb]
+<p>I heard the story from Tien. I'll be rooting for you here, so good luck, okay?<k>
+### 44 [cf0/bud/bud01_00.sb]
+<p>Don't think you've got enough power? Why doncha fight me, then? C'mon, you wanna go?<k>
+### 45 [cf0/bud/bud01_00.sb]
+<p>Hmm... Piccolo and Kami used to be the same person.<k><p>And so Kami borrowed a human body in order to clean up the mess he's made.<k><p>But now that he's lost, you're the only hope we have. Sorry I can't be more help...<k>
+### 46 [cf0/bud/bud01_00.sb]
+<p>T-that guy's strength is incredible. Try not to get killed, Goku.<k>
+### 47 [cf0/bud/bud01_00.sb]
+<p>We couldn't beat him even if we ganged up on him all at once.<k><p>I guess it's all up to you again, Goku.<k>
+### 48 [cf0/bud/bud01_00.sb]
+<p>I never even dreamed that Piccolo would come back to life...<k>
+### 49 [cf0/bud/bud01_00.sb]
+<p>G-Goku... Are you going to be all right?<k>
+### 50 [cf0/bud/bud01_00.sb]
+<p>Heh heh heh... Once you're out of the way, I'll take over the world in the blink of an eye.<k><p>Better enjoy life while you've still got it!<k><p>Ha ha ha ha!<k>
+### 51 [cf0/bud/bud01_00.sb]
+<p>Are you ready for the final battle?<k>
+### 52 [cf0/bud/bud01_00.sb]
+<p>What's your problem? Get started.<k>
+### 53 [cf0/bud/bud01_00.sb]
+<p>Is something wrong? Master Roshi looked pretty concerned...<k>
+### 54 [cf0/bud/bud01_00.sb]
+<p>Was it my imagination, or did some guy just come right out of that fighter?<k>
+### 55 [cf0/bud/bud01_00.sb]
+<p>Huh? A guy?<k><p>I don't know... I didn't see anything.<k>
+### 56 [cf0/bud/bud01_00.sb]
+<p>Krillin... Maybe he lost, but I'm still his hugest fan!<k>
+### 57 [cf0/bud/bud01_00.sb]
+<p>Wow! The circus is a lot of fun!<k>
+### 58 [cf0/bud/bud01_00.sb]
+<p>Hey! I think I've seen you before! Where, though?<k>
+### 59 [cf0/bud/bud01_00.sb]
+<p>Ha hahh! The final battle is here!<k>
+### 60 [cf0/bud/bud01_00.sb]
+<p>This is great, Dad!<k><p>(What was I doing there...?)<k>
+### 61 [cf0/bud/bud01_00.sb]
+<p>Wow, what a match! Man, am I excited! You wanna try fighting me?<k>
+### 62 [cf0/bud/bud01_00.sb]
+<p>The World Tournament is so awesome! I'm so glad I came to see it!<k>
+### 63 [cf0/bud/bud01_00.sb]
+<p>So when're the pretty ladies gonna come out, huh?<k>
+### 64 [cf0/bud/bud01_00.sb]
+<p>Oh, you... Just be patient, okay? They'll be here soon enough.<k>
+### 65 [cf0/bud/bud01_00.sb]
+<p>If you haven't had enough fighting yet, I'd be happy to take you on.<k>
+### 66 [cf0/bud/bud01_00.sb]
+<p>What? You lookin' for a fight?<k>
+### 67 [cf0/bud/bud01_00.sb]
+<p>The world's sure been awfully strange lately... What on earth's going on?<k>
+### 68 [cf0/bud/bud01_00.sb]
+<p>The next tournament isn't for a while yet. Why are there all these people around?<k>
+### 69 [cf0/bud/bud01_00.sb]
+<p>So many suspicious people around these days... I try to stay alert, but I'm so worried.<k>
+### 70 [cf0/bud/bud01_00.sb]
+<p>I saw the news on East City. Sure ain't no time to be wrapped up in the tournament, huh?<k>
+### 71 [cf0/bud/bud01_00.sb]
+<p>This place is starting to become a popular tourist spot, a mecca for any would-be fighter.<k>
+### 72 [cf0/bud/bud01_00.sb]
+<p>What kind of fighters are we gonna see this year? It's so exciting!<k>
+### 73 [cf0/bud/bud01_00.sb]
+<p>The sky's bright red over to the east. What's that for?<k>
+### 74 [cf0/bud/bud01_00.sb]
+<p>Boy, it sure is hot here. I can hardly stand it.<k>
+### 75 [cf0/bud/bud01_00.sb]
+<p>I wish this could get started already. It's so hot! I hate waiting around!<k>
+### 76 [cf0/bud/bud01_00.sb]
+<p>The world needs excitement! It needs sexiness! Come on, lay it all out!<k><p>All right, all right! If that's what you want, here you go! You happy now?!<k>
+### 77 [cf0/bud/bud01_00.sb]
+<p>Hey! Where's Ranfan?! I hope they've got someone sexy for me next match!<k><p>Ugh! You're horrible! I've just about had enough of you!<k>
+### 78 [cf0/bud/bud01_00.sb]
+<p>Ranfan's my girl! Her sexy attacks are the best! I wish she'd hit me with one!<k><p>You are such an idiot! She beat you in a flash in the last tournament! You make me sick!<k>
+### 79 [cf0/bud/bud01_00.sb]
+<p>The world's in trouble, but don't worry, I'll protect you! ...How did that sound? Good?<k>
+### 80 [cf0/bud/bud01_00.sb]
+<p>Hey, that girl standing over there's pretty cute... Maybe I should try talking to her.<k>
+### 81 [cf0/bud/bud01_00.sb]
+<p>I'm so bored... guess my dad's still flirting with the girls.<k>
+### 82 [cf0/bud/bud01_00.sb]
+<p>Go watch the TV news to find out about East City! Quit asking me about it, people!<k>
+### 83 [cf0/bud/bud01_00.sb]
+<p>The next World Martial Arts Tournament is so far away! There's no point waiting here!<k>
+### 84 [cf0/bud/bud01_00.sb]
+<p>All tournament participants, please proceed to the fighting arena!<k>
+### 85 [cf0/bud/bud01_00.sb]
+<p>I better start training, too!<k>
+### 86 [cf0/bud/bud01_00.sb]
+<p>I'm gonna get stronger, too!<k>
+### 87 [cf0/bud/bud01_00.sb]
+<p>When are the matches gonna get started?<k>
+### 88 [cf0/bud/bud01_00.sb]
+<p>There's no point accumulating AP. You gotta use it, you know?<k>
+### 89 [cf0/bud/bud01_00.sb]
+<p>Use the Sewer Key?<k>
+### 90 [cf0/bud/bud01_00.sb]
+<p>The manhole is open!<k>
+### 91 [cf0/bud/bud01_00.sb]
+<p>It's locked tight.<k>
+### 92 [cf0/bud/bud01_00.sb]
+<p>The tournament fighter list has been carelessly left out on the front desk.<k>
+### 93 [cf0/bud/bud02_00.sb]
+<p>I can't sleep at night! I'm always thinking about Krillin. Is this love...?<k>
+### 94 [cf0/bud/bud02_00.sb]
+<p>Ugh, isn't that Krillin guy here yet?! You know, the shiny-headed dude!<k>
+### 95 [cf0/bud/bud02_00.sb]
+<p>I'm a huge fan of that Krillin guy! That shiny head of his is outta sight!<k>
+### 96 [cf0/bud/bud02_00.sb]
+<p>Wait...this isn't a circus at all, is it? Am I being tricked here?<k>
+### 97 [cf0/bud/bud02_00.sb]
+<p>Wow, the circus is awesome! They got people shooting beams and everything!<k>
+### 98 [cf0/bud/bud02_00.sb]
+<p>I wish the circus would start already!<k>
+### 99 [cf0/bud/bud02_00.sb]
+<p>Man, how many years have I been here by now...?<k>
+### 100 [cf0/bud/bud02_00.sb]
+<p>Mmm, this ice cream is so good! I like this more than the tournament!<k>
+### 101 [cf0/bud/bud02_00.sb]
+<p>I'm sick of waiting! I wanna eat some ice cream!<k>
+### 102 [cf0/bud/bud02_00.sb]
+<p>Woo-hoo! There was an incredible fireworks display over in East City!<k>
+### 103 [cf0/bud/bud02_00.sb]
+<p>Woo-hoo! I think I'm just gonna live here from now on!<k>
+### 104 [cf0/bud/bud02_00.sb]
+<p>Woo-hoo! This must be the arena!<k>
+### 105 [cf0/bud/bud02_00.sb]
+<p>I've never been flirted with so much before. Is this what love is about?<k>
+### 106 [cf0/bud/bud02_00.sb]
+<p>Well... I guess I wouldn't mind having a drink, anyway.<k>
+### 107 [cf0/bud/bud02_00.sb]
+<p>Being beautiful is tough. I'm never allowed a moment to myself!<k>
+### 108 [cf0/bud/bud02_00.sb]
+<p>Wow, you sure are pretty. Would you like to be my lover?<k>
+### 109 [cf0/bud/bud02_00.sb]
+<p>Wow, you sure are pretty. Would you like to be my daughter?<k>
+### 110 [cf0/bud/bud02_00.sb]
+<p>Wow, you sure are pretty. Would you like to be my wife?<k>
+### 111 [cf0/bud/bud02_00.sb]
+<p>Did you hear?! East City is just crazy right now! Boy, I wish I could go there!<k>
+### 112 [cf0/bud/bud02_00.sb]
+<p>Ugh... so bored. I just feel so run down unless I'm watching martial arts.<k>
+### 113 [cf0/bud/bud02_00.sb]
+<p>Man, my blood is boiling! You wanna try taking a punch from me?<k>
+### 114 [cf0/bud/bud02_00.sb]
+<p>When's the next match gonna start, huh? I'm starting to get bored...<k>
+### 115 [cf0/bud/bud02_00.sb]
+<p>This tournament is so awesome! There's no way I'd survive in it, but!<k>
+### 116 [cf0/bud/bud02_00.sb]
+<p>Just imagine, all the great matches that must've been fought here...<k>
+### 117 [cf0/bud/bud02_00.sb]
+<p>No response. He may or may not be dead by this point.<k>
+### 118 [cf0/bud/bud02_00.sb]
+<p>Zzz... zzz... Huh?!<k>
+### 119 [cf0/bud/bud02_00.sb]
+<p>I'm just hiding for a little bit. Don't tell my wife, okay?<k>
+### 120 [cf0/bud/bud02_00.sb]
+<p>It's been years since I've last seen my husband. Maybe it's time I went to the police...<k>
+### 121 [cf0/bud/bud02_00.sb]
+<p>I can't find my husband... and now I'm starting to get sleepy.<k>
+### 122 [cf0/bud/bud02_00.sb]
+<p>Now where did that husband of mine go...?<k>
+### 123 [cf0/bud/bud02_00.sb]
+<p>Exit ahead.<k>
+### 124 [cf0/bud/bud02_00.sb]
+<p>You can go outside from here.<k><p>Huh? You knew that? Well, I didn't ask you!<k>
+### 125 [cf0/bud/bud02_00.sb]
+<p>This is the exit. If you want inside, go back and take the entrance to the right.<k>
+### 126 [cf0/bud/bud02_00.sb]
+<p>Barkity barkity bark!<k>
+### 127 [cf0/bud/bud02_00.sb]
+<p>Woof! Woofity woof!<k>
+### 128 [cf0/bud/bud02_00.sb]
+<p>Arf! Arf arf!<k>
+### 129 [cf0/bud/bud02_00.sb]
+<p>Look, whadaya want from me?! I don't have anything interesting to say, okay?!<k><p>......<k><p>Arf! Arf arf! Arf arf barf barf... ahh, I messed up!<k>
+### 130 [cf0/bud/bud02_00.sb]
+<p>It's a dead end, you know.<k>
+### 131 [cf0/bud/bud02_00.sb]
+<p>This is a dead end, okay?!<k>
+### 132 [cf0/bud/bud02_00.sb]
+<p>Arena ahead<n>Authorized personnel only<k>
+### 133 [cf0/bud/bud03_00.sb]
+<p>The crate has <d>Those who strive for nothing but strength shall pay for it later<d> written on it.<k>
+### 134 [cf0/bud/bud03_01.sb]
+<p>I'm going to sleep! I'm sick of all this!<k>
+### 135 [cf0/bud/bud03_01.sb]
+<p>Gahh, I'm hungry!<k>
+### 136 [cf0/bud/bud03_01.sb]
+<p>Times sure are tough around here. They could at least leave some food for me.<k>
+### 137 [cf0/bud/bud03_01.sb]
+<p>...Meow!<k>
+### 138 [cf0/bud/bud03_01.sb]
+<p>Meow meow.<k>
+### 139 [cf0/bud/bud03_01.sb]
+<p>Something's written on the corner of the box: <d>Do not feed the cat.<d><k>
+### 140 [cf0/bud/bud04_00.sb]
+<p>I heard that bad things are going down in East City. Sounds like they need medical help.<k>
+### 141 [cf0/bud/bud04_00.sb]
+<p>We're off-season right now. There's no work, and I'm bored. You hurt or anything, perhaps?<k>
+### 142 [cf0/bud/bud04_00.sb]
+<p>This is the medical office. Don't do anything dumb and make me work overtime, okay?<k>
+### 143 [cf0/bud/bud04_00.sb]
+<p>Complicated medical documents are laid out on the desk...<k><p>Oh, wait. On second glance, it's just a bunch of half-read manga.<k>
+### 144 [cf0/bud/bud04_00.sb]
+<p>There's a memo on the shelf...<k><p><d>Raise Recovery, and you'll earn more HP at every turn, letting you use fewer recovery items.<d><k>
+### 145 [cf0/bud/bud05_00.sb]
+<p>What sort of fighters can I hope to expect at the next tournament?<k>
+### 146 [cf0/bud/bud05_00.sb]
+<p>Oh, crud, I drew King Chapa in the prelims... I should just give up now.<k>
+### 147 [cf0/bud/bud05_00.sb]
+<p>What point is there to being strong if the entire city's gone?<k>
+### 148 [cf0/bud/bud05_00.sb]
+<p>I, I can't believe what happened to East City...<k>
+### 149 [cf0/bud/bud05_00.sb]
+<p>Krillin! You're incredible! Your name's up on this thing!<k>
+### 150 [cf0/bud/bud05_00.sb]
+<p>Wow! These are the brackets for the World Tournament, huh?<k>
+### 151 [cf0/bud/bud05_00.sb]
+<p>Orin Temple, the place we all trained, just gone... I still can't believe it.<k>
+### 152 [cf0/bud/bud05_00.sb]
+<p>What a shock... our temple, and our homeland, gone.<k>
+### 153 [cf0/bud/bud05_00.sb]
+<p>You've really gone far... We gotta step up our own game, too.<k>
+### 154 [cf0/bud/bud05_00.sb]
+<p>Whoa! Krillin's name is up there! Man, he's sure gotten strong...<k>
+### 155 [cf0/bud/bud05_00.sb]
+<p>Krillin! I beg you to train me! I want to be stronger!<k>
+### 156 [cf0/bud/bud05_00.sb]
+<p>Dang! I gotta get stronger! And we gotta rebuild our temple!<k>
+### 157 [cf0/bud/bud05_00.sb]
+<p>How did you get so strong, anyway? That turtle hermit must be something else.<k>
+### 158 [cf0/bud/bud05_00.sb]
+<p>I need to keep training! I'll show all of 'em!<k>
+### 159 [cf0/bud/bud05_00.sb]
+<p>We happened to be here at the time, so we're safe... but I fear for those who weren't.<k>
+### 160 [cf0/bud/bud05_00.sb]
+<p>East City, home to our Orin Temple, is apparently gone... I have no words for it.<k>
+### 161 [cf0/bud/bud05_00.sb]
+<p>Krillin! Hey, it's been a while! You doing well?<k><p>We all came here to train at the center of the martial-arts world.<k>
+### 162 [cf0/bud/bud05_00.sb]
+<p>We all came here from Orin Temple. This is practically the home of martial arts, after all.<k>
+### 163 [cf0/bud/bud05_00.sb]
+<p>Krillin! Where are we supposed to go? We have no home to return to!<k>
+### 164 [cf0/bud/bud05_00.sb]
+<p>*snif* Our temple!<k>
+### 165 [cf0/bud/bud05_00.sb]
+<p>Wow, that sure is bright... Bald folks shouldn't stand near people trying to sleep, y'know.<k>
+### 166 [cf0/bud/bud05_00.sb]
+<p>Sure is peaceful and quiet... I feel like I could almost fall asleep right here.<k>
+### 167 [cf0/bud/bud05_00.sb]
+<p>This is the match schedule for the tournament, packed with the names of the powerful and wise.<k>
+### 168 [cf0/enm/enm01_00.sb]
+<p>Do you want... to return to Earth?<k>
+### 169 [cf0/enm/enm02_00.sb]
+<p>I've called someone to guide you to Snake Way. The exit is right behind me.<k>
+### 170 [cf0/enm/enm02_00.sb]
+<p>Just don't fall off Snake Way, all right? I can't help you if you do.<k>
+### 171 [cf0/enm/enm02_00.sb]
+<p>W-where did you come from?<k>
+### 172 [cf0/enm/enm02_00.sb]
+<p>Mmm? You're still here?<k><p>King Kai's on the other end of Snake Way.<k>
+### 173 [cf0/enm/enm02_00.sb]
+<p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>
+### 174 [cf0/enm/enm02_00.sb]
+<p>Bubbles can run so fast, you couldn't even hope to catch him!<k><p>It's enough to make you go ape, huh? Hah!<k>
+### 175 [cf0/enm/enm02_00.sb]
+<p>You idiot!<k>
+### 176 [cf0/enm/enm02_00.sb]
+<p>Ready for a sumo match?<k>
+### 177 [cf0/enm/enm02_00.sb]
+<p>Mez is really fast! He's the best runner in hell!<k>
+### 178 [cf0/enm/enm02_00.sb]
+<p>Don't come back here again!<k>
+### 179 [cf0/enm/enm02_00.sb]
+<p>Goz is the top sumo wrestler in Hell!<n>There's no way you could beat him!<k>
+### 180 [cf0/enm/enm02_00.sb]
+<p>You must be something special if you withstood King Kai's training...<k>
+### 181 [cf0/enm/enm02_00.sb]
+<p>You're here from Earth, too? Try not to cause too much trouble, you hear?<k>
+### 182 [cf0/enm/enm02_00.sb]
+<p>Saiyans, eh...? Yet more trouble aimed squarely at us, it would appear...<k>
+### 183 [cf0/enm/enm02_00.sb]
+<p>A giant door looms ahead. It is far too heavy to budge.<k>
+### 184 [cf0/enm/enm02_00.sb]
+<p>The door is shut tightly.<k>
+### 185 [cf0/est/est01_00.sb]
+<p>What should we have for dinner tonight...? I know! Let's go chop-socky Chinese!<k><p>Let's do... what? I'm just gonna pretend I didn't hear that...<k>
+### 186 [cf0/est/est01_00.sb]
+<p>Ohhh, there's just so much to choose from! I don't know what to do!<k>
+### 187 [cf0/est/est01_00.sb]
+<p>You can see a temple over there, right?<k><p>Well, guess what...?<w=30> That's a temple.<k>
+### 188 [cf0/est/est01_00.sb]
+<p>Great store! Pretty girls! You come and see, you!<k>
+### 189 [cf0/est/est01_00.sb]
+<p>The shop is filled with busy people going about their work.<k>
+### 190 [cf0/est/est01_00.sb]
+<p>Huge, steaming meat buns are lined up in front of the shop.<k>
+### 191 [cf0/est/est02_00.sb]
+<p>What? You wanna play with me?<k>
+### 192 [cf0/est/est02_00.sb]
+<p>Hmm... what's up with that shop? It's huge... what could they be selling?<k>
+### 193 [cf0/est/est02_00.sb]
+<p>There is a construction zone beyond here. Really. That's it. Not hiding anything.<k>
+### 194 [cf0/est/est02_00.sb]
+<p>Go up that stairway to reach Orin Temple.<k><p>If you like the skinhead look, then welcome to paradise!<k>
+### 195 [cf0/est/est02_00.sb]
+<p>I'm telling the truth! I saw a ghost in the bamboo thicket beyond Orin Temple!<k><p>Oh, quit lying to me! You're just trying to scare me again!<k>
+### 196 [cf0/est/est02_00.sb]
+<p>Hmm... radishes are cheap today. Guess I could make a pot roast tonight.<k>
+### 197 [cf0/est/est02_00.sb]
+<p>Hey, d'you know what <d>skills<d> are? It really helps if you know them, apparently!<k><p>They raise your HP, speed you up, unlock new moves, and maybe make you smarter, too!<k>
+### 198 [cf0/est/est02_00.sb]
+<p>Bark! Bark! Trees have bark!<k>
+### 199 [cf0/est/est02_00.sb]
+<p><d>Orin Temple Ahead<d><k>
+### 200 [cf0/est/est02_00.sb]
+<p>Ooh, a shop! I think I'll take a quick look inside.<k>
+### 201 [cf0/est/est02_00.sb]
+<p>Hang on a sec! I wanna stop by the shop real quick.<k>
+### 202 [cf0/est/est03_00.sb]
+<p>Your leg muscles are the key to your training! Work them, and work 'em hard!<k>
+### 203 [cf0/est/est03_00.sb]
+<p>What a bright young boy. He says he wants to join Orin Temple when he's old enough.<k>
+### 204 [cf0/est/est03_00.sb]
+<p>What a stupid weirdo, running around all day like that. This is why I hate boys!<k>
+### 205 [cf0/est/est03_00.sb]
+<p>Training! Training! Gaahhh!<k>
+### 206 [cf0/est/est03_00.sb]
+<p>You know what? Apparently there are these tandem moves called Sparking Combos!<k><p>Combine the right moves together, and you'll spark one of them! Cool, huh?<k>
+### 207 [cf0/est/est03_00.sb]
+<p>Speed boost, on!!<k><p>Meow meow meow meow meow!!<k>
+### 208 [cf0/est/est03_00.sb]
+<p>Judging by the smell, there is a bathroom inside.<k>
+### 209 [cf0/est/est03_00.sb]
+<p>The door is closed. No one seems to be around.<k>
+### 210 [cf0/est/est04_00.sb]
+<p>Hey! Prillin! Wow, Prillin, it's you!<k><p>Huh...? You're not? Well, you sure look like him...<k>
+### 211 [cf0/est/est04_00.sb]
+<p>This is the famous Orin Temple. No one with hair is allowed to join us!<k>
+### 212 [cf0/est/est04_00.sb]
+<p>Krillin! Hey, have you gotten a girlfriend yet? Got anyone you could introduce me to?<k>
+### 213 [cf0/est/est04_00.sb]
+<p>All we do is train every day. I wanna go hang out with the girls in town sometime!<k>
+### 214 [cf0/est/est04_00.sb]
+<p>Great to see you here! Everyone's training hard to keep from falling behind you.<k>
+### 215 [cf0/est/est04_00.sb]
+<p>That's a sturdy body you have there, son. Why don't you try pushing it to the limit?<k>
+### 216 [cf0/est/est05_00.sb]
+<p>It's not exactly a Chinese delight, the way the city is right now...<k><p>...I apologize! On behalf of both of us, I apologize!<k>
+### 217 [cf0/est/est05_00.sb]
+<p>The temple's gone... Everybody's gone...<k>
+### 218 [cf0/est/est05_00.sb]
+<p>What a disaster... Our city's been razed.<k>
+### 219 [cf0/est/est06_00.sb]
+<p>Terrible, isn't it? Try not to get too close. It's dangerous.<k>
+### 220 [cf0/est/est06_00.sb]
+<p>The aliens on that ship are the ones behind this carnage... or so they say.<k>
+### 221 [cf0/est/est06_00.sb]
+<p>That round thing is apparently an alien spaceship.<k>
+### 222 [cf0/est/est06_00.sb]
+<p>Our city is gone... It's so sad.<k>
+### 223 [cf0/est/est06_00.sb]
+<p>I don't know what's inside here. Be careful.<k>
+### 224 [cf0/est/est06_00.sb]
+<p>Oh. You got permission, huh? Well, whatever you do, please be careful.<k>
+### 225 [cf0/est/est06_00.sb]
+<p>I can't allow anyone inside without written permission.<k>
+### 226 [cf0/est/est06_00.sb]
+<p>Whine...<k>
+### 227 [cf0/est/est10_00.sb]
+<p>My brother's a top fighter in Orin Temple! Pretty cool, eh?<k>
+### 228 [cf0/est/est10_00.sb]
+<p>The drawer is filled to the brim with bowls.<k>
+### 229 [cf0/est/est10_01.sb]
+<p>The path to Orin Temple's collapsed. I hope my brother's okay...<k>
+### 230 [cf0/for/for01_00.sb]
+<p>Light streams out of the stump.<k>
+### 231 [cf0/for/for01_00.sb]
+<p>The Yemma tree grows and sprouts leaves.<k>
+### 232 [cf0/for/for01_00.sb]
+<p>Use <c=#8BEFD4>Bubbles' thing<c>?<k>
+### 233 [cf0/god/god01_00.sb]
+<p>The Earth's in big trouble. I'm counting on you guys.<k>
+### 234 [cf0/god/god01_00.sb]
+<p>Yo! Krillin! If you're ever in trouble, just call for me. I'll come right over!<k>
+### 235 [cf0/god/god01_00.sb]
+<p>Learned <c=8BEFD4>Y-Yajirobe?!<c><k>
+### 236 [cf0/god/god01_00.sb]
+<p>Why do I have to go through all this intense training?<k>
+### 237 [cf0/god/god03_00.sb]
+<p>You have already caught every monster.<k><p>Great work! I am very surprised.<k>
+### 238 [cf0/god/god03_00.sb]
+<p>You've already caught every kind of monster there is.<k><p>You made me proud! The teacher has truly become the student!<k>
+### 239 [cf0/god/god03_00.sb]
+<p>Only you can fight off the Saiyans. I am counting on you.<k><p>Here is a little assignment for you:<k><p>Use Tien's Evil Containment Wave to catch the monsters you find all over the world.<k><p>Bring them back, and I'll give you something good for them.<k>
+### 240 [cf0/god/god03_00.sb]
+<p>I'm counting on you. You're the only ones who can actually fight off the Saiyans.<k><p>Here's a little assignment for you:<k><p>Use Tien's Evil Containment Wave to catch the monsters you find all over the world.<k><p>Hmm... just catching them isn't very fun, though.<k><p>Let's make it more interesting. The more you catch, the better a reward I'll give you. Okay?<k>
+### 241 [cf0/god/god03_00.sb]
+<p>Kami is gone, so I will take the monsters you catch from now on.<k>
+### 242 [cf0/god/god03_00.sb]
+<p>Ah. You have monsters.<k><p>Let me see...<k>
+### 243 [cf0/god/god03_00.sb]
+<p>Ah, looks like you've got some monsters here.<k><p>Let's see...<k>
+### 244 [cf0/god/god03_00.sb]
+<p>You've caught %d monsters in total.<k>
+### 245 [cf0/god/god03_00.sb]
+<p>You've caught a total of %d monster(s) so far.<k>
+### 246 [cf0/god/god03_00.sb]
+<p>Hoh! You have caught over 30 monsters.<k><p>I have something good for you.<k>
+### 247 [cf0/god/god03_00.sb]
+<p>My! You've caught over 30 monsters!<k><p>Here. As promised, I've got a reward for you.<k>
+### 248 [cf0/god/god03_00.sb]
+<p>Ohhh! You have caught over 60 monsters.<k><p>I have something even better for you, as promised.<k>
+### 249 [cf0/god/god03_00.sb]
+<p>Ooh, heavens! You've caught over 60 monsters!<k><p>Here. As promised, I've got a reward for you.<k>
+### 250 [cf0/god/god03_00.sb]
+<p>Hohohh! You have caught over 120 monsters.<k><p>I have something better still for you.<k>
+### 251 [cf0/god/god03_00.sb]
+<p>Nice work! You've caught over 120 monsters!<k><p>Here. As promised, I've got a reward for you.<k>
+### 252 [cf0/god/god03_00.sb]
+<p>Ohhhhh! You have caught all the monsters.<k><p>I have something great for you. Be careful with it.<k>
+### 253 [cf0/god/god03_00.sb]
+<p>Amazing! You've caught every monster there is!<k><p>Here. As promised, I've got a reward for you.<k>
+### 254 [cf0/god/god03_00.sb]
+<p>Come back when you have more monsters. I will give you something good.<k>
+### 255 [cf0/god/god03_00.sb]
+<p>Come back when you get more monsters. I've got a reward waiting for you.<k>
+### 256 [cf0/god/god03_00.sb]
+<p>Hmm. You have no new monsters this time.<k>
+### 257 [cf0/god/god03_00.sb]
+<p>Hmm. Looks like you haven't caught any new monsters this time.<k>
+### 258 [cf0/god/god03_00.sb]
+<p>A bed with a canopy. Kami and Mr. Popo must sleep here together.<k>
+### 259 [cf0/gog/gog05_00.sb]
+<p>Steam pours out of the giant pot.<k><p>You can occasionally make out human faces in the swirling mist.<k>
+### 260 [cf0/gog/gog08_00.sb]
+<p>Who're you? An outsider?<k><p>I'm a strong guy, you know! Wanna go? Huh?<k>
+### 261 [cf0/gog/gog08_00.sb]
+<p>Man... you're killer strong...<k>
+### 262 [cf0/gog/gog08_00.sb]
+<p>What, running away? You are so lame!<k>
+### 263 [cf0/gog/gog08_00.sb]
+<p>No, no, no! I can't let you go any further! Guess we'll have to fight this out!<k>
+### 264 [cf0/gog/gog08_00.sb]
+<p>D-dang... Who the heck are you?!<k>
+### 265 [cf0/gok/gok01_00.sb]
+<p>I saw two shooting stars across from that mountain.<k><p>The explosion happened right after that. It's gotta be related somehow.<k>
+### 266 [cf0/gok/gok01_00.sb]
+<p>You must have a lot of time on your hands if you're talking to the likes of me.<k>
+### 267 [cf0/gok/gok01_00.sb]
+<p>Awooooooo!!<k><p>......<k><p>Heh. Nothing like exploring my roots now and then.<k>
+### 268 [cf0/gok/gok01_00.sb]
+<p>Fog rises from upstream all the way to the top of Mt. Paozu. It's a mystical sight to see.<k>
+### 269 [cf0/gok/gok02_00.sb]
+<p>G-Gohan! You all right?! You still eating okay?!<k><p>I know! Here, take this! I made it just for you!<k>
+### 270 [cf0/gok/gok02_00.sb]
+<p>Don't do anything too rough, okay? You're gonna be a great scholar someday, Gohan!<k>
+### 271 [cf0/gok/gok02_00.sb]
+<p>Gohan! Don't do anything too rough! If the going gets tough, run away!<k>
+### 272 [cf0/gok/gok02_00.sb]
+<p>G-Goku! What were you doing?! You have any idea how lonely I was? Waaahhh!!<k>
+### 273 [cf0/gok/gok02_00.sb]
+<p>Ugh! I'm so worried! Is Gohan still doing okay?!<k>
+### 274 [cf0/gok/gok02_00.sb]
+<p><d>Early to rise<d><n><d>Say 'Good Morning'<d><n><d>Clean your plate<d><k><p><d>Do all of your homework<d><n><d>Wash your hands at home<d><n><d>Bedtime at 7 p.m.<d><k><p><d>No bullying the ghosts<d><n><d>No balancing on balls<d><n><d>No playing with trouble<d><k><p>...It goes on and on. Apparently these are Mom's rules.<k>
+### 275 [cf0/gok/gok02_00.sb]
+<p>You could make a killer spread of Chinese food with all the stuff in the fridge.<k>
+### 276 [cf0/gok/gok02_00.sb]
+<p>The jar smells like sugar. There's probably candy inside.<k>
+### 277 [cf0/gok/gok02_00.sb]
+<p>The basket contains a set of fresh vegetables.<k>
+### 278 [cf0/gok/gok02_00.sb]
+<p>A retro-design TV. Capsule Corp's logo is embossed on the edge.<k>
+### 279 [cf0/gok/gok03_00.sb]
+<p>You're fighting a guy who blew up an entire city, Gohan... Just get back in one piece, okay?<k>
+### 280 [cf0/gok/gok03_00.sb]
+<p>You're fighting against guys whose strength I couldn't even imagine, Goku...<k><p>Just try not to get in over your head, all right?<k>
+### 281 [cf0/gok/gok03_00.sb]
+<p>Man, that must be one killer alien... blowing up an entire city like that.<k>
+### 282 [cf0/gok/gok03_00.sb]
+<p>I heard you've been training, Gohan! That's my boy! Men need to be strong, you know?<k>
+### 283 [cf0/gok/gok03_00.sb]
+<p>G-G-Goku! Weren't you dead?!<k>
+### 284 [cf0/gok/gok03_00.sb]
+<p>I know Earth is in danger in all, but I'm afraid Chi-Chi's gonna kill me first...<k>
+### 285 [cf0/gok/gok03_00.sb]
+<p>Oh! Hey, Gohan! How you doing?<k>
+### 286 [cf0/gok/gok03_00.sb]
+<p>Boy, Chi-Chi is not in a good mood at all. I can't even stand being near her right now.<k>
+### 287 [cf0/gok/gok03_00.sb]
+<p>A book on robotics engineering is laid out on the desk.<k>
+### 288 [cf0/gok/gok03_00.sb]
+<p>Reference books are strewn around the bed. They all look like they've seen heavy use.<k>
+### 289 [cf0/gok/gok03_00.sb]
+<p>My skin is pretty dry... I think I'll just use a bit of this.<k>
+### 290 [cf0/gok/gok03_00.sb]
+<p>The bed is made up neatly.<k>
+### 291 [cf0/hel/hel01_00.sb]
+<p>Hours: 8:00 a.m. -- 8:05 a.m.<n>Customers, please use the right-hand window.<k>
+### 292 [cf0/hel/hel01_00.sb]
+<p>This is a Yemma tree. It bears peach-like fruit that looks delicious.<k>
+### 293 [cf0/hel/hel02_00.sb]
+<p>T-T-Tamako! I, I need to tell you...!<k><p>Oh, no, Tamao! Not here, of all places!<k><p>...Ahhhhhh!!<k><p>W-what? What is it? What're you looking at? You perv!<k><p>Look, you can have this, okay? Just leave us alone! Sheesh!<k>
+### 294 [cf0/hel/hel02_00.sb]
+<p>Aahhh, Tamako!<k><p>Ohhhh, Tamao!<k><p>...Ahhhhhh!! You huge pervo!!<k>
+### 295 [cf0/hel/hel03_00.sb]
+<p>A sign from what appears to be some kind of tourist spot.<k>
+### 296 [cf0/hii/hii03_00.sb]
+<p>Huh? You want to find the Holly Plains?<k><p>It's at the base of the tallest mountain you can see from here. Travel due south to get there.<k>
+### 297 [cf0/hii/hii03_00.sb]
+<p>I'm still sleepy! Lemme sleep a little longer!<k>
+### 298 [cf0/hii/hii03_00.sb]
+<p>Nnngh... I'm so hot. It's making my head pound...<k>
+### 299 [cf0/hii/hii03_00.sb]
+<p>His fever is gone, but he won't get out of bed. What a strange kid.<k>
+### 300 [cf0/hii/hii03_00.sb]
+<p>My child's fever just won't go down. Not even the doctors know what's wrong.<k><p>We could make a medicine from the Frozen Hyacinth that grows on the Holly Plains...<k>
+### 301 [cf0/hii/hii03_00.sb]
+<p>Are you in training as well? Aren't you cold dressed like that?<k>
+### 302 [cf0/hii/hii03_00.sb]
+<p>We're always happy to have more able hands to help us. We're a very small village, after all.<k>
+### 303 [cf0/hii/hii03_00.sb]
+<p>When Launch's hair is blue, she's really nice, but when it's blond, she's totally funny!<k>
+### 304 [cf0/hii/hii03_00.sb]
+<p>Launch is head over heels in love with Tien!<k><p>I don't know what <d>head over heels<d> means, but...<k>
+### 305 [cf0/hii/hii03_00.sb]
+<p>It's locked securely shut.<k>
+### 306 [cf0/hii/hii03_00.sb]
+<p>I'd better look for Launch first. Where could she be?<k>
+### 307 [cf0/hii/hii03_00.sb]
+<p>Used Snowfield Key!<k>
+### 308 [cf0/hii/hii03_00.sb]
+<p>It certainly is chilly, huh? What on earth could I be doing here?<k>
+### 309 [cf0/jin/jin01_00.sb]
+<p>Whooosh! I'm a shooting star!<k>
+### 310 [cf0/jin/jin01_00.sb]
+<p>Hey! You wanna play?<k>
+### 311 [cf0/jin/jin01_00.sb]
+<p>Hey! It's Suno!<k>
+### 312 [cf0/jin/jin01_00.sb]
+<p>Boooom! I'm gonna burn everything up!<k>
+### 313 [cf0/jin/jin01_00.sb]
+<p>No! Strangers are dangerous!<k>
+### 314 [cf0/jin/jin01_00.sb]
+<p>No! Suno, dangerous!<k>
+### 315 [cf0/jin/jin01_00.sb]
+<p>I was looking up at the sky, and I saw two shooting stars crash right on East City!<k>
+### 316 [cf0/jin/jin01_00.sb]
+<p>My lover awaits me at the foot of the tallest mountain over there...<k><p>Or, at least, I wish she was.<k>
+### 317 [cf0/jin/jin01_00.sb]
+<p>If you build your Luck, all sorts of good things may happen. It's a great boon, believe me!<k>
+### 318 [cf0/jin/jin01_00.sb]
+<p>What do you think? My mom's pretty good at making snowmen, huh?<k>
+### 319 [cf0/jin/jin01_00.sb]
+<p>Suno's are way cooler looking, though.<k><p>She has them smoking pipes and everything.<k>
+### 320 [cf0/jin/jin01_00.sb]
+<p>Ooooh, you're good, Suno!<k><p>But we're not giving up yet! Nnnngh!<k>
+### 321 [cf0/jin/jin01_00.sb]
+<p>We can't lose out to you yet! Nnnngh!<k>
+### 322 [cf0/jin/jin01_00.sb]
+<p>C'mon, Mom! Hang in there!<k>
+### 323 [cf0/jin/jin01_00.sb]
+<p>Wurf wurf!<k>
+### 324 [cf0/jin/jin01_00.sb]
+<p>Wuff wuff!<k>
+### 325 [cf0/jin/jin01_00.sb]
+<p>Hey, did you see it? The East City!<k><p>Isn't that the craziest thing you've ever heard? I'm just so shocked!<k>
+### 326 [cf0/jin/jin01_00.sb]
+<p>Oh! It's you! Hey, thanks again for everything!<k><p>Eighter's doing pretty good. Why don't you say hello?<k>
+### 327 [cf0/jin/jin01_00.sb]
+<p><d>Jingle Village<d><k>
+### 328 [cf0/jin/jin01_00.sb]
+<p>A well-made snowman. It's smoking an expensive-looking pipe.<k>
+### 329 [cf0/jin/jin02_00.sb]
+<p>You might have a shooting star land on you if you're outside! It's much safer indoors!<k>
+### 330 [cf0/jin/jin02_00.sb]
+<p>Sure is cold outside. It's a lot more fun in my room.<k>
+### 331 [cf0/jin/jin02_00.sb]
+<p>Everyone is going on about the explosion in East City. What a fright it is to me...<k>
+### 332 [cf0/jin/jin02_00.sb]
+<p>My granddaughter's such a tomboy... let her go outside, and she never comes back.<k><p>I don't know what to do with her.<k>
+### 333 [cf0/jin/jin02_00.sb]
+<p>Eighter and Suno are back! Boy, am I glad for that!<k>
+### 334 [cf0/jin/jin02_00.sb]
+<p>Hey! Did you hear the news about East City?! What is going on over there?!<k><p>We're so close by... I'm really scared!<k>
+### 335 [cf0/jin/jin02_00.sb]
+<p>Oh, I'm so busy! There're more kids than ever!<k><p>I asked my oldest daughter to help me, but I have no idea where she is now!<k>
+### 336 [cf0/jin/jin02_00.sb]
+<p>Hey, guys! Thanks for everything!<k><p>That pair's more energetic than they've ever been before!<k>
+### 337 [cf0/jin/jin02_00.sb]
+<p>There's a memo on the refrigerator door...<k><p>Apparently there's a rare piece of capsule equipment that boosts your movement speed.<k>
+### 338 [cf0/jin/jin03_00.sb]
+<p>T-this is no time for pipes! The world's in danger! I need a smoke to calm down...!<k><p>Ahhhhh, where's my pipe?! Oh, no no no no...<k>
+### 339 [cf0/jin/jin03_00.sb]
+<p>Huh...? Now where did my favorite pipe go?<k>
+### 340 [cf0/jin/jin03_00.sb]
+<p>Mewww...<k>
+### 341 [cf0/jin/jin03_00.sb]
+<p>Meeowww...<k>
+### 342 [cf0/jin/jin03_00.sb]
+<p>A warm-looking bed. It must be hard to pull yourself out of this on cold mornings.<k>
+### 343 [cf0/jin/jin03_00.sb]
+<p>A collection of adventure novels lines the desk. Someone here must like them.<k>
+### 344 [cf0/jin/jin04_00.sb]
+<p>Why do you look so scary? Are you angry or something?<k>
+### 345 [cf0/jin/jin04_00.sb]
+<p>My brother's gone missing. Where could he be?<k>
+### 346 [cf0/jin/jin04_00.sb]
+<p>Hey! C'mon, let's play!<k>
+### 347 [cf0/jin/jin04_00.sb]
+<p>We've received no contact from East City. That, plus the falling stars, worries me greatly.<k>
+### 348 [cf0/jin/jin04_00.sb]
+<p>Eighter's an important part of our family. He really is a blessing to me.<k>
+### 349 [cf0/jin/jin04_00.sb]
+<p>We've had nothing but disaster  lately. What on earth is going on here...?<k>
+### 350 [cf0/jin/jin04_00.sb]
+<p>Oh, my! Thank you very much for all your help.<k><p>Eighter is doing just fine with us, too.<k>
+### 351 [cf0/jin/jin04_00.sb]
+<p>Oh, my! Visitors! It must be cold outside, no? Please, come inside and get warmed up.<k>
+### 352 [cf0/jin/jin04_00.sb]
+<p>I heard East City blew up. I bet some villain is behind it. It makes me so angry!<k>
+### 353 [cf0/jin/jin04_00.sb]
+<p>I was saved. It is thanks to you.<k><p>Thank you very, very much.<k>
+### 354 [cf0/jin/jin04_00.sb]
+<p>A bed that's large enough for a bear.<k>
+### 355 [cf0/jin/jin04_00.sb]
+<p>Two beds are neatly lined up together.<k>
+### 356 [cf0/jin/jin04_00.sb]
+<p>The space behind the curtain is being used for storage.<k>
+### 357 [cf0/jin/jin04_00.sb]
+<p>A news program plays on the large TV.<k>
+### 358 [cf0/jya/jya05_00.sb]
+<p>Sorry, Princess Snake, but I need to keep moving.<k>
+### 359 [cf0/kai/kai01_00.sb]
+<p>A short circuit prevents the hatch from opening.<k>
+### 360 [cf0/kai/kai01_00.sb]
+<p>The hatch is open.<k>
+### 361 [cf0/kai/kai01_00.sb]
+<p>A short circuit prevents it from opening.<k>
+### 362 [cf0/kai/kai01_00.sb]
+<p>The door is open.<k>
+### 363 [cf0/kai/kai01_00.sb]
+<p>Crackle... creak...!<k>
+### 364 [cf0/kai/kai01_00.sb]
+<p>The short circuit appears to be fixed.<k>
+### 365 [cf0/kai/kai04_00.sb]
+<p>Creak... crack...!<k>
+### 366 [cf0/kar/kar01_00.sb]
+<p>The pot is filled with some kind of seeds.<k>
+### 367 [cf0/kar/kar01_00.sb]
+<p>Seedlings are sprouting up from the soil. This must be where Senzu beans come from.<k>
+### 368 [cf0/kar/kar01_00.sb]
+<p>The bureau is bursting at the seams with Senzu beans!<k><p>...Just kidding, of course.<k>
+### 369 [cf0/kar/kar01_00.sb]
+<p>The bathtub is dry as a bone. It doesn't seem to get much use around here.<k>
+### 370 [cf0/kar/kar01_00.sb]
+<p>Assorted types of fertilizer are stored in the pots.<k><p>...It doesn't smell particularly good.<k>
+### 371 [cf0/kar/kar01_00.sb]
+<p>The scroll is written in a language you can't read.<k>
+### 372 [cf0/kar/kar01_00.sb]
+<p>A firm mat is laid out on the floor. The fuzz on it suggests that it's Korin's.<k>
+### 373 [cf0/kar/kar03_00.sb]
+<p>Our era is over... it is time for you younger people to step up and protect the Earth.<k><p>Let me give you a little something to help.<k>
+### 374 [cf0/kar/kar03_00.sb]
+<p>Hopefully it'll help you out during battle.<k><p>Best of luck! The Earth is in your hands!<k>
+### 375 [cf0/kar/kar03_00.sb]
+<p>They're finally here... Very fearsome opponents indeed. I'm hardly worthy of them.<k>
+### 376 [cf0/kar/kar03_00.sb]
+<p>Even as we speak, the Saiyans are hurtling towards us!<k><p>You can't beat them unless you get a great deal stronger, you know.<k>
+### 377 [cf0/kar/kar03_00.sb]
+<p>Hey! I'll help you if you get in trouble, so if you need me, just say so!<k>
+### 378 [cf0/kar/kar03_00.sb]
+<p>Learned <c=#8BEFD4>Y-Yajirobe?!<c><k>
+### 379 [cf0/kar/kar03_00.sb]
+<p>I couldn't do much against those guys if I tried. You people better work hard, okay?<k>
+### 380 [cf0/kar/kar03_00.sb]
+<p>A small urn sits on the altar. The divine water must be inside of it.<k>
+### 381 [cf0/kiu/kiu04_00.sb]
+<p>A giant eggshell. Who can guess how large the fully-grown bird might be?<k>
+### 382 [cf0/kos/kos01_00.sb]
+<p>A guy named Montgomery has the Spirit Crystal. He's in the forest.<k><p>First, you must revive five Yemma trees. Then the path to the sprite's tree will open!<k><p>Get a move on, or else the fairies will be <d>fairy<d> annoyed! Hah!<k>
+### 383 [cf0/kos/kos01_00.sb]
+<p>So, you wanna go back to the Other World map?<k>
+### 384 [cf0/kos/kos01_00.sb]
+Go
+### 385 [cf0/kos/kos01_00.sb]
+Cancel
+### 386 [cf0/kos/kos01_00.sb]
+<p>You're going back to Snake Way? How sssssneaky of you! Hah!<k>
+### 387 [cf0/kos/kos01_00.sb]
+Return
+### 388 [cf0/kos/kos01_00.sb]
+<p>A small garage. Does it ever even rain in this world?<k>
+### 389 [cf0/kos/kos01_00.sb]
+<p>A stylish sedan. King Kai uses this to tool around the road, apparently.<k>
+### 390 [cf0/kos/kos01_00.sb]
+<p>An old-fashioned well. Apparently there's ground water to be had in this world.<k>
+### 391 [cf0/kos/kos02_00.sb]
+<p>Ook ook! Oooook!<k>
+### 392 [cf0/kos/kos02_00.sb]
+<p>Ook ook! Ook ook ook!<k>
+### 393 [cf0/kos/kos02_00.sb]
+<p>Ook ook! Oooook ook ook!<k>
+### 394 [cf0/kos/kos02_00.sb]
+<p>Ook ook! Ook ook ook ook ook!<k>
+### 395 [cf0/kos/kos02_00.sb]
+<p>Ook ook! Ook!<k>
+### 396 [cf0/kos/kos02_00.sb]
+<p>Ooooook...<k>
+### 397 [cf0/kos/kos02_00.sb]
+<p>Oook ook ook!<k>
+### 398 [cf0/kos/kos04_00.sb]
+<p>That planet Earth seems to have nothing but terrible things happen to it.<k><p>For better or for worse, you certainly wouldn't be bored living there.<k>
+### 399 [cf0/kos/kos04_00.sb]
+<p>I've had enough of King Kai's stupid puns.<k><p>Put up with that for a few centuries, and you'd be pretty drained, too...<k>
+### 400 [cf0/kos/kos04_00.sb]
+<p>This table has a smaller table placed on top of it.<k>
+### 401 [cf0/kos/kos04_00.sb]
+<p><d>The Path of a Punmaster,<d> <d>Enrich Your Life with Puns,<d> <d>Love and Punnery<d>...<k><p>The shelf's book selection is, to say the least, a bit skewed.<k>
+### 402 [cf0/kou/kou01_00.sb]
+<p>You oughta be strong enough by now... I'll give you permission to venture outside.<k><p>But you're your own man now. No visiting anyplace that'll spoil you like before. Got it?<k>
+### 403 [cf0/kou/kou04_00.sb]
+<p>Huh...?<k>
+### 404 [cf0/kou/kou04_00.sb]
+<p>Ahhh... ahhhhhhh...<k>
+### 405 [cf0/kou/kou05_00.sb]
+<p>It's a gigantic flower. The scent is just as overpowering...<k>
+### 406 [cf0/krd/krd03_00.sb]
+<p>A statue of Mutaito, teacher of Master Roshi and Master Shen, sits here.<k>
+### 407 [cf0/las/las01_00.sb]
+<p>If we go any further, there won't be any turning back. You ready?<k>
+### 408 [cf0/las/las01_00.sb]
+<p>There's no turning back now. Let's keep going.<k>
+### 409 [cf0/mas/mas01_00.sb]
+<p>Let's hurry and go find Eighter!<k>
+### 410 [cf0/mas/mas01_00.sb]
+<p>You people sure are strong... I don't know what I'd do without you.<k>
+### 411 [cf0/mas/mas01_00.sb]
+<p>We're almost at the top... Be careful.<k>
+### 412 [cf0/mas/mas09_00.sb]
+<p>The giant machine keep on whirring, even after its owner has disappeared.<k>
+### 413 [cf0/mas/mas09_00.sb]
+<p>Tea bottles and snack food are strewn across the table.<k>
+### 414 [cf0/mut/mut03_00.sb]
+<p>The bridge has collapsed. You can see a river flowing far down below.<k>
+### 415 [cf0/nap/nap02_00.sb]
+<p>There's no turning back beyond this point. You sure about this?<k>
+### 416 [cf0/nap/nap02_00.sb]
+<p>I'm sorry, Goku... You're the only guy we can rely on. Are you leaving?<k>
+### 417 [cf0/nap/nap02_00.sb]
+<p>Yamcha doesn't respond...<k>
+### 418 [cf0/nap/nap02_00.sb]
+<p>D-Daddy!<k>
+### 419 [cf0/nap/nap02_00.sb]
+<p>It's up to you, Goku. Try not to get yourself killed.<k>
+### 420 [cf0/nap/nap02_00.sb]
+<p>I think I've got a chance to win this time.<k>
+### 421 [cf0/nap/nap02_00.sb]
+<p>I hope I've got enough strength.<k>
+### 422 [cf0/nap/nap02_00.sb]
+<p>Piccolo... I guess you saved Gohan's life. I swear I'll get revenge for you!<k>
+### 423 [cf0/nem/nem03_00.sb]
+<p>Huh...looks like this robot man's battery ran out.<k><p>Wonder if there's a spare battery somewhere in the ruins?<k>
+### 424 [cf0/nem/nem03_00.sb]
+<p>You have no more reason to be here. Walk onward and search for your future.<k>
+### 425 [cf0/nem/nem05_00.sb]
+<p>You're not exactly sure what this device is used for.<k>
+### 426 [cf0/nem/nem05_00.sb]
+<p>I don't even have the energy to destroy this...<k><p>I wish I could see Piccolo...<k>
+### 427 [cf0/pao/pao04_00.sb]
+<p>Yamcha! Is your training going well?<k><p>I forgot to give you this earlier! Go ahead, take it!<k>
+### 428 [cf0/pao/pao04_00.sb]
+<p>Yamcha! I believe in you, okay? I know you can beat up those Saiyans for us!<k>
+### 429 [cf0/pao/pao04_00.sb]
+<p>*sigh* Yamcha...<k>
+### 430 [cf0/pao/pao04_00.sb]
+<p>I promise I'll protect your home, Yamcha! Just focus on your training!<k>
+### 431 [cf0/pao/pao04_00.sb]
+<p>Whoahh! T-this is Yamcha's place!<k><p>I'm protecting his home from intruders, and I... I'm not gonna let you beat me!<k>
+### 432 [cf0/pao/pao04_00.sb]
+<p>I'll be cheering you on right here! Hang in there, everybody!<k>
+### 433 [cf0/pao/pao04_00.sb]
+<p>A slender business suit hangs here among the training outfits.<k>
+### 434 [cf0/pao/pao04_00.sb]
+<p>The hanging scroll is written with characters too complex for you to read.<k>
+### 435 [cf0/pao/pao04_00.sb]
+<p>I think this is about how you have to use heavy weights to refine your body and stuff...<k><p>Y-you know, don't get lazy with your training, that sort of thing!<k>
+### 436 [cf0/pao/pao04_00.sb]
+<p>Refreshing cooking smells emanate from the pot.<k>
+### 437 [cf0/pao/pao04_00.sb]
+<p>A large sword casually rests here.<k>
+### 438 [cf0/pao/pao04_00.sb]
+<p>The bed is neatly made.<k>
+### 439 [cf0/pao/pao06_00.sb]
+<p>Notice: Dragon Rock, home to monsters, due east.<k><p>Trespassing and treasure hunting is highly discouraged.<k>
+### 440 [cf0/pao/pao06_00.sb]
+<p>Kakarot...!<k>
+### 441 [cf0/pao/pao08_00.sb]
+<p>Goku's House Ahead<k>
+### 442 [cf0/pir/pir02_00.sb]
+<p>A portrait of Pilaf... not very flattering.<k>
+### 443 [cf0/pir/pir03_00.sb]
+<p>A TV monitor. Nothing's being displayed right now.<k>
+### 444 [cf0/pir/pir07_00.sb]
+<p>A large, ponderous machine. You don't know what it's used for.<k>
+### 445 [cf0/pir/pir07_00.sb]
+<p>The monitor displays the scene outside.<k>
+### 446 [cf0/pir/pir07_00.sb]
+<p>There's some kind of button here. Push it?<k>
+### 447 [cf0/pir/pir10_00.sb]
+<p>A ping-pong table is set up here.<k>
+### 448 [cf0/pir/pir10_00.sb]
+<p>Cards and a game board lie here, abandoned in the middle of play.<k>
+### 449 [cf0/pir/pir10_00.sb]
+<p>A large dragon sculpture. The owner of this place must like dragons.<k>
+### 450 [cf0/pir/pir10_00.sb]
+<p>Colorful, expensive-looking vases are lined up here.<k>
+### 451 [cf0/pir/pir10_00.sb]
+<p>A glass piece of some sort. You don't know what it's used for.<k>
+### 452 [cf0/pir/pir10_00.sb]
+<p>A full-sized pinball machine. It appears to have seen heavy use.<k>
+### 453 [cf0/sen/sen04_00.sb]
+<p>A large lotus flower sits in the middle of the pond, emitting a mystical light.<k>
+### 454 [cf0/skr/skr01_00.sb]
+<p>The two falling stars were omens of disaster. Something else is going to happen soon.<k>
+### 455 [cf0/skr/skr01_00.sb]
+<p>Thank you for coming. We are the people that guard the sacred land.<k>
+### 456 [cf0/skr/skr01_00.sb]
+<p>I heard something terrible happened to East City! What was it, I wonder?<k>
+### 457 [cf0/skr/skr01_00.sb]
+<p>They say there's a really neat cat that lives at the top of Korin Tower!<k><p>I'm gonna climb up there someday and catch it!<k>
+### 458 [cf0/skr/skr01_00.sb]
+<p>I wonder if the shooting stars surprised the cat in Korin Tower, too.<k>
+### 459 [cf0/skr/skr01_00.sb]
+<p>There's no way a cat could live so high up there! I mean, it'd fall off!<k>
+### 460 [cf0/skr/skr01_00.sb]
+<p>Rrrrr... *whine*<k>
+### 461 [cf0/skr/skr01_00.sb]
+<p>Rrrrr... Ruff! Ruff ruff!<k>
+### 462 [cf0/skr/skr01_00.sb]
+<p>Hey! You still okay?! East City exploded, so I thought you were dead, too!<k>
+### 463 [cf0/skr/skr01_00.sb]
+<p>I hear East City exploded! Big surprise! Did that temple blow up, too?<k>
+### 464 [cf0/skr/skr01_00.sb]
+<p>Oh! You! I still train to keep you from beating me! Hi-yahh!<k>
+### 465 [cf0/skr/skr01_00.sb]
+<p>People here are very nice! I can train in peace! Hi-yahh!<k>
+### 466 [cf0/skr/skr02_00.sb]
+<p>The sky was bright red over in the east! What was that...?!<k>
+### 467 [cf0/skr/skr02_00.sb]
+<p>The whole world is in a panic.<k><p>Times like these are when you have to relax and look at the big picture.<k><p>You must understand what is really happening<k>
+### 468 [cf0/skr/skr02_00.sb]
+<p>We felt the aftershock of the explosion at the East City.<n>Korin Tower was shaking termendously.<k>
+### 469 [cf0/skr/skr02_00.sb]
+<p>Inside this village is Korin Tower, a structure so high that they say it reaches the sky.<k>
+### 470 [cf0/skr/skr02_00.sb]
+<p>Bora told me to calm down, but I can't... I feel like something terrible's going to happen.<k>
+### 471 [cf0/skr/skr02_00.sb]
+<p>Bora, the sole protector of the village, was killed by the military.<k><p>But this boy came to save his life with his mysterious power.<k>
+### 472 [cf0/skr/skr02_00.sb]
+<p>Two falling stars... I just know something is about to unfold for us all.<k>
+### 473 [cf0/skr/skr02_00.sb]
+<p>This land once fell under attack by a group calling themselves the Red Ribbon Army.<k>
+### 474 [cf0/skr/skr02_00.sb]
+<p>You know what? Korin Tower swayed a whole bunch! I was afraid it was gonna fall down!<k>
+### 475 [cf0/skr/skr02_00.sb]
+<p>You just got down from that tower, right? What's it like in there?!<k>
+### 476 [cf0/skr/skr02_00.sb]
+<p>Wow! Korin Tower is so tall!<k>
+### 477 [cf0/skr/skr02_00.sb]
+<p>Mankind has angered the gods... That was a bolt of lightning from the deities themselves.<k>
+### 478 [cf0/skr/skr02_00.sb]
+<p>The river source inside the cave is a sacred place. No one is allowed near it.<k>
+### 479 [cf0/skr/skr02_00.sb]
+<p>Hey... is what happened to East City gonna happen to the rest of the world, too?<k>
+### 480 [cf0/skr/skr02_00.sb]
+<p>Upa is so cool! I can't believe how strong he is!<k>
+### 481 [cf0/skr/skr02_00.sb]
+<p>There's no point falling into panic at a time like this.<k><p>We just have to accept our fate when it arrives.<k>
+### 482 [cf0/skr/skr02_00.sb]
+<p>This is the Chief's tent. You can go inside, but please don't make a mess.<k>
+### 483 [cf0/skr/skr02_00.sb]
+<p>Did you think Speed just determines who attacks first in battle?<k><p>Well, it's more than that! Higher speed lets you evade enemy attacks more often! Cool, huh?<k>
+### 484 [cf0/skr/skr02_00.sb]
+<p>Rrrrr... grrrr...<k>
+### 485 [cf0/skr/skr02_00.sb]
+<p>Rrrr... Grarf!<k>
+### 486 [cf0/skr/skr03_00.sb]
+<p>A statue of Korin, complete with a rather cute tail.<k>
+### 487 [cf0/skr/skr03_00.sb]
+<p>A statue of Korin. His smiling face beams across town.<k>
+### 488 [cf0/skr/skr04_00.sb]
+<p>I can't believe East City exploded... I've never seen such an angry-looking sky.<k>
+### 489 [cf0/skr/skr04_00.sb]
+<p>This is the Sacred Land of Korin.<k><p>A group has gathered here and formed a village, following the beliefs of Bora's tribe.<k>
+### 490 [cf0/skr/skr04_00.sb]
+<p>Food gathered from the forest rests on the counter.<k>
+### 491 [cf0/skr/skr05_00.sb]
+<p>It seems people are running from their homes after hearing about East City.<k><p>Where can they run, though? As long as we're on Earth, we all share the same fate.<k>
+### 492 [cf0/skr/skr05_00.sb]
+<p>We don't get guests very often. If you think Korin Tower is a tourist spot, you're mistaken.<k>
+### 493 [cf0/skr/skr05_00.sb]
+<p>A sharp odor wafts out of the pot. There must be some kind of medicine inside.<k>
+### 494 [cf0/skr/skr06_00.sb]
+<p>You can build up your body all you want, but if your heart is not just as solid...<k><p>Then you'll be unable to act when the time calls for it. It's a difficult sort of balance.<k>
+### 495 [cf0/skr/skr06_00.sb]
+<p>If you climb the tower, the hermit who lives up top will give you sacred water.<k><p>Drink it, and your power will be multiplied countless times.<k>
+### 496 [cf0/skr/skr06_00.sb]
+<p>The altar is draped with an intricately-designed cloth.<k>
+### 497 [cf0/sna/sna02_00.sb]
+<p>There is a depression in the ground. Do you want to try stepping on it?<k>
+### 498 [cf0/sna/sna05_00.sb]
+<p>Princess Snake is waiting for you.<k>
+### 499 [cf0/sna/sna05_00.sb]
+<p>Please enter through the large door.<k>
+### 500 [cf0/sna/sna05_00.sb]
+<p>Princess Snake's room is on the other side.<k>
+### 501 [cf0/sna/sna06_00.sb]
+<p>There is Princess Snake's chair... but no Princess Snake.<k>
+### 502 [cf0/spi/spi08_00.sb]
+<p>It sounds like he went off to a power source as strong as my own...<k><p>Did he mean... Goku?!!<k><p>I'd better go to Master Roshi and see what's up...<k><p>But who is this Kakarot?<k>
+### 503 [cf0/ura/ura01_00.sb]
+<p>When you raise your Skill parameter, you can fire off beams and stuff! Cool, huh?<k><p>What kind of waves? Well, I don't know! Microwaves? Cosmic waves?<k><p>...Oh, no, I hope it's not cosmic waves! I'm scared of those! Ahhhhh!!<k>
+### 504 [cf0/ura/ura01_00.sb]
+<p>Not even Fortuneteller Baba can predict the future this time... I hope Earth turns out all right.<k>
+### 505 [cf0/ura/ura01_00.sb]
+<p>Admission is free for all of you. Please, come on in.<k>
+### 506 [cf0/ura/ura01_00.sb]
+<p>Ah, a visitor... heh heh heh. Please, come right in.<k>
+### 507 [cf0/ura/ura02_00.sb]
+<p>You hear about East City?! They say space aliens blew it up! How scary!<k>
+### 508 [cf0/ura/ura02_00.sb]
+<p>You're all too strong! Just go visit Baba, okay? You don't have to do any fighting!<k>
+### 509 [cf0/ura/ura02_00.sb]
+<p>Fortuneteller Baba always looks forward to new challengers.<k>
+### 510 [cf0/ura/ura02_00.sb]
+<p>Zzz... zzz...<k><p>Gahh!!<k>
+### 511 [cf0/ura/ura02_00.sb]
+<p>I've been lying here this whole time, so I'm starting to get a little sleepy...<k>
+### 512 [cf0/ura/ura02_00.sb]
+<p>Ow ow ow ow...<k>
+### 513 [cf0/ura/ura02_00.sb]
+<p>Hey, I think this guy's just pretending to be knocked out. Let's try kicking him.<k>
+### 514 [cf0/ura/ura02_00.sb]
+<p>My blood's been sucked... I feel faint. When am I ever gonna win here?<k>
+### 515 [cf0/ura/ura02_00.sb]
+<p>That's not fair! You can't fight when you're invisible!<k>
+### 516 [cf0/ura/ura02_00.sb]
+<p>Waaallllk... Verrrry... Sloooowlllyy...<k>
+### 517 [cf0/ura/ura02_00.sb]
+<p>Soooo... slloooowwww... Meeeewwwwww...<k>
+### 518 [cf0/ura/ura02_00.sb]
+<p>So... slow... Me... ow...<k>
+### 519 [cf0/ura/ura03_00.sb]
+<p>Earth is dangerous enough as is... now someone's actively trying to destroy it.<k>
+### 520 [cf0/ura/ura03_00.sb]
+<p>P-P-Piccolo! What do you want?! You here to beat up a poor old woman?!<k>
+### 521 [cf0/ura/ura03_00.sb]
+<p>What do you want? You guys are too strong for me. I'll tell your fortunes without a fight.<k>
+### 522 [cf0/ura/ura03_00.sb]
+<p>It's a secret to everybody!<k>
+### 523 [cf0/ura/ura03_00.sb]
+<p>Acquired <c=#8BEFD4>5000 Zeni<c>!<k>
+### 524 [cf0/ura/ura03_00.sb]
+<p>Sorry! I've got nothing left!<k>
+### 525 [cf0/ura/ura03_00.sb]
+<p>I'd be happy to guide you to the Other World. Would you like to pay it a visit...?<k>
+### 526 [cf0/ura/ura03_00.sb]
+<p>This giant crystal ball emits a mystical light.<k><p>If you look closely, you can see something writhing around inside.<k>
+### 527 [cf0/ura/ura03_00.sb]
+<p>An eerie mask has been hung on the wall.<k><p>It's warm to the touch, almost as if it's alive.<k>
+### 528 [cf0/ura/ura03_00.sb]
+<p>A golden coffin shines coldly, covered by a gravestone-like object.<k>
+### 529 [cf0/ura/ura03_00.sb]
+<p>I can bring the dead back from the Other World for a short time. Who would you like to resurrect?<k>
+### 530 [cf0/ura/ura03_00.sb]
+Quit
+### 531 [cf0/ura/ura03_00.sb]
+<p>Ah yes, Piccolo... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+### 532 [cf0/ura/ura03_00.sb]
+<p>You people are hopeless without me. I suppose I can help you out for a little bit.<k>
+### 533 [cf0/ura/ura03_00.sb]
+Piccolo joined your team!
+### 534 [cf0/ura/ura03_00.sb]
+<p>But Piccolo is right beside you! I don't appreciate being made fun of, you!<k>
+### 535 [cf0/ura/ura03_00.sb]
+<p>Ah yes, Yamcha... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+### 536 [cf0/ura/ura03_00.sb]
+<p>Ha hahh! I'm ready and rarin' to go!<k>
+### 537 [cf0/ura/ura03_00.sb]
+Yamcha joined your team!
+### 538 [cf0/ura/ura03_00.sb]
+<p>But Yamcha is right beside you! Didn't you notice him?<k>
+### 539 [cf0/ura/ura03_00.sb]
+<p>Ah yes, Tien... Very well.<k><p>Nnnnnnnnnngh...!<k><p>Kaaaaahhh!!!<k>
+### 540 [cf0/ura/ura03_00.sb]
+<p>Thanks, man. Time to kick up a little dust!<k>
+### 541 [cf0/ura/ura03_00.sb]
+Tien joined your team!
+### 542 [cf0/ura/ura03_00.sb]
+<p>But Tien is right beside you! Quit being silly with me!<k>
+### 543 [cf0/wst/wst01_00.sb]
+<p>Oh, man... I let myself go wild. I bought a new capsule without my mom's permission...<k>
+### 544 [cf0/wst/wst01_00.sb]
+<p>Hey, check this out! A new capsule! This is so cool!<k>
+### 545 [cf0/wst/wst01_00.sb]
+<p>I wanna buy a new capsule... But my mom will be mad at me if I buy one without her permission.<k>
+### 546 [cf0/wst/wst01_00.sb]
+<p>Are you using the accessories you have? There are some really awesome ones out there!<k><p>One of them makes all your skills cost only one Ki point! You'd be an unstoppable skill machine!<k>
+### 547 [cf0/wst/wst01_00.sb]
+<p>Wow... before I realized it, I wrote all over this thing. What to do, what to do...?<k>
+### 548 [cf0/wst/wst01_00.sb]
+<p><d>No... parking!<d> There! That'll be perfect!<k><p>Oh, wait... I better write <d>You're in the way,<d> too. That'll work.<k>
+### 549 [cf0/wst/wst01_00.sb]
+<p>I hate it when people park their cars here... think I'll draw some graffiti on it.<k>
+### 550 [cf0/wst/wst01_00.sb]
+<p>T-they got East City...is this place next?!<k><p>I'm so scared...! What am I gonna do?! I'm really, really scared!<k>
+### 551 [cf0/wst/wst01_00.sb]
+<p>I'm a lady from the city, you know! I'm not like you country bumpkins!<k>
+### 552 [cf0/wst/wst01_00.sb]
+<p>Hey, those are some weird clothes you got, man! You from the sticks, or what?<k>
+### 553 [cf0/wst/wst01_00.sb]
+<p>The frosted glass prevents you from looking inside.<k>
+### 554 [cf0/wst/wst01_00.sb]
+<p>A note is written on the end of the car: <d>No Graffiti!<d><k>
+### 555 [cf0/wst/wst02_00.sb]
+<p>I lost so much weight, and now look... I'm heartbroken.<k><p>It's no good... the pizza killed me. That and the potato chips too, I guess.<k>
+### 556 [cf0/wst/wst02_00.sb]
+<p>M-man, I've been walking a while... I'm giving it everything I got!<k><p>I musta lost a lot of weight by this point, huh? Now it's okay to start eating pizza again, right?<k>
+### 557 [cf0/wst/wst02_00.sb]
+<p>I-I'm so hot... I thought I'd go walk in heavy clothes to jump-start my metabolism...<k>
+### 558 [cf0/wst/wst02_00.sb]
+<p>Press the X Button for the top row line, Y Button for the middle line, and B Button for the bottom line, right when the enemy attacks to execute an Active Guard.<k><p>If you get it right, you'll earn more resistance against Poison and things. It's worth trying out.<k>
+### 559 [cf0/wst/wst02_00.sb]
+<p>Whisper whisper whisper!<k>
+### 560 [cf0/wst/wst02_00.sb]
+<p>Whisper whisper whisper! Whisper whisper whisper whisper!<k>
+### 561 [cf0/wst/wst02_00.sb]
+<p>A spy! A spy!<k>
+### 562 [cf0/wst/wst02_00.sb]
+<p>You heard about the East City explosion? I bet the villains in this house were behind it!<k><p>I pretty sure that's got to be it! I'm positive!<k>
+### 563 [cf0/wst/wst02_00.sb]
+<p>What a weird house! I bet some villain lives in there! It's gotta be packed with bad guys!<k>
+### 564 [cf0/wst/wst02_00.sb]
+<p>This house is suspicious, if you ask me! I hear weird animal sounds out of it all day!<k>
+### 565 [cf0/wst/wst02_00.sb]
+<p>Boy, it sure is hard to stop emitting carbon dioxide. I just can't do it!<k>
+### 566 [cf0/wst/wst02_00.sb]
+<p>I'm sick of going out on drives! We need to think more about the environment now!<k><p>We need to stop emitting carbon dioxide, and stuff like that!<k>
+### 567 [cf0/wst/wst02_00.sb]
+<p>I'm bored... I wish someone would take me on a drive or something.<k>
+### 568 [cf0/wst/wst02_00.sb]
+<p>I heard there was a terrorist attack on East City. Places like these, though... they're way safer.<k>
+### 569 [cf0/wst/wst02_00.sb]
+<p>There's someone in Old City who just loves carrots.<k><p>If you've got one, why don't you pay him a visit?<k>
+### 570 [cf0/wst/wst02_00.sb]
+<p>Old City is just down those stairs. It's not very safe there, so be careful.<k>
+### 571 [cf0/wst/wst02_00.sb]
+<p>Rrrroww! Ffft!<k>
+### 572 [cf0/wst/wst02_00.sb]
+<p>Reeowww!<k>
+### 573 [cf0/wst/wst02_00.sb]
+<p>Maoww...<k>
+### 574 [cf0/wst/wst02_00.sb]
+<p>Um, what's the sound that regular dogs make?<k><p>Was it <d>Dog! Dog dog dog dog!<d><k><p>I'm pretty sure that was it.<k>
+### 575 [cf0/wst/wst02_00.sb]
+<p>Moff! Moff!<k>
+### 576 [cf0/wst/wst02_00.sb]
+<p>Wurfle!<k>
+### 577 [cf0/wst/wst02_00.sb]
+<p>It's not very nice to go peeping into people's homes.<k>
+### 578 [cf0/wst/wst02_00.sb]
+<p>A sign on the door reads <d>Coro.<d><k><p>It must be a doghouse.<k>
+### 579 [cf0/wst/wst03_00.sb]
+<p>I can't take it anymore! My eyes are spinning! I feel so... blorrff!<k>
+### 580 [cf0/wst/wst03_00.sb]
+<p>Oh man... it's all over... I can't control myself anymore...<k>
+### 581 [cf0/wst/wst03_00.sb]
+<p>I'm sure envious of these kids... heh heh.<k>
+### 582 [cf0/wst/wst03_00.sb]
+<p>How many laps have we done by now, anyway?<k>
+### 583 [cf0/wst/wst03_00.sb]
+<p>Around we go!<k>
+### 584 [cf0/wst/wst03_00.sb]
+<p>Yaaahhh! I'm running!<k>
+### 585 [cf0/wst/wst03_00.sb]
+<p>How many times have we gotten dizzy and fallen over by now, anyway?<k>
+### 586 [cf0/wst/wst03_00.sb]
+<p>Where'll we stop? I dunno!<k>
+### 587 [cf0/wst/wst03_00.sb]
+<p>Whoaa! I'm dizzy!<k>
+### 588 [cf0/wst/wst03_00.sb]
+<p>It's Lait-Lait! Would you like some coffee?<k><p>Um... is that Lait-Lait something you put in the coffee?<k><p>Oh, ewwwww! I don't even want to know what it is!<k>
+### 589 [cf0/wst/wst03_00.sb]
+<p>Maybe the maid thing didn't work out, but this next will for sure! It's Lait-Lait Coffee!<k><p>Um, I have no idea what that means...<k><p>Besides, that sounds like the name of a panda or something.<k>
+### 590 [cf0/wst/wst03_00.sb]
+<p>Just quit it, okay? You have no business sense!<k><p>I do too! There's gonna be a maid cafe next! It's gonna happen, I swear!<k>
+### 591 [cf0/wst/wst03_00.sb]
+<p>I saw these huge shooting stars headed eastward!<k><p>Those must be what blew up East City! That's got to be it!<k>
+### 592 [cf0/wst/wst03_00.sb]
+<p>Boy, am I busy. I've got no time to clean, even. I wish someone could do it for me.<k>
+### 593 [cf0/wst/wst03_00.sb]
+<p>What? Hey, you're free, aren't you? Could you pick up some of this garbage?<k>
+### 594 [cf0/wst/wst03_00.sb]
+<p>Niii... niii...<k>
+### 595 [cf0/wst/wst03_00.sb]
+<p>Norrww...<k>
+### 596 [cf0/wst/wst03_00.sb]
+<p>Nuuu... nuuu...<k>
+### 597 [cf0/wst/wst03_00.sb]
+<p>We're hearing rumors about East City, too. It all smells pretty fishy to us!<k>
+### 598 [cf0/wst/wst03_00.sb]
+<p>People better start noticing soon. That guy is just gonna pop sooner or later.<k>
+### 599 [cf0/wst/wst03_00.sb]
+<p>That guy's so weird... always going on about this crazy stuff. I can just tell he's trouble.<k>
+### 600 [cf0/wst/wst03_00.sb]
+<p>Mrrarrff!!<k>
+### 601 [cf0/wst/wst03_00.sb]
+<p>Mrorff! Mrorff!<k>
+### 602 [cf0/wst/wst03_00.sb]
+<p>Morf! Morf morf!<k>
+### 603 [cf0/wst/wst03_00.sb]
+<p>Ahh... carrots... wonderful, wonderful carrots...<k>
+### 604 [cf0/wst/wst03_00.sb]
+<p>Carrots... you have any carrots?<k>
+### 605 [cf0/wst/wst03_00.sb]
+<p>I just love carrots... All the world's a paradise as long as I have carrots...<k><p>If you find any carrots, please bring them back to me...<k><p>I've got some great stuff for you... I'm serious here...<k>
+### 606 [cf0/wst/wst03_00.sb]
+<p>Give him all the carrots you have?<k>
+### 607 [cf0/wst/wst03_00.sb]
+<p>This makes %d carrots you've given me in all.<k>
+### 608 [cf0/wst/wst03_00.sb]
+<p>Ah...! You brought carrots for me. You can have this in exchange. Thanks for coming through for me.<k>
+### 609 [cf0/wst/wst03_00.sb]
+<p>A hundred carrots! You've given me over a hundred carrots!<k><p>Ahh...how wonderful... You've got to take this... It's a token of my gratitude...<k>
+### 610 [cf0/wst/wst03_00.sb]
+<p>Whoa... Five hundred!<k><p>500 carrots...! You've given me 500 of them!<k><p>I just don't know what to say... Take this, okay? It's a token of my thanks.<k>
+### 611 [cf0/wst/wst03_00.sb]
+<p>I can't believe it...! I just can't!<k><p>You've given me 1000 carrots! A full thousand!<k><p>Isn't it beautiful? You're so wonderful to me... Thank you so much...!<k><p>This is the greatest gift I can give you... Thank you! Oh, thank you!<k>
+### 612 [cf0/wst/wst03_00.sb]
+<p>Um... could I ask you for 1000 carrots? Would that be too hard...?<k><p>If you can get those, I'll give you the key to a certain place...<k><p>A place where a legendary item lies in rest, waiting to be found. You curious yet...?<k>
+### 613 [cf0/wst/wst03_00.sb]
+<p>I really want 500 carrots... Get me those, and you'll get an item that'll make you richer.<k>
+### 614 [cf0/wst/wst03_00.sb]
+<p>You know... I'd really like to have at least 100 of these...<k><p>Get me those, and I'll give you an item that makes it easier to run from enemies...<k>
+### 615 [cf0/wst/wst03_00.sb]
+<p>Carrots... I can't live without carrots...<k>
+### 616 [cf0/wst/wst03_00.sb]
+<p>Hey... do you have any carrots...?<k>
+### 617 [cf0/wst/wst03_00.sb]
+<p>Oh... that's a shame...<k>
+### 618 [cf0/wst/wst03_00.sb]
+<p>The door is boarded shut. It must have gone out of business.<k>
+### 619 [cf0/wst/wst03_00.sb]
+<p>You can hear voices whispering inside...<k><p><d>Accuracy<d> is pretty important... I guess you need to land attacks for them to mean anything, huh?<k>
+### 620 [cf0/wst/wst03_00.sb]
+<p><d>Carrot Storehouse<d><k>
+### 621 [cf0/wst/wst03_00.sb]
+<p>A sickly-sweet smell emanates from the other side of the door.<k>
+### 622 [cf0/wst/wst04_00.sb]
+<p>Oh! Perfect! I was just thinking about giving this to you.<k>
+### 623 [cf0/wst/wst04_00.sb]
+<p>You now have more capsule shortcuts!<k>
+### 624 [cf0/wst/wst04_00.sb]
+<p>Take care of it, okay?<k>
+### 625 [cf0/wst/wst04_00.sb]
+<p>Ooh, here's the newlywed now! Congratulations! I'm so jealous!<k>
+### 626 [cf0/wst/wst04_00.sb]
+<p>Who coulda guessed Goku would get married, huh? What a crazy world this is!<k>
+### 627 [cf0/wst/wst04_00.sb]
+<p>The Earth's in a life-or-death struggle right now, and nobody even has a clue...<k><p>Sure feels weird, doesn't it?<k>
+### 628 [cf0/wst/wst04_00.sb]
+<p>Don't you think the owner ought to say hi to us? We've been living here a while now.<k><p>Well, yeah! I think it's about time he did!<k>
+### 629 [cf0/wst/wst04_00.sb]
+<p>Ahh, life is so easy in here! You think we can take this car, too?<k><p>Oh, of course! Look at how many they've got! Let's hop in!<k>
+### 630 [cf0/wst/wst04_00.sb]
+<p>This house is huge! We could live here, and nobody'd ever notice!<k><p>Oh, totally! You wanna do it? Yeah, let's do it!<k>
+### 631 [cf0/wst/wst04_00.sb]
+<p>Welcome, guest.<k><p>What, do you want to leave?<k><p>Do I look like your servant? Forget it.<k>
+### 632 [cf0/wst/wst04_00.sb]
+<p>Welcome, guest.<k><p>What are you here for? If you do not have a problem to discuss, do not bother me.<k>
+### 633 [cf0/wst/wst04_00.sb]
+<p>Welcome. Are you a guest?<k><p>State your business now.<k>
+### 634 [cf0/wst/wst04_00.sb]
+<p><d>The first automobile developed by Capsule Corporation.<d><k><p><d>Its charming design has earned it a legion of fans even today.<d><k>
+### 635 [cf0/wst/wst04_00.sb]
+<p><d>The first mass-produced anti-gravity scooter, the result of a lifelong dream.<d><k>
+### 636 [cf0/wst/wst04_00.sb]
+<p><d>The latest light airplane, capable of vertical takeoff and landing. Anyone can pilot it.<d><k>
+### 637 [cf0/wst/wst05_00.sb]
+<p>Boy, East City is in bad shape! I don't know any details, but it's in real bad shape!<k><p>If it's anything like how I am without any makeup, then it must be simply horrible!<k>
+### 638 [cf0/wst/wst05_00.sb]
+<p>Bulma never comes back home these days.<k><p>Maybe she's become a delinquent! I bet that's it! Maybe I should join her in a gang or something!<k>
+### 639 [cf0/wst/wst05_00.sb]
+<p>Well, nice to see you again! You're looking wonderful these days!<k><p>You people never bother seeing me. Honestly! I get lonely, you know!<k>
+### 640 [cf0/wst/wst05_00.sb]
+<p>Well! You're a handsome one, aren't you?<k><p>Nice to meet you! I'm Bulma's mother!<k>
+### 641 [cf0/wst/wst05_00.sb]
+<p>Zzzzzz...<k>
+### 642 [cf0/wst/wst05_00.sb]
+<p>Boy, I'm getting tired... Guess I'll have to sleep it off.<k>
+### 643 [cf0/wst/wst05_00.sb]
+<p>Ahhh, it's so warm... It's like heaven in here!<k>
+### 644 [cf0/wst/wst05_00.sb]
+<p>Whoa!<k><p>Hey, I'm not a criminal or anything! I'm just shacking up here for a bit!<k>
+### 645 [cf0/wst/wst05_00.sb]
+<p>I swear, I'm not a criminal! Don't worry about me!<k>
+### 646 [cf0/wst/wst05_00.sb]
+<p>Nowwhh...<k>
+### 647 [cf0/wst/wst05_00.sb]
+<p>Nnnn...<k>
+### 648 [cf0/wst/wst05_00.sb]
+<p>Nyu nyu nyuuuu...<k>
+### 649 [cf0/wst/wst05_00.sb]
+<p>Nghahh!<k>
+### 650 [cf0/wst/wst05_00.sb]
+<p>Mreowwhh!<k>
+### 651 [cf0/wst/wst05_00.sb]
+<p>Myah?!<k>
+### 652 [cf0/wst/wst05_00.sb]
+<p>......<k><p>......<k><p>Do you really care that much about me?<k>
+### 653 [cf0/wst/wst05_00.sb]
+<p>......<k><p>......<k><p>You just don't give up, do you?<k>
+### 654 [cf0/wst/wst05_00.sb]
+<p>......<k><p>......<k><p>I'm sleeping. Quit bothering me.<k>
+### 655 [cf0/wst/wst05_00.sb]
+<p>Ffffft!<k>
+### 656 [cf0/wst/wst05_00.sb]
+<p>Mrowh!<k>
+### 657 [cf0/wst/wst05_00.sb]
+<p>Mrrrgh!<k>
+### 658 [cf0/wst/wst05_00.sb]
+<p>Woffle! Woffle!<k>
+### 659 [cf0/wst/wst05_00.sb]
+<p>My concern now lies with my companions that live in East City...<k><p>I am safe simply because I happened to be here. It is nothing but pure, simple luck.<k><p>What can I do for all of them? That is all I can think about, every day...<k>
+### 660 [cf0/wst/wst05_00.sb]
+<p>Everyone here is basking in their good fortune as if they were entitled to it.<k><p>A single stroke of luck, and they could have been on the other side of this window.<k><p>When I think about that, I can't help but feel awkward...<k>
+### 661 [cf0/wst/wst05_00.sb]
+<p>The place we are in right now is a safe, clean, and comfortable environment.<k><p>I am unable to hide the joy I feel to be free from hunger and permitted to run free.<k><p>Wahoooo!!<k>
+### 662 [cf0/wst/wst05_00.sb]
+<p>Caw caw!<k>
+### 663 [cf0/wst/wst05_00.sb]
+<p>Coo coo coo!<k>
+### 664 [cf0/wst/wst05_00.sb]
+<p>Cheep cheep!<k>
+### 665 [cf0/wst/wst05_00.sb]
+<p>Some skills cannot be learned right off the bat... Try to experiment a little.<k>
+### 666 [cf0/wst/wst05_00.sb]
+<p>The West City skyline is laid out beyond the window.<k>
+### 667 [cf0/wst/wst06_00.sb]
+<p>They found an alien spaceship in East City, didn't they? Man, I'd love to see it!<k>
+### 668 [cf0/wst/wst06_00.sb]
+<p>It's always nothing but men in your group. Why don'tcha hang out with girls a little more, huh?<k>
+### 669 [cf0/wst/wst06_00.sb]
+<p>Hey! You doing okay? I'm fit as a fiddle! Ha ha ha!<k>
+### 670 [cf0/wst/wst06_00.sb]
+<p>Ah, a visitor! What would you like to see? My private dirty book stash is right here!<k>
+### 671 [cf0/wst/wst06_00.sb]
+<p>One bolt's screwed in, two go missing...<k><p>Two bolts are screwed in, four go missing...<k><p>I think I'm gonna have a screw loose myself before too long.<k>
+### 672 [cf0/wst/wst06_00.sb]
+<p>I'm not done yet...! I can do this!<k><p>All I gotta do is follow the steps in this manual!<k><p>I can do it! I can change myself! Yes I can!<k>
+### 673 [cf0/wst/wst06_00.sb]
+<p>So this connects to this... and that connects to over there...<k><p>Dahh, I don't get this at all! How does this thing work?!<k>
+### 674 [cf0/wst/wst06_00.sb]
+<p>Nnnnyuuu...<k>
+### 675 [cf0/wst/wst06_00.sb]
+<p>Mew mew!<k>
+### 676 [cf0/wst/wst06_00.sb]
+<p>Mmmyuuu...<k>
+### 677 [cf0/wst/wst06_00.sb]
+<p>An airplane? A submarine? A spaceship? This could be anything, really.<k>
+### 678 [cf0/wst/wst06_00.sb]
+<p>The cluttered bookshelf is filled with nothing but dirty books.<k>
+### 679 [cf0/wst/wst06_00.sb]
+<p>A model made of rigid clay. This must be how they finalize their designs.<k>
+### 680 [cf0/wst/wst06_00.sb]
+<p>Someone is halfway done building an airplane model on this desk. There's parts everywhere.<k>
+### 681 [cf0/yun/yun01_01.sb]
+<p>A bizarre-looking object sits here.<k>
+### 682 [cf0/yun/yun02_00.sb]
+<p>Your way is blocked by a gigantic clump of ice.<k>

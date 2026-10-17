@@ -1,0 +1,26 @@
+nº | arquivo:índice | trecho atual | sugestão | ALTO/MÉDIO/BAIXO | motivo curto
+3588 | cf1/c14/c1407_00.sb:34 | "Os últimos momentos do Rei Demônio Piccolo..." | "Os últimos momentos do Piccolo Daimaoh..." | ALTO | nome fora do glossário (Demon King/King Piccolo → Piccolo Daimaoh)
+3239 | cf1/c13/c1304_00.sb:33 | "Esta técnica pega emprestada um pouco da energia" | "Esta técnica pega emprestado um pouco da energia" | MÉDIO | concordância: "emprestado" concorda com "um pouco" (masc.)
+3290 | cf1/c13/c1307_00.sb:30 | "Se eu morrer de novo, venho te visitar!" | "Se eu morrer de novo, venho visitar o senhor!" | MÉDIO | tratamento incoerente: Goku usa "o senhor" com o Senhor Kaioh no resto da cena
+3083 | cf1/c11/c1105_01.sb:19 | "...Ei, maninho!" | "...Ei, mano!" (ou "irmãozão") | BAIXO | "big bro" é o irmão mais velho; "maninho" sugere o caçula (idem 3088 "Boa ideia, maninho!")
+3088 | cf1/c11/c1105_01.sb:24 | "Boa ideia, maninho!" | "Boa ideia, mano!" | BAIXO | mesmo caso de 3083
+3087 | cf1/c11/c1105_01.sb:23 | "aproveitar pra aliviar eles das coisas!" | "aproveitar pra depenar eles!" / "aliviar eles do tesouro!" | BAIXO | "aliviar das coisas" soa truncado/calque de "relieve them of their goods"
+3144 | cf1/c12/c1204_00.sb:22 | "Você fez o meu orgulho em pedaços..." | "Você despedaçou o meu orgulho..." | BAIXO | ordem calcada do inglês, soa artificial
+3146 | cf1/c12/c1204_00.sb:24 | "Te trouxe aqui pra pagar pelo sofrimento" | "Te trouxe aqui pra você pagar pelo sofrimento" | BAIXO | sujeito ambíguo (parece que quem paga é o falante)
+3217 | cf1/c13/c1303_00.sb:38 | "Tem certeza de dar o Cristal Espiritual àquele terráqueo?" / "Ele só deve ser dado como prova de quem aprendeu a Genki Dama..." | "Tem certeza de que pode dar...?" / "Ele só deve ser dado a quem aprendeu a Genki Dama, como prova..." | BAIXO | construções truncadas; "prova de quem aprendeu" troca o sentido (prova para quem aprendeu)
+3283 | cf1/c13/c1307_00.sb:10 | "É meio-dia e está escuro lá fora!" | "Em pleno dia e está escuro lá fora!" | BAIXO | "middle of the day" = em pleno dia, não horário exato de meio-dia
+3358 | cf1/c14/c1402_00.sb:27 | "namekuseijin" (minúsculo; também 3360, 3363, 3365, 3370, 3487, 3526, 3559) | "Namekuseijin" (ou manter minúsculo e padronizar "saiyajin") | BAIXO | grafia de raça incoerente: "Saiyajin" sempre com maiúscula, "namekuseijin" com minúscula
+3384 | cf1/c14/c1402_01.sb:32 | "Lá vamos nós..." | "Pronto..." / "Isso..." | BAIXO | "There we go" (Nappa plantando as sementes) não é "here we go"
+3399 | cf1/c14/c1402_02.sb:35 | "E não segure nada." (também 3413 "Eu mandei não segurarem nada", 3417 "não segurarem nada") | "E não se contenha." / "não pegarem leve" | BAIXO | calque de "don't hold back"
+3632 | cf1/c14/c1408_02.sb:21 | "tentem não ser pegos pela luta" | "tentem não ser atingidos pela luta" / "fiquem longe da luta" | BAIXO | calque de "get caught in the fight"
+3661 | cf1/c14/c1409_00.sb:17 | "Você não tem o que é preciso pra acabar com isso!" | "Você não tem capacidade pra acabar com isso!" | BAIXO | calque de "don't have what it takes"
+3713 | cf1/c15/c1501_02.sb:17 | "Ou ainda tem forças pra lutar mais pesado?!" | "Ou ainda tem forças pra lutar com mais vontade?!" | BAIXO | "lutar mais pesado" pouco natural
+3718 | cf1/c15/c1501_02.sb:25 | "Nngh... nossa... ele é duro..." | "Nngh... nossa... ele é duro na queda..." | BAIXO | "ele é duro" fica ambíguo/incompleto
+3722 | cf1/c15/c1501_02.sb:36 | "você é o fundo do poço." | "você é a ralé." / "você é o último da fila." | BAIXO | "bottom of the barrel" = o pior da classe; "fundo do poço" é situação, não categoria
+3782 | cf1/c15/c1502_02.sb:16 | "o seu planeta já vai ser história até lá!" | "o seu planeta já não vai mais existir até lá!" | BAIXO | calque de "be history"
+3786 | cf1/c15/c1502_02.sb:26 | "Um macaco gigante...!" | "Um Oozaru...!" (ou manter, se for descrição de quem não conhece o termo) | BAIXO | glossário: Giant Ape → Oozaru; verificar intenção
+3796 | cf1/c15/c1503_00.sb:20 | "não tenho força nem pra... coçar o nariz..." | "não tenho força nem pra... tirar meleca do nariz..." | BAIXO | "pick my nose" = cutucar o nariz; piada atenuada
+3841 | cf1/c15/c1504_01.sb:42 | "Quase metade escapou" | "Cerca de metade escapou" | BAIXO | "About half" = mais ou menos metade, não "quase metade"
+
+Impressão geral: fatia de qualidade alta. Glossário respeitado de forma consistente (Kuririn, Tenshinhan, Chaos, Kami-Sama, Sr. Popo, Senhor Kaioh, Senhor Enma, Mestre Karin, Kakarotto, Saiyajin, Oozaru, Genki Dama, Sementes dos Deuses, Nuvem Voadora, Casa do Kame, Estrada da Serpente), códigos de controle íntegros, ortografia e acentuação sem falhas visíveis, nenhum resto de inglês. Único erro relevante é "Rei Demônio Piccolo" (3588); o resto são uma concordância, um deslize de tratamento e ajustes de naturalidade.
+Entradas lidas: 795 (nº 3069 a 3863, arquivo inteiro, 2385 linhas).

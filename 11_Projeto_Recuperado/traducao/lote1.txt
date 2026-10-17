@@ -1,0 +1,716 @@
+### 0 [cf/world_01.sb]
+King Yemma's Mansion
+### 1 [cf/world_01.sb]
+Snake Way
+### 2 [cf/world_01.sb]
+Princess' Mansion
+### 3 [cf/world_01.sb]
+King Kai's Planet
+### 4 [cf/worldmap.sb]
+Kame House
+### 5 [cf/worldmap.sb]
+Training Island
+### 6 [cf/worldmap.sb]
+Baba's Palace
+### 7 [cf/worldmap.sb]
+East City
+### 8 [cf/worldmap.sb]
+Bump Forest
+### 9 [cf/worldmap.sb]
+West City
+### 10 [cf/worldmap.sb]
+Martial Arts Temple
+### 11 [cf/worldmap.sb]
+Spinach Wastes
+### 12 [cf/worldmap.sb]
+Break Wasteland
+### 13 [cf/worldmap.sb]
+East Mt. Paozu
+### 14 [cf/worldmap.sb]
+Sacred Land of Korin
+### 15 [cf/worldmap.sb]
+Divine Crossing
+### 16 [cf/worldmap.sb]
+Mt. Paozu
+### 17 [cf/worldmap.sb]
+Mt. Frappe
+### 18 [cf/worldmap.sb]
+Desert
+### 19 [cf/worldmap.sb]
+Devil's Toilet
+### 20 [cf/worldmap.sb]
+Yunzabit Heights
+### 21 [cf/worldmap.sb]
+Muscle Tower
+### 22 [cf/worldmap.sb]
+???
+### 23 [cf/worldmap.sb]
+Pirate Cave
+### 24 [cf/worldmap.sb]
+Jingle Village
+### 25 [cf/worldmap.sb]
+Mutaito's Grounds
+### 26 [cf/worldmap.sb]
+Holly Plain
+### 27 [cf/worldmap.sb]
+Hermit Spring
+### 28 [cf/worldmap.sb]
+Ox-King's Castle
+### 29 [cf/worldmap.sb]
+Mount Five Element
+### 30 [cf/worldmap.sb]
+Kiwi Volcano
+### 31 [cf/worldmap.sb]
+Paprika Wasteland
+### 32 [cf/worldmap.sb]
+Gizard Wasteland
+### 33 [cf/worldmap.sb]
+Pilaf's Castle
+### 34 [cf0/kam/kam01_00.sb]
+Master Roshi
+### 35 [cf0/kam/kam01_00.sb]
+<p>Come on, now. You need to get moving before nightfall. It's the island just south of here.<k>
+### 36 [cf0/kam/kam01_00.sb]
+<p>You can use that crystal ball to find people around the world who need your help.<k>
+### 37 [cf0/kam/kam01_00.sb]
+<p>Do what you can to help solve their problems!<k>
+### 38 [cf0/kam/kam01_00.sb]
+<p>That's the final training mission I have for you.<k>
+### 39 [cf0/kam/kam01_00.sb]
+Turtle
+### 40 [cf0/kam/kam01_00.sb]
+<p>Are you going to the southern island?<k>
+### 41 [cf0/kam/kam01_00.sb]
+<p>I seem to remember Master Roshi visiting that island once, long ago...<k>
+### 42 [cf0/kam/kam01_00.sb]
+<p>He said something about not wanting to leave it here, or he'd lose it like the Bansho Fan...<k>
+### 43 [cf0/kam/kam01_00.sb]
+<p>I suppose the crystal ball must have been something very important to him.<k>
+### 44 [cf0/kam/kam01_00.sb]
+<p>Certainly is lovely outside, isn't it?<k>
+### 45 [cf0/kam/kam01_00.sb]
+Launch
+### 46 [cf0/kam/kam01_00.sb]
+<p>Move it, you bum! Master Roshi wants to see you, now!<k>
+### 47 [cf0/kam/kam01_00.sb]
+Tien
+### 48 [cf0/kam/kam01_00.sb]
+<p>I'm being called... I need to get going.<k>
+### 49 [cf0/kam/kam01_00.sb]
+Fortuneteller Baba
+### 50 [cf0/kam/kam01_00.sb]
+<p>Try going to Mt. Five Element. It's behind Fire Mountain.<k>
+### 51 [cf0/kam/kam01_00.sb]
+Annin
+### 52 [cf0/kam/kam01_00.sb]
+<p>The furnace is in tip-top shape. How wonderful to see that!<k>
+### 53 [cf0/kam/kam01_00.sb]
+<p>You need the Bansho Fan, some honey, and the shell of a fire-eater bird's egg to fix the furnace.<k>
+### 54 [cf0/kam/kam01_00.sb]
+Goku
+### 55 [cf0/kam/kam01_00.sb]
+<p>Gah! It's too hot to get any closer! We gotta put out the flames first!<k>
+### 56 [cf0/kam/kam01_00.sb]
+<p>Huh? You've got the honey and the eggshell? Well, off to Mt. Five Element with you, then.<k>
+### 57 [cf0/kam/kam01_00.sb]
+<p>Hakkake's got the honey. She's on Mt. Frappe, in the mountains to the north.<k><p>Kiwi Volcano is on an island to the south, though. That's where the fire-eater birds live.<k>
+### 58 [cf0/kam/kam01_00.sb]
+<p>Hmm? The Bansho Fan? I told you, it's not here. I told you.<k><p>By the way, I can't believe you're a husband, though... It's certainly a strange world we live in.<k>
+### 59 [cf0/kam/kam01_00.sb]
+<p>Goku! Congratulations on getting married!<k>
+### 60 [cf0/kam/kam01_00.sb]
+<p>I still find it hard to believe that you actually got married, Goku.<k>
+### 61 [cf0/kam/kam01_00.sb]
+<p>I heard you got married, Goku! Congratulations!<k>
+### 62 [cf0/kam/kam01_00.sb]
+<p>Chi-Chi is certainly pretty, isn't she? I better start working on my looks, too!<k>
+### 63 [cf0/kam/kam01_00.sb]
+<p>Dang, you actually married that girl? What are you, nuts?<k>
+### 64 [cf0/kam/kam01_00.sb]
+<p>One of these days, me and Tien are gonna...<k><p>Huh? Oh, no, I didn't say anything!<k>
+### 65 [cf0/kam/kam01_00.sb]
+Hakkake
+### 66 [cf0/kam/kam01_00.sb]
+<p>That group of three went up the mountain.<k><p>You gotta go get my honey back!<k>
+### 67 [cf0/kam/kam01_00.sb]
+<p>We've got the honey and the fire-eater bird's eggshell now.<k><p>We better hurry back to Annin with this stuff!<k>
+### 68 [cf0/kam/kam01_00.sb]
+<p>If you've got the honey and the eggshell, then go see Annin next! Hurry!<k>
+### 69 [cf0/kam/kam01_00.sb]
+<p>Be careful, Goku! Don't do anything dangerous!<k>
+### 70 [cf0/kam/kam01_00.sb]
+<p>Goku always gets himself into these dangerous situations.<k><p>Try to keep him from getting in too much trouble, okay?<k>
+### 71 [cf0/kam/kam01_00.sb]
+<p>So we need to tell Chi-Chi that Goku is dead...? That makes my heart feel heavy indeed...<k>
+### 72 [cf0/kam/kam01_00.sb]
+Bulma
+### 73 [cf0/kam/kam01_00.sb]
+<p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>
+### 74 [cf0/kam/kam01_00.sb]
+<p>P-please... no matter what you do, please be careful.<k>
+### 75 [cf0/kam/kam01_00.sb]
+Dr. Briefs
+### 76 [cf0/kam/kam01_00.sb]
+<p>Hmm? Bulma asked you to fetch something for her? Try searching that workstation over there.<k>
+### 77 [cf0/kam/kam01_00.sb]
+Krillin
+### 78 [cf0/kam/kam01_00.sb]
+<p>This must be the Precision Circuit<n>Bulma was talking about.<k>
+### 79 [cf0/kam/kam01_00.sb]
+<p>Well, I got what Bulma asked for...<k><p>Next up is Goku's house, I guess.<k><p>It's gonna be tough, but I need to break the news to Chi-Chi and the Ox-King.<k>
+### 80 [cf0/kam/kam01_00.sb]
+<p>Right! Back to Kame House, then.<k>
+### 81 [cf0/kam/kam01_00.sb]
+<p>Nah... I've got nothing left to do there.<k>
+### 82 [cf0/kam/kam01_00.sb]
+<p>Oooh! Looks like you've tracked down Tien!<k>
+### 83 [cf0/kam/kam01_00.sb]
+<p>Tien should be over in Jingle Village.<k><p>He sure picked a frigid spot for his training.<k>
+### 84 [cf0/kam/kam01_00.sb]
+<p>Yamcha's back in his hideout near Mt. Paozu.<k><p>Probably just goofing off over there, too. Goku's gonna leave him in the dust!<k>
+### 85 [cf0/kam/kam01_00.sb]
+<p>We'd better get everyone together first. Krillin, I'm counting on you!<k>
+### 86 [cf0/kam/kam01_00.sb]
+<p>Hurry! You need to get Gohan back from Piccolo!<k>
+### 87 [cf0/kam/kam01_00.sb]
+<p>Once we have everyone back together, I'm sure we'll find the Dragon Balls in no time!<k>
+### 88 [cf0/kam/kam01_00.sb]
+<p>Say, Gohan, how old are you?<k>
+### 89 [cf0/kam/kam01_00.sb]
+Gohan
+### 90 [cf0/kam/kam01_00.sb]
+<p>Four years old, ma'am.<k>
+### 91 [cf0/kam/kam01_00.sb]
+<p>Wow! You're pretty polite for being Goku's kid.<k>
+### 92 [cf0/kam/kam01_00.sb]
+<p>I wish Chi-Chi would get off his back about it.<k>
+### 93 [cf0/kam/kam01_00.sb]
+<p>Hey... the kid's got a tail.<k>
+### 94 [cf0/kam/kam01_00.sb]
+<p>Yep! Just like I used to have, huh?<k>
+### 95 [cf0/kam/kam01_00.sb]
+<p>Is he as strong as you are, Goku?<k>
+### 96 [cf0/kam/kam01_00.sb]
+<p>Well, I think he's got the same kinda brute strength...<k><p>But whenever I try to train him, Chi-Chi gets all hot under the collar.<k>
+### 97 [cf0/kam/kam01_00.sb]
+<p>Why is that? It'd be a waste if you didn't.<k>
+### 98 [cf0/kam/kam01_00.sb]
+<p>Yeah, I know!<k><p>She thinks we don't need martial arts anymore now that the world's all peaceful!<k><p>She keeps going on about how we all need to study from now on...<k>
+### 99 [cf0/kam/kam01_00.sb]
+<p>Mmm? Is that a Dragon Ball the kid has on his hat?<k>
+### 100 [cf0/kam/kam01_00.sb]
+<p>Yep. The four-star Dragon Ball. My grandpa's heirloom! I tracked it down and put it on myself.<k>
+### 101 [cf0/kam/kam01_00.sb]
+<p>All right. Let's hit him with a sneak attack!<k><p>I doubt he's expecting us to find him. He probably left himself wide open!<k>
+### 102 [cf0/kam/kam01_00.sb]
+<p>Huh? But you don't know where he is... Do you?<k>
+### 103 [cf0/kam/kam01_00.sb]
+<p>Bulma! You got your Dragon Radar on you?<k>
+### 104 [cf0/kam/kam01_00.sb]
+<p>Oh! That's right! The Dragon Ball Gohan has on his hat!<k>
+### 105 [cf0/kam/kam01_00.sb]
+<p>What a shock... Finding your only blood relative, and discovering it's that guy.<k>
+### 106 [cf0/kam/kam01_00.sb]
+<p>It doesn't matter. Either way, I'm gonna make him pay.<k>
+### 107 [cf0/kam/kam01_00.sb]
+<p>W-what're we gonna do, though? Your brother's a total monster.<k><p>If you can't beat him, then I don't know if anybody can.<k>
+### 108 [cf0/kam/kam01_00.sb]
+<p>He's got that tail. That's his weak point.<k><p>If I grab him by the tail, he'll lose all his power. That's how it worked with me.<k>
+### 109 [cf0/kam/kam01_00.sb]
+<p>We'll try our best to help you. You'll need it, now that Yamcha and Tien are gone.<k>
+### 110 [cf0/kam/kam01_00.sb]
+<p>This certainly is a disaster, isn't it? Are you all right?<k>
+### 111 [cf0/kam/kam01_00.sb]
+<p>I'm glad to see you again, Goku.<k>
+### 112 [cf0/kam/kam01_00.sb]
+<p>I hope Gohan is okay...<k>
+### 113 [cf0/kam/kam01_00.sb]
+<p>It looks like that bastard flew off to the Spinach Wastes.<k>
+### 114 [cf0/kam/kam01_00.sb]
+<p>I never imagined you'd join forces with Piccolo.<k><p>This is one fight I definitely don't want to miss!<k>
+### 115 [cf0/kam/kam01_00.sb]
+Upa
+### 116 [cf0/kam/kam01_00.sb]
+<p>You folks are amazing... Climbing up Korin Tower so many times like that.<k>
+### 117 [cf0/kam/kam01_00.sb]
+Bora
+### 118 [cf0/kam/kam01_00.sb]
+<p>Korin Tower is up ahead.<k>
+### 119 [cf0/kam/kam01_00.sb]
+Korin
+### 120 [cf0/kam/kam01_00.sb]
+<p>I need the Hermit Water that flows in the cave inside my realm. Got it?<k>
+### 121 [cf0/kam/kam01_00.sb]
+Yajirobe
+### 122 [cf0/kam/kam01_00.sb]
+<p>Huh? Oh, I'm not going. You're the ones who took the job.<k>
+### 123 [cf0/kam/kam01_00.sb]
+<p>This cannot be destroyed from this side. The other side seems looser.<k>
+### 124 [cf0/kam/kam01_00.sb]
+<p>Great... We're stuck.<k><p>I think there's another path from Goku's house, though.<k><p>Let's try going around to the east.<k>
+### 125 [cf0/kam/kam01_00.sb]
+<p>The bridge is broken.<k>
+### 126 [cf0/kam/kam01_00.sb]
+<p>Kami's training, huh? I bet it must be pretty tough.<k><p>You think Yamcha would stand a chance?<k>
+### 127 [cf0/kam/kam01_00.sb]
+<p>You can get to Kami's place via the Sacred Land of Korin. Keep on doing your best!<k>
+### 128 [cf0/kam/kam01_00.sb]
+<p>Wow! You're going to visit Kami?! Amazing!<k>
+### 129 [cf0/kam/kam01_00.sb]
+<p>You are entering holy land. I cannot let you pass without good reason.<k>
+### 130 [cf0/kam/kam01_00.sb]
+<p>Are you headed for the southern island? Well, before you leave...<k>
+### 131 [cf0/kam/kam01_00.sb]
+<p>Let me explain to you what this mark here means.<k>
+### 132 [cf0/kam/kam01_00.sb]
+<p>This is what's known as a <d>CC Point<d>.<k>
+### 133 [cf0/kam/kam01_00.sb]
+<p>It's a facility put up by the Capsule Corporation.<k>
+### 134 [cf0/kam/kam01_00.sb]
+<p>Try taking a look at it, okay?<k>
+### 135 [cf0/kam/kam01_00.sb]
+<p>As you can see, you can put up a capsule house to rest, as well as save your progress.<k>
+### 136 [cf0/kam/kam01_00.sb]
+<p>You'll also find them inside cities and dungeons, so check them out when you see them.<k>
+### 137 [cf0/kam/kam01_00.sb]
+<p>Please, you have to save our planet! I'm counting on you, okay?<k>
+### 138 [cf0/kam/kam02_00.sb]
+Mr. Popo
+### 139 [cf0/kam/kam02_00.sb]
+<p>Where did Chiaotzu run off to by himself? Maybe Fortuneteller Baba would know.<k>
+### 140 [cf0/kam/kam02_00.sb]
+<p>Hello! Great to see you again!<k><p>I know Kami must be working you hard, but you gotta keep trying!<k>
+### 141 [cf0/kam/kam02_00.sb]
+<p>Yamcha! Wow! You still keeping up with Kami's training?<k><p>You've got, like, zero backbone, so I was kinda worried!<k>
+### 142 [cf0/kam/kam02_00.sb]
+<p>Whoa! Haven't seen you in a while! Aren't you supposed to be with Kami, though?<k>
+### 143 [cf0/kam/kam02_00.sb]
+<p>Chiaotzu appears to be in Master Mutaito's training grounds. That's northeast of West City.<k>
+### 144 [cf0/kam/kam02_00.sb]
+<p>That bum Chiaotzu ran off without me. How ungrateful of him!<k>
+### 145 [cf0/kam/kam02_00.sb]
+<p>Those guys escaped to Pilaf's Castle.<n>After them! Hurry!<k>
+### 146 [cf0/kam/kam02_00.sb]
+<p>So the <d>strong helper<d> was Goku all along! Boy, what a shot of confidence!<k>
+### 147 [cf0/kam/kam02_00.sb]
+<p>The first thing is to go visit my sister, Fortuneteller Baba.<k><p>I hear she's brought along a rather strong helper for us.<k>
+### 148 [cf0/kam/kam02_00.sb]
+<p>A strong helper? Who could that be? I hope you don't mean Yajirobe.<k>
+### 149 [cf0/kam/kam02_00.sb]
+<p>Press the Y Button to use the Dragon Radar once you've equipped it.<k><p>The world map will automatically display the position by default.<k>
+### 150 [cf0/kam/kam02_00.sb]
+Puar
+### 151 [cf0/kam/kam02_00.sb]
+<p>Fortuneteller Baba's waiting!<k>
+### 152 [cf0/kam/kam02_00.sb]
+<p>Good luck finding the Dragon Balls, guys!<k>
+### 153 [cf0/kam/kam02_00.sb]
+<p>The dead can't just come back to this world anytime they like.<k><p>Hurry, you need to hunt down those Dragon Balls!<k>
+### 154 [cf0/kam/kam02_00.sb]
+<p>Mm? Oh, it's you. You find the Dragon Balls yet?<k>
+### 155 [cf0/kam/kam02_00.sb]
+<p>Oh? A guest.<n>Can I help you with something?<k>
+### 156 [cf0/kam/kam02_00.sb]
+<p>My, it's been a while. Did you need something?<k>
+### 157 [cf0/kam/kam02_00.sb]
+<p>You sure about this? This thing's pretty dangerous, so be careful handling it.<k>
+### 158 [cf0/kam/kam02_00.sb]
+<p>The Dragon Balls are scattered all over the world.<k><p>You'll need to look hard if you want a chance at finding them.<k>
+### 159 [cf0/kam/kam02_00.sb]
+<p>Dragon Balls are very delicate things. Try not to break them, okay?<k>
+### 160 [cf0/kam/kam02_00.sb]
+<p>Hah! This submarine is my greatest invention yet! It can dive to the deepest depths!<k>
+### 161 [cf0/kam/kam02_00.sb]
+<p>Mmm? Wonder if they needed something?<k>
+### 162 [cf0/kam/kam02_00.sb]
+<p>There's no getting through the water without a submarine. Bulma's house is in West City, right?<k>
+### 163 [cf0/kam/kam02_00.sb]
+<p>The fate of Earth rests on your shoulders! Make us proud!<k>
+### 164 [cf0/kam/kam02_00.sb]
+<p>A toilet sits here. You're good for now, thankfully.<k>
+### 165 [cf0/kam/kam02_00.sb]
+<p>A large refrigerator filled with a variety of food.<k>
+### 166 [cf0/kam/kam02_00.sb]
+<p>There's a note on the corner:<n><d>Keep the kitchen clean --Turtle<d><k>
+### 167 [cf0/kam/kam03_00.sb]
+<p>Oh, are you going somewhere?<k>
+### 168 [cf0/kam/kam03_00.sb]
+<p>What?! What the heck you lookin' at me for, huh?!<k>
+### 169 [cf0/kam/kam03_00.sb]
+<p>Sleeping on this bed might be a tad dangerous...<k>
+### 170 [cf0/kam/kam03_00.sb]
+<p>Serious-looking books serve to hide the more prurient ones lurking in the shadows.<k>
+### 171 [cf0/kam/kam03_00.sb]
+<p>Just as you suspected, there's a stack of rather scandalous books under the desk.<k>
+### 172 [cf0/tut/tut01_00.sb]
+<p>Mmm? There's something nearby...<k>
+### 173 [cf0/tut/tut01_00.sb]
+<p>Agh! Whoa whoa whoa!<k>
+### 174 [cf0/tut/tut01_00.sb]
+<p>Whew! What a surprise. Good thing they weren't too tough.<k><p>Winning battles earns you Zeni (money) and experience.<k><p>You'll also get AP, or Ability Points.<k><p>Our levels go up when we earn enough experience points...<k><p>And we can learn new skills and polish our old ones with the AP we get.<k><p>Select Skills from the menu to use your AP. Give it a shot!<k><p>The more enemies you fight, the stronger you'll get! Keep it up, and we'll be as strong as Goku!<k>
+### 175 [cf0/tut/tut01_00.sb]
+<p>There's something else near...<k>
+### 176 [cf0/tut/tut01_00.sb]
+<p>Whoah! A ghost!<k>
+### 177 [cf0/tut/tut01_00.sb]
+<p>See that flashing rock? Go up to it, and you can use a Ki-Blast to destroy it.<k>
+### 178 [cf0/tut/tut01_00.sb]
+<p>Press the B Button when it's flashing to start building up your power.<k>
+### 179 [cf0/tut/tut01_00.sb]
+<p>When your power is full, the Ki meter will light up.<k>
+### 180 [cf0/tut/tut01_00.sb]
+<p>Release the B Button, and you'll launch a Ki blast!<k>
+### 181 [cf0/tut/tut01_00.sb]
+<p>Go ahead, give it a shot!<k>
+### 182 [cf0/tut/tut01_00.sb]
+<p>That felt good, huh? You can use Ki blasts to break the obstacles in your way.<k>
+### 183 [cf0/tut/tut01_00.sb]
+<p>Hold on! I haven't finished talking yet.<k>
+### 184 [cf0/tut/tut02_00.sb]
+<p>Hey, it's me! How're you guys doing? Hope you're hanging in there!<k><p>Listen, I think Mr. Popo wants to have a word with all of you.<k><p>Go pay him a visit when you can, okay? See you later!<k>
+### 185 [cf0/tut/tut02_00.sb]
+<p>Mr. Popo? Now what could he want?<k><p>Ah, well, guess I'll go drop in on him.<k>
+### 186 [cf0/tut/tut02_00.sb]
+All Dragon Balls collected!
+### 187 [cf0/tut/tut02_00.sb]
+<p>Hey, it's me! I forgot to give you my capsule, so I left it in there for you.<k><p>Use them in cities or dungeons, and you'll find useful items inside.<k>
+### 188 [cf0/tut/tut02_00.sb]
+<p>Now you got it! That gas is no problem now, huh?<k><p><d>Standby<d> refers to how effective the item is when not placed in the topmost slot.<k><p>For example, the <c=#8BEFD4>Gas Mask<c> only boosts your Poison resistance half as much when used on standby.<k><p>There are lots of other helpful items, so be sure to try 'em out whenever you find a new one.<k><p>See you later!<k>
+### 189 [cf0/tut/tut02_00.sb]
+<p>Wait, wait! Open up that treasure chest.<k>
+### 190 [cf0/tut/tut02_00.sb]
+<p>Hold it! Try equipping the <c=#8BEFD4>Gas Mask<c> and walking through the gas for a bit!<k><p>Select <d>Capsule<d> off the menu to equip your capsules!<k>
+### 191 [cf0/tut/tut02_00.sb]
+<p>See the gas cloud up ahead? Walking through that would normally hurt you...<k><p>But use a capsule on the bottom screen and select <c=#8BEFD4>Gas Mask<c>, and it'll be no problem.<k><p>Try walking in there a little and see for yourself.<k>
+### 192 [cf0/tut/tut02_00.sb]
+<p>No, that's not it! Equip the <c=#8BEFD4>Gas Mask<c> up top, in the red slot!<k>
+### 193 [cf0/tut/tut02_00.sb]
+<p>No, no, no! You gotta equip the <c=#8BEFD4>Gas Mask<c>, or else you'll be killed!<k><p>Select Capsule off the menu to equip items.<k>
+### 194 [cf1/c00/c0000_99.sb]
+Shenron
+### 195 [cf1/c00/c0000_99.sb]
+<p>I will grant you a single wish. What do you desire?<k>
+### 196 [cf1/c00/c0000_99.sb]
+Lots of experience points
+### 197 [cf1/c00/c0000_99.sb]
+Tons of AP
+### 198 [cf1/c00/c0000_99.sb]
+Make me filthy rich
+### 199 [cf1/c00/c0000_99.sb]
+A really awesome item
+### 200 [cf1/c00/c0000_99.sb]
+To go somewhere new
+### 201 [cf1/c00/c0000_99.sb]
+To fight the ultimate enemy
+### 202 [cf1/c00/c0000_99.sb]
+<p>Your wish is granted. Farewell.<k>
+### 203 [cf1/c00/c0000_99.sb]
+<p>Very well. Allow me to raise your experience.<k>
+### 204 [cf1/c00/c0000_99.sb]
+Obtained <c=#8BEFD4>experience<c>!
+### 205 [cf1/c00/c0000_99.sb]
+<p>Very well. I shall grant you the power to enhance your skills.<k>
+### 206 [cf1/c00/c0000_99.sb]
+Obtained <c=#8BEFD4>AP<c>!
+### 207 [cf1/c00/c0000_99.sb]
+<p>Very well. I shall grant you vast riches.<k>
+### 208 [cf1/c00/c0000_99.sb]
+Obtained <c=#8BEFD4>Zeni<c>!
+### 209 [cf1/c00/c0000_99.sb]
+<p>Very well. I shall grant you this.<k>
+### 210 [cf1/c00/c0000_99.sb]
+<p>At the location of the dragon-shaped rock, I have opened a portal to another dimension.<k><p>Cross it, and you will fight an enemy whose strength is beyond anything you have encountered.<k>
+### 211 [cf1/c00/c0001_00.sb]
+<p>Come on, everyone!<n>Master Roshi's waiting for you!<k><p>We're done packing the food and everything! Get down out of there and let's get moving!<k>
+### 212 [cf1/c00/c0001_00.sb]
+<p>...Zzz.<k>
+### 213 [cf1/c00/c0001_00.sb]
+Yamcha
+### 214 [cf1/c00/c0001_00.sb]
+<p>Snoorrrre...<k>
+### 215 [cf1/c00/c0001_00.sb]
+<p>Zzz... Goku... thanks for reviving me...<k><p>At the next World Martial Arts Tournament... I swear I'm gonna... zzz...<k>
+### 216 [cf1/c00/c0001_00.sb]
+<p>Krillin! Helloooo?<k>
+### 217 [cf1/c00/c0001_00.sb]
+<p>......<k>
+### 218 [cf1/c00/c0001_00.sb]
+<p>...!!!<n>Oh! Hey, Launch!<n>Good morning!<k>
+### 219 [cf1/c00/c0001_00.sb]
+<p>Ahh... ahhh... ahhhh-choooo!!<k>
+### 220 [cf1/c00/c0001_00.sb]
+<p>Brrr! Sure is a cold one today, huh?<k>
+### 221 [cf1/c00/c0001_00.sb]
+<p>Yeah... it certainly...<n>ahh... ahhhhh...<k>
+### 222 [cf1/c00/c0001_00.sb]
+<p>!!!<k>
+### 223 [cf1/c00/c0001_00.sb]
+<p>Ahh-chooo!!!!!<k>
+### 224 [cf1/c00/c0001_00.sb]
+<p>Listen up, you freaks! How much longer you gonna be sleeping, huh?!<k><p>You wanna keep the turtle hermit waitin' all day?! Get your lazy butts outta bed NOW!<k>
+### 225 [cf1/c00/c0001_00.sb]
+<p>Y-yeah... sure...<k>
+### 226 [cf1/c00/c0001_99.sb]
+<p>Long ago, deep in the mountains, thousands of miles away from any city...<k><p>It is here where our amazing, astounding, and altogether astonishing story begins.<k><p>After his ferocious battle against King Piccolo, Goku met with Kami...<k><p>Together, they successfully resurrected Shenron, the eternal dragon.<k><p>He revived all of his friends who had lost their lives against King Piccolo.<k><p>With that task done, Goku dedicated himself to training under Kami's watchful eye...<k>
+### 227 [cf1/c00/c0002_00.sb]
+<p>Ho ho ho!<n>Glad to see you all here!<k>
+### 228 [cf1/c00/c0002_00.sb]
+<p>...So what's the deal, anyway? What'd you wake us up so early for?<k>
+### 229 [cf1/c00/c0002_00.sb]
+<p>Well, I thought I'd give you your final exam before you graduated from my training!<k>
+### 230 [cf1/c00/c0002_00.sb]
+<p>The final exam?!<k>
+### 231 [cf1/c00/c0002_00.sb]
+<p>Yes... indeed.<k>
+### 232 [cf1/c00/c0002_00.sb]
+<p>You say that, Master, but we're still so inexperienced...<k><p>There's so much more for us to learn from you!<k>
+### 233 [cf1/c00/c0002_00.sb]
+<p>Oh, don't be silly...<k><p>All of you are far more powerful than me by now. That much is plain to see!<k>
+### 234 [cf1/c00/c0002_00.sb]
+<p>Thus, the training I am about to assign will likely be the last you undertake under my watch.<k>
+### 235 [cf1/c00/c0002_00.sb]
+<p>...So, what would you like us to do, Master?<k>
+### 236 [cf1/c00/c0002_00.sb]
+<p>South of here, you'll find a small island...<k>
+### 237 [cf1/c00/c0002_00.sb]
+<p>Oh! You mean the place where you had me and Goku make those milk deliveries?<k>
+### 238 [cf1/c00/c0002_00.sb]
+<p>Yep!<k><p>There's a cave on that island, and deep inside you should find a little crystal ball!<k><p>Your mission is to find that crystal ball and bring it back here!<k>
+### 239 [cf1/c00/c0002_00.sb]
+<p>Y-yes, Master!<k>
+### 240 [cf1/c00/c0002_00.sb]
+<p>...Of course, I'm not going to be cruel to you.<k><p>You'll find a few useful items in all of your inventories, free of charge!<k><p>Press the Start Button and pick an item type to use during battles!<k>
+### 241 [cf1/c00/c0002_01.sb]
+Jackie Chun
+### 242 [cf1/c00/c0002_01.sb]
+<p>Ho ho ho! There's three of you against me...<k><p>Go ahead, take me on all at once!<k>
+### 243 [cf1/c00/c0002_01.sb]
+<p>Hmm? What's the matter?<k><p>You can't beat me without using your special moves and the Active Guard!<k>
+### 244 [cf1/c00/c0002_01.sb]
+<p>Nnngh... not bad...<k>
+### 245 [cf1/c00/c0002_01.sb]
+<p>Whoa!<k><p>Hey! You guys need to be kinder to the elderly!<k>
+### 246 [cf1/c00/c0002_01.sb]
+<p>Hey, look! Isn't this the crystal ball Master Roshi was talking about?!<k>
+### 247 [cf1/c00/c0002_01.sb]
+<p>Who are you?<n>Who dares trespass in this sacred cave?<k>
+### 248 [cf1/c00/c0002_01.sb]
+<p>!!!<n>Who're YOU, huh?! Lemme see your face!<k>
+### 249 [cf1/c00/c0002_01.sb]
+<p>How dare you attempt to make off with the cave's treasure! Do you want to die?!<k>
+### 250 [cf1/c00/c0002_01.sb]
+<p>You! You're Jackie Chun!!<k>
+### 251 [cf1/c00/c0002_01.sb]
+<p>...?!<k>
+### 252 [cf1/c00/c0002_01.sb]
+<p>Ahhh... if it isn't the kids from the tournament! What're you doing here?!<k>
+### 253 [cf1/c00/c0002_01.sb]
+<p>We're here on orders from Master Roshi to bring back this crystal ball.<k>
+### 254 [cf1/c00/c0002_01.sb]
+<p>Well, well... That hermit, eh?<k><p>Then let me test you to see if you're worthy of the crystal ball!<k>
+### 255 [cf1/c00/c0002_02.sb]
+<p>Heh heh heh!<n>You are most certainly talented enough, yes!<k><p>What a joy it was to have a match with you!<k>
+### 256 [cf1/c00/c0002_02.sb]
+<p>Hey! Wait a sec!<k>
+### 257 [cf1/c00/c0002_02.sb]
+<p>Say... you don't think Jackie Chun might be...<k>
+### 258 [cf1/c00/c0003_00.sb]
+<p>(Owww... Man, they didn't go easy on me at all... They've really become strong...)<k>
+### 259 [cf1/c00/c0003_00.sb]
+<p>Master Roshi! We're back with the crystal ball!<k><p>...Huh? Hey, what happened to you?<k>
+### 260 [cf1/c00/c0003_00.sb]
+<p>Oh, this...? I just had a bit of an intense training session. You're, uh, back early!<k>
+### 261 [cf1/c00/c0003_00.sb]
+<p>Yes... this most certainly is the fortune teller's crystal ball I left on the island!<k>
+### 262 [cf1/c00/c0003_00.sb]
+<p>...fortune teller?<k>
+### 263 [cf1/c00/c0003_00.sb]
+<p>Yep! My sister Baba gave this to me way back when...<k><p>But once I decided to live here, I haven't had a single reason to use it!<k>
+### 264 [cf1/c00/c0003_00.sb]
+<p>What did you use it for, Master?<k>
+### 265 [cf1/c00/c0003_00.sb]
+<p>This? Well, when I'm at a loss and I'm not sure what to do next...<k><p>I peer into this crystal ball and find out! Pretty amazing, huh?<k>
+### 266 [cf1/c00/c0003_00.sb]
+<p>I figured it would come in handy as you continue your training...<k><p>So it's all yours now. Go ahead, take it.<k>
+### 267 [cf1/c00/c0004_00.sb]
+<p>I'll sure miss you guys, but if you're going to grow as martial artists...<k><p>You need to go out and see the world for yourselves!<k><p>Each of you will have to train on your own, reaching for ever greater heights!<k>
+### 268 [cf1/c00/c0004_00.sb]
+<p>Yes, Master! I promise I'll return!<k>
+### 269 [cf1/c00/c0004_00.sb]
+<p>I can't wait to see you all at the next World Martial Arts Tournament!<k>
+### 270 [cf1/c01/c0101_00.sb]
+<p>East City, huh...? Sure brings back memories... I think I'll go check out the Temple.<k>
+### 271 [cf1/c01/c0101_00.sb]
+<p>Wait a sec...<k>
+### 272 [cf1/c01/c0101_00.sb]
+<p>I guess we were kind of rough on my old training partners at the last tournament, huh?<k>
+### 273 [cf1/c01/c0101_00.sb]
+<p>Oh, well... I'm sure they've forgiven me by now! Let's see what they're up to!<k>
+### 274 [cf1/c01/c0102_00.sb]
+<p>!<k>
+### 275 [cf1/c01/c0102_00.sb]
+<p>Master!<n>What on earth happened here?!<k>
+### 276 [cf1/c01/c0102_00.sb]
+Master
+### 277 [cf1/c01/c0102_00.sb]
+<p>Errr... ghhh...<n>Who are you...?<k>
+### 278 [cf1/c01/c0102_00.sb]
+<p>It's me, Master! Krillin!<k>
+### 279 [cf1/c01/c0102_00.sb]
+<p>Oh... ohhhh! Weren't you training under Master Roshi?<k>
+### 280 [cf1/c01/c0102_00.sb]
+<p>Y-yes, Master! Now I'm on a journey to test the skills I've learned.<k><p>I stopped by to say hello for the first time in a while...<k><p>But what happened, Master?<k>
+### 281 [cf1/c01/c0102_00.sb]
+<p>K-koff...<k><p>A warrior appeared out of nowhere...<k><p>I heard a voice say <d>I'm taking your dojo down!<d>, and the next thing I knew, this happened!<k>
+### 282 [cf1/c01/c0102_00.sb]
+<p>...T-take your dojo down?!<k>
+### 283 [cf1/c01/c0102_00.sb]
+<p>Y-yes... As you know, our temple has a distaste for needless battle...<k><p>Your fellow students refused to fight him without any good reason, at first...<k><p>But look at what's happened to us!<k>
+### 284 [cf1/c01/c0102_00.sb]
+<p>Oof!<n>This is terrible...<k>
+### 285 [cf1/c01/c0102_00.sb]
+<p>Master! Where did the fighter run off to?<k>
+### 286 [cf1/c01/c0102_00.sb]
+<p>...Krillin, have you gone mad?!<k><p>Y-you aren't actually thinking about pursuing the fighter, are you?<k>
+### 287 [cf1/c01/c0102_00.sb]
+<p>I sure am! I'm gonna track 'em down and get your revenge, Master!<k>
+### 288 [cf1/c01/c0102_00.sb]
+<p>S-stop saying that! You see what happened to my students...<k><p>If you faced that fiend all by yourself... Koff koff koff!<k>
+### 289 [cf1/c01/c0102_00.sb]
+<p>I'm not the fighter I used to be, Master!<k>
+### 290 [cf1/c01/c0102_00.sb]
+<p>No...? Well, if you insist upon it, I'm not going to stop you.<k><p>The scoundrel disappeared into the bamboo thicket up ahead...<k>
+### 291 [cf1/c01/c0102_00.sb]
+<p>...But please be careful! Don't let the fighter's appearance fool you...<k><p>Nothing is as it seems...<k>
+### 292 [cf1/c01/c0102_00.sb]
+<p>Master... you have nothing to worry about.<k><p>By the honor of Orin Temple, I swear I will defeat this attacker!<k>
+### 293 [cf1/c01/c0102_01.sb]
+<p>W-wait!<k>
+### 294 [cf1/c01/c0102_01.sb]
+Paopao
+### 295 [cf1/c01/c0102_01.sb]
+<p>Nnnngh! You not know when to quit! I hate people who not know when to quit!<k>
+### 296 [cf1/c01/c0102_01.sb]
+<p>A, a woman?!<k>
+### 297 [cf1/c01/c0102_01.sb]
+<p>Eeeee! What is so wrong about being a woman?<k>
+### 298 [cf1/c01/c0102_01.sb]
+<p>Did you really attack Orin Temple?!<k>
+### 299 [cf1/c01/c0102_01.sb]
+<p>Maybe I did, maybe I didn't! What you do if I did, huh?<k>
+### 300 [cf1/c01/c0102_01.sb]
+<p>...Well, what do you think?! I'll uphold the honor of Orin...<k><p>And defeat you where you stand!<k>
+### 301 [cf1/c01/c0102_01.sb]
+<p>I bet you would!<k><p>If people find out I destroyed Orin, you never live down the shame...<k><p>You fighters are not good as you say you are...<k>
+### 302 [cf1/c01/c0102_01.sb]
+<p>Why, you...!<k>
+### 303 [cf1/c01/c0102_01.sb]
+<p>Hee hee! So you want to hit woman, huh?<k>
+### 304 [cf1/c01/c0102_01.sb]
+<p>I... ugh...<n>I guess I shouldn't...<k>
+### 305 [cf1/c01/c0102_01.sb]
+<p>Ha ha! Gotcha! You Orin people so easy to manipulate!<k><p>Here I come!<n>Ai-yahh!!<k>
+### 306 [cf1/c01/c0103_00.sb]
+<p>...What's wrong?<n>Done already?<k>
+### 307 [cf1/c01/c0103_00.sb]
+<p>I... I sorry! I surrender...<k>
+### 308 [cf1/c01/c0103_00.sb]
+<p>All right... get up.<k>
+### 309 [cf1/c01/c0103_00.sb]
+<p>...You a kind man. You going easy on me, too...<k>
+### 310 [cf1/c01/c0103_00.sb]
+<p>Why you do that?<k>
+### 311 [cf1/c01/c0103_00.sb]
+<p>I couldn't go all-out on a woman... But why did you attack our dojo in the first place?<k>
+### 312 [cf1/c01/c0103_00.sb]
+<p>............<k>
+### 313 [cf1/c01/c0103_00.sb]
+<p>Well, if you don't wanna say why, you don't have to, but...<k>
+### 314 [cf1/c01/c0103_00.sb]
+<p>...I want people to recognize me.<k>
+### 315 [cf1/c01/c0103_00.sb]
+<p>?!<k>
+### 316 [cf1/c01/c0103_00.sb]
+<p>I have sister...<k><p>She beautiful, and a talented fighter too. She not have my accent, either.<k>
+### 317 [cf1/c01/c0103_00.sb]
+<p>Ever since I young, people always compare me to her... I hate it.<k><p>My father only care about her... She so much better than me.<k><p>So I run away from home, because I show her one day.<k><p>I thought my dad would recognize me if I polish my skills and beat my sister's strength.<k><p>But no good... There so many people out there stronger than me.<k>
+### 318 [cf1/c01/c0103_00.sb]
+<p>Oh...<k>
+### 319 [cf1/c01/c0103_00.sb]
+<p>You so strong, you probably not understand how I feel...<k>
+### 320 [cf1/c01/c0103_00.sb]
+<p>Oh, no, I totally do.<k><p>My fellow students always used to pick on me for being a wimp, so...<k><p>I wound up leaving Orin Temple because I couldn't stand it anymore.<k>
+### 321 [cf1/c01/c0103_00.sb]
+<p>...Really?<k>
+### 322 [cf1/c01/c0103_00.sb]
+<p>Uh-huh. I poured that shame into my training, and that's what made me grow!<k><p>Of course, I've still got a while to go, but...<k>
+### 323 [cf1/c01/c0103_00.sb]
+<p>So I think I understand where you're coming from, okay?<k><p>You could've picked a better method to prove yourself with, though...<k>
+### 324 [cf1/c01/c0103_00.sb]
+<p>Anyway, let's get out of this forest! You're gonna keep training, right?<k>
+### 325 [cf1/c01/c0103_00.sb]
+<p>...You forgive me?<k>
+### 326 [cf1/c01/c0103_00.sb]
+<p>Once you get stronger, let's have a rematch!<k>
+### 327 [cf1/c01/c0103_00.sb]
+<p>......Okay, boy!<k><p>I gonna get you back for this next time!<k>
+### 328 [cf1/c01/c0103_00.sb]
+<p>...I gonna get stronger than ever!<k>
+### 329 [cf1/c01/c0103_00.sb]
+<p>Heh heh... I guess I better get home myself.<k>
+### 330 [cf1/c01/c0103_01.sb]
+<p>Master!<k>
+### 331 [cf1/c01/c0103_01.sb]
+<p>Oh! Krillin...!<k>
+### 332 [cf1/c01/c0103_01.sb]
+<p>I got this back for you!<k>
+### 333 [cf1/c01/c0103_01.sb]
+<p>Orin Temple's sign! Y-you couldn't have...<k>
+### 334 [cf1/c01/c0103_01.sb]
+<p>Heh heh heh...<k>
+### 335 [cf1/c01/c0103_01.sb]
+<p>So you really did it...<k><p>You used to be such a wimp, but look how you've grown...<k><p>Master Roshi's training has been a tremendous experience for you, no doubt...<k>
+### 336 [cf1/c01/c0103_01.sb]
+<p>I guess Orin Temple wasn't good enough to take advantage of your talents...<k>
+### 337 [cf1/c01/c0103_01.sb]
+<p>Oh, no! Not at all, Master!<k><p>I couldn't have handled Master Roshi's training without the time I spent here in Orin!<k>
+### 338 [cf1/c01/c0103_01.sb]
+<p>...Ho ho ho! Ah, what a splendid fighter you've become.<k>
+### 339 [cf1/c01/c0103_01.sb]
+<p>Well, I should probably get going... It was wonderful to see you again, Master.<k>
+### 340 [cf1/c01/c0103_01.sb]
+<p>...Now, now, there's no need to be in such a hurry!<k><p>You haven't visited Orin in ages! Why not stay the night? I'm sure you have all kinds of stories.<k>
+### 341 [cf1/c01/c0103_01.sb]
+<p>Y-yes... well...<k>
+### 342 [cf1/c01/c0103_01.sb]
+<p>Worried about your old bullies, aren't you?<k>
+### 343 [cf1/c01/c0103_01.sb]
+<p>N-no, but...<k>
+### 344 [cf1/c01/c0103_01.sb]
+<p>Well, it's settled then!<k>
+### 345 [cf1/c01/c0103_01.sb]
+Pupil A
+### 346 [cf1/c01/c0103_01.sb]
+<p>You're leaving already?!<k>
+### 347 [cf1/c01/c0103_01.sb]
+Pupil B
+### 348 [cf1/c01/c0103_01.sb]
+<p>Man, I could hardly recognize you!<k>
+### 349 [cf1/c01/c0103_01.sb]
+Pupil C
+### 350 [cf1/c01/c0103_01.sb]
+<p>Hey, teach me some Turtle skills next time you come back!<k>
+### 351 [cf1/c01/c0103_01.sb]
+Pupil D
+### 352 [cf1/c01/c0103_01.sb]
+<p>Just you wait! I'm gonna be way stronger than you next time we meet!<k>
+### 353 [cf1/c01/c0103_01.sb]
+<p>...Are you really leaving?<k>
+### 354 [cf1/c01/c0103_01.sb]
+<p>Yes, Master...<k><p>There are countless people out there stronger than myself.<k><p>If I can challenge them to battle, I'm sure it will help me grow as a fighter.<k>
+### 355 [cf1/c01/c0103_01.sb]
+<p>I will miss you...<k>
+### 356 [cf1/c01/c0103_01.sb]
+<p>Master!<k><p>Once I'm stronger, I promise I'll come back to visit!<k><p>See you then, all right?<k>
+### 357 [cf1/c01/c0103_01.sb]
+<p>(Just you wait, Goku!)<k><p>(I'm gonna grow, and grow... and someday, I just know I'm gonna beat you!)<k>

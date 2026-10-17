@@ -1,0 +1,904 @@
+[
+  {
+    "linha": 74,
+    "original": "Winged Dragon",
+    "atual": "Robô Alado RR",
+    "sprite": "ene004_01",
+    "paleta": 0,
+    "mapas": [
+      "c0807_01",
+      "c0808_00",
+      "c1007_01",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00",
+      "snd01_00",
+      "snd02_00",
+      "snd03_00",
+      "snd04_00",
+      "snd05_00"
+    ]
+  },
+  {
+    "linha": 75,
+    "original": "Violent Dragon",
+    "atual": "Robô de Assalto RR",
+    "sprite": "ene004_01",
+    "paleta": 1,
+    "mapas": [
+      "c0807_01",
+      "c0808_00",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00"
+    ]
+  },
+  {
+    "linha": 76,
+    "original": "Snow Dragon",
+    "atual": "Robô Ártico RR",
+    "sprite": "ene004_01",
+    "paleta": 2,
+    "mapas": [
+      "c0804_02",
+      "enm01_00",
+      "gyu01_00",
+      "gyu02_00",
+      "hii01_00",
+      "hii02_00",
+      "hii03_00",
+      "hii04_00"
+    ]
+  },
+  {
+    "linha": 80,
+    "original": "Giant Snake",
+    "atual": "Serva da Princesa",
+    "sprite": "ene022_01",
+    "paleta": 0,
+    "mapas": [
+      "c0002_01",
+      "c0807_01",
+      "c0808_00",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00",
+      "tut01_00",
+      "tut02_00"
+    ]
+  },
+  {
+    "linha": 81,
+    "original": "Mansion Snake",
+    "atual": "Guarda da Mansão",
+    "sprite": "ene022_01",
+    "paleta": 2,
+    "mapas": [
+      "c0905_02",
+      "c0905_04",
+      "sna01_00",
+      "sna02_00",
+      "sna03_00",
+      "sna04_00",
+      "sna05_00",
+      "sna06_00",
+      "sna07_00",
+      "sna08_00"
+    ]
+  },
+  {
+    "linha": 82,
+    "original": "Poisonous Snake",
+    "atual": "Serva Venenosa",
+    "sprite": "ene022_01",
+    "paleta": 2,
+    "mapas": [
+      "c1009_01",
+      "c1010_00",
+      "pir02_00",
+      "pir03_00",
+      "pir04_00",
+      "pir05_00",
+      "pir06_00",
+      "pir08_00",
+      "pir09_00"
+    ]
+  },
+  {
+    "linha": 95,
+    "original": "Ostrich Chicken",
+    "atual": "Batedor Saiyajin",
+    "sprite": "ene200_01",
+    "paleta": 0,
+    "mapas": [
+      "c0602_00",
+      "c0607_00",
+      "c0807_01",
+      "c0808_00",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00",
+      "spi01_00",
+      "spi02_00",
+      "spi03_00",
+      "spi04_00",
+      "spi06_00",
+      "spi07_00"
+    ]
+  },
+  {
+    "linha": 96,
+    "original": "Sand Dodo",
+    "atual": "Batedor do Deserto",
+    "sprite": "ene200_01",
+    "paleta": 1,
+    "mapas": [
+      "c0807_01",
+      "c0808_00",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00"
+    ]
+  },
+  {
+    "linha": 97,
+    "original": "Dododo",
+    "atual": "Elite Saiyajin",
+    "sprite": "ene200_01",
+    "paleta": 5,
+    "mapas": [
+      "c0602_00",
+      "c0607_00",
+      "c0807_01",
+      "c0808_00",
+      "c1402_02",
+      "c1402_98",
+      "c1402_99",
+      "c1403_00",
+      "c1403_01",
+      "c1403_98",
+      "c1403_99",
+      "c1404_00",
+      "c1404_03",
+      "c1406_01",
+      "c1407_00",
+      "c1408_03",
+      "c1409_00",
+      "c1410_04",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00",
+      "nap01_00",
+      "nap02_00",
+      "nap03_00",
+      "pao05_00",
+      "pao06_00",
+      "pao07_00",
+      "pao08_00",
+      "spi01_00",
+      "spi02_00",
+      "spi03_00",
+      "spi04_00",
+      "spi06_00",
+      "spi07_00"
+    ]
+  },
+  {
+    "linha": 98,
+    "original": "Firebird",
+    "atual": "Aviador Red Ribbon",
+    "sprite": "ene003_01",
+    "paleta": 0,
+    "mapas": [
+      "c0202_00",
+      "c1410_04",
+      "pao01_00",
+      "pao02_00",
+      "pao03_00",
+      "pao05_00",
+      "pao06_00",
+      "pao07_00",
+      "pao08_00"
+    ]
+  },
+  {
+    "linha": 99,
+    "original": "Blue Hawk",
+    "atual": "Aviador Azul RR",
+    "sprite": "ene003_01",
+    "paleta": 1,
+    "mapas": [
+      "c0806_01",
+      "sen01_00",
+      "sen02_00",
+      "sen03_00",
+      "sen04_00"
+    ]
+  },
+  {
+    "linha": 100,
+    "original": "Dark Condor",
+    "atual": "Aviador Sombrio RR",
+    "sprite": "ene003_01",
+    "paleta": 2,
+    "mapas": [
+      "c1402_02",
+      "c1402_98",
+      "c1402_99",
+      "c1403_00",
+      "c1403_01",
+      "c1403_98",
+      "c1403_99",
+      "c1404_00",
+      "c1404_03",
+      "c1406_01",
+      "c1407_00",
+      "c1408_03",
+      "c1409_00",
+      "c1501_02",
+      "c1502_02",
+      "c1503_02",
+      "c1504_00",
+      "c1504_01",
+      "las02_00",
+      "las03_00",
+      "nap01_00",
+      "nap02_00",
+      "nap03_00"
+    ]
+  },
+  {
+    "linha": 101,
+    "original": "Tiger",
+    "atual": "Soldado Saiyajin",
+    "sprite": "ene200_01",
+    "paleta": 8,
+    "mapas": [
+      "bam01_00",
+      "c0102_01"
+    ]
+  },
+  {
+    "linha": 102,
+    "original": "Snow Tiger",
+    "atual": "Soldado Glacial",
+    "sprite": "ene200_01",
+    "paleta": 7,
+    "mapas": [
+      "c0506_02",
+      "fur02_00",
+      "fur03_00",
+      "fur04_00"
+    ]
+  },
+  {
+    "linha": 103,
+    "original": "Dimensional Tiger",
+    "atual": "Soldado Dimensional",
+    "sprite": "ene200_01",
+    "paleta": 6,
+    "mapas": [
+      "c0908_00",
+      "c1302_00",
+      "for01_00",
+      "for02_00",
+      "for03_00",
+      "for04_00",
+      "for05_00"
+    ]
+  },
+  {
+    "linha": 104,
+    "original": "Wolf",
+    "atual": "Saibaman",
+    "sprite": "ene001_01",
+    "paleta": 0,
+    "mapas": [
+      "c0202_00",
+      "c0807_01",
+      "c0808_00",
+      "c1410_04",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00",
+      "pao01_00",
+      "pao02_00",
+      "pao03_00",
+      "pao05_00",
+      "pao06_00",
+      "pao07_00",
+      "pao08_00"
+    ]
+  },
+  {
+    "linha": 105,
+    "original": "White Wolf",
+    "atual": "Saibaman Glacial",
+    "sprite": "ene001_01",
+    "paleta": 1,
+    "mapas": [
+      "c0506_02",
+      "c0804_02",
+      "enm01_00",
+      "fur02_00",
+      "fur03_00",
+      "fur04_00",
+      "gyu01_00",
+      "gyu02_00",
+      "hii01_00",
+      "hii02_00",
+      "hii03_00",
+      "hii04_00"
+    ]
+  },
+  {
+    "linha": 106,
+    "original": "Red Wolf",
+    "atual": "Saibaman Rubro",
+    "sprite": "ene001_01",
+    "paleta": 10,
+    "mapas": [
+      "c1402_02",
+      "c1402_98",
+      "c1402_99",
+      "c1403_00",
+      "c1403_01",
+      "c1403_98",
+      "c1403_99",
+      "c1404_00",
+      "c1404_03",
+      "c1406_01",
+      "c1407_00",
+      "c1408_03",
+      "c1409_00",
+      "c1410_04",
+      "nap01_00",
+      "nap02_00",
+      "nap03_00",
+      "pao05_00",
+      "pao06_00",
+      "pao07_00",
+      "pao08_00"
+    ]
+  },
+  {
+    "linha": 107,
+    "original": "Stray Dog",
+    "atual": "Desertor Red Ribbon",
+    "sprite": "ene005_01",
+    "paleta": 0,
+    "mapas": [
+      "c0602_00",
+      "c0607_00",
+      "c0807_01",
+      "c0808_00",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00",
+      "spi01_00",
+      "spi02_00",
+      "spi03_00",
+      "spi04_00",
+      "spi06_00",
+      "spi07_00"
+    ]
+  },
+  {
+    "linha": 108,
+    "original": "Red Ribbon Spy Dog",
+    "atual": "Espião Red Ribbon",
+    "sprite": "ene005_01",
+    "paleta": 0,
+    "mapas": [
+      "c1002_03",
+      "c1005_00",
+      "c1005_02",
+      "mas02_00",
+      "mas03_00",
+      "mas04_00",
+      "mas05_00",
+      "mas06_00",
+      "mas07_00",
+      "mas08_00",
+      "yun01_00",
+      "yun01_01",
+      "yun01_02",
+      "yun03_00",
+      "yun04_00",
+      "yun05_00"
+    ]
+  },
+  {
+    "linha": 109,
+    "original": "Super Watchdog",
+    "atual": "Sentinela Red Ribbon",
+    "sprite": "ene005_01",
+    "paleta": 2,
+    "mapas": [
+      "c1009_01",
+      "c1010_00",
+      "pir02_00",
+      "pir03_00",
+      "pir04_00",
+      "pir05_00",
+      "pir06_00",
+      "pir08_00",
+      "pir09_00"
+    ]
+  },
+  {
+    "linha": 110,
+    "original": "Wild Boar",
+    "atual": "Brutamontes Saiyajin",
+    "sprite": "ene200_01",
+    "paleta": 4,
+    "mapas": [
+      "c0602_00",
+      "c0607_00",
+      "c0807_01",
+      "c0808_00",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00",
+      "spi01_00",
+      "spi02_00",
+      "spi03_00",
+      "spi04_00",
+      "spi06_00",
+      "spi07_00"
+    ]
+  },
+  {
+    "linha": 111,
+    "original": "Champion Boar",
+    "atual": "Brutamontes Campeão",
+    "sprite": "ene200_01",
+    "paleta": 2,
+    "mapas": [
+      "c1204_00",
+      "mut01_00",
+      "mut02_00",
+      "mut03_00",
+      "mut04_00",
+      "mut05_00",
+      "mut06_00",
+      "mut07_00"
+    ]
+  },
+  {
+    "linha": 112,
+    "original": "Snow Boar",
+    "atual": "Brutamontes Glacial",
+    "sprite": "ene200_01",
+    "paleta": 3,
+    "mapas": [
+      "c1002_03",
+      "yun01_00",
+      "yun01_01",
+      "yun01_02",
+      "yun03_00",
+      "yun04_00",
+      "yun05_00"
+    ]
+  },
+  {
+    "linha": 113,
+    "original": "Hungry Bear",
+    "atual": "Saibaman Faminto",
+    "sprite": "ene001_01",
+    "paleta": 0,
+    "mapas": [
+      "c0602_00",
+      "c0607_00",
+      "spi01_00",
+      "spi02_00",
+      "spi03_00",
+      "spi04_00",
+      "spi06_00",
+      "spi07_00"
+    ]
+  },
+  {
+    "linha": 114,
+    "original": "Snow Bear",
+    "atual": "Saibaman das Neves",
+    "sprite": "ene001_01",
+    "paleta": 7,
+    "mapas": [
+      "c0506_02",
+      "fur02_00",
+      "fur03_00",
+      "fur04_00"
+    ]
+  },
+  {
+    "linha": 115,
+    "original": "Strong Bear",
+    "atual": "Saibaman Feroz",
+    "sprite": "ene001_01",
+    "paleta": 3,
+    "mapas": [
+      "c1204_00",
+      "c1410_04",
+      "mut01_00",
+      "mut02_00",
+      "mut03_00",
+      "mut04_00",
+      "mut05_00",
+      "mut06_00",
+      "mut07_00",
+      "pao05_00",
+      "pao06_00",
+      "pao07_00",
+      "pao08_00"
+    ]
+  },
+  {
+    "linha": 116,
+    "original": "Dangerous Panda",
+    "atual": "Saibaman do Bambu",
+    "sprite": "ene001_01",
+    "paleta": 0,
+    "mapas": [
+      "bam01_00",
+      "c0102_01"
+    ]
+  },
+  {
+    "linha": 117,
+    "original": "Snow Panda",
+    "atual": "Saibaman da Nevasca",
+    "sprite": "ene001_01",
+    "paleta": 7,
+    "mapas": [
+      "c0804_02",
+      "enm01_00",
+      "gyu01_00",
+      "gyu02_00",
+      "hii01_00",
+      "hii02_00",
+      "hii03_00",
+      "hii04_00"
+    ]
+  },
+  {
+    "linha": 118,
+    "original": "Ultimate Pandaman",
+    "atual": "Saibaman Supremo",
+    "sprite": "ene001_01",
+    "paleta": 3,
+    "mapas": [
+      "c1009_01",
+      "c1010_00",
+      "pir02_00",
+      "pir03_00",
+      "pir04_00",
+      "pir05_00",
+      "pir06_00",
+      "pir08_00",
+      "pir09_00"
+    ]
+  },
+  {
+    "linha": 119,
+    "original": "Giant Fish",
+    "atual": "Robô Pirata",
+    "sprite": "ene002_01",
+    "paleta": 0,
+    "mapas": [
+      "c0806_01",
+      "sen01_00",
+      "sen02_00",
+      "sen03_00",
+      "sen04_00"
+    ]
+  },
+  {
+    "linha": 120,
+    "original": "Wild Fish",
+    "atual": "Robô Pirata Selvagem",
+    "sprite": "ene002_01",
+    "paleta": 0,
+    "mapas": [
+      "c1006_02",
+      "kai01_00",
+      "kai02_00",
+      "kai03_00",
+      "kai04_00",
+      "kai05_00"
+    ]
+  },
+  {
+    "linha": 121,
+    "original": "Sand Fish",
+    "atual": "Robô Pirata das Areias",
+    "sprite": "ene002_01",
+    "paleta": 2,
+    "mapas": [
+      "c1007_01",
+      "snd01_00",
+      "snd02_00",
+      "snd03_00",
+      "snd04_00",
+      "snd05_00"
+    ]
+  },
+  {
+    "linha": 131,
+    "original": "Giant Bat",
+    "atual": "Vampiro",
+    "sprite": "ene045_01",
+    "paleta": 0,
+    "mapas": [
+      "c0302_01",
+      "c0302_02",
+      "c0502_03",
+      "gog01_00",
+      "gog02_00",
+      "gog03_00",
+      "gog04_00",
+      "gog07_00",
+      "gog08_00",
+      "krd01_00",
+      "krd02_00",
+      "krd03_00"
+    ]
+  },
+  {
+    "linha": 132,
+    "original": "Vampire Bat",
+    "atual": "Vampiro Sanguinário",
+    "sprite": "ene045_01",
+    "paleta": 1,
+    "mapas": [
+      "c0806_01",
+      "c1410_04",
+      "pao05_00",
+      "pao06_00",
+      "pao07_00",
+      "pao08_00",
+      "sen01_00",
+      "sen02_00",
+      "sen03_00",
+      "sen04_00"
+    ]
+  },
+  {
+    "linha": 133,
+    "original": "King Bat",
+    "atual": "Rei Vampiro",
+    "sprite": "ene045_01",
+    "paleta": 2,
+    "mapas": [
+      "ben02_00",
+      "ben03_00",
+      "ben04_00",
+      "ben05_00",
+      "ben06_00",
+      "ben07_00",
+      "ben08_00",
+      "ben09_00",
+      "ben10_00",
+      "c1003_01",
+      "c1003_03",
+      "c1003_11",
+      "c1003_13",
+      "c1009_01",
+      "c1010_00",
+      "pir02_00",
+      "pir03_00",
+      "pir04_00",
+      "pir05_00",
+      "pir06_00",
+      "pir08_00",
+      "pir09_00"
+    ]
+  },
+  {
+    "linha": 134,
+    "original": "Big Crab",
+    "atual": "Capanga",
+    "sprite": "ene016_01",
+    "paleta": 0,
+    "mapas": [
+      "c1006_02",
+      "kai01_00",
+      "kai02_00",
+      "kai03_00",
+      "kai04_00",
+      "kai05_00"
+    ]
+  },
+  {
+    "linha": 135,
+    "original": "Giant Crab",
+    "atual": "Capanga Gigante",
+    "sprite": "ene016_01",
+    "paleta": 1,
+    "mapas": [
+      "c0806_01",
+      "sen01_00",
+      "sen02_00",
+      "sen03_00",
+      "sen04_00"
+    ]
+  },
+  {
+    "linha": 136,
+    "original": "Dark Crab",
+    "atual": "Capanga Sombrio",
+    "sprite": "ene016_01",
+    "paleta": 2,
+    "mapas": [
+      "ges01_00",
+      "ges02_00"
+    ]
+  },
+  {
+    "linha": 149,
+    "original": "Tumble Bug",
+    "atual": "Recruta Red Ribbon",
+    "sprite": "ene006_01",
+    "paleta": 0,
+    "mapas": [
+      "c0807_01",
+      "c0808_00",
+      "kou01_00",
+      "kou02_00",
+      "kou03_00",
+      "kou04_00",
+      "kou05_00",
+      "kou06_00",
+      "kou08_00",
+      "kou09_00"
+    ]
+  },
+  {
+    "linha": 150,
+    "original": "Fire Caterpillar",
+    "atual": "Recruta Incendiário",
+    "sprite": "ene006_01",
+    "paleta": 1,
+    "mapas": [
+      "c0505_00",
+      "kiu02_00",
+      "kiu03_00",
+      "kiu04_00"
+    ]
+  },
+  {
+    "linha": 151,
+    "original": "Caterpillar",
+    "atual": "Recruta Veterano",
+    "sprite": "ene006_01",
+    "paleta": 2,
+    "mapas": [
+      "c0908_00",
+      "c1302_00",
+      "for01_00",
+      "for02_00",
+      "for03_00",
+      "for04_00",
+      "for05_00"
+    ]
+  },
+  {
+    "linha": 155,
+    "original": "Roundworm",
+    "atual": "Saibaman Escavador",
+    "sprite": "ene001_01",
+    "paleta": 5,
+    "mapas": [
+      "c0602_00",
+      "c0607_00",
+      "dbg02_00",
+      "spi01_00",
+      "spi02_00",
+      "spi03_00",
+      "spi04_00",
+      "spi06_00",
+      "spi07_00"
+    ]
+  },
+  {
+    "linha": 156,
+    "original": "Dark Firefly",
+    "atual": "Saibaman Noturno",
+    "sprite": "ene001_01",
+    "paleta": 8,
+    "mapas": [
+      "c1204_00",
+      "mut01_00",
+      "mut02_00",
+      "mut03_00",
+      "mut04_00",
+      "mut05_00",
+      "mut06_00",
+      "mut07_00"
+    ]
+  },
+  {
+    "linha": 157,
+    "original": "Poison Sandbug",
+    "atual": "Saibaman Venenoso",
+    "sprite": "ene001_01",
+    "paleta": 11,
+    "mapas": [
+      "c1007_01",
+      "snd01_00",
+      "snd02_00",
+      "snd03_00",
+      "snd04_00",
+      "snd05_00"
+    ]
+  },
+  {
+    "linha": 161,
+    "original": "Roundworm Larva",
+    "atual": "Broto Escavador",
+    "sprite": "ene001_01",
+    "paleta": 6,
+    "mapas": []
+  },
+  {
+    "linha": 162,
+    "original": "Firefly Larva",
+    "atual": "Broto Noturno",
+    "sprite": "ene001_01",
+    "paleta": 9,
+    "mapas": []
+  },
+  {
+    "linha": 163,
+    "original": "Sandbug Larva",
+    "atual": "Broto Venenoso",
+    "sprite": "ene001_01",
+    "paleta": 12,
+    "mapas": []
+  }
+]

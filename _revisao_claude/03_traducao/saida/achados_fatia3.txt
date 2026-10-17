@@ -1,0 +1,28 @@
+ACHADOS - FATIA 3 (entradas 1498 a 2194)
+Formato: nº | arquivo:índice | trecho atual | sugestão | nível | motivo
+
+1512 | cf1/c05/c0503_02.sb:27 | ...Ah! O velho da Tartaruga? | ...Ah! Aquele velhinho da tartaruga? (ou "O Mestre Kame?") | BAIXO | "o velho da Tartaruga" soa estranho; em 1515 o mesmo "Turtle Hermit" virou "Mestre Kame"
+1522 | cf1/c05/c0504_00.sb:22 | Dou conta da busca fácil! | Dou conta da busca fácil, fácil! / Dou conta dessa busca, moleza! | BAIXO | sem a vírgula, lê-se "busca fácil" (adjetivo), não "com facilidade"
+1541 | cf1/c05/c0505_00.sb:30 | estou pasma que vocês acharam mesmo um ovo | estou pasma de vocês terem achado mesmo um ovo | MÉDIO | regência/modo: "pasma que" + indicativo; pede "de" + infinitivo ou subjuntivo
+1547 | cf1/c05/c0505_00.sb:36 | extorsão, batedor de carteira, calote no restaurante | extorsão, furto de carteira, calote no restaurante | BAIXO | lista de crimes; "batedor de carteira" é a pessoa, não o crime
+1576 | cf1/c05/c0506_00.sb:22 | Três deles, você diz...? | Três, é...? / Três, a senhora disse...? | BAIXO | decalque de "Three of 'em, you say"
+1577 | cf1/c05/c0506_00.sb:23 | Ei, que tal assim, senhora?<k><p>Se a gente recuperar o seu mel, você se importa de dar um pouquinho | ...a senhora se importa de dar um pouquinho | MÉDIO | tratamento misturado na mesma fala (senhora / você)
+1626 | cf1/c05/c0508_01.sb:9 | Obrigado por virem celebrar o meu casamento! | (se for Chichi) Obrigada por virem celebrar o meu casamento! / (se for o Cutelo) Obrigado por virem celebrar o casamento da minha filha! | MÉDIO | conferir quem fala: se for a Chichi, o gênero está errado; se for o Cutelo, "meu casamento" está errado (erro herdado do EN)
+1726 | cf1/c06/c0604_00.sb:62 | vocês Saiyajins são o que há de pior!! | vocês, Saiyajins, são o que há de pior!! | BAIXO | faltam as vírgulas do aposto (no resto da fatia aparece "Nós, Saiyajins,")
+1772 | cf1/c06/c0605_00.sb:37 | para vencê-lo e aqueles dois amigos dele... | para vencer ele e aqueles dois amigos dele... / para vencê-lo, e também os dois amigos dele... | MÉDIO | coordenação quebrada: pronome oblíquo "-lo" coordenado com um sintagma nominal
+1829 | cf1/c06/c0607_00.sb:38 | Se pegarmos este sujeito, a próxima vez vai ser a sua. | Se pegarmos este sujeito, o próximo vai ser você. | BAIXO | "a próxima vez vai ser a sua" soa truncado; o EN diz "it'll be your turn next"
+1858 | cf1/c06/c0607_00.sb:79 | Vocês estão muito, muito além das suas forças! | Isso está muito, muito além das suas forças! | MÉDIO | sentido torto: quem está "além das forças" é a tarefa, não as pessoas (EN: "in way over your heads")
+1882 | cf1/c06/c0608_00.sb:41 | Você não é nada como eu... | Você não é nada parecido comigo... | BAIXO | decalque de "You're nothing like I am"
+1915 | cf1/c06/c0608_01.sb:50 | Pronto, está tudo pronto... Preparado? | Certo, está tudo pronto... Preparado? | BAIXO | repetição "Pronto... pronto"
+2034 | cf1/c07/c0704_01.sb:15 | O Rei Demônio do passado | O Daimaoh do passado / O Piccolo Daimaoh do passado | BAIXO | glossário usa "Piccolo Daimaoh"; conferir se "Rei Demônio" aparece em outras partes do jogo
+2058 | cf1/c07/c0705_03.sb:18 | Deixe de ser idiota, Kakarotto. | Pare de se fazer de burro, Kakarotto. | BAIXO | é flashback da fala 1723 (EN idêntico), mas a tradução está diferente
+2063 | cf1/c07/c0705_03.sb:24 | não parava de falar de caudas... / ter cauda | não parava de falar de rabos... / ter rabo | BAIXO | termo diferente: 1697, 1723, 1732, 1868, 1877 e 1904 usam "rabo"; 2063 e 2064 usam "cauda"
+2064 | cf1/c07/c0705_03.sb:25 | É melhor eu cortar a cauda dele... / a cauda ainda é um ponto fraco | ...cortar o rabo dele... / o rabo ainda é um ponto fraco | BAIXO | mesma diferença de termo (rabo x cauda)
+2066 | cf1/c07/c0705_03.sb:27 | Mas o símbolo escrito nela é o meu. | Mas o símbolo escrito nelas é o meu. | MÉDIO | concordância: o antecedente é "umas roupas" (2065), no plural
+2101 | cf1/c08/c0802_00.sb:29 | Ele pediu pra eu dizer pra não se preocuparem! | Ele pediu pra eu dizer pra você não se preocupar com eles! | MÉDIO | Kuririn fala só com a Chichi; "se preocuparem" põe o sujeito no plural e perde o "about them"
+2130 | cf1/c08/c0803_01.sb:20 | Kuririn e Kame | Kuririn e Mestre Kame | MÉDIO | nome fora do glossário; "Kame" sozinho pode ser confundido com a tartaruga (Umigame). Se não couber, avaliar "Kuririn e M. Kame"
+2161 | cf1/c08/c0803_02.sb:21 | O Kami-Sama vai treinar vocês.<n>E eu também. | ...E a mim também. / Eu também vou treinar. | MÉDIO | ambíguo: "E eu também" pode ser lido como "eu também vou treinar vocês"; o EN quer dizer que o Yajirobe também vai ser treinado
+2163 | cf1/c08/c0803_02.sb:23 | lutar com alienígena nenhum<n>superforte e fedorento... | lutar com nenhum desses malditos<n>alienígenas superfortes... | BAIXO | decalque: "stinkin'" aqui só reforça o xingamento, não fala de cheiro
+
+IMPRESSÃO GERAL: tradução de boa qualidade, natural e coloquial na medida certa, com os nomes do glossário bem aplicados (Kuririn, Tenshinhan, Chaos, Cutelo, Kami-Sama, Mestre Karin, Vovó Uranai, Kakarotto, Saiyajin, Makankosappo, Nuvem Voadora, Esferas do Dragão). Não há inglês sobrando nem erros graves de ortografia ou acentuação. Os problemas são pontuais: tratamento misturado, umas concordâncias, termo diferente para "tail" (rabo/cauda) e um rótulo de nome ("Kame").
+Entradas lidas: 697 (nº 1498 a 2194), arquivo inteiro.

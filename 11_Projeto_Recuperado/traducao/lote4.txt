@@ -1,0 +1,620 @@
+### 0 [cf1/c03/c0301_00.sb]
+<p>...Mmm? What's the matter? Thought you were going off to train?<k>
+### 1 [cf1/c03/c0301_00.sb]
+<p>You're troubled, aren't you...?<k>
+### 2 [cf1/c03/c0301_00.sb]
+<p>Master Roshi... I have betrayed the Crane spirit...<k><p>In its place, I have learned how to wield my martial arts in ways I never imagined before...<k><p>Something I owe entirely to your words, Master.<k><p>But I am afraid my training has left me at... an impasse.<k>
+### 3 [cf1/c03/c0301_00.sb]
+<p>An impasse, you say...?<k>
+### 4 [cf1/c03/c0301_00.sb]
+<p>...Yes, Master. Once, I thought martial arts was a tool to dominate others.<k><p>But the skills I've learned from you are something entirely different.<k><p>There is warmth... and kindness to them.<k><p>And I... I'm not sure which view is the correct one to have any longer.<k>
+### 5 [cf1/c03/c0301_00.sb]
+<p>Until I figure this out, no matter how strong I get, I will never attain Goku's strength.<k><p>And I can certainly forget about ever surpassing him...<k>
+### 6 [cf1/c03/c0301_00.sb]
+<p>...Are you familiar with the Divine Crossing?<k>
+### 7 [cf1/c03/c0301_00.sb]
+<p>The Divine Crossing...?<k>
+### 8 [cf1/c03/c0301_00.sb]
+<p>Yes. Once, there was an evil spirit who settled in the northern mountains...<k><p>It summoned every kind of disaster to the land, tormenting the people who lived there.<k><p>Master Mutaito heard of this one day, and so he traveled to the land alone...<k><p>And he used a special technique to contain the evil force.<k>
+### 9 [cf1/c03/c0301_00.sb]
+<p>Contain...?<k>
+### 10 [cf1/c03/c0301_00.sb]
+<p>Indeed...<k><p>And the polished form of that skill, I trust you already know very well...<k><p>It's none other than the Evil Containment Wave!<k>
+### 11 [cf1/c03/c0301_00.sb]
+<p>Are you saying I'll find the correct path if I visit there?<k>
+### 12 [cf1/c03/c0301_00.sb]
+<p>Ho ho ho... That would depend entirely on you, Tien.<k><p>They say that Mutaito's pure soul rests in those lands...<k><p>A man of your ability would certainly be able to find something of value there.<k>
+### 13 [cf1/c03/c0301_00.sb]
+<p>(Tien...)<k>
+### 14 [cf1/c03/c0301_00.sb]
+<p>Understood... I'll pay a visit to the Divine Crossing.<k><p>I don't know what I'll find there, but I'm ready to test my powers in Mutaito's resting place!<k>
+### 15 [cf1/c03/c0301_00.sb]
+<p>Okay... No matter what awaits you in that land, it's the destiny that has been ordained for you.<k><p>Don't fight it! Purify your heart and accept whatever comes...<k>
+### 16 [cf1/c03/c0301_00.sb]
+<p>I'm gonna come with you, Tien!<k>
+### 17 [cf1/c03/c0301_00.sb]
+<p>Chiaotzu!<k><p>This is going to be a dangerous journey. I think it'd be better for you to stay here.<k>
+### 18 [cf1/c03/c0301_00.sb]
+<p>I can't leave you alone when you're so troubled, Tien!<k><p>I... I want to help you any way I can!<k>
+### 19 [cf1/c03/c0301_00.sb]
+<p>......Well... if you're prepared for whatever we'll face there, you can come with me.<k>
+### 20 [cf1/c03/c0301_01.sb]
+<p>!!<k>
+### 21 [cf1/c03/c0301_01.sb]
+<p>Tien... what could this be?<k>
+### 22 [cf1/c03/c0301_01.sb]
+<p>O seeker of power...<k>
+### 23 [cf1/c03/c0301_01.sb]
+<p>O seeker of power, unlock my seal...<k><p>you shall be blessed with untold powers...<k>
+### 24 [cf1/c03/c0301_01.sb]
+<p>W-who're you?!<k>
+### 25 [cf1/c03/c0301_01.sb]
+<p>...I sleep deep inside this land.<k>
+### 26 [cf1/c03/c0301_01.sb]
+<p>Tien... do you think this is the spirit that Mutaito fought with and sealed?<k>
+### 27 [cf1/c03/c0301_01.sb]
+<p>...I don't know.<k>
+### 28 [cf1/c03/c0301_01.sb]
+<p>But he said to unlock his seal...<k>
+### 29 [cf1/c03/c0301_01.sb]
+<p>...N-no! Tien, don't go!<k>
+### 30 [cf1/c03/c0302_00.sb]
+<p>Welcome, welcome, o seeker of power. What is it that you wish for?<k>
+### 31 [cf1/c03/c0302_00.sb]
+<p>...I want power! The power to surpass Goku!!<k>
+### 32 [cf1/c03/c0302_00.sb]
+<p>Then come, release me...<k>
+### 33 [cf1/c03/c0302_00.sb]
+<p>Tien! You can't break that seal!<k><p>If you break it, you'll just be the same as any other murderer!<k>
+### 34 [cf1/c03/c0302_01.sb]
+<p>...Finally, my seal is removed...<k>
+### 35 [cf1/c03/c0302_01.sb]
+<p>We have a promise... Let me have my power!<k>
+### 36 [cf1/c03/c0302_01.sb]
+<p>Heh heh heh...you fool.<k><p>What makes you think I would ever grant my powers to a mere human?<k><p>I'll use that kid over there as a vessel... I'll take his body and conquer the world!<k>
+### 37 [cf1/c03/c0302_01.sb]
+<p>Chiaotzu!!<k>
+### 38 [cf1/c03/c0302_01.sb]
+<p>Ah... ahhh...<k>
+### 39 [cf1/c03/c0302_01.sb]
+<p>How dare you!<k>
+### 40 [cf1/c03/c0302_02.sb]
+<p>W-why?! Why aren't I hitting with anything?!<k>
+### 41 [cf1/c03/c0302_02.sb]
+<p>You stupid fool...tricked by his spiritual magic!<k>
+### 42 [cf1/c03/c0302_02.sb]
+<p>...Who's that?!<k>
+### 43 [cf1/c03/c0302_02.sb]
+<p>Look at my seal... You've ruined it!<k>
+### 44 [cf1/c03/c0302_02.sb]
+<p>...Your seal?!<k><p>...M-M-Master Mutaito?! Oh, Master, I'm so sorry!<k><p>I was greedy, and now I'm paying dearly for it...<k>
+### 45 [cf1/c03/c0302_02.sb]
+Mutaito
+### 46 [cf1/c03/c0302_02.sb]
+<p>This spirit takes advantage of the weakness in people's hearts...<k><p>Normally I would punish you for this, but... hmm...<k><p>I know. Perhaps I could call it even if you sealed this spirit again...<k>
+### 47 [cf1/c03/c0302_02.sb]
+<p>But he just moves too quickly for me, sir!<k><p>I could hardly even take him on in combat, much less seal him away...<k>
+### 48 [cf1/c03/c0302_02.sb]
+<p>Ho ho ho! It appears you have yet to understand the true meaning of your martial arts.<k>
+### 49 [cf1/c03/c0302_02.sb]
+<p>The true meaning...?<k>
+### 50 [cf1/c03/c0302_02.sb]
+<p>Indeed... Is there anything in your life you want to protect?<k>
+### 51 [cf1/c03/c0302_02.sb]
+<p>Protect...?<k>
+### 52 [cf1/c03/c0302_02.sb]
+<p>Yes.<k><p>If martial arts can be used to hurt someone, it can also be used to protect them!<k><p>I contained this spirit in order to protect the people that live in this land!<k>
+### 53 [cf1/c03/c0302_02.sb]
+<p>...to protect someone...<k>
+### 54 [cf1/c03/c0302_02.sb]
+<p>(Tien... Please don't stray off the path any longer...)<k>
+### 55 [cf1/c03/c0302_02.sb]
+<p>Chiaotzu!<k><p>That's it!<k><p>I've got to protect Chiaotzu... the one who cherishes me like a brother!<k>
+### 56 [cf1/c03/c0302_02.sb]
+<p>Ho ho ho.<k><p>Well, if you know what must be protected, now you must find the skills that only you possess...<k>
+### 57 [cf1/c03/c0302_02.sb]
+<p>The skills that only I possess?!<k>
+### 58 [cf1/c03/c0302_02.sb]
+<p>Yes... You have three eyes, and your movements are quick and nimble.<k><p>With that in hand, perhaps you could read that spirit's next move before it acts...<k>
+### 59 [cf1/c03/c0302_02.sb]
+<p>...! You're right!<k><p>I could watch him from four different viewpoints... then there won't be any blind spots!<k><p>I've gotta try this out! It's all or nothing!<k>
+### 60 [cf1/c03/c0302_02.sb]
+<p>Learned Multi Form Attack!<k>
+### 61 [cf1/c03/c0303_00.sb]
+<p>Well done, Tien...<k>
+### 62 [cf1/c03/c0303_00.sb]
+<p>...Master Mutaito?!<k>
+### 63 [cf1/c03/c0303_00.sb]
+<p>Do you think you understand what I have told you?<k>
+### 64 [cf1/c03/c0303_00.sb]
+<p>...Yes, Master. Martial arts is not for harming people...<k><p>It is a tool to protect others, as well.<k>
+### 65 [cf1/c03/c0303_00.sb]
+<p>Yes...<k><p>I see you are worthy enough now to use the skill I have invented.<k>
+### 66 [cf1/c03/c0303_00.sb]
+<p>The skill... you invented?<k>
+### 67 [cf1/c03/c0303_00.sb]
+<p>Indeed. I'm sure you're aware of it by now.<k>
+### 68 [cf1/c03/c0303_00.sb]
+<p>The Evil Containment Wave...? But I couldn't...<k>
+### 69 [cf1/c03/c0303_00.sb]
+<p>Hah hah hah! You may use this skill in any way you wish...<k><p>I look forward to seeing how you grow, my lad.<k>
+### 70 [cf1/c03/c0303_00.sb]
+<p>Learned Evil Containment Wave!<k>
+### 71 [cf1/c03/c0303_00.sb]
+<p>Chiaotzu!<k>
+### 72 [cf1/c03/c0303_00.sb]
+<p>Chiaotzu! You all right?!<k>
+### 73 [cf1/c03/c0303_00.sb]
+<p>...Tien! Where am I...?<k><p>............<k>
+### 74 [cf1/c03/c0303_00.sb]
+<p>...!! Tien!<k><p>What about you, Tien? Are you okay?!<k>
+### 75 [cf1/c03/c0303_00.sb]
+<p>...Yeah. Sorry to make you worry...<k>
+### 76 [cf1/c03/c0303_00.sb]
+<p>Heh heh... I knew you'd come to help me, Tien.<k>
+### 77 [cf1/c03/c0303_00.sb]
+<p>Well, yeah... Why wouldn't I?<k>
+### 78 [cf1/c03/c0303_01.sb]
+<p>...Very interesting. So that's what happened there...<k>
+### 79 [cf1/c03/c0303_01.sb]
+<p>Do you think you've learned the true meaning of your martial arts, then?<k>
+### 80 [cf1/c03/c0303_01.sb]
+<p>...No, Master.<k>
+### 81 [cf1/c03/c0303_01.sb]
+<p>W-wha?!<k>
+### 82 [cf1/c03/c0303_01.sb]
+<p>What I have learned is that there are some things in my life that I absolutely must protect.<k>
+### 83 [cf1/c03/c0303_01.sb]
+<p>Mmm... I see...<k>
+### 84 [cf1/c03/c0303_01.sb]
+<p>I also think I understand where Goku's true strength lies...<k>
+### 85 [cf1/c03/c0303_01.sb]
+<p>So have you gotten rid of your doubts?<k>
+### 86 [cf1/c03/c0303_01.sb]
+<p>...Yes, Master. I wish to master my skills to protect those I hold dear.<k><p>While I do so, I want to continue searching for the true meaning of martial arts.<k>
+### 87 [cf1/c03/c0303_01.sb]
+<p>Think you'll ever find it?<k>
+### 88 [cf1/c03/c0303_01.sb]
+<p>...I don't know if I will or not.<k><p>But if I keep doing everything I can to strive for that goal...<k><p>I think that'll be what leads me to become truly strong like Goku...<k>
+### 89 [cf1/c03/c0303_01.sb]
+<p>You've grown, Tien...<k><p>Now, it's time to explore the outside world and train to your heart's content!<k>
+### 90 [cf1/c03/c0303_01.sb]
+<p>Yes, Master!<k>
+### 91 [cf1/c03/c0303_01.sb]
+<p>(Listen up, Goku! I think I've finally taken a step toward your strength.)<k><p>(I'm going to be a different man when we meet again!)<k>
+### 92 [cf1/c04/c0401_00.sb]
+<p>Three years later...<k>
+### 93 [cf1/c04/c0401_00.sb]
+<p>Hmmmm...<k>
+### 94 [cf1/c04/c0401_00.sb]
+<p>They sure are taking their time...<k>
+### 95 [cf1/c04/c0401_00.sb]
+<p>Hey, look who's here!<k>
+### 96 [cf1/c04/c0401_00.sb]
+<p>Eeeeee! Oh, wow, I haven't seen either of you in forever!<k>
+### 97 [cf1/c04/c0401_00.sb]
+<p>Hey, Bulma!<k>
+### 98 [cf1/c04/c0401_00.sb]
+<p>So where is everyone? They still aren't here yet?<k>
+### 99 [cf1/c04/c0401_00.sb]
+<p>Oooh, my my! I'm surrounded by women! What a shock to the ol' ticker!<k>
+### 100 [cf1/c04/c0401_00.sb]
+<p>Keep your hands off me, you old coot!<k>
+### 101 [cf1/c04/c0401_00.sb]
+<p>Oof... You could stand to be a bit more polite...<k>
+### 102 [cf1/c04/c0401_00.sb]
+<p>Look who's talking!<k>
+### 103 [cf1/c04/c0401_00.sb]
+<p>Um, speaking of which, weren't you together with Yamcha? What happened with him?<k>
+### 104 [cf1/c04/c0401_00.sb]
+Oolong
+### 105 [cf1/c04/c0401_00.sb]
+<p>That guy? Oh, he ran off on us practically the moment we arrived at West City.<k>
+### 106 [cf1/c04/c0401_00.sb]
+<p>He's off on a solo training journey...<k>
+### 107 [cf1/c04/c0401_00.sb]
+<p>...and he left me behind, of course.<k>
+### 108 [cf1/c04/c0401_00.sb]
+<p>Ho ho ho... Yamcha too, eh? Krillin went off saying the same thing, y'know...<k><p>Goku had a major influence on them three years ago, there's no doubt about that.<k>
+### 109 [cf1/c04/c0401_00.sb]
+<p>Yo!<k>
+### 110 [cf1/c04/c0401_00.sb]
+<p>Do you know this man?<k>
+### 111 [cf1/c04/c0401_00.sb]
+<p>No...<k>
+### 112 [cf1/c04/c0401_00.sb]
+<p>Hey, old man! Glad to see you alive again!<k><p>You're all lookin' great, too!<k>
+### 113 [cf1/c04/c0401_00.sb]
+<p>So where are Krillin, and Yamcha, and Tien, huh?<k><p>They already go off to fight their preliminary matches?<k>
+### 114 [cf1/c04/c0401_00.sb]
+<p>Wait...<k>
+### 115 [cf1/c04/c0401_00.sb]
+<p>...No way...<k>
+### 116 [cf1/c04/c0401_00.sb]
+<p>It... it's Goku...<k>
+### 117 [cf1/c04/c0401_00.sb]
+Oolong & Puar
+### 118 [cf1/c04/c0401_00.sb]
+<p>Huh? Well, who the heck did you think I was?<k>
+### 119 [cf1/c04/c0401_00.sb]
+<p>Oh, good! The rain's finally letting up a little!<k>
+### 120 [cf1/c04/c0401_00.sb]
+<p>Y-you're kidding...! Are you really Goku?<k>
+### 121 [cf1/c04/c0401_00.sb]
+<p>What? You can't recognize me just because I've got this on my head?<k><p>Here, lemme take it off. See?<k>
+### 122 [cf1/c04/c0401_00.sb]
+<p>There! You guys convinced now?<k>
+### 123 [cf1/c04/c0401_00.sb]
+<p>There's something that's bothering me, though... Did all of you guys shrink, or what?<k>
+### 124 [cf1/c04/c0401_00.sb]
+<p>You... you've grown, Goku...<k>
+### 125 [cf1/c04/c0401_00.sb]
+<p>Oh, yeah... Guess I picked up a few inches, huh?<k>
+### 126 [cf1/c04/c0401_00.sb]
+<p>Hey, Bulma, your lips are all red. Are you sick or something?<k>
+### 127 [cf1/c04/c0401_00.sb]
+<p>It's called lipstick!<k>
+### 128 [cf1/c04/c0401_00.sb]
+<p>Now this... this really is a shock to my ol' ticker.<k>
+### 129 [cf1/c04/c0401_01.sb]
+<p>Hey! We all ran into each other on the way back!<k>
+### 130 [cf1/c04/c0401_01.sb]
+<p>It is good to see you again, Master Roshi.<k>
+### 131 [cf1/c04/c0401_01.sb]
+<p>Hmm... he's not responding much.<k>
+### 132 [cf1/c04/c0401_01.sb]
+<p>Oh, he's just surprised to see how much we've changed!<k><p>Take a look, Master Roshi! See how much I've grown? Ha ha ha ha!<k>
+### 133 [cf1/c04/c0401_01.sb]
+<p>You look great, Krillin!<k>
+### 134 [cf1/c04/c0401_01.sb]
+<p>Huh?<k>
+### 135 [cf1/c04/c0401_01.sb]
+<p>Guess the gang's all here now!<k>
+### 136 [cf1/c04/c0401_01.sb]
+<p>G-G-Goku...? Goku?!<k>
+### 137 [cf1/c04/c0401_01.sb]
+<p>Yep!<k>
+### 138 [cf1/c04/c0401_01.sb]
+<p>Gokuuuu!! You bum! I've been dying to see you!<k><p>I didn't even get a chance to thank you! Sheesh!<k>
+### 139 [cf1/c04/c0401_01.sb]
+<p>That... that's Goku?<k>
+### 140 [cf1/c04/c0401_01.sb]
+<p>I guess so...<k>
+### 141 [cf1/c04/c0401_02.sb]
+<p>Soon after, the curtain rose on the 23rd World Martial Arts Tournament...<k>
+### 142 [cf1/c04/c0401_02.sb]
+<p>Making the most of their grueling training, Goku, Krillin, Yamcha and Tien all joined in...<k><p>The group fought with all their might in hopes of nabbing the world championship.<k>
+### 143 [cf1/c04/c0401_02.sb]
+<p>After a series of pitched battles...<k><p>The tournament's main bracket was filled out with the names of the strongest in the land.<k>
+### 144 [cf1/c04/c0401_02.sb]
+<p>Among them was <d>Piccolo Jr.<d>, the reborn form of King Piccolo...<k>
+### 145 [cf1/c04/c0401_02.sb]
+<p>Piccolo Jr. was intent on defeating Goku in the tournament and conquering the world.<k>
+### 146 [cf1/c04/c0401_02.sb]
+<p>The level of talent in this tournament was unprecedented.<k><p>Kami himself joined in to put a stop to Piccolo Jr., but even he was no match for Piccolo Jr.'s might.<k>
+### 147 [cf1/c04/c0401_02.sb]
+<p>And so the final match arrived, with Goku and Piccolo Jr. making a fateful rendezvous...<k>
+### 148 [cf1/c04/c0401_03.sb]
+<p>Who's that new guy? He's a monster!<k><p>I'm guessing he's probably a demon, but he's stronger than anything out there.<k>
+### 149 [cf1/c04/c0401_03.sb]
+<p>I know who he is... That's King Piccolo.<k>
+### 150 [cf1/c04/c0401_03.sb]
+<p>W-whaaaat?!<k>
+### 151 [cf1/c04/c0401_03.sb]
+<p>Y-you're kidding!!<k><p>You completely pulverized Piccolo! That can't be him!<k>
+### 152 [cf1/c04/c0401_03.sb]
+<p>Yeah... yeah, I beat him.<k>
+### 153 [cf1/c04/c0401_03.sb]
+<p>W-what?!<k><p>So Goku's the mystery man who saved the world from the Demon King? I can't believe it!<k>
+### 154 [cf1/c04/c0401_03.sb]
+<p>Kami told me that Piccolo spat out one more egg before dying...<k><p>That egg contained every bit of Piccolo's life force...<k><p>So the fighter born out of that egg pretty much is Piccolo.<k>
+### 155 [cf1/c04/c0401_03.sb]
+<p>Even worse... this Piccolo is way, way stronger than the old one!<k>
+### 156 [cf1/c04/c0401_03.sb]
+<p>I... I never even dreamed this would be King Piccolo. This is going to be bad...<k>
+### 157 [cf1/c04/c0401_03.sb]
+<p>But didn't you just see Hero get hit by an Evil Containment Wave...?<k>
+### 158 [cf1/c04/c0401_03.sb]
+<p>Yeah... This guy that looked like Piccolo was sucked out of his body and into that jar.<k>
+### 159 [cf1/c04/c0401_03.sb]
+<p>That wasn't Piccolo... He was borrowing a human body so he could fight against him.<k>
+### 160 [cf1/c04/c0401_03.sb]
+<p>It was Kami. He just looks like Piccolo.<k>
+### 161 [cf1/c04/c0401_03.sb]
+<p>K-Kami?!<k>
+### 162 [cf1/c04/c0401_03.sb]
+<p>Piccolo and Kami used to be the same person.<k><p>He discarded his evil side to become Kami... and the remainder became Piccolo.<k><p>If one of them is ever killed, the other will die as well.<k>
+### 163 [cf1/c04/c0401_03.sb]
+<p>Oh... I see... it makes sense.<k><p>That explains the Evil Containment Wave. That would banish one of them without killing him.<k>
+### 164 [cf1/c04/c0401_03.sb]
+<p>That wave sucked Kami into that jar... Is there any way to get him out of there?<k>
+### 165 [cf1/c04/c0401_03.sb]
+<p>We just need to get the lid open... but Piccolo swallowed the jar whole.<k>
+### 166 [cf1/c04/c0401_03.sb]
+<p>W-what're we gonna do...?!<k><p>His... his strength is just staggering. Not even Kami could beat him!<k>
+### 167 [cf1/c04/c0401_03.sb]
+<p>Y-you're right...<k><p>I have to admit, we couldn't take him on even if we all ganged up at once...<k>
+### 168 [cf1/c04/c0401_03.sb]
+<p>I... I guess Goku's our only hope again. I hate to say it, but that's how it is...<k>
+### 169 [cf1/c04/c0401_03.sb]
+<p>Yeah... I'll see what I can do.<k>
+### 170 [cf1/c04/c0401_03.sb]
+<p>I'm afraid we need you, Goku. Without the Evil Containment Wave, you're our only chance...<k><p>I'm sure Piccolo came to face you here in this tournament because he's fearful of your skill.<k>
+### 171 [cf1/c04/c0401_03.sb]
+<p>Yeah. I bet you're right.<k>
+### 172 [cf1/c04/c0401_03.sb]
+<p>Ah!<k>
+### 173 [cf1/c04/c0401_03.sb]
+<p>Goku is nothing more than an obstacle to me right now...<k><p>A much tougher one than Kami, no doubt. That guy obviously let up on his training.<k>
+### 174 [cf1/c04/c0401_03.sb]
+<p>Heh heh heh... I'm gonna take you down for good this time!<k><p>The Piccolo you're about to face is nothing like the one you fought three years ago!<k>
+### 175 [cf1/c04/c0401_03.sb]
+<p>Well, I'm not the same guy I was, either!<k>
+### 176 [cf1/c04/c0401_03.sb]
+<p>Heh heh heh. Talk all you want, it won't matter.<k><p>Once I erase you, this world will be mine!<k><p>A beautiful, demonic world awaits!<k>
+### 177 [cf1/c04/c0401_03.sb]
+<p>Ha ha ha ha ha hah!!<k>
+### 178 [cf1/c04/c0401_04.sb]
+<p>Heh... Why are you holding back?<k><p>Trying to size me up, or what?<k>
+### 179 [cf1/c04/c0401_04.sb]
+<p>You're doing the same thing...<k>
+### 180 [cf1/c04/c0401_04.sb]
+<p>Heh heh heh... Oh, I've got a lot to show you.<k>
+### 181 [cf1/c04/c0401_04.sb]
+<p>You're in for a world of hurt!<k>
+### 182 [cf1/c04/c0401_04.sb]
+<p>Heh heh heh... I know you're pretty much as evil as they come...<k>
+### 183 [cf1/c04/c0401_04.sb]
+<p>But fighting against someone as talented as you is making me so excited!<k>
+### 184 [cf1/c04/c0401_04.sb]
+<p>Ha ha ha... You won't be giving me that nonsense once I'm done with you!<k>
+### 185 [cf1/c04/c0401_04.sb]
+<p>Maybe not...<k>
+### 186 [cf1/c04/c0401_04.sb]
+<p>Y-you call that <d>sizing each other up<d>?!<k>
+### 187 [cf1/c04/c0401_04.sb]
+<p>I... I can't believe them...<k>
+### 188 [cf1/c04/c0401_04.sb]
+<p>Just try to find an opening. C'mon, I dare you.<k>
+### 189 [cf1/c04/c0401_04.sb]
+<p>Okay! Time to go all out!<k>
+### 190 [cf1/c04/c0401_04.sb]
+<p>Huff... huff...<k><p>Y-you're gonna pay for this! How could I let you chase me to the edge like this?<k><p>Prepare to face the full brunt of King Piccolo's final attack!<k>
+### 191 [cf1/c04/c0401_04.sb]
+<p>Haaaaahhhh!<k>
+### 192 [cf1/c04/c0401_04.sb]
+<p>Get away! Get away!<k><p>Everyone, you have to get out of here, right now!<k>
+### 193 [cf1/c04/c0401_04.sb]
+<p>(I can't believe he has that much Ki left! I've never felt anything so strong!)<k><p>(H-he's putting everything he's got into this move!)<k>
+### 194 [cf1/c04/c0401_04.sb]
+<p>What're you gonna do, Goku?!<k>
+### 195 [cf1/c04/c0401_04.sb]
+<p>I can take it! I'll show him!<k>
+### 196 [cf1/c04/c0401_04.sb]
+Kami
+### 197 [cf1/c04/c0401_04.sb]
+<p>Don't be stupid! Why do you have to be so stubborn?!<k><p>This isn't even a match anymore! It's life or death!<k><p>You've got to come with us! We need to get out of here!<k>
+### 198 [cf1/c04/c0401_04.sb]
+<p>Kaaaaaaaahhhhhhh!<k>
+### 199 [cf1/c04/c0401_04.sb]
+<p>DIIIE!!!!<k>
+### 200 [cf1/c04/c0401_04.sb]
+Announcer
+### 201 [cf1/c04/c0401_04.sb]
+<p>Ladies and gentlemen, the moment is here! The final match is about to begin!<k><p>Who will be the greatest fighter in the world? Goku, or Piccolo Jr.?<k><p>Fighters, you may enter!<k>
+### 202 [cf1/c04/c0401_04.sb]
+<p>You won't be away from your friends for long.<k><p>Once I kill you, I'll be sure to send the rest of 'em your way, too!<k>
+### 203 [cf1/c04/c0401_04.sb]
+<p>G-Goku...! You gotta win this! I know you got it in you!<k>
+### 204 [cf1/c04/c0401_04.sb]
+<p>Maybe, but I've never fought this guy before... I don't have too much confidence.<k>
+### 205 [cf1/c04/c0401_04.sb]
+<p>Oh, no...<k>
+### 206 [cf1/c04/c0401_04.sb]
+<p>Hang in there, Goku! Don't get killed! I don't want to be a widow already!<k>
+### 207 [cf1/c04/c0401_04.sb]
+<p>Guess I'll give it a shot!<k>
+### 208 [cf1/c04/c0401_04.sb]
+<p>The arena is heating up now, folks!<k><p>Both fighters are among the most capable that ever lived! This is going to be one killer match!<k>
+### 209 [cf1/c04/c0401_04.sb]
+<p>Pfft. The announcer doesn't know the half of it.<k><p>The fate of the whole world is riding on this match...<k>
+### 210 [cf1/c04/c0401_04.sb]
+<p>The 23rd World Martial Arts Tournament is almost over!<k><p>Who will take the top prize and reign supreme?!<k>
+### 211 [cf1/c04/c0401_04.sb]
+<p>You ready?<k>
+### 212 [cf1/c04/c0401_04.sb]
+<p>Ready for what?<k>
+### 213 [cf1/c04/c0401_04.sb]
+<p>What do you think...?<k>
+### 214 [cf1/c04/c0401_04.sb]
+<p>For your death, of course!<k>
+### 215 [cf1/c04/c0401_04.sb]
+<p>The final match of the tournament begins... now!!<k>
+### 216 [cf1/c04/c0402_00.sb]
+<p>Huff... huff...<k>
+### 217 [cf1/c04/c0402_00.sb]
+<p>You killed King Piccolo... and now he will get his revenge!<k>
+### 218 [cf1/c04/c0402_00.sb]
+<p>He... he still has some power left!<k>
+### 219 [cf1/c04/c0402_00.sb]
+<p>......<k><p>Hey! Tien! You have to kill me!<k><p>That's the only way he's ever going to die!<k>
+### 220 [cf1/c04/c0402_00.sb]
+<p>Wha?!<k>
+### 221 [cf1/c04/c0402_00.sb]
+<p>Do it! Hurry, before it's too late!<k><p>I can't kill myself! This is the only way we can save Goku!<k><p>It will be fine! You can summon Shenron and wish me back to life later!<k>
+### 222 [cf1/c04/c0402_00.sb]
+<p>...W-well, okay...<k>
+### 223 [cf1/c04/c0402_00.sb]
+<p>Stop! Don't do that!<k>
+### 224 [cf1/c04/c0402_00.sb]
+<p>I... I'm going... to win this!<k>
+### 225 [cf1/c04/c0402_00.sb]
+<p>It... it's over...<k>
+### 226 [cf1/c04/c0402_00.sb]
+<p>Ahh! GOKUUUUUU!!<k>
+### 227 [cf1/c04/c0402_00.sb]
+<p>What?!<k>
+### 228 [cf1/c04/c0402_00.sb]
+<p>Heh... Guess I managed to hold out...<k>
+### 229 [cf1/c04/c0402_00.sb]
+<p>N-no... no way... That's impossible...<k>
+### 230 [cf1/c04/c0402_00.sb]
+<p>He's alive! Goku's still alive!!<k>
+### 231 [cf1/c04/c0402_00.sb]
+<p>That was awesome, Goku!<k>
+### 232 [cf1/c04/c0402_00.sb]
+<p>He took the full force of that explosion, and he's still in perfect fighting shape!<k>
+### 233 [cf1/c04/c0402_00.sb]
+<p>There's no way you can win this...!<k><p>I know you used all your remaining Ki force on that blast.<k>
+### 234 [cf1/c04/c0402_00.sb]
+<p>Errgh...<k>
+### 235 [cf1/c04/c0402_00.sb]
+<p>This championship's all mine!<k>
+### 236 [cf1/c04/c0402_00.sb]
+<p>Haaahhhhhh...<k>
+### 237 [cf1/c04/c0402_00.sb]
+<p>W-wait! What're you doing?!<k>
+### 238 [cf1/c04/c0402_00.sb]
+<p>Ready...<k>
+### 239 [cf1/c04/c0402_00.sb]
+<p>Go!!<k>
+### 240 [cf1/c04/c0402_01.sb]
+<p>Hey, uh... referee? He... he's out of the ring, right?<k>
+### 241 [cf1/c04/c0402_01.sb]
+<p>Huh...?!<k>
+### 242 [cf1/c04/c0402_01.sb]
+<p>You know... the match? I... won it, right?<k>
+### 243 [cf1/c04/c0402_01.sb]
+<p>Oh... oh, right! Yes, it's a ring-out!<k>
+### 244 [cf1/c04/c0402_01.sb]
+<p>Goku is the victor!!<k><p>Goku is the champion of the World Martial Arts Tournament!!<k>
+### 245 [cf1/c04/c0402_01.sb]
+<p>Whew... I did it...!<k>
+### 246 [cf1/c04/c0402_01.sb]
+<p>Hooraaaaayy!! You did it! You won, Goku!!<k>
+### 247 [cf1/c04/c0402_01.sb]
+<p>Gokuuuuuu!!<k>
+### 248 [cf1/c04/c0402_01.sb]
+<p>You did it! I can't believe it! That was so awesome!!<k>
+### 249 [cf1/c04/c0402_01.sb]
+<p>Heh heh... I'm finally champion...<k>
+### 250 [cf1/c04/c0402_01.sb]
+<p>Whew... we're safe. I guess it's over, huh?<k>
+### 251 [cf1/c04/c0402_01.sb]
+<p>Oof...<k>
+### 252 [cf1/c04/c0402_01.sb]
+<p>Y-you all right?! Goku!<k>
+### 253 [cf1/c04/c0402_01.sb]
+<p>N-no... no, not really.<k>
+### 254 [cf1/c04/c0402_01.sb]
+<p>Let's get you to the hospital!<k>
+### 255 [cf1/c04/c0402_01.sb]
+<p>No worries! I've got a Senzu Bean right here!<k>
+### 256 [cf1/c04/c0402_01.sb]
+<p>Ah...! Yajirobe! W-what're you doing here...?<k>
+### 257 [cf1/c04/c0402_01.sb]
+<p>Oh, just here checking things out.<k>
+### 258 [cf1/c04/c0402_01.sb]
+<p>Here, eat up!<k>
+### 259 [cf1/c04/c0402_01.sb]
+<p>Ngh... thank you...<k>
+### 260 [cf1/c04/c0402_01.sb]
+<p>Hoh!<k>
+### 261 [cf1/c04/c0402_01.sb]
+<p>Haaahhh!!!<k>
+### 262 [cf1/c04/c0402_01.sb]
+<p>All right!!<k><p>I won the World Martial Arts Tournament! Yaaahooooo!!<k>
+### 263 [cf1/c04/c0402_02.sb]
+<p>Oh, no!<k>
+### 264 [cf1/c04/c0402_02.sb]
+<p>Ngh...<k>
+### 265 [cf1/c04/c0402_02.sb]
+<p>Goku! What're you doing?<k>
+### 266 [cf1/c04/c0402_02.sb]
+<p>What were you thinking, Kami? Why did you do something like that?<k>
+### 267 [cf1/c04/c0402_02.sb]
+<p>Ngh...! He... he is still alive!<k><p>You have to kill him, Goku! He can't be left alive!<k><p>If he lives, history will repeat itself over and over again!<k>
+### 268 [cf1/c04/c0402_02.sb]
+<p>Well, if that happens, I'll just beat him again!<k><p>If I kill Piccolo, then you're gonna die too!<k>
+### 269 [cf1/c04/c0402_02.sb]
+<p>I told you, just wish me back to life with Shenron!<k>
+### 270 [cf1/c04/c0402_02.sb]
+<p>H-he's right, Goku... That's the only way.<k>
+### 271 [cf1/c04/c0402_02.sb]
+<p>You're not supposed to lie to me like that, Kami.<k>
+### 272 [cf1/c04/c0402_02.sb]
+<p>W-what?!<k>
+### 273 [cf1/c04/c0402_02.sb]
+<p>Aren't you the one who made Shenron and the Dragon Balls in the first place?<k><p>If you die, won't they just up and disappear or something?<k>
+### 274 [cf1/c04/c0402_02.sb]
+<p>Gah...<k>
+### 275 [cf1/c04/c0402_02.sb]
+<p>Is... is that true?!<k>
+### 276 [cf1/c04/c0402_02.sb]
+<p>I... I should have left my post long ago...<k><p>I created the evil Piccolo... His power exceeded that of the gods themselves.<k><p>I don't have any right to be where I am right now... I deserve to die.<k>
+### 277 [cf1/c04/c0402_02.sb]
+<p>But you're the one who can guide the world back to peace.<k><p>If it wasn't for your Dragon Balls, neither Goku nor any of us would be here today.<k>
+### 278 [cf1/c04/c0402_02.sb]
+<p>A single Dragon Ball kicked off this adventure...and that's all it took to save the world.<k>
+### 279 [cf1/c04/c0402_03.sb]
+<p>Goku... You've been blessed with a wonderful teacher.<k>
+### 280 [cf1/c04/c0402_03.sb]
+<p>I sure have! He's kind of a pervert, though!<k>
+### 281 [cf1/c04/c0402_03.sb]
+<p>Oh, I... I simply taught him the basics, that's all.<k><p>It was you, and Korin, who raised him to be the man he is today.<k>
+### 282 [cf1/c04/c0402_03.sb]
+<p>Hahh!!<k>
+### 283 [cf1/c04/c0402_03.sb]
+<p>Heh heh heh...<k><p>Yes... I'd say that the outfit with the Turtle mark befits you the most.<k>
+### 284 [cf1/c04/c0402_03.sb]
+<p>Thanks!<k>
+### 285 [cf1/c04/c0402_03.sb]
+<p>Yajirobe! You got another Senzu Bean?<k>
+### 286 [cf1/c04/c0402_03.sb]
+<p>Huh? What, isn't one enough for you?<k>
+### 287 [cf1/c04/c0402_03.sb]
+<p>Here you go!<k>
+### 288 [cf1/c04/c0402_03.sb]
+<p>Here, eat this. You need to get better.<k>
+### 289 [cf1/c04/c0402_03.sb]
+<p>Gahhh!<k>
+### 290 [cf1/c04/c0402_03.sb]
+<p>W-what're you doing?!<k>
+### 291 [cf1/c04/c0402_03.sb]
+<p>...Ergh...<k>
+### 292 [cf1/c04/c0402_03.sb]
+<p>Aaaahhhhh!!<k>
+### 293 [cf1/c04/c0402_03.sb]
+<p>Y-you idiot! What are you thinking?!<k>
+### 294 [cf1/c04/c0402_03.sb]
+<p>If you died right now, you'd take Kami along with you.<k><p>Besides, I'm gonna need someone to be my rival.<k>
+### 295 [cf1/c04/c0402_03.sb]
+<p>Heh heh heh... That kindness is going to kill you someday. I warned you about that.<k><p>I'll give you today's match...<k><p>But just you wait. One of these days I'll beat you and conquer the world!<k>
+### 296 [cf1/c04/c0402_03.sb]
+<p>See? See?! Why didn't you seal him away, huh?!<k>
+### 297 [cf1/c04/c0402_03.sb]
+<p>Ahhhh ha ha hah! I hope you're looking forward to the day we meet again!<k>
+### 298 [cf1/c04/c0402_03.sb]
+<p>(Train hard, Piccolo... I need you to be stronger!)<k><p>(And when we meet again... I'm still going to be one step ahead of you!)<k>
+### 299 [cf1/c04/c0402_04.sb]
+<p>Oh, thank heavens! Thank heavens you're still alive!<k>
+### 300 [cf1/c04/c0402_04.sb]
+<p>Agh! W-what're you doing, Chi-Chi?!<k><p>Get off of me! Knock it off!<k>
+### 301 [cf1/c04/c0402_04.sb]
+<p>Ohhh! I almost forgot! You're a newlywed now, Goku!<k>
+### 302 [cf1/c04/c0402_04.sb]
+<p>Goku... would you like to become Kami in place of me?<k><p>You are more than qualified for the job. The two of you could live in my lookout together...<k>
+### 303 [cf1/c04/c0402_04.sb]
+<p>Huh? Me?!<k><p>Y-you gotta be kidding me!<k><p>I'd die if I had to do that! That's soooo boring!<k><p>I'm never gonna take that job! No way, no how!<k>
+### 304 [cf1/c04/c0402_04.sb]
+<p>But Goku, you can become the new Kami! You can have my powers!<k><p>There's no one else in the world who could possibly succeed me!<k>
+### 305 [cf1/c04/c0402_04.sb]
+<p>Thpbbt!<k>
+### 306 [cf1/c04/c0402_04.sb]
+<p>Flying Nimbus!!<k>
+### 307 [cf1/c04/c0402_04.sb]
+<p>See you, guys! Bye for now!<k>
+### 308 [cf1/c04/c0402_04.sb]
+<p>Up we go!!<k>
+### 309 [cf1/c04/c0402_04.sb]
+<p>Oh, this isn't the end... If anything, it's the beginning!<k>

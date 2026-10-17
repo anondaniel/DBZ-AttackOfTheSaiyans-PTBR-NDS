@@ -1,0 +1,337 @@
+ERROS (0)
+
+
+AVISOS (0)
+
+
+REUSO DA TRADUÇÃO US EM TEXTO EN COM PEQUENA DIFERENÇA (108)
+  script/EN/cf0/enm/enm02_00.sb:15 r=1.0
+     EN "<p>The forest is being ravaged!<k><p>You must save the forest from the evil!?Don't miss the forest for the trees, okay? Hah<k>"
+     US "<p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>"
+  script/EN/cf0/est/est07_00.sb:15 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/est/est07_00.sb:16 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/est/est08_00.sb:15 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/est/est08_00.sb:16 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/est/est09_00.sb:15 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/est/est09_00.sb:16 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/for/for02_00.sb:15 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/for/for02_00.sb:16 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/fur/fur04_00.sb:15 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/fur/fur04_00.sb:16 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/hel/hel01_00.sb:15 r=1.0
+     EN "<p>The forest is being ravaged!<k><p>You must save the forest from the evil!?Don't miss the forest for the trees, okay? Hah<k>"
+     US "<p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>"
+  script/EN/cf0/hel/hel01_00.sb:37 r=0.99
+     EN '<p>This is an Yemma tree. It bears peach-like fruit that looks delicious.<k>'
+     US '<p>This is a Yemma tree. It bears peach-like fruit that looks delicious.<k>'
+  script/EN/cf0/hel/hel04_00.sb:15 r=1.0
+     EN "<p>The forest is being ravaged!<k><p>You must save the forest from the evil!?Don't miss the forest for the trees, okay? Hah<k>"
+     US "<p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>"
+  script/EN/cf0/kam/kam01_00.sb:61 r=0.94
+     EN "<p>It's the High Resolution Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+     US "<p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+  script/EN/cf0/kam/kam02_00.sb:61 r=0.94
+     EN "<p>It's the High Resolution Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+     US "<p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+  script/EN/cf0/kiu/kiu04_00.sb:15 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/kiu/kiu04_00.sb:16 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/kos/kos01_00.sb:19 r=1.0
+     EN "<p>The forest is being ravaged!<k><p>You must save the forest from the evil!?Don't miss the forest for the trees, okay? Hah<k>"
+     US "<p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>"
+  script/EN/cf0/kos/kos02_00.sb:19 r=1.0
+     EN "<p>The forest is being ravaged!<k><p>You must save the forest from the evil!?Don't miss the forest for the trees, okay? Hah<k>"
+     US "<p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>"
+  script/EN/cf0/kos/kos03_00.sb:19 r=1.0
+     EN "<p>The forest is being ravaged!<k><p>You must save the forest from the evil!?Don't miss the forest for the trees, okay? Hah<k>"
+     US "<p>The forest is being ravaged!<k><p>You must save the forest from the evil! Don't miss the forest for the trees, okay? Hah<k>"
+  script/EN/cf0/kou/kou01_00.sb:18 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/kou/kou01_00.sb:19 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/kou/kou04_00.sb:24 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/kou/kou04_00.sb:25 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/kou/kou06_00.sb:18 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/kou/kou06_00.sb:19 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/kou/kou09_00.sb:18 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/kou/kou09_00.sb:19 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/mas/mas01_00.sb:15 r=0.98
+     EN '<p>Lets hurry and go find Eighter!<k>'
+     US "<p>Let's hurry and go find Eighter!<k>"
+  script/EN/cf0/mas/mas02_00.sb:15 r=0.98
+     EN '<p>Lets hurry and go find Eighter!<k>'
+     US "<p>Let's hurry and go find Eighter!<k>"
+  script/EN/cf0/mas/mas03_00.sb:15 r=0.98
+     EN '<p>Lets hurry and go find Eighter!<k>'
+     US "<p>Let's hurry and go find Eighter!<k>"
+  script/EN/cf0/mas/mas04_00.sb:15 r=0.98
+     EN '<p>Lets hurry and go find Eighter!<k>'
+     US "<p>Let's hurry and go find Eighter!<k>"
+  script/EN/cf0/mas/mas05_00.sb:15 r=0.98
+     EN '<p>Lets hurry and go find Eighter!<k>'
+     US "<p>Let's hurry and go find Eighter!<k>"
+  script/EN/cf0/mas/mas06_00.sb:15 r=0.98
+     EN '<p>Lets hurry and go find Eighter!<k>'
+     US "<p>Let's hurry and go find Eighter!<k>"
+  script/EN/cf0/mas/mas07_00.sb:15 r=0.98
+     EN '<p>Lets hurry and go find Eighter!<k>'
+     US "<p>Let's hurry and go find Eighter!<k>"
+  script/EN/cf0/mas/mas08_00.sb:17 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/mas/mas08_00.sb:18 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/mas/mas09_00.sb:15 r=0.98
+     EN '<p>Lets hurry and go find Eighter!<k>'
+     US "<p>Let's hurry and go find Eighter!<k>"
+  script/EN/cf0/pao/pao03_00.sb:19 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/pao/pao03_00.sb:20 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/pao/pao08_00.sb:12 r=0.94
+     EN "<p>It's the High Resolution Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+     US "<p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+  script/EN/cf0/skr/skr02_00.sb:64 r=0.96
+     EN "<p>Did you think Speed just determined who attacks first in battle?<k><p>Well, it's more than that! More speed lets you evade enemy attacks more often! Cool, huh?<k>"
+     US "<p>Did you think Speed just determines who attacks first in battle?<k><p>Well, it's more than that! Higher speed lets you evade enemy attacks more often! Cool, huh?<k>"
+  script/EN/cf0/spi/spi01_00.sb:18 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/spi/spi01_00.sb:19 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/spi/spi02_00.sb:18 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/spi/spi02_00.sb:19 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/spi/spi03_00.sb:18 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/spi/spi03_00.sb:19 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/spi/spi04_00.sb:18 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf0/spi/spi04_00.sb:19 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf0/tut/tut01_00.sb:16 r=1.0
+     EN "<p>Whew! What a surprise. Good thing they weren't too tough.<k><p>Winning battles earns you Zeni (money) and experience.<k><p>You'll also get AP, or Ability Points.<k><p>Our levels go up when we earn enough experience points...<k><p>And we can learn new skills and polish our old ones with the AP we get.<k><p>Select Skill from the menu to use your AP. Give it a shot!<k><p>The more enemies you fight, the stronger you'll get! Keep it up, and we'll be as strong as Goku!<k>"
+     US "<p>Whew! What a surprise. Good thing they weren't too tough.<k><p>Winning battles earns you Zeni (money) and experience.<k><p>You'll also get AP, or Ability Points.<k><p>Our levels go up when we earn enough experience points...<k><p>And we can learn new skills and polish our old ones with the AP we get.<k><p>Select Skills from the menu to use your AP. Give it a shot!<k><p>The more enemies you fight, the stronger you'll get! Keep it up, and we'll be as strong as Goku!<k>"
+  script/EN/cf0/wst/wst04_00.sb:15 r=0.94
+     EN "<p>It's the High Resolution Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+     US "<p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+  script/EN/cf0/wst/wst05_00.sb:15 r=0.94
+     EN "<p>It's the High Resolution Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+     US "<p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+  script/EN/cf0/wst/wst06_00.sb:15 r=0.94
+     EN "<p>It's the High Resolution Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+     US "<p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>"
+  script/EN/cf1/c00/c0001_99.sb:9 r=0.98
+     EN "<p>Long ago, deep in the mountains, thousands of miles away from any city...<k><p>It is here where our amazing, astounding, and altogether astonishing story begins.<k><p>After his ferocious battle against King Piccolo, Goku met with Kami...<k><p>Together, with him, he successfully resurrected Shenron, the eternal dragon.<k><p>He revived all of his friends who had lost their lives against King Piccolo.<k><p>With that task done, Goku dedicated himself to training under Kami's watchful eye...<k>"
+     US "<p>Long ago, deep in the mountains, thousands of miles away from any city...<k><p>It is here where our amazing, astounding, and altogether astonishing story begins.<k><p>After his ferocious battle against King Piccolo, Goku met with Kami...<k><p>Together, they successfully resurrected Shenron, the eternal dragon.<k><p>He revived all of his friends who had lost their lives against King Piccolo.<k><p>With that task done, Goku dedicated himself to training under Kami's watchful eye...<k>"
+  script/EN/cf1/c04/c0401_02.sb:26 r=0.96
+     EN '<p>The level of talent in this tournament was unprecedented.<k><p>Kami himself joined in to put a stop to Piccolo Jr., but even he was no match for his might.<k>'
+     US "<p>The level of talent in this tournament was unprecedented.<k><p>Kami himself joined in to put a stop to Piccolo Jr., but even he was no match for Piccolo Jr.'s might.<k>"
+  script/EN/cf1/c04/c0401_03.sb:50 r=0.99
+     EN "<p>Heh heh heh. Talk all you want; it won't matter.<k><p>Once I erase you, this world will be mine!<k><p>A beautiful, demonic world awaits!<k>"
+     US "<p>Heh heh heh. Talk all you want, it won't matter.<k><p>Once I erase you, this world will be mine!<k><p>A beautiful, demonic world awaits!<k>"
+  script/EN/cf1/c04/c0401_04.sb:57 r=0.99
+     EN "<p>Hang in there, Goku! Don't get killed! I don't want to be widow already!<k>"
+     US "<p>Hang in there, Goku! Don't get killed! I don't want to be a widow already!<k>"
+  script/EN/cf1/c05/c0504_00.sb:39 r=1.0
+     EN "<p>You can now view your S-Combos via the Crystal Ball in the menu!<k><p>This S-Combo dictionary lets you view all the S-Combo notes you've acquired.<k><p>These notes contain hints on how you can put S-Combos together into bigger combos.<k><p>There are S-Combo notes hidden around the world. Try to find them all!<k>"
+     US "<p>You can now view your S-Combos via the Crystal Ball in the menu!<k><p>This S-Combo dictionary lets you view all of the S-Combo notes you've acquired.<k><p>These notes contain hints on how you can put S-Combos together into bigger combos.<k><p>There are S-Combo notes hidden around the world. Try to find them all!<k>"
+  script/EN/cf1/c05/c0505_00.sb:13 r=0.98
+     EN '<p>...Uh, wait. Emperor Pilaf?<k><p>Am I going it alone here?<k>'
+     US '<p>...Uh, wait. Emperor Pilaf?<k><p>Am I going at it alone here?<k>'
+  script/EN/cf1/c05/c0505_00.sb:37 r=0.93
+     EN "<p>He'll do anything -- anything -- for money!<k>"
+     US "<p>He'll do anything... anything... for money!<k>"
+  script/EN/cf1/c06/c0605_00.sb:44 r=0.94
+     EN "<p>Don't be stupid!<k><p>My strength is on a completely different class from your silly magic tricks.<k>"
+     US "<p>Don't be stupid!<k><p>My strength is in a completely different class than your silly magic tricks.<k>"
+  script/EN/cf1/c06/c0605_02.sb:10 r=0.96
+     EN "<p>...I'm seeing a Dragon Ball deep in the wilds.<k><p>That must mean Gohan's somewhere in there, too.<k>"
+     US "<p>...I'm seeing a Dragon Ball deep in the wastes.<k><p>That must mean Gohan's somewhere in there, too.<k>"
+  script/EN/cf1/c06/c0607_00.sb:42 r=0.97
+     EN "<p>All right! This is gonna be fun!<k><p>I'll go hold him off for you!<k>"
+     US "<p>All right! This is gonna be fun!<k><p>I'll go hold 'em off for you!<k>"
+  script/EN/cf1/c06/c0609_00.sb:11 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf1/c06/c0609_00.sb:12 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf1/c07/c0703_00.sb:23 r=0.99
+     EN '<p>Wow... I knew you were strong, but....<k>'
+     US '<p>Wow... I knew you were strong, but...<k>'
+  script/EN/cf1/c07/c0704_01.sb:21 r=0.99
+     EN '<p>Yes. I imagine the next time they see use will be the last.<k>'
+     US '<p>Yes. I imagine the next time they see us will be the last.<k>'
+  script/EN/cf1/c08/c0801_01.sb:24 r=0.96
+     EN "<p>I could fix that machine that<n>Goku's brother was using if only<n>I had a <d>high resolution circuit<d>.<k><p>There should be one at my house<n>in West City......<k>"
+     US "<p>I could fix that machine that<n>Goku's brother was using if only<n>I had a <d>Precision Circuit<d>.<k><p>There should be one at my house<n>in West City......<k>"
+  script/EN/cf1/c08/c0801_01.sb:26 r=0.94
+     EN '<p>Yeah.<n>Do you think you could bring me<n>back a <d>high resolution circuit<d><n>on your way back?<k>'
+     US '<p>Yeah.<n>Do you think you could bring me<n>back a <d>Precision Circuit<d><n>on your way back?<k>'
+  script/EN/cf1/c08/c0801_01.sb:27 r=0.93
+     EN "<p>A <d>high resolution circuit<d>?<n>...OK.<n>I'll make a stop over in<n>West City then.<k>"
+     US "<p>A <d>Precision Circuit<d>?<n>...OK.<n>I'll make a stop over in<n>West City then.<k>"
+  script/EN/cf1/c08/c0803_01.sb:24 r=0.98
+     EN "<p>I made the characters on this<n>thing easier to read.<k><p>Let's see... 139...!<n>This number represents Master<n>Roshi's power level!<k>"
+     US "<p>I made the characters on this<n>thing easier to read.<k><p>Let's see... 139...!<n>This number represents<n>Master Roshi's power level!<k>"
+  script/EN/cf1/c08/c0805_01.sb:28 r=0.99
+     EN "<p>Whatdya think?! Of course I'll go!<k>"
+     US "<p>What'd ya think?! Of course I'll go!<k>"
+  script/EN/cf1/c08/c0807_00.sb:8 r=0.96
+     EN "<p>In another part of the world,<n>Gohan had successfully lived<n>through a harsh six months in the<n>wilderness, as part of Piccolo's training!<k>"
+     US "<p>In another part of the world,<n>Gohan had successfully lived<n>through a harsh six months in the<n>wastes, as part of Piccolo's training!<k>"
+  script/EN/cf1/c09/c0903_01.sb:20 r=0.97
+     EN "<p>...Huh?<n>That's smells good!!<k>"
+     US '<p>...Huh?<n>That smells good!!<k>'
+  script/EN/cf1/c10/c1003_02.sb:18 r=0.95
+     EN '<p>Maybe the two signals the dragon radar<n>picked up was...<k>'
+     US '<p>Maybe the two signals the Dragon Radar<n>picked up were...<k>'
+  script/EN/cf1/c10/c1003_12.sb:18 r=0.95
+     EN '<p>Maybe the two signals the dragon radar<n>picked up was...<k>'
+     US '<p>Maybe the two signals the Dragon Radar<n>picked up were...<k>'
+  script/EN/cf1/c11/c1103_01.sb:11 r=0.96
+     EN "<p>Wow! It's the Nemuria Ruins...<k><p>This is where I ran away to from Piccolo's training half a year ago.<k><p>This is where I about started crying...<k>"
+     US "<p>Wow! It's the Nemuria Ruins...<k><p>This is where I ran away to from Piccolo's training half a year ago.<k><p>This is about where I started crying...<k>"
+  script/EN/cf1/c11/c1105_01.sb:29 r=0.99
+     EN "<p>Hah! Just keep on talkin' like that!<k><p>Go get 'em excavation robot!<k>"
+     US "<p>Hah! Just keep on talkin' like that!<k><p>Go get 'em, excavation robot!<k>"
+  script/EN/cf1/c12/c1206_00.sb:11 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>2<c>! <n>You can destroy objects flashing white!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>2<c>! <n>Now you can destroy objects flashing white!<k>'
+  script/EN/cf1/c12/c1206_00.sb:12 r=0.98
+     EN '<p>Your ki blast is now at level <c=#FF3C3C>3<c>! <n>You can destroy all breakable objects!<k>'
+     US '<p>Your Ki-Blast is now at level <c=#FF3C3C>3<c>! <n>Now you can destroy all breakable objects!<k>'
+  script/EN/cf1/c13/c1303_00.sb:14 r=0.99
+     EN '<p>Oh well!<k><p>I need hurry up so I can learn the Spirit Bomb from King Kai...!<k>'
+     US '<p>Oh well!<k><p>I need to hurry up so I can learn the Spirit Bomb from King Kai...!<k>'
+  script/EN/cf1/c14/c1401_01.sb:36 r=1.0
+     EN '<p>The cause of the large earthquake is completely unknown!<k><p>Furthermore, we are very concerned over the welfare of East City,<k><p> whick is believed to be the epicenter of the earthquake, as communications are completely cut off at this time...<k>'
+     US '<p>The cause of the large earthquake is completely unknown!<k><p>Furthermore, we are very concerned over the welfare of East City,<k><p> which is believed to be the epicenter of the earthquake, as communications are completely cut off at this time...<k>'
+  script/EN/cf1/c14/c1405_01.sb:33 r=0.98
+     EN "<p>He'll be here! My dad'll be here, you'll see!<k><p>He'll take you down!<k>"
+     US "<p>He'll be here! My dad will be here, you'll see!<k><p>He'll take you down!<k>"
+  script/EN/cf1/c14/c1407_00.sb:23 r=0.98
+     EN "<p>Don't die, Piccolo! My dad'll be here soon!<k><p>Please... Don't die!!<k>"
+     US "<p>Don't die, Piccolo! My dad will be here soon!<k><p>Please... Don't die!!<k>"
+  EN:btl_acc_mes:177:en: r=0.97
+     EN 'Raises rate of HP regeneration;<n>refills a little ki'
+     US 'Raises the rate of HP regeneration;<n>refills a little Ki'
+  EN:btl_acc_mes:181:en: r=0.92
+     EN 'Absorbs @36Ki damage landed on enemies<n>and refills a little of your Ki'
+     US 'Absorbs @36Ki damage from enemies<n>and refills a little of your Ki'
+  EN:btl_acc_mes:193:en: r=0.99
+     EN 'HP and KI recovery items heal the whole<n>party evenly.'
+     US 'HP and KI recovery items heal the whole<n>party evenly'
+  EN:btl_acc_mes:195:en: r=0.79
+     EN 'Sometimes allows you to use items<n>without consuming them'
+     US 'Gives you a chance to use items<n>without consuming them'
+  EN:btl_acc_mes:201:en: r=0.99
+     EN 'Consumes Ki to make a normal attack a <n>chain attack.'
+     US 'Consumes Ki to make a normal attack a <n>chain attack'
+  EN:btl_mes_BLAST:58:en: r=0.98
+     EN 'Fires energy blasts at all enemies.'
+     US 'Fires energy blasts at all enemies'
+  EN:btl_mes_TUT:3:en: r=0.95
+     EN '\\1P1Attack  \\1Pn: Attack enemies<n>\\1P1Item    \\1Pn: Use an item<n>\\1P1Skill   \\1Pn: Use Ki to launch a skill<n>\\1P1Defend  \\1Pn: Defend and cut damage'
+     US '\\1P1Attack  \\1Pn: Attack enemies<n>\\1P1Item    \\1Pn: Use an item<n>\\1P1Skill   \\1Pn: Use Ki to launch a skill<n>\\1P1Defend  \\1Pn: Defend and reduce damage taken'
+  EN:cf_mes_MENU:123:en: r=0.95
+     EN 'Data write failed. Please turn off the<n>power and reinsert the DS Game Card.'
+     US 'Data write failed. Please turn off the<n>power and reinsert the card.'
+  EN:cf_mes_MENU:65:en: r=0.77
+     EN 'Owned'
+     US 'No. Owned'
+  EN:cf_mes_QUEST:1:en: r=0.9
+     EN 'Orin Temple was attacked! Track the<n>culprit in the \\1P3Bamboo forest\\1Pn!'
+     US 'Orin Temple was attacked! Track down the<n>culprit in \\1P3Bump Forest\\1Pn!'
+  EN:cf_mes_QUEST:33:en: r=0.97
+     EN 'The Senzu plants are in trouble? Get<n>water for them at \\1P3Hermit Spring\\1Pn.'
+     US "The Senzu plants are in trouble! Get<n>water for them at \\1P3Hermit's Spring\\1Pn."
+  EN:key_item_mes:1:en: r=0.89
+     EN 'A mysterious crystal, related to the one<n>Fortuneteller Baba has somehow.'
+     US 'A mysterious crystal, somehow related to the one<n>Fortuneteller Baba has.'
+  EN:pt_eqp_mes:11:en: r=0.97
+     EN "Makes Tien's Evil Containment Wave more<n>powerful. \\1P3Standby:\\1Pn 100% effective."
+     US "Makes Tien's Containment Wave more<n>powerful. \\1P3Standby:\\1Pn 100% effective."
+  EN:pt_eqp_mes:13:en: r=0.97
+     EN "Makes Tien's Evil Containment Wave much<n>more powerful. \\1P3Standby:\\1Pn 100% effective."
+     US "Makes Tien's Containment Wave much<n>more powerful. \\1P3Standby:\\1Pn 100% effective."
+  EN:pt_eqp_mes:73:en: r=0.98
+     EN 'Occasionally poisons enemies at start<n>of battle. \\1P3Standby:\\1Pn No effect.'
+     US 'Occasionally poisons enemies at the start<n>of battle. \\1P3Standby:\\1Pn No effect.'
+  EN:use_item_mes:197:en: r=0.98
+     EN 'Can be sold for lots of money.'
+     US 'Can be sold for lots of money'
+  EN:use_item_mes:199:en: r=0.98
+     EN 'Can be sold for lots of money.'
+     US 'Can be sold for lots of money'
+  EN:use_item_mes:201:en: r=0.98
+     EN 'Can be sold for lots of money.'
+     US 'Can be sold for lots of money'
+  EN:use_item_mes:203:en: r=0.98
+     EN 'Can be sold for lots of money.'
+     US 'Can be sold for lots of money'
+  EN:use_item_mes:205:en: r=0.98
+     EN 'Can be sold for lots of money.'
+     US 'Can be sold for lots of money'
+  EN:use_item_mes:207:en: r=0.98
+     EN 'Can be sold for lots of money.'
+     US 'Can be sold for lots of money'
+  EN:use_item_mes:99:en: r=0.9
+     EN 'Raises chance of critical attack for<n>several turns'
+     US 'Raises the chance of a critical attack<n> for several turns'
+
+CHAVES COM OUTROS USOS NÃO MUDADOS (4)
+  script/EN/cf0/dbg/dbg01_00.sb:94 | chave 'Yemma Forest' | atual 'Yemma Forest'
+  script/US/cf0/dbg/dbg01_00.sb:94 | chave 'Yemma Forest' | atual 'Yemma Forest'
+  script/EN/cf0/dbg/dbg01_00.sb:71 | chave 'Bamboo Forest' | atual 'Bamboo Forest'
+  script/US/cf0/dbg/dbg01_00.sb:71 | chave 'Bamboo Forest' | atual 'Bamboo Forest'

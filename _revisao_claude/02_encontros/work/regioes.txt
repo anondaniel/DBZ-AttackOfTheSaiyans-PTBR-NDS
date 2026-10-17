@@ -1,0 +1,157 @@
+## tut Ilha de Treinamento cap [0, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Jackie Chun(nv5)
+  ('historia', 'aleat'): TROCADOS: 80:Giant Snake|Serva da Princesa|Lutador Errante(nv3)
+      outros: Desertor da RR(nv3), Ex-Sargento RR(nv3), Saqueador(nv3), Fantasma Lanterna(nv3)
+## bam Floresta de Bambu cap [1]
+  ('historia', 'aleat'): TROCADOS: 101:Tiger|Soldado Saiyajin|Arruaceiro do Bambu(nv8); 116:Dangerous Panda|Saibaman do Bambu|Discípulo Expulso(nv8)
+      outros: Traidor(nv8), Instrutor(nv8), Fantasma Lanterna(nv3), Pote Fantasma(nv8), [CHEFE] Paopao(nv8)
+## pao Montanha Paozu cap [2, 8, 14, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Broly(nv95)
+  ('historia', 'aleat'): TROCADOS: 104:Wolf|Saibaman|Atirador da Montanha(nv8); 132:Vampire Bat|Vampiro Sanguinário|Vampiro Sanguinário(nv24)
+      outros: Bandida(nv24), Bandido(nv8), Raposa Ladra(nv8), Soldado Coelho 1(nv8), Guarda Coelho 1(nv8), Coelho Sobrev. 1(nv24), Soldado Coelho 2(nv8), Guarda Coelho 2(nv8), Coelho Sobrev. 2(nv24), Capanga Brutal(nv24), Tribal Violento(nv24), Homem-Lobo(nv8)
+  ('historia', 'evento'): TROCADOS: 
+      outros: Guarda Coelho 1(nv8), Guarda Coelho 2(nv8), [CHEFE] Coelho Monstro(nv8)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 1:J. Sai|J. Sai|Robô de Patrulha(nv52); 97:Dododo|Elite Saiyajin|Mercenário de Elite(nv80); 98:Firebird|Aviador Red Ribbon|Piloto Renegado(nv48); 106:Red Wolf|Saibaman Rubro|Atirador Veterano(nv48); 115:Strong Bear|Saibaman Feroz|Mestre Errante(nv46)
+      outros: Rainha dos Bandidos(nv48), Rei dos Bandidos(nv48), Dinossauro de Fogo(nv48), Giras Sombrio(nv48)
+## krd Travessia Divina cap [3, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Chama Maligna(nv8), [CHEFE] Chaos(nv8)
+  ('historia', 'aleat'): TROCADOS: 131:Giant Bat|Vampiro|Vampiro Errante(nv8)
+      outros: Aluno(nv8), Aspirante a Lutador(nv8), Pote Fantasma(nv8), Habitante Demoníaco(nv8)
+## bud Templo das Artes Marciais cap [4]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Piccolo(nv10), [CHEFE] Piccolo(nv10)
+  ('historia', 'aleat'): TROCADOS: 
+      outros: Aluno(nv8), Instrutor(nv8), Homem-Lobo(nv8)
+## fur Monte Frappe cap [5, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Máquina da Mai(nv18)
+  ('historia', 'aleat'): TROCADOS: 102:Snow Tiger|Soldado Glacial|Mercenário da Neve(nv15); 105:White Wolf|Saibaman Glacial|Guerreira Errante(nv15); 114:Snow Bear|Saibaman das Neves|Bandida Glacial(nv15)
+      outros: Bandida da Neve(nv15), Bandido da Neve(nv15)
+## gog Montanha dos Cinco Elementos cap [5, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Chama da Fornalha(nv20), [CHEFE] Chama Demoníaca(nv20)
+  ('historia', 'aleat'): TROCADOS: 131:Giant Bat|Vampiro|Vampiro Errante(nv8)
+      outros: Fantasma Lanterna(nv3), Pote Fantasma(nv8), Carniçal Chefe(nv8), Habitante Demoníaco(nv8), Majin Gogyo(nv8), [CHEFE] Annin(nv10)
+## gyu Castelo do Cutelo cap [5]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Dongiras(nv25)
+  ('historia', 'aleat'): TROCADOS: 76:Snow Dragon|Robô Ártico RR|Guardião Errante(nv21); 105:White Wolf|Saibaman Glacial|Guerreira Errante(nv15); 117:Snow Panda|Saibaman da Nevasca|Guardião Peregrino(nv21)
+      outros: Bandida da Neve(nv15), Bandido da Neve(nv15), Refugiado(nv21), Fugitivo(nv21)
+## kiu Vulcão Kiwi cap [5, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Máquina do Shu(nv18)
+  ('historia', 'aleat'): TROCADOS: 150:Fire Caterpillar|Recruta Incendiário|Soldado Incendiário(nv15)
+      outros: Múmia Flamejante(nv15), Homem-Magma(nv15), Yorgan(nv15), Magmaras(nv15)
+## spi Ermo do Espinafre cap [6, 14, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] ???(nv20), [CHEFE] Raditz(nv20)
+  ('historia', 'aleat'): TROCADOS: 95:Ostrich Chicken|Batedor Saiyajin|Batedor do Ermo(nv18); 107:Stray Dog|Desertor Red Ribbon|Desertor Red Ribbon(nv18); 110:Wild Boar|Brutamontes Saiyajin|Brutamontes do Ermo(nv18); 113:Hungry Bear|Saibaman Faminto|Saqueador do Ermo(nv18)
+      outros: Mago da Campina(nv18), Homem Desconfiado(nv18)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 97:Dododo|Elite Saiyajin|Mercenário de Elite(nv80); 107:Stray Dog|Desertor Red Ribbon|Desertor Red Ribbon(nv18); 110:Wild Boar|Brutamontes Saiyajin|Brutamontes do Ermo(nv18); 113:Hungry Bear|Saibaman Faminto|Saqueador do Ermo(nv18); 155:Roundworm|Saibaman Escavador|Batedor Escavador(nv18)
+      outros: Homem Desconfiado(nv18)
+## kou Deserto Break cap [7, 8, 11, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Dinossauro Rival(nv8), [CHEFE] Midgiras(nv22)
+  ('historia', 'aleat'): TROCADOS: 80:Giant Snake|Serva da Princesa|Lutador Errante(nv3); 104:Wolf|Saibaman|Atirador da Montanha(nv8); 149:Tumble Bug|Recruta Red Ribbon|Recruta Renegado(nv3)
+      outros: 
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 74:Winged Dragon|Robô Alado RR|Mecha Patrulheiro(nv30); 75:Violent Dragon|Robô de Assalto RR|Mecha de Combate(nv43); 95:Ostrich Chicken|Batedor Saiyajin|Batedor do Ermo(nv18); 96:Sand Dodo|Batedor do Deserto|Batedora do Deserto(nv43); 97:Dododo|Elite Saiyajin|Mercenário de Elite(nv80); 104:Wolf|Saibaman|Atirador da Montanha(nv8); 107:Stray Dog|Desertor Red Ribbon|Desertor Red Ribbon(nv18); 110:Wild Boar|Brutamontes Saiyajin|Brutamontes do Ermo(nv18); 149:Tumble Bug|Recruta Red Ribbon|Recruta Renegado(nv3)
+      outros: Dinossauro(nv43), Homem-Múmia(nv40), Homem-Areia(nv30)
+## hii Planície Holly cap [8, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Dongiras(nv25)
+  ('historia', 'aleat'): TROCADOS: 76:Snow Dragon|Robô Ártico RR|Guardião Errante(nv21); 105:White Wolf|Saibaman Glacial|Guerreira Errante(nv15); 117:Snow Panda|Saibaman da Nevasca|Guardião Peregrino(nv21)
+      outros: Bandida da Neve(nv15), Bandido da Neve(nv15), Refugiado(nv21), Fugitivo(nv21)
+## sen Fonte do Eremita cap [8, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Majin da Fonte(nv32), [CHEFE] Guardião da Fonte(nv32)
+  ('historia', 'aleat'): TROCADOS: 99:Blue Hawk|Aviador Azul RR|Piloto Mercenário(nv28); 119:Giant Fish|Robô Pirata|Robô Patrulheiro(nv28); 132:Vampire Bat|Vampiro Sanguinário|Vampiro Sanguinário(nv24); 135:Giant Crab|Capanga Gigante|Capanga da Fonte(nv28)
+      outros: Guarda da Fonte(nv28), Homem-Peixe(nv28)
+## enm Palácio do Senhor Enma cap [9]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Dongiras(nv25)
+  ('historia', 'aleat'): TROCADOS: 76:Snow Dragon|Robô Ártico RR|Guardião Errante(nv21); 105:White Wolf|Saibaman Glacial|Guerreira Errante(nv15); 117:Snow Panda|Saibaman da Nevasca|Guardião Peregrino(nv21)
+      outros: Bandida da Neve(nv15), Bandido da Neve(nv15), Refugiado(nv21), Fugitivo(nv21)
+## for Floresta (Outro Mundo) cap [9, 13]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Alma do Raditz(nv25), [CHEFE] Alma do Raditz(nv45)
+  ('historia', 'aleat'): TROCADOS: 151:Caterpillar|Recruta Veterano|Aprendiz da Floresta(nv24)
+      outros: Sentença de Morte(nv24), Místico Demoníaco(nv24), Guarda da Floresta(nv24)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 103:Dimensional Tiger|Soldado Dimensional|Guardião da Floresta(nv46); 151:Caterpillar|Recruta Veterano|Aprendiz da Floresta(nv24)
+      outros: Sentença de Morte(nv24), Místico Demoníaco(nv24), Majin Ensei(nv46), Guarda da Floresta(nv24), Dengiras(nv46)
+## sna Mansão da Princesa cap [9, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Princesa Serpente(nv25)
+  ('historia', 'aleat'): TROCADOS: 81:Mansion Snake|Guarda da Mansão|Guarda da Mansão(nv21)
+      outros: Serva Real(nv21), Guarda da Princesa(nv21), Fantasma Patrulheiro(nv21), [CHEFE] Princesa Serpente(nv25)
+## ben Vaso do Diabo cap [10, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Damas(nv40), [CHEFE] Cavalheiros(nv40)
+  ('historia', 'aleat'): TROCADOS: 133:King Bat|Rei Vampiro|Vampiro Ancião(nv40)
+      outros: Raposa Veterana(nv40), Ladrão de Túmulos(nv40), Xamã Vermelho(nv40), Lobisomem(nv40), Chupa-Sangue(nv40), Homem-Múmia(nv40)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 1:J. Sai|J. Sai|Robô de Patrulha(nv52); 3:K. Sai|K. Sai|Mutante Errante(nv52); 4:T. Sai|T. Sai|Mutante Sombrio(nv52)
+      outros: 
+## kai Caverna dos Piratas cap [10, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Polvo Gigante(nv35)
+  ('historia', 'aleat'): TROCADOS: 120:Wild Fish|Robô Pirata Selvagem|Robô da Caverna(nv35); 134:Big Crab|Capanga|Capanga da Caverna(nv35)
+      outros: Robô Caveira(nv35), Robô Capitão(nv45), Corsária(nv35), Pirata(nv35), Fantasma do Navio(nv35), Peixe-Homem(nv35)
+  ('historia', 'evento'): TROCADOS: 
+      outros: Robô Caveira(nv35)
+## pir Castelo do Pilaf cap [10, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Pinball de Bronze(nv40), [CHEFE] Pinball de Prata(nv40), [CHEFE] Pinball de Ouro(nv40), [CHEFE] Robô Fusão do Pilaf(nv45)
+  ('historia', 'aleat'): TROCADOS: 82:Poisonous Snake|Serva Venenosa|Corsária Venenosa(nv43); 109:Super Watchdog|Sentinela Red Ribbon|Sentinela Pirata(nv43); 118:Ultimate Pandaman|Saibaman Supremo|Corsária Veterana(nv43); 133:King Bat|Rei Vampiro|Vampiro Ancião(nv40)
+      outros: Motoqueiro(nv43), Raposa Veterana(nv40), Atirador(nv43)
+## snd Deserto cap [10, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Águia da Areia(nv35)
+  ('historia', 'aleat'): TROCADOS: 74:Winged Dragon|Robô Alado RR|Mecha Patrulheiro(nv30); 121:Sand Fish|Robô Pirata das Areias|Robô das Areias(nv30); 157:Poison Sandbug|Saibaman Venenoso|Batedor Venenoso(nv30)
+      outros: Bandida do Deserto(nv30), Bandido do Deserto(nv30), Homem-Areia(nv30)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 1:J. Sai|J. Sai|Robô de Patrulha(nv52); 2:C. Sai|C. Sai|Robô do Deserto(nv48); 3:K. Sai|K. Sai|Mutante Errante(nv52)
+      outros: 
+## yun Planalto Yunzabit cap [10, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Robô de Força RR(nv35)
+  ('historia', 'aleat'): TROCADOS: 108:Red Ribbon Spy Dog|Espião Red Ribbon|Espião Red Ribbon(nv30); 112:Snow Boar|Brutamontes Glacial|Brutamontes Glacial(nv35)
+      outros: Robô da Tundra RR(nv35), Médico Red Ribbon(nv35), Soldado de Elite RR(nv35), Ex-1° Sargento RR(nv35), Dinossauro de Gelo(nv35)
+## nem Ruínas de Nemuria cap [11, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Robô Escavado v2(nv45)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 
+      outros: Guarda das Ruínas(nv46), Nobre Demoníaco(nv46), Lobo Dourado(nv46), Drácula(nv46), Múmia(nv46), Descendente Antigo(nv46)
+## mut Campo do Mutaito cap [12, 14, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] TPP-EX(nv45)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 111:Champion Boar|Brutamontes Campeão|Lutador Veterano(nv46); 115:Strong Bear|Saibaman Feroz|Mestre Errante(nv46); 156:Dark Firefly|Saibaman Noturno|Lutador Noturno(nv46)
+      outros: Aluna(nv46), Mestre(nv46), Aluno Expulso(nv46), Lutador Arruaceiro(nv46)
+## nap Ermo Páprica cap [14]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Nappa(nv50), [CHEFE] Nappa(nv50)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 3:K. Sai|K. Sai|Mutante Errante(nv52); 97:Dododo|Elite Saiyajin|Mercenário de Elite(nv80); 100:Dark Condor|Aviador Sombrio RR|Piloto Veterano(nv48); 106:Red Wolf|Saibaman Rubro|Atirador Veterano(nv48)
+      outros: Rainha dos Bandidos(nv48), Rei dos Bandidos(nv48)
+  ('tardio(nv>=46)', 'evento'): TROCADOS: 1:J. Sai|J. Sai|Robô de Patrulha(nv52)
+      outros: 
+## las Ermo Gizard cap [15, 99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Vegeta(nv70), [CHEFE] Vegeta Oozaru(nv70), [CHEFE] Vegeta(nv70)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 1:J. Sai|J. Sai|Robô de Patrulha(nv52); 3:K. Sai|K. Sai|Mutante Errante(nv52); 100:Dark Condor|Aviador Sombrio RR|Piloto Veterano(nv48)
+      outros: Rainha dos Bandidos(nv48), Rei dos Bandidos(nv48), Dinossauro de Fogo(nv48)
+## dbg debug cap [99]
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 1:J. Sai|J. Sai|Robô de Patrulha(nv52); 155:Roundworm|Saibaman Escavador|Batedor Escavador(nv18)
+      outros: Robô Caveira(nv35), Mecha Red Ribbon(nv1), Bandido(nv8), [CHEFE] Majin da Fonte(nv32), [CHEFE] Guardião da Fonte(nv32), [CHEFE] Número 8(nv35), [CHEFE] General White(nv35)
+## est Cidade do Leste (est07-09) cap [99]
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 1:J. Sai|J. Sai|Robô de Patrulha(nv52); 2:C. Sai|C. Sai|Robô do Deserto(nv48); 3:K. Sai|K. Sai|Mutante Errante(nv52); 4:T. Sai|T. Sai|Mutante Sombrio(nv52)
+      outros: Robô Corsário(nv35), Experimento N°7(nv52), Experimento N°9(nv52), Experimento Falho(nv52), Cientista Louco(nv52), Robô de Alguém(nv52)
+## ges Esgoto (Cid. Oeste) cap [99]
+  ('historia', 'aleat'): TROCADOS: 136:Dark Crab|Capanga Sombrio|Capanga Sombrio(nv45)
+      outros: Robô Caveira(nv35), (nv1), Assassino de Elite(nv45), Garota Estranha(nv45), Drácula Rubro(nv45), Experimento N°3(nv45)
+  ('tardio(nv>=46)', 'aleat'): TROCADOS: 1:J. Sai|J. Sai|Robô de Patrulha(nv52); 2:C. Sai|C. Sai|Robô do Deserto(nv48); 3:K. Sai|K. Sai|Mutante Errante(nv52); 4:T. Sai|T. Sai|Mutante Sombrio(nv52)
+      outros: 
+## mas Torre Muscle cap [99]
+  ('chefe', 'evento'): TROCADOS: 
+      outros: [CHEFE] Número 8(nv35), [CHEFE] General White(nv35)
+  ('historia', 'aleat'): TROCADOS: 108:Red Ribbon Spy Dog|Espião Red Ribbon|Espião Red Ribbon(nv30)
+      outros: Agente Red Ribbon(nv30), Sobrevivente RR(nv30), Soldado do Norte RR(nv30), Raposa Chantagista(nv30), Robô Espião(nv30)

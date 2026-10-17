@@ -1,0 +1,4584 @@
+### 3864 [cf1/c15/c1505_00.sb:31] (x1)
+EN: <p>That... That's crazy...!<k><p>He took the Spirit Bomb straight on...<k>
+PT: <p>Isso... Isso é loucura...!<k><p>Ele levou a Genki Dama em cheio...<k>
+### 3865 [cf1/c15/c1505_00.sb:33] (x1)
+EN: <p>I've taken quite a bit of damage... But I at least have enough power left to finish wiping the floor with you humans.<k>
+PT: <p>Sofri um bom dano... Mas ainda tenho poder de sobra pra acabar de varrer vocês, humanos, do mapa.<k>
+### 3866 [cf1/c15/c1505_00.sb:34] (x1)
+EN: <p>After I kill all of you I'll wait for my body to heal... And then I'll destroy this planet!<k>
+PT: <p>Depois de matar todos vocês, espero o meu corpo se curar... E aí destruo este planeta!<k>
+### 3867 [cf1/c15/c1505_00.sb:35] (x1)
+EN: <p>Oh... no...!<k>
+PT: <p>Ah... não...!<k>
+### 3868 [cf1/c15/c1505_00.sb:36] (x1)
+EN: <p>You humans...<k><p>You've made me use up most of my power...<k><p>Even with the numbers against me, having this done to me by trash like you has hurt my pride...<k>
+PT: <p>Vocês, humanos...<k><p>Me fizeram gastar quase todo o meu poder...<k><p>Mesmo em desvantagem numérica, ser deixado assim por um lixo como vocês feriu o meu orgulho...<k>
+### 3869 [cf1/c15/c1505_00.sb:37] (x1)
+EN: <p>Now do me a favor and die!<k>
+PT: <p>Agora me façam o favor de morrer!<k>
+### 3870 [cf1/c15/c1505_00.sb:38] (x1)
+EN: <p>(No...! No...!)<k>
+PT: <p>(Não...! Não...!)<k>
+### 3871 [cf1/c15/c1505_00.sb:41] (x1)
+EN: <p>Damn it! That was a weak blast...<k><p>They've all still managed to live through it...<k>
+PT: <p>Droga! Essa rajada foi fraca...<k><p>Todos eles ainda conseguiram sobreviver...<k>
+### 3872 [cf1/c15/c1505_00.sb:42] (x1)
+EN: <p>...!<k><p>I'm more... damaged than I thought... I better finish them off soon and rest...<k>
+PT: <p>...!<k><p>Estou mais... ferido do que pensava... É melhor acabar logo com eles e descansar...<k>
+### 3873 [cf1/c15/c1505_00.sb:43] (x1)
+EN: <p>This brat grew his tail back...!<k>
+PT: <p>A cauda desse pirralho cresceu de novo...!<k>
+### 3874 [cf1/c15/c1505_00.sb:44] (x1)
+EN: <p>(His tail...!<k><p>That's right... Goku grew his tail back once before too...!)<k>
+PT: <p>(A cauda dele...!<k><p>É mesmo... A cauda do Goku também já tinha crescido de novo uma vez...!)<k>
+### 3875 [cf1/c15/c1505_00.sb:45] (x1)
+EN: <p>If he changes, then I'm in trouble...!<k>
+PT: <p>Se ele se transformar, estou encrencado...!<k>
+### 3876 [cf1/c15/c1505_00.sb:47] (x1)
+EN: <p>Yaaaahhh!<k>
+PT: <p>Iaaaahhh!<k>
+### 3877 [cf1/c15/c1505_00.sb:48] (x1)
+EN: <p>?! What?!<k>
+PT: <p>?! O quê?!<k>
+### 3878 [cf1/c15/c1505_00.sb:53] (x1)
+EN: <p>Hah... hah... Hah hah! Hah hah hah haaaah!<k>
+PT: <p>Rá... rá... Rá rá! Rá rá rá ráááá!<k>
+### 3879 [cf1/c15/c1505_00.sb:54] (x1)
+EN: <p>Haaaah hah hah hah! I did it! Woohoo! Take that!<k><p>Who's the man huh? Me, that's who! Heh heh heh!<k>
+PT: <p>Haaaah rá rá rá! Consegui! Uhuu! Toma essa!<k><p>Quem é o cara, hein? Eu, é claro! Heh heh heh!<k>
+### 3880 [cf1/c15/c1505_00.sb:55] (x1)
+EN: <p>How's it feel?!<k><p>You should have known you could never win against me!<k>
+PT: <p>Que tal?!<k><p>Você devia saber que nunca ia ganhar de mim!<k>
+### 3881 [cf1/c15/c1505_00.sb:56] (x1)
+EN: <p>You... You rat...!<k>
+PT: <p>Seu... Seu rato...!<k>
+### 3882 [cf1/c15/c1505_00.sb:57] (x1)
+EN: <p>Oh, sorry! Did that hurt?!<k><p>I was just kidding around... Did that cut you?<k><p>Oh yeah!<k><p>I uh... I really respect you, you know! Could we be friends?<k>
+PT: <p>Ah, desculpa! Doeu?!<k><p>Eu só estava brincando... Te cortou?<k><p>Ah, é!<k><p>Eu, hã... Eu te respeito muito, sabia! A gente podia ser amigos?<k>
+### 3883 [cf1/c15/c1505_00.sb:58] (x1)
+EN: <p>*Pant... pant...* I won't let you get away with that!<k>
+PT: <p>*Uff... uff...* Você não vai sair impune disso!<k>
+### 3884 [cf1/c15/c1505_00.sb:59] (x1)
+EN: <p>Oh... no...<k>
+PT: <p>Ah... não...<k>
+### 3885 [cf1/c15/c1506_00.sb:10] (x1)
+EN: <p>Gohan!! Look at the sky! Look at the glowing ball in the sky!<k>
+PT: <p>Gohan!! Olhe pro céu! Olhe a bola brilhante no céu!<k>
+### 3886 [cf1/c15/c1506_00.sb:13] (x1)
+EN: <p>The... sky?<k>
+PT: <p>O... céu?<k>
+### 3887 [cf1/c15/c1506_00.sb:16] (x1)
+EN: <p>No! NOOOO!<k>
+PT: <p>Não! NÃÃÃO!<k>
+### 3888 [cf1/c15/c1506_00.sb:17] (x1)
+EN: <p>I won't let you!<k>
+PT: <p>Eu não vou deixar!<k>
+### 3889 [cf1/c15/c1506_00.sb:18] (x1)
+EN: <p>DIEEE!!!<k>
+PT: <p>MORRAAA!!!<k>
+### 3890 [cf1/c15/c1506_00.sb:21] (x1)
+EN: <p>Noooo! You brat...! I won't let you transform!<k><p>I've got to kill him now...!<k>
+PT: <p>Nãããão! Seu pirralho...! Não vou deixar você se transformar!<k><p>Tenho que matá-lo agora...!<k>
+### 3891 [cf1/c15/c1506_00.sb:22] (x1)
+EN: <p>(Gohan... We're counting on you!)<k>
+PT: <p>(Gohan... Contamos com você!)<k>
+### 3892 [cf1/c15/c1506_00.sb:25] (x1)
+EN: <p>A Great Ape...? This is gonna be either a hit or a miss...!<k>
+PT: <p>Um Oozaru...? Ou vai ou racha...!<k>
+### 3893 [cf1/c15/c1506_00.sb:27] (x1)
+EN: <p>That's right! His tail! I forgot the most important thing...!<k><p>If I can just cut off his tail...!!<k>
+PT: <p>É isso! A cauda! Esqueci a coisa mais importante...!<k><p>Se eu conseguir cortar a cauda dele...!!<k>
+### 3894 [cf1/c15/c1506_00.sb:31] (x1)
+EN: <p>When Goku went Great Ape, he lost all reason! I wonder if Gohan is the same...?!<k>
+PT: <p>Quando o Goku virou Oozaru, ele perdeu toda a razão! Será que o Gohan é igual...?!<k>
+### 3895 [cf1/c15/c1506_00.sb:33] (x1)
+EN: <p>Eeek! He's the same!<k><p>Now I get it...<k><p>It's not that they lose reason...<k><p>They probably just return to being violent Saiyans...!<k>
+PT: <p>Aiii! Ele é igual!<k><p>Agora eu entendi...<k><p>Não é que eles percam a razão...<k><p>Eles provavelmente só voltam a ser Saiyajins violentos...!<k>
+### 3896 [cf1/c15/c1506_00.sb:34] (x1)
+EN: <p>Gohan... The Saiyan...! Go after the Saiyan!<k>
+PT: <p>Gohan... O Saiyajin...! Vá atrás do Saiyajin!<k>
+### 3897 [cf1/c15/c1506_00.sb:35] (x1)
+EN: <p>There's no way...!<k>
+PT: <p>Não tem jeito...!<k>
+### 3898 [cf1/c15/c1506_00.sb:38] (x1)
+EN: <p>Yeah, that's the ticket! Looks like a part of Gohan is still inside...!<k><p>He is half human, I guess!<k>
+PT: <p>É isso aí! Parece que uma parte do Gohan ainda está lá dentro...!<k><p>Ele é meio humano, afinal!<k>
+### 3899 [cf1/c15/c1506_00.sb:39] (x1)
+EN: <p>This can't be happening!<k><p>If I hadn't taken so much damage I could easily handle one or two of these monsters!<k><p>That moon I made won't burn out for another hour...<k><p>Cutting off his tail is my only option!<k>
+PT: <p>Isso não pode estar acontecendo!<k><p>Se eu não estivesse tão ferido, daria conta de um ou dois monstros desses fácil!<k><p>A lua que eu criei só vai se apagar daqui a uma hora...<k><p>Cortar a cauda dele é a minha única opção!<k>
+### 3900 [cf1/c15/c1506_00.sb:41] (x1)
+EN: <p>Take this!<k>
+PT: <p>Toma isso!<k>
+### 3901 [cf1/c15/c1506_00.sb:43] (x1)
+EN: <p>I... I can't move...!<k>
+PT: <p>Eu... eu não consigo me mexer...!<k>
+### 3902 [cf1/c15/c1506_00.sb:45] (x1)
+EN: <p>...U... Ugh... Ngh...<k>
+PT: <p>...A... Argh... Ngh...<k>
+### 3903 [cf1/c15/c1506_00.sb:46] (x1)
+EN: <p>What's with this guy... He just won't die...<k>
+PT: <p>O que há com esse cara... Ele não morre nunca...<k>
+### 3904 [cf1/c16/c1601_00.sb:10] (x1)
+EN: <p>Which way?<k>
+PT: <p>Pra que lado?<k>
+### 3905 [cf1/c16/c1601_00.sb:13] (x1)
+EN: <p>A little more... Just a little more to the left.<k>
+PT: <p>Mais um pouco... Só mais um pouco pra esquerda.<k>
+### 3906 [cf1/c16/c1601_00.sb:14] (x1)
+EN: <p>OK, left.<k>
+PT: <p>Tá, esquerda.<k>
+### 3907 [cf1/c16/c1601_00.sb:17] (x1)
+EN: <p>There they are! That light. Everyone's below that light.<k>
+PT: <p>Ali estão eles! Aquela luz. Estão todos embaixo daquela luz.<k>
+### 3908 [cf1/c16/c1601_00.sb:20] (x1)
+EN: <p>Are you sure?! Is my Gohan really alive!<k><p>He's really alive right?!<k>
+PT: <p>Tem certeza?! O meu Gohan está mesmo vivo!<k><p>Ele está vivo mesmo, né?!<k>
+### 3909 [cf1/c16/c1601_00.sb:21] (x1)
+EN: <p>I told you they probably would be!<k>
+PT: <p>Eu disse que provavelmente estariam!<k>
+### 3910 [cf1/c16/c1601_00.sb:22] (x1)
+EN: <p>That's why I said we shouldn't have brought her along...<k>
+PT: <p>Por isso eu disse que não devíamos ter trazido ela...<k>
+### 3911 [cf1/c16/c1601_00.sb:23] (x1)
+EN: <p>What do you mean <d>probably<d>?! <d>Probably<d> isn't good enough!<k>
+PT: <p>Como assim, <d>provavelmente<d>?! <d>Provavelmente<d> não basta!<k>
+### 3912 [cf1/c16/c1601_00.sb:24] (x1)
+EN: <p>Hey, no need to get upset...<k>
+PT: <p>Ei, não precisa ficar nervosa...<k>
+### 3913 [cf1/c16/c1601_00.sb:25] (x1)
+EN: <p>I can only feel the Ki of four of them... No, five...<k><p>Their Ki is very weak... What's going on?<k>
+PT: <p>Só consigo sentir o Ki de quatro deles... Não, cinco...<k><p>O Ki deles está muito fraco... O que está acontecendo?<k>
+### 3914 [cf1/c16/c1601_00.sb:26] (x1)
+EN: <p>Can't tell... I was only able to watch part of the battle...<k><p>But the Saiyan also seems to be on the verge of death...<k>
+PT: <p>Não dá pra saber... Só consegui ver parte da batalha...<k><p>Mas o Saiyajin também parece estar à beira da morte...<k>
+### 3915 [cf1/c16/c1602_00.sb:10] (x1)
+EN: <p>Wh-What's that...?<k>
+PT: <p>O-o que é aquilo...?<k>
+### 3916 [cf1/c16/c1602_00.sb:13] (x1)
+EN: <p>Here it... comes...<k>
+PT: <p>Aí... vem...<k>
+### 3917 [cf1/c16/c1602_00.sb:14] (x1)
+EN: <p>U... ugh... gh...!<k>
+PT: <p>A... argh... gh...!<k>
+### 3918 [cf1/c16/c1602_00.sb:15] (x1)
+EN: <p>That's... That's his space ship!<k>
+PT: <p>Aquilo... Aquilo é a nave dele!<k>
+### 3919 [cf1/c16/c1602_00.sb:16] (x1)
+EN: <p>C... can't let him escape...!<k>
+PT: <p>N... não posso deixar ele fugir...!<k>
+### 3920 [cf1/c16/c1602_00.sb:17] (x1)
+EN: <p>Just... great... This is an embarrassment...<k>
+PT: <p>Que... ótimo... Que vergonha...<k>
+### 3921 [cf1/c16/c1602_00.sb:18] (x1)
+EN: <p>We've come this far... Now to finish it...<k>
+PT: <p>Chegamos até aqui... Agora é acabar com isso...<k>
+### 3922 [cf1/c16/c1602_00.sb:22] (x1)
+EN: <p>Whew... They've all done well. I was worried there...<k><p>I know I shouldn't play favorites, but...<k><p>That Saiyan stroke fear into the whole universe. This was for the best...<k>
+PT: <p>Ufa... Todos foram muito bem. Fiquei preocupado...<k><p>Eu sei que não devia ter favoritos, mas...<k><p>Aquele Saiyajin espalhava medo pelo universo inteiro. Foi melhor assim...<k>
+### 3923 [cf1/c16/c1602_00.sb:23] (x1)
+EN: <p>......<k><p>Although, it doesn't mean that all evil in the universe has been silenced...<k><p>...Not all of it...<k>
+PT: <p>......<k><p>Mas isso não quer dizer que todo o mal do universo foi silenciado...<k><p>...Nem todo...<k>
+### 3924 [cf1/c16/c1602_00.sb:25] (x1)
+EN: <p>Ngh... Gah...<k>
+PT: <p>Ngh... Argh...<k>
+### 3925 [cf1/c16/c1602_00.sb:27] (x1)
+EN: <p>This is for all my friends... Everyone you killed!<k>
+PT: <p>Isto é por todos os meus amigos... Todos que você matou!<k>
+### 3926 [cf1/c16/c1602_00.sb:28] (x1)
+EN: <p>No! I can't move!<k>
+PT: <p>Não! Não consigo me mexer!<k>
+### 3927 [cf1/c16/c1602_00.sb:29] (x1)
+EN: <p>DIIIEEE!!!<k>
+PT: <p>MORRAAAA!!!<k>
+### 3928 [cf1/c16/c1602_00.sb:30] (x1)
+EN: <p>STOP!<k>
+PT: <p>PARE!<k>
+### 3929 [cf1/c16/c1602_00.sb:31] (x1)
+EN: <p>Huh?! G-Goku?!<k>
+PT: <p>Hã?! G-Goku?!<k>
+### 3930 [cf1/c16/c1602_00.sb:32] (x1)
+EN: <p>That voice I hear...<k><p>Is that you, Goku...?<k>
+PT: <p>Essa voz que eu estou ouvindo...<k><p>É você, Goku...?<k>
+### 3931 [cf1/c16/c1602_00.sb:35] (x1)
+EN: <p>(Yeah, it's me... I can't raise my voice very well...<k><p>Krillin, do me a favor... Let him go...<k><p>Please... It's my last request...)<k>
+PT: <p>(É, sou eu... Não consigo falar muito alto...<k><p>Kuririn, me faz um favor... Deixa ele ir...<k><p>Por favor... É o meu último pedido...)<k>
+### 3932 [cf1/c16/c1602_00.sb:36] (x1)
+EN: <p>Are you serious, Goku?! He killed all of our friends!<k><p>He even tried to kill everyone on Earth!<k><p>If we let him go, he'll recover and be back for sure!<k>
+PT: <p>Tá falando sério, Goku?! Ele matou todos os nossos amigos!<k><p>Ele até tentou matar todo mundo na Terra!<k><p>Se deixarmos ele ir, ele vai se recuperar e voltar, com certeza!<k>
+### 3933 [cf1/c16/c1602_00.sb:37] (x1)
+EN: <p>(Yeah, he might...)<k>
+PT: <p>(É, pode ser...)<k>
+### 3934 [cf1/c16/c1602_00.sb:38] (x1)
+EN: <p>Goku...<k><p>If you think that he could change for the better like Piccolo did...<k><p>You're wrong!<k><p>This guy's different!<k><p>He's got no feelings whatsoever!<k><p>You should know that Goku!<k>
+PT: <p>Goku...<k><p>Se você acha que ele pode mudar pra melhor como o Piccolo mudou...<k><p>Está enganado!<k><p>Esse cara é diferente!<k><p>Ele não tem sentimento nenhum!<k><p>Você devia saber disso, Goku!<k>
+### 3935 [cf1/c16/c1602_00.sb:39] (x1)
+EN: <p>(I know... I know he's really strong too...<k><p>I don't know how to explain it, but...<k><p>Looking at him about to die... made me think...)<k>
+PT: <p>(Eu sei... Eu sei que ele é muito forte também...<k><p>Não sei explicar, mas...<k><p>Ver ele prestes a morrer... me fez pensar...)<k>
+### 3936 [cf1/c16/c1602_00.sb:40] (x1)
+EN: <p>(It'd be such a waste to kill him...)<k>
+PT: <p>(Seria um desperdício matar ele...)<k>
+### 3937 [cf1/c16/c1602_00.sb:41] (x1)
+EN: <p>A... A waste?!<k>
+PT: <p>Um... Um desperdício?!<k>
+### 3938 [cf1/c16/c1602_00.sb:42] (x1)
+EN: <p>(I trained with King Kai himself... I was supposed to have reached the peak of my ability... Heh heh...<k><p>But Vegeta was still... Far stronger than me...<k><p>To tell you the truth, I didn't have a chance...)<k>
+PT: <p>(Eu treinei com o próprio Senhor Kaioh... Devia ter chegado ao auge da minha capacidade... Heh heh...<k><p>Mas o Vegeta ainda era... Muito mais forte que eu...<k><p>Pra falar a verdade, eu não tinha chance...)<k>
+### 3939 [cf1/c16/c1602_00.sb:43] (x1)
+EN: <p>(But... Deep down... It made me excited...<k><p>Just like with Piccolo... I guess it's because I'm a Saiyan too...<k><p>Like a bad habit...)<k>
+PT: <p>(Mas... Lá no fundo... Isso me deixou empolgado...<k><p>Igual com o Piccolo... Acho que é porque eu também sou Saiyajin...<k><p>Como um mau hábito...)<k>
+### 3940 [cf1/c16/c1602_00.sb:45] (x1)
+EN: <p>(I'm gonna train harder and beat him the next time, no matter what!<k><p>I know it's a bad decision but... Please, Krillin!<k><p>Give me the chance to fight him alone!)<k>
+PT: <p>(Vou treinar mais e vencer ele da próxima vez, custe o que custar!<k><p>Sei que é uma má decisão, mas... Por favor, Kuririn!<k><p>Me dá a chance de lutar com ele sozinho!)<k>
+### 3941 [cf1/c16/c1602_00.sb:47] (x1)
+EN: <p>All right, Goku... You deserve to get your way.<k><p>The Earth is still here because of you...<k><p>But listen, Goku!<k><p>Next time you better take him out with ease!<k>
+PT: <p>Tá bom, Goku... Você merece que seja do seu jeito.<k><p>A Terra ainda está aqui por sua causa...<k><p>Mas escuta, Goku!<k><p>Da próxima vez, é bom você acabar com ele fácil!<k>
+### 3942 [cf1/c16/c1602_00.sb:48] (x1)
+EN: <p>I will!<K>
+PT: <p>Pode deixar!<K>
+### 3943 [cf1/c16/c1602_00.sb:49] (x1)
+EN: <p>There won't be any... miracles the next time... Remember that...<k><p>Heh heh... You can look forward to it...<k>
+PT: <p>Da próxima vez... não vai ter milagre... Lembre-se disso...<k><p>Heh heh... Pode esperar...<k>
+### 3944 [cf1/c16/c1603_00.sb:10] (x1)
+EN: <p>Don't worry... It's all over...<k>
+PT: <p>Calma... Acabou tudo...<k>
+### 3945 [cf1/c16/c1603_00.sb:13] (x1)
+EN: <p>...Whew... He's finally gone...<k>
+PT: <p>...Ufa... Ele finalmente foi embora...<k>
+### 3946 [cf1/c16/c1603_00.sb:14] (x1)
+EN: <p>That idiot... Why didn't he finish him off?!<k>
+PT: <p>Aquele idiota... Por que ele não acabou com ele?!<k>
+### 3947 [cf1/c16/c1603_00.sb:17] (x1)
+EN: <p>Sorry Krillin...<k>
+PT: <p>Desculpa, Kuririn...<k>
+### 3948 [cf1/c16/c1603_00.sb:18] (x1)
+EN: <p>Heh heh... Don't worry about it...<k><p>Although I feel like I shamed everyone who died...<k><p>...But there might be a way to bring them back...<k>
+PT: <p>Heh heh... Não se preocupe...<k><p>Se bem que sinto que envergonhei todos que morreram...<k><p>...Mas pode haver um jeito de trazê-los de volta...<k>
+### 3949 [cf1/c16/c1603_00.sb:25] (x1)
+EN: <p>Chi-Chi...!<k>
+PT: <p>Chichi...!<k>
+### 3950 [cf1/c16/c1603_00.sb:27] (x1)
+EN: <p>Gohan! My poor little Gohan! It's gonna be all right!<k><p>Hang in there! Mommy's here! Oh you poor thing!<k>
+PT: <p>Gohan! Meu pobre Gohanzinho! Vai ficar tudo bem!<k><p>Aguenta firme! A mamãe está aqui! Coitadinho!<k>
+### 3951 [cf1/c16/c1603_00.sb:28] (x1)
+EN: <p>Gohan's just fine... It's Goku I think you should be worrying about...<k>
+PT: <p>O Gohan está bem... Acho que quem precisa de preocupação é o Goku...<k>
+### 3952 [cf1/c16/c1603_00.sb:29] (x1)
+EN: <p>Poor little thing, being dragged into this mess!<k><p>I won't ever let him out of my sight again!<k>
+PT: <p>Coitadinho, arrastado pra essa confusão!<k><p>Nunca mais vou tirar os olhos dele!<k>
+### 3953 [cf1/c16/c1603_00.sb:30] (x1)
+EN: <p>...Isn't that a little much? Poor Goku ...<k>
+PT: <p>...Não é um pouco demais? Coitado do Goku...<k>
+### 3954 [cf1/c16/c1603_00.sb:33] (x1)
+EN: <p>Goku! Are you all right?<k>
+PT: <p>Goku! Você está bem?<k>
+### 3955 [cf1/c16/c1603_00.sb:35] (x1)
+EN: <p>He's in bad shape...<k>
+PT: <p>Ele está mal...<k>
+### 3956 [cf1/c16/c1603_00.sb:36] (x1)
+EN: <p>Sorry everyone... I let the Saiyan get away...<k>
+PT: <p>Desculpem, pessoal... Deixei o Saiyajin fugir...<k>
+### 3957 [cf1/c16/c1603_00.sb:39] (x1)
+EN: <p>You did good for coming even this far...<k>
+PT: <p>Você foi muito bem por ter chegado até aqui...<k>
+### 3958 [cf1/c16/c1603_00.sb:40] (x1)
+EN: <p>...Oh, hi Korin...<k>
+PT: <p>...Ah, oi, Mestre Karin...<k>
+### 3959 [cf1/c16/c1603_00.sb:41] (x1)
+EN: <p>That guy was more than just strong... Bulma...<k><p>Everyone was killed except for us... Even Yamcha...<k>
+PT: <p>Aquele cara era mais do que só forte... Bulma...<k><p>Todos morreram, menos nós... Até o Yamcha...<k>
+### 3960 [cf1/c16/c1603_00.sb:42] (x1)
+EN: <p>I had that feeling. But I'm OK!<k><p>We can just bring him back with the Dragon Balls in a year!<k>
+PT: <p>Eu já sentia isso. Mas estou bem!<k><p>É só trazer ele de volta com as Esferas do Dragão daqui a um ano!<k>
+### 3961 [cf1/c16/c1603_00.sb:45] (x1)
+EN: <p>What? We can, right?!<k>
+PT: <p>Quê? Dá pra fazer isso, né?!<k>
+### 3962 [cf1/c16/c1603_00.sb:46] (x1)
+EN: <p>Piccolo was killed. That means Kami is gone too.<k><p>Without him, the Dragon Balls are gone.<k>
+PT: <p>O Piccolo morreu. Isso quer dizer que o Kami-Sama também se foi.<k><p>Sem ele, as Esferas do Dragão não existem mais.<k>
+### 3963 [cf1/c16/c1603_00.sb:47] (x1)
+EN: <p>What are you saying?! Don't lie to me!<k><p>Four of you survived, right?<k><p>Piccolo's the fourth one, isn't he?!<k>
+PT: <p>O que você está dizendo?! Não mente pra mim!<k><p>Quatro de vocês sobreviveram, não foi?<k><p>O Piccolo é o quarto, não é?!<k>
+### 3964 [cf1/c16/c1603_00.sb:48] (x1)
+EN: <p>Sorry, but that would be me.<k>
+PT: <p>Desculpa, mas o quarto sou eu.<k>
+### 3965 [cf1/c16/c1603_00.sb:49] (x1)
+EN: <p>No... It can't be... So, Yamcha will never come back?!<k>
+PT: <p>Não... Não pode ser... Então o Yamcha nunca vai voltar?!<k>
+### 3966 [cf1/c16/c1603_00.sb:50] (x1)
+EN: <p>I...can't believe it... *Cries*<k>
+PT: <p>Eu... não acredito... *Chora*<k>
+### 3967 [cf1/c16/c1603_00.sb:51] (x1)
+EN: <p>Did you know about this?<k>
+PT: <p>Você sabia disso?<k>
+### 3968 [cf1/c16/c1603_00.sb:52] (x1)
+EN: <p>Well, uh... Yeah...<k>
+PT: <p>Bom, hã... Sabia...<k>
+### 3969 [cf1/c16/c1603_00.sb:53] (x1)
+EN: <p>Oh my... I too had thought Piccolo had survived...<k>
+PT: <p>Minha nossa... Eu também achei que o Piccolo tinha sobrevivido...<k>
+### 3970 [cf1/c16/c1603_00.sb:54] (x1)
+EN: <p>Wh-What?! You were hoping that I was Piccolo?!<k><p>If it wasn't for me, these guys wouldn't be alive right now!<k><p>I'm not gonna take this! This isn't what I deserve!<k>
+PT: <p>O-o quê?! Vocês queriam que eu fosse o Piccolo?!<k><p>Se não fosse por mim, esses caras não estariam vivos agora!<k><p>Não vou aceitar isso! Eu não mereço isso!<k>
+### 3971 [cf1/c16/c1603_00.sb:55] (x1)
+EN: <p>All right, we got it!<k><p>Now, we gotta get these guys to a hospital! I've got no more Senzu beans.<k>
+PT: <p>Tá bom, já entendemos!<k><p>Agora temos que levar esses caras pro hospital! Não tenho mais Sementes dos Deuses.<k>
+### 3972 [cf1/c16/c1604_00.sb:10] (x1)
+EN: <p>*Sobs*<k>
+PT: <p>*Soluços*<k>
+### 3973 [cf1/c16/c1604_00.sb:13] (x1)
+EN: <p>So, are everyone's bodies around here...?<k>
+PT: <p>Então os corpos de todos estão por aqui...?<k>
+### 3974 [cf1/c16/c1604_00.sb:16] (x1)
+EN: <p>Uh... Yeah. They're a little further over there...<k>
+PT: <p>Hã... Sim. Estão um pouco mais pra lá...<k>
+### 3975 [cf1/c16/c1604_00.sb:17] (x1)
+EN: <p>Don't cry, Bulma...<k><p>I have an idea...<k><p>There might not be any chance of it working and...<k>It might not actually be possible, but...<K>
+PT: <p>Não chore, Bulma...<k><p>Eu tenho uma ideia...<k><p>Pode ser que não tenha chance nenhuma de dar certo e...<k>Pode ser que nem seja possível, mas...<K>
+### 3976 [cf1/c16/c1604_00.sb:18] (x1)
+EN: <p>...Now don't get your hopes up...<k><p>I'm just saying that...<k><p>There might be a way to bring everyone back...<k>
+PT: <p>...Não fique muito esperançosa...<k><p>Só estou dizendo que...<k><p>Pode haver um jeito de trazer todos de volta...<k>
+### 3977 [cf1/c16/c1604_00.sb:20] (x1)
+EN: <p>It may be a little far fetched, but...<k>
+PT: <p>Pode parecer meio forçado, mas...<k>
+### 3978 [cf1/c16/c1604_00.sb:23] (x1)
+EN: <p>Krillin... You were saying something about that earlier...<k><p>What is it...? Tell us...<k>
+PT: <p>Kuririn... Você falou alguma coisa sobre isso antes...<k><p>O que é...? Conte pra gente...<k>
+### 3979 [cf1/c16/c1604_00.sb:24] (x1)
+EN: <p>Wait! I'll tell you all later!<k><p>Master Roshi, this is where the bodies are! We need to get them inside...!<k>
+PT: <p>Espera! Depois eu conto pra todo mundo!<k><p>Mestre Kame, os corpos estão aqui! Temos que levá-los pra dentro...!<k>
+### 3980 [cf1/c16/c1604_00.sb:26] (x1)
+EN: <p>My oh my... This is quite brutal...<k><p>Now all we need to find is Chiaotzu's body... but...?!<k>
+PT: <p>Minha nossa... Que coisa brutal...<k><p>Agora só falta achar o corpo do Chaos... mas...?!<k>
+### 3981 [cf1/c16/c1604_00.sb:27] (x1)
+EN: <p>...You won't find it. He... blew himself to pieces...<k>
+PT: <p>...Não vão achar. Ele... se explodiu em pedaços...<k>
+### 3982 [cf1/c16/c1604_00.sb:30] (x1)
+EN: <p>I really wish we could bring everyone back...<k><p>Their sacrifice was too much...<k>
+PT: <p>Eu queria muito que desse pra trazer todo mundo de volta...<k><p>O sacrifício deles foi grande demais...<k>
+### 3983 [cf1/c16/c1604_00.sb:31] (x1)
+EN: <p>I feel angry about my helplessness, Korin...<k>
+PT: <p>Fico com raiva da minha impotência, Mestre Karin...<k>
+### 3984 [cf1/c16/c1604_00.sb:32] (x1)
+EN: <p>It's OK, I'll drive. I've settled down now...<k>
+PT: <p>Tudo bem, eu dirijo. Já me acalmei...<k>
+### 3985 [cf1/c16/c1605_00.sb:9] (x1)
+EN: <p>...uh... ......uhn...<k>
+PT: <p>...ah... ......ahn...<k>
+### 3986 [cf1/c16/c1605_00.sb:11] (x1)
+EN: <p>Gohan! You're awake!<k>
+PT: <p>Gohan! Você acordou!<k>
+### 3987 [cf1/c16/c1605_00.sb:13] (x1)
+EN: <p>...Huh?!<k>
+PT: <p>...Hã?!<k>
+### 3988 [cf1/c16/c1605_00.sb:14] (x1)
+EN: <p>Don't worry! Mommy's here!<k>
+PT: <p>Calma! A mamãe está aqui!<k>
+### 3989 [cf1/c16/c1605_00.sb:15] (x1)
+EN: <p>M-Mom...!<k>
+PT: <p>M-mamãe...!<k>
+### 3990 [cf1/c16/c1605_00.sb:16] (x1)
+EN: <p>Oh my poor baby!<k><p>You've been through so much! But everything's going to be just fine!<k>
+PT: <p>Ai, meu pobre bebê!<k><p>Você passou por tanta coisa! Mas vai ficar tudo bem!<k>
+### 3991 [cf1/c16/c1605_00.sb:18] (x1)
+EN: <p>You did well, Gohan!<k>
+PT: <p>Você foi muito bem, Gohan!<k>
+### 3992 [cf1/c16/c1605_00.sb:20] (x1)
+EN: <p>Yeah, we did it!<k>
+PT: <p>É, nós conseguimos!<k>
+### 3993 [cf1/c16/c1605_00.sb:21] (x1)
+EN: <p>What?! Where'd the Saiyan go?<k>
+PT: <p>O quê?! Pra onde foi o Saiyajin?<k>
+### 3994 [cf1/c16/c1605_00.sb:22] (x1)
+EN: <p>He ran... He got away...<k><p>But we gave him a good beating!<k><p>He'll probably never come back!<k>
+PT: <p>Ele fugiu... Escapou...<k><p>Mas nós demos uma boa surra nele!<k><p>Ele provavelmente nunca mais volta!<k>
+### 3995 [cf1/c16/c1605_00.sb:23] (x1)
+EN: <p>What about dad?!<k>
+PT: <p>E o papai?!<k>
+### 3996 [cf1/c16/c1605_00.sb:25] (x1)
+EN: <p>Behind you, Gohan...<k><p>Thanks to you guys, I was able to stay alive!<k>
+PT: <p>Atrás de você, Gohan...<k><p>Graças a vocês, eu consegui continuar vivo!<k>
+### 3997 [cf1/c16/c1605_00.sb:26] (x1)
+EN: <p>Hah hah!<k>
+PT: <p>Rá rá!<k>
+### 3998 [cf1/c16/c1605_00.sb:29] (x1)
+EN: <p>Krillin, would you tell us what you were talking about before?<k>
+PT: <p>Kuririn, pode contar do que você estava falando antes?<k>
+### 3999 [cf1/c16/c1605_00.sb:30] (x1)
+EN: <p>Oh yeah! That's right.<k><p>The Saiyans seem to have heard about the Dragon Balls through Raditz when Goku fought him.<k><p>They found out their wish could be granted.<k><p>That's why they came to Earth, so they could get the Dragon Balls.<k>
+PT: <p>Ah, é! Isso mesmo.<k><p>Parece que os Saiyajins souberam das Esferas do Dragão pelo Raditz, quando o Goku lutou com ele.<k><p>Descobriram que qualquer desejo podia ser realizado.<k><p>Foi por isso que vieram à Terra, pra pegar as Esferas do Dragão.<k>
+### 4000 [cf1/c16/c1605_00.sb:31] (x1)
+EN: <p>?! Really?<k>
+PT: <p>?! Sério?<k>
+### 4001 [cf1/c16/c1605_00.sb:32] (x1)
+EN: <p>Yeah.<k><p>But when they looked at Piccolo, they said something strange.<k><p>They called him a <d>Namek<d>. It seems like Piccolo and Kami were once aliens.<k>
+PT: <p>Sim.<k><p>Mas, quando olharam pro Piccolo, disseram uma coisa estranha.<k><p>Chamaram ele de <d>namekuseijin<d>. Parece que o Piccolo e o Kami-Sama eram alienígenas.<k>
+### 4002 [cf1/c16/c1605_00.sb:33] (x1)
+EN: <p>Then he mentioned how it must be true<k><p>about there being mysterious balls that granted wishes on the planet Namek.<k><p>He said, even if they couldn't get them on Earth, they could just go to Namek.<k>
+PT: <p>Aí ele disse que devia ser verdade<k><p>que existiam esferas misteriosas que realizavam desejos no planeta Namekusei.<k><p>Disse que, se não conseguissem na Terra, era só ir a Namekusei.<k>
+### 4003 [cf1/c16/c1605_00.sb:34] (x1)
+EN: <p>That's right! I heard it too!<k><p>They said Nameks have the ability to make them!<k>
+PT: <p>Isso mesmo! Eu também ouvi!<k><p>Disseram que os namekuseijins sabem fazer as esferas!<k>
+### 4004 [cf1/c16/c1605_00.sb:35] (x1)
+EN: <p>If... And this is a big if... If there were some way we could get to planet Namek...<k><p>We might be able to find Dragon Balls.<k>
+PT: <p>Se... E é um grande se... Se houvesse algum jeito de chegar ao planeta Namekusei...<k><p>Talvez desse pra achar Esferas do Dragão.<k>
+### 4005 [cf1/c16/c1605_00.sb:37] (x1)
+EN: <p>Very interesting...<k><p>Then, we could wish back everyone who was killed!<k>
+PT: <p>Muito interessante...<k><p>Aí poderíamos reviver todos que morreram!<k>
+### 4006 [cf1/c16/c1605_00.sb:38] (x1)
+EN: <p>And Piccolo, too!<k>
+PT: <p>E o Piccolo também!<k>
+### 4007 [cf1/c16/c1605_00.sb:39] (x1)
+EN: <p>Yeah! Piccolo and Kami too!<k><p>That would make the Dragon Balls here reappear!<k>
+PT: <p>É! O Piccolo e o Kami-Sama também!<k><p>Assim as Esferas do Dragão daqui reapareceriam!<k>
+### 4008 [cf1/c16/c1606_00.sb:8] (x1)
+EN: <p>Thus, Goku and friends found a way to bring back their deceased companions.<k><p>Where could this planet <d>Namek<d> be?<k><p>Could they really find new Dragon Balls?<k><p>And what could be waiting for them there?<k><p>Let us save the rest of the story for another time...<k>
+PT: <p>Assim, Goku e seus amigos encontraram um jeito de trazer de volta os companheiros mortos.<k><p>Onde fica esse planeta <d>Namekusei<d>?<k><p>Será que eles vão mesmo achar novas Esferas do Dragão?<k><p>E o que os espera por lá?<k><p>Vamos guardar o resto da história para outra ocasião...<k>
+### 4009 [cf1/c16/c1606_00.sb:9] (x1)
+EN: <p>To Be Continued...<k>
+PT: <p>Continua...<k>
+### 4010 [cf1/c16/c1610_05.sb:8] (x2)
+EN: <p><c=#ffff00>Dragon Ball Z<n><c>Attack of the Saiyans<n>-STAFF-
+PT: <p><c=#ffff00>Dragon Ball Z<n><c>Attack of the Saiyans<n>-EQUIPE-
+### 4011 [cf1/c16/c1610_05.sb:12] (x2)
+EN: <p><c=#ffff00>Executive Producer<n><c>Shin Unozawa<n>Takashi Shoji<w=45>
+PT: <p><c=#ffff00>Produtor Executivo<n><c>Shin Unozawa<n>Takashi Shoji<w=45>
+### 4012 [cf1/c16/c1610_05.sb:14] (x2)
+EN: <p><c=#ffff00>Chief Producer<n><c>Toshihiro Nada<n>Tomoaki Imanishi<w=45>
+PT: <p><c=#ffff00>Produtor-Chefe<n><c>Toshihiro Nada<n>Tomoaki Imanishi<w=45>
+### 4013 [cf1/c16/c1610_05.sb:16] (x2)
+EN: <p><c=#ffff00>Producer<n><c>Ryo Mito<w=45>
+PT: <p><c=#ffff00>Produtor<n><c>Ryo Mito<w=45>
+### 4014 [cf1/c16/c1610_05.sb:18] (x2)
+EN: <p><c=#ffff00>Assistant Producer<n><c>Koji Nakajima<w=45>
+PT: <p><c=#ffff00>Produtor Assistente<n><c>Koji Nakajima<w=45>
+### 4015 [cf1/c16/c1610_05.sb:20] (x2)
+EN: <p><c=#ffff00>Quality Control<n><c>Ryo Sakamoto<n>Keigo Honma<w=45>
+PT: <p><c=#ffff00>Controle de Qualidade<n><c>Ryo Sakamoto<n>Keigo Honma<w=45>
+### 4016 [cf1/c16/c1610_05.sb:22] (x2)
+EN: <p><c=#98FB98>Localization Staff<n><c>Global Software Development<w=45>
+PT: <p><c=#98FB98>Equipe de Localização<n><c>Global Software Development<w=45>
+### 4017 [cf1/c16/c1610_05.sb:24] (x2)
+EN: <p><c=#ffff00>Localization Manager<n><c>Shoko Doi<w=45>
+PT: <p><c=#ffff00>Gerência de Localização<n><c>Shoko Doi<w=45>
+### 4018 [cf1/c16/c1610_05.sb:26] (x2)
+EN: <p><c=#ffff00>Localization Producer<n><c>Takeshi Miyazoe<w=45>
+PT: <p><c=#ffff00>Produtor de Localização<n><c>Takeshi Miyazoe<w=45>
+### 4019 [cf1/c16/c1610_05.sb:28] (x2)
+EN: <p><c=#ffff00>Localization Specialists<w=45>
+PT: <p><c=#ffff00>Especialistas em Localização<w=45>
+### 4020 [cf1/c16/c1610_05.sb:30] (x2)
+EN: <p><c=#98FB98>Global Marketing Section<w=45>
+PT: <p><c=#98FB98>Setor de Marketing Global<w=45>
+### 4021 [cf1/c16/c1610_05.sb:31] (x2)
+EN: <p><c=#ffff00>Manager<n><c>Naruo Uchida<n>Mio Ishida<w=45>
+PT: <p><c=#ffff00>Gerência<n><c>Naruo Uchida<n>Mio Ishida<w=45>
+### 4022 [cf1/c16/c1610_05.sb:32] (x2)
+EN: <p><c=#ffff00>Marketing Coordinator<n><c>Erika Haga<w=45>
+PT: <p><c=#ffff00>Coordenação de Marketing<n><c>Erika Haga<w=45>
+### 4023 [cf1/c16/c1610_05.sb:33] (x2)
+EN: <p><c=#ffff00>Special Thanks<n><c>Ryuichi Enomoto<w=45>
+PT: <p><c=#ffff00>Agradecimentos Especiais<n><c>Ryuichi Enomoto<w=45>
+### 4024 [cf1/c16/c1610_05.sb:36] (x1)
+EN: <p><c=#98FB98>Japan Production<w=45>
+PT: <p><c=#98FB98>Produção no Japão<w=45>
+### 4025 [cf1/c16/c1610_05.sb:37] (x1)
+EN: <p><c=#ffff00>Executive Producer<n><c>Takahiro Sasanoi<w=45>
+PT: <p><c=#ffff00>Produtor Executivo<n><c>Takahiro Sasanoi<w=45>
+### 4026 [cf1/c16/c1610_05.sb:38] (x2)
+EN: <p><c=#ffff00>Chief Producer<n><c>Nobuaki Taguchi<w=45>
+PT: <p><c=#ffff00>Produtor-Chefe<n><c>Nobuaki Taguchi<w=45>
+### 4027 [cf1/c16/c1610_05.sb:39] (x1)
+EN: <p><c=#ffff00>Localization Producer<n><c>Bryant Green<w=45>
+PT: <p><c=#ffff00>Produtor de Localização<n><c>Bryant Green<w=45>
+### 4028 [cf1/c16/c1610_05.sb:41] (x1)
+EN: <p><c=#98FB98>Marketing and PR<w=45>
+PT: <p><c=#98FB98>Marketing e RP<w=45>
+### 4029 [cf1/c16/c1610_05.sb:42] (x1)
+EN: <p><c=#ffff00>Director of Marketing and PR<n><c>Todd Thorson<w=45>
+PT: <p><c=#ffff00>Diretor de Marketing e RP<n><c>Todd Thorson<w=45>
+### 4030 [cf1/c16/c1610_05.sb:43] (x1)
+EN: <p><c=#ffff00>Senior Product Marketing Manager<n><c>Dennis Lee<w=45>
+PT: <p><c=#ffff00>Gerente Sênior de Marketing<n><c>Dennis Lee<w=45>
+### 4031 [cf1/c16/c1610_05.sb:44] (x1)
+EN: <p><c=#ffff00>Senior PR Manager<n><c>Arne Cual-Pedroso<w=45>
+PT: <p><c=#ffff00>Gerente Sênior de RP<n><c>Arne Cual-Pedroso<w=45>
+### 4032 [cf1/c16/c1610_05.sb:45] (x1)
+EN: <p><c=#ffff00>Associate PR Manager<n><c>Timothy Ng<w=45>
+PT: <p><c=#ffff00>Gerente Associado de RP<n><c>Timothy Ng<w=45>
+### 4033 [cf1/c16/c1610_05.sb:46] (x1)
+EN: <p><c=#ffff00>Creative Services Manager<n><c>Michi Wang<w=45>
+PT: <p><c=#ffff00>Gerência de Serviços Criativos<n><c>Michi Wang<w=45>
+### 4034 [cf1/c16/c1610_05.sb:47] (x1)
+EN: <p><c=#ffff00>Media Manager<n><c>Paul Caparotta<w=45>
+PT: <p><c=#ffff00>Gerência de Mídia<n><c>Paul Caparotta<w=45>
+### 4035 [cf1/c16/c1610_05.sb:48] (x1)
+EN: <p><c=#ffff00>Video Editor<n><c>Keisuke Kumiji<w=45>
+PT: <p><c=#ffff00>Edição de Vídeo<n><c>Keisuke Kumiji<w=45>
+### 4036 [cf1/c16/c1610_05.sb:50] (x1)
+EN: <p><c=#98FB98>Sales<w=45>
+PT: <p><c=#98FB98>Vendas<w=45>
+### 4037 [cf1/c16/c1610_05.sb:51] (x1)
+EN: <p><c=#ffff00>Senior Director of Sales<n><c>Chris Lee<w=45>
+PT: <p><c=#ffff00>Diretor Sênior de Vendas<n><c>Chris Lee<w=45>
+### 4038 [cf1/c16/c1610_05.sb:52] (x1)
+EN: <p><c=#ffff00>Market Research Analyst<n><c>Charlie Chough<w=45>
+PT: <p><c=#ffff00>Análise de Mercado<n><c>Charlie Chough<w=45>
+### 4039 [cf1/c16/c1610_05.sb:53] (x1)
+EN: <p><c=#ffff00>Quality Assurance<w=45>
+PT: <p><c=#ffff00>Garantia de Qualidade<w=45>
+### 4040 [cf1/c16/c1610_05.sb:54] (x1)
+EN: <p><c=#ffff00>Senior Quality Assurance Manager<n><c>Tad Hirabayashi<w=45>
+PT: <p><c=#ffff00>Gerente Sênior de QA<n><c>Tad Hirabayashi<w=45>
+### 4041 [cf1/c16/c1610_05.sb:55] (x1)
+EN: <p><c=#ffff00>Quality Assurance Supervisor<n><c>Mike Peterson<w=45>
+PT: <p><c=#ffff00>Supervisor de QA<n><c>Mike Peterson<w=45>
+### 4042 [cf1/c16/c1610_05.sb:56] (x1)
+EN: <p><c=#ffff00>Project Coordinator<n><c>Jesse Mejia<w=45>
+PT: <p><c=#ffff00>Coordenação de Projeto<n><c>Jesse Mejia<w=45>
+### 4043 [cf1/c16/c1610_05.sb:57] (x1)
+EN: <p><c=#ffff00>QA Lead<n><c>Greg Anderson<w=45>
+PT: <p><c=#ffff00>Líder de QA<n><c>Greg Anderson<w=45>
+### 4044 [cf1/c16/c1610_05.sb:62] (x1)
+EN: <p><c=#ffff00>QA Testers<n><c>Taylor Benson<n>Jackson Chen<w=45>
+PT: <p><c=#ffff00>Testadores de QA<n><c>Taylor Benson<n>Jackson Chen<w=45>
+### 4045 [cf1/c16/c1610_05.sb:64] (x1)
+EN: <p><c=#ffff00>Special Thanks<n><c>Andrew Davis<n>Hudson Piehl<w=45>
+PT: <p><c=#ffff00>Agradecimentos Especiais<n><c>Andrew Davis<n>Hudson Piehl<w=45>
+### 4046 [cf1/c16/c1610_05.sb:69] (x2)
+EN: <p><c=#98FB98>Development:Monolithsoft Inc.<w=45>
+PT: <p><c=#98FB98>Desenvolvimento: Monolithsoft Inc.<w=45>
+### 4047 [cf1/c16/c1610_05.sb:71] (x2)
+EN: <p><c=#ffff00>Executive Producer<n><c>Hirohide Sugiura<w=45>
+PT: <p><c=#ffff00>Produtor Executivo<n><c>Hirohide Sugiura<w=45>
+### 4048 [cf1/c16/c1610_05.sb:73] (x2)
+EN: <p><c=#ffff00>General Producer<n><c>Tomohiro Hagiwara<w=45>
+PT: <p><c=#ffff00>Produtor Geral<n><c>Tomohiro Hagiwara<w=45>
+### 4049 [cf1/c16/c1610_05.sb:75] (x2)
+EN: <p><c=#ffff00>Producer<n><c>Yasuyuki Honne<w=45>
+PT: <p><c=#ffff00>Produtor<n><c>Yasuyuki Honne<w=45>
+### 4050 [cf1/c16/c1610_05.sb:77] (x2)
+EN: <p><c=#ffff00>Director<n><c>Koji Hayashi<w=45>
+PT: <p><c=#ffff00>Diretor<n><c>Koji Hayashi<w=45>
+### 4051 [cf1/c16/c1610_05.sb:79] (x2)
+EN: <p><c=#98FB98>Programmers<n><c=#ffff00>Main Programmer<n><c>Toshiaki Yajima<w=45>
+PT: <p><c=#98FB98>Programação<n><c=#ffff00>Programador Principal<n><c>Toshiaki Yajima<w=45>
+### 4052 [cf1/c16/c1610_05.sb:80] (x2)
+EN: <p><c=#ffff00>Battle Programmer<n><c>Hiroki Takemura<w=45>
+PT: <p><c=#ffff00>Programação de Batalha<n><c>Hiroki Takemura<w=45>
+### 4053 [cf1/c16/c1610_05.sb:81] (x2)
+EN: <p><c=#ffff00>Game Scenario<n><c>Koji Hayashi<w=45>
+PT: <p><c=#ffff00>Roteiro<n><c>Koji Hayashi<w=45>
+### 4054 [cf1/c16/c1610_05.sb:83] (x2)
+EN: <p><c=#98FB98>Planners<n><c=#ffff00>Battle Planner<n><c>Takaaki Kodera<w=45>
+PT: <p><c=#98FB98>Planejamento<n><c=#ffff00>Planejamento de Batalha<n><c>Takaaki Kodera<w=45>
+### 4055 [cf1/c16/c1610_05.sb:84] (x2)
+EN: <p><c=#ffff00>Field Planner<n><c>Tomonori Kawazoe<w=45>
+PT: <p><c=#ffff00>Planejamento de Campo<n><c>Tomonori Kawazoe<w=45>
+### 4056 [cf1/c16/c1610_05.sb:85] (x2)
+EN: <p><c=#ffff00>Map Planner<n><c>Masahiro Kabe<w=45>
+PT: <p><c=#ffff00>Planejamento de Mapas<n><c>Masahiro Kabe<w=45>
+### 4057 [cf1/c16/c1610_05.sb:86] (x2)
+EN: <p><c=#ffff00>Menu Planner<n><c>Shunichi Matta<w=45>
+PT: <p><c=#ffff00>Planejamento de Menus<n><c>Shunichi Matta<w=45>
+### 4058 [cf1/c16/c1610_05.sb:88] (x2)
+EN: <p><c=#98FB98>Art/Graphics<n><c=#ffff00>Art Director<n><c>Yasuyuki Honne<w=45>
+PT: <p><c=#98FB98>Arte/Gráficos<n><c=#ffff00>Direção de Arte<n><c>Yasuyuki Honne<w=45>
+### 4059 [cf1/c16/c1610_05.sb:89] (x2)
+EN: <p><c=#ffff00>Object Graphics<n><c>Hiroshi Uchiyama<w=45>
+PT: <p><c=#ffff00>Gráficos de Objetos<n><c>Hiroshi Uchiyama<w=45>
+### 4060 [cf1/c16/c1610_05.sb:91] (x2)
+EN: <p><c=#ffff00>Map Graphics<n><c>Shoko Fukuchi<n>Satoko Nishio<w=45>
+PT: <p><c=#ffff00>Gráficos de Mapas<n><c>Shoko Fukuchi<n>Satoko Nishio<w=45>
+### 4061 [cf1/c16/c1610_05.sb:93] (x2)
+EN: <p><c=#ffff00>Character Graphics<n><c>Ayumi Takata<w=45>
+PT: <p><c=#ffff00>Gráficos de Personagens<n><c>Ayumi Takata<w=45>
+### 4062 [cf1/c16/c1610_05.sb:94] (x2)
+EN: <p><c=#ffff00>Menu Graphics<n><c>Hiroko Kiyonari<w=45>
+PT: <p><c=#ffff00>Gráficos de Menus<n><c>Hiroko Kiyonari<w=45>
+### 4063 [cf1/c16/c1610_05.sb:95] (x2)
+EN: <p><c=#ffff00>Battle Graphics<n><c>Masatake Kaneoka<w=45>
+PT: <p><c=#ffff00>Gráficos de Batalha<n><c>Masatake Kaneoka<w=45>
+### 4064 [cf1/c16/c1610_05.sb:96] (x2)
+EN: <p><c=#ffff00>Map Effect Graphics<n><c>Yuji Tago<w=45>
+PT: <p><c=#ffff00>Efeitos de Mapa<n><c>Yuji Tago<w=45>
+### 4065 [cf1/c16/c1610_05.sb:98] (x2)
+EN: <p><c=#ffff00>Special Thanks<n><c>Katsutoshi Yamamoto<n>Yoshiharu Miyake<w=45>
+PT: <p><c=#ffff00>Agradecimentos Especiais<n><c>Katsutoshi Yamamoto<n>Yoshiharu Miyake<w=45>
+### 4066 [cf1/c16/c1610_05.sb:99] (x2)
+EN: <p><c=#ffff00>Support Staff<n><c>Mitsuhiro Yuki<w=45>
+PT: <p><c=#ffff00>Equipe de Apoio<n><c>Mitsuhiro Yuki<w=45>
+### 4067 [cf1/c16/c1610_05.sb:102] (x2)
+EN: <p><c=#98FB98>BGM Creation<n><c=#ffff00>M's Factory<n><c>TSUKASA MASUKO<w=45>
+PT: <p><c=#98FB98>Trilha Sonora<n><c=#ffff00>M's Factory<n><c>TSUKASA MASUKO<w=45>
+### 4068 [cf1/c16/c1610_05.sb:104] (x2)
+EN: <p><c=#98FB98>Cast<w=45>
+PT: <p><c=#98FB98>Elenco<w=45>
+### 4069 [cf1/c16/c1610_05.sb:111] (x2)
+EN: <p><c=#ffff00>Krillin<n><w=30><c>Mayumi Tanaka
+PT: <p><c=#ffff00>Kuririn<n><w=30><c>Mayumi Tanaka
+### 4070 [cf1/c16/c1610_06.sb:37] (x1)
+EN: <p><c=#98FB98>Localization Staff<w=45>
+PT: <p><c=#98FB98>Equipe de Localização<w=45>
+### 4071 [cf1/c16/c1610_06.sb:52] (x1)
+EN: <p><c=#98FB98>LOCAL MARKETING TEAM<w=45>
+PT: <p><c=#98FB98>EQUIPE DE MARKETING LOCAL<w=45>
+### 4072 [cf1/c16/c1610_06.sb:53] (x1)
+EN: <p><c=#ffff00>France<n><c>Antoine Jamet<w=45>
+PT: <p><c=#ffff00>França<n><c>Antoine Jamet<w=45>
+### 4073 [cf1/c16/c1610_06.sb:54] (x1)
+EN: <p><c=#ffff00>Deutschland<n><c>David Razaghi Kamsi<w=45>
+PT: <p><c=#ffff00>Alemanha<n><c>David Razaghi Kamsi<w=45>
+### 4074 [cf1/c16/c1610_06.sb:55] (x1)
+EN: <p><c=#ffff00>Iberica<n><c>Pablo Tamargo Sitges<n>Laura Aznar Bertran<w=45>
+PT: <p><c=#ffff00>Ibéria<n><c>Pablo Tamargo Sitges<n>Laura Aznar Bertran<w=45>
+### 4075 [cf1/c16/c1610_06.sb:56] (x1)
+EN: <p><c=#ffff00>Italy<n><c>Mario Vacca<w=45>
+PT: <p><c=#ffff00>Itália<n><c>Mario Vacca<w=45>
+### 4076 [cf1/c16/c1610_06.sb:58] (x1)
+EN: <p><c=#ffff00>Nordic<n><c>Kalle Lagerroos<w=45>
+PT: <p><c=#ffff00>Países Nórdicos<n><c>Kalle Lagerroos<w=45>
+### 4077 [cf1/c16/c1610_06.sb:59] (x1)
+EN: <p><c=#ffff00>Hellas<n><c>Chris Altiparmakis<w=45>
+PT: <p><c=#ffff00>Grécia<n><c>Chris Altiparmakis<w=45>
+### 4078 [cf1/c16/c1610_06.sb:61] (x1)
+EN: <p><c=#ffff00>Australia<n><c>Leesa Byrne<n>Raelene Knowles<w=45>
+PT: <p><c=#ffff00>Austrália<n><c>Leesa Byrne<n>Raelene Knowles<w=45>
+### 4079 [cf1/c16/c1610_06.sb:63] (x1)
+EN: <p><c=#ffff00>SPECIAL THANKS<w=45>
+PT: <p><c=#ffff00>AGRADECIMENTOS ESPECIAIS<w=45>
+### 4080 [cf1/c16/c1610_06.sb:64] (x1)
+EN: <p><c=#ffff00>Testing<n><c>HP GDAS<w=45>
+PT: <p><c=#ffff00>Testes<n><c>HP GDAS<w=45>
+### 4081 [cf1/c16/c1610_06.sb:65] (x1)
+EN: <p><c=#ffff00>Project Manager<n><c>Vedavyas KP<w=45>
+PT: <p><c=#ffff00>Gerência de Projeto<n><c>Vedavyas KP<w=45>
+### 4082 [cf1/c16/c1610_06.sb:66] (x1)
+EN: <p><c=#ffff00>Test Lead<n><c>Maibam Pritam<w=45>
+PT: <p><c=#ffff00>Líder de Testes<n><c>Maibam Pritam<w=45>
+### 4083 [btl_mes_SYS:0:us] (x1)
+EN: First attack!
+PT: Primeiro ataque!
+### 4084 [btl_mes_SYS:1:us] (x1)
+EN: Sneak attack!
+PT: Ataque surpresa!
+### 4085 [btl_mes_SYS:2:us] (x1)
+EN: Not enough Ki.
+PT: Ki insuficiente.
+### 4086 [btl_mes_SYS:3:us] (x1)
+EN: Failed to escape...
+PT: Não conseguiu fugir...
+### 4087 [btl_mes_SYS:4:us] (x1)
+EN: Cannot escape this battle!
+PT: Não dá para fugir desta luta!
+### 4088 [btl_mes_SYS:5:us] (x1)
+EN: No one came...
+PT: Ninguém veio...
+### 4089 [btl_mes_SYS:6:us] (x1)
+EN: No one to switch to.
+PT: Ninguém para trocar.
+### 4090 [btl_mes_SYS:7:us] (x1)
+EN: <f> fled.
+PT: <f> fugiu.
+### 4091 [btl_mes_SYS:8:us] (x1)
+EN: <i> stolen.
+PT: <i> roubado.
+### 4092 [btl_mes_SYS:9:us] (x1)
+EN: <f> watches on.
+PT: <f> observa.
+### 4093 [btl_mes_SYS:10:us] (x1)
+EN: Cannot use Scouter.
+PT: Não pode usar o Scouter.
+### 4094 [btl_mes_SYS:11:us] (x1)
+EN: Rage Gauge not full.
+PT: Medidor de Fúria incompleto.
+### 4095 [btl_mes_SYS:12:us] (x1)
+EN: You have no items.
+PT: Você não tem itens.
+### 4096 [btl_mes_SYS:13:us] (x1)
+EN: Can't use in Kaio-ken mode.
+PT: Não dá no modo Kaioken.
+### 4097 [btl_mes_SYS:14:us] (x1)
+EN: No Supers learned.
+PT: Nenhum Especial aprendido.
+### 4098 [btl_mes_SYS:19:us] (x1)
+EN: <t> was revived.
+PT: <t> foi revivido.
+### 4099 [btl_mes_SYS:20:us] (x1)
+EN: <t> appeared.
+PT: <t> apareceu.
+### 4100 [btl_mes_SYS:21:us] (x1)
+EN: <f>'s Attack rose.
+PT: Ataque de <f> subiu.
+### 4101 [btl_mes_SYS:22:us] (x1)
+EN: <f>'s Defense rose.
+PT: Defesa de <f> subiu.
+### 4102 [btl_mes_SYS:23:us] (x1)
+EN: <f>'s Accuracy rose.
+PT: Precisão de <f> subiu.
+### 4103 [btl_mes_SYS:24:us] (x1)
+EN: <f>'s Evade rose.
+PT: Esquiva de <f> subiu.
+### 4104 [btl_mes_SYS:25:us] (x1)
+EN: <f>'s Speed rose.
+PT: Velocidade de <f> subiu.
+### 4105 [btl_mes_SYS:26:us] (x1)
+EN: <f>'s Rage Gauge rose.
+PT: Fúria de <f> subiu.
+### 4106 [btl_mes_SYS:27:us] (x1)
+EN: <f>'s Attack fell.
+PT: Ataque de <f> caiu.
+### 4107 [btl_mes_SYS:28:us] (x1)
+EN: <f>'s Defense fell.
+PT: Defesa de <f> caiu.
+### 4108 [btl_mes_SYS:29:us] (x1)
+EN: <f>'s Accuracy fell.
+PT: Precisão de <f> caiu.
+### 4109 [btl_mes_SYS:30:us] (x1)
+EN: <f>'s Evade fell.
+PT: Esquiva de <f> caiu.
+### 4110 [btl_mes_SYS:31:us] (x1)
+EN: <f>'s Speed fell.
+PT: Velocidade de <f> caiu.
+### 4111 [btl_mes_SYS:32:us] (x1)
+EN: <f>'s Rage Gauge fell.
+PT: Fúria de <f> caiu.
+### 4112 [btl_mes_SYS:33:us] (x1)
+EN: Took back <i>.
+PT: Recuperou <i>.
+### 4113 [btl_mes_SYS:44:us] (x1)
+EN: All
+PT: Todos
+### 4114 [btl_mes_SYS:46:us] (x1)
+EN: Attack
+PT: Atacar
+### 4115 [btl_mes_SYS:47:us] (x1)
+EN: Defend
+PT: Defender
+### 4116 [btl_mes_SYS:48:us] (x1)
+EN: Super
+PT: Especial
+### 4117 [btl_mes_SYS:49:us] (x1)
+EN: Ultimate
+PT: Supremo
+### 4118 [btl_mes_SYS:50:us] (x2)
+EN: Switch
+PT: Trocar
+### 4119 [btl_mes_SYS:51:us] (x1)
+EN: Run
+PT: Fugir
+### 4120 [btl_mes_SYS:54:us] (x1)
+EN: Containment Wave Power UP!
+PT: Poder do Mafuba AUMENTOU!
+### 4121 [btl_mes_SYS:55:us] (x1)
+EN: Item drops changed!
+PT: Itens deixados mudaram!
+### 4122 [btl_mes_SYS:56:us] (x1)
+EN: Rage gauge drops more slowly!
+PT: Fúria cai mais devagar!
+### 4123 [btl_mes_SYS:57:us] (x1)
+EN: Rage gauge never falls!
+PT: Fúria nunca cai!
+### 4124 [btl_mes_SYS:58:us] (x1)
+EN: Sneak attack rate UP!
+PT: Chance de emboscada AUMENTOU!
+### 4125 [btl_mes_SYS:59:us] (x1)
+EN: First attack rate UP!
+PT: Chance de 1° ataque AUMENTOU!
+### 4126 [btl_mes_SYS:60:us] (x1)
+EN: No sneak attacks!
+PT: Sem ataques surpresa!
+### 4127 [btl_mes_SYS:61:us] (x1)
+EN: Sparking Combo power UP!
+PT: Poder do S-Combo AUMENTOU!
+### 4128 [btl_mes_SYS:62:us] (x1)
+EN: Escape chance UP!
+PT: Chance de fuga AUMENTOU!
+### 4129 [btl_mes_SYS:63:us] (x1)
+EN: AP earned by standby members UP!
+PT: AP da reserva AUMENTOU!
+### 4130 [btl_mes_SYS:64:us] (x1)
+EN: Zeni earned UP!
+PT: Zeni ganho AUMENTOU!
+### 4131 [btl_mes_SYS:65:us] (x1)
+EN: Item drop rate UP!
+PT: Chance de itens AUMENTOU!
+### 4132 [btl_mes_SYS:66:us] (x1)
+EN: Rare item drop rate UP!
+PT: Chance de itens raros AUMENTOU!
+### 4133 [btl_mes_SYS:67:us] (x1)
+EN: Poison resistance UP!
+PT: Resistência a veneno AUMENTOU!
+### 4134 [btl_mes_SYS:68:us] (x1)
+EN: Thunder resistance UP!
+PT: Resistência a raio AUMENTOU!
+### 4135 [btl_mes_SYS:69:us] (x1)
+EN: Fire resistance UP!
+PT: Resistência a fogo AUMENTOU!
+### 4136 [btl_mes_SYS:70:us] (x1)
+EN: Ice resistance UP!
+PT: Resistência a gelo AUMENTOU!
+### 4137 [btl_mes_SYS:71:us] (x1)
+EN: Elemental resistance UP!
+PT: Resist. a elementos AUMENTOU!
+### 4138 [btl_mes_SYS:72:us] (x1)
+EN: Poison on all enemies!
+PT: Veneno em todos os inimigos!
+### 4139 [btl_mes_SYS:73:us] (x1)
+EN: Darkness on all enemies!
+PT: Escuridão em todos os inimigos!
+### 4140 [btl_mes_SYS:74:us] (x1)
+EN: Sleep on all enemies!
+PT: Sono em todos os inimigos!
+### 4141 [btl_mes_SYS:75:us] (x1)
+EN: Paralysis on all enemies!
+PT: Paralisia em todos os inimigos!
+### 4142 [btl_mes_SYS:76:us] (x1)
+EN: Freeze on all enemies!
+PT: Congelamento em todos!
+### 4143 [btl_mes_SYS:77:us] (x1)
+EN: HP refilled at end of battle!
+PT: HP restaurado no fim da luta!
+### 4144 [btl_mes_SYS:78:us] (x1)
+EN: Ki refilled at end of battle!
+PT: Ki restaurado no fim da luta!
+### 4145 [btl_mes_ITM:0:us] (x1)
+EN: Used <i>.
+PT: Usou <i>.
+### 4146 [btl_mes_ITM:1:us] (x1)
+EN: <f> used <i> on <t>.
+PT: <f> usou <i> em <t>.
+### 4147 [btl_mes_ITM:4:us] (x1)
+EN: Nothing happened.
+PT: Nada aconteceu.
+### 4148 [btl_mes_ITM:9:us] (x1)
+EN: <t> was healed.
+PT: <t> foi curado.
+### 4149 [btl_mes_ITM:10:us] (x1)
+EN: <t> was fully healed.
+PT: <t> foi totalmente curado.
+### 4150 [btl_mes_ITM:11:us] (x1)
+EN: Party healed.
+PT: Grupo curado.
+### 4151 [btl_mes_ITM:12:us] (x1)
+EN: Party fully healed.
+PT: Grupo totalmente curado.
+### 4152 [btl_mes_ITM:19:us] (x1)
+EN: <t>'s Ki refilled.
+PT: Ki de <t> restaurado.
+### 4153 [btl_mes_ITM:20:us] (x1)
+EN: <t>'s Ki fully refilled.
+PT: Ki de <t> totalmente restaurado.
+### 4154 [btl_mes_ITM:21:us] (x1)
+EN: Party's Ki refilled.
+PT: Ki do grupo restaurado.
+### 4155 [btl_mes_ITM:22:us] (x1)
+EN: Party's Ki fully refilled.
+PT: Ki do grupo todo restaurado.
+### 4156 [btl_mes_ITM:29:us] (x1)
+EN: <t>'s HP/Ki refilled.
+PT: HP/Ki de <t> restaurados.
+### 4157 [btl_mes_ITM:30:us] (x1)
+EN: <t>'s HP/Ki fully refilled.
+PT: HP/Ki de <t> todo restaurado.
+### 4158 [btl_mes_ITM:31:us] (x1)
+EN: Party's HP/Ki refilled.
+PT: HP/Ki do grupo restaurados.
+### 4159 [btl_mes_ITM:32:us] (x1)
+EN: Party's HP/Ki fully refilled.
+PT: HP/Ki do grupo no máximo.
+### 4160 [btl_mes_ITM:34:us] (x1)
+EN: <t>'s status restored.
+PT: Estado de <t> restaurado.
+### 4161 [btl_mes_ITM:35:us] (x1)
+EN: Party's status restored.
+PT: Estado do grupo restaurado.
+### 4162 [btl_mes_ITM:36:us] (x1)
+EN: HP/Ki switched.
+PT: HP/Ki trocados.
+### 4163 [btl_mes_ITM:37:us] (x1)
+EN: Party's status recovered.
+PT: Estado do grupo recuperado.
+### 4164 [btl_mes_ITM:38:us] (x1)
+EN: <t> recovered.
+PT: <t> se recuperou.
+### 4165 [btl_mes_ITM:39:us] (x1)
+EN: All downed fighters recovered.
+PT: Os caídos se recuperaram.
+### 4166 [btl_mes_ITM:40:us] (x1)
+EN: <t> woke up.
+PT: <t> acordou.
+### 4167 [btl_mes_ITM:41:us] (x1)
+EN: <t> no longer paralyzed.
+PT: <t> não está mais paralisado.
+### 4168 [btl_mes_ITM:42:us] (x1)
+EN: <t> no longer poisoned.
+PT: <t> não está mais envenenado.
+### 4169 [btl_mes_ITM:43:us] (x1)
+EN: <t> no longer blind.
+PT: <t> não está mais cego.
+### 4170 [btl_mes_ITM:44:us] (x1)
+EN: <t> no longer stunned.
+PT: <t> não está mais atordoado.
+### 4171 [btl_mes_ITM:45:us] (x1)
+EN: <t> no longer confused.
+PT: <t> não está mais confuso.
+### 4172 [btl_mes_ITM:46:us] (x1)
+EN: <t> no longer frozen.
+PT: <t> não está mais congelado.
+### 4173 [btl_mes_ITM:47:us] (x1)
+EN: <t> free of ailments.
+PT: <t> livre de efeitos.
+### 4174 [btl_mes_ITM:48:us] (x1)
+EN: Party free of ailments.
+PT: Grupo livre de efeitos.
+### 4175 [btl_mes_ITM:49:us] (x1)
+EN: <t>'s Rage Gauge rose.
+PT: Fúria de <t> subiu.
+### 4176 [btl_mes_ITM:50:us] (x1)
+EN: <t>'s Rage Gauge at max.
+PT: Fúria de <t> no máximo.
+### 4177 [btl_mes_ITM:51:us] (x1)
+EN: <t>'s Attack rose.
+PT: Ataque de <t> subiu.
+### 4178 [btl_mes_ITM:52:us] (x1)
+EN: <t>'s Defense rose.
+PT: Defesa de <t> subiu.
+### 4179 [btl_mes_ITM:53:us] (x1)
+EN: <t>'s Accuracy rose.
+PT: Precisão de <t> subiu.
+### 4180 [btl_mes_ITM:54:us] (x1)
+EN: <t>'s Evade rose.
+PT: Esquiva de <t> subiu.
+### 4181 [btl_mes_ITM:55:us] (x1)
+EN: <t>'s Speed rose.
+PT: Velocidade de <t> subiu.
+### 4182 [btl_mes_ITM:56:us] (x1)
+EN: All of <t>'s abilities rose.
+PT: Atributos de <t> subiram.
+### 4183 [btl_mes_ITM:57:us] (x1)
+EN: <t>'s critical rate rose.
+PT: Chance de crítico de <t> subiu.
+### 4184 [btl_mes_ITM:58:us] (x1)
+EN: <t>'s Attack fell.
+PT: Ataque de <t> caiu.
+### 4185 [btl_mes_ITM:59:us] (x1)
+EN: <t>'s Defense fell.
+PT: Defesa de <t> caiu.
+### 4186 [btl_mes_ITM:60:us] (x1)
+EN: <t>'s Accuracy fell.
+PT: Precisão de <t> caiu.
+### 4187 [btl_mes_ITM:61:us] (x1)
+EN: <t>'s Evade fell.
+PT: Esquiva de <t> caiu.
+### 4188 [btl_mes_ITM:64:us] (x1)
+EN: EXP earned in this battle UP!
+PT: EXP desta luta AUMENTOU!
+### 4189 [btl_mes_ITM:65:us] (x1)
+EN: Zeni earned in this battle UP!
+PT: Zeni desta luta AUMENTOU!
+### 4190 [btl_mes_ITM:66:us] (x1)
+EN: Enemy item drop rate UP!
+PT: Itens dos inimigos AUMENTARAM!
+### 4191 [btl_mes_ITM:67:us] (x1)
+EN: <t> is invincible.
+PT: <t> está invencível.
+### 4192 [btl_mes_ITM:68:us] (x1)
+EN: <t> resistant to ailments.
+PT: <t> resiste a efeitos.
+### 4193 [btl_mes_ITM:69:us] (x1)
+EN: <t>'s senses sharpened.
+PT: <t> aguçou os sentidos.
+### 4194 [btl_mes_ITM:70:us] (x1)
+EN: <t> bursts with power.
+PT: <t> transborda de poder.
+### 4195 [btl_mes_BLAST:0:us] (x1)
+EN: HP Up
+PT: HP+
+### 4196 [btl_mes_BLAST:1:us] (x1)
+EN: Raises maximum HP
+PT: Aumenta o HP máximo
+### 4197 [btl_mes_BLAST:2:us] (x1)
+EN: Ki Up
+PT: Ki+
+### 4198 [btl_mes_BLAST:3:us] (x1)
+EN: Raises maximum Ki
+PT: Aumenta o Ki máximo
+### 4199 [btl_mes_BLAST:4:us] (x1)
+EN: Attack Up
+PT: Ataque+
+### 4200 [btl_mes_BLAST:5:us] (x1)
+EN: Raises Attack
+PT: Aumenta o Ataque
+### 4201 [btl_mes_BLAST:6:us] (x1)
+EN: Defense Up
+PT: Defesa+
+### 4202 [btl_mes_BLAST:7:us] (x2)
+EN: Raises Defense
+PT: Aumenta a Defesa
+### 4203 [btl_mes_BLAST:8:us] (x1)
+EN: Accuracy Up
+PT: Precisão+
+### 4204 [btl_mes_BLAST:9:us] (x1)
+EN: Raises Accuracy
+PT: Aumenta a Precisão
+### 4205 [btl_mes_BLAST:10:us] (x1)
+EN: Dodge Up
+PT: Esquiva+
+### 4206 [btl_mes_BLAST:11:us] (x1)
+EN: Raises Dodge
+PT: Aumenta a Esquiva
+### 4207 [btl_mes_BLAST:12:us] (x1)
+EN: Speed Up
+PT: Velocidade+
+### 4208 [btl_mes_BLAST:13:us] (x1)
+EN: Raises movement speed
+PT: Aumenta a velocidade de movimento
+### 4209 [btl_mes_BLAST:14:us] (x1)
+EN: Auto-heal Up
+PT: Autocura+
+### 4210 [btl_mes_BLAST:15:us] (x1)
+EN: Raises the amount of HP you heal<n>automatically
+PT: Aumenta o HP recuperado<n>automaticamente
+### 4211 [btl_mes_BLAST:16:us] (x1)
+EN: Critical Up
+PT: Crítico+
+### 4212 [btl_mes_BLAST:17:us] (x1)
+EN: Increases chance of critical attack
+PT: Aumenta a chance de crítico
+### 4213 [btl_mes_BLAST:18:us] (x1)
+EN: Chain Up
+PT: Corrente+
+### 4214 [btl_mes_BLAST:19:us] (x1)
+EN: Increases chance of launching a chain
+PT: Aumenta a chance de corrente
+### 4215 [btl_mes_BLAST:20:us] (x1)
+EN: Rage Gauge Up
+PT: Fúria+
+### 4216 [btl_mes_BLAST:21:us] (x2)
+EN: Makes your Rage Gauge fill up faster
+PT: Enche o Medidor de Fúria mais rápido
+### 4217 [btl_mes_BLAST:22:us] (x1)
+EN: All Abilities Up
+PT: Atributos+
+### 4218 [btl_mes_BLAST:23:us] (x1)
+EN: Raises all Abilities except HP and Ki
+PT: Aumenta atributos, exceto HP e Ki
+### 4219 [btl_mes_BLAST:24:us] (x1)
+EN: Resistance Up
+PT: Resistência+
+### 4220 [btl_mes_BLAST:25:us] (x1)
+EN: Raises resistance against fire,<n>thunder, and ice
+PT: Aumenta a resistência a fogo,<n>raio e gelo
+### 4221 [btl_mes_BLAST:26:us] (x1)
+EN: Ailment Resist Up
+PT: Resist. a Efeitos+
+### 4222 [btl_mes_BLAST:27:us] (x1)
+EN: Makes you more resistant to status<n>ailments
+PT: Aumenta a resistência a efeitos<n>de estado
+### 4223 [btl_mes_BLAST:28:us] (x1)
+EN: Item Effect Up
+PT: Efeito de Item+
+### 4224 [btl_mes_BLAST:29:us] (x1)
+EN: Enhances the effect of the items<n>you use
+PT: Melhora o efeito dos itens<n>que você usa
+### 4225 [btl_mes_BLAST:30:us] (x1)
+EN: Item Drop Up
+PT: Itens Deixados+
+### 4226 [btl_mes_BLAST:31:us] (x2)
+EN: Makes enemies drop items more often
+PT: Inimigos deixam itens mais vezes
+### 4227 [btl_mes_BLAST:32:us] (x1)
+EN: Ki Blast Resist Up
+PT: Resist. a Ki+
+### 4228 [btl_mes_BLAST:33:us] (x1)
+EN: Raises resistance to Ki attacks
+PT: Aumenta a resistência a ataques de Ki
+### 4229 [btl_mes_BLAST:39:us] (x1)
+EN: Combination
+PT: Combinação
+### 4230 [btl_mes_BLAST:40:us] (x2)
+EN: A quick, nimble combo attack
+PT: Um combo rápido e ágil
+### 4231 [btl_mes_BLAST:41:us] (x1)
+EN: Meteor Combination
+PT: Combinação Meteoro
+### 4232 [btl_mes_BLAST:42:us] (x1)
+EN: A punishing combo attack
+PT: Um combo arrasador
+### 4233 [btl_mes_BLAST:44:us] (x3)
+EN: Turtle Style Energy Wave Attack <n>The world-famous \42Kamehameha\42
+PT: Onda de energia do Estilo Tartaruga<n>O famoso \42Kamehameha\42
+### 4234 [btl_mes_BLAST:45:us] (x1)
+EN: Energy Wave Combo
+PT: Combo de Ondas
+### 4235 [btl_mes_BLAST:46:us] (x2)
+EN: Fires energy blasts at all enemies
+PT: Dispara energia em todos os inimigos
+### 4236 [btl_mes_BLAST:47:us] (x1)
+EN: After-image Technique
+PT: Zanzoken
+### 4237 [btl_mes_BLAST:48:us] (x1)
+EN: Gives you a large Evade boost for<n>several turns
+PT: Aumenta muito a Esquiva por<n>vários turnos
+### 4238 [btl_mes_BLAST:49:us] (x1)
+EN: Kaio-ken
+PT: Kaioken
+### 4239 [btl_mes_BLAST:50:us] (x1)
+EN: Doubles all attributes for several turns<n>Decreases HP after effect expires
+PT: Dobra os atributos por vários turnos<n>Tira HP quando o efeito acaba
+### 4240 [btl_mes_BLAST:51:us] (x1)
+EN: Spirit Bomb
+PT: Genki Dama
+### 4241 [btl_mes_BLAST:52:us] (x1)
+EN: An ultimate attack using everyone's spirit<n>Guard disabled until it's executed
+PT: Ataque supremo com a energia de todos<n>Sem defesa até ser disparado
+### 4242 [btl_mes_BLAST:53:us] (x1)
+EN: Rush
+PT: Investida
+### 4243 [btl_mes_BLAST:56:us] (x1)
+EN: An energy blast skill perfected by Piccolo
+PT: Rajada de energia criada pelo Piccolo
+### 4244 [btl_mes_BLAST:57:us] (x1)
+EN: Energy Blast Barrage
+PT: Rajadas em Série
+### 4245 [btl_mes_BLAST:59:us] (x1)
+EN: Anger
+PT: Fúria
+### 4246 [btl_mes_BLAST:60:us] (x1)
+EN: Expands the Rage Gauge and boosts your<n>attack for several turns
+PT: Aumenta o Medidor de Fúria e o ataque<n>por vários turnos
+### 4247 [btl_mes_BLAST:61:us] (x1)
+EN: Icarus
+PT: Ícaro
+### 4248 [btl_mes_BLAST:62:us] (x1)
+EN: Icarus appears to heal HP of all allies.
+PT: Ícaro aparece e cura o HP de todos.
+### 4249 [btl_mes_BLAST:63:us] (x1)
+EN: Burst Rush
+PT: Investida Explosiva
+### 4250 [btl_mes_BLAST:64:us] (x1)
+EN: A fierce combo attack driven by anger
+PT: Um combo feroz movido pela raiva
+### 4251 [btl_mes_BLAST:65:us] (x1)
+EN: Miracle Full Force
+PT: Força Total Milagrosa
+### 4252 [btl_mes_BLAST:66:us] (x1)
+EN: A rage-driven body attack
+PT: Um ataque de corpo movido pela raiva
+### 4253 [btl_mes_BLAST:67:us] (x1)
+EN: Evil Assault
+PT: Ataque Maligno
+### 4254 [btl_mes_BLAST:68:us] (x1)
+EN: A combo attack the way only Piccolo<n>could do it
+PT: Um combo que só o Piccolo<n>sabe fazer
+### 4255 [btl_mes_BLAST:69:us] (x1)
+EN: Destructive Wave
+PT: Onda Destrutiva
+### 4256 [btl_mes_BLAST:70:us] (x1)
+EN: A normal energy blast
+PT: Uma rajada de energia comum
+### 4257 [btl_mes_BLAST:71:us] (x1)
+EN: Light Grenade
+PT: Granada de Luz
+### 4258 [btl_mes_BLAST:72:us] (x1)
+EN: A strong energy blast<n>Attacking enemies with Ki from your hands
+PT: Uma rajada de energia forte<n>Ataca com o Ki das mãos
+### 4259 [btl_mes_BLAST:73:us] (x1)
+EN: Super Explosive Wave
+PT: Super Onda Explosiva
+### 4260 [btl_mes_BLAST:74:us] (x1)
+EN: Launches an explosive energy wave around<n>your body, damaging all enemies
+PT: Solta uma onda explosiva em volta<n>do corpo, ferindo todos os inimigos
+### 4261 [btl_mes_BLAST:75:us] (x1)
+EN: Regeneration
+PT: Regeneração
+### 4262 [btl_mes_BLAST:76:us] (x1)
+EN: Refills your HP
+PT: Recupera seu HP
+### 4263 [btl_mes_BLAST:77:us] (x1)
+EN: Special Beam Cannon
+PT: Makankosappo
+### 4264 [btl_mes_BLAST:78:us] (x1)
+EN: Pierces enemies with Ki from your finger<n>Guard is disabled (for several turns) until it's executed
+PT: Perfura o inimigo com Ki do dedo<n>Sem defesa (por turnos) até disparar
+### 4265 [btl_mes_BLAST:79:us] (x1)
+EN: Hellzone Grenade
+PT: Granada Infernal
+### 4266 [btl_mes_BLAST:80:us] (x1)
+EN: Surround your enemy with Ki force<n>Launch it all at once to explode the enemy
+PT: Cerca o inimigo com Ki e dispara<n>tudo de uma vez para explodi-lo
+### 4267 [btl_mes_BLAST:82:us] (x1)
+EN: A combo attack that strikes the enemy<n>when his guard is down
+PT: Um combo que acerta o inimigo<n>quando ele baixa a guarda
+### 4268 [btl_mes_BLAST:85:us] (x1)
+EN: Destructo Disk
+PT: Kienzan
+### 4269 [btl_mes_BLAST:86:us] (x1)
+EN: An energy attack that slices right through<n>enemies
+PT: Um disco de energia que corta<n>os inimigos
+### 4270 [btl_mes_BLAST:87:us] (x1)
+EN: Scatter Energy Wave
+PT: Onda Dispersa
+### 4271 [btl_mes_BLAST:88:us] (x1)
+EN: Scatters compressed energy waves from the sky<n> damaging all enemies
+PT: Espalha ondas de energia do céu<n> ferindo todos os inimigos
+### 4272 [btl_mes_BLAST:89:us] (x2)
+EN: Solar Flare
+PT: Taiyoken
+### 4273 [btl_mes_BLAST:90:us] (x1)
+EN: Dazzles enemies with a bright light.<n>Gives you a good chance to escape
+PT: Ofusca os inimigos com uma luz forte.<n>Boa chance de fugir
+### 4274 [btl_mes_BLAST:91:us] (x1)
+EN: Chain Destructo-disc Barrage
+PT: Kienzan em Série
+### 4275 [btl_mes_BLAST:92:us] (x1)
+EN: Fires a barrage of Destructo Disks at<n>all enemies
+PT: Dispara vários Kienzan em<n>todos os inimigos
+### 4276 [btl_mes_BLAST:94:us] (x1)
+EN: Yajirobe heals all allies, and his sword<n>disables all enemies from fighting.
+PT: Yajirobe cura todos, e a espada dele<n>impede os inimigos de lutar.
+### 4277 [btl_mes_BLAST:95:us] (x1)
+EN: Fierce Attack
+PT: Ataque Feroz
+### 4278 [btl_mes_BLAST:96:us] (x1)
+EN: A combo attack that plows over your<n>enemies
+PT: Um combo que atropela os<n>inimigos
+### 4279 [btl_mes_BLAST:97:us] (x1)
+EN: Tri-Beam
+PT: Kikoho
+### 4280 [btl_mes_BLAST:98:us] (x1)
+EN: A strong energy blast that consumes HP
+PT: Uma rajada forte que consome HP
+### 4281 [btl_mes_BLAST:99:us] (x1)
+EN: Multi-Form Attack
+PT: Ataque Multiforma
+### 4282 [btl_mes_BLAST:100:us] (x1)
+EN: Divides you into four fighters and<n>launches energy waves
+PT: Divide você em quatro lutadores<n>que disparam ondas de energia
+### 4283 [btl_mes_BLAST:102:us] (x1)
+EN: Dazzle enemies with bright light <n>Chance of causing Darkness on<n>all enemies
+PT: Ofusca os inimigos com uma luz forte<n>Pode causar Escuridão em<n>todos os inimigos
+### 4284 [btl_mes_BLAST:103:us] (x1)
+EN: Evil Containment Wave
+PT: Mafuba
+### 4285 [btl_mes_BLAST:104:us] (x1)
+EN: Seals enemies into a rice cooker<n>Higher chance of success on weakened enemies
+PT: Prende os inimigos numa panela de arroz<n>Mais chance em inimigos enfraquecidos
+### 4286 [btl_mes_BLAST:105:us] (x1)
+EN: Neo Tri-Beam
+PT: Neo Kikoho
+### 4287 [btl_mes_BLAST:106:us] (x1)
+EN: Fires a barrage of Tri-Beams. Consumes<n>a large amount of HP
+PT: Dispara vários Kikoho. Consome<n>muito HP
+### 4288 [btl_mes_BLAST:107:us] (x1)
+EN: Final Solar Flare
+PT: Taiyoken Final
+### 4289 [btl_mes_BLAST:108:us] (x1)
+EN: Nobody can imitate this \42real\42 solar flare<n>Darkness and then big damages on all enemies 
+PT: Ninguém imita este Taiyoken \42real\42<n>Escuridão e muito dano em todos
+### 4290 [btl_mes_BLAST:109:us] (x1)
+EN: Wolf Hurricane
+PT: Furacão do Lobo
+### 4291 [btl_mes_BLAST:110:us] (x1)
+EN: A somewhat needlessly flashy combo move
+PT: Um combo meio exibido demais
+### 4292 [btl_mes_BLAST:111:us] (x1)
+EN: Wolf Fang Fist
+PT: Punho do Lobo
+### 4293 [btl_mes_BLAST:112:us] (x1)
+EN: Yamcha's favorite strong combo attack
+PT: O combo forte favorito do Yamcha
+### 4294 [btl_mes_BLAST:115:us] (x1)
+EN: Spirit Ball
+PT: Sokidan
+### 4295 [btl_mes_BLAST:116:us] (x1)
+EN: Attacks several times with a set of<n>energy balls
+PT: Ataca várias vezes com bolas<n>de energia
+### 4296 [btl_mes_BLAST:117:us] (x1)
+EN: Perfect Moves
+PT: Golpes Perfeitos
+### 4297 [btl_mes_BLAST:118:us] (x1)
+EN: Allows you to always hit with your<n>attacks for several turns
+PT: Faz todos os seus ataques acertarem<n>por vários turnos
+### 4298 [btl_mes_BLAST:119:us] (x1)
+EN: Neo Wolf Fang Fist
+PT: Neo Punho do Lobo
+### 4299 [btl_mes_BLAST:120:us] (x1)
+EN: A more powerful Wolf Fang Fist<n>A punishing combo attack
+PT: Um Punho do Lobo mais forte<n>Um combo arrasador
+### 4300 [btl_mes_BLAST:121:us] (x1)
+EN: Super Spirit Ball
+PT: Super Sokidan
+### 4301 [btl_mes_BLAST:122:us] (x1)
+EN: Attacks all enemies with powerful<n>Spirit Balls multiple several times
+PT: Ataca todos os inimigos com Sokidans<n>poderosos várias vezes
+### 4302 [btl_mes_BLAST:129:us] (x1)
+EN: Energy Blast
+PT: Rajada de Energia
+### 4303 [btl_mes_BLAST:130:us] (x1)
+EN: 2x Energy Blast
+PT: Rajada de Energia 2x
+### 4304 [btl_mes_BLAST:131:us] (x1)
+EN: Max Energy Blast
+PT: Rajada de Energia Máx.
+### 4305 [btl_mes_BLAST:132:us] (x1)
+EN: Move it!!
+PT: Sai da frente!!
+### 4306 [btl_mes_BLAST:135:us] (x1)
+EN: I am Vegeta!
+PT: Eu sou Vegeta!
+### 4307 [btl_mes_BLAST:137:us] (x1)
+EN: Galick Gun
+PT: Galick Ho
+### 4308 [btl_mes_BLAST:138:us] (x1)
+EN: Super Breath Cannon
+PT: Super Canhão de Sopro
+### 4309 [btl_mes_BLAST:140:us] (x1)
+EN: Turtle Style Last Resort
+PT: Recurso Final Tartaruga
+### 4310 [btl_mes_BLAST:141:us] (x1)
+EN: Max Kamehameha
+PT: Kamehameha Máximo
+### 4311 [btl_mes_BLAST:142:us] (x1)
+EN: Gigantic Blow
+PT: Golpe Gigantesco
+### 4312 [btl_mes_BLAST:143:us] (x1)
+EN: Blaster Cannon
+PT: Canhão Blaster
+### 4313 [btl_mes_BLAST:144:us] (x1)
+EN: Blaster Burst
+PT: Explosão Blaster
+### 4314 [btl_mes_TUT:0:us] (x1)
+EN: \4AA\1P3Encounters
+PT: \4AA\1P3Encontros
+### 4315 [btl_mes_TUT:1:us] (x1)
+EN: You will run into enemies during your<n>travels. Battle ends when you defeat them;<n>lose, and the game is over. Always keep<n>an eye on your party's HP levels.
+PT: Você vai encontrar inimigos em suas<n>viagens. A luta acaba ao vencê-los;<n>se perder, é fim de jogo. Fique sempre<n>de olho no HP do seu grupo.
+### 4316 [btl_mes_TUT:2:us] (x1)
+EN: \4AA\1P3Basic Commands
+PT: \4AA\1P3Comandos Básicos
+### 4317 [btl_mes_TUT:3:us] (x1)
+EN: \1P1Attack  \1Pn: Attack enemies<n>\1P1Item    \1Pn: Use an item<n>\1P1Skill   \1Pn: Use Ki to launch a skill<n>\1P1Defend  \1Pn: Defend and reduce damage taken
+PT: \1P1Atacar  \1Pn: Ataca os inimigos<n>\1P1Item    \1Pn: Usa um item<n>\1P1Técnica \1Pn: Usa Ki numa técnica<n>\1P1Defender\1Pn: Defende e reduz o dano
+### 4318 [btl_mes_TUT:4:us] (x1)
+EN: \4AA\1P3Running
+PT: \4AA\1P3Fugindo
+### 4319 [btl_mes_TUT:5:us] (x1)
+EN: You can run from most battles by selecting<n>the \1P1Run\1Pn command. If it fails, the<n>character will be unable to do anything for<n>one turn.
+PT: Dá para fugir da maioria das lutas com<n>o comando \1P1Fugir\1Pn. Se falhar, o<n>personagem não poderá agir por<n>um turno.
+### 4320 [btl_mes_TUT:6:us] (x1)
+EN: \4AA\1P3Switching
+PT: \4AA\1P3Trocando
+### 4321 [btl_mes_TUT:7:us] (x1)
+EN: If you have party members on standby, use<n>the \1P1Switch\1Pn command to change allies in and<n>out of battle.
+PT: Se houver membros na reserva, use<n>o comando \1P1Trocar\1Pn para trocar os aliados<n>na luta.
+### 4322 [btl_mes_TUT:8:us] (x2)
+EN: \4AA\1P3Status Ailments
+PT: \4AA\1P3Efeitos de Estado
+### 4323 [btl_mes_TUT:9:us] (x1)
+EN: Sometimes enemy attacks will give you<n>status ailments. There are 8 types:<n>\1P1Sleep, Paralyze, Poison, Dark, Confuse, Stun,<n>\1P1Freeze, and Carrot\1Pn.
+PT: Às vezes os ataques inimigos causam<n>efeitos de estado. São 8 tipos:<n>\1P1Sono, Paralisia, Veneno, Escuro, Confusão,<n>\1P1Atordoamento, Congelamento e Cenoura\1Pn.
+### 4324 [btl_mes_TUT:11:us] (x1)
+EN: Status ailments may cost you several turns<n>or damage you gradually over time. It's<n>tough to fight with them, so fix them with<n>items as soon as possible.
+PT: Efeitos de estado podem custar turnos<n>ou causar dano aos poucos. É difícil<n>lutar com eles, então cure-os com<n>itens o quanto antes.
+### 4325 [btl_mes_TUT:12:us] (x2)
+EN: \4AA\1P3Attack Types
+PT: \4AA\1P3Tipos de Ataque
+### 4326 [btl_mes_TUT:13:us] (x1)
+EN: There are several kinds of attacks you can<n>unleash. If one attack doesn't seem to<n>work, try another attack method, such as<n>a skill or item.<n>
+PT: Há vários tipos de ataque que você pode<n>usar. Se um ataque não parece<n>funcionar, tente outro jeito, como<n>uma técnica ou um item.<n>
+### 4327 [btl_mes_TUT:15:us] (x1)
+EN: @35 Melee type<n>@36 Ki type<n>@37 Fire type<n>@39 Thunder type<n>@38 Ice type<n>
+PT: @35 Corpo a corpo<n>@36 Ki<n>@37 Fogo<n>@39 Raio<n>@38 Gelo<n>
+### 4328 [btl_mes_TUT:16:us] (x1)
+EN: \4AA\1P3Active Guards (1)
+PT: \4AA\1P3Defesa Ativa (1)
+### 4329 [btl_mes_TUT:17:us] (x1)
+EN: Press the Button just before the enemy <n>attacks to reduce damage. Watch for the<n>icon above your character's head -- that's<n>your chance.
+PT: Aperte o Botão logo antes do ataque <n>inimigo para reduzir o dano. Veja o<n>ícone sobre a cabeça do personagem:<n>é a sua chance.
+### 4330 [btl_mes_TUT:18:us] (x1)
+EN: \4AA\1P3Active Guards (2)
+PT: \4AA\1P3Defesa Ativa (2)
+### 4331 [btl_mes_TUT:19:us] (x1)
+EN: The button to press depends on where your<n>character is. From the top, press \4Pd,<n>\4Pf, or \4Pb. Try to press it just before<n>you take the attack.
+PT: O botão depende da posição do seu<n>personagem. De cima: aperte \4Pd,<n>\4Pf ou \4Pb. Tente apertar logo antes<n>de levar o golpe.
+### 4332 [btl_mes_TUT:20:us] (x1)
+EN: \4AA\1P3Rage Gauge
+PT: \4AA\1P3Medidor de Fúria
+### 4333 [btl_mes_TUT:21:us] (x1)
+EN: This gauge goes up when you attack, or are<n>attacked by enemies. When it's full, you<n>can launch Ultimate Skills or Sparking<n>Combos.
+PT: Este medidor sobe quando você ataca ou<n>é atacado. Quando fica cheio, você<n>pode usar Técnicas Supremas ou<n>Sparking Combos.
+### 4334 [btl_mes_TUT:23:us] (x1)
+EN: These combos are launched when party<n>members \1P1whose Rage Gauge is maxed out\1Pn<n>attack the same enemy with certain<n>special moves.
+PT: Estes combos saem quando membros do<n>grupo \1P1com o Medidor de Fúria cheio\1Pn<n>atacam o mesmo inimigo com certos<n>golpes especiais.
+### 4335 [btl_mes_TUT:25:us] (x1)
+EN: These S-Combos let you deal more damage<n>than what would normally be possible.<n>There are many ways to combine these<n>moves, so try to experiment a little.
+PT: Os S-Combos causam mais dano do que<n>seria possível normalmente.<n>Há muitas formas de combinar os<n>golpes, então experimente.
+### 4336 [btl_mes_TUT:26:us] (x2)
+EN: \4AA\1P3Ultimate Skills
+PT: \4AA\1P3Téc. Supremas
+### 4337 [btl_mes_TUT:27:us] (x1)
+EN: These skills, learned as you play through<n>the game, are extremely powerful. You can<n>unleash them \1P1when your Rage Gauge is full\1Pn.
+PT: Aprendidas ao longo do jogo, estas<n>técnicas são poderosíssimas. Use-as<n>\1P1quando o Medidor de Fúria estiver cheio\1Pn.
+### 4338 [btl_mes_TUT:29:us] (x1)
+EN: Some skills require several turns to<n>unleash. Get the timing right, and you'll<n>be able to smash your enemies!
+PT: Algumas levam vários turnos para<n>sair. Acerte o tempo e você vai<n>arrasar seus inimigos!
+### 4339 [btl_mes_TUT:30:us] (x1)
+EN: \4AA\1P3World Tournament
+PT: \4AA\1P3Torneio
+### 4340 [btl_mes_TUT:31:us] (x1)
+EN: You cannot use items during the World<n>Martial Arts Tournament. Use Active Guard<n>instead to keep damage as low as possible.
+PT: Não é possível usar itens no Torneio<n>de Artes Marciais. Use a Defesa Ativa<n>para receber o mínimo de dano.
+### 4341 [btl_mes_TUT:40:us] (x1)
+EN: \1P3Skill Acquired
+PT: \1P3Nova Técnica
+### 4342 [btl_mes_TUT:41:us] (x1)
+EN: \1P3Piccolo\1Pn learned \1P1Special Beam Cannon\1Pn.
+PT: \1P3Piccolo\1Pn aprendeu \1P1Makankosappo\1Pn.
+### 4343 [cf_mes_TUT:0:us] (x1)
+EN: \4AA\1P3Shops
+PT: \4AA\1P3Lojas
+### 4344 [cf_mes_TUT:1:us] (x1)
+EN: \24P3Welcome!<n>\24P3You can use@19\24P3 \1P3Zeni\1Pn (money)\1Pn to<N>\24P3buy a variety of items, as well<n>\24P3as sell stuff you don't need<n>\24P3for extra \1P3Zeni\1Pn.
+PT: \24P3Bem-vindo!<n>\24P3Use o seu@19\24P3 \1P3Zeni\1Pn (dinheiro)\1Pn para<N>\24P3comprar vários itens, e também<n>\24P3vender o que não precisa por<n>\24P3mais \1P3Zeni\1Pn.
+### 4345 [cf_mes_TUT:2:us] (x1)
+EN: \4AA\1P3Item Types
+PT: \4AA\1P3Tipos de Item
+### 4346 [cf_mes_TUT:3:us] (x1)
+EN: You can buy the following types<n>of items at the shop. Press<n>\240\4pi \4Pk\24P3 to switch menus.<n>@00\24P3\1P3Tools<n>@13\24P3\1P3Accessories<n>@14\24P3\1P3Capsules<n>
+PT: Na loja dá para comprar estes<n>tipos de item. Aperte<n>\240\4pi \4Pk\24P3 para mudar.<n>@00\24P3\1P3Ferramentas<n>@13\24P3\1P3Acessórios<n>@14\24P3\1P3Cápsulas<n>
+### 4347 [cf_mes_TUT:4:us] (x1)
+EN: \4AA\1P3Accessories
+PT: \4AA\1P3Acessórios
+### 4348 [cf_mes_TUT:5:us] (x1)
+EN: \1P3Accessories\1Pn, found in shops and<n>dungeons, can be equipped on<n>characters to power up their<n>abilities. If you find one, try<n>it out and see what happens!
+PT: \1P3Acessórios\1Pn, de lojas e<n>masmorras, dá para equipá-los<n>para aumentar os atributos.<n>Achou um? Teste e veja<n>o que acontece!
+### 4349 [cf_mes_TUT:6:us] (x1)
+EN: \4AA\1P3What's Available
+PT: \4AA\1P3O Que Tem
+### 4350 [cf_mes_TUT:7:us] (x1)
+EN: Different towns sell different<n>merchandise, so make sure you<n>visit the shop whenever you get<n>to a new town.
+PT: Cada cidade vende produtos<n>diferentes, então visite sempre<n>a loja quando chegar a uma<n>cidade nova.
+### 4351 [cf_mes_MENU:0:us] (x1)
+EN: Obtained<n><c=#8BEFD4>%s<c>!
+PT: Obteve<n><c=#8BEFD4>%s<c>!
+### 4352 [cf_mes_MENU:1:us] (x1)
+EN: Yes
+PT: Sim
+### 4353 [cf_mes_MENU:2:us] (x1)
+EN: No
+PT: Não
+### 4354 [cf_mes_MENU:3:us] (x1)
+EN: * Caution *<n>This will delete any quicksave data.<n>Continue anyway?
+PT: * Atenção *<n>Isto apaga o salvamento rápido.<n>Continuar mesmo assim?
+### 4355 [cf_mes_MENU:4:us] (x1)
+EN: Select Data to Load
+PT: Carregar Dados
+### 4356 [cf_mes_MENU:5:us] (x1)
+EN: Quicksave data available.<n>Continue your game?
+PT: Há um salvamento rápido.<n>Continuar o jogo?
+### 4357 [cf_mes_MENU:6:us] (x1)
+EN: Data corrupted
+PT: Dados corrompidos
+### 4358 [cf_mes_MENU:7:us] (x1)
+EN: Empty
+PT: Vazio
+### 4359 [cf_mes_MENU:8:us] (x1)
+EN: Overwrite this file?
+PT: Sobrescrever arquivo?
+### 4360 [cf_mes_MENU:9:us] (x1)
+EN: Saving. Don't turn off the power.
+PT: Salvando. Não desligue o console.
+### 4361 [cf_mes_MENU:10:us] (x1)
+EN: Save and leave the game?
+PT: Salvar e sair do jogo?
+### 4362 [cf_mes_MENU:11:us] (x1)
+EN: The game will return to the title screen.
+PT: O jogo vai voltar à tela título.
+### 4363 [cf_mes_MENU:12:us] (x1)
+EN: Quicksaving...
+PT: Salvamento rápido...
+### 4364 [cf_mes_MENU:13:us] (x1)
+EN: Quicksave complete. It will be deleted<n>when you load it next.
+PT: Salvamento rápido concluído. Ele será<n>apagado quando for carregado.
+### 4365 [cf_mes_MENU:14:us] (x1)
+EN: Save your progress?
+PT: Salvar o progresso?
+### 4366 [cf_mes_MENU:15:us] (x1)
+EN: Are you sure you want to continue<n>without saving?
+PT: Tem certeza de que quer continuar<n>sem salvar?
+### 4367 [cf_mes_MENU:16:us] (x1)
+EN: Quicksave data corrupt. Deleting.
+PT: Salvamento rápido corrompido. Apagando.
+### 4368 [cf_mes_MENU:17:us] (x1)
+EN: Save Complete
+PT: Salvo com Sucesso
+### 4369 [cf_mes_MENU:18:us] (x2)
+EN: Skip
+PT: Pular
+### 4370 [cf_mes_MENU:21:us] (x1)
+EN: Sort
+PT: Ordenar
+### 4371 [cf_mes_MENU:22:us] (x1)
+EN: Drop
+PT: Largar
+### 4372 [cf_mes_MENU:23:us] (x1)
+EN: Remove
+PT: Tirar
+### 4373 [cf_mes_MENU:25:us] (x1)
+EN: Try Again
+PT: Refazer
+### 4374 [cf_mes_MENU:26:us] (x1)
+EN: Buy
+PT: Comprar
+### 4375 [cf_mes_MENU:27:us] (x1)
+EN: Sell
+PT: Vender
+### 4376 [cf_mes_MENU:29:us] (x1)
+EN: Items
+PT: Itens
+### 4377 [cf_mes_MENU:30:us] (x2)
+EN: Skills
+PT: Técnicas
+### 4378 [cf_mes_MENU:31:us] (x1)
+EN: Equip
+PT: Equipar
+### 4379 [cf_mes_MENU:32:us] (x1)
+EN: Crystal Ball
+PT: Bola de Cristal
+### 4380 [cf_mes_MENU:34:us] (x1)
+EN: Options
+PT: Opções
+### 4381 [cf_mes_MENU:36:us] (x1)
+EN: Capsules
+PT: Cápsulas
+### 4382 [cf_mes_MENU:37:us] (x1)
+EN: View Items and their usage 
+PT: Ver itens e como usá-los 
+### 4383 [cf_mes_MENU:38:us] (x1)
+EN: Use AP to learn/upgrade skills
+PT: Use AP para aprender técnicas
+### 4384 [cf_mes_MENU:39:us] (x1)
+EN: Change the party's equipment
+PT: Trocar o equipamento do grupo
+### 4385 [cf_mes_MENU:40:us] (x1)
+EN: View goals, enemy info, etc.
+PT: Ver objetivos, inimigos etc.
+### 4386 [cf_mes_MENU:41:us] (x1)
+EN: View your party's skills
+PT: Ver as técnicas do grupo
+### 4387 [cf_mes_MENU:42:us] (x1)
+EN: Adjust the game's options
+PT: Ajustar as opções do jogo
+### 4388 [cf_mes_MENU:43:us] (x1)
+EN: Change the battle lineup
+PT: Mudar a formação de luta
+### 4389 [cf_mes_MENU:44:us] (x1)
+EN: Change capsule shortcuts
+PT: Mudar atalhos de cápsula
+### 4390 [cf_mes_MENU:45:us] (x2)
+EN: Quicksave
+PT: Salvar Rápido
+### 4391 [cf_mes_MENU:47:us] (x1)
+EN: Save
+PT: Salvar
+### 4392 [cf_mes_MENU:48:us] (x1)
+EN: Can not learn skills yet!
+PT: Ainda não pode aprender técnicas!
+### 4393 [cf_mes_MENU:50:us] (x1)
+EN: Ultimate Skills
+PT: Técnicas Supremas
+### 4394 [cf_mes_MENU:51:us] (x1)
+EN: Abilities
+PT: Habilidades
+### 4395 [cf_mes_MENU:52:us] (x1)
+EN: Select Skill type. You can use AP to<n>learn or upgrade Skills.
+PT: Escolha o tipo de técnica. Use AP para<n>aprender ou melhorar técnicas.
+### 4396 [cf_mes_MENU:53:us] (x1)
+EN: S-Combo<n>Guide
+PT: Guia de<n>S-Combos
+### 4397 [cf_mes_MENU:54:us] (x1)
+EN: Next Goal
+PT: Próximo Objetivo
+### 4398 [cf_mes_MENU:55:us] (x1)
+EN: Enemy Info
+PT: Inimigos
+### 4399 [cf_mes_MENU:56:us] (x1)
+EN: Power
+PT: Poder
+### 4400 [cf_mes_MENU:59:us] (x1)
+EN: Use %s AP to earn this skill
+PT: Use %s AP para aprender
+### 4401 [cf_mes_MENU:60:us] (x1)
+EN: Use %s AP to upgrade this skill
+PT: Use %s AP para melhorar
+### 4402 [cf_mes_MENU:61:us] (x1)
+EN: Assign your bonus points to your parameters.
+PT: Distribua seus pontos de bônus.
+### 4403 [cf_mes_MENU:62:us] (x1)
+EN: Is this what you want?
+PT: É isso que você quer?
+### 4404 [cf_mes_MENU:63:us] (x1)
+EN: Cannot assign any more points here.
+PT: Não dá para pôr mais pontos aqui.
+### 4405 [cf_mes_MENU:64:us] (x1)
+EN: Equip %s
+PT: Equipar %s
+### 4406 [cf_mes_MENU:65:us] (x1)
+EN: No. Owned
+PT: Quantidade
+### 4407 [cf_mes_MENU:68:us] (x1)
+EN: NO DATA
+PT: SEM DADOS
+### 4408 [cf_mes_MENU:69:us] (x1)
+EN: Message Speed
+PT: Velocidade do Texto
+### 4409 [cf_mes_MENU:70:us] (x1)
+EN: The speed of conversation messages
+PT: A velocidade das falas
+### 4410 [cf_mes_MENU:71:us] (x1)
+EN: Slow
+PT: Lenta
+### 4411 [cf_mes_MENU:73:us] (x1)
+EN: Fast
+PT: Rápida
+### 4412 [cf_mes_MENU:74:us] (x1)
+EN: Sound
+PT: Som
+### 4413 [cf_mes_MENU:75:us] (x1)
+EN: Choose between stereo or mono
+PT: Escolha entre estéreo e mono
+### 4414 [cf_mes_MENU:77:us] (x1)
+EN: Stereo
+PT: Estéreo
+### 4415 [cf_mes_MENU:79:us] (x1)
+EN: Language Select
+PT: Idioma
+### 4416 [cf_mes_MENU:89:us] (x1)
+EN: <p>Sniff... <w=30><n>Sniff...<w=60><p>Looks like there are <c=#c0c0f0>%d<c><n>treasures left to find here.<w=120>
+PT: <p>Fuç... <w=30><n>Fuç...<w=60><p>Parece que ainda há <c=#c0c0f0>%d<c><n>tesouros para achar aqui.<w=120>
+### 4417 [cf_mes_MENU:90:us] (x1)
+EN: Obtained <c=#c0c0f0>%d<c> <c=#c0c0f0>%s<c>(s)!
+PT: Obteve <c=#c0c0f0>%d<c> <c=#c0c0f0>%s<c>!
+### 4418 [cf_mes_MENU:91:us] (x1)
+EN: Obtained memo for S-Combo<n><c=#c0c0f0>%s<c>!
+PT: Obteve anotação do S-Combo<n><c=#c0c0f0>%s<c>!
+### 4419 [cf_mes_MENU:92:us] (x1)
+EN: Cannot carry any more.<n>Returned to chest.
+PT: Não cabe mais nada.<n>Devolvido ao baú.
+### 4420 [cf_mes_MENU:94:us] (x1)
+EN: Drop the chosen item?
+PT: Largar o item escolhido?
+### 4421 [cf_mes_MENU:95:us] (x1)
+EN: Buy the chosen item?
+PT: Comprar o item escolhido?
+### 4422 [cf_mes_MENU:96:us] (x1)
+EN: Sell the chosen item?
+PT: Vender o item escolhido?
+### 4423 [cf_mes_MENU:100:us] (x1)
+EN: Ffwd
+PT: Acel.
+### 4424 [cf_mes_MENU:101:us] (x1)
+EN: Next
+PT: Seguir
+### 4425 [cf_mes_MENU:102:us] (x1)
+EN: Select
+PT: Escolher
+### 4426 [cf_mes_MENU:105:us] (x1)
+EN: Capsule help display
+PT: Ajuda das cápsulas
+### 4427 [cf_mes_MENU:107:us] (x1)
+EN: \1P1Skill Req'd:\1Pn%s Lv%d
+PT: \1P1Requer:\1Pn%s Nv%d
+### 4428 [cf_mes_MENU:108:us] (x1)
+EN: Ki cost
+PT: Custo de Ki
+### 4429 [cf_mes_MENU:109:us] (x1)
+EN: Force
+PT: Força
+### 4430 [cf_mes_MENU:110:us] (x1)
+EN: Accuracy
+PT: Precisão
+### 4431 [cf_mes_MENU:111:us] (x1)
+EN: Effect
+PT: Efeito
+### 4432 [cf_mes_MENU:112:us] (x1)
+EN: Recover
+PT: Cura
+### 4433 [cf_mes_MENU:113:us] (x1)
+EN: Escape
+PT: Fuga
+### 4434 [cf_mes_MENU:115:us] (x1)
+EN: Success
+PT: Sucesso
+### 4435 [cf_mes_MENU:119:us] (x1)
+EN: The save data could not be accessed.<n>Please turn off the power and<n>reinsert the DS Game Card.
+PT: Não foi possível acessar os dados.<n>Desligue o console e<n>recoloque o cartão de jogo.
+### 4436 [cf_mes_MENU:120:us] (x1)
+EN: Resetting backup memory.<n>Press the A Button to begin.
+PT: Reiniciando a memória.<n>Aperte o Botão A para começar.
+### 4437 [cf_mes_MENU:121:us] (x1)
+EN: Resetting...
+PT: Reiniciando...
+### 4438 [cf_mes_MENU:122:us] (x1)
+EN: Memory reset failed. Please turn off<n>the power and reinsert the card.
+PT: Falha ao reiniciar. Desligue o<n>console e recoloque o cartão.
+### 4439 [cf_mes_MENU:123:us] (x1)
+EN: Data write failed. Please turn off the<n>power and reinsert the card.
+PT: Falha ao gravar. Desligue o<n>console e recoloque o cartão.
+### 4440 [cf_mes_MENU:124:us] (x1)
+EN: The Dragon Ball Z: Attack of the Saiyans<n>data is corrupted and will be deleted.<n>Press A Button to continue. 
+PT: Os dados de Dragon Ball Z: Attack of<n>the Saiyans estão corrompidos e serão<n>apagados. Aperte A para continuar. 
+### 4441 [cf_mes_MENU:127:us] (x1)
+EN: Ki blasts
+PT: Rajadas de Ki
+### 4442 [cf_mes_QUEST:0:us] (x1)
+EN: Krillin returns to \1P3Orin Temple\1Pn, his<n>old stomping grounds.
+PT: Kuririn volta ao \1P3Templo Orin\1Pn,<n>seu antigo lar.
+### 4443 [cf_mes_QUEST:1:us] (x1)
+EN: Orin Temple was attacked! Track down the<n>culprit in \1P3Bump Forest\1Pn!
+PT: O Templo Orin foi atacado! Ache o<n>culpado na \1P3Floresta de Bambu\1Pn!
+### 4444 [cf_mes_QUEST:2:us] (x1)
+EN: There's trouble on \1P3Mt. Paozu\1Pn. What<n>are all these carrots about?
+PT: Problemas na \1P3Montanha Paozu\1Pn. O<n>que são todas essas cenouras?
+### 4445 [cf_mes_QUEST:3:us] (x1)
+EN: Monster Carrot is back! Chase him<n>down to the \1P3hideout\1Pn!
+PT: O Coelho Monstro voltou! Persiga-o<n>até o \1P3esconderijo\1Pn!
+### 4446 [cf_mes_QUEST:4:us] (x1)
+EN: Tien is headed for the \1P3Divine<n>\1P3Crossing\1Pn, resting place of Mutaito.
+PT: Tenshinhan vai para a \1P3Travessia<n>\1P3Divina\1Pn, onde repousa Mutaito.
+### 4447 [cf_mes_QUEST:5:us] (x1)
+EN: The World Martial Arts Tournament is<n>here! First up, the prelims.
+PT: Chegou o Torneio de Artes<n>Marciais! Primeiro, as eliminatórias.
+### 4448 [cf_mes_QUEST:6:us] (x1)
+EN: The Tournament is in turmoil! Who<n>is this strange new fighter?
+PT: Confusão no Torneio! Quem é<n>esse lutador estranho?
+### 4449 [cf_mes_QUEST:7:us] (x1)
+EN: Piccolo has returned! All hopes ride<n>on Goku in the final match!
+PT: Piccolo voltou! Toda esperança está<n>no Goku na luta final!
+### 4450 [cf_mes_QUEST:8:us] (x1)
+EN: Goku and Chi-Chi get married! The<n>ceremony's at the \1P3Ox-King's palace!\1P3
+PT: Goku e Chichi vão se casar! A<n>festa é no \1P3palácio do Cutelo!\1P3
+### 4451 [cf_mes_QUEST:9:us] (x1)
+EN: Head to \1P3Fortuneteller Baba's palace\1Pn<n>in search of the Bansho Fan.
+PT: Vá ao \1P3palácio da Vovó Uranai\1Pn<n>atrás do Leque Bashô.
+### 4452 [cf_mes_QUEST:10:us] (x1)
+EN: Hurry to \1P3Mt. Five Element\1Pn to find the<n>furnace that caused the fire!
+PT: Corra à \1P3Montanha 5 Elementos\1Pn e<n>ache a fornalha que causou o fogo!
+### 4453 [cf_mes_QUEST:11:us] (x1)
+EN: You need honey to patch the hole.<n>Master Roshi may know where it is.
+PT: Precisa de mel para tapar o furo.<n>O Mestre Kame talvez saiba onde há.
+### 4454 [cf_mes_QUEST:12:us] (x1)
+EN: Find an eggshell from the fire-eater<n>bird that lives on \1P3Kiwi Volcano\1Pn.
+PT: Ache a casca do ovo do pássaro-<n>come-fogo do \1P3Vulcão Kiwi\1Pn.
+### 4455 [cf_mes_QUEST:13:us] (x1)
+EN: Hakkake, who lives near \1P3Mt. Frappe\1Pn,<n>apparently collects the honey.
+PT: A Hakkake, que vive no \1P3Monte Frappe\1Pn,<n>parece que coleta o mel.
+### 4456 [cf_mes_QUEST:14:us] (x1)
+EN: The honey has been stolen! Follow<n>the gang of three up \1P3Mt. Frappe\1Pn!
+PT: Roubaram o mel! Siga o trio<n>até o alto do \1P3Monte Frappe\1Pn!
+### 4457 [cf_mes_QUEST:15:us] (x1)
+EN: Pilaf and his gang are behind this!<n>Chase them down!
+PT: O Pilaf e a turma dele estão por<n>trás disso! Atrás deles!
+### 4458 [cf_mes_QUEST:16:us] (x1)
+EN: You got the honey! Now find the egg-<n>shell and visit Annin!
+PT: Pegou o mel! Agora ache a casca<n>do ovo e visite a Annin!
+### 4459 [cf_mes_QUEST:17:us] (x1)
+EN: Where is the hole in the furnace?<n>Part the flames and find it!
+PT: Onde está o furo na fornalha?<n>Afaste as chamas e ache-o!
+### 4460 [cf_mes_QUEST:18:us] (x1)
+EN: A mysterious man is headed straight<n>for... \1P3Kame House\1Pn?!
+PT: Um homem misterioso vai direto<n>para... a \1P3Casa do Kame\1Pn?!
+### 4461 [cf_mes_QUEST:19:us] (x1)
+EN: Goku has a son... and boy, is<n>he spoiled!
+PT: Goku tem um filho... e o garoto<n>é mimado!
+### 4462 [cf_mes_QUEST:20:us] (x1)
+EN: Gohan's been kidnapped! And the<n>kidnapper is... Goku's brother?!
+PT: Gohan foi raptado! E o raptor<n>é... o irmão do Goku?!
+### 4463 [cf_mes_QUEST:21:us] (x1)
+EN: Goku and Piccolo team up and head<n>for the \1P3Spinach Wastes\1Pn.
+PT: Goku e Piccolo se unem e vão<n>para o \1P3Ermo do Espinafre\1Pn.
+### 4464 [cf_mes_QUEST:22:us] (x1)
+EN: All alone in the wilderness... Go<n>see Piccolo, who's waiting up ahead.
+PT: Sozinho no meio do nada... Vá<n>ver o Piccolo, que espera à frente.
+### 4465 [cf_mes_QUEST:23:us] (x1)
+EN: Gohan's survival training begins!<n>Stay alive for six months!
+PT: Começa o treino de sobrevivência<n>do Gohan! Sobreviva seis meses!
+### 4466 [cf_mes_QUEST:24:us] (x1)
+EN: Goku is dead, Gohan taken away...<n>Krillin needs to tell Chi-Chi.
+PT: Goku morto, Gohan levado...<n>Kuririn precisa contar à Chichi.
+### 4467 [cf_mes_QUEST:25:us] (x1)
+EN: Get the Precision Circuit from<n>\1P3Capsule Corp\1Pn and give it to Bulma.
+PT: Pegue o Circuito de Precisão na<n>\1P3Corp. Cápsula\1Pn e leve à Bulma.
+### 4468 [cf_mes_QUEST:26:us] (x1)
+EN: Kami is training fighters! Track<n>down Tien, Chiaotzu and Yamcha.
+PT: Kami-Sama treina lutadores! Ache<n>Tenshinhan, Chaos e Yamcha.
+### 4469 [cf_mes_QUEST:27:us] (x1)
+EN: Where is \1P3Holly Plain\1Pn? Find Launch,<n>who was out finding medicine!
+PT: Onde é a \1P3Planície Holly\1Pn? Ache Lunch,<n>que foi buscar remédio!
+### 4470 [cf_mes_QUEST:28:us] (x1)
+EN: Launch is found beyond a gate! Find<n>the Frozen Hyacinth!
+PT: Lunch está além de um portão!<n>Ache o Jacinto Congelado!
+### 4471 [cf_mes_QUEST:29:us] (x1)
+EN: Now bring the Frozen Hyacinth<n>back to \1P3Jingle Village\1Pn.
+PT: Agora leve o Jacinto Congelado<n>de volta à \1P3Vila Jingle\1Pn.
+### 4472 [cf_mes_QUEST:30:us] (x1)
+EN: Tien and Chiaotzu are reunited!<n>Yamcha should be on \1P3Mt. Paozu\1Pn.
+PT: Tenshinhan e Chaos juntos de novo!<n>Yamcha deve estar na \1P3Mont. Paozu\1Pn.
+### 4473 [cf_mes_QUEST:31:us] (x1)
+EN: Everyone's here! Report back to<n>Master Roshi at \1P3Kame House\1Pn.
+PT: Todos reunidos! Volte ao Mestre<n>Kame na \1P3Casa do Kame\1Pn.
+### 4474 [cf_mes_QUEST:32:us] (x1)
+EN: Off to Kami's temple! First stop:<n>\1P3Korin Tower\1Pn.
+PT: Rumo ao templo de Kami-Sama!<n>Primeira parada: \1P3Torre Karin\1Pn.
+### 4475 [cf_mes_QUEST:33:us] (x1)
+EN: The Senzu plants are in trouble! Get<n>water for them at \1P3Hermit's Spring\1Pn.
+PT: As plantas das Sementes estão mal!<n>Pegue água na \1P3Fonte do Eremita\1Pn.
+### 4476 [cf_mes_QUEST:34:us] (x1)
+EN: Gohan has grown! Whose presence does<n>he feel up ahead?
+PT: Gohan cresceu! Que presença<n>ele sente mais à frente?
+### 4477 [cf_mes_QUEST:35:us] (x1)
+EN: Destroy the flower-eating dragon!<n>Gohan's real training begins!
+PT: Destrua o dragão come-flores!<n>Começa o treino de verdade!
+### 4478 [cf_mes_QUEST:36:us] (x1)
+EN: Is this the Other World? Talk to<n>Kami and King Yemma.
+PT: Isto é o Outro Mundo? Fale com<n>Kami-Sama e o Senhor Enma.
+### 4479 [cf_mes_QUEST:37:us] (x1)
+EN: Training under King Kai! \1P3Snake Way\1Pn<n>is yours to traverse.
+PT: Treino com o Senhor Kaioh! A<n>\1P3Estrada da Serpente\1Pn te espera.
+### 4480 [cf_mes_QUEST:38:us] (x1)
+EN: After falling asleep on Snake Way,<n>Goku lands in the \1P3Underworld\1Pn.
+PT: Após dormir na Estrada da Serpente,<n>Goku cai no \1P3Mundo Inferior\1Pn.
+### 4481 [cf_mes_QUEST:39:us] (x1)
+EN: A sumo match with Goz! Win, and<n>you'll get back on Snake Way!
+PT: Sumô contra o Goz! Vença e<n>volte à Estrada da Serpente!
+### 4482 [cf_mes_QUEST:40:us] (x1)
+EN: A game of tag with Mez! Win, and<n>you'll learn about the secret path!
+PT: Pega-pega com o Mez! Vença e<n>descubra o caminho secreto!
+### 4483 [cf_mes_QUEST:41:us] (x1)
+EN: Chase after Mez!
+PT: Atrás do Mez!
+### 4484 [cf_mes_QUEST:42:us] (x1)
+EN: Got 'em! Ask Goz and Mez about the<n>secret path.
+PT: Pegou! Pergunte ao Goz e ao Mez<n>sobre o caminho secreto.
+### 4485 [cf_mes_QUEST:43:us] (x1)
+EN: What a detour! Hurry on<n>to \1P3Snake Way\1Pn!
+PT: Que desvio! Corra de volta<n>à \1P3Estrada da Serpente\1Pn!
+### 4486 [cf_mes_QUEST:44:us] (x1)
+EN: Is this King Kai's place? Let's<n>go inside.
+PT: Aqui é a casa do Senhor Kaioh?<n>Vamos entrar.
+### 4487 [cf_mes_QUEST:45:us] (x1)
+EN: Princess Snake is angry! Get out<n>of her mansion!
+PT: A Princesa Serpente está brava!<n>Fuja da mansão dela!
+### 4488 [cf_mes_QUEST:46:us] (x1)
+EN: Another detour! Off to King<n>Kai's place!
+PT: Outro desvio! Rumo à casa<n>do Senhor Kaioh!
+### 4489 [cf_mes_QUEST:47:us] (x1)
+EN: 10 G-forces? No problem! Catch<n>the sneaky Bubbles!
+PT: 10 vezes a gravidade? Moleza!<n>Pegue o esperto Bubbles!
+### 4490 [cf_mes_QUEST:48:us] (x1)
+EN: The \1P3Yemma Forest\1Pn has been vandal-<n>ized! Save the woods!
+PT: A \1P3Floresta de Enma\1Pn foi depre-<n>dada! Salve o bosque!
+### 4491 [cf_mes_QUEST:49:us] (x1)
+EN: Raditz is down! Back to King Kai<n>to continue your training.
+PT: Raditz caiu! Volte ao Senhor<n>Kaioh para seguir o treino.
+### 4492 [cf_mes_QUEST:50:us] (x1)
+EN: Before the Dragon Balls, visit<n>Baba's to meet your \42helper.\42
+PT: Antes das Esferas, vá à Vovó<n>conhecer seu \42ajudante.\42
+### 4493 [cf_mes_QUEST:51:us] (x1)
+EN: Goku joins! Use the Dragon Rader to find <n>where the Dragon Balls are located!
+PT: Goku entrou! Use o Radar do Dragão para<n>achar onde estão as Esferas!
+### 4494 [cf_mes_QUEST:52:us] (x1)
+EN: Melt the ice blocking the way to<n>\1P3Yunzabit Heights\1Pn with the flame!
+PT: Derreta o gelo no caminho do<n>\1P3Planalto Yunzabit\1Pn com a chama!
+### 4495 [cf_mes_QUEST:53:us] (x1)
+EN: You got the fire! Now melt the ice<n>and explore the area beyond.
+PT: Pegou o fogo! Derreta o gelo e<n>explore a área depois dele.
+### 4496 [cf_mes_QUEST:54:us] (x1)
+EN: The radar points you to the \1P3Devil's<n>Toilet\1Pn... Two Dragon Balls?!
+PT: O radar aponta o \1P3Vaso do<n>Diabo\1Pn... Duas Esferas?!
+### 4497 [cf_mes_QUEST:55:us] (x1)
+EN: The two-star ball is in two pieces!<n>Get the other piece.
+PT: A de 2 estrelas está partida!<n>Pegue o outro pedaço.
+### 4498 [cf_mes_QUEST:56:us] (x1)
+EN: Head to \1P3Kami's Temple\1Pn to repair the<n>broken two-star Dragon Ball.
+PT: Vá ao \1P3Templo de Kami-Sama\1Pn consertar<n>a Esfera de 2 estrelas.
+### 4499 [cf_mes_QUEST:57:us] (x1)
+EN: Find Eighter and the Dragon Ball<n>inside \1P3Muscle Tower\1Pn!
+PT: Ache o Número 8 e a Esfera<n>dentro da \1P3Torre Muscle\1Pn!
+### 4500 [cf_mes_QUEST:58:us] (x1)
+EN: An underwater Dragon Ball? Visit<n>\1P3West City\1Pn and meet Bulma's father.
+PT: Uma Esfera no fundo do mar? Vá à<n>\1P3Cidade do Oeste\1Pn ver o pai da Bulma.
+### 4501 [cf_mes_QUEST:59:us] (x1)
+EN: Dragon Ball search in a submarine!<n> What awaits in the deep sea...? 
+PT: Busca de Esfera de submarino!<n> O que espera no fundo do mar...? 
+### 4502 [cf_mes_QUEST:60:us] (x1)
+EN: A Dragon Ball is hidden in the<n>\1P3Desert\1Pn. Track it down!
+PT: Há uma Esfera escondida no<n>\1P3Deserto\1Pn. Encontre-a!
+### 4503 [cf_mes_QUEST:61:us] (x1)
+EN: Head to \1P3Pilaf's Castle\1Pn to get<n>your stolen Dragon Balls back!
+PT: Vá ao \1P3Castelo do Pilaf\1Pn recuperar<n>as Esferas roubadas!
+### 4504 [cf_mes_QUEST:62:us] (x1)
+EN: You're at the \1P3Castle\1Pn! Now get those<n>Dragon Balls back!
+PT: Chegou ao \1P3Castelo\1Pn! Agora recupere<n>as Esferas do Dragão!
+### 4505 [cf_mes_QUEST:63:us] (x1)
+EN: Gohan's real training begins! Head<n>for the \1P3Nemuria Ruins\1Pn first.
+PT: Começa o treino de verdade! Vá<n>primeiro às \1P3Ruínas de Nemuria\1Pn.
+### 4506 [cf_mes_QUEST:64:us] (x1)
+EN: Piccolo told you to get the Devil's<n>Bracelet inside!
+PT: O Piccolo mandou pegar o Bracelete<n>do Diabo lá dentro!
+### 4507 [cf_mes_QUEST:65:us] (x1)
+EN: You ran into the dead robot again.<n>Where's the spare battery?
+PT: Você achou o robô sem bateria de<n>novo. Onde está a bateria reserva?
+### 4508 [cf_mes_QUEST:66:us] (x1)
+EN: Gohan still isn't back... Piccolo<n>is getting anxious.
+PT: O Gohan ainda não voltou... O<n>Piccolo está ficando inquieto.
+### 4509 [cf_mes_QUEST:67:us] (x1)
+EN: Quicksand at the entrance! Hurry<n>inside!
+PT: Areia movediça na entrada! Entre<n>rápido!
+### 4510 [cf_mes_QUEST:68:us] (x1)
+EN: Gohan is found! But training isn't<n>over yet! Get the devil's bracelet!
+PT: Achou o Gohan! Mas o treino não<n>acabou! Pegue o bracelete do diabo!
+### 4511 [cf_mes_QUEST:69:us] (x1)
+EN: Chiaotzu is gone... Head for \1P3Baba's\1Pn<n>to figure out where he is.
+PT: O Chaos sumiu... Vá à \1P3Vovó\1Pn<n>para descobrir onde ele está.
+### 4512 [cf_mes_QUEST:70:us] (x1)
+EN: Chaiotzu is at \1P3Mutaito's training<n>grounds\1Pn! What happened to him?
+PT: O Chaos está no \1P3campo de treino<n>do Mutaito\1Pn! O que houve com ele?
+### 4513 [cf_mes_QUEST:71:us] (x1)
+EN: Revive the broken \1P3Yemma tree\1Pn to<n>get the Spirit Crystal!
+PT: Reviva a \1P3Árvore do Enma\1Pn para<n>ganhar o Cristal Espiritual!
+### 4514 [cf_mes_QUEST:72:us] (x1)
+EN: The tree is revived! Talk with<n>its spirit!
+PT: A árvore reviveu! Fale com<n>o espírito dela!
+### 4515 [cf_mes_QUEST:73:us] (x1)
+EN: You got the Spirit Crystal! The<n>Spirit Bomb is yours!
+PT: Pegou o Cristal Espiritual! A<n>Genki Dama é sua!
+### 4516 [cf_mes_QUEST:74:us] (x1)
+EN: The Saiyans arrive! Their first<n>target: Piccolo and Gohan!
+PT: Os Saiyajins chegaram! O primeiro<n>alvo: Piccolo e Gohan!
+### 4517 [cf_mes_QUEST:75:us] (x1)
+EN: Krillin is here! Advance on to face<n>the Saiyans...
+PT: Kuririn chegou! Avance para<n>enfrentar os Saiyajins...
+### 4518 [cf_mes_QUEST:76:us] (x1)
+EN: Yamcha sacrificed his life against<n>the Saibamen. The battle begins!
+PT: Yamcha deu a vida contra os<n>Saibamen. A batalha começa!
+### 4519 [cf_mes_QUEST:77:us] (x1)
+EN: Where's Goku?! Three hours left<n>to plan against the Saiyans...
+PT: Cadê o Goku?! Faltam três horas<n>para enfrentar os Saiyajins...
+### 4520 [cf_mes_QUEST:78:us] (x1)
+EN: The warriors go down like flies...<n>But Goku's finally here!
+PT: Os guerreiros caem um a um...<n>Mas o Goku enfim chegou!
+### 4521 [cf_mes_QUEST:79:us] (x1)
+EN: The final battle! Proceed into the<n>\1P3Gizard Wasteland\1Pn. <n>A heated battle beyond the limit.
+PT: A batalha final! Entre no<n>\1P3Ermo Gizard\1Pn. <n>Uma luta acima de qualquer limite.
+### 4522 [cf_mes_QUEST:80:us] (x1)
+EN: Goku vs. Vegeta! This battle will<n>go beyond all limits.
+PT: Goku contra Vegeta! Esta luta vai<n>além de todos os limites.
+### 4523 [cf_mes_LOC:0:us] (x1)
+EN: Devil's Toilet entr.
+PT: Entr. do Vaso do Diabo
+### 4524 [cf_mes_LOC:1:us] (x1)
+EN: Devil's Toilet (Basement Left)
+PT: Vaso do Diabo (Porão Esq.)
+### 4525 [cf_mes_LOC:2:us] (x1)
+EN: Devil's Toilet (Basement Right)
+PT: Vaso do Diabo (Porão Direito)
+### 4526 [cf_mes_LOC:6:us] (x1)
+EN: Orin Temple
+PT: Templo Orin
+### 4527 [cf_mes_LOC:7:us] (x2)
+EN: East City Ruins
+PT: Ruínas da Cid. do Leste
+### 4528 [cf_mes_LOC:8:us] (x1)
+EN: Yemma Forest
+PT: Floresta de Enma
+### 4529 [cf_mes_LOC:9:us] (x1)
+EN: Inside Yemma Forest
+PT: Dentro da Fl. de Enma
+### 4530 [cf_mes_LOC:10:us] (x1)
+EN: Mt. Frappe Cave
+PT: Caverna do Mt. Frappe
+### 4531 [cf_mes_LOC:11:us] (x1)
+EN: Sewer
+PT: Esgoto
+### 4532 [cf_mes_LOC:12:us] (x1)
+EN: Mt. Five Element
+PT: Montanha 5 Elementos
+### 4533 [cf_mes_LOC:13:us] (x1)
+EN: Goku's House
+PT: Casa do Goku
+### 4534 [cf_mes_LOC:14:us] (x1)
+EN: Underworld
+PT: Mundo Inferior
+### 4535 [cf_mes_LOC:19:us] (x1)
+EN: Korin Tower
+PT: Torre Karin
+### 4536 [cf_mes_LOC:20:us] (x1)
+EN: Foot of Kiwi Volcano
+PT: Sopé do Vulcão Kiwi
+### 4537 [cf_mes_LOC:22:us] (x1)
+EN: Break Wasteland Desert
+PT: Areias do Deserto Break
+### 4538 [cf_mes_LOC:25:us] (x1)
+EN: Gizard Wasteland entr.
+PT: Entr. do Ermo Gizard
+### 4539 [cf_mes_LOC:28:us] (x1)
+EN: Mutaito Grounds (cave)
+PT: Campo do Mutaito (cav.)
+### 4540 [cf_mes_LOC:30:us] (x1)
+EN: In Paprika Wasteland
+PT: No Ermo Páprica
+### 4541 [cf_mes_LOC:31:us] (x1)
+EN: Nemuria Ruins
+PT: Ruínas de Nemuria
+### 4542 [cf_mes_LOC:32:us] (x1)
+EN: Inside Nemuria Ruins
+PT: Dentro de Nemuria
+### 4543 [cf_mes_LOC:34:us] (x1)
+EN: Pilaf's Castle 1
+PT: Castelo do Pilaf 1
+### 4544 [cf_mes_LOC:35:us] (x1)
+EN: Pilaf's Castle 2
+PT: Castelo do Pilaf 2
+### 4545 [cf_mes_LOC:36:us] (x1)
+EN: Pilaf's Castle Window
+PT: Janela do Cast. do Pilaf
+### 4546 [cf_mes_LOC:37:us] (x1)
+EN: Outside Pilaf's Castle
+PT: Fora do Castelo do Pilaf
+### 4547 [cf_mes_LOC:40:us] (x1)
+EN: Princess Snake's House
+PT: Casa da Princ. Serpente
+### 4548 [cf_mes_LOC:41:us] (x1)
+EN: Princess Snake's Room
+PT: Quarto da Pr. Serpente
+### 4549 [cf_mes_LOC:44:us] (x1)
+EN: In Spinach Wastes
+PT: No Ermo do Espinafre
+### 4550 [cf_mes_LOC:48:us] (x1)
+EN: Yunzabit Heights Cave
+PT: Caverna de Yunzabit
+### 4551 [cf_mes_LOC:49:us] (x1)
+EN: Yunzabit Ice Cave
+PT: Gruta de Gelo Yunzabit
+### 4552 [cf_mes_LOC:51:us] (x1)
+EN: End of Prologue
+PT: Fim do Prólogo
+### 4553 [cf_mes_LOC:52:us] (x1)
+EN: End of Chapter 1
+PT: Fim do Capítulo 1
+### 4554 [cf_mes_LOC:53:us] (x1)
+EN: End of Chapter 2
+PT: Fim do Capítulo 2
+### 4555 [cf_mes_LOC:54:us] (x1)
+EN: End of Chapter 3
+PT: Fim do Capítulo 3
+### 4556 [cf_mes_LOC:55:us] (x1)
+EN: End of Chapter 4
+PT: Fim do Capítulo 4
+### 4557 [cf_mes_LOC:56:us] (x1)
+EN: End of Chapter 5
+PT: Fim do Capítulo 5
+### 4558 [cf_mes_LOC:57:us] (x1)
+EN: End of Chapter 6
+PT: Fim do Capítulo 6
+### 4559 [cf_mes_LOC:58:us] (x1)
+EN: End of Chapter 7
+PT: Fim do Capítulo 7
+### 4560 [cf_mes_LOC:59:us] (x1)
+EN: End of Chapter 8
+PT: Fim do Capítulo 8
+### 4561 [cf_mes_LOC:60:us] (x1)
+EN: End of Chapter 9
+PT: Fim do Capítulo 9
+### 4562 [cf_mes_LOC:61:us] (x1)
+EN: End of Chapter 10
+PT: Fim do Capítulo 10
+### 4563 [cf_mes_LOC:62:us] (x1)
+EN: End of Chapter 11
+PT: Fim do Capítulo 11
+### 4564 [cf_mes_LOC:63:us] (x1)
+EN: End of Chapter 12
+PT: Fim do Capítulo 12
+### 4565 [cf_mes_LOC:64:us] (x1)
+EN: End of Chapter 13
+PT: Fim do Capítulo 13
+### 4566 [cf_mes_LOC:65:us] (x1)
+EN: End of Chapter 14
+PT: Fim do Capítulo 14
+### 4567 [cf_mes_LOC:66:us] (x1)
+EN: End of Chapter 15
+PT: Fim do Capítulo 15
+### 4568 [cf_mes_LOC:67:us] (x1)
+EN: Complete Game
+PT: Jogo Completo
+### 4569 [cf_mes_LOC:68:us] (x1)
+EN: Foot of Mt. Frappe
+PT: Sopé do Monte Frappe
+### 4570 [cf_mes_LOC:69:us] (x1)
+EN: Mt. Frappe Path
+PT: Trilha do Monte Frappe
+### 4571 [cf_mes_LOC:70:us] (x1)
+EN: In Break Wasteland
+PT: No Deserto Break
+### 4572 [cf_mes_LOC:72:us] (x1)
+EN: Break Wasteland entr.
+PT: Entr. do Deserto Break
+### 4573 [cf_mes_SHOP:0:us] (x1)
+EN: Hey! You wanna buy any of the stuff<n>I've collected? I'll wanna get paid<n>money for it, of course!
+PT: Ei! Quer comprar alguma coisa que<n>eu juntei? Mas eu vou querer<n>dinheiro por isso, é claro!
+### 4574 [cf_mes_SHOP:1:us] (x1)
+EN: I'm proud of this one. Buy as many<n>as you like!
+PT: Tenho orgulho deste aqui. Compre<n>quantos quiser!
+### 4575 [cf_mes_SHOP:2:us] (x2)
+EN: Huh? You're selling? What am I, a<n>pawnbroker? Well, whatever. What<n>do you want to sell?
+PT: Hã? Vai vender? Eu tenho cara de<n>penhorista? Bom, tanto faz. O<n>que você quer vender?
+### 4576 [cf_mes_SHOP:3:us] (x2)
+EN: How many are you buying? The more,<n>the better, you know. Always be<n>prepared, and stuff!
+PT: Quantos vai comprar? Quanto mais,<n>melhor, sabe. Sempre esteja<n>preparado e tal!
+### 4577 [cf_mes_SHOP:4:us] (x16)
+EN: How many are you selling?
+PT: Quantos vai vender?
+### 4578 [cf_mes_SHOP:5:us] (x2)
+EN: Thanks! It's this sorta give and<n>take that makes the world go 'round,<n>you know?
+PT: Valeu! É essa troca de coisas<n>que faz o mundo girar,<n>sabia?
+### 4579 [cf_mes_SHOP:8:us] (x1)
+EN: Oh, hello. We don't have much here,<n>but feel free to purchase whatever<n>you like.
+PT: Ah, olá. Não temos muita coisa,<n>mas fique à vontade para<n>comprar o que quiser.
+### 4580 [cf_mes_SHOP:9:us] (x2)
+EN: What would you like to buy?
+PT: O que gostaria de comprar?
+### 4581 [cf_mes_SHOP:10:us] (x2)
+EN: What would you like to sell?
+PT: O que gostaria de vender?
+### 4582 [cf_mes_SHOP:11:us] (x2)
+EN: How many are you buying? 99, right?
+PT: Quantos vai comprar? 99, né?
+### 4583 [cf_mes_SHOP:12:us] (x2)
+EN: How many are you selling? Hopefully<n>not too much.
+PT: Quantos vai vender? Espero que<n>não seja muito.
+### 4584 [cf_mes_SHOP:13:us] (x1)
+EN: Thank you very much... tee hee.
+PT: Muito obrigada... hi hi.
+### 4585 [cf_mes_SHOP:16:us] (x1)
+EN: Welcome! How would you like to<n>prepare for your battle?
+PT: Bem-vindo! Como gostaria de se<n>preparar para a batalha?
+### 4586 [cf_mes_SHOP:17:us] (x2)
+EN: What are you buying? Try not to buy<n>too much! Heh heh heh...
+PT: O que vai comprar? Não compre<n>demais! Hê hê hê...
+### 4587 [cf_mes_SHOP:18:us] (x2)
+EN: What are you selling? I'll take<n>anything you have. Heh heh heh...
+PT: O que vai vender? Aceito<n>qualquer coisa. Hê hê hê...
+### 4588 [cf_mes_SHOP:19:us] (x10)
+EN: How many are you buying?
+PT: Quantos vai comprar?
+### 4589 [cf_mes_SHOP:21:us] (x2)
+EN: Thank you very much. I look forward<n>to serving you again. Heh heh heh...
+PT: Muito obrigado. Espero atendê-lo<n>de novo. Hê hê hê...
+### 4590 [cf_mes_SHOP:24:us] (x1)
+EN: Welcome! I am confident that we have<n>the best selection in the world.
+PT: Bem-vindo! Tenho certeza de que<n>temos a melhor seleção do mundo.
+### 4591 [cf_mes_SHOP:25:us] (x2)
+EN: What're you buying? I am positive<n>you'll want to buy a lot.
+PT: O que vai comprar? Tenho certeza<n>de que vai querer levar muito.
+### 4592 [cf_mes_SHOP:26:us] (x2)
+EN: What're you selling? I am positive<n>you'll give me wonderful things.
+PT: O que vai vender? Tenho certeza<n>de que vai me dar coisas ótimas.
+### 4593 [cf_mes_SHOP:29:us] (x2)
+EN: Thanks. Why not have a look at some<n>other things? There's no need to be<n>nervous about it.
+PT: Obrigado. Que tal dar uma olhada<n>em outras coisas? Não precisa<n>ficar nervoso.
+### 4594 [cf_mes_SHOP:32:us] (x1)
+EN: I am a traveling merchant, available<n>anywhere the world's martial artists<n>need me.
+PT: Sou um mercador viajante, onde<n>quer que os artistas marciais do<n>mundo precisem de mim.
+### 4595 [cf_mes_SHOP:33:us] (x2)
+EN: What are you looking for?
+PT: O que você procura?
+### 4596 [cf_mes_SHOP:34:us] (x2)
+EN: What would you like me to buy?
+PT: O que quer que eu compre?
+### 4597 [cf_mes_SHOP:35:us] (x2)
+EN: Very well. How many would you like?
+PT: Muito bem. Quantos gostaria?
+### 4598 [cf_mes_SHOP:37:us] (x1)
+EN: Thank you very much. If you need<n>anything, kindly keep this traveling<n>merchant in mind.
+PT: Muito obrigado. Se precisar de<n>algo, lembre-se deste mercador<n>viajante.
+### 4599 [cf_mes_SHOP:40:us] (x1)
+EN: Welcome! You're our first customer<n>in a while! Have a look around!
+PT: Bem-vindo! Você é o primeiro<n>cliente em tempos! Dê uma olhada!
+### 4600 [cf_mes_SHOP:41:us] (x2)
+EN: I'm proud of everything I sell!<n>Please, buy it all! ...Just kidding!<n>But buy some, anyway!
+PT: Tenho orgulho de tudo que vendo!<n>Compre tudo! ...Brincadeira!<n>Mas compre alguma coisa!
+### 4601 [cf_mes_SHOP:42:us] (x2)
+EN: What are you selling? I'll buy<n>anything!
+PT: O que vai vender? Eu compro<n>qualquer coisa!
+### 4602 [cf_mes_SHOP:45:us] (x2)
+EN: Thank you very much! Please, look<n>around as much as you like!
+PT: Muito obrigado! Olhe à vontade,<n>quanto quiser!
+### 4603 [cf_mes_SHOP:48:us] (x1)
+EN: Oh, good afternoon. What're you<n>here for? Shopping?
+PT: Ah, boa tarde. O que te traz<n>aqui? Compras?
+### 4604 [cf_mes_SHOP:49:us] (x2)
+EN: This is all I got. You buying?
+PT: É tudo o que eu tenho. Vai comprar?
+### 4605 [cf_mes_SHOP:50:us] (x2)
+EN: What're you selling? I'm not<n>interested in garbage.
+PT: O que vai vender? Não me<n>interesso por lixo.
+### 4606 [cf_mes_SHOP:51:us] (x2)
+EN: How many you need?
+PT: Quantos precisa?
+### 4607 [cf_mes_SHOP:53:us] (x2)
+EN: Right, thanks... Mm? You need<n>something else?
+PT: Certo, obrigado... Hm? Precisa<n>de mais alguma coisa?
+### 4608 [cf_mes_SHOP:56:us] (x1)
+EN: Mmm? What do you need? Did you want<n>a piece of my collection?
+PT: Hmm? Do que precisa? Queria<n>uma peça da minha coleção?
+### 4609 [cf_mes_SHOP:57:us] (x2)
+EN: No! Stop! Quit staring at my<n>collection like that!
+PT: Não! Pare! Pare de encarar a<n>minha coleção desse jeito!
+### 4610 [cf_mes_SHOP:58:us] (x2)
+EN: Are you giving me your collection?
+PT: Vai me dar a sua coleção?
+### 4611 [cf_mes_SHOP:59:us] (x2)
+EN: Ah, that? All right. How many do<n>you want?
+PT: Ah, isso? Tudo bem. Quantos<n>você quer?
+### 4612 [cf_mes_SHOP:60:us] (x2)
+EN: I'd be happy to buy that. How many<n>are you parting with?
+PT: Compro com prazer. Quantos<n>vai me passar?
+### 4613 [cf_mes_SHOP:61:us] (x2)
+EN: A pleasure doing business with you.
+PT: Foi um prazer negociar com você.
+### 4614 [cf_mes_SHOP:64:us] (x1)
+EN: Oh, hello. I'm impressed you made it<n>to this cold place. Feel free to<n>warm up a little in here.
+PT: Ah, olá. Impressiona que chegou<n>a este lugar frio. Fique à<n>vontade para se aquecer aqui.
+### 4615 [cf_mes_SHOP:65:us] (x2)
+EN: Which do you want? Let me know if<n>you'd like to buy anything.
+PT: Qual você quer? Me avise se<n>quiser comprar alguma coisa.
+### 4616 [cf_mes_SHOP:66:us] (x2)
+EN: What would you like me to buy? Let<n>me know what you're selling.
+PT: O que quer que eu compre? Me<n>diga o que está vendendo.
+### 4617 [cf_mes_SHOP:69:us] (x2)
+EN: Thank you much. You're my first<n>customer in a while. I'd love to<n>have you look around a bit more.
+PT: Muito obrigado. Você é o primeiro<n>cliente em tempos. Adoraria que<n>desse mais uma olhada.
+### 4618 [cf_mes_SHOP:72:us] (x2)
+EN: Welcome.
+PT: Bem-vindo.
+### 4619 [cf_mes_SHOP:73:us] (x2)
+EN: What will you buy?
+PT: O que vai comprar?
+### 4620 [cf_mes_SHOP:74:us] (x2)
+EN: What will you sell?
+PT: O que vai vender?
+### 4621 [cf_mes_SHOP:77:us] (x2)
+EN: Thank you.
+PT: Obrigado.
+### 4622 [cf_mes_SHOP:80:us] (x1)
+EN: Hey! I got some new stuff in! It<n>wouldn't kill you to have a look!
+PT: Ei! Chegou coisa nova! Não<n>custa nada dar uma olhada!
+### 4623 [cf_mes_SHOP:81:us] (x1)
+EN: Heh heh! I'm proud of this one.<n>Buy as many as you like!
+PT: Hê hê! Tenho orgulho deste.<n>Compre quantos quiser!
+### 4624 [cf_mes_SHOP:88:us] (x1)
+EN: Oh, hello. I just took in some new<n>inventory that I'd love to show you.
+PT: Ah, olá. Acabei de receber<n>novidades que adoraria mostrar.
+### 4625 [cf_mes_SHOP:93:us] (x1)
+EN: Thank you very much... tee hee. I<n>hope to continue receiving your<n>business.
+PT: Muito obrigada... hi hi. Espero<n>continuar contando com a<n>sua preferência.
+### 4626 [cf_mes_SHOP:96:us] (x1)
+EN: Welcome! We have new items in... How<n>would you like to prepare for your<n>battle?
+PT: Bem-vindo! Chegaram itens... Como<n>gostaria de se preparar para a<n>batalha?
+### 4627 [cf_mes_SHOP:104:us] (x1)
+EN: Welcome! We have new inventory in.<n>Have a look around.
+PT: Bem-vindo! Chegou mercadoria<n>nova. Dê uma olhada.
+### 4628 [cf_mes_SHOP:112:us] (x1)
+EN: I have a wealth of new items in my<n>bag, ready for use by all the<n>martial artists in the world.
+PT: Tenho muitos itens novos na<n>bolsa, prontos para todos os<n>artistas marciais do mundo.
+### 4629 [cf_mes_SHOP:117:us] (x1)
+EN: Thank you very much. If you need<n>anything, kindly keep this<n>merchant in mind.
+PT: Muito obrigado. Se precisar de<n>algo, lembre-se deste<n>mercador.
+### 4630 [cf_mes_SHOP:120:us] (x1)
+EN: Welcome! I've gotten in some new<n>stock! Please take a look!
+PT: Bem-vindo! Recebi mercadoria<n>nova! Dê uma olhada!
+### 4631 [cf_mes_SHOP:128:us] (x1)
+EN: Oh, good afternoon. What're you<n>here for? Shopping? There's some<n>new stock around, I hear.
+PT: Ah, boa tarde. O que te traz<n>aqui? Compras? Ouvi dizer que<n>chegou coisa nova.
+### 4632 [cf_mes_SHOP:136:us] (x1)
+EN: Mmm? What do you need? Did you want<n>a look at the new items in my<n>collection?
+PT: Hmm? Do que precisa? Quer<n>ver os itens novos da minha<n>coleção?
+### 4633 [cf_mes_SHOP:144:us] (x1)
+EN: Oh, hello. We just got in a bunch<n>of new stock, so feel free to look<n>around.
+PT: Ah, olá. Acabou de chegar um<n>monte de coisa nova, fique à<n>vontade.
+### 4634 [cf_mes_COMBO:0:us] (x1)
+EN: Charging Rush
+PT: Carga Total
+### 4635 [cf_mes_COMBO:1:us] (x1)
+EN: Rush Blast
+PT: Rajada Investida
+### 4636 [cf_mes_COMBO:2:us] (x1)
+EN: Hyper Rush
+PT: Hiper Investida
+### 4637 [cf_mes_COMBO:3:us] (x1)
+EN: Hyper Blast
+PT: Hiper Rajada
+### 4638 [cf_mes_COMBO:4:us] (x1)
+EN: Saiyan Attack
+PT: Ataque Saiyajin
+### 4639 [cf_mes_COMBO:5:us] (x1)
+EN: Demon Fusion Wave
+PT: Onda Fusão
+### 4640 [cf_mes_COMBO:6:us] (x1)
+EN: Demon Cannon
+PT: Canhão Demoníaco
+### 4641 [cf_mes_COMBO:7:us] (x1)
+EN: Heavenly Sunlight
+PT: Sol Celestial
+### 4642 [cf_mes_COMBO:8:us] (x1)
+EN: Crane Wolf Strike
+PT: Golpe Garça-Lobo
+### 4643 [cf_mes_COMBO:9:us] (x1)
+EN: Seismic Energy Ray
+PT: Raio Sísmico
+### 4644 [cf_mes_COMBO:10:us] (x1)
+EN: Spirit Saucer
+PT: Disco Espiritual
+### 4645 [cf_mes_COMBO:11:us] (x1)
+EN: Quad Siege
+PT: Cerco Quádruplo
+### 4646 [cf_mes_COMBO:13:us] (x1)
+EN: Earthling Strike
+PT: Golpe Terráqueo
+### 4647 [cf_mes_COMBO:14:us] (x1)
+EN: Meteor Impact
+PT: Impacto Meteoro
+### 4648 [cf_mes_COMBO:15:us] (x1)
+EN: Platonic Energy
+PT: Energia Platônica
+### 4649 [cf_mes_COMBO:16:us] (x1)
+EN: Demon-Wolf-Crane
+PT: Trio Mortal
+### 4650 [cf_mes_COMBO:20:us] (x1)
+EN: Rush at your foe and punch, kick,<n>do whatever it takes to beat him!
+PT: Parta para cima do inimigo: soco,<n>chute, o que for preciso!
+### 4651 [cf_mes_COMBO:21:us] (x1)
+EN: A combination of punches, kicks, and<n>Ki blasts sure to fell any enemy!
+PT: Socos, chutes e rajadas de Ki que<n>derrubam qualquer inimigo!
+### 4652 [cf_mes_COMBO:22:us] (x1)
+EN: Beat your enemy to the ground with this<n>barrage of punches and kicks!
+PT: Derrube o inimigo com esta<n>chuva de socos e chutes!
+### 4653 [cf_mes_COMBO:23:us] (x1)
+EN: Beat the stuffing out of your foe and<n>seal the deal with a massive Ki blast!
+PT: Espanque o inimigo e feche com<n>uma enorme rajada de Ki!
+### 4654 [cf_mes_COMBO:24:us] (x1)
+EN: A Goku family tradition. Send your foe<n>into the air, then rush at him!
+PT: Tradição da família do Goku. Lance<n>o inimigo ao ar e parta para cima!
+### 4655 [cf_mes_COMBO:25:us] (x1)
+EN: A co-op move between demon and Kami<n>pupil. The energy waves are merciless!
+PT: Golpe em dupla de demônio e aluno de<n>Kami-Sama. As ondas não perdoam!
+### 4656 [cf_mes_COMBO:26:us] (x1)
+EN: A co-op strategy passed down among the<n>demon race. The Ki blast is the key!
+PT: Estratégia passada entre a raça<n>demoníaca. A rajada de Ki é a chave!
+### 4657 [cf_mes_COMBO:27:us] (x1)
+EN: This sun-like burst of light does more<n>than just make your eyes water...
+PT: Esta explosão de luz faz mais<n>do que só lacrimejar os olhos...
+### 4658 [cf_mes_COMBO:28:us] (x1)
+EN: The wolf and crane combine for a combo<n>capped off by a devastating Ki blast.
+PT: Lobo e garça num combo que<n>termina numa rajada devastadora.
+### 4659 [cf_mes_COMBO:29:us] (x1)
+EN: A combo involving two types of Ki blasts.<n>Sometimes less really is more!
+PT: Um combo com dois tipos de rajada.<n>Às vezes, menos é mais!
+### 4660 [cf_mes_COMBO:30:us] (x1)
+EN: A wave of Ki attacks. He'll never<n>give up women, will he?
+PT: Uma onda de ataques de Ki. Ele<n>nunca desiste das mulheres, né?
+### 4661 [cf_mes_COMBO:31:us] (x1)
+EN: A quadruple-power attack followed by a<n>devastating demon Ki blast!
+PT: Um ataque de poder quádruplo e<n>uma rajada demoníaca devastadora!
+### 4662 [cf_mes_COMBO:32:us] (x1)
+EN: One of the Turtle school's secret moves.<n>Burn your foe to a crisp!
+PT: Um golpe secreto da Tartaruga.<n>Torre o inimigo!
+### 4663 [cf_mes_COMBO:33:us] (x1)
+EN: It's mano-a-mano with this move. Show<n>'em what Earthlings are made of!
+PT: Um golpe mano a mano. Mostre<n>do que os terráqueos são feitos!
+### 4664 [cf_mes_COMBO:34:us] (x1)
+EN: Give your foe a Saiyan combo attack,<n>finishing with a demon Ki blast!
+PT: Um combo Saiyajin no inimigo,<n>fechando com rajada demoníaca!
+### 4665 [cf_mes_COMBO:35:us] (x1)
+EN: A full-power Ki-Blast combo. Show off<n>the power of friendship!
+PT: Um combo de Rajada de Ki total.<n>Mostre o poder da amizade!
+### 4666 [cf_mes_COMBO:36:us] (x1)
+EN: A three-part fusion attack. Close your<n>eyes and let the Ki flow out!
+PT: Ataque de fusão tripla. Feche<n>os olhos e deixe o Ki fluir!
+### 4667 [use_item_mes:0:us] (x1)
+EN: Small Bean
+PT: Semente Pequena
+### 4668 [use_item_mes:1:us] (x1)
+EN: Refills 150 of one ally's HP
+PT: Recupera 150 de HP de um aliado
+### 4669 [use_item_mes:2:us] (x1)
+EN: Medium Bean
+PT: Semente Média
+### 4670 [use_item_mes:3:us] (x1)
+EN: Refills 300 of one ally's HP
+PT: Recupera 300 de HP de um aliado
+### 4671 [use_item_mes:4:us] (x1)
+EN: Large Bean
+PT: Semente Grande
+### 4672 [use_item_mes:5:us] (x1)
+EN: Refills 800 of one ally's HP
+PT: Recupera 800 de HP de um aliado
+### 4673 [use_item_mes:6:us] (x1)
+EN: MAX Bean
+PT: Semente MAX
+### 4674 [use_item_mes:7:us] (x1)
+EN: Refills 1500 of one ally's HP
+PT: Recupera 1500 de HP de um aliado
+### 4675 [use_item_mes:8:us] (x1)
+EN: HP Drink 30
+PT: Bebida HP 30
+### 4676 [use_item_mes:9:us] (x1)
+EN: Refills 30% of one ally's HP
+PT: Recupera 30% do HP de um aliado
+### 4677 [use_item_mes:10:us] (x1)
+EN: HP Drink 50
+PT: Bebida HP 50
+### 4678 [use_item_mes:11:us] (x1)
+EN: Refills 50% of one ally's HP
+PT: Recupera 50% do HP de um aliado
+### 4679 [use_item_mes:12:us] (x1)
+EN: HP Drink Z
+PT: Bebida HP Z
+### 4680 [use_item_mes:13:us] (x1)
+EN: Fully refills one ally's HP
+PT: Recupera todo o HP de um aliado
+### 4681 [use_item_mes:14:us] (x1)
+EN: HP Capsule 50
+PT: Cápsula HP 50
+### 4682 [use_item_mes:15:us] (x1)
+EN: Refills 50% of all allies' HP
+PT: Recupera 50% do HP de todos
+### 4683 [use_item_mes:16:us] (x1)
+EN: HP Capsule Z
+PT: Cápsula HP Z
+### 4684 [use_item_mes:17:us] (x1)
+EN: Fully refills all allies' HP
+PT: Recupera todo o HP de todos
+### 4685 [use_item_mes:18:us] (x1)
+EN: Dragon Stone
+PT: Pedra do Dragão
+### 4686 [use_item_mes:19:us] (x1)
+EN: Refills a little HP of all allies<n>(Only during battle. Can be used repeatedly)
+PT: Recupera um pouco de HP de todos<n>(Só em batalha. Pode usar sempre)
+### 4687 [use_item_mes:20:us] (x1)
+EN: Wilted Carrot
+PT: Cenoura Murcha
+### 4688 [use_item_mes:21:us] (x3)
+EN: Refills a little HP to one ally<n>(during battle only)
+PT: Recupera um pouco de HP de um aliado<n>(só em batalha)
+### 4689 [use_item_mes:22:us] (x1)
+EN: Carrot
+PT: Cenoura
+### 4690 [use_item_mes:24:us] (x1)
+EN: Fancy Carrot
+PT: Cenoura Chique
+### 4691 [use_item_mes:26:us] (x1)
+EN: Ki Drink 30
+PT: Bebida Ki 30
+### 4692 [use_item_mes:27:us] (x1)
+EN: Refills 30% of one ally's Ki
+PT: Recupera 30% do Ki de um aliado
+### 4693 [use_item_mes:28:us] (x1)
+EN: Ki Drink 50
+PT: Bebida Ki 50
+### 4694 [use_item_mes:29:us] (x1)
+EN: Refills 50% of one ally's Ki
+PT: Recupera 50% do Ki de um aliado
+### 4695 [use_item_mes:30:us] (x1)
+EN: Ki Drink Z
+PT: Bebida Ki Z
+### 4696 [use_item_mes:31:us] (x1)
+EN: Fully refills one ally's Ki
+PT: Recupera todo o Ki de um aliado
+### 4697 [use_item_mes:32:us] (x1)
+EN: Ki Capsule 50
+PT: Cápsula Ki 50
+### 4698 [use_item_mes:33:us] (x1)
+EN: Refills 50% of all allies' Ki
+PT: Recupera 50% do Ki de todos
+### 4699 [use_item_mes:34:us] (x1)
+EN: Ki Capsule Z
+PT: Cápsula Ki Z
+### 4700 [use_item_mes:35:us] (x1)
+EN: Fully refills all allies' Ki
+PT: Recupera todo o Ki de todos
+### 4701 [use_item_mes:36:us] (x1)
+EN: Sacred Jewel
+PT: Joia Sagrada
+### 4702 [use_item_mes:37:us] (x1)
+EN: Refills a little Ki of one ally<n>(Only during battle. Can be used repeatedly)
+PT: Recupera um pouco de Ki de um aliado<n>(Só em batalha. Pode usar sempre)
+### 4703 [use_item_mes:38:us] (x1)
+EN: Double Drink 50
+PT: Bebida Dupla 50
+### 4704 [use_item_mes:39:us] (x1)
+EN: Refills 50% of one ally's HP and Ki
+PT: Recupera 50% de HP e Ki de um aliado
+### 4705 [use_item_mes:40:us] (x1)
+EN: Double Drink Z
+PT: Bebida Dupla Z
+### 4706 [use_item_mes:41:us] (x2)
+EN: Fully refills one ally's HP and Ki
+PT: Recupera todo HP e Ki de um aliado
+### 4707 [use_item_mes:42:us] (x1)
+EN: Double Capsule 50
+PT: Cápsula Dupla 50
+### 4708 [use_item_mes:43:us] (x1)
+EN: Refills 50% of all allies' HP and Ki
+PT: Recupera 50% de HP e Ki de todos
+### 4709 [use_item_mes:44:us] (x1)
+EN: Double Capsule Z
+PT: Cápsula Dupla Z
+### 4710 [use_item_mes:46:us] (x1)
+EN: Hermit Elixir
+PT: Elixir do Eremita
+### 4711 [use_item_mes:47:us] (x1)
+EN: Refills some HP and Ki to one ally<n>(Reduces Rage Gauge)
+PT: Recupera HP e Ki de um aliado<n>(Reduz a Fúria)
+### 4712 [use_item_mes:48:us] (x1)
+EN: Hermit Medicine
+PT: Remédio do Eremita
+### 4713 [use_item_mes:49:us] (x1)
+EN: Fully refills one ally's HP and Ki<n>(Reduces Rage Gauge to zero)
+PT: Recupera todo HP e Ki de um aliado<n>(Zera a Fúria)
+### 4714 [use_item_mes:50:us] (x1)
+EN: Hermit Water
+PT: Água do Eremita
+### 4715 [use_item_mes:51:us] (x1)
+EN: Refills some HP and Ki to all allies<n> (Reduces Rage Gauge)
+PT: Recupera HP e Ki de todos<n> (Reduz a Fúria)
+### 4716 [use_item_mes:52:us] (x1)
+EN: Hermit Milk
+PT: Leite do Eremita
+### 4717 [use_item_mes:53:us] (x1)
+EN: Fully refills all allies' HP and Ki<n>(Reduces Rage Gauge to zero)
+PT: Recupera todo HP e Ki de todos<n>(Zera a Fúria)
+### 4718 [use_item_mes:54:us] (x1)
+EN: Senzu Bean
+PT: Semente dos Deuses
+### 4719 [use_item_mes:55:us] (x1)
+EN: Refills one ally's HP and Ki to max,<n>reviving him and curing all statuses
+PT: Enche HP e Ki de um aliado,<n>revive e cura todos os efeitos
+### 4720 [use_item_mes:56:us] (x1)
+EN: Super Senzu Bean
+PT: Super Semente
+### 4721 [use_item_mes:57:us] (x1)
+EN: Refills all allies' HP and Ki to max,<n> reviving them and curing all statuses
+PT: Enche HP e Ki de todos,<n> revive e cura todos os efeitos
+### 4722 [use_item_mes:58:us] (x1)
+EN: Korin's Medicine
+PT: Remédio Karin
+### 4723 [use_item_mes:59:us] (x1)
+EN: Swaps your HP and Ki stats
+PT: Troca os valores de HP e Ki
+### 4724 [use_item_mes:60:us] (x1)
+EN: Phoenix Feather
+PT: Pena de Fênix
+### 4725 [use_item_mes:61:us] (x1)
+EN: Revives one character with 50% HP
+PT: Revive um personagem com 50% de HP
+### 4726 [use_item_mes:62:us] (x1)
+EN: Phoenix Tail Feather
+PT: Pena Cauda Fênix
+### 4727 [use_item_mes:63:us] (x1)
+EN: Revives one character with full HP
+PT: Revive um personagem com HP cheio
+### 4728 [use_item_mes:64:us] (x1)
+EN: Poison Recovery
+PT: Cura Veneno
+### 4729 [use_item_mes:65:us] (x1)
+EN: Cures one ally of Poison
+PT: Cura um aliado de Veneno
+### 4730 [use_item_mes:66:us] (x1)
+EN: Darkness Recovery
+PT: Cura Escuridão
+### 4731 [use_item_mes:67:us] (x1)
+EN: Cures one ally of Darkness
+PT: Cura um aliado de Escuridão
+### 4732 [use_item_mes:68:us] (x1)
+EN: Sleep Recovery
+PT: Cura Sono
+### 4733 [use_item_mes:69:us] (x1)
+EN: Cures one ally of Sleep
+PT: Cura um aliado de Sono
+### 4734 [use_item_mes:70:us] (x1)
+EN: Bind Recovery
+PT: Cura Paralisia
+### 4735 [use_item_mes:71:us] (x1)
+EN: Cures one ally of Paralysis
+PT: Cura um aliado de Paralisia
+### 4736 [use_item_mes:72:us] (x1)
+EN: Stun Recovery
+PT: Cura Atordoamento
+### 4737 [use_item_mes:73:us] (x1)
+EN: Cures one ally of Stun
+PT: Cura um aliado de Atordoamento
+### 4738 [use_item_mes:74:us] (x1)
+EN: Panic Recovery
+PT: Cura Pânico
+### 4739 [use_item_mes:75:us] (x1)
+EN: Cures one ally of Confusion
+PT: Cura um aliado de Confusão
+### 4740 [use_item_mes:76:us] (x1)
+EN: Freeze Recovery
+PT: Cura Congelamento
+### 4741 [use_item_mes:77:us] (x1)
+EN: Cures one ally of Freeze
+PT: Cura um aliado de Congelamento
+### 4742 [use_item_mes:78:us] (x1)
+EN: Recover Capsule
+PT: Cápsula de Cura
+### 4743 [use_item_mes:79:us] (x1)
+EN: Cures one ally of all status ailments
+PT: Cura todos os efeitos de um aliado
+### 4744 [use_item_mes:80:us] (x1)
+EN: All Recover
+PT: Cura Total
+### 4745 [use_item_mes:81:us] (x1)
+EN: Cures all allies of all status ailments
+PT: Cura todos os efeitos de todos
+### 4746 [use_item_mes:82:us] (x1)
+EN: Anger Jewel
+PT: Joia da Raiva
+### 4747 [use_item_mes:83:us] (x1)
+EN: Fills one ally's Rage Gauge a little
+PT: Aumenta um pouco a Fúria de um aliado
+### 4748 [use_item_mes:84:us] (x1)
+EN: Shenron Scale
+PT: Escama de Shenlong
+### 4749 [use_item_mes:85:us] (x1)
+EN: Fills one ally's Rage Gauge to max
+PT: Enche a Fúria de um aliado
+### 4750 [use_item_mes:86:us] (x1)
+EN: Attack Water
+PT: Água do Ataque
+### 4751 [use_item_mes:87:us] (x1)
+EN: Raises attack power for several turns
+PT: Aumenta o ataque por vários turnos
+### 4752 [use_item_mes:88:us] (x1)
+EN: Defense Water
+PT: Água da Defesa
+### 4753 [use_item_mes:89:us] (x1)
+EN: Raises defense power for several turns
+PT: Aumenta a defesa por vários turnos
+### 4754 [use_item_mes:90:us] (x1)
+EN: Battle Sense
+PT: Instinto de Luta
+### 4755 [use_item_mes:91:us] (x1)
+EN: Raises accuracy for several turns
+PT: Aumenta a precisão por vários turnos
+### 4756 [use_item_mes:92:us] (x1)
+EN: Evasion Secrets
+PT: Segredos da Esquiva
+### 4757 [use_item_mes:93:us] (x1)
+EN: Raises evasion for several turns
+PT: Aumenta a esquiva por vários turnos
+### 4758 [use_item_mes:94:us] (x1)
+EN: Paozu Stone
+PT: Pedra de Paozu
+### 4759 [use_item_mes:95:us] (x1)
+EN: Raises speed for several turns
+PT: Aumenta a velocidade por vários turnos
+### 4760 [use_item_mes:96:us] (x1)
+EN: Super Sacred Water
+PT: Super Água Sagrada
+### 4761 [use_item_mes:97:us] (x1)
+EN: Raises all parameters for several turns
+PT: Aumenta tudo por vários turnos
+### 4762 [use_item_mes:98:us] (x1)
+EN: Dragonbone Powder
+PT: Pó de Osso de Dragão
+### 4763 [use_item_mes:99:us] (x1)
+EN: Raises the chance of a critical attack<n> for several turns
+PT: Aumenta a chance de crítico<n> por vários turnos
+### 4764 [use_item_mes:100:us] (x1)
+EN: Missile
+PT: Míssil
+### 4765 [use_item_mes:101:us] (x1)
+EN: Launches a missile at one enemy
+PT: Dispara um míssil em um inimigo
+### 4766 [use_item_mes:102:us] (x1)
+EN: Giant Missile
+PT: Míssil Gigante
+### 4767 [use_item_mes:103:us] (x1)
+EN: Launches a large missile at one enemy
+PT: Dispara um míssil grande em um inimigo
+### 4768 [use_item_mes:104:us] (x1)
+EN: Multi-Missile
+PT: Multimíssil
+### 4769 [use_item_mes:105:us] (x1)
+EN: Fires several missiles at all enemies
+PT: Dispara mísseis em todos os inimigos
+### 4770 [use_item_mes:106:us] (x1)
+EN: Satellite Laser
+PT: Laser de Satélite
+### 4771 [use_item_mes:107:us] (x1)
+EN: Attacks all enemies with lasers<n>from the sky
+PT: Ataca todos os inimigos com lasers<n>vindos do céu
+### 4772 [use_item_mes:108:us] (x1)
+EN: Hot Capsule
+PT: Cápsula Quente
+### 4773 [use_item_mes:109:us] (x1)
+EN: Light @37fire damage to one enemy
+PT: Dano leve de @37fogo em um inimigo
+### 4774 [use_item_mes:110:us] (x1)
+EN: Burn Capsule
+PT: Cápsula Ardente
+### 4775 [use_item_mes:111:us] (x1)
+EN: Major @37fire damage to one enemy
+PT: Dano forte de @37fogo em um inimigo
+### 4776 [use_item_mes:112:us] (x1)
+EN: Ox-King Flame
+PT: Chama do Cutelo
+### 4777 [use_item_mes:113:us] (x1)
+EN: Light @37fire damage to all enemies
+PT: Dano leve de @37fogo em todos
+### 4778 [use_item_mes:114:us] (x1)
+EN: Annin Flame
+PT: Chama da Annin
+### 4779 [use_item_mes:115:us] (x1)
+EN: Major @37fire damage to all enemies
+PT: Dano forte de @37fogo em todos
+### 4780 [use_item_mes:116:us] (x1)
+EN: Electric Capsule
+PT: Cápsula Elétrica
+### 4781 [use_item_mes:117:us] (x1)
+EN: Light @39lightning damage to one enemy
+PT: Dano leve de @39raio em um inimigo
+### 4782 [use_item_mes:118:us] (x1)
+EN: Thunder Capsule
+PT: Cápsula Trovão
+### 4783 [use_item_mes:119:us] (x1)
+EN: Major @39lightning damage to one enemy
+PT: Dano forte de @39raio em um inimigo
+### 4784 [use_item_mes:120:us] (x1)
+EN: Master Roshi's Anger
+PT: Fúria do Mestre Kame
+### 4785 [use_item_mes:121:us] (x1)
+EN: Light @39lightning damage to all enemies
+PT: Dano leve de @39raio em todos
+### 4786 [use_item_mes:122:us] (x1)
+EN: Kami's Judgment
+PT: Juízo de Kami-Sama
+### 4787 [use_item_mes:123:us] (x1)
+EN: Major @39lightning damage to all enemies
+PT: Dano forte de @39raio em todos
+### 4788 [use_item_mes:124:us] (x1)
+EN: Ice Capsule
+PT: Cápsula de Gelo
+### 4789 [use_item_mes:125:us] (x1)
+EN: Light @38ice damage to one enemy
+PT: Dano leve de @38gelo em um inimigo
+### 4790 [use_item_mes:126:us] (x1)
+EN: Freeze Capsule
+PT: Cápsula Glacial
+### 4791 [use_item_mes:127:us] (x1)
+EN: Major @38ice damage to one enemy
+PT: Dano forte de @38gelo em um inimigo
+### 4792 [use_item_mes:128:us] (x1)
+EN: Jingle Village Bomb
+PT: Bomba da Vila Jingle
+### 4793 [use_item_mes:129:us] (x1)
+EN: Light @38ice damage to all enemies
+PT: Dano leve de @38gelo em todos
+### 4794 [use_item_mes:130:us] (x1)
+EN: Yunzabit Bomb
+PT: Bomba Yunzabit
+### 4795 [use_item_mes:131:us] (x1)
+EN: Major @38ice damage to all enemies
+PT: Dano forte de @38gelo em todos
+### 4796 [use_item_mes:132:us] (x1)
+EN: Sleep Pill
+PT: Pílula do Sono
+### 4797 [use_item_mes:133:us] (x1)
+EN: Puts one enemy to sleep
+PT: Faz um inimigo dormir
+### 4798 [use_item_mes:134:us] (x1)
+EN: Wolf's Roar
+PT: Rugido do Lobo
+### 4799 [use_item_mes:135:us] (x1)
+EN: Paralyzes one enemy
+PT: Paralisa um inimigo
+### 4800 [use_item_mes:136:us] (x1)
+EN: Rattlesnake Scale
+PT: Escama de Cascavel
+### 4801 [use_item_mes:137:us] (x1)
+EN: Poisons one enemy
+PT: Envenena um inimigo
+### 4802 [use_item_mes:138:us] (x1)
+EN: Spirit Light
+PT: Luz Espiritual
+### 4803 [use_item_mes:139:us] (x1)
+EN: Puts one enemy in darkness
+PT: Deixa um inimigo na escuridão
+### 4804 [use_item_mes:140:us] (x1)
+EN: Absolute Zero
+PT: Zero Absoluto
+### 4805 [use_item_mes:141:us] (x1)
+EN: Freezes one enemy
+PT: Congela um inimigo
+### 4806 [use_item_mes:142:us] (x1)
+EN: Demon King Seal
+PT: Selo do Rei Demônio
+### 4807 [use_item_mes:143:us] (x1)
+EN: Instantly kills one enemy
+PT: Mata um inimigo na hora
+### 4808 [use_item_mes:144:us] (x1)
+EN: Monster Carrot Jewel
+PT: Joia Coelho Monstro
+### 4809 [use_item_mes:145:us] (x1)
+EN: Turns one enemy into a carrot
+PT: Transforma um inimigo em cenoura
+### 4810 [use_item_mes:146:us] (x1)
+EN: Mystery Jewel
+PT: Joia Misteriosa
+### 4811 [use_item_mes:147:us] (x1)
+EN: Gives a random status ailment<n>to one enemy
+PT: Causa um efeito aleatório<n>em um inimigo
+### 4812 [use_item_mes:148:us] (x1)
+EN: Blunder Card
+PT: Carta do Vacilo
+### 4813 [use_item_mes:149:us] (x1)
+EN: Reduces attack power of one enemy
+PT: Reduz o ataque de um inimigo
+### 4814 [use_item_mes:150:us] (x1)
+EN: Bravado Card
+PT: Carta da Bravata
+### 4815 [use_item_mes:151:us] (x1)
+EN: Reduces defense power of one enemy
+PT: Reduz a defesa de um inimigo
+### 4816 [use_item_mes:152:us] (x1)
+EN: Defocus Card
+PT: Carta da Distração
+### 4817 [use_item_mes:153:us] (x1)
+EN: Reduces accuracy of one enemy
+PT: Reduz a precisão de um inimigo
+### 4818 [use_item_mes:154:us] (x1)
+EN: Inattention Card
+PT: Carta do Descuido
+### 4819 [use_item_mes:155:us] (x1)
+EN: Reduces evasion of one enemy
+PT: Reduz a esquiva de um inimigo
+### 4820 [use_item_mes:156:us] (x1)
+EN: HP Fruit
+PT: Fruta HP
+### 4821 [use_item_mes:157:us] (x1)
+EN: Raises your maximum HP
+PT: Aumenta o seu HP máximo
+### 4822 [use_item_mes:158:us] (x1)
+EN: Ki Fruit
+PT: Fruta Ki
+### 4823 [use_item_mes:159:us] (x1)
+EN: Raises your maximum Ki
+PT: Aumenta o seu Ki máximo
+### 4824 [use_item_mes:160:us] (x1)
+EN: Power Fruit
+PT: Fruta do Poder
+### 4825 [use_item_mes:161:us] (x1)
+EN: Raises Power
+PT: Aumenta o Poder
+### 4826 [use_item_mes:162:us] (x1)
+EN: Defense Fruit
+PT: Fruta da Defesa
+### 4827 [use_item_mes:164:us] (x1)
+EN: Recovery Fruit
+PT: Fruta da Cura
+### 4828 [use_item_mes:165:us] (x1)
+EN: Raises Recovery
+PT: Aumenta a Cura
+### 4829 [use_item_mes:166:us] (x1)
+EN: Skill Fruit
+PT: Fruta da Técnica
+### 4830 [use_item_mes:167:us] (x1)
+EN: Raises Skill
+PT: Aumenta a Técnica
+### 4831 [use_item_mes:168:us] (x1)
+EN: Speed Fruit
+PT: Fruta da Velocidade
+### 4832 [use_item_mes:169:us] (x1)
+EN: Raises Speed
+PT: Aumenta a Velocidade
+### 4833 [use_item_mes:170:us] (x1)
+EN: Luck Fruit
+PT: Fruta da Sorte
+### 4834 [use_item_mes:171:us] (x1)
+EN: Raises Luck
+PT: Aumenta a Sorte
+### 4835 [use_item_mes:172:us] (x1)
+EN: Ki-Blast Fruit
+PT: Fruta da Rajada
+### 4836 [use_item_mes:173:us] (x1)
+EN: Raises the maximum size of the Ki-Blast<n>meter on the field map
+PT: Aumenta o medidor de Rajada de Ki<n>no mapa
+### 4837 [use_item_mes:174:us] (x1)
+EN: Finisher Bean
+PT: Semente Final
+### 4838 [use_item_mes:175:us] (x1)
+EN: Use to obtain 1500 AP
+PT: Use para ganhar 1500 AP
+### 4839 [use_item_mes:176:us] (x1)
+EN: Exorcism Water
+PT: Água Exorcista
+### 4840 [use_item_mes:177:us] (x1)
+EN: Lets you walk for a while without<n>encountering enemies
+PT: Anda por um tempo sem<n>encontrar inimigos
+### 4841 [use_item_mes:178:us] (x1)
+EN: Attract Water
+PT: Água da Atração
+### 4842 [use_item_mes:179:us] (x1)
+EN: Raises chance of enemy encounter<n>for a while
+PT: Aumenta os encontros com inimigos<n>por um tempo
+### 4843 [use_item_mes:180:us] (x1)
+EN: Smoke Bomb
+PT: Bomba de Fumaça
+### 4844 [use_item_mes:181:us] (x1)
+EN: Lets you escape a battle 100%<n>of the time
+PT: Garante a fuga da batalha<n>sempre
+### 4845 [use_item_mes:182:us] (x1)
+EN: EXP Boost
+PT: Bônus de EXP
+### 4846 [use_item_mes:183:us] (x1)
+EN: Raises the experience points earned<n>in battle
+PT: Aumenta a experiência ganha<n>na batalha
+### 4847 [use_item_mes:184:us] (x1)
+EN: Zeni Boost
+PT: Bônus de Zeni
+### 4848 [use_item_mes:185:us] (x1)
+EN: Raises the money earned in battle
+PT: Aumenta o dinheiro ganho na luta
+### 4849 [use_item_mes:186:us] (x1)
+EN: Theft Card
+PT: Carta do Roubo
+### 4850 [use_item_mes:188:us] (x1)
+EN: Demon Bravery
+PT: Coragem Demoníaca
+### 4851 [use_item_mes:189:us] (x1)
+EN: Makes you invincible until your next turn
+PT: Invencível até o seu próximo turno
+### 4852 [use_item_mes:190:us] (x1)
+EN: Perception Charm
+PT: Amuleto da Intuição
+### 4853 [use_item_mes:191:us] (x1)
+EN: Lets you have a good chance to evade the next attack
+PT: Boa chance de esquivar o próximo ataque
+### 4854 [use_item_mes:192:us] (x1)
+EN: Concentration Charm
+PT: Amuleto do Foco
+### 4855 [use_item_mes:193:us] (x1)
+EN: Boosts attack power greatly<n>until the next turn
+PT: Aumenta muito o ataque<n>até o próximo turno
+### 4856 [use_item_mes:194:us] (x1)
+EN: Resist Seal
+PT: Selo de Resistência
+### 4857 [use_item_mes:195:us] (x1)
+EN: Makes you more resistant to status<n>ailments for several turns
+PT: Aumenta a resistência a efeitos<n>por vários turnos
+### 4858 [use_item_mes:196:us] (x1)
+EN: Scrap Iron
+PT: Sucata
+### 4859 [use_item_mes:197:us] (x6)
+EN: Can be sold for lots of money
+PT: Pode ser vendida por bom dinheiro
+### 4860 [use_item_mes:198:us] (x1)
+EN: Opal
+PT: Opala
+### 4861 [use_item_mes:200:us] (x1)
+EN: Amethyst
+PT: Ametista
+### 4862 [use_item_mes:202:us] (x1)
+EN: Emerald
+PT: Esmeralda
+### 4863 [use_item_mes:204:us] (x1)
+EN: Ruby
+PT: Rubi
+### 4864 [use_item_mes:206:us] (x1)
+EN: Diamond
+PT: Diamante
+### 4865 [btl_acc_mes:0:us] (x1)
+EN: Energy Ring
+PT: Anel de Energia
+### 4866 [btl_acc_mes:1:us] (x1)
+EN: Raises maximum HP by 100
+PT: Aumenta o HP máximo em 100
+### 4867 [btl_acc_mes:2:us] (x1)
+EN: Energy Bracelet
+PT: Pulseira de Energia
+### 4868 [btl_acc_mes:3:us] (x1)
+EN: Raises maximum HP by 300
+PT: Aumenta o HP máximo em 300
+### 4869 [btl_acc_mes:4:us] (x1)
+EN: Energy Necklace
+PT: Colar de Energia
+### 4870 [btl_acc_mes:5:us] (x1)
+EN: Raises maximum HP by 500
+PT: Aumenta o HP máximo em 500
+### 4871 [btl_acc_mes:6:us] (x1)
+EN: Ki Ring
+PT: Anel de Ki
+### 4872 [btl_acc_mes:7:us] (x1)
+EN: Raises maximum Ki by 30
+PT: Aumenta o Ki máximo em 30
+### 4873 [btl_acc_mes:8:us] (x1)
+EN: Ki Bracelet
+PT: Pulseira de Ki
+### 4874 [btl_acc_mes:9:us] (x1)
+EN: Raises maximum Ki by 50
+PT: Aumenta o Ki máximo em 50
+### 4875 [btl_acc_mes:10:us] (x1)
+EN: Ki Necklace
+PT: Colar de Ki
+### 4876 [btl_acc_mes:11:us] (x1)
+EN: Raises maximum Ki by 100
+PT: Aumenta o Ki máximo em 100
+### 4877 [btl_acc_mes:12:us] (x1)
+EN: Power Ring
+PT: Anel do Poder
+### 4878 [btl_acc_mes:13:us] (x1)
+EN: Raises Power by 3
+PT: Aumenta o Poder em 3
+### 4879 [btl_acc_mes:14:us] (x1)
+EN: Power Bracelet
+PT: Pulseira do Poder
+### 4880 [btl_acc_mes:15:us] (x1)
+EN: Raises Power by 5
+PT: Aumenta o Poder em 5
+### 4881 [btl_acc_mes:16:us] (x1)
+EN: Power Necklace
+PT: Colar do Poder
+### 4882 [btl_acc_mes:17:us] (x1)
+EN: Raises Power by 8
+PT: Aumenta o Poder em 8
+### 4883 [btl_acc_mes:18:us] (x1)
+EN: Defense Ring
+PT: Anel da Defesa
+### 4884 [btl_acc_mes:19:us] (x1)
+EN: Raises Defense by 3
+PT: Aumenta a Defesa em 3
+### 4885 [btl_acc_mes:20:us] (x1)
+EN: Defense Bracelet
+PT: Pulseira da Defesa
+### 4886 [btl_acc_mes:21:us] (x1)
+EN: Raises Defense by 5
+PT: Aumenta a Defesa em 5
+### 4887 [btl_acc_mes:22:us] (x1)
+EN: Defense Necklace
+PT: Colar da Defesa
+### 4888 [btl_acc_mes:23:us] (x1)
+EN: Raises Defense by 8
+PT: Aumenta a Defesa em 8
+### 4889 [btl_acc_mes:24:us] (x1)
+EN: Recovery Ring
+PT: Anel da Cura
+### 4890 [btl_acc_mes:25:us] (x1)
+EN: Raises Recover by 3
+PT: Aumenta a Cura em 3
+### 4891 [btl_acc_mes:26:us] (x2)
+EN: Recovery Bracelet
+PT: Pulseira da Cura
+### 4892 [btl_acc_mes:27:us] (x1)
+EN: Raises Recover by 5
+PT: Aumenta a Cura em 5
+### 4893 [btl_acc_mes:28:us] (x1)
+EN: Recovery Necklace
+PT: Colar da Cura
+### 4894 [btl_acc_mes:29:us] (x1)
+EN: Raises Recover by 8
+PT: Aumenta a Cura em 8
+### 4895 [btl_acc_mes:30:us] (x1)
+EN: Skill Ring
+PT: Anel da Técnica
+### 4896 [btl_acc_mes:31:us] (x1)
+EN: Raises Skill by 3
+PT: Aumenta a Técnica em 3
+### 4897 [btl_acc_mes:32:us] (x1)
+EN: Skill Bracelet
+PT: Pulseira da Técnica
+### 4898 [btl_acc_mes:33:us] (x1)
+EN: Raises Skill by 5
+PT: Aumenta a Técnica em 5
+### 4899 [btl_acc_mes:34:us] (x1)
+EN: Skill Necklace
+PT: Colar da Técnica
+### 4900 [btl_acc_mes:35:us] (x1)
+EN: Raises Skill by 8
+PT: Aumenta a Técnica em 8
+### 4901 [btl_acc_mes:36:us] (x1)
+EN: Agility Ring
+PT: Anel da Agilidade
+### 4902 [btl_acc_mes:37:us] (x1)
+EN: Raises Speed by 3
+PT: Aumenta a Velocidade em 3
+### 4903 [btl_acc_mes:38:us] (x1)
+EN: Agility Bracelet
+PT: Pulseira da Agilidade
+### 4904 [btl_acc_mes:39:us] (x1)
+EN: Raises Speed by 5
+PT: Aumenta a Velocidade em 5
+### 4905 [btl_acc_mes:40:us] (x1)
+EN: Agility Necklace
+PT: Colar da Agilidade
+### 4906 [btl_acc_mes:41:us] (x1)
+EN: Raises Speed by 8
+PT: Aumenta a Velocidade em 8
+### 4907 [btl_acc_mes:42:us] (x1)
+EN: Luck Ring
+PT: Anel da Sorte
+### 4908 [btl_acc_mes:43:us] (x1)
+EN: Raises Luck by 5
+PT: Aumenta a Sorte em 5
+### 4909 [btl_acc_mes:44:us] (x1)
+EN: Luck Bracelet
+PT: Pulseira da Sorte
+### 4910 [btl_acc_mes:45:us] (x1)
+EN: Raises Luck by 10
+PT: Aumenta a Sorte em 10
+### 4911 [btl_acc_mes:46:us] (x1)
+EN: Luck Necklace
+PT: Colar da Sorte
+### 4912 [btl_acc_mes:47:us] (x1)
+EN: Raises Luck by 15
+PT: Aumenta a Sorte em 15
+### 4913 [btl_acc_mes:48:us] (x1)
+EN: Full Ring
+PT: Anel Completo
+### 4914 [btl_acc_mes:49:us] (x1)
+EN: Raises all parameters by 2
+PT: Aumenta todos os atributos em 2
+### 4915 [btl_acc_mes:50:us] (x1)
+EN: Full Bracelet
+PT: Pulseira Completa
+### 4916 [btl_acc_mes:51:us] (x1)
+EN: Raises all parameters by 4
+PT: Aumenta todos os atributos em 4
+### 4917 [btl_acc_mes:52:us] (x1)
+EN: Full Necklace
+PT: Colar Completo
+### 4918 [btl_acc_mes:53:us] (x1)
+EN: Raises all parameters by 6
+PT: Aumenta todos os atributos em 6
+### 4919 [btl_acc_mes:54:us] (x1)
+EN: Fighter's Mark
+PT: Marca do Lutador
+### 4920 [btl_acc_mes:55:us] (x1)
+EN: Raises attack power by 5%
+PT: Aumenta o ataque em 5%
+### 4921 [btl_acc_mes:56:us] (x1)
+EN: Fighter's Emblem
+PT: Emblema do Lutador
+### 4922 [btl_acc_mes:57:us] (x1)
+EN: Raises attack power by 10%
+PT: Aumenta o ataque em 10%
+### 4923 [btl_acc_mes:58:us] (x1)
+EN: Fighter's Crest
+PT: Brasão do Lutador
+### 4924 [btl_acc_mes:59:us] (x1)
+EN: Raises attack power by 15%
+PT: Aumenta o ataque em 15%
+### 4925 [btl_acc_mes:60:us] (x1)
+EN: Protective Mark
+PT: Marca Protetora
+### 4926 [btl_acc_mes:61:us] (x1)
+EN: Raises defense power by 5%
+PT: Aumenta a defesa em 5%
+### 4927 [btl_acc_mes:62:us] (x1)
+EN: Protective Emblem
+PT: Emblema Protetor
+### 4928 [btl_acc_mes:63:us] (x1)
+EN: Raises defense power by 10%
+PT: Aumenta a defesa em 10%
+### 4929 [btl_acc_mes:64:us] (x1)
+EN: Protective Crest
+PT: Brasão Protetor
+### 4930 [btl_acc_mes:65:us] (x1)
+EN: Raises defense power by 15%
+PT: Aumenta a defesa em 15%
+### 4931 [btl_acc_mes:66:us] (x1)
+EN: Striker's Mark
+PT: Marca do Atacante
+### 4932 [btl_acc_mes:67:us] (x1)
+EN: Raises accuracy by 10%
+PT: Aumenta a precisão em 10%
+### 4933 [btl_acc_mes:68:us] (x1)
+EN: Striker's Emblem
+PT: Emblema do Atacante
+### 4934 [btl_acc_mes:69:us] (x1)
+EN: Raises accuracy by 15%
+PT: Aumenta a precisão em 15%
+### 4935 [btl_acc_mes:70:us] (x1)
+EN: Striker's Crest
+PT: Brasão do Atacante
+### 4936 [btl_acc_mes:71:us] (x1)
+EN: Raises accuracy by 20%
+PT: Aumenta a precisão em 20%
+### 4937 [btl_acc_mes:72:us] (x1)
+EN: Evasion Mark
+PT: Marca da Esquiva
+### 4938 [btl_acc_mes:73:us] (x1)
+EN: Raises evasion by 10%
+PT: Aumenta a esquiva em 10%
+### 4939 [btl_acc_mes:74:us] (x1)
+EN: Evasion Emblem
+PT: Emblema da Esquiva
+### 4940 [btl_acc_mes:75:us] (x1)
+EN: Raises evasion by 15%
+PT: Aumenta a esquiva em 15%
+### 4941 [btl_acc_mes:76:us] (x1)
+EN: Evasion Crest
+PT: Brasão da Esquiva
+### 4942 [btl_acc_mes:77:us] (x1)
+EN: Raises evasion by 20%
+PT: Aumenta a esquiva em 20%
+### 4943 [btl_acc_mes:78:us] (x1)
+EN: Speed Mark
+PT: Marca da Velocidade
+### 4944 [btl_acc_mes:79:us] (x1)
+EN: Raises speed by 10%
+PT: Aumenta a velocidade em 10%
+### 4945 [btl_acc_mes:80:us] (x1)
+EN: Speed Emblem
+PT: Emblema Veloz
+### 4946 [btl_acc_mes:81:us] (x1)
+EN: Raises speed by 20%
+PT: Aumenta a velocidade em 20%
+### 4947 [btl_acc_mes:82:us] (x1)
+EN: Speed Crest
+PT: Brasão da Velocidade
+### 4948 [btl_acc_mes:83:us] (x1)
+EN: Raises speed by 30%
+PT: Aumenta a velocidade em 30%
+### 4949 [btl_acc_mes:84:us] (x1)
+EN: Recovery Mark
+PT: Marca da Cura
+### 4950 [btl_acc_mes:85:us] (x1)
+EN: Raises auto-healing by 10%
+PT: Aumenta a autocura em 10%
+### 4951 [btl_acc_mes:86:us] (x1)
+EN: Recovery Emblem
+PT: Emblema da Cura
+### 4952 [btl_acc_mes:87:us] (x1)
+EN: Raises auto-healing by 15%
+PT: Aumenta a autocura em 15%
+### 4953 [btl_acc_mes:88:us] (x1)
+EN: Recovery Crest
+PT: Brasão da Cura
+### 4954 [btl_acc_mes:89:us] (x1)
+EN: Raises auto-healing by 20%
+PT: Aumenta a autocura em 20%
+### 4955 [btl_acc_mes:90:us] (x1)
+EN: Fighter's Secret
+PT: Segredo do Lutador
+### 4956 [btl_acc_mes:91:us] (x1)
+EN: Raises chance of critical hits by 3%
+PT: Aumenta a chance de crítico em 3%
+### 4957 [btl_acc_mes:92:us] (x1)
+EN: Hero's Secret
+PT: Segredo do Herói
+### 4958 [btl_acc_mes:93:us] (x1)
+EN: Raises chance of critical hits by 5%
+PT: Aumenta a chance de crítico em 5%
+### 4959 [btl_acc_mes:94:us] (x1)
+EN: Master's Secret
+PT: Segredo do Mestre
+### 4960 [btl_acc_mes:95:us] (x1)
+EN: Raises chance of critical hits by 8%
+PT: Aumenta a chance de crítico em 8%
+### 4961 [btl_acc_mes:96:us] (x1)
+EN: Fighter's Scheme
+PT: Tática do Lutador
+### 4962 [btl_acc_mes:97:us] (x1)
+EN: Raises chance of launching chains by 3%
+PT: Aumenta a chance de corrente em 3%
+### 4963 [btl_acc_mes:98:us] (x1)
+EN: Hero's Scheme
+PT: Tática do Herói
+### 4964 [btl_acc_mes:99:us] (x1)
+EN: Raises chance of launching chains by 5%
+PT: Aumenta a chance de corrente em 5%
+### 4965 [btl_acc_mes:100:us] (x1)
+EN: Master's Scheme
+PT: Tática do Mestre
+### 4966 [btl_acc_mes:101:us] (x1)
+EN: Raises chance of launching chains by 8%
+PT: Aumenta a chance de corrente em 8%
+### 4967 [btl_acc_mes:102:us] (x2)
+EN: Rush Ring
+PT: Anel do Ímpeto
+### 4968 [btl_acc_mes:103:us] (x1)
+EN: Raises attack by 15%;<n>lowers defense by 15%
+PT: Ataque +15%;<n>defesa -15%
+### 4969 [btl_acc_mes:104:us] (x1)
+EN: Rush Bracelet
+PT: Pulseira do Ímpeto
+### 4970 [btl_acc_mes:105:us] (x1)
+EN: Raises attack by 20%;<n>lowers defense by 20%
+PT: Ataque +20%;<n>defesa -20%
+### 4971 [btl_acc_mes:106:us] (x1)
+EN: Caution Ring
+PT: Anel da Cautela
+### 4972 [btl_acc_mes:107:us] (x1)
+EN: Raises defense by 15%;<n>lowers attack by 15%
+PT: Defesa +15%;<n>ataque -15%
+### 4973 [btl_acc_mes:108:us] (x1)
+EN: Caution Bracelet
+PT: Pulseira da Cautela
+### 4974 [btl_acc_mes:109:us] (x1)
+EN: Raises defense by 20%;<n>lowers attack by 20%
+PT: Defesa +20%;<n>ataque -20%
+### 4975 [btl_acc_mes:110:us] (x1)
+EN: Model Full Moon
+PT: Lua Cheia de Mentira
+### 4976 [btl_acc_mes:111:us] (x1)
+EN: Boosts all of a Saiyan's powers, but<n>puts him in permanent Confusion mode
+PT: Aumenta tudo de um Saiyajin, mas<n>o deixa em Confusão permanente
+### 4977 [btl_acc_mes:112:us] (x1)
+EN: Saiyan Spirit
+PT: Espírito Saiyajin
+### 4978 [btl_acc_mes:113:us] (x1)
+EN: Raises all of a Saiyan's powers<n>when he is near death
+PT: Aumenta tudo de um Saiyajin<n>quando está quase morrendo
+### 4979 [btl_acc_mes:115:us] (x1)
+EN: Drastically lowers Yamcha's defense;<n>raises all his other parameters
+PT: Reduz muito a defesa do Yamcha;<n>aumenta todo o resto
+### 4980 [btl_acc_mes:116:us] (x1)
+EN: Sleep Ring
+PT: Anel do Sono
+### 4981 [btl_acc_mes:117:us] (x1)
+EN: Makes you resistant to Sleep
+PT: Dá resistência a Sono
+### 4982 [btl_acc_mes:118:us] (x1)
+EN: Sleep Bracelet
+PT: Pulseira do Sono
+### 4983 [btl_acc_mes:119:us] (x1)
+EN: Makes you impervious to Sleep
+PT: Dá imunidade a Sono
+### 4984 [btl_acc_mes:120:us] (x1)
+EN: Paralysis Ring
+PT: Anel da Paralisia
+### 4985 [btl_acc_mes:121:us] (x1)
+EN: Makes you resistant to Paralysis
+PT: Dá resistência a Paralisia
+### 4986 [btl_acc_mes:122:us] (x1)
+EN: Paralysis Bracelet
+PT: Pulseira da Paralisia
+### 4987 [btl_acc_mes:123:us] (x1)
+EN: Makes you impervious to Paralysis
+PT: Dá imunidade a Paralisia
+### 4988 [btl_acc_mes:124:us] (x1)
+EN: Poison Ring
+PT: Anel do Veneno
+### 4989 [btl_acc_mes:125:us] (x1)
+EN: Makes you resistant to Poison
+PT: Dá resistência a Veneno
+### 4990 [btl_acc_mes:126:us] (x1)
+EN: Poison Bracelet
+PT: Pulseira do Veneno
+### 4991 [btl_acc_mes:127:us] (x1)
+EN: Makes you impervious to Poison
+PT: Dá imunidade a Veneno
+### 4992 [btl_acc_mes:128:us] (x1)
+EN: Dark Ring
+PT: Anel Sombrio
+### 4993 [btl_acc_mes:129:us] (x1)
+EN: Makes you resistant to Darkness
+PT: Dá resistência a Escuridão
+### 4994 [btl_acc_mes:130:us] (x1)
+EN: Dark Bracelet
+PT: Pulseira Sombria
+### 4995 [btl_acc_mes:131:us] (x1)
+EN: Makes you impervious to Darkness
+PT: Dá imunidade a Escuridão
+### 4996 [btl_acc_mes:132:us] (x1)
+EN: Stun Ring
+PT: Anel do Atordoamento
+### 4997 [btl_acc_mes:133:us] (x1)
+EN: Makes you resistant to Stun
+PT: Dá resistência a Atordoamento
+### 4998 [btl_acc_mes:134:us] (x1)
+EN: Stun Bracelet
+PT: Pulseira Antitontura
+### 4999 [btl_acc_mes:135:us] (x1)
+EN: Makes you impervious to Stun
+PT: Dá imunidade a Atordoamento
+### 5000 [btl_acc_mes:136:us] (x1)
+EN: Confuse Ring
+PT: Anel da Confusão
+### 5001 [btl_acc_mes:137:us] (x1)
+EN: Makes you resistant to Confusion
+PT: Dá resistência a Confusão
+### 5002 [btl_acc_mes:138:us] (x1)
+EN: Confuse Bracelet
+PT: Pulseira da Confusão
+### 5003 [btl_acc_mes:139:us] (x1)
+EN: Makes you impervious to Confusion
+PT: Dá imunidade a Confusão
+### 5004 [btl_acc_mes:140:us] (x1)
+EN: Freeze Ring
+PT: Anel do Gelo
+### 5005 [btl_acc_mes:141:us] (x1)
+EN: Makes you resistant to Freezing
+PT: Dá resistência a Congelamento
+### 5006 [btl_acc_mes:142:us] (x1)
+EN: Freeze Bracelet
+PT: Pulseira do Gelo
+### 5007 [btl_acc_mes:143:us] (x1)
+EN: Makes you impervious to Freezing
+PT: Dá imunidade a Congelamento
+### 5008 [btl_acc_mes:144:us] (x1)
+EN: Evil Containment Stone
+PT: Pedra do Mafuba
+### 5009 [btl_acc_mes:145:us] (x1)
+EN: Gives you a chance to avoid<n>instant-kill attacks
+PT: Chance de escapar de<n>ataques de morte instantânea
+### 5010 [btl_acc_mes:146:us] (x1)
+EN: Evil Containment Jewel
+PT: Joia do Mafuba
+### 5011 [btl_acc_mes:147:us] (x1)
+EN: Defense against all instant-kill attacks
+PT: Protege de toda morte instantânea
+### 5012 [btl_acc_mes:149:us] (x1)
+EN: Makes you more resistant to<n>all status ailments
+PT: Aumenta a resistência a<n>todos os efeitos
+### 5013 [btl_acc_mes:151:us] (x1)
+EN: Makes you impervious to<n>all status ailments
+PT: Dá imunidade a<n>todos os efeitos
+### 5014 [btl_acc_mes:152:us] (x1)
+EN: Sleep Knuckle
+PT: Soco do Sono
+### 5015 [btl_acc_mes:153:us] (x1)
+EN: Chance of putting enemies to sleep<n>with each attack
+PT: Chance de fazer o inimigo dormir<n>a cada ataque
+### 5016 [btl_acc_mes:154:us] (x1)
+EN: Bind Knuckle
+PT: Soco da Paralisia
+### 5017 [btl_acc_mes:155:us] (x1)
+EN: Chance of paralyzing enemies<n>with each attack
+PT: Chance de paralisar o inimigo<n>a cada ataque
+### 5018 [btl_acc_mes:156:us] (x1)
+EN: Poison Knuckle
+PT: Soco Venenoso
+### 5019 [btl_acc_mes:157:us] (x1)
+EN: Chance of poisoning enemies<n>with each attack
+PT: Chance de envenenar o inimigo<n>a cada ataque
+### 5020 [btl_acc_mes:158:us] (x1)
+EN: Blindfold Knuckle
+PT: Soco da Venda
+### 5021 [btl_acc_mes:159:us] (x1)
+EN: Chance of putting enemies in darkness<n>with each attack
+PT: Chance de deixar o inimigo no escuro<n>a cada ataque
+### 5022 [btl_acc_mes:160:us] (x1)
+EN: Stun Knuckle
+PT: Soco Atordoante
+### 5023 [btl_acc_mes:161:us] (x1)
+EN: Chance of stunning enemies<n>with each attack
+PT: Chance de atordoar o inimigo<n>a cada ataque
+### 5024 [btl_acc_mes:162:us] (x1)
+EN: Freeze Knuckle
+PT: Soco Congelante
+### 5025 [btl_acc_mes:163:us] (x1)
+EN: Chance of freezing enemies<n>with each attack
+PT: Chance de congelar o inimigo<n>a cada ataque
+### 5026 [btl_acc_mes:164:us] (x1)
+EN: Demon Seal
+PT: Selo Demoníaco
+### 5027 [btl_acc_mes:165:us] (x1)
+EN: Chance of killing an enemy instantly<n>with each attack
+PT: Chance de matar o inimigo na hora<n>a cada ataque
+### 5028 [btl_acc_mes:166:us] (x1)
+EN: Fire Glove
+PT: Luva de Fogo
+### 5029 [btl_acc_mes:167:us] (x1)
+EN: Adds @37fire element to normal attacks
+PT: Dá o elemento @37fogo aos ataques
+### 5030 [btl_acc_mes:168:us] (x1)
+EN: Thunder Glove
+PT: Luva do Trovão
+### 5031 [btl_acc_mes:169:us] (x1)
+EN: Adds @39Lightning element to normal attacks
+PT: Dá o elemento @39raio aos ataques
+### 5032 [btl_acc_mes:170:us] (x1)
+EN: Ice Glove
+PT: Luva de Gelo
+### 5033 [btl_acc_mes:171:us] (x1)
+EN: Adds @38ice element to normal attacks
+PT: Dá o elemento @38gelo aos ataques
+### 5034 [btl_acc_mes:172:us] (x1)
+EN: Comfort Ring
+PT: Anel do Conforto
+### 5035 [btl_acc_mes:173:us] (x1)
+EN: Refills a little Ki with each turn
+PT: Recupera um pouco de Ki por turno
+### 5036 [btl_acc_mes:174:us] (x1)
+EN: Comfort Bracelet
+PT: Pulseira do Conforto
+### 5037 [btl_acc_mes:175:us] (x1)
+EN: Refills some Ki with each turn
+PT: Recupera algum Ki por turno
+### 5038 [btl_acc_mes:177:us] (x1)
+EN: Raises the rate of HP regeneration;<n>refills a little Ki
+PT: Aumenta a regeneração de HP;<n>recupera um pouco de Ki
+### 5039 [btl_acc_mes:178:us] (x1)
+EN: Absorb Bracelet
+PT: Pulseira da Absorção
+### 5040 [btl_acc_mes:179:us] (x1)
+EN: Absorbs damage landed on enemies<n>and refills a little HP
+PT: Absorve o dano causado aos inimigos<n>e recupera um pouco de HP
+### 5041 [btl_acc_mes:180:us] (x1)
+EN: Psyonic Bracelet
+PT: Pulseira Psíquica
+### 5042 [btl_acc_mes:181:us] (x1)
+EN: Absorbs @36Ki damage from enemies<n>and refills a little of your Ki
+PT: Absorve dano de @36Ki dos inimigos<n>e recupera um pouco do seu Ki
+### 5043 [btl_acc_mes:182:us] (x1)
+EN: Meditation Belt
+PT: Faixa da Meditação
+### 5044 [btl_acc_mes:183:us] (x1)
+EN: Reduces consumed Ki a little
+PT: Reduz um pouco o Ki gasto
+### 5045 [btl_acc_mes:184:us] (x1)
+EN: Kami's Cape
+PT: Capa de Kami-Sama
+### 5046 [btl_acc_mes:185:us] (x1)
+EN: Makes all Ki attacks cost 1
+PT: Ataques de Ki custam só 1
+### 5047 [btl_acc_mes:186:us] (x1)
+EN: Selflessness Belt
+PT: Faixa do Desapego
+### 5048 [btl_acc_mes:187:us] (x1)
+EN: Makes some attacks cost zero Ki
+PT: Alguns ataques não gastam Ki
+### 5049 [btl_acc_mes:188:us] (x1)
+EN: Knowledge Belt
+PT: Faixa do Saber
+### 5050 [btl_acc_mes:189:us] (x1)
+EN: Enhances effect of consumable items
+PT: Melhora o efeito dos itens de uso
+### 5051 [btl_acc_mes:190:us] (x1)
+EN: Extension Belt
+PT: Faixa Extensora
+### 5052 [btl_acc_mes:191:us] (x1)
+EN: Extends effect of timed items
+PT: Prolonga os itens temporários
+### 5053 [btl_acc_mes:192:us] (x1)
+EN: Range Belt
+PT: Faixa do Alcance
+### 5054 [btl_acc_mes:193:us] (x1)
+EN: HP and KI recovery items heal the whole<n>party evenly
+PT: Itens de HP e KI curam o grupo todo<n>por igual
+### 5055 [btl_acc_mes:194:us] (x1)
+EN: Fortune Belt
+PT: Faixa da Sorte
+### 5056 [btl_acc_mes:195:us] (x1)
+EN: Gives you a chance to use items<n>without consuming them
+PT: Chance de usar itens<n>sem gastá-los
+### 5057 [btl_acc_mes:196:us] (x1)
+EN: Popo's Turban
+PT: Turbante do Popo
+### 5058 [btl_acc_mes:197:us] (x1)
+EN: Raises the experience points you earn
+PT: Aumenta a experiência que você ganha
+### 5059 [btl_acc_mes:198:us] (x1)
+EN: Bushido Spirit
+PT: Espírito Bushido
+### 5060 [btl_acc_mes:199:us] (x1)
+EN: Raises the AP you earn
+PT: Aumenta o AP que você ganha
+### 5061 [btl_acc_mes:201:us] (x1)
+EN: Consumes Ki to make a normal attack a <n>chain attack
+PT: Gasta Ki para virar o ataque normal <n>um ataque em corrente
+### 5062 [btl_acc_mes:202:us] (x1)
+EN: Tension Up
+PT: Tensão+
+### 5063 [btl_acc_mes:204:us] (x1)
+EN: Targeting Ring
+PT: Anel da Mira
+### 5064 [btl_acc_mes:205:us] (x1)
+EN: Makes your attacks hit the enemy<n>100% of the time
+PT: Seus ataques acertam o inimigo<n>sempre
+### 5065 [btl_acc_mes:206:us] (x1)
+EN: Counter Bracelet
+PT: Pulseira Revide
+### 5066 [btl_acc_mes:207:us] (x1)
+EN: Lets you counterattack the enemy<n>(Low chance)
+PT: Permite contra-atacar o inimigo<n>(Pouca chance)
+### 5067 [btl_acc_mes:208:us] (x1)
+EN: Dragon's Rage
+PT: Fúria do Dragão
+### 5068 [btl_acc_mes:209:us] (x1)
+EN: Lets you counterattack the enemy<n>(High chance)
+PT: Permite contra-atacar o inimigo<n>(Muita chance)
+### 5069 [btl_acc_mes:210:us] (x1)
+EN: Double-Edged Seal
+PT: Selo de Dois Gumes
+### 5070 [btl_acc_mes:211:us] (x1)
+EN: Raises attack power, but also hurts<n>you with each attack landed
+PT: Aumenta o ataque, mas também fere<n>você a cada golpe acertado
+### 5071 [btl_acc_mes:212:us] (x1)
+EN: Shenron's Nail
+PT: Unha de Shenlong
+### 5072 [btl_acc_mes:213:us] (x1)
+EN: Always gives you the first<n>attack in battle
+PT: Sempre dá o primeiro<n>ataque na batalha
+### 5073 [btl_acc_mes:214:us] (x1)
+EN: Confrontation Brace
+PT: Braçal do Confronto
+### 5074 [btl_acc_mes:215:us] (x1)
+EN: Makes enemies target you more often
+PT: Os inimigos te miram mais vezes
+### 5075 [btl_acc_mes:216:us] (x1)
+EN: Blessing Belt
+PT: Faixa da Bênção
+### 5076 [btl_acc_mes:217:us] (x1)
+EN: Chance of rendering attacks<n>against you ineffective
+PT: Chance de anular ataques<n>contra você
+### 5077 [btl_acc_mes:218:us] (x1)
+EN: Attitude Belt
+PT: Faixa da Atitude
+### 5078 [btl_acc_mes:219:us] (x1)
+EN: Chance of reviving yourself when<n>you run out of HP
+PT: Chance de reviver sozinho<n>quando o HP acaba
+### 5079 [btl_acc_mes:220:us] (x1)
+EN: Guard Earring
+PT: Brinco da Defesa
+### 5080 [btl_acc_mes:221:us] (x1)
+EN: Reduces damage received during<n>an Active Guard
+PT: Reduz o dano recebido durante<n>a Defesa Ativa
+### 5081 [btl_acc_mes:222:us] (x1)
+EN: Detect Earring
+PT: Brinco Detector
+### 5082 [btl_acc_mes:223:us] (x1)
+EN: Chance of avoiding all damage<n>with an Active Guard
+PT: Chance de anular todo dano<n>com a Defesa Ativa
+### 5083 [btl_acc_mes:224:us] (x1)
+EN: Guard Sense
+PT: Instinto de Defesa
+### 5084 [btl_acc_mes:225:us] (x1)
+EN: Chance of counterattack with<n>an Active Guard
+PT: Chance de contra-atacar com<n>a Defesa Ativa
+### 5085 [btl_acc_mes:226:us] (x1)
+EN: One-Hit Earring
+PT: Brinco Fatal
+### 5086 [btl_acc_mes:227:us] (x1)
+EN: Chance of killing weaker enemies<n>immediately
+PT: Chance de matar inimigos<n>fracos na hora
+### 5087 [btl_acc_mes:228:us] (x1)
+EN: Invigorate Ring
+PT: Anel Revigorante
+### 5088 [btl_acc_mes:229:us] (x1)
+EN: Raises power of @36Ki blasts
+PT: Aumenta o poder das rajadas de @36Ki
+### 5089 [btl_acc_mes:230:us] (x1)
+EN: High Spirits
+PT: Ânimo Elevado
+### 5090 [btl_acc_mes:231:us] (x1)
+EN: Shares your spirit to<n>increase the power of spirit ball<n>(Anyone but Goku can use it)
+PT: Compartilha seu espírito para<n>fortalecer a Genki Dama<n>(Todos menos o Goku podem usar)
+### 5091 [btl_acc_mes:232:us] (x1)
+EN: Broly's Necklace
+PT: Colar do Broly
+### 5092 [btl_acc_mes:233:us] (x1)
+EN: Proof that Broly is defeated<n> Raises all parameters by 50
+PT: Prova de que o Broly foi vencido<n> Aumenta todos os atributos em 50
+### 5093 [pt_eqp_mes:0:us] (x1)
+EN: Dragon Radar
+PT: Radar do Dragão
+### 5094 [pt_eqp_mes:1:us] (x1)
+EN: Helps you find Dragon Balls. \1P3Standby:\1Pn No<n>effect. Press \24ON\4P6\24P2 to use.
+PT: Ajuda a achar Esferas. \1P3Reserva:\1Pn Sem<n>efeito. Aperte \24ON\4P6\24P2 para usar.
+### 5095 [pt_eqp_mes:2:us] (x1)
+EN: Oolong's Nose
+PT: Nariz do Oolong
+### 5096 [pt_eqp_mes:3:us] (x1)
+EN: Helps you find treasures in the map.<n>\1P3Standby:\1Pn No effect. Press \24ON\4P6\24P2 to use.
+PT: Ajuda a achar tesouros no mapa.<n>\1P3Reserva:\1Pn Sem efeito. Aperte \24ON\4P6\24P2.
+### 5097 [pt_eqp_mes:4:us] (x1)
+EN: Korin's Canteen
+PT: Cantil do Karin
+### 5098 [pt_eqp_mes:5:us] (x1)
+EN: Raises the speed your Ki meter refills.<n>\1P3Standby:\1Pn No effect.
+PT: Enche o medidor de Ki mais rápido.<n>\1P3Reserva:\1Pn Sem efeito.
+### 5099 [pt_eqp_mes:7:us] (x1)
+EN: Displays enemy data during battle.<n>\1P3Standby:\1Pn 100% effective.
+PT: Mostra dados do inimigo na luta.<n>\1P3Reserva:\1Pn 100% de efeito.
+### 5100 [pt_eqp_mes:8:us] (x1)
+EN: Rice Cooker
+PT: Panela de Arroz
+### 5101 [pt_eqp_mes:9:us] (x1)
+EN: Makes Tien's Evil Containment Wave a little<n>more powerful. \1P3Standby:\1Pn 100% effective.
+PT: Fortalece um pouco o Mafuba do<n>Tenshinhan. \1P3Reserva:\1Pn 100% de efeito.
+### 5102 [pt_eqp_mes:10:us] (x1)
+EN: Better Rice Cooker
+PT: Panela Melhor
+### 5103 [pt_eqp_mes:11:us] (x1)
+EN: Makes Tien's Containment Wave more<n>powerful. \1P3Standby:\1Pn 100% effective.
+PT: Fortalece o Mafuba do Tenshinhan.<n>\1P3Reserva:\1Pn 100% de efeito.
+### 5104 [pt_eqp_mes:12:us] (x1)
+EN: Best Rice Cooker
+PT: Panela Suprema
+### 5105 [pt_eqp_mes:13:us] (x1)
+EN: Makes Tien's Containment Wave much<n>more powerful. \1P3Standby:\1Pn 100% effective.
+PT: Fortalece muito o Mafuba do<n>Tenshinhan. \1P3Reserva:\1Pn 100% de efeito.
+### 5106 [pt_eqp_mes:14:us] (x1)
+EN: Carrot Glove
+PT: Luva da Cenoura
+### 5107 [pt_eqp_mes:15:us] (x1)
+EN: Turns defeated enemies into carrots. No Zeni<n>can be obtained. \1P3Standby:\1P3 No effect.
+PT: Vira inimigos vencidos em cenoura. Sem<n>Zeni. \1P3Reserva:\1P3 Sem efeito.
+### 5108 [pt_eqp_mes:16:us] (x1)
+EN: Energy Seed
+PT: Semente de Energia
+### 5109 [pt_eqp_mes:17:us] (x1)
+EN: Refills a little HP after battle.<n>\1P3Standby:\1Pn No effect.
+PT: Recupera um pouco de HP após a luta.<n>\1P3Reserva:\1Pn Sem efeito.
+### 5110 [pt_eqp_mes:18:us] (x1)
+EN: Ki Seed
+PT: Semente de Ki
+### 5111 [pt_eqp_mes:19:us] (x1)
+EN: Refills a little Ki after battle.<n>\1P3Standby:\1Pn No effect.
+PT: Recupera um pouco de Ki após a luta.<n>\1P3Reserva:\1Pn Sem efeito.
+### 5112 [pt_eqp_mes:20:us] (x1)
+EN: Chi-Chi's Lunch
+PT: Marmita da Chichi
+### 5113 [pt_eqp_mes:21:us] (x1)
+EN: Refills HP as you walk around.<n>\1P3Standby:\1Pn 50% effective.
+PT: Recupera HP enquanto você anda.<n>\1P3Reserva:\1Pn 50% de efeito.
+### 5114 [pt_eqp_mes:22:us] (x1)
+EN: Korin's Staff
+PT: Cajado do Karin
+### 5115 [pt_eqp_mes:23:us] (x1)
+EN: Refills Ki as you walk around.<n>\1P3Standby:\1Pn 50% effective.
+PT: Recupera Ki enquanto você anda.<n>\1P3Reserva:\1Pn 50% de efeito.
+### 5116 [pt_eqp_mes:24:us] (x1)
+EN: Agitator
+PT: Agitador
+### 5117 [pt_eqp_mes:25:us] (x1)
+EN: Keeps Rage Gauge from falling as much<n>after battle. \1P3Standby:\1Pn No effect.
+PT: A Fúria cai menos depois da<n>luta. \1P3Reserva:\1Pn Sem efeito.
+### 5118 [pt_eqp_mes:26:us] (x1)
+EN: Adrenaline
+PT: Adrenalina
+### 5119 [pt_eqp_mes:27:us] (x1)
+EN: Keeps Rage Gauge from falling<n>after battle. \1P3Standby:\1Pn No effect.
+PT: A Fúria não cai depois da<n>luta. \1P3Reserva:\1Pn Sem efeito.
+### 5120 [pt_eqp_mes:28:us] (x1)
+EN: Squeaky Boots
+PT: Botas Rangentes
+### 5121 [pt_eqp_mes:29:us] (x1)
+EN: Raises rate of enemy encounter.<n>\1P3Standby:\1Pn No effect.
+PT: Aumenta os encontros com inimigos.<n>\1P3Reserva:\1Pn Sem efeito.
+### 5122 [pt_eqp_mes:30:us] (x1)
+EN: Ninja Sandals
+PT: Sandálias Ninja
+### 5123 [pt_eqp_mes:31:us] (x1)
+EN: Lowers rate of enemy encounter.<n>\1P3Standby:\1Pn No effect.
+PT: Reduz os encontros com inimigos.<n>\1P3Reserva:\1Pn Sem efeito.
+### 5124 [pt_eqp_mes:32:us] (x1)
+EN: Foe Charm
+PT: Amuleto do Rival
+### 5125 [pt_eqp_mes:33:us] (x1)
+EN: Raises chance of encounter with rare<n>enemies. \1P3Standby:\1Pn No effect.
+PT: Mais chance de achar inimigos<n>raros. \1P3Reserva:\1Pn Sem efeito.
+### 5126 [pt_eqp_mes:34:us] (x1)
+EN: Foe Challenger
+PT: Desafiante
+### 5127 [pt_eqp_mes:35:us] (x1)
+EN: Makes you encounter strong foes more<n>than weak ones. \1P3Standby:\1Pn No effect.
+PT: Encontra mais inimigos fortes<n>que fracos. \1P3Reserva:\1Pn Sem efeito.
+### 5128 [pt_eqp_mes:36:us] (x1)
+EN: Heavy Karate Outfit
+PT: Kimono Pesado
+### 5129 [pt_eqp_mes:37:us] (x1)
+EN: Gives you a little experience as you<n>walk around. \1P3Standby:\1Pn 50% effective.
+PT: Dá um pouco de experiência enquanto<n>anda. \1P3Reserva:\1Pn 50% de efeito.
+### 5130 [pt_eqp_mes:38:us] (x1)
+EN: Oolong's Wallet
+PT: Carteira do Oolong
+### 5131 [pt_eqp_mes:39:us] (x1)
+EN: Gives you a little Zeni as you walk<n>around. \1P3Standby:\1Pn 50% effective.
+PT: Dá um pouco de Zeni enquanto<n>anda. \1P3Reserva:\1Pn 50% de efeito.
+### 5132 [pt_eqp_mes:40:us] (x1)
+EN: Swift Boots
+PT: Botas Ligeiras
+### 5133 [pt_eqp_mes:41:us] (x1)
+EN: Raises speed and chance of being sneak-<n>attacked. \1P3Standby:\1Pn No effect.
+PT: Mais velocidade e mais emboscadas<n>inimigas. \1P3Reserva:\1Pn Sem efeito.
+### 5134 [pt_eqp_mes:42:us] (x1)
+EN: Spark Boots
+PT: Botas Faísca
+### 5135 [pt_eqp_mes:43:us] (x1)
+EN: Makes you move much faster.<n>\1P3Standby:\1Pn No effect.
+PT: Faz você andar muito mais rápido.<n>\1P3Reserva:\1Pn Sem efeito.
+### 5136 [pt_eqp_mes:44:us] (x1)
+EN: Offense Ring
+PT: Anel da Ofensiva
+### 5137 [pt_eqp_mes:45:us] (x1)
+EN: Raises chance of a first strike in<n>battle. \1P3Standby:\1Pn 50% effective.
+PT: Mais chance de atacar primeiro na<n>luta. \1P3Reserva:\1Pn 50% de efeito.
+### 5138 [pt_eqp_mes:46:us] (x1)
+EN: Kami's Eyes
+PT: Olhos Divinos
+### 5139 [pt_eqp_mes:47:us] (x1)
+EN: Keeps enemies from sneak-attacking you.<n>\1P3Standby:\1Pn No effect.
+PT: Impede ataques surpresa inimigos.<n>\1P3Reserva:\1Pn Sem efeito.
+### 5140 [pt_eqp_mes:48:us] (x1)
+EN: Combo UP
+PT: Combo+
+### 5141 [pt_eqp_mes:49:us] (x1)
+EN: Raises Sparking Combo damage.<n>\1P3Standby:\1Pn 50% effective.
+PT: Aumenta o dano do Sparking Combo.<n>\1P3Reserva:\1Pn 50% de efeito.
+### 5142 [pt_eqp_mes:50:us] (x1)
+EN: Escape Path
+PT: Rota de Fuga
+### 5143 [pt_eqp_mes:51:us] (x1)
+EN: Raises chance of running from enemies in<n>battle. \1P3Standby:\1Pn No effect.
+PT: Mais chance de fugir das<n>lutas. \1P3Reserva:\1Pn Sem efeito.
+### 5144 [pt_eqp_mes:52:us] (x1)
+EN: Hammock
+PT: Rede
+### 5145 [pt_eqp_mes:53:us] (x1)
+EN: Raises AP earned by non-party members.<n>\1P3Standby:\1Pn 100% effective.
+PT: Mais AP para quem está fora do grupo.<n>\1P3Reserva:\1Pn 100% de efeito.
+### 5146 [pt_eqp_mes:54:us] (x1)
+EN: Zeni Rush
+PT: Chuva de Zeni
+### 5147 [pt_eqp_mes:55:us] (x1)
+EN: Raises Zeni dropped by enemies after<n>battle. \1P3Standby:\1Pn 50% effective.
+PT: Mais Zeni dos inimigos após a<n>luta. \1P3Reserva:\1Pn 50% de efeito.
+### 5148 [pt_eqp_mes:56:us] (x1)
+EN: Item Rush
+PT: Chuva de Itens
+### 5149 [pt_eqp_mes:57:us] (x1)
+EN: Raises chance of item drops after<n>battle. \1P3Standby:\1Pn 50% effective.
+PT: Mais chance de itens após a<n>luta. \1P3Reserva:\1Pn 50% de efeito.
+### 5150 [pt_eqp_mes:58:us] (x1)
+EN: Puar's Wallet
+PT: Carteira do Puar
+### 5151 [pt_eqp_mes:59:us] (x1)
+EN: Raises chance of rare item drops after<n>battle. \1P3Standby:\1Pn No effect.
+PT: Mais chance de itens raros após<n>a luta. \1P3Reserva:\1Pn Sem efeito.
+### 5152 [pt_eqp_mes:60:us] (x1)
+EN: Gas Mask
+PT: Máscara de Gás
+### 5153 [pt_eqp_mes:61:us] (x1)
+EN: Raises Poison resistance; makes gas<n>floors safe. \1P3Standby:\1Pn 50% effective.
+PT: Resist. a Veneno; anda em chão de<n>gás. \1P3Reserva:\1Pn 50% de efeito.
+### 5154 [pt_eqp_mes:62:us] (x1)
+EN: Rubber Boots
+PT: Botas de Borracha
+### 5155 [pt_eqp_mes:63:us] (x1)
+EN: Raises Thunder defense; makes electric<n>floors safe. \1P3Standby:\1Pn 50% effective.
+PT: Resist. a Raio; anda em chão<n>elétrico. \1P3Reserva:\1Pn 50% de efeito.
+### 5156 [pt_eqp_mes:64:us] (x1)
+EN: Cold Boots
+PT: Botas Frias
+### 5157 [pt_eqp_mes:65:us] (x1)
+EN: Raises Fire resistance; makes fire<n>floors safe. \1P3Standby:\1Pn 50% effective.
+PT: Resist. a Fogo; anda em chão<n>de fogo. \1P3Reserva:\1Pn 50% de efeito.
+### 5158 [pt_eqp_mes:66:us] (x1)
+EN: Silver Fur
+PT: Pele Prateada
+### 5159 [pt_eqp_mes:67:us] (x1)
+EN: Raises Ice resistance; makes icy<n>floors safe. \1P3Standby:\1Pn 50% effective.
+PT: Resist. a Gelo; anda em chão<n>de gelo. \1P3Reserva:\1Pn 50% de efeito.
+### 5160 [pt_eqp_mes:68:us] (x1)
+EN: Shenron's Blessing
+PT: Bênção Shenlong
+### 5161 [pt_eqp_mes:69:us] (x1)
+EN: Makes all damaging floors safe.<n>\1P3Standby:\1Pn No effect.
+PT: Anda em qualquer chão perigoso.<n>\1P3Reserva:\1Pn Sem efeito.
+### 5162 [pt_eqp_mes:70:us] (x1)
+EN: Kami's Uniform
+PT: Roupa Divina
+### 5163 [pt_eqp_mes:71:us] (x1)
+EN: Raises Poison/Lightning/Fire/Ice<n>resistance. \1P3Standby:\1Pn 50% effective.
+PT: Resist. a Veneno/Raio/Fogo/Gelo.<n>\1P3Reserva:\1Pn 50% de efeito.
+### 5164 [pt_eqp_mes:72:us] (x1)
+EN: Poison Card
+PT: Carta do Veneno
+### 5165 [pt_eqp_mes:73:us] (x1)
+EN: Occasionally poisons enemies at the start<n>of battle. \1P3Standby:\1Pn No effect.
+PT: Às vezes envenena inimigos no início<n>da luta. \1P3Reserva:\1Pn Sem efeito.
+### 5166 [pt_eqp_mes:74:us] (x1)
+EN: Darkness Card
+PT: Carta da Escuridão
+### 5167 [pt_eqp_mes:75:us] (x1)
+EN: Occasionally blinds enemies at the start<n>of a battle. \1P3Standby:\1Pn No effect.
+PT: Às vezes cega inimigos no início<n>da luta. \1P3Reserva:\1Pn Sem efeito.
+### 5168 [pt_eqp_mes:76:us] (x1)
+EN: Sleep Card
+PT: Carta do Sono
+### 5169 [pt_eqp_mes:77:us] (x1)
+EN: Occasionally makes enemies sleep at<n>the start of a battle. \1P3Standby:\1Pn No effect.
+PT: Às vezes faz inimigos dormirem<n>no início. \1P3Reserva:\1Pn Sem efeito.
+### 5170 [pt_eqp_mes:78:us] (x1)
+EN: Binding Card
+PT: Carta da Paralisia
+### 5171 [pt_eqp_mes:79:us] (x1)
+EN: Occasionally paralyzes enemies at start<n>of battle. \1P3Standby:\1Pn No effect.
+PT: Às vezes paralisa inimigos no início<n>da luta. \1P3Reserva:\1Pn Sem efeito.
+### 5172 [pt_eqp_mes:80:us] (x1)
+EN: Freezing Card
+PT: Carta do Gelo
+### 5173 [pt_eqp_mes:81:us] (x1)
+EN: Occasionally freezes enemies at start<n>of battle. \1P3Standby:\1Pn No effect.
+PT: Às vezes congela inimigos no início<n>da luta. \1P3Reserva:\1Pn Sem efeito.
+### 5174 [key_item_mes:0:us] (x1)
+EN: Fortuneteller's Ball
+PT: Bola da Vidente
+### 5175 [key_item_mes:1:us] (x1)
+EN: A mysterious crystal, somehow related to the one<n>Fortuneteller Baba has.
+PT: Um cristal misterioso, ligado ao que a<n>Vovó Uranai tem.
+### 5176 [key_item_mes:2:us] (x1)
+EN: Orin Sign
+PT: Placa do Orin
+### 5177 [key_item_mes:3:us] (x1)
+EN: Orin Temple's sign. You got this<n>back for the temple.
+PT: A placa do Templo Orin. Você a<n>recuperou para o templo.
+### 5178 [key_item_mes:4:us] (x1)
+EN: Eggshell
+PT: Casca de Ovo
+### 5179 [key_item_mes:5:us] (x1)
+EN: The shell from an egg laid by the fire-<n>eater bird on Kiwi Volcano.
+PT: A casca do ovo posto pelo pássaro-<n>come-fogo no Vulcão Kiwi.
+### 5180 [key_item_mes:6:us] (x1)
+EN: Honey
+PT: Mel
+### 5181 [key_item_mes:7:us] (x1)
+EN: Hakkake's favorite. Can also be used<n>as an adhesive.
+PT: O favorito da Hakkake. Também serve<n>como cola.
+### 5182 [key_item_mes:8:us] (x1)
+EN: Bansho Fan
+PT: Leque Bashô
+### 5183 [key_item_mes:9:us] (x1)
+EN: An amazing fan that can put out the<n>flames on Fire Mountain.
+PT: Um leque incrível que apaga as<n>chamas da Montanha de Fogo.
+### 5184 [key_item_mes:10:us] (x1)
+EN: Precision Circuit
+PT: Circ. de Precisão
+### 5185 [key_item_mes:11:us] (x1)
+EN: A circuit needed to fix the device<n>Goku's brother left behind.
+PT: Circuito para consertar o aparelho<n>que o irmão do Goku deixou.
+### 5186 [key_item_mes:12:us] (x1)
+EN: Snowfield Key
+PT: Chave da Neve
+### 5187 [key_item_mes:13:us] (x1)
+EN: Required to open the Snowfield gate.
+PT: Abre o portão do Campo de Neve.
+### 5188 [key_item_mes:14:us] (x1)
+EN: Frozen Hyacinth
+PT: Jacinto Congelado
+### 5189 [key_item_mes:15:us] (x1)
+EN: A flower found on Holly Plain. Used to<n>make fever medication.
+PT: Uma flor da Planície Holly. Usada<n>para fazer remédio para febre.
+### 5190 [key_item_mes:16:us] (x1)
+EN: Hermit Spring Water
+PT: Água da Fonte
+### 5191 [key_item_mes:17:us] (x1)
+EN: Special water taken from Hermit Spring.<n>Required to raise Senzu bean plants.
+PT: Água especial da Fonte do Eremita.<n>Faz crescer os pés de Semente.
+### 5192 [key_item_mes:18:us] (x1)
+EN: Submarine
+PT: Submarino
+### 5193 [key_item_mes:19:us] (x1)
+EN: Allows you access to certain areas<n>on the world map.
+PT: Dá acesso a certas áreas<n>do mapa-múndi.
+### 5194 [key_item_mes:20:us] (x2)
+EN: Furnace Flame
+PT: Chama da Fornalha
+### 5195 [key_item_mes:21:us] (x1)
+EN: Allows you to melt any blocks of ice<n>you run into on the map.
+PT: Derrete os blocos de gelo que<n>aparecem no mapa.
+### 5196 [key_item_mes:22:us] (x1)
+EN: One-Star Ball
+PT: Esfera 1 Estrela
+### 5197 [key_item_mes:23:us] (x1)
+EN: The Dragon Ball with one star.
+PT: A Esfera do Dragão de 1 estrela.
+### 5198 [key_item_mes:24:us] (x1)
+EN: Two-Star Ball
+PT: Esfera 2 Estrelas
+### 5199 [key_item_mes:25:us] (x1)
+EN: The Dragon Ball with two stars.
+PT: A Esfera do Dragão de 2 estrelas.
+### 5200 [key_item_mes:26:us] (x1)
+EN: Three-Star Ball
+PT: Esfera 3 Estrelas
+### 5201 [key_item_mes:27:us] (x1)
+EN: The Dragon Ball with three stars.
+PT: A Esfera do Dragão de 3 estrelas.
+### 5202 [key_item_mes:28:us] (x1)
+EN: Four-Star Ball
+PT: Esfera 4 Estrelas
+### 5203 [key_item_mes:29:us] (x1)
+EN: The Dragon Ball with four stars.
+PT: A Esfera do Dragão de 4 estrelas.
+### 5204 [key_item_mes:30:us] (x1)
+EN: Five-Star Ball
+PT: Esfera 5 Estrelas
+### 5205 [key_item_mes:31:us] (x1)
+EN: The Dragon Ball with five stars.
+PT: A Esfera do Dragão de 5 estrelas.
+### 5206 [key_item_mes:32:us] (x1)
+EN: Six-Star Ball
+PT: Esfera 6 Estrelas
+### 5207 [key_item_mes:33:us] (x1)
+EN: The Dragon Ball with six stars.
+PT: A Esfera do Dragão de 6 estrelas.
+### 5208 [key_item_mes:34:us] (x1)
+EN: Seven-Star Ball
+PT: Esfera 7 Estrelas
+### 5209 [key_item_mes:35:us] (x1)
+EN: The Dragon Ball with seven stars.
+PT: A Esfera do Dragão de 7 estrelas.
+### 5210 [key_item_mes:36:us] (x2)
+EN: Dragon Ball Shard
+PT: Caco de Esfera
+### 5211 [key_item_mes:37:us] (x2)
+EN: A piece of the broken two-star<n>Dragon Ball.
+PT: Um pedaço da Esfera de 2 estrelas<n>que se partiu.
+### 5212 [key_item_mes:40:us] (x1)
+EN: Battery
+PT: Bateria
+### 5213 [key_item_mes:41:us] (x1)
+EN: Something must run off this battery.
+PT: Alguma coisa deve funcionar com ela.
+### 5214 [key_item_mes:42:us] (x1)
+EN: Devil's Bracelet
+PT: Bracelete do Diabo
+### 5215 [key_item_mes:43:us] (x1)
+EN: A bracelet imbued with Piccolo's power.
+PT: Um bracelete com o poder do Piccolo.
+### 5216 [key_item_mes:44:us] (x1)
+EN: Bubbles' Thing
+PT: Coisa do Bubbles
+### 5217 [key_item_mes:45:us] (x1)
+EN: Water to revive Yemma trees. Very<n>nutritious. Don't ask how he makes it.
+PT: Água que revive árvores de Enma. Muito<n>nutritiva. Não pergunte como é feita.
+### 5218 [key_item_mes:46:us] (x1)
+EN: Spirit Crystal
+PT: Cristal Espiritual
+### 5219 [key_item_mes:47:us] (x1)
+EN: The spirit crystal from an Yemma tree,<n>obtained from Montgomery.
+PT: O cristal espiritual de uma árvore de<n>Enma, dado pelo Montgomery.
+### 5220 [key_item_mes:48:us] (x2)
+EN: Empty Capsule
+PT: Cápsula Vazia
+### 5221 [key_item_mes:49:us] (x2)
+EN: Increases the number of capsule<n>shortcuts available.
+PT: Aumenta o número de atalhos<n>de cápsula.
+### 5222 [key_item_mes:52:us] (x1)
+EN: Sewer Key
+PT: Chave do Esgoto
+### 5223 [key_item_mes:53:us] (x1)
+EN: A key for the sewer entrance inside<n>the Martial Arts Temple.
+PT: Chave da entrada do esgoto no<n>Templo das Artes Marciais.
+### 5224 [key_item_mes:54:us] (x1)
+EN: East City Pass
+PT: Passe Cid. do Leste
+### 5225 [key_item_mes:55:us] (x1)
+EN: Permission for the bearer to enter the<n>most damaged sections of East City.
+PT: Permite entrar nas partes mais<n>destruídas da Cidade do Leste.
+### 5226 [character_name:4:us] (x1)
+EN: Tien
+PT: Tsi
+### 5227 [character_name:10:us] (x1)
+EN: J. Sai
+PT: Robô de Patrulha
+### 5228 [character_name:11:us] (x1)
+EN: C. Sai
+PT: Robô do Deserto
+### 5229 [character_name:12:us] (x1)
+EN: K. Sai
+PT: Mutante Errante
+### 5230 [character_name:13:us] (x1)
+EN: T. Sai
+PT: Mutante Sombrio
+### 5231 [character_name:14:us] (x1)
+EN: Pirate Robot
+PT: Robô Corsário
+### 5232 [character_name:15:us] (x1)
+EN: Skull Robot
+PT: Robô Caveira
+### 5233 [character_name:16:us] (x1)
+EN: Captain Robot
+PT: Robô Capitão
+### 5234 [character_name:18:us] (x1)
+EN: Red Ribbon Spy
+PT: Agente Red Ribbon
+### 5235 [character_name:19:us] (x1)
+EN: Hired Rider
+PT: Motoqueiro
+### 5236 [character_name:20:us] (x1)
+EN: Red Ribbon Mech
+PT: Mecha Red Ribbon
+### 5237 [character_name:22:us] (x1)
+EN: RR Tundra Robot
+PT: Robô da Tundra RR
+### 5238 [character_name:23:us] (x1)
+EN: RR Deserter
+PT: Desertor da RR
+### 5239 [character_name:24:us] (x1)
+EN: Red Ribbon Survivor
+PT: Sobrevivente RR
+### 5240 [character_name:25:us] (x1)
+EN: Red Ribbon Medic
+PT: Médico Red Ribbon
+### 5241 [character_name:27:us] (x1)
+EN: RR High Soldier
+PT: Soldado de Elite RR
+### 5242 [character_name:28:us] (x1)
+EN: RR Northern Soldier
+PT: Soldado do Norte RR
+### 5243 [character_name:29:us] (x1)
+EN: RR Ex-Sergeant
+PT: Ex-Sargento RR
+### 5244 [character_name:30:us] (x1)
+EN: RR Ex-Staff Sergeant
+PT: Ex-1° Sargento RR
+### 5245 [character_name:32:us] (x1)
+EN: Female Bandit
+PT: Bandida
+### 5246 [character_name:33:us] (x1)
+EN: Snow Bandit Girl
+PT: Bandida da Neve
+### 5247 [character_name:34:us] (x1)
+EN: Bandit Queen
+PT: Rainha dos Bandidos
+### 5248 [character_name:35:us] (x1)
+EN: Bandit
+PT: Bandido
+### 5249 [character_name:36:us] (x1)
+EN: Snow Bandit
+PT: Bandido da Neve
+### 5250 [character_name:37:us] (x1)
+EN: Bandit King
+PT: Rei dos Bandidos
+### 5251 [character_name:38:us] (x1)
+EN: Thief Fox
+PT: Raposa Ladra
+### 5252 [character_name:39:us] (x1)
+EN: Veteran Fox
+PT: Raposa Veterana
+### 5253 [character_name:40:us] (x1)
+EN: Racketeer Fox
+PT: Raposa Chantagista
+### 5254 [character_name:41:us] (x1)
+EN: Sniper
+PT: Atirador
+### 5255 [character_name:42:us] (x1)
+EN: Refugee
+PT: Refugiado
+### 5256 [character_name:43:us] (x1)
+EN: Elite Assassin
+PT: Assassino de Elite
+### 5257 [character_name:44:us] (x1)
+EN: Fugitive
+PT: Fugitivo
+### 5258 [character_name:47:us] (x1)
+EN: Piratess
+PT: Corsária
+### 5259 [character_name:48:us] (x1)
+EN: Female Desert Bandit
+PT: Bandida do Deserto
+### 5260 [character_name:50:us] (x1)
+EN: Pirate
+PT: Pirata
+### 5261 [character_name:51:us] (x1)
+EN: Desert Bandit
+PT: Bandido do Deserto
+### 5262 [character_name:53:us] (x1)
+EN: Rabbit Private 1
+PT: Soldado Coelho 1
+### 5263 [character_name:54:us] (x1)
+EN: Rabbit Elite Guard 1
+PT: Guarda Coelho 1
+### 5264 [character_name:55:us] (x1)
+EN: Rabbit Survivor 1
+PT: Coelho Sobrev. 1
+### 5265 [character_name:56:us] (x1)
+EN: Rabbit Private 2
+PT: Soldado Coelho 2
+### 5266 [character_name:57:us] (x1)
+EN: Rabbit Elite Guard 2
+PT: Guarda Coelho 2
+### 5267 [character_name:58:us] (x1)
+EN: Rabbit Survivor 2
+PT: Coelho Sobrev. 2
+### 5268 [character_name:60:us] (x1)
+EN: Female Pupil
+PT: Aluna
+### 5269 [character_name:62:us] (x1)
+EN: Betrayer
+PT: Traidor
+### 5270 [character_name:63:us] (x1)
+EN: Expelled Pupil
+PT: Aluno Expulso
+### 5271 [character_name:64:us] (x1)
+EN: Pupil
+PT: Aluno
+### 5272 [character_name:65:us] (x1)
+EN: Would-be Fighter
+PT: Aspirante a Lutador
+### 5273 [character_name:66:us] (x1)
+EN: Rowdy Fighter
+PT: Lutador Arruaceiro
+### 5274 [character_name:67:us] (x1)
+EN: Instructor
+PT: Instrutor
+### 5275 [character_name:68:us] (x1)
+EN: Princess' Servant
+PT: Serva Real
+### 5276 [character_name:69:us] (x1)
+EN: Princess' Guard
+PT: Guarda da Princesa
+### 5277 [character_name:70:us] (x1)
+EN: Weird Girl
+PT: Garota Estranha
+### 5278 [character_name:71:us] (x1)
+EN: Raider
+PT: Saqueador
+### 5279 [character_name:72:us] (x1)
+EN: Thug
+PT: Capanga Brutal
+### 5280 [character_name:73:us] (x1)
+EN: Grave Robber
+PT: Ladrão de Túmulos
+### 5281 [character_name:77:us] (x1)
+EN: Meadow Wizard
+PT: Mago da Campina
+### 5282 [character_name:78:us] (x1)
+EN: Spring Guard
+PT: Guarda da Fonte
+### 5283 [character_name:79:us] (x1)
+EN: Red Shaman
+PT: Xamã Vermelho
+### 5284 [character_name:80:us] (x1)
+EN: Distrustful Man
+PT: Homem Desconfiado
+### 5285 [character_name:81:us] (x1)
+EN: Violent Tribesman
+PT: Tribal Violento
+### 5286 [character_name:82:us] (x1)
+EN: Ruin Guard
+PT: Guarda das Ruínas
+### 5287 [character_name:83:us] (x1)
+EN: Winged Dragon
+PT: Mecha Patrulheiro
+### 5288 [character_name:84:us] (x1)
+EN: Violent Dragon
+PT: Mecha de Combate
+### 5289 [character_name:85:us] (x1)
+EN: Snow Dragon
+PT: Guardião Errante
+### 5290 [character_name:86:us] (x1)
+EN: Dinosaur
+PT: Dinossauro
+### 5291 [character_name:87:us] (x1)
+EN: Ice Dinosaur
+PT: Dinossauro de Gelo
+### 5292 [character_name:88:us] (x1)
+EN: Fire Dinosaur
+PT: Dinossauro de Fogo
+### 5293 [character_name:89:us] (x1)
+EN: Giant Snake
+PT: Lutador Errante
+### 5294 [character_name:90:us] (x1)
+EN: Mansion Snake
+PT: Guarda da Mansão
+### 5295 [character_name:91:us] (x1)
+EN: Poisonous Snake
+PT: Corsária Venenosa
+### 5296 [character_name:92:us] (x1)
+EN: Lantern Ghost
+PT: Fantasma Lanterna
+### 5297 [character_name:93:us] (x1)
+EN: Ship Ghost
+PT: Fantasma do Navio
+### 5298 [character_name:94:us] (x1)
+EN: Patrol Ghost
+PT: Fantasma Patrulheiro
+### 5299 [character_name:95:us] (x1)
+EN: Ghost Pot
+PT: Pote Fantasma
+### 5300 [character_name:96:us] (x1)
+EN: Head Ghoul
+PT: Carniçal Chefe
+### 5301 [character_name:97:us] (x1)
+EN: Death Sentence
+PT: Sentença de Morte
+### 5302 [character_name:98:us] (x1)
+EN: Demon Denizen
+PT: Habitante Demoníaco
+### 5303 [character_name:99:us] (x1)
+EN: Demon Noble
+PT: Nobre Demoníaco
+### 5304 [character_name:100:us] (x1)
+EN: Demon Mystic
+PT: Místico Demoníaco
+### 5305 [character_name:102:us] (x1)
+EN: Gogyo Majin
+PT: Majin Gogyo
+### 5306 [character_name:103:us] (x1)
+EN: Ensei Majin
+PT: Majin Ensei
+### 5307 [character_name:104:us] (x1)
+EN: Ostrich Chicken
+PT: Batedor do Ermo
+### 5308 [character_name:105:us] (x1)
+EN: Sand Dodo
+PT: Batedora do Deserto
+### 5309 [character_name:106:us] (x1)
+EN: Dododo
+PT: Mercenário de Elite
+### 5310 [character_name:107:us] (x1)
+EN: Firebird
+PT: Piloto Renegado
+### 5311 [character_name:108:us] (x1)
+EN: Blue Hawk
+PT: Piloto Mercenário
+### 5312 [character_name:109:us] (x1)
+EN: Dark Condor
+PT: Piloto Veterano
+### 5313 [character_name:110:us] (x1)
+EN: Tiger
+PT: Arruaceiro do Bambu
+### 5314 [character_name:111:us] (x1)
+EN: Snow Tiger
+PT: Mercenário da Neve
+### 5315 [character_name:112:us] (x1)
+EN: Dimensional Tiger
+PT: Guardião da Floresta
+### 5316 [character_name:113:us] (x1)
+EN: Wolf
+PT: Atirador da Montanha
+### 5317 [character_name:114:us] (x1)
+EN: White Wolf
+PT: Guerreira Errante
+### 5318 [character_name:115:us] (x1)
+EN: Red Wolf
+PT: Atirador Veterano
+### 5319 [character_name:116:us] (x1)
+EN: Stray Dog
+PT: Desertor Red Ribbon
+### 5320 [character_name:117:us] (x1)
+EN: Red Ribbon Spy Dog
+PT: Espião Red Ribbon
+### 5321 [character_name:118:us] (x1)
+EN: Super Watchdog
+PT: Sentinela Pirata
+### 5322 [character_name:119:us] (x1)
+EN: Wild Boar
+PT: Brutamontes do Ermo
+### 5323 [character_name:120:us] (x1)
+EN: Champion Boar
+PT: Lutador Veterano
+### 5324 [character_name:121:us] (x1)
+EN: Snow Boar
+PT: Brutamontes Glacial
+### 5325 [character_name:122:us] (x1)
+EN: Hungry Bear
+PT: Saqueador do Ermo
+### 5326 [character_name:123:us] (x1)
+EN: Snow Bear
+PT: Bandida Glacial
+### 5327 [character_name:124:us] (x1)
+EN: Strong Bear
+PT: Mestre Errante
+### 5328 [character_name:125:us] (x1)
+EN: Dangerous Panda
+PT: Discípulo Expulso
+### 5329 [character_name:126:us] (x1)
+EN: Snow Panda
+PT: Guardião Peregrino
+### 5330 [character_name:127:us] (x1)
+EN: Ultimate Pandaman
+PT: Corsária Veterana
+### 5331 [character_name:128:us] (x1)
+EN: Giant Fish
+PT: Robô Patrulheiro
+### 5332 [character_name:129:us] (x1)
+EN: Wild Fish
+PT: Robô da Caverna
+### 5333 [character_name:130:us] (x1)
+EN: Sand Fish
+PT: Robô das Areias
+### 5334 [character_name:131:us] (x1)
+EN: Wolfman
+PT: Homem-Lobo
+### 5335 [character_name:132:us] (x1)
+EN: Werewolf
+PT: Lobisomem
+### 5336 [character_name:133:us] (x1)
+EN: Golden Wolf
+PT: Lobo Dourado
+### 5337 [character_name:134:us] (x1)
+EN: Bloodsucker
+PT: Chupa-Sangue
+### 5338 [character_name:135:us] (x1)
+EN: Vampire
+PT: Drácula
+### 5339 [character_name:136:us] (x1)
+EN: Red Vampire
+PT: Drácula Rubro
+### 5340 [character_name:137:us] (x1)
+EN: Mummy Man
+PT: Homem-Múmia
+### 5341 [character_name:138:us] (x1)
+EN: Mummy
+PT: Múmia
+### 5342 [character_name:139:us] (x1)
+EN: Burning Mummy
+PT: Múmia Flamejante
+### 5343 [character_name:140:us] (x1)
+EN: Giant Bat
+PT: Vampiro Errante
+### 5344 [character_name:141:us] (x1)
+EN: Vampire Bat
+PT: Vampiro Sanguinário
+### 5345 [character_name:142:us] (x1)
+EN: King Bat
+PT: Vampiro Ancião
+### 5346 [character_name:143:us] (x1)
+EN: Big Club
+PT: Capanga da Caverna
+### 5347 [character_name:144:us] (x1)
+EN: Giant Crab
+PT: Capanga da Fonte
+### 5348 [character_name:145:us] (x1)
+EN: Dark Crab
+PT: Capanga Sombrio
+### 5349 [character_name:146:us] (x1)
+EN: Fishman
+PT: Homem-Peixe
+### 5350 [character_name:147:us] (x1)
+EN: Man-Fish
+PT: Peixe-Homem
+### 5351 [character_name:148:us] (x1)
+EN: Magman
+PT: Homem-Magma
+### 5352 [character_name:149:us] (x1)
+EN: Experiment #3
+PT: Experimento N°3
+### 5353 [character_name:150:us] (x1)
+EN: Experiment #7
+PT: Experimento N°7
+### 5354 [character_name:151:us] (x1)
+EN: Experiment #9
+PT: Experimento N°9
+### 5355 [character_name:152:us] (x1)
+EN: Sandman
+PT: Homem-Areia
+### 5356 [character_name:154:us] (x1)
+EN: Failed Experiment
+PT: Experimento Falho
+### 5357 [character_name:155:us] (x1)
+EN: Forest Guard
+PT: Guarda da Floresta
+### 5358 [character_name:156:us] (x1)
+EN: Ancient Descendant
+PT: Descendente Antigo
+### 5359 [character_name:157:us] (x1)
+EN: Mad Scientist
+PT: Cientista Louco
+### 5360 [character_name:158:us] (x1)
+EN: Tumble Bug
+PT: Recruta Renegado
+### 5361 [character_name:159:us] (x1)
+EN: Fire Caterpillar
+PT: Soldado Incendiário
+### 5362 [character_name:160:us] (x1)
+EN: Caterpillar
+PT: Aprendiz da Floresta
+### 5363 [character_name:161:us] (x1)
+EN: Dark Giras
+PT: Giras Sombrio
+### 5364 [character_name:164:us] (x1)
+EN: Roundworm
+PT: Batedor Escavador
+### 5365 [character_name:165:us] (x1)
+EN: Dark Firefly
+PT: Lutador Noturno
+### 5366 [character_name:166:us] (x1)
+EN: Poison Sandbug
+PT: Batedor Venenoso
+### 5367 [character_name:170:us] (x1)
+EN: Roundworm Larva
+PT: Recruta Escavador
+### 5368 [character_name:171:us] (x1)
+EN: Firefly Larva
+PT: Aprendiz Noturno
+### 5369 [character_name:172:us] (x1)
+EN: Sandbug Larva
+PT: Batedora Venenosa
+### 5370 [character_name:176:us] (x1)
+EN: Helper Robot
+PT: Robô Ajudante
+### 5371 [character_name:177:us] (x1)
+EN: Someone's Robot
+PT: Robô de Alguém
+### 5372 [character_name:178:us] (x1)
+EN: Spy Robot
+PT: Robô Espião
+### 5373 [character_name:185:us] (x1)
+EN: Evil Flame
+PT: Chama Maligna
+### 5374 [character_name:190:us] (x1)
+EN: Shu Machine
+PT: Máquina do Shu
+### 5375 [character_name:191:us] (x1)
+EN: Mai Machine
+PT: Máquina da Mai
+### 5376 [character_name:193:us] (x1)
+EN: Demon Flame
+PT: Chama Demoníaca
+### 5377 [character_name:196:us] (x1)
+EN: Rival Dinosaur
+PT: Dinossauro Rival
+### 5378 [character_name:198:us] (x1)
+EN: Spring Majin
+PT: Majin da Fonte
+### 5379 [character_name:199:us] (x1)
+EN: Spring Guardian
+PT: Guardião da Fonte
+### 5380 [character_name:204:us] (x2)
+EN: Raditz's Soul
+PT: Alma do Raditz
+### 5381 [character_name:205:us] (x1)
+EN: Sand Eagle
+PT: Águia da Areia
+### 5382 [character_name:209:us] (x1)
+EN: RR Power Robot
+PT: Robô de Força RR
+### 5383 [character_name:210:us] (x1)
+EN: Ladies
+PT: Damas
+### 5384 [character_name:211:us] (x1)
+EN: Gentlemen
+PT: Cavalheiros
+### 5385 [character_name:212:us] (x1)
+EN: Bronze Pinball
+PT: Pinball de Bronze
+### 5386 [character_name:213:us] (x1)
+EN: Silver Pinball
+PT: Pinball de Prata
+### 5387 [character_name:214:us] (x1)
+EN: Gold Pinball
+PT: Pinball de Ouro
+### 5388 [character_name:215:us] (x1)
+EN: Pilaf Fusion Mech
+PT: Robô Fusão do Pilaf
+### 5389 [character_name:216:us] (x1)
+EN: Excavated Robot v2
+PT: Robô Escavado v2
+### 5390 [character_name:222:us] (x1)
+EN: Giant Ape Vegeta
+PT: Vegeta Oozaru
+### 5391 [character_name:225:us] (x1)
+EN: Pilaf Machine
+PT: Máquina do Pilaf

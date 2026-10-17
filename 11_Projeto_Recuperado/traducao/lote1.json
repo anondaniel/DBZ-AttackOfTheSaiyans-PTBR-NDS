@@ -1,0 +1,2332 @@
+{
+ "0": {
+  "original": "King Yemma's Mansion",
+  "ids": [
+   "sb:cf/world_01.sb:7"
+  ]
+ },
+ "1": {
+  "original": "Snake Way",
+  "ids": [
+   "sb:cf/world_01.sb:9"
+  ]
+ },
+ "2": {
+  "original": "Princess' Mansion",
+  "ids": [
+   "sb:cf/world_01.sb:13"
+  ]
+ },
+ "3": {
+  "original": "King Kai's Planet",
+  "ids": [
+   "sb:cf/world_01.sb:15"
+  ]
+ },
+ "4": {
+  "original": "Kame House",
+  "ids": [
+   "sb:cf/worldmap.sb:8"
+  ]
+ },
+ "5": {
+  "original": "Training Island",
+  "ids": [
+   "sb:cf/worldmap.sb:11"
+  ]
+ },
+ "6": {
+  "original": "Baba's Palace",
+  "ids": [
+   "sb:cf/worldmap.sb:14"
+  ]
+ },
+ "7": {
+  "original": "East City",
+  "ids": [
+   "sb:cf/worldmap.sb:17"
+  ]
+ },
+ "8": {
+  "original": "Bump Forest",
+  "ids": [
+   "sb:cf/worldmap.sb:21"
+  ]
+ },
+ "9": {
+  "original": "West City",
+  "ids": [
+   "sb:cf/worldmap.sb:23"
+  ]
+ },
+ "10": {
+  "original": "Martial Arts Temple",
+  "ids": [
+   "sb:cf/worldmap.sb:25"
+  ]
+ },
+ "11": {
+  "original": "Spinach Wastes",
+  "ids": [
+   "sb:cf/worldmap.sb:28"
+  ]
+ },
+ "12": {
+  "original": "Break Wasteland",
+  "ids": [
+   "sb:cf/worldmap.sb:31"
+  ]
+ },
+ "13": {
+  "original": "East Mt. Paozu",
+  "ids": [
+   "sb:cf/worldmap.sb:33"
+  ]
+ },
+ "14": {
+  "original": "Sacred Land of Korin",
+  "ids": [
+   "sb:cf/worldmap.sb:36"
+  ]
+ },
+ "15": {
+  "original": "Divine Crossing",
+  "ids": [
+   "sb:cf/worldmap.sb:39"
+  ]
+ },
+ "16": {
+  "original": "Mt. Paozu",
+  "ids": [
+   "sb:cf/worldmap.sb:41"
+  ]
+ },
+ "17": {
+  "original": "Mt. Frappe",
+  "ids": [
+   "sb:cf/worldmap.sb:43"
+  ]
+ },
+ "18": {
+  "original": "Desert",
+  "ids": [
+   "sb:cf/worldmap.sb:46"
+  ]
+ },
+ "19": {
+  "original": "Devil's Toilet",
+  "ids": [
+   "sb:cf/worldmap.sb:49"
+  ]
+ },
+ "20": {
+  "original": "Yunzabit Heights",
+  "ids": [
+   "sb:cf/worldmap.sb:52"
+  ]
+ },
+ "21": {
+  "original": "Muscle Tower",
+  "ids": [
+   "sb:cf/worldmap.sb:54"
+  ]
+ },
+ "22": {
+  "original": "???",
+  "ids": [
+   "sb:cf/worldmap.sb:57",
+   "sb:cf1/c00/c0002_01.sb:26"
+  ]
+ },
+ "23": {
+  "original": "Pirate Cave",
+  "ids": [
+   "sb:cf/worldmap.sb:59"
+  ]
+ },
+ "24": {
+  "original": "Jingle Village",
+  "ids": [
+   "sb:cf/worldmap.sb:60"
+  ]
+ },
+ "25": {
+  "original": "Mutaito's Grounds",
+  "ids": [
+   "sb:cf/worldmap.sb:63"
+  ]
+ },
+ "26": {
+  "original": "Holly Plain",
+  "ids": [
+   "sb:cf/worldmap.sb:65"
+  ]
+ },
+ "27": {
+  "original": "Hermit Spring",
+  "ids": [
+   "sb:cf/worldmap.sb:67"
+  ]
+ },
+ "28": {
+  "original": "Ox-King's Castle",
+  "ids": [
+   "sb:cf/worldmap.sb:69"
+  ]
+ },
+ "29": {
+  "original": "Mount Five Element",
+  "ids": [
+   "sb:cf/worldmap.sb:72"
+  ]
+ },
+ "30": {
+  "original": "Kiwi Volcano",
+  "ids": [
+   "sb:cf/worldmap.sb:75"
+  ]
+ },
+ "31": {
+  "original": "Paprika Wasteland",
+  "ids": [
+   "sb:cf/worldmap.sb:77"
+  ]
+ },
+ "32": {
+  "original": "Gizard Wasteland",
+  "ids": [
+   "sb:cf/worldmap.sb:79"
+  ]
+ },
+ "33": {
+  "original": "Pilaf's Castle",
+  "ids": [
+   "sb:cf/worldmap.sb:81"
+  ]
+ },
+ "34": {
+  "original": "Master Roshi",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:9",
+   "sb:cf0/kam/kam02_00.sb:9",
+   "sb:cf0/kam/kam03_00.sb:9",
+   "sb:cf0/tut/tut02_00.sb:12",
+   "sb:cf1/c00/c0002_00.sb:9",
+   "sb:cf1/c00/c0003_00.sb:9",
+   "sb:cf1/c00/c0004_00.sb:9"
+  ]
+ },
+ "35": {
+  "original": "<p>Come on, now. You need to get moving before nightfall. It's the island just south of here.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:10",
+   "sb:cf0/kam/kam02_00.sb:10",
+   "sb:cf0/kam/kam03_00.sb:10",
+   "sb:cf0/tut/tut02_00.sb:13"
+  ]
+ },
+ "36": {
+  "original": "<p>You can use that crystal ball to find people around the world who need your help.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:11",
+   "sb:cf0/kam/kam02_00.sb:11",
+   "sb:cf0/kam/kam03_00.sb:11",
+   "sb:cf0/tut/tut02_00.sb:14"
+  ]
+ },
+ "37": {
+  "original": "<p>Do what you can to help solve their problems!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:12",
+   "sb:cf0/kam/kam02_00.sb:12",
+   "sb:cf0/kam/kam03_00.sb:12",
+   "sb:cf0/tut/tut02_00.sb:15"
+  ]
+ },
+ "38": {
+  "original": "<p>That's the final training mission I have for you.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:13",
+   "sb:cf0/kam/kam02_00.sb:13",
+   "sb:cf0/kam/kam03_00.sb:13",
+   "sb:cf0/tut/tut02_00.sb:16"
+  ]
+ },
+ "39": {
+  "original": "Turtle",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:15",
+   "sb:cf0/kam/kam02_00.sb:15",
+   "sb:cf0/kam/kam03_00.sb:15",
+   "sb:cf0/tut/tut02_00.sb:18"
+  ]
+ },
+ "40": {
+  "original": "<p>Are you going to the southern island?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:16",
+   "sb:cf0/kam/kam02_00.sb:16",
+   "sb:cf0/kam/kam03_00.sb:16",
+   "sb:cf0/tut/tut02_00.sb:19"
+  ]
+ },
+ "41": {
+  "original": "<p>I seem to remember Master Roshi visiting that island once, long ago...<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:17",
+   "sb:cf0/kam/kam02_00.sb:17",
+   "sb:cf0/kam/kam03_00.sb:17",
+   "sb:cf0/tut/tut02_00.sb:20"
+  ]
+ },
+ "42": {
+  "original": "<p>He said something about not wanting to leave it here, or he'd lose it like the Bansho Fan...<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:18",
+   "sb:cf0/kam/kam02_00.sb:18",
+   "sb:cf0/kam/kam03_00.sb:18",
+   "sb:cf0/tut/tut02_00.sb:21"
+  ]
+ },
+ "43": {
+  "original": "<p>I suppose the crystal ball must have been something very important to him.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:19",
+   "sb:cf0/kam/kam02_00.sb:19",
+   "sb:cf0/kam/kam03_00.sb:19",
+   "sb:cf0/tut/tut02_00.sb:22"
+  ]
+ },
+ "44": {
+  "original": "<p>Certainly is lovely outside, isn't it?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:20",
+   "sb:cf0/kam/kam02_00.sb:20",
+   "sb:cf0/kam/kam03_00.sb:20",
+   "sb:cf0/tut/tut02_00.sb:23"
+  ]
+ },
+ "45": {
+  "original": "Launch",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:22",
+   "sb:cf0/kam/kam02_00.sb:22",
+   "sb:cf0/kam/kam03_00.sb:22",
+   "sb:cf0/tut/tut02_00.sb:25",
+   "sb:cf1/c00/c0001_00.sb:9"
+  ]
+ },
+ "46": {
+  "original": "<p>Move it, you bum! Master Roshi wants to see you, now!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:23",
+   "sb:cf0/kam/kam02_00.sb:23",
+   "sb:cf0/kam/kam03_00.sb:23",
+   "sb:cf0/tut/tut02_00.sb:26"
+  ]
+ },
+ "47": {
+  "original": "Tien",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:26",
+   "sb:cf0/kam/kam02_00.sb:26",
+   "sb:cf1/c00/c0001_00.sb:11",
+   "sb:cf1/c00/c0002_00.sb:16",
+   "sb:cf1/c00/c0002_01.sb:32",
+   "sb:cf1/c00/c0002_02.sb:18",
+   "sb:cf1/c00/c0003_00.sb:18"
+  ]
+ },
+ "48": {
+  "original": "<p>I'm being called... I need to get going.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:27",
+   "sb:cf0/kam/kam02_00.sb:27"
+  ]
+ },
+ "49": {
+  "original": "Fortuneteller Baba",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:30",
+   "sb:cf0/kam/kam02_00.sb:30",
+   "sb:cf0/kam/kam03_00.sb:25"
+  ]
+ },
+ "50": {
+  "original": "<p>Try going to Mt. Five Element. It's behind Fire Mountain.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:31",
+   "sb:cf0/kam/kam02_00.sb:31",
+   "sb:cf0/kam/kam03_00.sb:26"
+  ]
+ },
+ "51": {
+  "original": "Annin",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:34",
+   "sb:cf0/kam/kam02_00.sb:34",
+   "sb:cf0/kam/kam03_00.sb:29"
+  ]
+ },
+ "52": {
+  "original": "<p>The furnace is in tip-top shape. How wonderful to see that!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:35",
+   "sb:cf0/kam/kam02_00.sb:35",
+   "sb:cf0/kam/kam03_00.sb:30"
+  ]
+ },
+ "53": {
+  "original": "<p>You need the Bansho Fan, some honey, and the shell of a fire-eater bird's egg to fix the furnace.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:36",
+   "sb:cf0/kam/kam02_00.sb:36",
+   "sb:cf0/kam/kam03_00.sb:31"
+  ]
+ },
+ "54": {
+  "original": "Goku",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:38",
+   "sb:cf0/kam/kam02_00.sb:38",
+   "sb:cf0/kam/kam03_00.sb:33",
+   "sb:cf0/tut/tut02_00.sb:37",
+   "sb:cf1/c00/c0000_99.sb:17"
+  ]
+ },
+ "55": {
+  "original": "<p>Gah! It's too hot to get any closer! We gotta put out the flames first!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:39",
+   "sb:cf0/kam/kam02_00.sb:39",
+   "sb:cf0/kam/kam03_00.sb:34"
+  ]
+ },
+ "56": {
+  "original": "<p>Huh? You've got the honey and the eggshell? Well, off to Mt. Five Element with you, then.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:40",
+   "sb:cf0/kam/kam02_00.sb:40",
+   "sb:cf0/kam/kam03_00.sb:35"
+  ]
+ },
+ "57": {
+  "original": "<p>Hakkake's got the honey. She's on Mt. Frappe, in the mountains to the north.<k><p>Kiwi Volcano is on an island to the south, though. That's where the fire-eater birds live.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:41",
+   "sb:cf0/kam/kam02_00.sb:41",
+   "sb:cf0/kam/kam03_00.sb:36"
+  ]
+ },
+ "58": {
+  "original": "<p>Hmm? The Bansho Fan? I told you, it's not here. I told you.<k><p>By the way, I can't believe you're a husband, though... It's certainly a strange world we live in.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:42",
+   "sb:cf0/kam/kam02_00.sb:42",
+   "sb:cf0/kam/kam03_00.sb:37"
+  ]
+ },
+ "59": {
+  "original": "<p>Goku! Congratulations on getting married!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:43",
+   "sb:cf0/kam/kam02_00.sb:43",
+   "sb:cf0/kam/kam03_00.sb:38"
+  ]
+ },
+ "60": {
+  "original": "<p>I still find it hard to believe that you actually got married, Goku.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:44",
+   "sb:cf0/kam/kam02_00.sb:44",
+   "sb:cf0/kam/kam03_00.sb:39"
+  ]
+ },
+ "61": {
+  "original": "<p>I heard you got married, Goku! Congratulations!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:45",
+   "sb:cf0/kam/kam02_00.sb:45",
+   "sb:cf0/kam/kam03_00.sb:40"
+  ]
+ },
+ "62": {
+  "original": "<p>Chi-Chi is certainly pretty, isn't she? I better start working on my looks, too!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:46",
+   "sb:cf0/kam/kam02_00.sb:46",
+   "sb:cf0/kam/kam03_00.sb:41"
+  ]
+ },
+ "63": {
+  "original": "<p>Dang, you actually married that girl? What are you, nuts?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:47",
+   "sb:cf0/kam/kam02_00.sb:47",
+   "sb:cf0/kam/kam03_00.sb:42"
+  ]
+ },
+ "64": {
+  "original": "<p>One of these days, me and Tien are gonna...<k><p>Huh? Oh, no, I didn't say anything!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:48",
+   "sb:cf0/kam/kam02_00.sb:48",
+   "sb:cf0/kam/kam03_00.sb:43"
+  ]
+ },
+ "65": {
+  "original": "Hakkake",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:50",
+   "sb:cf0/kam/kam02_00.sb:50",
+   "sb:cf0/kam/kam03_00.sb:45"
+  ]
+ },
+ "66": {
+  "original": "<p>That group of three went up the mountain.<k><p>You gotta go get my honey back!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:51",
+   "sb:cf0/kam/kam02_00.sb:51",
+   "sb:cf0/kam/kam03_00.sb:46"
+  ]
+ },
+ "67": {
+  "original": "<p>We've got the honey and the fire-eater bird's eggshell now.<k><p>We better hurry back to Annin with this stuff!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:52",
+   "sb:cf0/kam/kam02_00.sb:52",
+   "sb:cf0/kam/kam03_00.sb:47"
+  ]
+ },
+ "68": {
+  "original": "<p>If you've got the honey and the eggshell, then go see Annin next! Hurry!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:55",
+   "sb:cf0/kam/kam02_00.sb:55",
+   "sb:cf0/kam/kam03_00.sb:50"
+  ]
+ },
+ "69": {
+  "original": "<p>Be careful, Goku! Don't do anything dangerous!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:56",
+   "sb:cf0/kam/kam02_00.sb:56",
+   "sb:cf0/kam/kam03_00.sb:51"
+  ]
+ },
+ "70": {
+  "original": "<p>Goku always gets himself into these dangerous situations.<k><p>Try to keep him from getting in too much trouble, okay?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:57",
+   "sb:cf0/kam/kam02_00.sb:57",
+   "sb:cf0/kam/kam03_00.sb:52"
+  ]
+ },
+ "71": {
+  "original": "<p>So we need to tell Chi-Chi that Goku is dead...? That makes my heart feel heavy indeed...<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:58",
+   "sb:cf0/kam/kam02_00.sb:58"
+  ]
+ },
+ "72": {
+  "original": "Bulma",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:60",
+   "sb:cf0/kam/kam02_00.sb:60",
+   "sb:cf0/tut/tut02_00.sb:34",
+   "sb:cf1/c00/c0000_99.sb:14"
+  ]
+ },
+ "73": {
+  "original": "<p>It's the Precision Circuit, okay? I got it at my place inside West City.<k><p>Don't forget!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:61",
+   "sb:cf0/kam/kam02_00.sb:61"
+  ]
+ },
+ "74": {
+  "original": "<p>P-please... no matter what you do, please be careful.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:62",
+   "sb:cf0/kam/kam02_00.sb:62"
+  ]
+ },
+ "75": {
+  "original": "Dr. Briefs",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:63",
+   "sb:cf0/kam/kam02_00.sb:63"
+  ]
+ },
+ "76": {
+  "original": "<p>Hmm? Bulma asked you to fetch something for her? Try searching that workstation over there.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:64",
+   "sb:cf0/kam/kam02_00.sb:64"
+  ]
+ },
+ "77": {
+  "original": "Krillin",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:66",
+   "sb:cf0/kam/kam02_00.sb:66",
+   "sb:cf0/tut/tut01_00.sb:13",
+   "sb:cf1/c00/c0001_00.sb:15",
+   "sb:cf1/c00/c0002_00.sb:12",
+   "sb:cf1/c00/c0002_01.sb:24",
+   "sb:cf1/c00/c0002_02.sb:12",
+   "sb:cf1/c00/c0003_00.sb:12",
+   "sb:cf1/c00/c0004_00.sb:12",
+   "sb:cf1/c01/c0101_00.sb:9",
+   "sb:cf1/c01/c0102_00.sb:9",
+   "sb:cf1/c01/c0102_01.sb:10",
+   "sb:cf1/c01/c0103_00.sb:9",
+   "sb:cf1/c01/c0103_01.sb:9"
+  ]
+ },
+ "78": {
+  "original": "<p>This must be the Precision Circuit<n>Bulma was talking about.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:67",
+   "sb:cf0/kam/kam02_00.sb:67"
+  ]
+ },
+ "79": {
+  "original": "<p>Well, I got what Bulma asked for...<k><p>Next up is Goku's house, I guess.<k><p>It's gonna be tough, but I need to break the news to Chi-Chi and the Ox-King.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:68",
+   "sb:cf0/kam/kam02_00.sb:68"
+  ]
+ },
+ "80": {
+  "original": "<p>Right! Back to Kame House, then.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:69",
+   "sb:cf0/kam/kam02_00.sb:69"
+  ]
+ },
+ "81": {
+  "original": "<p>Nah... I've got nothing left to do there.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:70",
+   "sb:cf0/kam/kam02_00.sb:70"
+  ]
+ },
+ "82": {
+  "original": "<p>Oooh! Looks like you've tracked down Tien!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:71",
+   "sb:cf0/kam/kam02_00.sb:71"
+  ]
+ },
+ "83": {
+  "original": "<p>Tien should be over in Jingle Village.<k><p>He sure picked a frigid spot for his training.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:72",
+   "sb:cf0/kam/kam02_00.sb:72"
+  ]
+ },
+ "84": {
+  "original": "<p>Yamcha's back in his hideout near Mt. Paozu.<k><p>Probably just goofing off over there, too. Goku's gonna leave him in the dust!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:73",
+   "sb:cf0/kam/kam02_00.sb:73"
+  ]
+ },
+ "85": {
+  "original": "<p>We'd better get everyone together first. Krillin, I'm counting on you!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:76",
+   "sb:cf0/kam/kam02_00.sb:76"
+  ]
+ },
+ "86": {
+  "original": "<p>Hurry! You need to get Gohan back from Piccolo!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:77",
+   "sb:cf0/kam/kam02_00.sb:77"
+  ]
+ },
+ "87": {
+  "original": "<p>Once we have everyone back together, I'm sure we'll find the Dragon Balls in no time!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:78",
+   "sb:cf0/kam/kam02_00.sb:78"
+  ]
+ },
+ "88": {
+  "original": "<p>Say, Gohan, how old are you?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:79",
+   "sb:cf0/kam/kam02_00.sb:79"
+  ]
+ },
+ "89": {
+  "original": "Gohan",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:81",
+   "sb:cf0/kam/kam02_00.sb:81"
+  ]
+ },
+ "90": {
+  "original": "<p>Four years old, ma'am.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:82",
+   "sb:cf0/kam/kam02_00.sb:82"
+  ]
+ },
+ "91": {
+  "original": "<p>Wow! You're pretty polite for being Goku's kid.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:83",
+   "sb:cf0/kam/kam02_00.sb:83"
+  ]
+ },
+ "92": {
+  "original": "<p>I wish Chi-Chi would get off his back about it.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:84",
+   "sb:cf0/kam/kam02_00.sb:84"
+  ]
+ },
+ "93": {
+  "original": "<p>Hey... the kid's got a tail.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:85",
+   "sb:cf0/kam/kam02_00.sb:85"
+  ]
+ },
+ "94": {
+  "original": "<p>Yep! Just like I used to have, huh?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:86",
+   "sb:cf0/kam/kam02_00.sb:86"
+  ]
+ },
+ "95": {
+  "original": "<p>Is he as strong as you are, Goku?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:87",
+   "sb:cf0/kam/kam02_00.sb:87"
+  ]
+ },
+ "96": {
+  "original": "<p>Well, I think he's got the same kinda brute strength...<k><p>But whenever I try to train him, Chi-Chi gets all hot under the collar.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:88",
+   "sb:cf0/kam/kam02_00.sb:88"
+  ]
+ },
+ "97": {
+  "original": "<p>Why is that? It'd be a waste if you didn't.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:89",
+   "sb:cf0/kam/kam02_00.sb:89"
+  ]
+ },
+ "98": {
+  "original": "<p>Yeah, I know!<k><p>She thinks we don't need martial arts anymore now that the world's all peaceful!<k><p>She keeps going on about how we all need to study from now on...<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:90",
+   "sb:cf0/kam/kam02_00.sb:90"
+  ]
+ },
+ "99": {
+  "original": "<p>Mmm? Is that a Dragon Ball the kid has on his hat?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:91",
+   "sb:cf0/kam/kam02_00.sb:91"
+  ]
+ },
+ "100": {
+  "original": "<p>Yep. The four-star Dragon Ball. My grandpa's heirloom! I tracked it down and put it on myself.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:92",
+   "sb:cf0/kam/kam02_00.sb:92"
+  ]
+ },
+ "101": {
+  "original": "<p>All right. Let's hit him with a sneak attack!<k><p>I doubt he's expecting us to find him. He probably left himself wide open!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:93",
+   "sb:cf0/kam/kam02_00.sb:93"
+  ]
+ },
+ "102": {
+  "original": "<p>Huh? But you don't know where he is... Do you?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:94",
+   "sb:cf0/kam/kam02_00.sb:94"
+  ]
+ },
+ "103": {
+  "original": "<p>Bulma! You got your Dragon Radar on you?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:95",
+   "sb:cf0/kam/kam02_00.sb:95"
+  ]
+ },
+ "104": {
+  "original": "<p>Oh! That's right! The Dragon Ball Gohan has on his hat!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:96",
+   "sb:cf0/kam/kam02_00.sb:96"
+  ]
+ },
+ "105": {
+  "original": "<p>What a shock... Finding your only blood relative, and discovering it's that guy.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:98",
+   "sb:cf0/kam/kam02_00.sb:98"
+  ]
+ },
+ "106": {
+  "original": "<p>It doesn't matter. Either way, I'm gonna make him pay.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:99",
+   "sb:cf0/kam/kam02_00.sb:99"
+  ]
+ },
+ "107": {
+  "original": "<p>W-what're we gonna do, though? Your brother's a total monster.<k><p>If you can't beat him, then I don't know if anybody can.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:100",
+   "sb:cf0/kam/kam02_00.sb:100"
+  ]
+ },
+ "108": {
+  "original": "<p>He's got that tail. That's his weak point.<k><p>If I grab him by the tail, he'll lose all his power. That's how it worked with me.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:101",
+   "sb:cf0/kam/kam02_00.sb:101"
+  ]
+ },
+ "109": {
+  "original": "<p>We'll try our best to help you. You'll need it, now that Yamcha and Tien are gone.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:102",
+   "sb:cf0/kam/kam02_00.sb:102"
+  ]
+ },
+ "110": {
+  "original": "<p>This certainly is a disaster, isn't it? Are you all right?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:103",
+   "sb:cf0/kam/kam02_00.sb:103"
+  ]
+ },
+ "111": {
+  "original": "<p>I'm glad to see you again, Goku.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:104",
+   "sb:cf0/kam/kam02_00.sb:104"
+  ]
+ },
+ "112": {
+  "original": "<p>I hope Gohan is okay...<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:105",
+   "sb:cf0/kam/kam02_00.sb:105"
+  ]
+ },
+ "113": {
+  "original": "<p>It looks like that bastard flew off to the Spinach Wastes.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:106",
+   "sb:cf0/kam/kam02_00.sb:106"
+  ]
+ },
+ "114": {
+  "original": "<p>I never imagined you'd join forces with Piccolo.<k><p>This is one fight I definitely don't want to miss!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:107",
+   "sb:cf0/kam/kam02_00.sb:107"
+  ]
+ },
+ "115": {
+  "original": "Upa",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:109",
+   "sb:cf0/kam/kam02_00.sb:109"
+  ]
+ },
+ "116": {
+  "original": "<p>You folks are amazing... Climbing up Korin Tower so many times like that.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:110",
+   "sb:cf0/kam/kam02_00.sb:110"
+  ]
+ },
+ "117": {
+  "original": "Bora",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:112",
+   "sb:cf0/kam/kam02_00.sb:112"
+  ]
+ },
+ "118": {
+  "original": "<p>Korin Tower is up ahead.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:113",
+   "sb:cf0/kam/kam02_00.sb:113"
+  ]
+ },
+ "119": {
+  "original": "Korin",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:115",
+   "sb:cf0/kam/kam02_00.sb:115"
+  ]
+ },
+ "120": {
+  "original": "<p>I need the Hermit Water that flows in the cave inside my realm. Got it?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:116",
+   "sb:cf0/kam/kam02_00.sb:116"
+  ]
+ },
+ "121": {
+  "original": "Yajirobe",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:118",
+   "sb:cf0/kam/kam02_00.sb:118"
+  ]
+ },
+ "122": {
+  "original": "<p>Huh? Oh, I'm not going. You're the ones who took the job.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:119",
+   "sb:cf0/kam/kam02_00.sb:119"
+  ]
+ },
+ "123": {
+  "original": "<p>This cannot be destroyed from this side. The other side seems looser.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:120",
+   "sb:cf0/kam/kam02_00.sb:120"
+  ]
+ },
+ "124": {
+  "original": "<p>Great... We're stuck.<k><p>I think there's another path from Goku's house, though.<k><p>Let's try going around to the east.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:121",
+   "sb:cf0/kam/kam02_00.sb:121"
+  ]
+ },
+ "125": {
+  "original": "<p>The bridge is broken.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:122",
+   "sb:cf0/kam/kam02_00.sb:122"
+  ]
+ },
+ "126": {
+  "original": "<p>Kami's training, huh? I bet it must be pretty tough.<k><p>You think Yamcha would stand a chance?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:123",
+   "sb:cf0/kam/kam02_00.sb:123"
+  ]
+ },
+ "127": {
+  "original": "<p>You can get to Kami's place via the Sacred Land of Korin. Keep on doing your best!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:124",
+   "sb:cf0/kam/kam02_00.sb:124"
+  ]
+ },
+ "128": {
+  "original": "<p>Wow! You're going to visit Kami?! Amazing!<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:125",
+   "sb:cf0/kam/kam02_00.sb:125"
+  ]
+ },
+ "129": {
+  "original": "<p>You are entering holy land. I cannot let you pass without good reason.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:126",
+   "sb:cf0/kam/kam02_00.sb:126"
+  ]
+ },
+ "130": {
+  "original": "<p>Are you headed for the southern island? Well, before you leave...<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:133"
+  ]
+ },
+ "131": {
+  "original": "<p>Let me explain to you what this mark here means.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:134"
+  ]
+ },
+ "132": {
+  "original": "<p>This is what's known as a <d>CC Point<d>.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:135"
+  ]
+ },
+ "133": {
+  "original": "<p>It's a facility put up by the Capsule Corporation.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:136"
+  ]
+ },
+ "134": {
+  "original": "<p>Try taking a look at it, okay?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:137"
+  ]
+ },
+ "135": {
+  "original": "<p>As you can see, you can put up a capsule house to rest, as well as save your progress.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:139"
+  ]
+ },
+ "136": {
+  "original": "<p>You'll also find them inside cities and dungeons, so check them out when you see them.<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:140"
+  ]
+ },
+ "137": {
+  "original": "<p>Please, you have to save our planet! I'm counting on you, okay?<k>",
+  "ids": [
+   "sb:cf0/kam/kam01_00.sb:148"
+  ]
+ },
+ "138": {
+  "original": "Mr. Popo",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:128"
+  ]
+ },
+ "139": {
+  "original": "<p>Where did Chiaotzu run off to by himself? Maybe Fortuneteller Baba would know.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:129"
+  ]
+ },
+ "140": {
+  "original": "<p>Hello! Great to see you again!<k><p>I know Kami must be working you hard, but you gotta keep trying!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:130"
+  ]
+ },
+ "141": {
+  "original": "<p>Yamcha! Wow! You still keeping up with Kami's training?<k><p>You've got, like, zero backbone, so I was kinda worried!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:131"
+  ]
+ },
+ "142": {
+  "original": "<p>Whoa! Haven't seen you in a while! Aren't you supposed to be with Kami, though?<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:132"
+  ]
+ },
+ "143": {
+  "original": "<p>Chiaotzu appears to be in Master Mutaito's training grounds. That's northeast of West City.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:133"
+  ]
+ },
+ "144": {
+  "original": "<p>That bum Chiaotzu ran off without me. How ungrateful of him!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:134"
+  ]
+ },
+ "145": {
+  "original": "<p>Those guys escaped to Pilaf's Castle.<n>After them! Hurry!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:135"
+  ]
+ },
+ "146": {
+  "original": "<p>So the <d>strong helper<d> was Goku all along! Boy, what a shot of confidence!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:136"
+  ]
+ },
+ "147": {
+  "original": "<p>The first thing is to go visit my sister, Fortuneteller Baba.<k><p>I hear she's brought along a rather strong helper for us.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:137"
+  ]
+ },
+ "148": {
+  "original": "<p>A strong helper? Who could that be? I hope you don't mean Yajirobe.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:138"
+  ]
+ },
+ "149": {
+  "original": "<p>Press the Y Button to use the Dragon Radar once you've equipped it.<k><p>The world map will automatically display the position by default.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:139"
+  ]
+ },
+ "150": {
+  "original": "Puar",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:141"
+  ]
+ },
+ "151": {
+  "original": "<p>Fortuneteller Baba's waiting!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:142"
+  ]
+ },
+ "152": {
+  "original": "<p>Good luck finding the Dragon Balls, guys!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:143"
+  ]
+ },
+ "153": {
+  "original": "<p>The dead can't just come back to this world anytime they like.<k><p>Hurry, you need to hunt down those Dragon Balls!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:145"
+  ]
+ },
+ "154": {
+  "original": "<p>Mm? Oh, it's you. You find the Dragon Balls yet?<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:146"
+  ]
+ },
+ "155": {
+  "original": "<p>Oh? A guest.<n>Can I help you with something?<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:148"
+  ]
+ },
+ "156": {
+  "original": "<p>My, it's been a while. Did you need something?<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:149"
+  ]
+ },
+ "157": {
+  "original": "<p>You sure about this? This thing's pretty dangerous, so be careful handling it.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:150"
+  ]
+ },
+ "158": {
+  "original": "<p>The Dragon Balls are scattered all over the world.<k><p>You'll need to look hard if you want a chance at finding them.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:152"
+  ]
+ },
+ "159": {
+  "original": "<p>Dragon Balls are very delicate things. Try not to break them, okay?<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:153"
+  ]
+ },
+ "160": {
+  "original": "<p>Hah! This submarine is my greatest invention yet! It can dive to the deepest depths!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:154"
+  ]
+ },
+ "161": {
+  "original": "<p>Mmm? Wonder if they needed something?<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:156"
+  ]
+ },
+ "162": {
+  "original": "<p>There's no getting through the water without a submarine. Bulma's house is in West City, right?<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:158"
+  ]
+ },
+ "163": {
+  "original": "<p>The fate of Earth rests on your shoulders! Make us proud!<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:166"
+  ]
+ },
+ "164": {
+  "original": "<p>A toilet sits here. You're good for now, thankfully.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:167"
+  ]
+ },
+ "165": {
+  "original": "<p>A large refrigerator filled with a variety of food.<k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:168"
+  ]
+ },
+ "166": {
+  "original": "<p>There's a note on the corner:<n><d>Keep the kitchen clean --Turtle<d><k>",
+  "ids": [
+   "sb:cf0/kam/kam02_00.sb:169"
+  ]
+ },
+ "167": {
+  "original": "<p>Oh, are you going somewhere?<k>",
+  "ids": [
+   "sb:cf0/kam/kam03_00.sb:59"
+  ]
+ },
+ "168": {
+  "original": "<p>What?! What the heck you lookin' at me for, huh?!<k>",
+  "ids": [
+   "sb:cf0/kam/kam03_00.sb:60"
+  ]
+ },
+ "169": {
+  "original": "<p>Sleeping on this bed might be a tad dangerous...<k>",
+  "ids": [
+   "sb:cf0/kam/kam03_00.sb:61"
+  ]
+ },
+ "170": {
+  "original": "<p>Serious-looking books serve to hide the more prurient ones lurking in the shadows.<k>",
+  "ids": [
+   "sb:cf0/kam/kam03_00.sb:62"
+  ]
+ },
+ "171": {
+  "original": "<p>Just as you suspected, there's a stack of rather scandalous books under the desk.<k>",
+  "ids": [
+   "sb:cf0/kam/kam03_00.sb:63"
+  ]
+ },
+ "172": {
+  "original": "<p>Mmm? There's something nearby...<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:14"
+  ]
+ },
+ "173": {
+  "original": "<p>Agh! Whoa whoa whoa!<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:15"
+  ]
+ },
+ "174": {
+  "original": "<p>Whew! What a surprise. Good thing they weren't too tough.<k><p>Winning battles earns you Zeni (money) and experience.<k><p>You'll also get AP, or Ability Points.<k><p>Our levels go up when we earn enough experience points...<k><p>And we can learn new skills and polish our old ones with the AP we get.<k><p>Select Skills from the menu to use your AP. Give it a shot!<k><p>The more enemies you fight, the stronger you'll get! Keep it up, and we'll be as strong as Goku!<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:16"
+  ]
+ },
+ "175": {
+  "original": "<p>There's something else near...<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:17"
+  ]
+ },
+ "176": {
+  "original": "<p>Whoah! A ghost!<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:18"
+  ]
+ },
+ "177": {
+  "original": "<p>See that flashing rock? Go up to it, and you can use a Ki-Blast to destroy it.<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:19"
+  ]
+ },
+ "178": {
+  "original": "<p>Press the B Button when it's flashing to start building up your power.<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:20"
+  ]
+ },
+ "179": {
+  "original": "<p>When your power is full, the Ki meter will light up.<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:21"
+  ]
+ },
+ "180": {
+  "original": "<p>Release the B Button, and you'll launch a Ki blast!<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:22"
+  ]
+ },
+ "181": {
+  "original": "<p>Go ahead, give it a shot!<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:23"
+  ]
+ },
+ "182": {
+  "original": "<p>That felt good, huh? You can use Ki blasts to break the obstacles in your way.<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:24"
+  ]
+ },
+ "183": {
+  "original": "<p>Hold on! I haven't finished talking yet.<k>",
+  "ids": [
+   "sb:cf0/tut/tut01_00.sb:25"
+  ]
+ },
+ "184": {
+  "original": "<p>Hey, it's me! How're you guys doing? Hope you're hanging in there!<k><p>Listen, I think Mr. Popo wants to have a word with all of you.<k><p>Go pay him a visit when you can, okay? See you later!<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:35",
+   "sb:cf1/c00/c0000_99.sb:15"
+  ]
+ },
+ "185": {
+  "original": "<p>Mr. Popo? Now what could he want?<k><p>Ah, well, guess I'll go drop in on him.<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:38",
+   "sb:cf1/c00/c0000_99.sb:18"
+  ]
+ },
+ "186": {
+  "original": "All Dragon Balls collected!",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:40",
+   "sb:cf1/c00/c0000_99.sb:20"
+  ]
+ },
+ "187": {
+  "original": "<p>Hey, it's me! I forgot to give you my capsule, so I left it in there for you.<k><p>Use them in cities or dungeons, and you'll find useful items inside.<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:45"
+  ]
+ },
+ "188": {
+  "original": "<p>Now you got it! That gas is no problem now, huh?<k><p><d>Standby<d> refers to how effective the item is when not placed in the topmost slot.<k><p>For example, the <c=#8BEFD4>Gas Mask<c> only boosts your Poison resistance half as much when used on standby.<k><p>There are lots of other helpful items, so be sure to try 'em out whenever you find a new one.<k><p>See you later!<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:46"
+  ]
+ },
+ "189": {
+  "original": "<p>Wait, wait! Open up that treasure chest.<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:47"
+  ]
+ },
+ "190": {
+  "original": "<p>Hold it! Try equipping the <c=#8BEFD4>Gas Mask<c> and walking through the gas for a bit!<k><p>Select <d>Capsule<d> off the menu to equip your capsules!<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:48"
+  ]
+ },
+ "191": {
+  "original": "<p>See the gas cloud up ahead? Walking through that would normally hurt you...<k><p>But use a capsule on the bottom screen and select <c=#8BEFD4>Gas Mask<c>, and it'll be no problem.<k><p>Try walking in there a little and see for yourself.<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:49"
+  ]
+ },
+ "192": {
+  "original": "<p>No, that's not it! Equip the <c=#8BEFD4>Gas Mask<c> up top, in the red slot!<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:50"
+  ]
+ },
+ "193": {
+  "original": "<p>No, no, no! You gotta equip the <c=#8BEFD4>Gas Mask<c>, or else you'll be killed!<k><p>Select Capsule off the menu to equip items.<k>",
+  "ids": [
+   "sb:cf0/tut/tut02_00.sb:51"
+  ]
+ },
+ "194": {
+  "original": "Shenron",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:23"
+  ]
+ },
+ "195": {
+  "original": "<p>I will grant you a single wish. What do you desire?<k>",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:24"
+  ]
+ },
+ "196": {
+  "original": "Lots of experience points",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:25"
+  ]
+ },
+ "197": {
+  "original": "Tons of AP",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:26"
+  ]
+ },
+ "198": {
+  "original": "Make me filthy rich",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:27"
+  ]
+ },
+ "199": {
+  "original": "A really awesome item",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:28"
+  ]
+ },
+ "200": {
+  "original": "To go somewhere new",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:29"
+  ]
+ },
+ "201": {
+  "original": "To fight the ultimate enemy",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:30"
+  ]
+ },
+ "202": {
+  "original": "<p>Your wish is granted. Farewell.<k>",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:31"
+  ]
+ },
+ "203": {
+  "original": "<p>Very well. Allow me to raise your experience.<k>",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:33"
+  ]
+ },
+ "204": {
+  "original": "Obtained <c=#8BEFD4>experience<c>!",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:34"
+  ]
+ },
+ "205": {
+  "original": "<p>Very well. I shall grant you the power to enhance your skills.<k>",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:35"
+  ]
+ },
+ "206": {
+  "original": "Obtained <c=#8BEFD4>AP<c>!",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:36"
+  ]
+ },
+ "207": {
+  "original": "<p>Very well. I shall grant you vast riches.<k>",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:37"
+  ]
+ },
+ "208": {
+  "original": "Obtained <c=#8BEFD4>Zeni<c>!",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:38"
+  ]
+ },
+ "209": {
+  "original": "<p>Very well. I shall grant you this.<k>",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:39"
+  ]
+ },
+ "210": {
+  "original": "<p>At the location of the dragon-shaped rock, I have opened a portal to another dimension.<k><p>Cross it, and you will fight an enemy whose strength is beyond anything you have encountered.<k>",
+  "ids": [
+   "sb:cf1/c00/c0000_99.sb:40"
+  ]
+ },
+ "211": {
+  "original": "<p>Come on, everyone!<n>Master Roshi's waiting for you!<k><p>We're done packing the food and everything! Get down out of there and let's get moving!<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:10"
+  ]
+ },
+ "212": {
+  "original": "<p>...Zzz.<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:12"
+  ]
+ },
+ "213": {
+  "original": "Yamcha",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:13",
+   "sb:cf1/c00/c0002_00.sb:20",
+   "sb:cf1/c00/c0002_02.sb:15"
+  ]
+ },
+ "214": {
+  "original": "<p>Snoorrrre...<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:14"
+  ]
+ },
+ "215": {
+  "original": "<p>Zzz... Goku... thanks for reviving me...<k><p>At the next World Martial Arts Tournament... I swear I'm gonna... zzz...<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:16"
+  ]
+ },
+ "216": {
+  "original": "<p>Krillin! Helloooo?<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:17"
+  ]
+ },
+ "217": {
+  "original": "<p>......<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:19",
+   "sb:cf1/c00/c0002_00.sb:24",
+   "sb:cf1/c00/c0002_02.sb:19",
+   "sb:cf1/c01/c0103_00.sb:15",
+   "sb:cf1/c01/c0103_01.sb:17"
+  ]
+ },
+ "218": {
+  "original": "<p>...!!!<n>Oh! Hey, Launch!<n>Good morning!<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:20"
+  ]
+ },
+ "219": {
+  "original": "<p>Ahh... ahhh... ahhhh-choooo!!<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:21"
+  ]
+ },
+ "220": {
+  "original": "<p>Brrr! Sure is a cold one today, huh?<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:22"
+  ]
+ },
+ "221": {
+  "original": "<p>Yeah... it certainly...<n>ahh... ahhhhh...<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:23"
+  ]
+ },
+ "222": {
+  "original": "<p>!!!<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:24"
+  ]
+ },
+ "223": {
+  "original": "<p>Ahh-chooo!!!!!<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:25"
+  ]
+ },
+ "224": {
+  "original": "<p>Listen up, you freaks! How much longer you gonna be sleeping, huh?!<k><p>You wanna keep the turtle hermit waitin' all day?! Get your lazy butts outta bed NOW!<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:26"
+  ]
+ },
+ "225": {
+  "original": "<p>Y-yeah... sure...<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_00.sb:27"
+  ]
+ },
+ "226": {
+  "original": "<p>Long ago, deep in the mountains, thousands of miles away from any city...<k><p>It is here where our amazing, astounding, and altogether astonishing story begins.<k><p>After his ferocious battle against King Piccolo, Goku met with Kami...<k><p>Together, they successfully resurrected Shenron, the eternal dragon.<k><p>He revived all of his friends who had lost their lives against King Piccolo.<k><p>With that task done, Goku dedicated himself to training under Kami's watchful eye...<k>",
+  "ids": [
+   "sb:cf1/c00/c0001_99.sb:9"
+  ]
+ },
+ "227": {
+  "original": "<p>Ho ho ho!<n>Glad to see you all here!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:10"
+  ]
+ },
+ "228": {
+  "original": "<p>...So what's the deal, anyway? What'd you wake us up so early for?<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:13"
+  ]
+ },
+ "229": {
+  "original": "<p>Well, I thought I'd give you your final exam before you graduated from my training!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:14"
+  ]
+ },
+ "230": {
+  "original": "<p>The final exam?!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:17"
+  ]
+ },
+ "231": {
+  "original": "<p>Yes... indeed.<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:18"
+  ]
+ },
+ "232": {
+  "original": "<p>You say that, Master, but we're still so inexperienced...<k><p>There's so much more for us to learn from you!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:21"
+  ]
+ },
+ "233": {
+  "original": "<p>Oh, don't be silly...<k><p>All of you are far more powerful than me by now. That much is plain to see!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:22"
+  ]
+ },
+ "234": {
+  "original": "<p>Thus, the training I am about to assign will likely be the last you undertake under my watch.<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:23"
+  ]
+ },
+ "235": {
+  "original": "<p>...So, what would you like us to do, Master?<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:25"
+  ]
+ },
+ "236": {
+  "original": "<p>South of here, you'll find a small island...<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:26"
+  ]
+ },
+ "237": {
+  "original": "<p>Oh! You mean the place where you had me and Goku make those milk deliveries?<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:27"
+  ]
+ },
+ "238": {
+  "original": "<p>Yep!<k><p>There's a cave on that island, and deep inside you should find a little crystal ball!<k><p>Your mission is to find that crystal ball and bring it back here!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:28"
+  ]
+ },
+ "239": {
+  "original": "<p>Y-yes, Master!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:29"
+  ]
+ },
+ "240": {
+  "original": "<p>...Of course, I'm not going to be cruel to you.<k><p>You'll find a few useful items in all of your inventories, free of charge!<k><p>Press the Start Button and pick an item type to use during battles!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_00.sb:30"
+  ]
+ },
+ "241": {
+  "original": "Jackie Chun",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:9",
+   "sb:cf1/c00/c0002_02.sb:9"
+  ]
+ },
+ "242": {
+  "original": "<p>Ho ho ho! There's three of you against me...<k><p>Go ahead, take me on all at once!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:10"
+  ]
+ },
+ "243": {
+  "original": "<p>Hmm? What's the matter?<k><p>You can't beat me without using your special moves and the Active Guard!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:12"
+  ]
+ },
+ "244": {
+  "original": "<p>Nnngh... not bad...<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:14"
+  ]
+ },
+ "245": {
+  "original": "<p>Whoa!<k><p>Hey! You guys need to be kinder to the elderly!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:15"
+  ]
+ },
+ "246": {
+  "original": "<p>Hey, look! Isn't this the crystal ball Master Roshi was talking about?!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:25"
+  ]
+ },
+ "247": {
+  "original": "<p>Who are you?<n>Who dares trespass in this sacred cave?<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:27"
+  ]
+ },
+ "248": {
+  "original": "<p>!!!<n>Who're YOU, huh?! Lemme see your face!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:28"
+  ]
+ },
+ "249": {
+  "original": "<p>How dare you attempt to make off with the cave's treasure! Do you want to die?!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:29"
+  ]
+ },
+ "250": {
+  "original": "<p>You! You're Jackie Chun!!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:30"
+  ]
+ },
+ "251": {
+  "original": "<p>...?!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:33"
+  ]
+ },
+ "252": {
+  "original": "<p>Ahhh... if it isn't the kids from the tournament! What're you doing here?!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:34"
+  ]
+ },
+ "253": {
+  "original": "<p>We're here on orders from Master Roshi to bring back this crystal ball.<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:35"
+  ]
+ },
+ "254": {
+  "original": "<p>Well, well... That hermit, eh?<k><p>Then let me test you to see if you're worthy of the crystal ball!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_01.sb:36"
+  ]
+ },
+ "255": {
+  "original": "<p>Heh heh heh!<n>You are most certainly talented enough, yes!<k><p>What a joy it was to have a match with you!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_02.sb:10"
+  ]
+ },
+ "256": {
+  "original": "<p>Hey! Wait a sec!<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_02.sb:13"
+  ]
+ },
+ "257": {
+  "original": "<p>Say... you don't think Jackie Chun might be...<k>",
+  "ids": [
+   "sb:cf1/c00/c0002_02.sb:16"
+  ]
+ },
+ "258": {
+  "original": "<p>(Owww... Man, they didn't go easy on me at all... They've really become strong...)<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:10"
+  ]
+ },
+ "259": {
+  "original": "<p>Master Roshi! We're back with the crystal ball!<k><p>...Huh? Hey, what happened to you?<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:13"
+  ]
+ },
+ "260": {
+  "original": "<p>Oh, this...? I just had a bit of an intense training session. You're, uh, back early!<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:15"
+  ]
+ },
+ "261": {
+  "original": "<p>Yes... this most certainly is the fortune teller's crystal ball I left on the island!<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:16"
+  ]
+ },
+ "262": {
+  "original": "<p>...fortune teller?<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:19"
+  ]
+ },
+ "263": {
+  "original": "<p>Yep! My sister Baba gave this to me way back when...<k><p>But once I decided to live here, I haven't had a single reason to use it!<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:20"
+  ]
+ },
+ "264": {
+  "original": "<p>What did you use it for, Master?<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:21"
+  ]
+ },
+ "265": {
+  "original": "<p>This? Well, when I'm at a loss and I'm not sure what to do next...<k><p>I peer into this crystal ball and find out! Pretty amazing, huh?<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:22"
+  ]
+ },
+ "266": {
+  "original": "<p>I figured it would come in handy as you continue your training...<k><p>So it's all yours now. Go ahead, take it.<k>",
+  "ids": [
+   "sb:cf1/c00/c0003_00.sb:23"
+  ]
+ },
+ "267": {
+  "original": "<p>I'll sure miss you guys, but if you're going to grow as martial artists...<k><p>You need to go out and see the world for yourselves!<k><p>Each of you will have to train on your own, reaching for ever greater heights!<k>",
+  "ids": [
+   "sb:cf1/c00/c0004_00.sb:10"
+  ]
+ },
+ "268": {
+  "original": "<p>Yes, Master! I promise I'll return!<k>",
+  "ids": [
+   "sb:cf1/c00/c0004_00.sb:13"
+  ]
+ },
+ "269": {
+  "original": "<p>I can't wait to see you all at the next World Martial Arts Tournament!<k>",
+  "ids": [
+   "sb:cf1/c00/c0004_00.sb:14"
+  ]
+ },
+ "270": {
+  "original": "<p>East City, huh...? Sure brings back memories... I think I'll go check out the Temple.<k>",
+  "ids": [
+   "sb:cf1/c01/c0101_00.sb:10"
+  ]
+ },
+ "271": {
+  "original": "<p>Wait a sec...<k>",
+  "ids": [
+   "sb:cf1/c01/c0101_00.sb:11"
+  ]
+ },
+ "272": {
+  "original": "<p>I guess we were kind of rough on my old training partners at the last tournament, huh?<k>",
+  "ids": [
+   "sb:cf1/c01/c0101_00.sb:12"
+  ]
+ },
+ "273": {
+  "original": "<p>Oh, well... I'm sure they've forgiven me by now! Let's see what they're up to!<k>",
+  "ids": [
+   "sb:cf1/c01/c0101_00.sb:13"
+  ]
+ },
+ "274": {
+  "original": "<p>!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:10"
+  ]
+ },
+ "275": {
+  "original": "<p>Master!<n>What on earth happened here?!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:11"
+  ]
+ },
+ "276": {
+  "original": "Master",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:12",
+   "sb:cf1/c01/c0103_01.sb:11"
+  ]
+ },
+ "277": {
+  "original": "<p>Errr... ghhh...<n>Who are you...?<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:13"
+  ]
+ },
+ "278": {
+  "original": "<p>It's me, Master! Krillin!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:14"
+  ]
+ },
+ "279": {
+  "original": "<p>Oh... ohhhh! Weren't you training under Master Roshi?<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:15"
+  ]
+ },
+ "280": {
+  "original": "<p>Y-yes, Master! Now I'm on a journey to test the skills I've learned.<k><p>I stopped by to say hello for the first time in a while...<k><p>But what happened, Master?<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:16"
+  ]
+ },
+ "281": {
+  "original": "<p>K-koff...<k><p>A warrior appeared out of nowhere...<k><p>I heard a voice say <d>I'm taking your dojo down!<d>, and the next thing I knew, this happened!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:17"
+  ]
+ },
+ "282": {
+  "original": "<p>...T-take your dojo down?!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:18"
+  ]
+ },
+ "283": {
+  "original": "<p>Y-yes... As you know, our temple has a distaste for needless battle...<k><p>Your fellow students refused to fight him without any good reason, at first...<k><p>But look at what's happened to us!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:19"
+  ]
+ },
+ "284": {
+  "original": "<p>Oof!<n>This is terrible...<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:20"
+  ]
+ },
+ "285": {
+  "original": "<p>Master! Where did the fighter run off to?<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:21"
+  ]
+ },
+ "286": {
+  "original": "<p>...Krillin, have you gone mad?!<k><p>Y-you aren't actually thinking about pursuing the fighter, are you?<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:22"
+  ]
+ },
+ "287": {
+  "original": "<p>I sure am! I'm gonna track 'em down and get your revenge, Master!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:24"
+  ]
+ },
+ "288": {
+  "original": "<p>S-stop saying that! You see what happened to my students...<k><p>If you faced that fiend all by yourself... Koff koff koff!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:25"
+  ]
+ },
+ "289": {
+  "original": "<p>I'm not the fighter I used to be, Master!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:26"
+  ]
+ },
+ "290": {
+  "original": "<p>No...? Well, if you insist upon it, I'm not going to stop you.<k><p>The scoundrel disappeared into the bamboo thicket up ahead...<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:27"
+  ]
+ },
+ "291": {
+  "original": "<p>...But please be careful! Don't let the fighter's appearance fool you...<k><p>Nothing is as it seems...<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:28"
+  ]
+ },
+ "292": {
+  "original": "<p>Master... you have nothing to worry about.<k><p>By the honor of Orin Temple, I swear I will defeat this attacker!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_00.sb:29"
+  ]
+ },
+ "293": {
+  "original": "<p>W-wait!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:11"
+  ]
+ },
+ "294": {
+  "original": "Paopao",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:12",
+   "sb:cf1/c01/c0103_00.sb:11"
+  ]
+ },
+ "295": {
+  "original": "<p>Nnnngh! You not know when to quit! I hate people who not know when to quit!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:13"
+  ]
+ },
+ "296": {
+  "original": "<p>A, a woman?!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:14"
+  ]
+ },
+ "297": {
+  "original": "<p>Eeeee! What is so wrong about being a woman?<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:15"
+  ]
+ },
+ "298": {
+  "original": "<p>Did you really attack Orin Temple?!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:16"
+  ]
+ },
+ "299": {
+  "original": "<p>Maybe I did, maybe I didn't! What you do if I did, huh?<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:17"
+  ]
+ },
+ "300": {
+  "original": "<p>...Well, what do you think?! I'll uphold the honor of Orin...<k><p>And defeat you where you stand!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:18"
+  ]
+ },
+ "301": {
+  "original": "<p>I bet you would!<k><p>If people find out I destroyed Orin, you never live down the shame...<k><p>You fighters are not good as you say you are...<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:19"
+  ]
+ },
+ "302": {
+  "original": "<p>Why, you...!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:20"
+  ]
+ },
+ "303": {
+  "original": "<p>Hee hee! So you want to hit woman, huh?<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:21"
+  ]
+ },
+ "304": {
+  "original": "<p>I... ugh...<n>I guess I shouldn't...<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:22"
+  ]
+ },
+ "305": {
+  "original": "<p>Ha ha! Gotcha! You Orin people so easy to manipulate!<k><p>Here I come!<n>Ai-yahh!!<k>",
+  "ids": [
+   "sb:cf1/c01/c0102_01.sb:23"
+  ]
+ },
+ "306": {
+  "original": "<p>...What's wrong?<n>Done already?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:10"
+  ]
+ },
+ "307": {
+  "original": "<p>I... I sorry! I surrender...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:12"
+  ]
+ },
+ "308": {
+  "original": "<p>All right... get up.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:13"
+  ]
+ },
+ "309": {
+  "original": "<p>...You a kind man. You going easy on me, too...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:14"
+  ]
+ },
+ "310": {
+  "original": "<p>Why you do that?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:16"
+  ]
+ },
+ "311": {
+  "original": "<p>I couldn't go all-out on a woman... But why did you attack our dojo in the first place?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:17"
+  ]
+ },
+ "312": {
+  "original": "<p>............<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:18"
+  ]
+ },
+ "313": {
+  "original": "<p>Well, if you don't wanna say why, you don't have to, but...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:19"
+  ]
+ },
+ "314": {
+  "original": "<p>...I want people to recognize me.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:20"
+  ]
+ },
+ "315": {
+  "original": "<p>?!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:21"
+  ]
+ },
+ "316": {
+  "original": "<p>I have sister...<k><p>She beautiful, and a talented fighter too. She not have my accent, either.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:22"
+  ]
+ },
+ "317": {
+  "original": "<p>Ever since I young, people always compare me to her... I hate it.<k><p>My father only care about her... She so much better than me.<k><p>So I run away from home, because I show her one day.<k><p>I thought my dad would recognize me if I polish my skills and beat my sister's strength.<k><p>But no good... There so many people out there stronger than me.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:23"
+  ]
+ },
+ "318": {
+  "original": "<p>Oh...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:24"
+  ]
+ },
+ "319": {
+  "original": "<p>You so strong, you probably not understand how I feel...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:25"
+  ]
+ },
+ "320": {
+  "original": "<p>Oh, no, I totally do.<k><p>My fellow students always used to pick on me for being a wimp, so...<k><p>I wound up leaving Orin Temple because I couldn't stand it anymore.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:26"
+  ]
+ },
+ "321": {
+  "original": "<p>...Really?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:27"
+  ]
+ },
+ "322": {
+  "original": "<p>Uh-huh. I poured that shame into my training, and that's what made me grow!<k><p>Of course, I've still got a while to go, but...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:28"
+  ]
+ },
+ "323": {
+  "original": "<p>So I think I understand where you're coming from, okay?<k><p>You could've picked a better method to prove yourself with, though...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:29"
+  ]
+ },
+ "324": {
+  "original": "<p>Anyway, let's get out of this forest! You're gonna keep training, right?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:30"
+  ]
+ },
+ "325": {
+  "original": "<p>...You forgive me?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:31"
+  ]
+ },
+ "326": {
+  "original": "<p>Once you get stronger, let's have a rematch!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:32"
+  ]
+ },
+ "327": {
+  "original": "<p>......Okay, boy!<k><p>I gonna get you back for this next time!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:33"
+  ]
+ },
+ "328": {
+  "original": "<p>...I gonna get stronger than ever!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:34"
+  ]
+ },
+ "329": {
+  "original": "<p>Heh heh... I guess I better get home myself.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_00.sb:35"
+  ]
+ },
+ "330": {
+  "original": "<p>Master!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:10"
+  ]
+ },
+ "331": {
+  "original": "<p>Oh! Krillin...!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:12"
+  ]
+ },
+ "332": {
+  "original": "<p>I got this back for you!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:13"
+  ]
+ },
+ "333": {
+  "original": "<p>Orin Temple's sign! Y-you couldn't have...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:14"
+  ]
+ },
+ "334": {
+  "original": "<p>Heh heh heh...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:15"
+  ]
+ },
+ "335": {
+  "original": "<p>So you really did it...<k><p>You used to be such a wimp, but look how you've grown...<k><p>Master Roshi's training has been a tremendous experience for you, no doubt...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:16"
+  ]
+ },
+ "336": {
+  "original": "<p>I guess Orin Temple wasn't good enough to take advantage of your talents...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:18"
+  ]
+ },
+ "337": {
+  "original": "<p>Oh, no! Not at all, Master!<k><p>I couldn't have handled Master Roshi's training without the time I spent here in Orin!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:19"
+  ]
+ },
+ "338": {
+  "original": "<p>...Ho ho ho! Ah, what a splendid fighter you've become.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:20"
+  ]
+ },
+ "339": {
+  "original": "<p>Well, I should probably get going... It was wonderful to see you again, Master.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:21"
+  ]
+ },
+ "340": {
+  "original": "<p>...Now, now, there's no need to be in such a hurry!<k><p>You haven't visited Orin in ages! Why not stay the night? I'm sure you have all kinds of stories.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:22"
+  ]
+ },
+ "341": {
+  "original": "<p>Y-yes... well...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:23"
+  ]
+ },
+ "342": {
+  "original": "<p>Worried about your old bullies, aren't you?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:24"
+  ]
+ },
+ "343": {
+  "original": "<p>N-no, but...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:25"
+  ]
+ },
+ "344": {
+  "original": "<p>Well, it's settled then!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:26"
+  ]
+ },
+ "345": {
+  "original": "Pupil A",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:27"
+  ]
+ },
+ "346": {
+  "original": "<p>You're leaving already?!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:28"
+  ]
+ },
+ "347": {
+  "original": "Pupil B",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:29"
+  ]
+ },
+ "348": {
+  "original": "<p>Man, I could hardly recognize you!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:30"
+  ]
+ },
+ "349": {
+  "original": "Pupil C",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:31"
+  ]
+ },
+ "350": {
+  "original": "<p>Hey, teach me some Turtle skills next time you come back!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:32"
+  ]
+ },
+ "351": {
+  "original": "Pupil D",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:33"
+  ]
+ },
+ "352": {
+  "original": "<p>Just you wait! I'm gonna be way stronger than you next time we meet!<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:34"
+  ]
+ },
+ "353": {
+  "original": "<p>...Are you really leaving?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:35"
+  ]
+ },
+ "354": {
+  "original": "<p>Yes, Master...<k><p>There are countless people out there stronger than myself.<k><p>If I can challenge them to battle, I'm sure it will help me grow as a fighter.<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:36"
+  ]
+ },
+ "355": {
+  "original": "<p>I will miss you...<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:37"
+  ]
+ },
+ "356": {
+  "original": "<p>Master!<k><p>Once I'm stronger, I promise I'll come back to visit!<k><p>See you then, all right?<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:38"
+  ]
+ },
+ "357": {
+  "original": "<p>(Just you wait, Goku!)<k><p>(I'm gonna grow, and grow... and someday, I just know I'm gonna beat you!)<k>",
+  "ids": [
+   "sb:cf1/c01/c0103_01.sb:40"
+  ]
+ }
+}
